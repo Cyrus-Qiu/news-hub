@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T21:46:56.254Z",
+  "updatedAt": "2026-07-20T23:09:10.626Z",
   "sources": [
     {
       "name": "人民网",
@@ -29,6 +29,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "1d60b6bf2647",
+      "title": "俄外交部宣布对等驱逐意大利驻俄武官",
+      "summary": "中新社莫斯科7月20日电 俄罗斯外交部20日召见意大利驻俄临时代办，就意方此前“无理”驱逐俄罗斯驻意大使馆一名武官和一名助理武官提出抗议，并宣布对等驱逐意大利驻俄大使馆一名武官和一名助理武官。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663265.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T22:51:47.000Z"
+    },
+    {
       "id": "f5849f6182d4",
       "title": "Australia news live: Barnaby Joyce dogged by Tommy Robinson questions – and by a dog – in spiky ABC interview",
       "summary": "<p>One Nation MP grilled in 7.30 interview about Pauline Hanson’s podcast interview by far-right activist. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sf",
@@ -36,17 +46,57 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-20T21:38:53.000Z"
+      "publishedAt": "2026-07-20T22:51:11.000Z"
     },
     {
-      "id": "6d4bba00b4ca",
-      "title": "Nicaragua’s president says country will not hold any more elections",
-      "summary": "<p>Daniel Ortega, the 80-year-old authoritarian leader, says move will ‘build a wall’ against the opposition</p><p>Nicaragua’s long-serving president, Daniel Ortega, has said the country will hold no further elections to",
-      "url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
+      "id": "8834a578b88c",
+      "title": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
+      "summary": "<p>New report denounces Havana and claims ‘campaign of subversion’ has infiltrated highest levels of US government</p><p>As part of the Trump administration’s continuing attack on left-leaning groups, the US state depart",
+      "url": "https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-20T21:36:47.000Z"
+      "publishedAt": "2026-07-20T22:50:46.000Z"
+    },
+    {
+      "id": "b7cc24843e1b",
+      "title": "美国将对加拿大特定商品加征50%关税",
+      "summary": "中新网7月21日电 综合美联社、英国《金融时报》报道，美国总统特朗普20日宣布，对加拿大特定商品加征50%关税，这一措施将于30天后生效。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663264.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T22:50:17.000Z"
+    },
+    {
+      "id": "34bb5fbcad75",
+      "title": "US military launches further strikes on Iran after Trump says Tehran ‘will pay’ for killing soldiers – Middle East crisis live",
+      "summary": "<p>US Central Command says latest attack aimed at degrading Iranian military capabilities after president threatens country over deaths of US troops</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/20/us",
+      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T22:49:04.000Z"
+    },
+    {
+      "id": "08ab2ac8c965",
+      "title": "一油化船在霍尔木兹海峡附近遭袭",
+      "summary": "一名海员20日晚提供的霍尔木兹海峡附近船舶无线电公共频道录音显示，一艘油化船在该海峡附近遭袭，燃油舱起火，船体冒出大量浓烟，船员已准备弃船。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663263.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T22:48:33.000Z"
+    },
+    {
+      "id": "e26c1b7f4cf0",
+      "title": "英国首相伯纳姆组建新内阁 米利班德出任外交大臣",
+      "summary": "中新社伦敦7月20日电 (记者 欧阳开宇)英国首相安迪·伯纳姆办公室当地时间7月20日发布官方公告，公布新一届工党政府内阁人事任命，标志英国新政府执政团队初步组建完成。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663262.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T22:40:28.000Z"
     },
     {
       "id": "8a12c2f33eec",
@@ -56,17 +106,37 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-20T21:30:41.000Z"
+      "publishedAt": "2026-07-20T22:27:04.000Z"
     },
     {
-      "id": "34bb5fbcad75",
-      "title": "US military launches further strikes on Iran after Trump says Tehran ‘will pay’ for killing soldiers – Middle East crisis live",
-      "summary": "<p>US Central Command says latest attack aimed at degrading Iranian military capabilities after president threatens country over deaths of US troops </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/20/u",
-      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+      "id": "ea52c670db11",
+      "title": "美军连续第10天对伊朗发动军事打击",
+      "summary": "中新网7月21日电 美军中央司令部20日在社交媒体发布消息说，按照美国总统特朗普指示，美军于美国东部时间20日16时(北京时间21日4时)对伊朗发动新一轮打击。此次打击旨在进一步削弱伊朗袭击霍尔木兹海峡商船的军事能力。这是自11日以来美军对伊朗连续第10天发动军事打击。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663261.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T22:26:58.000Z"
+    },
+    {
+      "id": "75d3bf87f28e",
+      "title": "美国纽约一联邦大楼外发生纵火案 致三人受伤",
+      "summary": "中新社纽约7月20日电 (记者 王帆)美国纽约市一栋联邦大楼外20日发生一起纵火案，造成三人受伤。执法部门表示，该事件疑似与抗议美国移民政策有关，目前嫌疑人已被逮捕。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663260.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T22:21:59.000Z"
+    },
+    {
+      "id": "6d4bba00b4ca",
+      "title": "Nicaragua’s president says country will not hold any more elections",
+      "summary": "<p>Daniel Ortega, the 80-year-old authoritarian leader, says move will ‘build a wall’ against the opposition </p><p>Nicaragua’s long-serving president, Daniel Ortega, has said the country will hold no further elections t",
+      "url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-20T21:28:59.000Z"
+      "publishedAt": "2026-07-20T21:36:47.000Z"
     },
     {
       "id": "9e33bcf7ff64",
@@ -81,7 +151,7 @@
     {
       "id": "56ffcc526076",
       "title": "‘One in 15 million’: Brisbane woman gives birth to identical quadruplets",
-      "summary": "<p>Jenitar Na’amoana’s already had four children when she learned of surprise pregnancy ‘unheard of’ in Australia</p><ul><li><p><strong>Get our </strong><a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl",
+      "summary": "<p>Jenitar Na’amoana’s already had four children when she learned of surprise pregnancy ‘unheard of’ in Australia</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-bar",
       "url": "https://www.theguardian.com/australia-news/2026/jul/20/one-in-15-million-brisbane-woman-gives-birth-to-identical-quadruplets",
       "source": "The Guardian World",
       "category": "国际",
@@ -221,7 +291,7 @@
     {
       "id": "519a9db03474",
       "title": "Australian ski resorts smash July climate records with temperatures 12C above average",
-      "summary": "<p>Resorts in New South Wales and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areas</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletter",
+      "summary": "<p>Resorts in New South Wales and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areas</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026",
       "url": "https://www.theguardian.com/australia-news/2026/jul/21/australian-ski-resorts-smash-july-climate-records-with-temperatures-12c-above-average",
       "source": "The Guardian World",
       "category": "国际",
@@ -231,7 +301,7 @@
     {
       "id": "b58c495295c6",
       "title": "Manufacturing union says Australia’s tax system is ‘rigged’ in bold manifesto ahead of Labor conference",
-      "summary": "<p>AMWU calls for wealth and inheritance taxes, free education and more revenue from gas companies as it outlines ‘working-class agenda’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cv",
+      "summary": "<p>AMWU calls for wealth and inheritance taxes, free education and more revenue from gas companies as it outlines ‘working-class agenda’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/21/",
       "url": "https://www.theguardian.com/australia-news/2026/jul/21/manufacturing-union-says-australias-tax-system-is-rigged-in-bold-manifesto-ahead-of-labor-conference",
       "source": "The Guardian World",
       "category": "国际",
@@ -449,66 +519,6 @@
       "publishedAt": "2026-07-20T14:04:04.000Z"
     },
     {
-      "id": "87dc9b7c0555",
-      "title": "香港与老挝签署谅解备忘录 推动黄金市场和金融服务合作",
-      "summary": "中新社香港7月20日电 据香港特区政府新闻处消息，当地时间20日，香港特区政府财经事务及库务局(简称“香港财库局”)局长许正宇在老挝万象与老挝副总理兼财政部部长山迪帕·丰威汉签署谅解备忘录，推动两地黄金市场与金融服务合作。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/07-20/10663241.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:02:22.000Z"
-    },
-    {
-      "id": "a542c239ec27",
-      "title": "“塌方式”腐败！这个局局长、副局长、总工、处长、调研员全被查……“5.22”矿难追责持续",
-      "summary": "7月20日，据中央纪委国家监委驻应急管理部纪检监察组、山西省纪委监委消息，国家矿山安全监察局山西局两名局领导同日被查：党组成员、总工程师、二级巡视员李忠有和党组成员、副局长张成智，均涉嫌严重违纪违法，目前正接受中央纪委国家监委驻应急管理部纪检监察组纪律审查和山西省监察委员会监察调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663247.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:00:50.000Z"
-    },
-    {
-      "id": "afdc2cc3df7d",
-      "title": "海南：全省连续三天集中夜查消防安全",
-      "summary": "中新网海口7月20日电 (钟坚)海南省消防救援总队20日发布消息称，为进一步强化电动自行车“进楼入户”防范和畅通消防通道治理，7月20日晚起，海南消防救援机构联合相关部门将在全省范围内集中组织开展为期3天的消防安全夜查行动。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663206.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T13:59:49.000Z"
-    },
-    {
-      "id": "eb1f78833179",
-      "title": "画面公开！菲方围顶冲撞中方巡逻艇 首先用划桨、长棍等工具恶意攻击中方执法人员 中国海警发声",
-      "summary": "画面公开！菲方围顶冲撞中方巡逻艇 首先用划桨、长棍等工具恶意攻击中方执法人员 中国海警发声",
-      "url": "http://www.chinanews.com.cn/shipin/2026/07-20/news1062715.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T13:58:32.000Z"
-    },
-    {
-      "id": "afef49c74731",
-      "title": "以琴为媒 两岸口琴演奏家同台演绎“海峡乐声”",
-      "summary": "中新社福建宁德7月20日电 (记者 叶茂)“山海回响·两岸和声”第二届海峡两岸(蕉城)口琴文化周20日晚在福建省宁德市蕉城区开幕，来自两岸口琴乐团的音乐人和其他文艺界代表齐聚一堂，以琴为媒、以乐会友。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10663243.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T13:58:11.000Z"
-    },
-    {
-      "id": "8c36ca0b0d64",
-      "title": "从夯实底座到深化应用 浙江加快推进开源体系建设",
-      "summary": "中新网杭州7月20日电(蓝伊旎)据浙江省经信厅20日消息，经浙江省政府同意，浙江省经信厅等7部门印发的《关于加快推进浙江省开源体系建设的实施意见》(下称《意见》)即日起正式实施。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663205.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T13:58:03.000Z"
-    },
-    {
       "id": "3e3fe148c731",
       "title": "泰特兄弟在美被捕 在英遭起訴59項性罪行 曾高調訪港",
       "summary": "英國皇家檢控署表示，已要求將他們從美國引渡回國，而他們的律師則表示兩人是清白的。",
@@ -597,16 +607,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-20T07:02:58.000Z"
-    },
-    {
-      "id": "b6f4665c89d1",
-      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
-      "summary": "<p>The Guardian goes on the ground with Brazilian forces fighting to eradicate mining that has destroyed protected areas of Indigenous land</p><p>The jerry-built bordello at the foot of Vila Cururu, an illegal gold-minin",
-      "url": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-20T05:00:47.000Z"
     },
     {
       "id": "2cc1f8a049c9",
