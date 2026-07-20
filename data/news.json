@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T20:35:51.480Z",
+  "updatedAt": "2026-07-20T21:46:56.254Z",
   "sources": [
     {
       "name": "人民网",
@@ -29,6 +29,36 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "f5849f6182d4",
+      "title": "Australia news live: Barnaby Joyce dogged by Tommy Robinson questions – and by a dog – in spiky ABC interview",
+      "summary": "<p>One Nation MP grilled in 7.30 interview about Pauline Hanson’s podcast interview by far-right activist. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sf",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T21:38:53.000Z"
+    },
+    {
+      "id": "6d4bba00b4ca",
+      "title": "Nicaragua’s president says country will not hold any more elections",
+      "summary": "<p>Daniel Ortega, the 80-year-old authoritarian leader, says move will ‘build a wall’ against the opposition</p><p>Nicaragua’s long-serving president, Daniel Ortega, has said the country will hold no further elections to",
+      "url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T21:36:47.000Z"
+    },
+    {
+      "id": "8a12c2f33eec",
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "summary": "<p>Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> is imposing 50% tariffs",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T21:30:41.000Z"
+    },
+    {
       "id": "34bb5fbcad75",
       "title": "US military launches further strikes on Iran after Trump says Tehran ‘will pay’ for killing soldiers – Middle East crisis live",
       "summary": "<p>US Central Command says latest attack aimed at degrading Iranian military capabilities after president threatens country over deaths of US troops </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/20/u",
@@ -36,12 +66,12 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-20T20:22:38.000Z"
+      "publishedAt": "2026-07-20T21:28:59.000Z"
     },
     {
       "id": "9e33bcf7ff64",
-      "title": "Iran says it is in ‘full-scale war’ as Trump vows retaliation over US soldier deaths",
-      "summary": "<p>Iranian president warns country may have to endure more strikes, as diplomats say de-escalation talks are continuing</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-s",
+      "title": "US launches 10th round of strikes as Iran says it is in ‘full-scale war’",
+      "summary": "<p>Diplomats say de-escalation talks continue as Trump vows retaliation over US soldier deaths </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-",
       "url": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
       "source": "The Guardian World",
       "category": "国际",
@@ -191,7 +221,7 @@
     {
       "id": "519a9db03474",
       "title": "Australian ski resorts smash July climate records with temperatures 12C above average",
-      "summary": "<p>Resorts in NSW and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areas</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_s",
+      "summary": "<p>Resorts in New South Wales and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areas</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletter",
       "url": "https://www.theguardian.com/australia-news/2026/jul/21/australian-ski-resorts-smash-july-climate-records-with-temperatures-12c-above-average",
       "source": "The Guardian World",
       "category": "国际",
@@ -207,16 +237,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-20T15:00:44.000Z"
-    },
-    {
-      "id": "19d4e2cf3e56",
-      "title": "At-home STI test pulled from Australian shelves after failing to detect infections",
-      "summary": "<p><strong>Exclusive: </strong>TGA finds Touch Biotechnology test for chlamydia and gonorrhoea ‘is not reliable’ and has affected an unspecified number of people</p><ul><li><p>Get our <a href=\"https://www.theguardian.com",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/21/tga-suspension-touch-biotechnology-home-sti-test",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-20T15:00:43.000Z"
     },
     {
       "id": "167fba563426",
@@ -619,16 +639,6 @@
       "publishedAt": "2026-07-20T04:00:45.000Z"
     },
     {
-      "id": "c4962e7031dd",
-      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
-      "summary": "<p>Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts</p><p>A massive search-and-rescue operation is under way afte",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-20T03:54:52.000Z"
-    },
-    {
       "id": "e3682c5247c2",
       "title": "俄羅斯人改用現金，蘇聯時代把錢「藏在床墊下」本能回歸",
       "summary": "俄羅斯人正重新使用現金，一方面是移動網絡中斷阻礙了刷卡支付，另一方面是四年多的俄烏戰爭下，越來越多企業因財政壓力大增而試圖逃稅。",
@@ -657,16 +667,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-19T20:16:44.000Z"
-    },
-    {
-      "id": "2ff860976c5f",
-      "title": "Earthquake in Peru leaves at least six dead",
-      "summary": "<p>More than 30 injured and 300 displaced after buildings collapse near Sicaya</p><p>A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people we",
-      "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-19T17:12:47.000Z"
     },
     {
       "id": "05b21a55c62e",
