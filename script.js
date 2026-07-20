@@ -3,7 +3,7 @@ const fallbackArticles=[
  {id:"welcome",category:"科技",title:"新闻数据正在首次更新",summary:"GitHub Actions 将从已配置的官方 RSS 来源抓取最新报道，通常几分钟内完成。",source:"讯息流",publishedAt:null,url:"https://github.com/Cyrus-Qiu/news-hub/actions"}
 ];
 const signals=[["自动更新","系统","RSS 新闻源每 30 分钟同步一次","运行中"],["官方来源","国内","人民网、中国新闻网","已接入"],["国际来源","国际","BBC 中文、The Guardian","已接入"]];
-const markets=[["纳斯达克综合指数","—","待接入",false],["上证指数","—","待接入",false],["美元指数 (DXY)","—","待接入",false],["WTI 原油 (USD)","—","待接入",false],["黄金 (USD/oz)","—","待接入",false]];
+let markets=[];
 let articles=fallbackArticles,active="首页",query="",expanded=false;const saved=new Set();
 const $=id=>document.getElementById(id);
 const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
@@ -36,11 +36,27 @@ async function loadNews(){
  updateHero();renderNews();
 }
 $("signals").innerHTML=signals.map(s=>`<div class="signal-row"><time>${s[0]}</time><em>${s[1]}</em><strong>${s[2]}</strong><mark>${s[3]}</mark></div>`).join("");
-$("markets").innerHTML=markets.map(m=>`<div class="market-row"><span>${m[0]}</span><strong>${m[1]}</strong><span class="spark"></span><b>${m[2]}</b></div>`).join("");
+function renderMarkets(){
+ $("markets").innerHTML=markets.map(m=>{
+  const value=Number(m.value),change=Number(m.changePercent),down=change<0;
+  const formatted=Number.isFinite(value)?value.toLocaleString("en-US",{maximumFractionDigits:2}):"—";
+  const changeText=Number.isFinite(change)?`${change>=0?"+":""}${change.toFixed(2)}%`:"—";
+  return `<div class="market-row ${down?"down":""}"><span>${escapeHtml(m.symbol||m.name)}</span><strong>${escapeHtml(formatted)}</strong><span class="spark"></span><b>${escapeHtml(changeText)}</b></div>`;
+ }).join("");
+}
+async function loadMarkets(){
+ try{
+  const response=await fetch(`data/markets.json?v=${Date.now()}`,{cache:"no-store"});
+  if(!response.ok)throw new Error(response.status);
+  const data=await response.json();
+  if(data.markets?.length)markets=data.markets;
+ }catch(error){console.warn("暂时无法读取市场数据",error);}
+ renderMarkets();
+}
 $("search-toggle").addEventListener("click",()=>{const p=$("search-panel"),opening=p.hidden;p.hidden=!opening;$("search-toggle").setAttribute("aria-expanded",String(opening));if(opening)$("search-input").focus();});
 $("search-close").addEventListener("click",()=>{$("search-panel").hidden=true;$("search-toggle").setAttribute("aria-expanded","false");});
 $("search-input").addEventListener("input",e=>{query=e.target.value;expanded=false;renderNews();});
 $("load-more").addEventListener("click",()=>{expanded=true;renderNews();});
 $("reset-filter").addEventListener("click",()=>{active="首页";query="";$("search-input").value="";renderNavs();renderNews();});
 $("subscribe-form").addEventListener("submit",e=>{e.preventDefault();$("subscribe-note").textContent="订阅已记录（演示模式，暂未接入邮件服务）。";e.target.reset();});
-renderNavs();renderNews();loadNews();
+renderNavs();renderNews();loadNews();loadMarkets();
