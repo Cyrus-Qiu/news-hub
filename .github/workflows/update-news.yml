@@ -1,6 +1,12 @@
 name: Update news data
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - sources.json
+      - fetch-news.mjs
+      - .github/workflows/update-news.yml
   schedule:
     - cron: '7,37 * * * *'
   workflow_dispatch:
