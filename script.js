@@ -18,6 +18,14 @@ function timeAgo(value){
  return d.toLocaleDateString("zh-CN");
 }
 function tagOf(a){return a.category||a.tag||"综合";}
+function updateHero(){
+ const article=articles[0];if(!article)return;
+ const title=$("hero-title"),summary=$("hero-summary"),byline=$("hero-byline"),link=$("hero-link");
+ if(title)title.textContent=article.title;
+ if(summary)summary.textContent=article.summary||"点击查看原始媒体的完整报道。";
+ if(byline)byline.textContent=`${article.source} · ${timeAgo(article.publishedAt)}`;
+ if(link){link.href=safeUrl(article.url);link.target="_blank";link.rel="noopener noreferrer";}
+}
 function navButtons(target){target.innerHTML=categories.map(c=>`<button data-category="${c}" class="${c===active?'active':''}">${c}</button>`).join("");target.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{active=b.dataset.category;expanded=false;renderNavs();renderNews();if(target.id==='main-nav'&&active!=="首页")$('news').scrollIntoView({behavior:'smooth'});}));}
 function renderNavs(){navButtons($("main-nav"));navButtons($("filter-nav"));}
 function filtered(){const q=query.trim().toLowerCase();return articles.filter(a=>(active==="首页"||tagOf(a)===active)&&(!q||`${a.title}${a.summary||''}${tagOf(a)}${a.source}`.toLowerCase().includes(q)));}
@@ -25,7 +33,7 @@ function renderNews(){const all=filtered(),list=expanded?all:all.slice(0,12);$("
 async function loadNews(){
  try{const response=await fetch(`data/news.json?v=${Date.now()}`,{cache:"no-store"});if(!response.ok)throw new Error(response.status);const data=await response.json();if(data.articles?.length)articles=data.articles;const stamp=data.updatedAt?new Date(data.updatedAt).toLocaleString("zh-CN",{hour12:false}):"等待首次更新";const el=document.querySelector(".data-time");if(el)el.textContent=`新闻更新：${stamp} · ${data.sources?.length||0} 个来源`;}
  catch(error){console.warn("暂时无法读取新闻数据，显示备用内容",error);}
- renderNews();
+ updateHero();renderNews();
 }
 $("signals").innerHTML=signals.map(s=>`<div class="signal-row"><time>${s[0]}</time><em>${s[1]}</em><strong>${s[2]}</strong><mark>${s[3]}</mark></div>`).join("");
 $("markets").innerHTML=markets.map(m=>`<div class="market-row"><span>${m[0]}</span><strong>${m[1]}</strong><span class="spark"></span><b>${m[2]}</b></div>`).join("");
