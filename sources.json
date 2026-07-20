@@ -1,0 +1,8 @@
+[
+  {"name":"人民网","url":"http://www.people.com.cn/rss/ywkx.xml","category":"国内","language":"zh"},
+  {"name":"中国新闻网","url":"https://www.chinanews.com.cn/rss/scroll-news.xml","category":"国内","language":"zh"},
+  {"name":"BBC 中文","url":"https://feeds.bbci.co.uk/zhongwen/simp/rss.xml","category":"国际","language":"zh"},
+  {"name":"The Guardian World","url":"https://www.theguardian.com/world/rss","category":"国际","language":"en"},
+  {"name":"The Guardian Technology","url":"https://www.theguardian.com/technology/rss","category":"科技","language":"en"},
+  {"name":"The Guardian Business","url":"https://www.theguardian.com/business/rss","category":"财经","language":"en"}
+]
