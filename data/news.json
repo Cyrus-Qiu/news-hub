@@ -1,1 +1,1232 @@
-{"updatedAt":null,"sources":[],"failedCount":0,"articles":[]}
+{
+  "updatedAt": "2026-07-20T09:19:09.386Z",
+  "sources": [
+    {
+      "name": "人民网",
+      "count": 30
+    },
+    {
+      "name": "中国新闻网",
+      "count": 30
+    },
+    {
+      "name": "BBC 中文",
+      "count": 30
+    },
+    {
+      "name": "The Guardian World",
+      "count": 30
+    },
+    {
+      "name": "The Guardian Technology",
+      "count": 30
+    },
+    {
+      "name": "The Guardian Business",
+      "count": 20
+    }
+  ],
+  "failedCount": 0,
+  "articles": [
+    {
+      "id": "0362173349fe",
+      "title": "海外华裔青少年在榕开启文化深度探访",
+      "summary": "连日来，2026年“亲情中华·中国寻根之旅”夏令营福建福州营的行程持续深入，40名海外华裔青少年及领队老师携手奔赴一场跨越古今的文化寻根之约。从百年鼓岭的跨国情谊到现代科技的创新活力，从昙石山的史前文明到闽都民俗园的乡土风情，营员们在“古今交汇、山海相融”的走访中，真切触摸到了闽都文化的厚重脉搏。",
+      "url": "https://www.chinanews.com.cn/txy/2026/07-20/10663046.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:15:32.000Z"
+    },
+    {
+      "id": "d69ee91bb5c0",
+      "title": "相关部门提醒彩民理性购彩、合规购彩",
+      "summary": "中新网北京7月20日电 北京体育彩票公益宣传暨政企媒协同沙龙座谈日前举行，相关部门提醒彩民应理性购彩、合规购彩、提高警惕、遵守法律。北京市体育彩票管理中心已采取多项措施，维护体育彩票正常秩序、守护好市民的钱袋子。",
+      "url": "https://www.chinanews.com.cn/ty/2026/07-20/10663029.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:15:30.000Z"
+    },
+    {
+      "id": "6454b4ddb795",
+      "title": "台媒：民进党召开全代会改选权力核心",
+      "summary": "中新网7月20日电(燕新台)民进党19日召开全代会，改选中执委、中常委、中评委等党内权力核心职位。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663037.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:14:24.000Z"
+    },
+    {
+      "id": "3a339ddf93b9",
+      "title": "擅長數學、喜愛爵士樂⋯⋯鯊魚其貌不揚的九件事",
+      "summary": "人類跟鯊魚比想像中更像——BBC整理出九件你絕對想不到的鯊魚知識。",
+      "url": "https://www.bbc.com/zhongwen/articles/cly8ypxel59o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:13:43.000Z"
+    },
+    {
+      "id": "93b5f4ec4af2",
+      "title": "施普林格·自然推出“自然图书”新品牌 助力科研人员发表长篇学术专著",
+      "summary": "中新网北京7月20日电 (记者 孙自法)国际知名科研出版机构施普林格·自然7月20日宣布推出全新品牌“自然图书”(Nature Books)，旨在让科研人员有机会通过全球最受信赖和认可的科学品牌之一的《自然》期刊发表长篇学术专著。新品牌的首批图书将于2026年晚些时候推出。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10662992.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:12:36.000Z"
+    },
+    {
+      "id": "6038ff5a6346",
+      "title": "更多比賽，更多爭議——該如何評價2026年FIFA世界盃？",
+      "summary": "2026年美加墨世界盃落幕，48隊擴編、飲水休息、VAR與政治干預爭議不斷。雖上座率創紀錄，但高票價、裁判一致性與政治介入，仍讓這屆賽事褒貶不一。",
+      "url": "https://www.bbc.com/zhongwen/articles/clyxj2pky5go/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:12:28.000Z"
+    },
+    {
+      "id": "d36b9451dafc",
+      "title": "文化创意设计架起联结桥 苏台青年创新交流营在昆山启幕",
+      "summary": "中新网昆山7月20日电 (记者 钟升)2026苏台青年创新交流营暨第九届海峡两岸(昆山)青年文化创意设计大赛启动仪式19日在江苏昆山举行，苏台青年通过文化交流、经验分享、创新设计等，增强情感联结，增进携手协作。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10662991.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:12:22.000Z"
+    },
+    {
+      "id": "529ccb358f5c",
+      "title": "360余名轮滑爱好者竞速“奥运冠军之城”七台河",
+      "summary": "中新网七台河7月20日电(姜辉 王达)日前，2026年全国“冰轮之星·滑起来”系列赛事活动(黑龙江站)在七台河短道速滑体育学校鸣枪开赛。来自黑龙江省的360余名轮滑爱好者同台竞技，带来一场活力四射的体育盛宴。",
+      "url": "https://www.chinanews.com.cn/ty/2026/07-20/10662989.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:10:33.000Z"
+    },
+    {
+      "id": "647c84f6d486",
+      "title": "2026世界人工智能大会：从“跑马圈地”到“精耕细作”，AI基础设施迎来新纪元",
+      "summary": "中新网上海7月20日电(记者 郑莹莹)为期4天的2026世界人工智能大会暨人工智能全球治理高级别会议20日迎来收官。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663015.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:10:31.000Z"
+    },
+    {
+      "id": "e00e193ec754",
+      "title": "南京直飞韩国釜山国际航线开通",
+      "summary": "中新网南京7月20日电 (记者 朱晓颖)20日，南京直飞韩国釜山国际航线开通，首班客座率达91.1%。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10663017.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:09:29.000Z"
+    },
+    {
+      "id": "8b92d84ef0f5",
+      "title": "从“数字方舱”到“XR地宫” 陕西以数智技术重塑文化遗产保护新范式",
+      "summary": "数联丝路 陕“耀”全球| 从“数字方舱”到“XR地宫” 陕西以数智技术重塑文化遗产保护新范式",
+      "url": "https://www.chinanews.com.cn/edu/2026/07-20/10663045.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:09:27.000Z"
+    },
+    {
+      "id": "4bd46675e3bb",
+      "title": "香港大学生赴浔城之约 在多元交流中深化情谊",
+      "summary": "中新网九江7月20日电 (朱莹 漆振邦)“这场比赛早已超越了竞技本身，更像是一场两地青年之间的对话，用运动拉近了地域间的距离。”香港城市大学气排球男队队长罗日朗近日在江西九江如是说。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/07-20/10663018.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:08:33.000Z"
+    },
+    {
+      "id": "c7f34f55c277",
+      "title": "20日白天至前半夜北京预计有雷阵雨 启动全市防汛四级应急响应",
+      "summary": "中新网北京7月20日电 (记者 陈杭)北京市气象局官方微博20日通报称，20日白天至前半夜北京预计有雷阵雨，降雨具有间歇性，且分布不均，17时至21时对流和降水明显加强，延庆、怀柔、密云、平谷、顺义、昌平、门头沟、房山等区局地短时雨强较大，并伴有七八级短时阵风和冰雹，最高气温30℃。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10662988.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:08:29.000Z"
+    },
+    {
+      "id": "7a80bf276ea2",
+      "title": "山西举办珠算非物质文化遗产展演赛",
+      "summary": "7月20日，山西省第四届“算之魂”珠算非物质文化遗产展演赛在太原开幕。来自该省各地的29支代表队、369名青少年同场竞技，比拼珠算、心算技能。图为小选手在比赛前检查裁判即将发放的密封试卷。中新社记者 韦亮 摄 7月20日，山西省第四届“算之魂”珠算非物质文化遗产展演赛在太原开幕。来自该省各地的29支代表队、369名青少年同场竞技，比拼珠算、心算技能。图为一名参赛选手在进行心算。中新社记者 韦亮 摄 7月20日，山西省第四届“算之魂”珠算",
+      "url": "https://www.chinanews.com.cn/tp/2026/07-20/10663043.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:08:17.000Z"
+    },
+    {
+      "id": "48dc5f9fc34c",
+      "title": "“家书里的中国”，聆听最深情最澎湃的时代回响",
+      "summary": "原标题：【好评中国】东湖漫评丨“家书里的中国”，聆听最深情最澎湃的时代回响",
+      "url": "https://www.chinanews.com.cn/ll/2026/07-20/10663044.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:07:55.000Z"
+    },
+    {
+      "id": "e95675f2cf0f",
+      "title": "湘港澳深化中医药人才协作 共推中医药科创成果走向国际",
+      "summary": "中新网长沙7月20日电(王萱)近日，湖南中医药大学选派36名硕博研究生与3名指导教师赴香港、澳门开展研学交流。本次活动锚定中医药创新创业、科研成果转化核心目标，依托港澳联通全球的区位优势，推动湘港澳青年科技人才深化务实协作。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/07-20/10663019.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:06:43.000Z"
+    },
+    {
+      "id": "34c8166c859a",
+      "title": "中国稀土催化技术迭代 10万吨级稀土顺丁橡胶产能升级",
+      "summary": "中新网长春7月20日电 (记者 郭佳)记者20日从中国科学院长春应用化学研究所(下称“长春应化所”)获悉，依托该所原创技术，独山子石化10万吨/年稀土顺丁橡胶装置近日试车成功，装置全线产出性能达标、品质稳定的优级品稀土顺丁橡胶。此举标志着中国在稀土催化合成橡胶原创技术领域取得重大突破，成功实现产业化和核心技术完全自主可控。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663030.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:05:33.000Z"
+    },
+    {
+      "id": "bef059b5f0d1",
+      "title": "把中华文化带回家 “华语侨心”华裔青少年暑期研学营举行",
+      "summary": "中新网上海7月20日电(范宇斌)近日，2026“华语侨心”华裔青少年暑期研学营在上海举行。十天里，来自英国、美国、意大利、法国、德国5个国家的15所华文学校的华裔青少年，从诵读比赛的“线上赛场”走向上海的“线下课堂”，让中华文化从文字变成可触可感的体验，收获了一段难忘的记忆。",
+      "url": "https://www.chinanews.com.cn/hr/2026/07-20/10662987.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:05:13.000Z"
+    },
+    {
+      "id": "7bf5801c195a",
+      "title": "致毕业的你：即刻出发，不负热爱",
+      "summary": "视频：致毕业的你：即刻出发，不负热爱！",
+      "url": "https://www.chinanews.com.cn/edu/2026/07-20/10663023.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:02:55.000Z"
+    },
+    {
+      "id": "dda592e2836f",
+      "title": "2026年“E法同行 法润塞上”全国网络法治主题宣传活动在银川启动",
+      "summary": "中新网银川7月20日电(记者 杨迪)7月20日，2026年“E法同行 法润塞上”全国网络法治主题宣传活动在宁夏银川启动。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663032.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:02:47.000Z"
+    },
+    {
+      "id": "86057fc307fc",
+      "title": "数字基建赋能新体验 山西千年古建悬空寺解锁文旅发展新赛道",
+      "summary": "中新网太原7月20日电 题：数字基建赋能新体验 山西千年古建悬空寺解锁文旅发展新赛道",
+      "url": "https://www.chinanews.com.cn/cul/2026/07-20/10663035.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:01:59.000Z"
+    },
+    {
+      "id": "625af683dc52",
+      "title": "评论：广州会展业“以展促产”的进阶之路",
+      "summary": "中新网广州7月20日电(记者 王华)提起广州会展业，首先会想到广交会——这个被誉为“中国第一展”的贸易盛会，已在这座城市举办了139届。然而，今天的广州会展业已超越单一展会的概念，正以展产融合、以展业促产业的逻辑，重塑城市经济架构。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662985.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:01:51.000Z"
+    },
+    {
+      "id": "c17be6e571a3",
+      "title": "甘肃上半年对印尼进出口值同比增长逾七成",
+      "summary": "中新网兰州7月20日电 (记者 闫姣)兰州海关20日举办上半年甘肃外贸数据新闻发布会介绍称，2026年上半年，甘肃对印度尼西亚进出口值67.4亿元，同比增长74.7%。",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/07-20/10663038.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:00:41.000Z"
+    },
+    {
+      "id": "d108df2740da",
+      "title": "商务部将于2026-2028年组织开展绿色消费试点工作",
+      "summary": "中新网7月20日电 据商务部网站消息，商务部办公厅日前下发通知称，商务部将于2026-2028年组织开展绿色消费试点工作。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662959.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:00:09.000Z"
+    },
+    {
+      "id": "50066509807c",
+      "title": "完善应急管理体系 提升城市安全韧性",
+      "summary": "全球气候变暖背景下极端天气气候事件频发、强发的新态势，再次敲响城市安全警钟。我们要牢固树立底线思维、极限思维，始终坚持人民至上、生命至上，加快推进应急管理体系和能力现代化建设，一体提升减灾预防、抗灾设防、救灾保障能力，全面增强城市安全韧性，进而有效降低各类灾害事故损失，为统筹高质量发展和高水平安全筑牢坚实屏障。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663036.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T09:00:03.000Z"
+    },
+    {
+      "id": "6dab538abac4",
+      "title": "Israel criticises Labor’s draft Palestine policy in rare foreign intervention ahead of party conference",
+      "summary": "<p>Statement by Israeli embassy in Canberra challenges proposed positions on settler violence and annexation of Palestinian territory</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/20/israel-intervention-labor-national-conference-draft-policy-platform-palestine-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T08:59:50.000Z"
+    },
+    {
+      "id": "b511f22af6e1",
+      "title": "2026年上半年江苏省外贸进出口增长超两成",
+      "summary": "中新社南京7月20日电 (记者 朱晓颖)南京海关20日公布，2026年上半年，江苏省外贸进出口3.49万亿元(人民币，下同)，同比增长23.9%，占同期中国进出口总值的13.7%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662981.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T08:59:10.000Z"
+    },
+    {
+      "id": "c9d037d1fcda",
+      "title": "生命树·可可西里诗会在青海治多举行",
+      "summary": "中新网玉树7月20日电 现实题材剧集《生命树》持续热播。作品聚焦青藏高原生态保护历程，生动再现一代代高原守护者义无反顾守护雪域生灵、捍卫江河源头生态安宁的故事。7月15日至18日，“生命树·可可西里诗会”系列活动在青海省玉树藏族自治州治多县举行。活动以电视剧原型杰桑·索南达杰故里生命树为精神内核，以田野调研、实地溯源、美育公益、平台共建为载体，用诗歌笔墨致敬高原英雄、礼赞江源生态、传承守护精神。",
+      "url": "https://www.chinanews.com.cn/cul/2026/07-20/10663022.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T08:58:32.000Z"
+    },
+    {
+      "id": "44381b4f7ff0",
+      "title": "彭水山体崩塌孤石爆破作业首爆成功",
+      "summary": "图为爆破前。 图为爆破后。 中新网重庆7月20日电 据“彭水发布”消息，7月20日，重庆彭水山体崩塌现场救援指挥部表示，彭水山体崩塌孤石爆破作业首爆成功，进入到深度救援。(完)",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10662979.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T08:57:46.000Z"
+    },
+    {
+      "id": "d8ddadb2ba77",
+      "title": "双专班协同 桂港合作机制日趋完善",
+      "summary": "7月17日至18日，2026年助力桂商桂企出海交流会在广西南宁举行。会议介绍，桂港交流合作不断深化，双方交流合作成果丰硕，签订了《新时代全方位合作意向书》，达成了“加强发展战略对接，高水平共建西部陆海新通道，共同拓展东盟市场”的重要共识。香港连续多年保持广西第一大境外投资来源地、第一大境外投资目的地和重要贸易伙伴地位。近年来，桂港合作机制日趋完善。",
+      "url": "https://www.chinanews.com.cn/txy/2026/07-20/10663034.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T08:57:32.000Z"
+    },
+    {
+      "id": "6c16335226c6",
+      "title": "“云”上石榴花开 法治同心筑梦",
+      "summary": "“云”上石榴花开 法治同心筑梦",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10663028.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T08:57:20.000Z"
+    },
+    {
+      "id": "1d0c28b465a4",
+      "title": "丝路电商，让全球共享发展新机遇",
+      "summary": "【“数字丝路·光明观察”系列述评】",
+      "url": "https://www.chinanews.com.cn/cul/2026/07-20/10663027.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T08:56:18.000Z"
+    },
+    {
+      "id": "1551a0687bc2",
+      "title": "AI智能体正从“能对话”转向“善执行”",
+      "summary": "记者在2026世界人工智能大会看到，以智能体为代表的AI应用正走出实验室，深度嵌入跨境贸易、体育赛事等真实生产生活场景，从“对话交互”转向“任务执行”，成为辅助决策、提升效率的“智能伙伴”。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663026.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T08:55:36.000Z"
+    },
+    {
+      "id": "34bb5fbcad75",
+      "title": "Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live",
+      "summary": "<p>US military says it is ‘holding Iran accountable’ as maritime agency reports a vessel on fire in strait </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
+      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T08:52:35.000Z"
+    },
+    {
+      "id": "d7a5fc6bc824",
+      "title": "Jeff Bezos and UK government invest in £2bn British startup CuspAI",
+      "summary": "<p>Company aims to develop AI software that cuts research times and use of rare metals in chipmakers’ supply chains</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/20/oil-price-rises-us-iran-str",
+      "url": "https://www.theguardian.com/technology/2026/jul/20/jeff-bezos-uk-government-invest-in-2bn-british-startup-cuspai",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-20T08:37:52.000Z"
+    },
+    {
+      "id": "330fc3d23fed",
+      "title": "Derryn Hinch remembered as ‘journalistic James Bond’ – as it happened",
+      "summary": "<p>This blog is now closed</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T07:53:35.000Z"
+    },
+    {
+      "id": "e246a455123d",
+      "title": "Taxpayers could pay millions to abuse survivors if Christian Brothers goes bankrupt, court documents reveal",
+      "summary": "<p>Catholic order with a record of child abuse could be subject to hundreds of redress claims worth up to $65m</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthon",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/20/christian-brothers-australia-abuse-survivors-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T07:19:53.000Z"
+    },
+    {
+      "id": "de1d0b9f17f4",
+      "title": "外賣騎手獲中國頂級文學獎，作品靈感來自日常工作挑戰",
+      "summary": "王計兵是中國一群憑文學作品獲得更廣泛關注的藍領工人之一。",
+      "url": "https://www.bbc.com/zhongwen/articles/c05qzd2v54yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-20T07:02:58.000Z"
+    },
+    {
+      "id": "ccaaa7ee4e61",
+      "title": "Barnaby Joyce says One Nation doesn’t want return of White Australia policy but backs Pauline Hanson on mass deportations",
+      "summary": "<p>Lee Hanson claims her mother’s comments on Tommy Robinson podcast were ‘misinterpreted’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-h",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/20/barnaby-joyce-one-nation-white-australia-policy-pauline-hanson-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T06:59:15.000Z"
+    },
+    {
+      "id": "3d04def2bcf7",
+      "title": "British YouTuber Yung Filly appears in Australian court over rape allegations",
+      "summary": "<p>Rapper pleads not guilty to six counts of sexually penetrating a 20-year-old woman without consent after a gig in Perth</p><p>A British YouTuber and musician bit and slapped a young female fan while he was raping her ",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/20/yung-filly-australia-court-youtuber-rape-allegations-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T06:46:08.000Z"
+    },
+    {
+      "id": "b6f4665c89d1",
+      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
+      "summary": "<p>The Guardian goes on the ground with Brazilian forces fighting to eradicate mining that has destroyed protected areas of Indigenous land</p><p>The jerry-built bordello at the foot of Vila Cururu, an illegal gold-minin",
+      "url": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T05:00:47.000Z"
+    },
+    {
+      "id": "2cc1f8a049c9",
+      "title": "Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?",
+      "summary": "<p>Many of the more than 100 people awaiting processing on the tiny Pacific island are skipping meals to make ends meet, a new survey has found</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/",
+      "url": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T04:43:37.000Z"
+    },
+    {
+      "id": "3357b60a4ced",
+      "title": "金正恩本應是朝鮮人唯一的偶像，直到他們發現K-pop",
+      "summary": "多名脫北者向BBC表示，儘管受到種種限制，韓國流行音樂仍突破重重封鎖，傳入這個令人窒息的獨裁國家。",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2mlyg0x21o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-20T04:24:23.000Z"
+    },
+    {
+      "id": "159e64895121",
+      "title": "托雷斯加時建功助西班牙險勝阿根廷 二奪世界盃冠軍",
+      "summary": "西班牙在一場混亂的世界盃決賽中險勝，憑藉費蘭·托雷斯（費倫·托利斯）於加時賽攻入的制勝球擊敗阿根廷。",
+      "url": "https://www.bbc.com/zhongwen/articles/crk547p26rpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-20T04:20:30.000Z"
+    },
+    {
+      "id": "12611e6a0556",
+      "title": "AI-altered images on birdwatching forums putting research at risk",
+      "summary": "<p>Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientists</p><p>For many birdwatchers, recording a species outside its normal range is th",
+      "url": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-20T04:00:45.000Z"
+    },
+    {
+      "id": "c4962e7031dd",
+      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
+      "summary": "<p>Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts</p><p>A massive search-and-rescue operation is under way afte",
+      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T03:54:52.000Z"
+    },
+    {
+      "id": "9e33bcf7ff64",
+      "title": "US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price pass $90 a barrel",
+      "summary": "<p>After the US military confirmed that a service member had been killed in Iraq – the third in recent days – Donald Trump said the new attacks were ‘in honour’ of the dead</p><ul><li><p><a href=\"https://www.theguardian.",
+      "url": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-20T02:01:55.000Z"
+    },
+    {
+      "id": "e3682c5247c2",
+      "title": "俄羅斯人改用現金，蘇聯時代把錢「藏在床墊下」本能回歸",
+      "summary": "俄羅斯人正重新使用現金，一方面是移動網絡中斷阻礙了刷卡支付，另一方面是四年多的俄烏戰爭下，越來越多企業因財政壓力大增而試圖逃稅。",
+      "url": "https://www.bbc.com/zhongwen/articles/c39en00pw23o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-19T23:56:29.000Z"
+    },
+    {
+      "id": "4d439e5b5480",
+      "title": "Middle East crisis: US military says service member killed during ‘controlled detonation’ of downed Iranian drone – as it happened",
+      "summary": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes\">US says another troop killed as Israel warns Tehran’s attacks coming ",
+      "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-19T20:25:52.000Z"
+    },
+    {
+      "id": "9d1ca5a29431",
+      "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
+      "summary": "<p>US military says service member was killed in Iraq during ‘controlled detonation’ as it launches more airstrikes at Iran</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updat",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-19T20:16:44.000Z"
+    },
+    {
+      "id": "2ff860976c5f",
+      "title": "Earthquake in Peru leaves at least six dead",
+      "summary": "<p>More than 30 injured and 300 displaced after buildings collapse near Sicaya</p><p>A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people we",
+      "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-19T17:12:47.000Z"
+    },
+    {
+      "id": "5444bc2dfb46",
+      "title": "‘He’s a war criminal’: Mamdani exploring whether he can arrest Netanyahu if he visits New York",
+      "summary": "<p>NYC mayor says in Times interview that’s he’s in ‘active conversation’ with city’s law department about the matter</p><p>New York City mayor <a href=\"https://www.theguardian.com/us-news/zohran-mamdani\">Zohran Mamdani<",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/mamdani-netanyahu",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-19T15:38:11.000Z"
+    },
+    {
+      "id": "05b21a55c62e",
+      "title": "AI job worries grow. But some human skills can’t be replaced by machines | Gaynor Parkin and Dave Winsborough",
+      "summary": "<p>The fear of becoming obsolete is a rising source of anxiety as artificial intelligence emerges in the workplace. Staying strongly connected with others will help</p><ul><li><p><a href=\"https://www.theguardian.com/comm",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/20/ai-job-worries-human-skills-machines-cant-replace",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-19T15:00:31.000Z"
+    },
+    {
+      "id": "7458fc469447",
+      "title": "Why a modest US interest rate rise won’t change much for most businesses",
+      "summary": "<p>Rates may rise, but don’t be too concerned – a small increase is unlikely to change major decisions on investment or hiring</p><p>With the appointment of a new <a href=\"https://www.theguardian.com/business/federal-res",
+      "url": "https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-19T14:00:28.000Z"
+    },
+    {
+      "id": "8d7f49fd55d7",
+      "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
+      "summary": "<p>New national plan is accompanied by Labor push for digital duty of care legislation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanso",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-19T12:00:27.000Z"
+    },
+    {
+      "id": "c66451a8cf04",
+      "title": "Corded vacuums are supposed to be outdated – so why is the Shark Detect Lift-Away XL so good?",
+      "summary": "<p>Surprisingly easy to manoeuvre and skilled at cleaning carpet and hard floor, Shark’s upright bagless model is one of the best corded vacuums I’ve tested</p><p>• <a href=\"https://www.theguardian.com/thefilter/2026/feb",
+      "url": "https://www.theguardian.com/thefilter/2026/jul/19/shark-detect-xl-lift-away-car-pet-expert-review-tested-uk",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-19T12:00:26.000Z"
+    },
+    {
+      "id": "a263f8230027",
+      "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
+      "summary": "<p>From Nevada to Manchester, developers are trialling innovative solutions to clean energy’s biggest challenge</p><p>In the deserts of the United Arab Emirates a sprawling <a href=\"https://www.reuters.com/sustainability",
+      "url": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-19T11:00:25.000Z"
+    },
+    {
+      "id": "a90caad7a6db",
+      "title": "Could AI be conscious?",
+      "summary": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitu",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-19T11:00:25.000Z"
+    },
+    {
+      "id": "78979f3b877f",
+      "title": "Bad Bunny concert in Milan abandoned because of hailstorm",
+      "summary": "<p>Fans evacuated from sold-out open-air show as organisers promise full refunds</p><p>An open-air show by the Puerto Rican music star Bad Bunny was abandoned in Italy on Saturday night because of a violent hailstorm, bu",
+      "url": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-19T09:57:53.000Z"
+    },
+    {
+      "id": "e3220a9f4a3a",
+      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
+      "summary": "有研究顯示100名患者在22年內均沒發現糖尿病病例，只有一宗非致命性癌症；相比下，其1600名同村親屬的糖尿病和癌症比例高得多。",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-19T09:38:34.000Z"
+    },
+    {
+      "id": "28e0fbbf535c",
+      "title": "Russia pounds Kyiv for five hours in one of its biggest ballistic missile attacks",
+      "summary": "<p>Attack on Ukraine’s capital and other cities leaves at least six people dead and dozens injured</p><p>Russia has carried out one of its biggest ballistic missile attacks on Kyiv and other Ukrainian cities, launching a",
+      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-19T08:35:16.000Z"
+    },
+    {
+      "id": "5cc61abb362e",
+      "title": "中國揭陽虐狗案：如何席捲全球各地輿論？",
+      "summary": "中國揭陽虐狗案引爆輿論，各地城巿群眾以不同方式聲援，在鬧巿投放廣告、派發傳單，甚至進一步演變成抵制行動。有學者希望事件能促使政府立法保護動物。",
+      "url": "https://www.bbc.com/zhongwen/articles/ce97zxp9795o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-19T07:26:56.000Z"
+    },
+    {
+      "id": "9631c446002e",
+      "title": "Victoria announces new social media ‘demasking’ powers for accounts accused of vilification",
+      "summary": "<p>New laws would give Vcat power to force social and AI platforms to identify anonymous users in move premier says will protect children</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=c",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-19T07:22:01.000Z"
+    },
+    {
+      "id": "d7fc34e05201",
+      "title": "‘Good growth in every postcode’: Burnham’s economic to-do list in seven charts",
+      "summary": "<p>From industrial strategy and defence to housing and living costs, we lay out the challenges facing the new PM</p><p>Andy Burnham becomes prime minister as Britain contends with a series of global economic shocks and y",
+      "url": "https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-19T06:00:20.000Z"
+    },
+    {
+      "id": "9093cc59c096",
+      "title": "‘We noticed a login from a new device’: the message from fraudsters targeting your X account",
+      "summary": "<p>They are out to steal your password to commit further fraud such as crypto scams or phishing attacks</p><p>You have had an X account for years, since it was known as Twitter. When an email arrives about a new login fr",
+      "url": "https://www.theguardian.com/money/2026/jul/19/x-scams-login-new-device-message-account-crypto-phishing",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-19T06:00:18.000Z"
+    },
+    {
+      "id": "21224f27f62d",
+      "title": "熱浪下歐洲人轉向中國空調，能否洗刷「中國製造」污名？",
+      "summary": "中國品牌正滿足歐洲急增的空調需求，而當地的空調普及率一向偏低。",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2gm3mymwwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-19T05:04:48.000Z"
+    },
+    {
+      "id": "566a6739b22f",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "summary": "<p>Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent</p><p>Voters in <a href=\"https://www.theguardian.com/world/sao-tome-and-principe\">São Tomé and Príncipe</a> go to the p",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-19T04:00:16.000Z"
+    },
+    {
+      "id": "78cc7c207dde",
+      "title": "輪到你了，梅西——姆巴佩領跑史詩級世界盃金靴之爭",
+      "summary": "姆巴佩在金靴之爭中領先兩球，但梅西仍有可能在世界盃決賽反超前。",
+      "url": "https://www.bbc.com/zhongwen/articles/c78g1858m7go/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-19T00:23:42.000Z"
+    },
+    {
+      "id": "341de0bf3dc0",
+      "title": "遙遠恆星的適居帶內，首次發現類似地球的行星存在大氣層",
+      "summary": "研究人員發現，一顆類似地球的岩質行星在遙遠恆星的適居帶內運行，並擁有大氣層。",
+      "url": "https://www.bbc.com/zhongwen/articles/c36d1glwl66o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-18T23:54:47.000Z"
+    },
+    {
+      "id": "5cb37f166a71",
+      "title": "Hungary’s president agrees to stand down after law change ends his term",
+      "summary": "<p>Tamás Sulyok signed the constitutional amendment that cited ‘serious loss of confidence’ in him as leader </p><p>Hungary’s president, Tamás Sulyok, has agreed to step down after signing a constitutional amendment pass",
+      "url": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-18T22:17:51.000Z"
+    },
+    {
+      "id": "7d8909fa9718",
+      "title": "Albanese’s AI speech was a good start. Now Australia must confront these bigger questions | Julianne Schultz",
+      "summary": "<p>The PM’s vision must look beyond datacentres and copyright to questions of capability, security and public benefit</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking ne",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/18/albaneses-ai-speech-was-a-good-start-now-australia-must-confront-these-bigger-questions",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-18T20:00:07.000Z"
+    },
+    {
+      "id": "2fecd4ba9825",
+      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+      "summary": "<p>Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms</p><p>Saturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky s",
+      "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-18T19:11:13.000Z"
+    },
+    {
+      "id": "eeace5ba474c",
+      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
+      "summary": "<p>As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight</p><p>César Alcaraz had only just become a firefigh",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-18T15:24:42.000Z"
+    },
+    {
+      "id": "096682666a07",
+      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+      "summary": "<p>Rain could alleviate conditions in mid-Atlantic and north-east, with World Cup final expected to go ahead on Sunday</p><p>Warnings of dangerous conditions are expected to remain in place on Saturday across swathes of ",
+      "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-18T14:13:36.000Z"
+    },
+    {
+      "id": "ec89df513390",
+      "title": "UK tech advocates alarmed by Burnham plan to scrap technology department",
+      "summary": "<p>MPs and industry experts say potential reorganisation will waste time at critical moment for AI and economic growth</p><p>Andy Burnham’s plan to scrap the government’s technology department has triggered an angry back",
+      "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-18T13:42:43.000Z"
+    },
+    {
+      "id": "1941f3418961",
+      "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
+      "summary": "<p>Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy</p><p>The scale of the graft is decidedly off the charts, but the <a href=\"https://www.theguardian.com",
+      "url": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-18T10:00:02.000Z"
+    },
+    {
+      "id": "5e4f45e8b513",
+      "title": "世界盃決賽三大看點：阿根廷與西班牙「跨世代對決」",
+      "summary": "世界盃決賽即將登場，阿根廷和西班牙將爭奪冠軍，除了大力神盃，兩隊還將角逐史上最高獎金5000萬美元（約16.17億台幣）。",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyq99q84vyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-18T05:27:00.000Z"
+    },
+    {
+      "id": "e88f95fede12",
+      "title": "梅西、馬拉多納、貝利——誰才是真正的足球史上最強？",
+      "summary": "39歲的梅西依然是阿根廷征戰2026年世界盃的核心人物，但他是否已超越同胞馬拉多納，以及巴西傳奇貝利？",
+      "url": "https://www.bbc.com/zhongwen/articles/c9w0jqyqngdo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-18T04:31:32.000Z"
+    },
+    {
+      "id": "8b5f6e9e5c64",
+      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "summary": "<p>Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped</p><p>Sitting on his porc",
+      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-18T04:00:47.000Z"
+    },
+    {
+      "id": "437b9cd21a1b",
+      "title": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
+      "summary": "<p>Distillery owner could face only three months in jail over alleged poisoning of Australian teenagers</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, ",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-17T21:36:05.000Z"
+    },
+    {
+      "id": "f3b0bc8eec9f",
+      "title": "Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage",
+      "summary": "<p>The Spanish-language broadcaster has won over millions of US viewers with its energetic commentary during games</p><p>Soccer fans looking to watch the <a href=\"https://www.theguardian.com/football/world-cup-2026\">2026",
+      "url": "https://www.theguardian.com/football/2026/jul/17/telemundo-world-cup-english-speaking-viewers",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-17T16:30:49.000Z"
+    },
+    {
+      "id": "f0825c01d37d",
+      "title": "Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says",
+      "summary": "<p>Republican Josh Hawley accuses Mark Zuckerberg’s firm of relentlessly pursuing and attempting to bankrupt her</p><p>A US senator has accused Meta of using lawfare in “efforts to destroy” a whistleblower who made alleg",
+      "url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-17T16:27:32.000Z"
+    },
+    {
+      "id": "ca612ded1585",
+      "title": "Apple dethrones Nvidia to regain title of world’s most valuable company",
+      "summary": "<p>Shift in pecking order illustrates that investors are reassessing outlook for artificial intelligence</p><p>Apple overtook Nvidia on Friday to become the world’s most valuable company, reshuffling the top ranks of tec",
+      "url": "https://www.theguardian.com/technology/2026/jul/17/apple-nvidia-most-valuable-company",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-17T15:01:09.000Z"
+    },
+    {
+      "id": "f495551ae606",
+      "title": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
+      "summary": "<p>Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humans</p><p>Escaped ornamental aquarium fish have integrated into a local ecosystem in the Philippines, but ",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-17T14:00:31.000Z"
+    },
+    {
+      "id": "546a8bbca3b3",
+      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+      "summary": "<p>Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya </p><p>Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolat",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-17T12:17:14.000Z"
+    },
+    {
+      "id": "1af5f6ae91db",
+      "title": "Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them?",
+      "summary": "<p>Meta touts safety features – but for women, the dangers of these recording devices are obvious</p><p>Imagine if every time you left the house, you couldn’t be sure that the stranger you met at a bar – or even the pers",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/17/ai-meta-smart-glasses",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-17T12:00:07.000Z"
+    },
+    {
+      "id": "2061072e13fb",
+      "title": "How do you actually shop local in New York City?",
+      "summary": "<p>Shopping local ensures a future for cultures and communities, says Caroline Weaver, creator of the Locavore Guide digital directory </p><p>When I signed the lease for my new apartment in Brooklyn, the relief of having",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/how-to-shop-local-nyc",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-17T12:00:07.000Z"
+    },
+    {
+      "id": "bcbc5668cbf7",
+      "title": "貝安德入主唐寧街後 中英關係會開啟新篇章嗎？",
+      "summary": "貝安德被視為英國新任首相的大熱門，其中國政策是否會延續其大曼城市長經驗的務實路線引發議論。",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgjm0x0pzlo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-17T11:56:20.000Z"
+    },
+    {
+      "id": "da4443b7e075",
+      "title": "「充滿魔力與人性」電影《奧德賽》的五大看點",
+      "summary": "隨著克里斯托弗·諾蘭執導、馬特·達蒙、安妮·海瑟薇與湯姆·赫蘭德主演的史詩鉅片將登上大銀幕，以下是這部電影的關鍵看點。",
+      "url": "https://www.bbc.com/zhongwen/articles/c4gwedwpvy4o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-17T11:47:33.000Z"
+    },
+    {
+      "id": "8d3af312c856",
+      "title": "香港「禁書時代」：國安法下那些被下架、點名與檢走的書",
+      "summary": "自2020年港區國安法生效後，每年香港都有不同書籍被下架、消失或點名。BBC中文梳理這些年，曾被圖書館及書展下架、被建制報章點名，以及近來國安在搜捕行動中被檢走的書籍，試圖從這些軌跡中，拼湊出一份「禁書清單」。",
+      "url": "https://www.bbc.com/zhongwen/articles/c3v0xg2zq9go/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-17T11:27:20.000Z"
+    },
+    {
+      "id": "615d3228e22b",
+      "title": "‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court",
+      "summary": "<p>Attorneys general from 12 states are suing to block the Paramount-Warner Bros deal they say violates antitrust law</p><p>A last-ditch effort to block the merger between Paramount Skydance and Warner Bros Discovery (WB",
+      "url": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-17T11:00:06.000Z"
+    },
+    {
+      "id": "88a4cbc37f33",
+      "title": "ICE arrests human rights lawyer who fled Chinese crackdown",
+      "summary": "<p>Arrest in Pennsylvania of Wu Shaoping, who is awaiting asylum decision, raises fears of deportation and persecution</p><p>A Chinese human rights lawyer has been arrested by US Immigration and Customs Enforcement (ICE)",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-17T09:20:57.000Z"
+    },
+    {
+      "id": "3bf25c5749ac",
+      "title": "習近平首度現身世界AI大會：中國的「開源」戰略意味著什麼？",
+      "summary": "在美中AI競爭加劇之際，習近平首次親自出席世界人工智能大會，將「開源」置於中國AI戰略的核心。",
+      "url": "https://www.bbc.com/zhongwen/articles/c2k7jkvwq1zo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-17T09:19:29.000Z"
+    },
+    {
+      "id": "c56008665007",
+      "title": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
+      "summary": "<p>Storms are typical during intense heat but this week’s have been extreme. Plus, deadly monsoon rains in Bangladesh</p><p>Hailstones the size of golf balls have been seen in French villages as, on top of the exceptiona",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-17T08:35:56.000Z"
+    },
+    {
+      "id": "0583eb1ed936",
+      "title": "什麼是「依托咪酯」？新型毒品危機蔓延東亞各國",
+      "summary": "一種名為「依托咪酯」的醫療用短效麻醉藥物，近年被改造成電子煙煙油，在東亞多地青少年間迅速蔓延。",
+      "url": "https://www.bbc.com/zhongwen/articles/cd7l3qvnwv4o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-17T08:26:16.000Z"
+    },
+    {
+      "id": "e231125ddec9",
+      "title": "「電影最大的風險是不去冒險」：BBC專訪電影《奧德賽》劇組",
+      "summary": "今年夏天，克里斯多福．諾蘭（Christopher Nolan）正以擁有三千年歷史的《奧德賽》改寫電影史 —— 該部片是全球首部全程以IMAX規格拍攝的電影。",
+      "url": "https://www.bbc.com/zhongwen/articles/c1k13k3xyw9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-17T08:24:01.000Z"
+    },
+    {
+      "id": "2240cb2dd2cb",
+      "title": "‘Brazen corruption’: critics denounce Trump Media plan to sell priority access to Truth Social posts",
+      "summary": "<p>Move would allow Wall Street trading firms and other institutions to potentially profit from seeing president’s posts first</p><p>Donald Trump’s media company is planning to charge for special high-speed access to Tru",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-media-truth-social-posts",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-17T08:16:58.000Z"
+    },
+    {
+      "id": "9f5cc69f259a",
+      "title": "特朗普政府收緊外國學生簽證規定",
+      "summary": "學生若要在美國逗留超過四年，將須取得聯邦政府許可，而大學也將失去延長簽證期限的權力。",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y351rvz2lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-17T08:11:00.000Z"
+    },
+    {
+      "id": "8a18f1346139",
+      "title": "英國鋼鐵國有化 中國「堅決反對」侵犯華資權益",
+      "summary": "英國政府表示，將該公司收歸國有將保障「一項至關重要的國家能力」。",
+      "url": "https://www.bbc.com/zhongwen/articles/cedj1qld27yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-17T08:02:15.000Z"
+    },
+    {
+      "id": "782371def9bf",
+      "title": "劍指中國 特朗普稱美國選舉安全有「令人震驚的漏洞」",
+      "summary": "特朗普指責中國干預2020年選舉，這與美國情報部門過去的調查結果直接相矛盾。北京反駁其說法「無中生有，惡意抹黑」。",
+      "url": "https://www.bbc.com/zhongwen/articles/c5ywdnz6yqgo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-17T07:39:26.000Z"
+    },
+    {
+      "id": "4a7b3dea3ca3",
+      "title": "Castlevania: Belmont’s Curse - Konami classic rises again from Paris sewers and Joan of Arc is a boss",
+      "summary": "<p>Evil Empire creatives explain how it is playing to today’s ‘metroidvanias’ and honouring the original’s legacy with much fresh slaying to be done</p><p></p><p>Since the last Castlevania game hit the shelves (2014’s<a ",
+      "url": "https://www.theguardian.com/games/2026/jul/17/castlevania-belmonts-curse-komani-classic-paris-joan-of-arc-is-a-boss",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-17T07:00:01.000Z"
+    },
+    {
+      "id": "9e83eac4010b",
+      "title": "China ‘strongly dissatisfied’ with nationalisation of British Steel",
+      "summary": "<p>Move dealt ‘severe blow to Chinese companies’ confidence in investing in the UK’, says Ministry of Commerce</p><p>China’s government has said it is “strongly dissatisfied” with the decision to nationalise British Stee",
+      "url": "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-17T06:57:08.000Z"
+    },
+    {
+      "id": "f581e1a30169",
+      "title": "Robert Laidlow: Reality Eaters album review",
+      "summary": "<p><strong>BBC Philharmonic/Havlat/Kaziboni/Piatti Quartet<br>(NMC)</strong><br>Einstein’s field equations, Newton’s universal law and artificial intelligence are among the subjects of Laidlow’s ambitious orchestral work",
+      "url": "https://www.theguardian.com/music/2026/jul/17/robert-laidlow-reality-eaters-album-review",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-17T06:30:00.000Z"
+    },
+    {
+      "id": "671ee8f50864",
+      "title": "Kalshi to offer betting on drug trial results and FDA regulatory decisions",
+      "summary": "<p>Move comes as prediction platforms rapidly gain popularity and offer opportunities to bet on virtually anything</p><p>Kalshi is expanding its wagers to include bets on drug trial results, an expansion into new predict",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-16T21:11:36.000Z"
+    },
+    {
+      "id": "b43db54f5a09",
+      "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+      "summary": "<p>Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’</p><p>Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the U",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-16T15:20:58.000Z"
+    },
+    {
+      "id": "6ce1e84646f3",
+      "title": "Denshattack! review – time to get on board with kickflipping trains",
+      "summary": "<p><strong>PC, PS5, Xbox Series X/S, Nintendo Switch 2; Undercoders<br></strong>Colourful, counter-cultural and captivating – this rail riding game set in a dystopian Japan is as weird as it is exhilarating</p><p>Every n",
+      "url": "https://www.theguardian.com/games/2026/jul/16/denshattack-review-trains-undercoders",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-16T14:09:39.000Z"
+    },
+    {
+      "id": "006dcd2d7db4",
+      "title": "US gas prices edge up again as US-Iran tensions heighten over strait of Hormuz",
+      "summary": "<p>Diesel tops $5 a gallon as regular gas reaches almost $4, nearly a dollar and a quarter more than a year ago</p><p>The average price of diesel fuel in the US has increased again to more than $5 a gallon, <a href=\"http",
+      "url": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-16T12:26:57.000Z"
+    },
+    {
+      "id": "5f35d1c37a62",
+      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+      "summary": "<p>Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo</p><p>Uganda has started lobbying countries to lift Ebola-relate",
+      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-16T11:33:27.000Z"
+    },
+    {
+      "id": "f06b6292fcfc",
+      "title": "Democrats allege Trump administration stalled US-Canada bridge opening as a favor to billionaire donor",
+      "summary": "<p>Delay seen as move to protect interests of Matthew Moroun, the owner of nearby Ambassador Bridge and a Trump donor</p><p>The Trump administration for months blocked a $4.7bn publicly owned bridge between Detroit and W",
+      "url": "https://www.theguardian.com/business/2026/jul/16/trump-administration-canada-gordie-howe-bridge",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-16T11:00:37.000Z"
+    },
+    {
+      "id": "b5e4bd58aa89",
+      "title": "The social media ban sceptic: are we getting it wrong on kids, tech and mental health?",
+      "summary": "<p>Psychologist Candice Odgers has studied adolescent mental health for 25 years. She fears the current debate around smartphones obscures some of the biggest issues facing teenagers – from the impact of Covid to the hea",
+      "url": "https://www.theguardian.com/society/2026/jul/16/psychologist-candice-odgers-kids-tech-mental-health-social-media-bans",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-16T06:50:29.000Z"
+    },
+    {
+      "id": "4c8005fb7501",
+      "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
+      "summary": "<p>President Lula’s office says US move is result of pressure on White House by family of predecessor Jair Bolsonaro</p><p>Brazil has vowed to retaliate against Washington’s decision to impose 25% tariffs on imports of s",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-16T05:01:23.000Z"
+    },
+    {
+      "id": "8f2c3131bd80",
+      "title": "Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences",
+      "summary": "<p>Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’</p><p>On each side of the target ship, a black vessel keeps a watchful distance. Defender 1 ",
+      "url": "https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-16T04:00:14.000Z"
+    },
+    {
+      "id": "6bcb73e74cd9",
+      "title": "白色恐怖迷霧中，台灣政治受難者後代如何摸索真相？",
+      "summary": "今年是台灣解嚴第39年。在年初，台灣掀起了一波「台灣史補課潮」，許多人第一次深入認識到家中戒嚴時期的記憶，並到檔案館尋找解密的政治檔案。",
+      "url": "https://www.bbc.com/zhongwen/articles/cewqw01d220o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-16T02:49:01.000Z"
+    },
+    {
+      "id": "4030123f336c",
+      "title": "New York Times files motion to quash justice department’s subpoenas",
+      "summary": "<p>Journalists who had reported on security concerns around the new Air Force One, a gift from Qatar, received summons</p><p>The New York Times on Wednesday filed a motion to quash subpoenas the justice department served",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/new-york-times-subpoenas-air-force-one",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-16T00:32:16.000Z"
+    },
+    {
+      "id": "c88679400857",
+      "title": "Tripling US union membership would shift $1.2tn to workers annually – report",
+      "summary": "<p>More density would also narrow racial pay gaps, while a decline in density correlated to surges in wealth inequality</p><p>Tripling union membership in the US would lead to a 14.5% raise for the median US worker, shif",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/union-membership-rates",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-15T14:37:02.000Z"
+    },
+    {
+      "id": "8fae54d7e42a",
+      "title": "Zombies, gore and creepy kids – why we can’t stop playing horror games",
+      "summary": "<p>As global anxieties multiply, ​v​ideo games from Resident Evil to Mouthwashing are providing rich source material to help decode society’s problems</p><p><strong>• </strong><a href=\"https://www.theguardian.com/info/ng",
+      "url": "https://www.theguardian.com/games/2026/jul/15/pushing-buttons-horror-game-cultural-crisis-scholars",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-15T14:00:56.000Z"
+    },
+    {
+      "id": "33eeb0a6eb08",
+      "title": "曾研究朝鮮核試驗，美籍華裔地震學家陳友麟遭中國拘留",
+      "summary": "陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。",
+      "url": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-15T12:26:18.000Z"
+    },
+    {
+      "id": "c85f66dee020",
+      "title": "涉嫌掌控中美芬太尼供應鏈的中國毒梟「王哥」是誰？",
+      "summary": "張智棟，綽號「王哥」（Brother Wang），畢業於中國頂尖名校，說得一口流利西班牙語。在墨西哥販毒集團成員口中，他被稱為「El Rey（國王）」。如今，張智棟被關押於美國，面臨販毒等相關指控。BBC追查他的崛起與殞落，訪問了聲稱親眼見證其影響力的販毒集團成員，試圖揭開這名關鍵人物如何成為全球毒品網絡的重要一環。",
+      "url": "https://www.bbc.com/zhongwen/articles/c24y40lzd78o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-15T10:47:01.000Z"
+    },
+    {
+      "id": "ad1da2b9d575",
+      "title": "D-topia review – cosy sci-fi mystery takes aim at AI",
+      "summary": "<p><strong>PC, PS5, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2; Marimittu Games<br></strong>A soft puzzle game makes a sharp point about the over-optimised future ahead</p><p>In the far future, on a planet that ",
+      "url": "https://www.theguardian.com/games/2026/jul/14/d-topia-review-sci-fi-ai-puzzle-game",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-14T13:00:25.000Z"
+    },
+    {
+      "id": "2bb8c70f01c2",
+      "title": "Synthetic Sincerity review – Marc Isaacs’ AI interrogation grapples with identity and existence",
+      "summary": "<p>A combination of fact and fiction leaves the celebrated documentarian’s puzzling project about software training wanting for depth</p><p>Marc Isaacs’ new film is a curious, intriguing, semi-sincere affair that I could",
+      "url": "https://www.theguardian.com/film/2026/jul/14/synthetic-sincerity-review-marc-isaacs-ai",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-14T10:00:57.000Z"
+    }
+  ]
+}
