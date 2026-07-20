@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="讯息流——聚合科技、财经、国际、AI 与商业资讯。" />
+  <title>讯息流｜每日重要新闻</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="讯息流首页">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>
+      <strong>讯息流</strong>
+    </a>
+    <nav aria-label="新闻分类" id="main-nav"></nav>
+    <button class="search-toggle" id="search-toggle" aria-label="搜索新闻" aria-expanded="false"><span></span></button>
+    <span class="live"><i></i>实时更新</span>
+  </header>
+
+  <div class="search-panel" id="search-panel" hidden>
+    <label for="search-input">搜索全部资讯</label>
+    <div><input id="search-input" type="search" placeholder="输入公司、行业或关键词…" /><button id="search-close">关闭</button></div>
+    <p>热门：AI 智能体　先进制程　利率　供应链</p>
+  </div>
+
+  <main id="top">
+    <section class="dashboard">
+      <article class="hero">
+        <div class="map-art" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></div>
+        <div class="hero-copy">
+          <p class="eyebrow">今日焦点</p>
+          <h1>今日值得关注的<br />8 件事</h1>
+          <p class="summary">从芯片竞赛到全球市场波动，快速掌握今天真正影响未来的关键信号。</p>
+          <p class="byline">讯息流编辑部 · 2026年7月20日</p>
+          <a class="primary" href="#news">阅读今日简报 <b>›</b></a>
+        </div>
+        <div class="topics">
+          <div><span>▦</span><p><strong>芯片竞赛升温</strong><small>多国加码先进制程</small></p></div>
+          <div><span>◎</span><p><strong>全球市场波动</strong><small>利率信号引发重估</small></p></div>
+          <div><span>▥</span><p><strong>AI 深化落地</strong><small>从效率到决策驱动</small></p></div>
+          <div><span>◇</span><p><strong>供应链重构</strong><small>区域化与韧性并重</small></p></div>
+        </div>
+      </article>
+
+      <aside class="side">
+        <section class="panel signals">
+          <div class="panel-title"><h2>实时信号</h2><span>查看全部 ›</span></div>
+          <div id="signals"></div>
+        </section>
+        <section class="panel market">
+          <div class="panel-title"><h2>趋势指数</h2><span>查看全部 ›</span></div>
+          <div id="markets"></div>
+          <small class="data-time">数据截至 2026-07-20 10:30</small>
+        </section>
+      </aside>
+    </section>
+
+    <section class="news-section" id="news">
+      <div class="section-head">
+        <div><p class="eyebrow">编辑精选</p><h2 id="section-title">把重要新闻，放在同一条信息流里</h2></div>
+        <p>筛掉噪音，只保留对行业、市场和未来真正有影响的内容。</p>
+      </div>
+      <div class="filters"><div id="filter-nav"></div><span id="result-count"></span></div>
+      <div class="news-grid" id="news-grid"></div>
+      <div class="empty" id="empty" hidden><strong>没有找到相关资讯</strong><p>换一个关键词，或浏览其他分类。</p><button id="reset-filter">查看全部新闻</button></div>
+      <button class="load-more" id="load-more">加载更多资讯 ↓</button>
+    </section>
+
+    <section class="briefing">
+      <div><p class="eyebrow">每日简报</p><h2>每天 8:30，读完真正重要的事</h2><p>由编辑筛选科技、财经与全球商业动态，五分钟掌握关键变化。</p></div>
+      <form id="subscribe-form"><label for="email">订阅邮箱</label><div><input id="email" type="email" placeholder="name@example.com" required /><button>订阅简报</button></div><small id="subscribe-note">每个工作日一封，无广告，可随时退订。</small></form>
+    </section>
+  </main>
+
+  <footer><a class="brand" href="#top"><strong>讯息流</strong></a><p>理解变化，而不是追逐噪音。</p><span>© 2026 讯息流 · 演示资讯站</span></footer>
+  <script src="script.js"></script>
+</body>
+</html>
