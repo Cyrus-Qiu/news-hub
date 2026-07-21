@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T23:09:10.626Z",
+  "updatedAt": "2026-07-21T01:02:14.768Z",
   "sources": [
     {
       "name": "人民网",
@@ -29,6 +29,326 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "b8f836ca1db7",
+      "title": "培养更多与产业发展同频的技能人才",
+      "summary": "作者：杨三喜(媒体评论员)",
+      "url": "https://www.chinanews.com.cn/ll/2026/07-21/10663292.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:56:49.000Z"
+    },
+    {
+      "id": "9aeeab7ac2ad",
+      "title": "机器人正逐渐替代高温、有毒、高空、高危等岗位",
+      "summary": "工人日报北京7月20日电(记者王凤仪)今天上午，国新办举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明在会上表示，在各方面共同努力下，新兴产业新动能作用持续凸显。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-21/10663293.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:56:01.000Z"
+    },
+    {
+      "id": "f5849f6182d4",
+      "title": "Australia news live: Qantas apologises for four-hour wait on Sydney tarmac; Barnaby Joyce unleashes on dog in 7.30 interview",
+      "summary": "<p>Airline says communication ‘could have been better’ after about 250 passengers waited hours for flight to Denpasar to leave. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-ne",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-21T00:54:59.000Z"
+    },
+    {
+      "id": "34bb5fbcad75",
+      "title": "US launches further strikes on Iran; Houthis threaten Saudi shipping blockade – Middle East crisis live",
+      "summary": "<p>US says latest attack aimed at further degrading Iranian military capabilities; Yemen militant group threatens traffic moving through Bab el-Mandeb strait</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/",
+      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-21T00:49:00.000Z"
+    },
+    {
+      "id": "a03ac169d696",
+      "title": "伊朗外长质问威特科夫：你参加过随时会被炸的会议吗？",
+      "summary": "中新网7月21日电 据外媒报道，伊朗外长阿拉格齐近日接受采访时表示，他曾问过美国中东问题特使威特科夫，是否曾在认为“整场会议随时可能被炸毁”的情况下参与谈判。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663288.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:44:28.000Z"
+    },
+    {
+      "id": "91d5ccb6f683",
+      "title": "新思想引领新征程丨东西部协作 推动共同富裕迈出坚实步伐",
+      "summary": "东西部协作，在助力脱贫攻坚、促进区域协调发展等方面发挥了重要作用。今年是“十五五”开局之年，也是开展常态化帮扶第一年。习近平总书记强调，要进一步完善协作机制，优化协作方式，拓展协作领域。沿着习近平总书记指引的方向，各协作省份不断提升协作质效，促进优势互补、双向赋能、共同发展，接续奋斗开启新征程。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-21/10663291.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:34:56.000Z"
+    },
+    {
+      "id": "687a2ee792a8",
+      "title": "习近平牵挂的“大城小事”",
+      "summary": "繁华现代的上海，曾经也有不少老旧里弄居民为“倒马桶”而发愁。为群众安装抽水马桶的“难题”最终如何破解？答案就在“三问于民”。今年7月15日，习近平总书记在上海考察时强调，要全面践行人民城市理念，坚持问需于民、问计于民、问效于民。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-21/10663290.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:34:36.000Z"
+    },
+    {
+      "id": "6a716de5b231",
+      "title": "退房必须恢复原状吗？租房签约避坑指南→",
+      "summary": "在商业租房过程中，承租人为了经营需要，往往会签订长期租赁合同，经出租人同意后对房屋进行大规模装修，甚至改变房屋结构和经营用途。很多人认为，只要装修经过了出租人同意，无论什么情况，都不需要把房屋恢复原状。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663286.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:30:39.000Z"
+    },
+    {
+      "id": "f5b4a529fd86",
+      "title": "清洁空调到底该花多少钱？怎么洗才算规范？一文了解",
+      "summary": "进入暑期以来，全国多地开启高温模式，空调清洗服务的预约量也越来越多。然而，火爆的市场背后，针对清洗质量和售后保障的投诉也随之增多。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663285.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:29:23.000Z"
+    },
+    {
+      "id": "7cb99d612242",
+      "title": "广西和长江中下游等地有较强降水 内蒙古华北等地多雷阵雨",
+      "summary": "中新网7月21日电 据中央气象台网站消息，昨日，广西、广东、湖南、江西、安徽、江苏、浙江及河北、天津等地出现强降雨，四川盆地、陕西及新疆等地有高温天气。预计未来三天，广西至长江中下游一带仍多强降雨和强对流天气，需做好山洪、地质灾害、中小河流洪水等次生灾害防御，防范对城市运行、农业生产、交通、旅游等的影响；内蒙古、华北等地多雷阵雨，关注短时强降雨、雷电、风雹天气对户外活动、交通等的影响。另外，关注西北地区、四川盆地等地的高温天气发展趋势及",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663283.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:18:41.000Z"
+    },
+    {
+      "id": "9f137dd21c21",
+      "title": "Pauline Hanson shares Seven pitch for Spotlight special that says program would highlight ‘uncontrolled immigration’",
+      "summary": "<p>One Nation leader posts network’s proposal to travel to UK to explore what Australia faces ‘if we don’t take back control of who comes to our country’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/21/pauline-hanson-shares-seven-pitch-encouraging-her-to-meet-nigel-farage-for-spotlight-special-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-21T00:17:26.000Z"
+    },
+    {
+      "id": "af59e85f2ee1",
+      "title": "携手构建公正合理的全球人工智能治理体系述评之二",
+      "summary": "新华社北京7月19日电#8195;题：强化风险意识 确保安全可控——携手构建公正合理的全球人工智能治理体系述评之二",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-21/10663284.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:15:02.000Z"
+    },
+    {
+      "id": "017de5af591a",
+      "title": "卢浮宫遭劫展厅即将重新开放",
+      "summary": "中新网7月21日电 据法新社21日报道，曾于2025年10月遭遇抢劫的卢浮宫阿波罗长廊即将于22日重新开放。一位知情人士称，届时展厅内将不再展出珠宝。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663282.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:09:36.000Z"
+    },
+    {
+      "id": "a28bd19ad90c",
+      "title": "搭乘太陽能火車，穿越阿根廷一萬年的原住民歷史",
+      "summary": "這列零排放豪華列車正帶領旅客穿越彩虹山脈、原住民村莊，以及一條擁有一萬年歷史的文化走廊。",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y4rneklx1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:08:48.000Z"
+    },
+    {
+      "id": "de021caef336",
+      "title": "從烏干達、美國到中國：在俄羅斯戰爭中喪生的外國人",
+      "summary": "BBC調查發現，來自40多個國家的逾3,500名外國公民，在烏克蘭戰爭中為俄羅斯作戰時死亡，當中包括來自厄瓜多爾、烏干達、美國、中國、越南和斯里蘭卡的人。",
+      "url": "https://www.bbc.com/zhongwen/articles/c20e6vk7dn6o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:08:29.000Z"
+    },
+    {
+      "id": "7eee965295dc",
+      "title": "「兩岸之間只剩三公里」：金門對面多了一座巨型機場，台灣憂軍事與飛航安全",
+      "summary": "BBC中文記者實地走訪金門，隔海的廈門翔安機場設施清晰可辨，近距離感受遠超一般想像。這座由中國大陸填海興建的機場，由於位置敏感，正引發台灣對軍事威脅和區域安全的高度關切。",
+      "url": "https://www.bbc.com/zhongwen/articles/c3v0x30ny39o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:07:48.000Z"
+    },
+    {
+      "id": "aa2fdd7016e1",
+      "title": "以为能吃，其实可能“有毒”！专家提示这7种食物要注意",
+      "summary": "以为能吃，其实可能“有毒”的 7 种食物！提醒爸妈一定要扔！",
+      "url": "https://www.chinanews.com.cn/jk/2026/07-21/10663281.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T00:06:50.000Z"
+    },
+    {
+      "id": "3b59d9ab2dde",
+      "title": "匈牙利国际象棋大师波尔加尔谢绝出任总统",
+      "summary": "中新网7月21日电 据路透社报道，匈牙利女子国际象棋大师波尔加尔·尤迪特20日称，已谢绝总理毛焦尔对其出任下一任总统的邀请。波尔加尔表示，自身尚不具备承担“这一历史性责任”所需的能力。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663279.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:52:57.000Z"
+    },
+    {
+      "id": "a6c7baf6d84d",
+      "title": "从勘察预警到组织撤离：重庆彭水山体崩塌中的“逆行”网格员",
+      "summary": "7月17日，重庆市彭水县汉葭街道突发山体崩塌，致下方多栋居民楼垮塌，有人员被掩埋。",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/07-21/news1062719.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:50:42.000Z"
+    },
+    {
+      "id": "478f25a45dd3",
+      "title": "“保险低价游”成陷阱，行业“跨界”不能“越界”",
+      "summary": "399元淄博三日游、199元天津两日游……近年来，一种打着“保险公司回馈老客户”旗号的低价旅游悄然兴起，屡屡演变为诱导购物、虚假宣传的消费陷阱。近日，在文化和旅游部通报的典型案例中，多起涉及保险代理人违规组织旅游活动，多家知名保险企业被点名，中老年消费者正成为这场灰色产业链的“围猎”对象。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663278.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:45:34.000Z"
+    },
+    {
+      "id": "cb759859f1f2",
+      "title": "中国海警小型巡逻艇遭菲方人员挑衅滋事",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-21/1198876.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:44:44.000Z"
+    },
+    {
+      "id": "948464bea91f",
+      "title": "2026世界人工智能大会暨人工智能全球治理高级别会议在沪闭幕",
+      "summary": "中新社上海7月21日电 (记者 郑莹莹)为期4天的2026世界人工智能大会暨人工智能全球治理高级别会议20日在上海落下帷幕。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-21/10663271.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:42:42.000Z"
+    },
+    {
+      "id": "7d160c3d30e3",
+      "title": "家政服务新规出台 解决“素质不高”“信用不明”等痛点",
+      "summary": "商务部等9部门昨天(20日)发布关于促进家政服务业高质量发展的若干政策措施，从5个方面提出19条政策措施，破解当前我国家政服务业发展面临的堵点难点，推动行业高质量发展，促进家政服务消费。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663275.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:39:48.000Z"
+    },
+    {
+      "id": "2f7b2c638fbe",
+      "title": "一男子向纽约市一联邦大楼投掷燃烧装置被拘留",
+      "summary": "中新网7月21日电 据美国有线电视新闻网报道，一名嫌疑人因涉嫌于20日上午向纽约市一联邦大楼投掷燃烧装置已被拘留。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663276.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:39:38.000Z"
+    },
+    {
+      "id": "5b1b5ef42c04",
+      "title": "中国驻俄使馆发言人就中国公民在无人机袭击中受伤事答问",
+      "summary": "中新社莫斯科7月20日电 中国驻俄罗斯大使馆发言人20日就3名中国公民在莫斯科州无人机袭击中受伤事答问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-21/10663270.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:38:38.000Z"
+    },
+    {
+      "id": "3721a87efdb5",
+      "title": "出口持续增长、外贸占比提升、各路买家点赞——中国机电靠啥畅销海外？",
+      "summary": "从冰箱、空调、电风扇，到电极、光伏、挖掘机，中国机电产品日益成为全球消费者的重要选择。刚刚公布的外贸数据显示，今年上半年，我国出口机电产品9.36万亿元，增长20.1%，占出口总值的63.5%，较去年同期提升了3.5个百分点。自2025年3月起，机电出口已连续十多个月刷新同期月度最高纪录。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-21/10663274.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:36:52.000Z"
+    },
+    {
+      "id": "38009e56a5ab",
+      "title": "今年厄尔尼诺现象强度或创纪录——怎么了？怎么办？",
+      "summary": "今年厄尔尼诺现象强度或创纪录——",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663273.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:35:06.000Z"
+    },
+    {
+      "id": "be7f17ca9bd4",
+      "title": "暑期涉未成年人诈骗高发 学生和家长如何防范？",
+      "summary": "夏天到了，原本学生放松的假期，却被诈骗分子视为收割季。不法分子围绕游戏娱乐、网络兼职、出行旅游等高频场景，精心设计“假期专属剧本”，实施精准诈骗，目前已有多名学生和家长上当受骗。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663272.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:32:44.000Z"
+    },
+    {
+      "id": "d96db8dffc36",
+      "title": "中国共产党成功密码的系统凝练与理论升华",
+      "summary": "中国共产党成功密码的系统凝练与理论升华(深入学习贯彻习近平新时代中国特色社会主义思想)",
+      "url": "https://www.chinanews.com.cn/ll/2026/07-21/10663269.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:27:31.000Z"
+    },
+    {
+      "id": "b9c4900fd07c",
+      "title": "从“照单生产”到定义潮流，义乌世界杯生意如何推陈出新？",
+      "summary": "原创周边批量上新，多个爆款走俏海外，商户揽单忙不停",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-21/10663268.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:23:21.000Z"
+    },
+    {
+      "id": "2cb79a022975",
+      "title": "暴雨、强对流天气预警持续 广西、广东等局地有大暴雨",
+      "summary": "中新网7月21日电 据中央气象台网站消息，21日6时，中央气象台发布暴雨黄色预警、强对流天气黄色预警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663267.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:21:35.000Z"
+    },
+    {
+      "id": "886c4498f56e",
+      "title": "7月21日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/07-21/10663266.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-20T23:01:40.000Z"
+    },
+    {
       "id": "1d60b6bf2647",
       "title": "俄外交部宣布对等驱逐意大利驻俄武官",
       "summary": "中新社莫斯科7月20日电 俄罗斯外交部20日召见意大利驻俄临时代办，就意方此前“无理”驱逐俄罗斯驻意大使馆一名武官和一名助理武官提出抗议，并宣布对等驱逐意大利驻俄大使馆一名武官和一名助理武官。",
@@ -37,16 +357,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-20T22:51:47.000Z"
-    },
-    {
-      "id": "f5849f6182d4",
-      "title": "Australia news live: Barnaby Joyce dogged by Tommy Robinson questions – and by a dog – in spiky ABC interview",
-      "summary": "<p>One Nation MP grilled in 7.30 interview about Pauline Hanson’s podcast interview by far-right activist. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sf",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-20T22:51:11.000Z"
     },
     {
       "id": "8834a578b88c",
@@ -67,16 +377,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-20T22:50:17.000Z"
-    },
-    {
-      "id": "34bb5fbcad75",
-      "title": "US military launches further strikes on Iran after Trump says Tehran ‘will pay’ for killing soldiers – Middle East crisis live",
-      "summary": "<p>US Central Command says latest attack aimed at degrading Iranian military capabilities after president threatens country over deaths of US troops</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/20/us",
-      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-20T22:49:04.000Z"
     },
     {
       "id": "08ab2ac8c965",
@@ -107,26 +407,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-20T22:27:04.000Z"
-    },
-    {
-      "id": "ea52c670db11",
-      "title": "美军连续第10天对伊朗发动军事打击",
-      "summary": "中新网7月21日电 美军中央司令部20日在社交媒体发布消息说，按照美国总统特朗普指示，美军于美国东部时间20日16时(北京时间21日4时)对伊朗发动新一轮打击。此次打击旨在进一步削弱伊朗袭击霍尔木兹海峡商船的军事能力。这是自11日以来美军对伊朗连续第10天发动军事打击。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663261.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T22:26:58.000Z"
-    },
-    {
-      "id": "75d3bf87f28e",
-      "title": "美国纽约一联邦大楼外发生纵火案 致三人受伤",
-      "summary": "中新社纽约7月20日电 (记者 王帆)美国纽约市一栋联邦大楼外20日发生一起纵火案，造成三人受伤。执法部门表示，该事件疑似与抗议美国移民政策有关，目前嫌疑人已被逮捕。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663260.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T22:21:59.000Z"
     },
     {
       "id": "6d4bba00b4ca",
@@ -239,46 +519,6 @@
       "publishedAt": "2026-07-20T15:52:58.000Z"
     },
     {
-      "id": "aac54445cdcf",
-      "title": "中国人寿积极配置A股资产 单日净买入超100亿元",
-      "summary": "作为我国资本市场最大的专业机构投资者之一，中国人寿资产管理有限公司坚定看好中国经济光明前景和资本市场长期向好趋势，始终坚持保险资金长期投资、价值投资、稳健投资理念，持续发挥公司推动中长期资金入市相关工作机制作用，把握战略配置机会，优化提升权益投资结构和比例，加大配置现代产业体系和新质生产力等重点领域，将为资本市场提供长期稳定的资金供给，在资本市场良性循环中推动企业价值提升，助力增强投资者中长期收益和获得感。近日，在市场相应点位加力提效、",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663259.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T15:50:52.000Z"
-    },
-    {
-      "id": "648fcbd7e94b",
-      "title": "斯塔默内阁多名大臣卸任",
-      "summary": "当地时间20日，在伯纳姆接替斯塔默担任英国首相后，斯塔默内阁多名大臣卸任，包括副首相拉米、商业贸易大臣彼得·凯尔、住房大臣史蒂夫·里德和财政大臣里夫斯，他们将不会在伯纳姆内阁中继续担任职务。伯纳姆将组建新一届内阁。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-20/10663258.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T15:35:03.000Z"
-    },
-    {
-      "id": "8249721710be",
-      "title": "中国海军83舰编队起航继续执行远海综合实习访问任务",
-      "summary": "中新社大连7月20日电 由中国海军戚继光舰和昆仑山舰组成的海军83舰编队搭载900余名海军学员和官兵，20日从广东湛江某军港解缆起航继续执行远海综合实习访问任务。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663257.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T15:32:49.000Z"
-    },
-    {
-      "id": "d39b7ed898bb",
-      "title": "中华人民共和国政府和泰王国政府联合声明（全文）",
-      "summary": "新华社北京7月20日电",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663256.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T15:20:43.000Z"
-    },
-    {
       "id": "6035c8c54cda",
       "title": "Russian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – as it happened",
       "summary": "<p>Moscow targets southern city after the Russian capital was hit by 400 drones in response to one of the war’s biggest attacks on Kyiv at the weekend</p><p>There is also a bit more from Reuters on the context – and the ",
@@ -299,16 +539,6 @@
       "publishedAt": "2026-07-20T15:00:45.000Z"
     },
     {
-      "id": "b58c495295c6",
-      "title": "Manufacturing union says Australia’s tax system is ‘rigged’ in bold manifesto ahead of Labor conference",
-      "summary": "<p>AMWU calls for wealth and inheritance taxes, free education and more revenue from gas companies as it outlines ‘working-class agenda’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/21/",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/21/manufacturing-union-says-australias-tax-system-is-rigged-in-bold-manifesto-ahead-of-labor-conference",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-20T15:00:44.000Z"
-    },
-    {
       "id": "167fba563426",
       "title": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods",
       "summary": "<p>Chinese retail platform handed penalty over listings for items such as counterfeit products and unsafe toys</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/20/oil-price-rises-us-iran-strikes-",
@@ -317,206 +547,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-20T14:57:07.000Z"
-    },
-    {
-      "id": "b2efd2d23419",
-      "title": "美官员：美国将向中东增派战机",
-      "summary": "央视记者当地时间7月20日获悉，随着美国与伊朗紧张局势持续升级，美国正增加在中东地区的军机部署。一名美国官员表示，美方计划从欧洲基地增派F-16和F-35战斗机，以及更多空中加油机。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-20/10663254.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:44:16.000Z"
-    },
-    {
-      "id": "b24fa147e064",
-      "title": "李强致电祝贺伯纳姆就任英国首相",
-      "summary": "新华社北京7月20日电 7月20日，国务院总理李强致电安迪·伯纳姆，祝贺他就任英国首相。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663252.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:37:50.000Z"
-    },
-    {
-      "id": "62bb4a224ac4",
-      "title": "中国科学家领衔完成黑洞高精度“体检”",
-      "summary": "中新社北京7月20日电 (记者 孙自法)7年多前全球合作获得人类首张黑洞照片的M87星系中心超大质量黑洞，最近由中国天文学家领衔取得一项重大突破性研究进展——相当于为黑洞开展一次高精度的“空间光谱体检”，研究团队获得人类首张空间分辨的黑洞事件视界尺度谱指数图像，助力学界从“看见黑洞”到“读懂黑洞”。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663250.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:21:15.000Z"
-    },
-    {
-      "id": "ce511eb8575f",
-      "title": "联合国秘书长古特雷斯访问云南",
-      "summary": "中新社昆明7月20日电 7月18日至20日，联合国秘书长安东尼奥·古特雷斯访问云南。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10663249.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:20:37.000Z"
-    },
-    {
-      "id": "b5a6a72bd39f",
-      "title": "中俄友好主题音乐会在莫斯科举行",
-      "summary": "中新网莫斯科7月20日电 中国驻俄罗斯大使馆同俄罗斯中国总商会当地时间17日共同举办庆祝中俄战略协作伙伴关系建立30周年暨《中俄睦邻友好合作条约》签署25周年音乐会。中国驻俄大使张汉晖、俄外交部副部长鲁坚科、俄联邦委员会国际事务委员会第一副主席杰尼索夫、俄下诺夫哥罗德州副州长斯塔罗斯京、俄罗斯中国总商会会长周立群等约1500人出席。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-20/10663246.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:12:26.000Z"
-    },
-    {
-      "id": "9eb52671933e",
-      "title": "伯纳姆就任英国首相",
-      "summary": "中新社伦敦7月20日电 (记者 欧阳开宇)当地时间7月20日，安迪·伯纳姆在白金汉宫接受英国国王查尔斯三世任命后，正式就任英国首相，成为英国过去十年来第七位首相。随后，伯纳姆来到唐宁街10号，发表就任后的首次演说。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-20/10663242.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:12:16.000Z"
-    },
-    {
-      "id": "9f9978fd51fc",
-      "title": "浙江洞头半屏山旁闽韵浓 两岸同胞“金曲”声中共叙深情",
-      "summary": "中新网温州7月20日电(周健)7月20日晚，“海浪的情书”双屏闽南语音乐荟在浙江温州洞头举行。海峡两岸青年音乐人同台献艺，市民游客、青年学子、台湾参访同胞等600余人齐聚现场，共赏闽韵金曲，共叙两岸深情。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10663239.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:11:56.000Z"
-    },
-    {
-      "id": "e00235e76f05",
-      "title": "美国青少年的海南“文化课”：画中意，舌尖味，行中思",
-      "summary": "中新网海口7月20日电 题：美国青少年的海南“文化课”：画中意，舌尖味，行中思",
-      "url": "https://www.chinanews.com.cn/hr/2026/07-20/10663238.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:11:36.000Z"
-    },
-    {
-      "id": "eca5d8e5a0af",
-      "title": "2026年国内新茶饮市场规模预计将突破3700亿元",
-      "summary": "中新网潮州7月20日电 (程景伟 欧晓嫦)2026年中国新茶饮行业发展大会17日至19日在潮州市饶平县举办。大会上，中国茶叶流通协会发布的《2026中国新式茶饮行业分析报告》指出，预计2026年国内新茶饮市场规模将突破3700亿元，新茶饮已成为茶产业培育新质生产力、实现高质量发展的核心增长引擎。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663227.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:11:14.000Z"
-    },
-    {
-      "id": "cae34b9fe9a9",
-      "title": "中越联合科研团队发现一植物新种",
-      "summary": "中新网南宁7月20日电 (俞靖)广西壮族自治区中国科学院广西植物研究所20日介绍，该所相关研究团队联合越南国家自然博物馆、世界苦苣苔协会等机构的科研人员，在越南北部宁平省和河内市开展喀斯特植物科考期间，发现苦苣苔科漏斗苣苔属一新物种——黄花漏斗苣苔。目前，相关研究成果已发表在国际植物分类学期刊《Taiwania》上。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10663226.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:10:46.000Z"
-    },
-    {
-      "id": "4da881f311de",
-      "title": "书本之外看中国：法国华裔Z世代在广州开启研学夏令营",
-      "summary": "中新网广州7月20日电 (蔡敏婕 刘露璐)“虽然我以前来过中国三次了，但对中华传统文化的认知依旧浅显。我期待这次夏令营能带我们深入地了解中国传统的文化与悠久的历史。”法国华裔青少年牛若依20日在广州表示，接下来会主动学习传统技艺、大胆展示自我，多结识志同道合的伙伴。",
-      "url": "https://www.chinanews.com.cn/hr/2026/07-20/10663221.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:10:28.000Z"
-    },
-    {
-      "id": "7b481e4a574b",
-      "title": "福建检察机关五年间提出刑罚执行监督意见、检察建议3.4万余件",
-      "summary": "中新网福州7月20日电 (郑江洛)20日，福建省人民检察院召开刑罚执行监督工作新闻发布会。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663218.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:10:02.000Z"
-    },
-    {
-      "id": "59d453e5a5e6",
-      "title": "第三届高校电子信息学科建设大会举行",
-      "summary": "中新网西安7月20日电 (阿琳娜 蒋鑫瑶)第二十届高校电子信息学院院长(系主任)年会暨第三届高校电子信息学科建设大会17日至19日举行，大会以“聚智育才·共铸一流”为主题，设置1场主论坛、17场分论坛、2场圆桌会议，并设立高校教师岗位现场招聘会。",
-      "url": "https://www.chinanews.com.cn/edu/2026/07-20/10663217.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:09:36.000Z"
-    },
-    {
-      "id": "dcc4edd8b069",
-      "title": "专家学者齐聚沈阳探讨数智时代管理变革落地路径",
-      "summary": "中新网沈阳7月20日电 (记者 韩宏)记者20日从东北大学获悉，第二届数智管理理论与方法创新暨“人工智能管理哲学”学科交叉沙龙近日在东北大学国际学术交流中心聚贤厅举行，来自北京大学、中国科学技术大学、西安交通大学等多家高校的知名学者及企业界代表共聚一堂，探讨数智时代管理变革的落地路径。",
-      "url": "https://www.chinanews.com.cn/edu/2026/07-20/10663215.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:09:02.000Z"
-    },
-    {
-      "id": "51d5af087ef3",
-      "title": "华南侵入式脑机接口临床获突破 截瘫患者凭意念操控光标",
-      "summary": "中新网广州7月20日电 (记者 蔡敏婕)7月20日，39岁的高位截瘫患者陈先生(化名)专注盯着电脑屏幕，聚精会神想着“向右、向右”——屏幕上的光标随即平稳滑动、精准定位......寻常人轻而易举就能完成的动作，对于这位患者而言，这却是他第一次仅凭意念重新了解外部世界。",
-      "url": "https://www.chinanews.com.cn/jk/2026/07-20/10663214.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:08:36.000Z"
-    },
-    {
-      "id": "a343faf3ce60",
-      "title": "2026华语辩论世界杯总决赛在京落幕",
-      "summary": "中新网北京7月20日电 (记者 高凯)2026华语辩论世界杯总决赛暨闭幕式日前在北京石景山区首钢园电竞中心举行。该项赛事聚集近200名青年辩手，在为期7天的赛程中完成39场巅峰对决。",
-      "url": "https://www.chinanews.com.cn/hr/2026/07-20/10663213.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:06:42.000Z"
-    },
-    {
-      "id": "100835a90762",
-      "title": "中国中央歌剧院首次赴澳大利亚巡演 两城献演“歌剧盛典”",
-      "summary": "中新网悉尼7月20日电 (记者 薄雯雯)7月18日至19日，中国中央歌剧院“歌剧盛典 声韵东西”音乐会先后在澳大利亚墨尔本和悉尼举行，两场演出共吸引3000余名观众到场欣赏。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-20/10663211.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:06:26.000Z"
-    },
-    {
-      "id": "276b7f4fe1c6",
-      "title": "AI如何真正成为企业生产力？构建坚实的数字基座是关键",
-      "summary": "中新网上海7月20日电(记者 缪璐)在2026世界人工智能大会暨人工智能全球治理高级别会议框架下，一场聚焦企业级AI工程化落地的产业论坛应运而生，其核心命题在于：AI如何从模型能力真正转化为企业生产力？",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663208.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:05:48.000Z"
-    },
-    {
-      "id": "f9f5737e8722",
-      "title": "辽宁发布上半年GDP数据 经济运行总体平稳",
-      "summary": "中新网沈阳7月20日电 (记者 韩宏)辽宁省统计局20日发布上半年全省经济运行情况。根据地区生产总值统一核算结果，上半年，辽宁省地区生产总值16227.2亿元，按不变价格计算，同比增长2.5%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663207.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:04:54.000Z"
-    },
-    {
-      "id": "96504fd21484",
-      "title": "今年已有2000万人次自上海浦东国际机场口岸出入境",
-      "summary": "中新网上海7月20日电 (陈静 李宇航)上海边检总站上海机场边检站方面20日披露，今年至7月19日，上海浦东国际机场口岸出入境人员查验总量在全国空港口岸中率先突破2000万人次大关；228万人次中转旅客享受24小时直接过境免办边检手续便利。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663216.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-20T14:04:04.000Z"
     },
     {
       "id": "3e3fe148c731",
@@ -567,16 +597,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-20T11:00:03.000Z"
-    },
-    {
-      "id": "3a339ddf93b9",
-      "title": "擅長數學、喜愛爵士樂⋯⋯鯊魚其貌不揚的九件事",
-      "summary": "人類跟鯊魚比想像中更像——BBC整理出九件你絕對想不到的鯊魚知識。",
-      "url": "https://www.bbc.com/zhongwen/articles/cly8ypxel59o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-20T09:13:43.000Z"
     },
     {
       "id": "6038ff5a6346",
@@ -719,16 +739,6 @@
       "publishedAt": "2026-07-19T11:00:25.000Z"
     },
     {
-      "id": "e3220a9f4a3a",
-      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
-      "summary": "有研究顯示100名患者在22年內均沒發現糖尿病病例，只有一宗非致命性癌症；相比下，其1600名同村親屬的糖尿病和癌症比例高得多。",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-19T09:38:34.000Z"
-    },
-    {
       "id": "5cc61abb362e",
       "title": "中國揭陽虐狗案：如何席捲全球各地輿論？",
       "summary": "中國揭陽虐狗案引爆輿論，各地城巿群眾以不同方式聲援，在鬧巿投放廣告、派發傳單，甚至進一步演變成抵制行動。有學者希望事件能促使政府立法保護動物。",
@@ -777,16 +787,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-19T04:00:16.000Z"
-    },
-    {
-      "id": "78cc7c207dde",
-      "title": "輪到你了，梅西——姆巴佩領跑史詩級世界盃金靴之爭",
-      "summary": "姆巴佩在金靴之爭中領先兩球，但梅西仍有可能在世界盃決賽反超前。",
-      "url": "https://www.bbc.com/zhongwen/articles/c78g1858m7go/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-19T00:23:42.000Z"
     },
     {
       "id": "075f7dad7aa4",
