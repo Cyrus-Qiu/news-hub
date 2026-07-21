@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T16:04:42.235Z",
+  "updatedAt": "2026-07-21T17:40:04.403Z",
   "sources": [
     {
       "name": "人民网",
@@ -29,14 +29,74 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "3fa9af8b1943",
+      "title": "Houthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea",
+      "summary": "<p>Warning to shipping companies, on top of Iran’s chokehold on strait of Hormuz, may severely affect Saudi oil exports</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-s",
+      "url": "https://www.theguardian.com/world/2026/jul/21/houthis-threaten-attack-tankers-saudi-arabian-ports-red-sea-shipping",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-21T17:27:45.000Z"
+    },
+    {
+      "id": "0be9f0ff9887",
+      "title": "Trump pledges to ‘take care of’ Houthis if group blocks Saudi ships – Middle East crisis live",
+      "summary": "<p>The Iran-based group said it plans to impose an immediate maritime blockade of Saudi Arabia in the Red Sea</p><p><strong>Lebanon’s president, Joseph Aoun, is due to meet Donald Trump for the first time today</strong> ",
+      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-21T17:21:51.000Z"
+    },
+    {
       "id": "60e74a976d07",
-      "title": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
-      "summary": "<p>Mark Carney says Canada has made proposals to resolve dispute as tariffs are due to be imposed on wide range of goods</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-u",
+      "title": "‘There’s no way they can survive’: Trump defends new 50% tariffs on most Canadian goods – US politics live",
+      "summary": "<p>US president claims ‘Canada has been very tough on us over the years’ as Mark Carney says he has agreed to ‘intensify negotiations’ with US</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-f",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-21T15:58:59.000Z"
+      "publishedAt": "2026-07-21T17:19:57.000Z"
+    },
+    {
+      "id": "c4bbbbc3a097",
+      "title": "受墨江地震影响封锁的中老铁路区间已检查完毕 行车秩序逐步恢复",
+      "summary": "2026年7月21日19时43分，云南普洱市墨江哈尼族自治县发生5.0级地震，中国铁路昆明局集团有限公司按规定第一时间对受影响的中老铁路元江至普洱区段采取封锁检查措施。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-22/10663945.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T16:28:10.000Z"
+    },
+    {
+      "id": "8ce12a132c99",
+      "title": "大熊猫“福虎”嘴角生疮 当地回应：专家团队已到现场诊治",
+      "summary": "7月21日，南京紫清湖野生动物世界发布通告，称“福虎”自嘴角边长疮至今，园区一直在中国大熊猫保护研究中心专家的指导下进行治疗和照顾。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-22/10663944.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T16:26:52.000Z"
+    },
+    {
+      "id": "3a86035c5658",
+      "title": "联合国人权高专办：以色列对加沙的袭击升级",
+      "summary": "联合国人权事务高级专员办事处发言人萨明·希坦21日在日内瓦举行的记者会上指出，以色列近日加大了对加沙地带的袭击力度，仅13日至20日的袭击已造成至少57名巴勒斯坦人死亡。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-22/10663943.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T16:09:33.000Z"
+    },
+    {
+      "id": "b310f9e136f3",
+      "title": "加拿大总理：将考虑所有选项应对美加征关税",
+      "summary": "当地时间7月21日，加拿大总理马克·卡尼表示，在美国关税宣布后，他已与美国总统特朗普通话。卡尼还表示，如果(新关税)生效，加拿大将考虑所有应对选项。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-22/10663942.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-21T16:05:20.000Z"
     },
     {
       "id": "c8a1e2742ee1",
@@ -47,16 +107,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-21T15:54:59.000Z"
-    },
-    {
-      "id": "0be9f0ff9887",
-      "title": "Trump pledges to ‘take care of’ Houthis if group blocks Saudi ships – Middle East crisis live",
-      "summary": "<p>The Iran-based group said it plans to impose an immediate maritime blockade of Saudi Arabia in the Red Sea</p><p><strong>Lebanon’s president, Joseph Aoun, is due to meet Donald Trump for the first time today</strong> ",
-      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-21T15:50:23.000Z"
     },
     {
       "id": "b2284a69b50c",
@@ -369,46 +419,6 @@
       "publishedAt": "2026-07-21T13:57:46.000Z"
     },
     {
-      "id": "85d71690ce99",
-      "title": "科技与艺术共生、传统和当代对话 第三届包头艺术博览会蓄势待发",
-      "summary": "中新网包头7月21日电 由包头文旅集团主办的第三届包头艺术博览会(简称“艺博会”)将于7月30日至8月3日在包头国际会展中心举行。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-21/10663895.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-21T13:54:42.000Z"
-    },
-    {
-      "id": "0a0d3dc6af3f",
-      "title": "（长江十年行）浔阳江畔“清凉经济”乘风起",
-      "summary": "中新网九江7月21日电 题：浔阳江畔“清凉经济”乘风起",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-21/10663897.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-21T13:51:08.000Z"
-    },
-    {
-      "id": "6b5e45cc5442",
-      "title": "世界人工智能开源大赛在杭州启动",
-      "summary": "中新社杭州7月21日电 (鲍梦妮)GOAI世界人工智能开源大赛(Global Open-source AI Challenge)线下启动仪式21日在浙江杭州举行。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-21/10663914.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-21T13:49:49.000Z"
-    },
-    {
-      "id": "fd8f4a40fb29",
-      "title": "西渝高铁康渝段七星坪隧道贯通",
-      "summary": "中新网成都7月21日电 (记者 刘忠俊)7月21日，随着最后一次爆破作业完成，西安至重庆高速铁路(以下简称“西渝高铁”)控制性工程——七星坪隧道贯通，标志着该线建设取得重要进展。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663904.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-21T13:49:19.000Z"
-    },
-    {
       "id": "6478ec3f17ab",
       "title": "Stand still, make eye contact: Denmark tells tourists how to behave in a wolf encounter",
       "summary": "<p>Government urges visitors not to approach or feed wolves as it manages safety amid growing population</p><p>Danish authorities have advised tourists to stand still, make eye contact and put up “maximum resistance” in ",
@@ -659,6 +669,16 @@
       "publishedAt": "2026-07-21T06:44:01.000Z"
     },
     {
+      "id": "d2f2191a8242",
+      "title": "Man of his word: Pope Leo speeches declared human-authored by Australian AI detection tool",
+      "summary": "<p>Maps of Hope has been certified by Proudly Human, a company led by former chief scientist, Dr Alan Finkel</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-",
+      "url": "https://www.theguardian.com/world/2026/jul/21/pope-leo-speech-human-not-ai-artificial-intelligence",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-21T06:29:57.000Z"
+    },
+    {
       "id": "2797bce19673",
       "title": "Nine to axe 30 jobs at the Age and SMH due to ‘extreme’ AI disruption",
       "summary": "<p>Staff told positions will be cut via voluntary and targeted redundancies as part of ‘evolution’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-paul",
@@ -677,16 +697,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-21T06:00:04.000Z"
-    },
-    {
-      "id": "34bb5fbcad75",
-      "title": "US issues ‘worldwide caution’ for American citizens – as it happened",
-      "summary": "<p>This blog is now closed – our live coverage of the Middle East crisis <a href=\"https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-",
-      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-21T05:32:17.000Z"
     },
     {
       "id": "62f79a6d5988",
@@ -917,16 +927,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-19T14:00:28.000Z"
-    },
-    {
-      "id": "8d7f49fd55d7",
-      "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
-      "summary": "<p>New national plan is accompanied by Labor push for digital duty of care legislation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanso",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-19T12:00:27.000Z"
     },
     {
       "id": "c66451a8cf04",
