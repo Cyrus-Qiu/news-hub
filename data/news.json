@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T18:45:12.830Z",
+  "updatedAt": "2026-07-22T20:17:57.947Z",
   "sources": [
     {
       "name": "人民网",
@@ -30,13 +30,23 @@
   "articles": [
     {
       "id": "ba3b192972a1",
-      "title": "Trump threatens to destroy an Iranian bridge or power plant for each strait of Hormuz attack – Middle East crisis live",
-      "summary": "<p>Threat from US president comes after US military completes 11th night of strikes on Iran</p><p>The Jordanian army said it intercepted four Iranian missiles on Wednesday with two additional missile falling in an open a",
+      "title": "Iran warns of ‘eye for an eye’ response if US follows through on Trump’s threats to destroy infrastructure – Middle East crisis live",
+      "summary": "<p>US president vows to destroy an Iranian bridge or power plant for each strait of Hormuz attack; Iran’s military says it will stop Gulf oil flow and target regional infrastructure if US acts on threats, state tv report",
       "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-22T18:01:29.000Z"
+      "publishedAt": "2026-07-22T19:52:09.000Z"
+    },
+    {
+      "id": "6969a971055e",
+      "title": "Zelenskyy under growing pressure to reinstate sacked defence minister",
+      "summary": "<p>Campaigners in Ukraine pledge to continue nationwide protests until Mykhailo Fedorov gets his job back </p><p>Volodymyr Zelenskyy was under growing pressure to reinstate his sacked defence minister on Wednesday, after",
+      "url": "https://www.theguardian.com/world/2026/jul/22/volodymyr-zelenskyy-pressure-reinstate-sacked-defence-minister-mykhailo-fedorov",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-22T18:31:16.000Z"
     },
     {
       "id": "333019718cb9",
@@ -169,20 +179,20 @@
       "publishedAt": "2026-07-22T15:00:20.000Z"
     },
     {
-      "id": "bf6546dec548",
-      "title": "How will Australia’s emergency services cope if satellites go down? With a sextant and a street directory",
-      "summary": "<p>Military and SES personnel being taught analog communication and navigation techniques as experts warn solar flare could knock out ‘critical space infrastructure’</p><ul><li><p>Get our <a href=\"https://www.theguardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/23/australia-emergency-services-satellites-down",
+      "id": "a0dc701f0862",
+      "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
+      "summary": "<p>The companies hope to follow in the footsteps of SpaceX, which raised $86bn and soared to a $2.1tn valuation after it listed on public markets in June</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-n",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-22T15:00:19.000Z"
     },
     {
-      "id": "a0dc701f0862",
-      "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
-      "summary": "<p>The companies hope to follow in the footsteps of SpaceX, which raised $86bn and soared to a $2.1tn valuation after it listed on public markets in June</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-n",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
+      "id": "bf6546dec548",
+      "title": "How will Australia’s emergency services cope if satellites go down? With a sextant and a street directory",
+      "summary": "<p>Military and SES personnel being taught analog communication and navigation techniques as experts warn solar flare could knock out ‘critical space infrastructure’</p><ul><li><p>Get our <a href=\"https://www.theguardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/23/australia-emergency-services-satellites-down",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
@@ -459,16 +469,6 @@
       "publishedAt": "2026-07-22T14:00:17.000Z"
     },
     {
-      "id": "9768e8167f95",
-      "title": "Model scout for Jeffrey Epstein found dead at his home near Paris",
-      "summary": "<p>Daniel Siad faced allegations of rape and trafficking in France and appeared in more than 1,000 documents in Epstein files</p><p>A modelling scout who recruited women for Jeffrey Epstein has been found dead at his hom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/daniel-siad-model-scout-jeffrey-epstein-found-dead-home-paris",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-22T13:38:59.000Z"
-    },
-    {
       "id": "05530ea55efb",
       "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
       "summary": "<p>US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime</p><p>Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced ",
@@ -571,7 +571,7 @@
     {
       "id": "e6cf0c0a68c1",
       "title": "Mamdani urges US government to arrest Netanyahu if Israeli PM visits US",
-      "summary": "<p>New York mayor admits he does not have authority to arrest Netanyahu, adding Israeli PM is ‘architect of a horrific genocide’</p><p>Zohran Mamdani, the New York City mayor, acknowledged on Tuesday he does not have the",
+      "summary": "<p>New York mayor admits he does not have authority to arrest Netanyahu, adding Israeli PM is ‘architect of a horrific genocide’</p><p><a href=\"https://www.theguardian.com/us-news/zohran-mamdani\">Zohran Mamdani</a>, the ",
       "url": "https://www.theguardian.com/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority",
       "source": "The Guardian World",
       "category": "国际",
