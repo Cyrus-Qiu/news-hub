@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T20:17:57.947Z",
+  "updatedAt": "2026-07-22T21:44:34.998Z",
   "sources": [
     {
       "name": "人民网",
@@ -29,6 +29,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "d21feb6759af",
+      "title": "Australia news live: China hits back at Penny Wong’s comments; Victorian teachers due to begin strike",
+      "summary": "<p>China’s foreign ministry says ‘relevant countries’ should ‘stop stirring up tension’. Follow live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a ",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-22T21:29:24.000Z"
+    },
+    {
       "id": "ba3b192972a1",
       "title": "Iran warns of ‘eye for an eye’ response if US follows through on Trump’s threats to destroy infrastructure – Middle East crisis live",
       "summary": "<p>US president vows to destroy an Iranian bridge or power plant for each strait of Hormuz attack; Iran’s military says it will stop Gulf oil flow and target regional infrastructure if US acts on threats, state tv report",
@@ -36,7 +46,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-22T19:52:09.000Z"
+      "publishedAt": "2026-07-22T21:12:22.000Z"
+    },
+    {
+      "id": "307dbb9a31a0",
+      "title": "OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim",
+      "summary": "<p>Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systems</p><p>Last week Hugging Face – a company that hosts artificial intelligence models and datasets – was <a href=\"h",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-22T20:40:48.000Z"
     },
     {
       "id": "6969a971055e",
@@ -171,7 +191,7 @@
     {
       "id": "f565ab59db2f",
       "title": "AusAlert test will blast emergency warning siren over most phones in Australia on Monday. Here’s what to know",
-      "summary": "<p>National emergency test alert will be sent to all mobile devices on 27 July, with domestic violence advocates advising how to turn off safe phones</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsl",
+      "summary": "<p>National emergency test alert will be sent to all mobile devices on 27 July, with domestic violence advocates advising how to turn off safe phones</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live",
       "url": "https://www.theguardian.com/australia-news/2026/jul/22/ausalert-test-sound-national-alert-emergency-warning-system-date",
       "source": "The Guardian World",
       "category": "国际",
@@ -191,7 +211,7 @@
     {
       "id": "bf6546dec548",
       "title": "How will Australia’s emergency services cope if satellites go down? With a sextant and a street directory",
-      "summary": "<p>Military and SES personnel being taught analog communication and navigation techniques as experts warn solar flare could knock out ‘critical space infrastructure’</p><ul><li><p>Get our <a href=\"https://www.theguardian",
+      "summary": "<p>Military and SES personnel being taught analog communication and navigation techniques as experts warn solar flare could knock out ‘critical space infrastructure’</p><ul><li><p><a href=\"https://www.theguardian.com/aus",
       "url": "https://www.theguardian.com/australia-news/2026/jul/23/australia-emergency-services-satellites-down",
       "source": "The Guardian World",
       "category": "国际",
@@ -201,7 +221,7 @@
     {
       "id": "8f3bd7644f0e",
       "title": "Great Barrier Reef microbiome mapped as researchers discover 500 bacterial species previously unknown to science",
-      "summary": "<p>Research identifies 808,585 viral genomes belonging to what scientists estimate to be 362,802 different viruses</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news ",
+      "summary": "<p>Research identifies 808,585 viral genomes belonging to what scientists estimate to be 362,802 different viruses</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-ch",
       "url": "https://www.theguardian.com/environment/2026/jul/23/great-barrier-reef-microbiome-mapped-as-researchers-discover-500-bacterial-species-previously-unknown-to-science",
       "source": "The Guardian World",
       "category": "国际",
@@ -509,16 +529,6 @@
       "publishedAt": "2026-07-22T13:00:15.000Z"
     },
     {
-      "id": "b862657cf378",
-      "title": "ALP announces sweeping changes to student work placements as Gaza war looms large at party conference",
-      "summary": "<p>Anthony Albanese will cast ‘practical’ policies as the key to countering the anxiety and frustration in Australia</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking new",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/22/alp-announces-sweeping-changes-to-student-work-placements-as-gaza-war-looms-large-at-party-conference",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-22T12:30:14.000Z"
-    },
-    {
       "id": "e2d824f1453e",
       "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
       "summary": "<p>Isabel Rose, 26, sentenced to six years for blackmail and perverting course of public justice over her allegations against British man</p><p>A British woman who reported being raped to police in Hong Kong has been sen",
@@ -537,6 +547,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-22T12:11:47.000Z"
+    },
+    {
+      "id": "3ebe5a467a13",
+      "title": "Trump administration says 15 agencies will get $5bn in ‘AI for science’ effort",
+      "summary": "<p>Administration will also overhaul how US government funds federal research by supporting individual scientists and AI over universities</p><p>The US will spend $5bn to tackle longstanding scientific problems across mu",
+      "url": "https://www.theguardian.com/us-news/2026/jul/22/trump-science-funding-overhaul-ai",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-22T11:51:44.000Z"
     },
     {
       "id": "5167563b1418",
@@ -679,6 +699,16 @@
       "publishedAt": "2026-07-21T22:39:00.000Z"
     },
     {
+      "id": "87709d960f6d",
+      "title": "Trump defends 50% tariffs on Canada, saying ‘they need us to survive’",
+      "summary": "<p>Mark Carney says Canada is ‘united’ in face of threats as leaders agree to talk before tariffs take effect next month</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-u",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/trump-defends-tariff-canada",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-21T19:36:51.000Z"
+    },
+    {
       "id": "8da803cb30e1",
       "title": "‘We were at their mercy’: inside the Amazon tactics that hiked prices across the internet",
       "summary": "<p>Internal emails revealed in court and interviews with ex-employees describe how Amazon’s practices drove up prices for competitors like Walmart and Target. Amazon denies price-fixing claims and says it works to lower ",
@@ -687,16 +717,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-21T16:39:04.000Z"
-    },
-    {
-      "id": "46258653fc4a",
-      "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
-      "summary": "<p>Meliá group says Donald Trump’s sanctions make it ‘impossible’ to keep any of its 34 sites open</p><p>A Spanish hotel chain is to cease all operations in Cuba at the end of the week due to “major difficulties” in doin",
-      "url": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-21T15:10:35.000Z"
     },
     {
       "id": "0010294a946e",
@@ -763,8 +783,8 @@
       "title": "Social Darwinists to tech bros: tracing the long fight against equality in US",
       "summary": "<p>Historian Kim Phillips-Fein’s book Country of Lords looks back at the many men who have tried to fight against egalitarianism, from John Adams to Peter Thiel</p><p>The historian Kim Phillips-Fein’s new book is publish",
       "url": "https://www.theguardian.com/books/2026/jul/21/kim-phillips-fein-country-of-lords",
-      "source": "The Guardian Business",
-      "category": "财经",
+      "source": "The Guardian Technology",
+      "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-21T10:00:43.000Z"
     },
@@ -887,16 +907,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-21T04:05:00.000Z"
-    },
-    {
-      "id": "ba48a4a91cde",
-      "title": "Not enough water for UK’s datacentre plans, trade body says",
-      "summary": "<p>Industry says government’s failure to address cooling demands means AI growth plans are ‘fatally flawed’</p><p>The UK will not have enough water for future datacentres, the water industry has said in stark criticism o",
-      "url": "https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-21T04:00:09.000Z"
     },
     {
       "id": "8a12c2f33eec",
@@ -1027,16 +1037,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-19T12:00:26.000Z"
-    },
-    {
-      "id": "a90caad7a6db",
-      "title": "Could AI be conscious?",
-      "summary": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitu",
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-19T11:00:25.000Z"
     },
     {
       "id": "5cc61abb362e",
