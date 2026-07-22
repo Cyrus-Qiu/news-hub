@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T16:04:39.487Z",
+  "updatedAt": "2026-07-22T17:36:58.261Z",
   "sources": [
     {
       "name": "人民网",
@@ -28,6 +28,56 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "ba3b192972a1",
+      "title": "Trump threatens to destroy an Iranian bridge or power plant for each strait of Hormuz attack – Middle East crisis live",
+      "summary": "<p>Threat from US president comes after US military completes 11th night of strikes on Iran</p><p>The Jordanian army said it intercepted four Iranian missiles on Wednesday with two additional missile falling in an open a",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-22T17:18:20.000Z"
+    },
+    {
+      "id": "333019718cb9",
+      "title": "Mamdani says he can’t arrest Netanyahu as mayor and urges US to enforce ICC warrant",
+      "summary": "<p>Mamdani admits he lacks power to arrest Israeli prime minister after saying he’s ‘not welcome’ in New York City</p><p><a href=\"https://www.theguardian.com/us-news/zohran-mamdani\">Zohran Mamdani</a>, the <a href=\"https",
+      "url": "https://www.theguardian.com/us-news/2026/jul/22/zohran-mamdani-netanyahu-arrest-new-york",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-22T17:07:36.000Z"
+    },
+    {
+      "id": "adefcc00b116",
+      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "summary": "<p>Trump’s 50% tariff threat means there will be no ribbon-cutting celebration of Gordie Howe International Bridge</p><p>A planned joint US-Canada ceremony on Friday celebrating the opening of the Gordie Howe Internation",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-22T16:35:02.000Z"
+    },
+    {
+      "id": "f88e87a72392",
+      "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
+      "summary": "<p>Company behind ChatGPT says agent ‘cheated’ an evaluation by attacking a Hugging Face database </p><p>OpenAI has revealed that an autonomous AI agent powered by its technology went rogue during a test, accessed the op",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-22T16:34:23.000Z"
+    },
+    {
+      "id": "e4ae4a5df421",
+      "title": "王毅会见印度外长苏杰生",
+      "summary": "2026年7月22日，中共中央政治局委员、外交部长王毅在马尼拉会见印度外长苏杰生。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10664650.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-22T16:08:19.000Z"
+    },
     {
       "id": "3838e9a08406",
       "title": "王毅会见菲律宾外长拉扎罗",
@@ -60,7 +110,7 @@
     },
     {
       "id": "3dcd1491bb08",
-      "title": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalise fresh Russia sanctions – Europe live",
+      "title": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalise fresh Russia sanctions – as it happened",
       "summary": "<p>Brussels talks between senior diplomats now underway in attempt to sign off 21st package of sanctions, after previous failed attempts </p><p><strong>The Venice Biennale said it would challenge a European Union decisio",
       "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
       "source": "The Guardian World",
@@ -79,28 +129,8 @@
       "publishedAt": "2026-07-22T15:48:27.000Z"
     },
     {
-      "id": "333019718cb9",
-      "title": "Mamdani reiterates ICC support after urging US to execute warrant for Netanyahu’s arrest",
-      "summary": "<p>Mayor admits he has no authority to direct Israeli prime minister’s arrest after saying he’s ‘not welcome’ in NYC</p><p><a href=\"https://www.theguardian.com/us-news/zohran-mamdani\">Zohran Mamdani</a>, the <a href=\"htt",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/zohran-mamdani-netanyahu-arrest-new-york",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-22T15:47:54.000Z"
-    },
-    {
-      "id": "ba3b192972a1",
-      "title": "Trump threatens to destroy an Iranian bridge or power plant for each strait of Hormuz attack – Middle East crisis live",
-      "summary": "<p>Threat from US president comes after US military completes 11th night of strikes on Iran</p><p>The Jordanian army said it intercepted four Iranian missiles on Wednesday with two additional missile falling in an open a",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-22T15:36:07.000Z"
-    },
-    {
       "id": "b69cb1270563",
-      "title": "France recorded more than 5,700 excess deaths during June heatwave",
+      "title": "France records more than 5,700 excess deaths during June heatwave",
       "summary": "<p>Figures come as large parts of southern Europe endure another record-breaking period of extreme temperatures</p><p>France recorded more than 5,700 excess deaths during its June heatwave, authorities have said, as swat",
       "url": "https://www.theguardian.com/world/2026/jul/22/france-recorded-more-than-5700-excess-deaths-during-june-heatwave",
       "source": "The Guardian World",
@@ -129,16 +159,6 @@
       "publishedAt": "2026-07-22T15:18:18.000Z"
     },
     {
-      "id": "adefcc00b116",
-      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-      "summary": "<p>Trump’s 50% tariff threat means there will be no ribbon-cutting celebration of Gordie Howe International Bridge</p><p>A planned joint US-Canada ceremony on Friday celebrating the opening of the Gordie Howe Internation",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-22T15:11:31.000Z"
-    },
-    {
       "id": "f565ab59db2f",
       "title": "AusAlert test will blast emergency warning siren over most phones in Australia on Monday. Here’s what to know",
       "summary": "<p>National emergency test alert will be sent to all mobile devices on 27 July, with domestic violence advocates advising how to turn off safe phones</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsl",
@@ -149,20 +169,20 @@
       "publishedAt": "2026-07-22T15:00:20.000Z"
     },
     {
-      "id": "bf6546dec548",
-      "title": "How will Australia’s emergency services cope if satellites go down? With a sextant and a street directory",
-      "summary": "<p>Military and SES personnel being taught analog communication and navigation techniques as experts warn solar flare could knock out ‘critical space infrastructure’</p><ul><li><p>Get our <a href=\"https://www.theguardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/23/australia-emergency-services-satellites-down",
+      "id": "a0dc701f0862",
+      "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
+      "summary": "<p>The companies hope to follow in the footsteps of SpaceX, which raised $86bn and soared to a $2.1tn valuation after it listed on public markets in June</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-n",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-22T15:00:19.000Z"
     },
     {
-      "id": "a0dc701f0862",
-      "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
-      "summary": "<p>The companies hope to follow in the footsteps of SpaceX, which raised $86bn and soared to a $2.1tn valuation after it listed on public markets in June</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-n",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
+      "id": "bf6546dec548",
+      "title": "How will Australia’s emergency services cope if satellites go down? With a sextant and a street directory",
+      "summary": "<p>Military and SES personnel being taught analog communication and navigation techniques as experts warn solar flare could knock out ‘critical space infrastructure’</p><ul><li><p>Get our <a href=\"https://www.theguardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/23/australia-emergency-services-satellites-down",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
@@ -429,16 +449,6 @@
       "publishedAt": "2026-07-22T14:05:31.000Z"
     },
     {
-      "id": "fe513d7c6693",
-      "title": "“中国—东盟旅游对话”在马来西亚兰卡威举办",
-      "summary": "中新网兰卡威7月22日电(记者刘育英)“中国—东盟旅游对话”22日在在马来西亚兰卡威举办。中国驻马来西亚大使欧阳玉靖，马来西亚旅游、艺术和文化部部长张庆信，中国—东盟中心秘书长张利忠，世界旅游联盟主席张旭，以及中国和东盟国家政府旅游主管部门、业界代表等300余人出席。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/07-22/10664610.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-22T14:05:17.000Z"
-    },
-    {
       "id": "4251ce6dff9d",
       "title": "How Pokémon Go encouraged me to find wonder in the world",
       "summary": "<p>These days, I ‘collect’ birdsong and wild flowers, but it all started when my sons and I first set out to find Pikachu and pals</p><p><strong>• </strong><a href=\"https://www.theguardian.com/info/ng-interactive/2021/no",
@@ -547,16 +557,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-22T09:26:09.000Z"
-    },
-    {
-      "id": "f88e87a72392",
-      "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
-      "summary": "<p>Company behind ChatGPT says agent ‘cheated’ an evaluation by attacking a Hugging Face database <br><br></p><p>OpenAI has revealed that an autonomous AI agent powered by its technology went rogue during a test, accesse",
-      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-22T08:37:47.000Z"
     },
     {
       "id": "6a66eb4ae28c",
