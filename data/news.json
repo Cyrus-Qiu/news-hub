@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T16:10:16.772Z",
+  "updatedAt": "2026-07-23T17:56:52.343Z",
   "sources": [
     {
       "name": "人民网",
@@ -29,6 +29,76 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "1389ab963a0b",
+      "title": "Trump considering ‘massive attack’ on Iran, says report – Middle East crisis live",
+      "summary": "<p>US president tells Axios ‘they haven’t received enough pain yet’ and he is ‘close to a decision’</p><p></p><p>Earlier in the US day, before Iran’s Revolutionary Guard said it had <a href=\"https://www.theguardian.com/w",
+      "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-23T17:44:55.000Z"
+    },
+    {
+      "id": "50cff931719d",
+      "title": "Trump says he is close to decision on largest-yet attack on Iran",
+      "summary": "<p>Escalation would follow oil passing $100 a barrel again and Houthi strikes on Saudi tankers in the Red Sea</p><p>The US president, Donald Trump, has said he is close to deciding whether to launch “a massive attack” ag",
+      "url": "https://www.theguardian.com/world/2026/jul/23/trump-says-he-is-close-to-decision-on-largest-yet-attack-on-iran",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-23T16:58:25.000Z"
+    },
+    {
+      "id": "bb783e19b2aa",
+      "title": "中国籍数学家菲尔兹奖“双响”，这一刻载入历史",
+      "summary": "中新社北京7月23日电 (记者 曾玥)在23日于美国费城举行的2026年国际数学家大会开幕式上，中国数学家邓煜、王虹获得菲尔兹奖。这是中国籍数学家首次获得菲尔兹奖。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-24/10665357.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T16:39:57.000Z"
+    },
+    {
+      "id": "6ca63747a034",
+      "title": "Thousands flee wildfires in France as temperatures reach extreme levels in southern Europe",
+      "summary": "<p>Some parts of Mediterranean Sea 5C hotter than normal, with air temperatures above 44C expected in Spain</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rub",
+      "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-23T16:36:51.000Z"
+    },
+    {
+      "id": "02135ae4d898",
+      "title": "Mayor shot dead in Mexico months after surviving assassination attempt",
+      "summary": "<p>Valentín Lavín Romero is the 14th mayor to be murdered since Claudia Sheinbaum became president in 2024</p><p>A mayor was shot dead on Wednesday in the Mexican state of Morelos after having survived a previous assassi",
+      "url": "https://www.theguardian.com/world/2026/jul/23/mayor-shot-dead-mexico-after-surviving-assassination",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-23T16:32:53.000Z"
+    },
+    {
+      "id": "2c06da971597",
+      "title": "中国数学家邓煜、王虹获菲尔兹奖",
+      "summary": "中新社纽约7月23日电 当地时间23日，在美国费城举行的2026年国际数学家大会开幕式上，中国青年数学家邓煜、王虹获得菲尔兹奖。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-24/10665356.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T16:22:28.000Z"
+    },
+    {
+      "id": "fef2eb1b973e",
+      "title": "Ousted Ukrainian defence minister refuses any other role in Zelenskyy’s government – as it happened",
+      "summary": "<p>Mykhailo Fedorov says only in his former post could he ‘combat procurement corruption and complete the army’s transformation’</p><p><strong>EU foreign policy chief Kaja Kallas has offered a bit more detail on the new ",
+      "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-23T16:13:00.000Z"
+    },
+    {
       "id": "7db6969b8122",
       "title": "伊朗格什姆岛传出爆炸声",
       "summary": "当地时间23日，据总台记者消息，伊朗南部格什姆岛传出爆炸声。(总台记者 米春泽)",
@@ -49,19 +119,9 @@
       "publishedAt": "2026-07-23T16:00:43.000Z"
     },
     {
-      "id": "fef2eb1b973e",
-      "title": "Ousted Ukrainian defence minister refuses any other role in Zelenskyy’s government – Europe live",
-      "summary": "<p>Mykhailo Fedorov says only in his former post could he ‘combat procurement corruption and complete the army’s transformation’</p><p><strong>EU foreign policy chief Kaja Kallas has offered a bit more detail on the new ",
-      "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T15:58:52.000Z"
-    },
-    {
       "id": "74fbd458b81a",
-      "title": "特朗普考虑重启对伊朗重大军事行动",
-      "summary": "央视记者当地时间7月23日获悉，美国总统特朗普当日表示，他正在认真考虑在伊朗重新启动重大军事行动。(央视记者 曹健)",
+      "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
+      "summary": "据美国方面7月23日消息，美国总统特朗普当日表示，他正在认真考虑在伊朗重新启动重大军事行动。特朗普还宣称，此轮军事行动的规模将超越此前的“史诗愤怒”行动。",
       "url": "https://www.chinanews.com.cn/gj/2026/07-23/10665353.shtml",
       "source": "中国新闻网",
       "category": "国内",
@@ -79,26 +139,6 @@
       "publishedAt": "2026-07-23T15:53:56.000Z"
     },
     {
-      "id": "1389ab963a0b",
-      "title": "US-Saudi nuclear deal ‘is off’ if Saudi Arabia does not join Abraham accords, says White House – Middle East crisis live",
-      "summary": "<p>Nuclear deal is ‘contingent’ on kingdom joining accords, says press secretary Karoline Leavitt</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/23/houthis-claim-attack-ship-tanker-saudi-arabia-red-sea",
-      "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T15:50:39.000Z"
-    },
-    {
-      "id": "6ca63747a034",
-      "title": "Thousands flee wildfires in France as temperatures reach extreme levels in southern Europe",
-      "summary": "<p>Some parts of Mediterranean Sea 5C hotter than normal, with air temperatures above 44C expected in Spain</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rub",
-      "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T15:49:17.000Z"
-    },
-    {
       "id": "89be100a4db7",
       "title": "重庆彭水山体崩塌造成11人死亡50人失联",
       "summary": "中新社重庆7月23日电 据“彭水发布”消息，重庆彭水山体崩塌现场抢险救援指挥部23日通报，7月17日9时许，彭水县汉葭街道发生大型山体崩塌灾害。灾害发生以来，经广泛开展线索征集、现场登记、走访调查、技术甄别、信息汇总比对等工作，结合救援进展，核对出本次山体崩塌灾害造成10人受伤、11人死亡、50人失联。",
@@ -107,6 +147,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-23T15:36:05.000Z"
+    },
+    {
+      "id": "27543f9709d4",
+      "title": "Owner of Viking ship used in The Odyssey says studio has not paid bill for damage",
+      "summary": "<p>Swedish nonprofit alleges cost to repair replica was $6,000 but Universal – which made $264m on film’s opening weekend – has not stumped up</p><p>The Swedish owners of a Viking longship replica that features in the Ho",
+      "url": "https://www.theguardian.com/world/2026/jul/23/owners-of-viking-ship-used-to-film-the-odyssey-say-studio-has-not-paid-bill-for-damage",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-23T15:28:10.000Z"
     },
     {
       "id": "fd52aadcd0b4",
@@ -149,10 +199,10 @@
       "publishedAt": "2026-07-23T14:58:18.000Z"
     },
     {
-      "id": "450ec5a48172",
+      "id": "c7acf7f56e75",
       "title": "中国籍数学家菲尔兹奖“双响”，一文回顾来时路",
       "summary": "当地时间7月23日，四年一度的国际数学家大会在美国费城开幕，菲尔兹奖(Fields Medal)随之揭晓——中国青年数学家王虹、邓煜双双获奖。这是中国数学家首次获得菲尔兹奖，也是中国数学家首次在同一届国际数学家大会上同时获得两枚菲尔兹奖。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10665348.shtml",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-23/10665348.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
@@ -379,26 +429,6 @@
       "publishedAt": "2026-07-23T14:22:07.000Z"
     },
     {
-      "id": "55f9184edcbf",
-      "title": "港科大（广州）-广医启动教育科技人才一体化发展行动计划",
-      "summary": "中新网广州7月23日电 (记者 王坚)“香港科技大学(广州)-广州医科大学全面深化教育科技人才一体化发展行动计划启动仪式(Research Happy Hour(医工交叉专题))”22日在香港科技大学(广州)举行。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/07-23/10665298.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:22:01.000Z"
-    },
-    {
-      "id": "82d0b2f19a1c",
-      "title": "雄安新区举办空天信息产教融合交流会",
-      "summary": "中新网雄安7月23日电 (谌诗雨 韩冰)23日，由雄安新区联合北京邮电大学主办的雄安新区空天信息产教融合交流会在雄安高新区中交未来科创城智慧之芯举办。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-23/10665305.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:21:29.000Z"
-    },
-    {
       "id": "d623abd0c7bf",
       "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
       "summary": "<p>September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences</p><p>The British army has been forced to cancel training for its troops in Kenya after the Kenyan governme",
@@ -410,8 +440,8 @@
     },
     {
       "id": "f565b3c1aebc",
-      "title": "Oil price passes $100 a barrel again as Middle East conflict escalates",
-      "summary": "<p>Benchmark rises sharply over fears Houthi militia could strangle Saudi exports as US-Iran fighting intensifies</p><p>The oil price has climbed back above $100 a barrel for the first time in two months, as a fresh esca",
+      "title": "Oil passes $100 a barrel again and shares slide as Middle East conflict escalates",
+      "summary": "<p>Sharp rise in oil price reflects fears Houthi militias could strangle Saudi exports as US-Iran fighting intensifies</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jul/23/bab-al-mandab-blockade-push-o",
       "url": "https://www.theguardian.com/business/2026/jul/23/oil-price-passes-100-a-barrel-again-as-middle-east-conflict-escalates",
       "source": "The Guardian World",
       "category": "国际",
@@ -463,8 +493,8 @@
       "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
       "summary": "<p>Live, rolling coverage of business, economics and financial markets as traders fear attacks from Yemen and Iran creating ‘two-chokepoint problem’</p><p>The <strong>Houthi attacks</strong> off the coast of Yemen target",
       "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
+      "source": "The Guardian Business",
+      "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-23T11:27:00.000Z"
     },
@@ -621,22 +651,12 @@
     {
       "id": "39abfc283c0a",
       "title": "Google reports 12th consecutive quarter of strong revenue gains",
-      "summary": "<p>Better-than-expected results come despite delays in release of powerful AI model Gemini Pro</p><p>Google’s parent company, Alphabet, reported double-digit revenue growth for its second-quarter earnings on Wednesday. T",
+      "summary": "<p>Better-than-expected results of $120bn came despite delays in release of powerful AI model Gemini Pro</p><p>Google’s parent company, Alphabet, reported double-digit revenue growth for its second-quarter earnings on We",
       "url": "https://www.theguardian.com/technology/2026/jul/22/google-earnings-report",
       "source": "The Guardian Technology",
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-22T22:57:42.000Z"
-    },
-    {
-      "id": "96c6b265f426",
-      "title": "Saudi Arabia and US strike deal for kingdom to enrich uranium",
-      "summary": "<p>Donald Trump approves agreement to help country make fuel for civilian nuclear programme</p><p>Donald Trump signed a nuclear agreement with Saudi Arabia on Wednesday that could enable the kingdom to enrich its own ura",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/saudi-arabia-would-enrich-uranium-under-reported-deal-with-us",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-22T22:36:09.000Z"
     },
     {
       "id": "63bf6ed070a7",
@@ -877,16 +897,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-21T22:39:00.000Z"
-    },
-    {
-      "id": "87709d960f6d",
-      "title": "Trump defends 50% tariffs on Canada, saying ‘they need us to survive’",
-      "summary": "<p>Mark Carney says Canada is ‘united’ in face of threats as leaders agree to talk before tariffs take effect next month</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-u",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/trump-defends-tariff-canada",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-21T19:36:51.000Z"
     },
     {
       "id": "8da803cb30e1",
@@ -1217,16 +1227,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-17T06:30:00.000Z"
-    },
-    {
-      "id": "f06b6292fcfc",
-      "title": "Democrats allege Trump administration stalled US-Canada bridge opening as a favor to billionaire donor",
-      "summary": "<p>Delay seen as move to protect interests of Matthew Moroun, the owner of nearby Ambassador Bridge and a Trump donor</p><p>The Trump administration for months blocked a $4.7bn publicly owned bridge between Detroit and W",
-      "url": "https://www.theguardian.com/business/2026/jul/16/trump-administration-canada-gordie-howe-bridge",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-16T11:00:37.000Z"
     }
   ]
 }
