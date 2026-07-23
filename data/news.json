@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T22:33:18.383Z",
+  "updatedAt": "2026-07-23T23:31:43.689Z",
   "sources": [
     {
       "name": "人民网",
@@ -29,6 +29,116 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "238ff940a1bc",
+      "title": "在两公里长的“跑道”上追赶光速——大国重器HIAF背后的十六年攻坚",
+      "summary": "在两公里长的“跑道”上追赶光速",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-24/10665374.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T23:24:19.000Z"
+    },
+    {
+      "id": "988842bc4905",
+      "title": "今年上半年我国汽车出口超6000亿元 同比增长48.3%",
+      "summary": "今年上半年，我国汽车出口6358.2亿元，同比增长48.3%，销往全球210多个国家和地区。其中，新能源汽车出口3606.8亿元，同比增长68.7%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-24/10665372.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T23:15:52.000Z"
+    },
+    {
+      "id": "648940799e62",
+      "title": "Australia news live: trade minister demands removal of ‘unjustified’ US tariffs; deadly bird flu detected in Queensland for the first time",
+      "summary": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://ww",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-23T23:14:17.000Z"
+    },
+    {
+      "id": "1389ab963a0b",
+      "title": "Middle East crisis is ‘getting out of control’, UN chief warns, as fears mount of escalation spiral – live updates",
+      "summary": "<p>Secretary general António Guterres tells security council the Middle East is being pushed to the ‘edge of the unimaginable’ amid latest threats from Donald Trump</p><ul><li><p><a href=\"https://www.theguardian.com/worl",
+      "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-23T22:58:37.000Z"
+    },
+    {
+      "id": "3c69119cb307",
+      "title": "特朗普：美国将用伊朗资金“赔偿”受损船只和货物",
+      "summary": "中新网7月24日电 据彭博社报道，当地时间23日，美国总统特朗普在社交媒体发文称，美国将用其控制的伊朗资金“赔偿”因伊方袭击受损的船只和货物。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-24/10665367.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T22:53:59.000Z"
+    },
+    {
+      "id": "7c8e519fe3e5",
+      "title": "7月24日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/07-24/10665366.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T22:51:06.000Z"
+    },
+    {
+      "id": "303a03bcee5c",
+      "title": "特朗普：正“认真考虑”重启对伊大规模打击 接近作出决定",
+      "summary": "中新网7月24日电 据美国阿克西奥斯新闻网报道，当地时间7月23日，美国总统特朗普表示，他正在“认真考虑”重启对伊朗的大规模作战行动。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-24/10665365.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T22:47:00.000Z"
+    },
+    {
+      "id": "f49185dc1ca9",
+      "title": "UK ‘ready to defend itself’ after Iranian threat over US bases",
+      "summary": "<p>IRGC claims base in south-west England was used by US to launch bombing missions, making it ‘legitimate target’</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strike",
+      "url": "https://www.theguardian.com/world/2026/jul/23/uk-ready-to-defend-itself-iran-threat-us-bases",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-23T22:41:37.000Z"
+    },
+    {
+      "id": "9af53d162c6d",
+      "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失",
+      "summary": "当地时间7月23日，美国总统特朗普表示，即日起，船只、货物及相关资产遭受的任何损失，都将由美国持有并控制的伊朗资金支付。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-24/10665364.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T22:37:40.000Z"
+    },
+    {
+      "id": "b304a9914277",
+      "title": "围绕限制特朗普对伊动武决议 美参议院否决",
+      "summary": "中新网7月24日电 据美国哥伦比亚广播公司(CBS)报道，当地时间7月23日，美国参议院以49票对47票的表决结果，否决了旨在限制特朗普对伊朗战争权力的决议案。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-24/10665363.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T22:32:29.000Z"
+    },
+    {
+      "id": "2c016bf75784",
+      "title": "美众议院通过限制总统战争权力法案 参议院未通过",
+      "summary": "中新社华盛顿7月23日电 (记者 沙晗汀)美国国会众议院和参议院当地时间23日分别就限制总统战争权力法案进行表决。该法案在众议院获得通过，在参议院未获通过。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-24/10665362.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T22:29:25.000Z"
+    },
+    {
       "id": "43741ed9a102",
       "title": "美国公布新关税措施 24日生效",
       "summary": "美国贸易代表办公室23日发布公告，宣布依据《1974年贸易法》第301条，以所谓“强迫劳动”为名对数十个国家和地区加征10%至12.5%的关税，以替代即将到期的全球进口关税。新关税将于美国东部时间7月24日0时01分生效。",
@@ -57,26 +167,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-23T22:22:37.000Z"
-    },
-    {
-      "id": "648940799e62",
-      "title": "Australia news live: Marles says new US tariffs ‘make no sense’; Qantas long-range plane to land in Melbourne after 19-hour test flight from Toulouse",
-      "summary": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://ww",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T22:15:01.000Z"
-    },
-    {
-      "id": "1389ab963a0b",
-      "title": "Middle East crisis is ‘getting out of control’, UN chief warns, as fears mount of escalation spiral – live updates",
-      "summary": "<p>Secretary general António Guterres tells security council the Middle East is being pushed to the ‘edge of the unimaginable’ amid latest threats from Donald Trump</p><ul><li><p><a href=\"https://www.theguardian.com/worl",
-      "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T22:11:48.000Z"
     },
     {
       "id": "26b484445332",
@@ -207,6 +297,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-23T15:28:10.000Z"
+    },
+    {
+      "id": "e751e1ec6687",
+      "title": "Elon Musk says he got ‘carried away’ with Trump – but still holds on to contentious political views",
+      "summary": "<p>In interview, billionaire says instead of running ‘Doge’ he should’ve ‘worked on my companies’ and shares extreme predictions</p><p>Elon Musk has admitted he became too consumed by politics during his volatile allianc",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-23T15:27:52.000Z"
     },
     {
       "id": "fd52aadcd0b4",
@@ -359,16 +459,6 @@
       "publishedAt": "2026-07-23T14:24:25.000Z"
     },
     {
-      "id": "58771d1775cf",
-      "title": "台湾少数民族学子江西行：历史文化“鲜活可触”",
-      "summary": "中新网南昌7月23日电(朱莹 吴敏)“谈到古代经济发展史绕不开景德镇，谈到名楼绕不开滕王阁。”来自台湾花莲县海星高中的学生赵珮岑23日说，此行是一次“书本照进现实”的旅程，实地走访之后，那些停留在纸面上的历史变得“鲜活可触”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-23/10665278.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:24:23.000Z"
-    },
-    {
       "id": "3510c6cc3d47",
       "title": "Two Russian men jailed in Angola for terrorism and spying",
       "summary": "<p>The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year</p><p>Two Russian men have been found guilty by an Angolan court of terrorism and spying after being",
@@ -377,76 +467,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-23T14:24:01.000Z"
-    },
-    {
-      "id": "d4d414242713",
-      "title": "东盟青年广西开启AI研学之旅 赓续“育才缘·中越情”",
-      "summary": "中新网南宁7月23日电 (记者 黄艳梅)“2026广西大学‘山海相连 青春相会’东盟青年AI研学营暨‘育才缘·中越情’夏令营”23日在南宁开营。来自越南、泰国、柬埔寨八所院校的94名师生开启为期一周的人工智能(AI)前沿科技与应用研学之旅。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/07-23/10665319.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:23:49.000Z"
-    },
-    {
-      "id": "5e493daa13c6",
-      "title": "黑龙江全链条吸引海内外博士后“挑大梁” 以农林科创赋能振兴发展",
-      "summary": "中新网哈尔滨7月23日电(记者 王妮娜)23日，“智汇农林绿创未来”全国博士后学术交流活动在东北林业大学举行，来自海内外60余所高校、科研机构的200余名博士后及青年科研骨干，围绕林木育种、森林生态、农林低碳、智慧装备等九大前沿领域展开研讨。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10665267.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:23:47.000Z"
-    },
-    {
-      "id": "331fadad0910",
-      "title": "缅怀建党革命先驱 专家学者在沪共研伟大建党精神形成脉络",
-      "summary": "中新网上海7月23日电 (杨学功 张德仁)2026年是中国共产党创建105周年，也是何叔衡诞辰150周年、董必武诞辰140周年、陈潭秋诞辰130周年。为纪念革命先驱，深化中共创建史研究，弘扬伟大建党精神，“中国共产党的创建与伟大建党精神的形成”学术活动23日在中共一大纪念馆举行。学术活动主要围绕中共一大代表的相关事迹、中国共产党的创建与伟大建党精神的形成开展学术研讨。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10665263.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:23:25.000Z"
-    },
-    {
-      "id": "9e970fcae632",
-      "title": "王虹、邓煜双双斩获菲尔兹奖，北大祝贺 成就背后，是中国数学的跋涉之路",
-      "summary": "中新网7月23日电 综合报道，当地时间7月23日，2026年国际数学家大会在美国费城开幕，现场揭晓2026年菲尔兹奖得主。中国青年数学家王虹、邓煜获奖。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-23/10665346.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:23:17.000Z"
-    },
-    {
-      "id": "7ad4fb0d45b1",
-      "title": "浙江舟山：“三元混合气”盾构装备带压作业创多项世界纪录",
-      "summary": "中新网舟山7月23日电(刘子琳 骆泽明)7月23日，在浙江舟山，由中铁十一局自主研发的世界首套“三元混合气”盾构带压作业装备在世界最长海底高铁隧道——甬舟铁路金塘海底隧道完成首次大规模超高压环境带压开舱换刀作业。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-23/10665258.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:23:15.000Z"
-    },
-    {
-      "id": "e9c13d66454e",
-      "title": "2026年面向太平洋岛国防灾减灾能力建设研修班在粤举办",
-      "summary": "中新网广州7月23日电 (记者 王坚)广东省应急管理厅23日消息称，2026年面向太平洋岛国防灾减灾能力建设研修班暨中太防灾减灾合作座谈会近日在广东省江门市五邑大学举办。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10665268.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:23:11.000Z"
-    },
-    {
-      "id": "38201931fb35",
-      "title": "2026年中国壁球青少年公开赛落幕",
-      "summary": "中新网山东济宁7月23日电 首届“运河拍卖杯”2026年中国壁球青少年公开赛近日在山东济宁孔子高级中学艺体中心落幕。本次赛事是目前国内举办的规格最高的青少年壁球国际赛事，共吸引15个国家和地区的近500名选手参赛。",
-      "url": "https://www.chinanews.com.cn/ty/2026/07-23/10665296.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:22:57.000Z"
     },
     {
       "id": "d623abd0c7bf",
@@ -497,16 +517,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-23T12:36:40.000Z"
-    },
-    {
-      "id": "1a41fb307671",
-      "title": "Dubai offers £600 rewards to residents who lure friends to visit as tourist numbers plummet",
-      "summary": "<p>Residents eligible for dining and hotel packages if they can persuade family and friends to city spurned by visitors amid Iran war </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/23/us-iran-war",
-      "url": "https://www.theguardian.com/world/2026/jul/23/dubai-offers-tourists-benefits",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T11:28:23.000Z"
     },
     {
       "id": "ceee7dc91e44",
@@ -1017,16 +1027,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-21T06:44:01.000Z"
-    },
-    {
-      "id": "d2f2191a8242",
-      "title": "Man of his word: Pope Leo speeches declared human-authored by Australian AI detection tool",
-      "summary": "<p>Maps of Hope has been certified by Proudly Human, a company led by former chief scientist, Dr Alan Finkel</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-",
-      "url": "https://www.theguardian.com/world/2026/jul/21/pope-leo-speech-human-not-ai-artificial-intelligence",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-21T06:29:57.000Z"
     },
     {
       "id": "8a12c2f33eec",
