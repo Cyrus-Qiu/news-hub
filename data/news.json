@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T17:56:52.343Z",
+  "updatedAt": "2026-07-23T19:38:53.673Z",
   "sources": [
     {
       "name": "人民网",
@@ -30,18 +30,28 @@
   "articles": [
     {
       "id": "1389ab963a0b",
-      "title": "Trump considering ‘massive attack’ on Iran, says report – Middle East crisis live",
-      "summary": "<p>US president tells Axios ‘they haven’t received enough pain yet’ and he is ‘close to a decision’</p><p></p><p>Earlier in the US day, before Iran’s Revolutionary Guard said it had <a href=\"https://www.theguardian.com/w",
+      "title": "Middle East crisis is ‘getting out of control’, UN chief warns, as fears mount of escalation spiral – live updates",
+      "summary": "<p>Secretary general António Guterres tells security council the Middle East is being pushed to the ‘edge of the unimaginable’ amid latest threats from Donald Trump</p><ul><li><p><a href=\"https://www.theguardian.com/worl",
       "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-23T17:44:55.000Z"
+      "publishedAt": "2026-07-23T18:55:12.000Z"
+    },
+    {
+      "id": "26b484445332",
+      "title": "从“利用自然”到“定向创制” 中国团队推动植物抗病育种迈向新阶段",
+      "summary": "中新网北京7月24日电 (记者 孙自法)植物病害严重威胁全球农业生产和粮食安全，每年造成数千亿美元的经济损失。如何破解和应对这一难题广受关注。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-24/10665358.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-23T18:08:43.000Z"
     },
     {
       "id": "50cff931719d",
-      "title": "Trump says he is close to decision on largest-yet attack on Iran",
-      "summary": "<p>Escalation would follow oil passing $100 a barrel again and Houthi strikes on Saudi tankers in the Red Sea</p><p>The US president, Donald Trump, has said he is close to deciding whether to launch “a massive attack” ag",
+      "title": "Donald Trump says decision on ‘massive attack’ against Iran is close",
+      "summary": "<p>President’s remarks follow Houthi strikes on Saudi tankers in the Red Sea and oil prices rising past $100 a barrel again</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updat",
       "url": "https://www.theguardian.com/world/2026/jul/23/trump-says-he-is-close-to-decision-on-largest-yet-attack-on-iran",
       "source": "The Guardian World",
       "category": "国际",
@@ -61,7 +71,7 @@
     {
       "id": "6ca63747a034",
       "title": "Thousands flee wildfires in France as temperatures reach extreme levels in southern Europe",
-      "summary": "<p>Some parts of Mediterranean Sea 5C hotter than normal, with air temperatures above 44C expected in Spain</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rub",
+      "summary": "<p>Some parts of Mediterranean Sea 5C hotter than normal, with air temperatures above 44C expected in Spain</p><p>Brutal heat torching southern Europe has forced nearly 20,000 people to flee wildfires in France as a mari",
       "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
       "source": "The Guardian World",
       "category": "国际",
@@ -417,16 +427,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-23T14:22:33.000Z"
-    },
-    {
-      "id": "ba5b6633db7b",
-      "title": "云南提出：到2030年干热河谷地区退化生态系统逐步恢复",
-      "summary": "中新网昆明7月23日电 (记者 韩帅南)记者23日从云南省林业和草原局获悉，该局近日印发《云南省干热河谷生态带建设林草实施方案》(以下简称《方案》)，其中明确到2030年干热河谷地区退化生态系统逐步恢复，到2035年实现生态美、产业兴、百姓富有机统一。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10665297.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-23T14:22:07.000Z"
     },
     {
       "id": "d623abd0c7bf",
