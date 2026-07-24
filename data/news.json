@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T17:45:55.663Z",
+  "updatedAt": "2026-07-24T19:42:01.580Z",
   "sources": [
     {
       "name": "人民网",
@@ -29,14 +29,54 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "7aac48fed0dd",
+      "title": "More than 100,000 people flee or lock down as wildfires sweep France and Spain",
+      "summary": "<p>‘Highly unpredictable’ blaze forces evacuation of Cap Ferret on French coast and Spain declares national emergency</p><p>More than 100,000 people have fled or been ordered to lock down as huge wildfires sweep Spain an",
+      "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T18:58:21.000Z"
+    },
+    {
+      "id": "0adeceaef5b8",
+      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
+      "summary": "<p>No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and Kuwait</p><p>The US has struck targets across Iran, reaching as far as the Caspian Sea, as Donald Trump threatened “m",
+      "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T17:58:22.000Z"
+    },
+    {
+      "id": "d5ac986591cc",
+      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
+      "summary": "<p>At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/aug/13/how-dangerous-wildfires-s",
+      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T17:58:00.000Z"
+    },
+    {
       "id": "d5a33d932795",
       "title": "Woman charged in Ireland after police intercept ‘highly sophisticated’ bomb",
-      "summary": "<p>Detectives targeting dissident republicans stopped vehicle transporting device near Northern Ireland border</p><p>Two people have been arrested after police in Ireland targeting dissident republicans intercepted an “e",
+      "summary": "<p>Detectives targeting dissident republicans stopped vehicle transporting device near Northern Ireland border</p><p>A woman in her 20s has been charged in relation to an “extremely significant” bomb intercepted near the",
       "url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-24T17:28:32.000Z"
+      "publishedAt": "2026-07-24T17:40:39.000Z"
+    },
+    {
+      "id": "03bccb2d7c32",
+      "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
+      "summary": "<p>After Google fined €890m by EU, US president said Europe was ‘robbing’ American companies and taxpayers</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jul/23/trump-tariffs-what-to-know\">What to know a",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T17:37:44.000Z"
     },
     {
       "id": "cc4ca3cb3b33",
@@ -50,23 +90,13 @@
     },
     {
       "id": "8e8ae412b867",
-      "title": "Iran’s much improved missile systems pose a real threat to the US",
-      "summary": "<p>Tehran’s increasingly accurate and lethal attacks are showing up failures in American air defences in the Gulf</p><p>As the crisis in the Middle East escalates, Iran has been bombing US bases and critical infrastructu",
+      "title": "How Chinese tech and Russian tactics are aiding Iran’s bombing of US bases",
+      "summary": "<p>Increasingly accurate and lethal attacks are revealing weaknesses in stretched defences across the Gulf</p><p>As the crisis in the Middle East escalates, Iran has been bombing US bases and critical infrastructure in t",
       "url": "https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-24T17:13:36.000Z"
-    },
-    {
-      "id": "0adeceaef5b8",
-      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-      "summary": "<p>No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and Kuwait</p><p>The US struck targets across Iran on Friday, reaching as far as the Caspian Sea, as Donald Trump threate",
-      "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T17:10:19.000Z"
     },
     {
       "id": "e3b4bdc4a746",
@@ -147,16 +177,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-24T15:34:34.000Z"
-    },
-    {
-      "id": "7aac48fed0dd",
-      "title": "More than 80,000 people flee as wildfires spread in south-west France and Spain",
-      "summary": "<p>‘Unpredictable’ blaze forces evacuation of holiday spot Cap Ferret and Spain declares emergency over fires near Madrid</p><p></p><p>More than 80,000 people have fled huge wildfires in Spain and France as Madrid declar",
-      "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T15:33:03.000Z"
     },
     {
       "id": "eb56d5057477",
@@ -247,16 +267,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-24T14:58:51.000Z"
-    },
-    {
-      "id": "79e799796bc3",
-      "title": "How dangerous are wildfires and how can we stop them from getting worse?",
-      "summary": "<p>The conditions for ferocious fires are expected to worsen as the planet heats up, putting more people at risk</p><p>Fierce wildfires after back-to-back heatwaves have forced tens of thousands of people across southern",
-      "url": "https://www.theguardian.com/environment/2025/aug/13/how-dangerous-wildfires-stop-them-getting-worse",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T14:47:43.000Z"
     },
     {
       "id": "9f44ccfacb88",
@@ -589,6 +599,16 @@
       "publishedAt": "2026-07-24T04:16:29.000Z"
     },
     {
+      "id": "0d617a189c59",
+      "title": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
+      "summary": "<p>Irish politicians concerned about Daniel Tatlow-Devally’s treatment in jail want Micheál Martin to send observers to Ulm 5 trial</p><p>A cross-party delegation of Irish politicians has urged Dublin to send observers t",
+      "url": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T04:00:04.000Z"
+    },
+    {
       "id": "cf6312ed652c",
       "title": "為什麼你總是在凌晨三點醒來？",
       "summary": "研究指出，健康成年人每晚通常會醒來2至4次。許多人根本不記得自己曾經醒過，但如果大腦開始把「醒來」與「焦慮」聯繫起來，皮質醇便可能迅速上升，使再次入睡變得更加困難。此外，女性也更容易出現睡眠中斷。",
@@ -597,16 +617,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-24T03:38:53.000Z"
-    },
-    {
-      "id": "1389ab963a0b",
-      "title": "Middle East crisis is ‘getting out of control’, UN chief warns – as it happened",
-      "summary": "<p>This live blog has not closed, you can read our latest story from the region <a href=\"https://www.theguardian.com/world/2026/jul/23/trump-says-he-is-close-to-decision-on-largest-yet-attack-on-iran\">here</a></p><p></p>",
-      "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T02:33:09.000Z"
     },
     {
       "id": "42a08b35c151",
@@ -637,16 +647,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-23T16:45:56.000Z"
-    },
-    {
-      "id": "02135ae4d898",
-      "title": "Mayor shot dead in Mexico months after surviving assassination attempt",
-      "summary": "<p>Valentín Lavín Romero is the 14th mayor to be murdered since Claudia Sheinbaum became president in 2024</p><p>A mayor was shot dead on Wednesday in the Mexican state of Morelos after having survived a previous assassi",
-      "url": "https://www.theguardian.com/world/2026/jul/23/mayor-shot-dead-mexico-after-surviving-assassination",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T16:32:53.000Z"
     },
     {
       "id": "e751e1ec6687",
