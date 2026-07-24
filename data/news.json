@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T15:39:40.860Z",
+  "updatedAt": "2026-07-24T17:45:55.663Z",
   "sources": [
     {
       "name": "人民网",
@@ -29,6 +29,136 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "d5a33d932795",
+      "title": "Woman charged in Ireland after police intercept ‘highly sophisticated’ bomb",
+      "summary": "<p>Detectives targeting dissident republicans stopped vehicle transporting device near Northern Ireland border</p><p>Two people have been arrested after police in Ireland targeting dissident republicans intercepted an “e",
+      "url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T17:28:32.000Z"
+    },
+    {
+      "id": "cc4ca3cb3b33",
+      "title": "Middle East crisis latest: US carries out strikes across Iran as Tehran targets American bases in region",
+      "summary": "<p>Latest attacks come after Trump vowed ‘major military punishment’ for Tehran and its Houthi allies</p><p>As we reported earlier, <strong>Iran</strong>’s military said on Friday that it carried out attacks targeting <s",
+      "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T17:20:09.000Z"
+    },
+    {
+      "id": "8e8ae412b867",
+      "title": "Iran’s much improved missile systems pose a real threat to the US",
+      "summary": "<p>Tehran’s increasingly accurate and lethal attacks are showing up failures in American air defences in the Gulf</p><p>As the crisis in the Middle East escalates, Iran has been bombing US bases and critical infrastructu",
+      "url": "https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T17:13:36.000Z"
+    },
+    {
+      "id": "0adeceaef5b8",
+      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
+      "summary": "<p>No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and Kuwait</p><p>The US struck targets across Iran on Friday, reaching as far as the Caspian Sea, as Donald Trump threate",
+      "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T17:10:19.000Z"
+    },
+    {
+      "id": "e3b4bdc4a746",
+      "title": "Israel planning ‘extensive’ military operation in West Bank after settler attack",
+      "summary": "<p>Four Palestinians and two Israelis killed and several hurt after armed settlers entered village with military support</p><p>Israel has said it is preparing a major military operation in the West Bank after four Palest",
+      "url": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T16:54:02.000Z"
+    },
+    {
+      "id": "acf343a43a0d",
+      "title": "中方：中美执法部门开展系列务实合作，取得诸多可视化成果",
+      "summary": "中新社北京7月24日电 (记者 郭超凯)记者24日从中国公安部获悉，今年以来，中美两国执法部门认真落实两国元首重要共识，在禁毒、遣返追逃、打击电诈等领域开展系列务实合作，取得诸多可视化成果。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-25/10666136.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-24T16:28:35.000Z"
+    },
+    {
+      "id": "9088ac8633bb",
+      "title": "王毅会见俄罗斯外长拉夫罗夫",
+      "summary": "2026年7月24日，中共中央政治局委员、外交部长王毅在吉尔吉斯斯坦出席上海合作组织外长会期间会见俄罗斯外长拉夫罗夫。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-25/10666135.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-24T16:25:45.000Z"
+    },
+    {
+      "id": "c5bedbebc2e1",
+      "title": "王毅出席上海合作组织外长会",
+      "summary": "2026年7月24日，中共中央政治局委员、外交部长王毅在吉尔吉斯斯坦出席上海合作组织外长理事会会议。上合组织成员国外长及上合组织秘书长、地区反恐怖机构执委会主任等出席。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-25/10666134.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-24T16:24:47.000Z"
+    },
+    {
+      "id": "3e8d1ea91fae",
+      "title": "星耀未来青少年羽毛球年度总决赛启幕",
+      "summary": "中新网7月25日电 2025-2026赛季星耀未来青少年羽毛球年度总决赛24日在南通国际会展中心启幕。本次比赛共吸引超1200名青少年球员参赛，赛事设U6-U15九个年龄组别及亲子组，旨在为青少年搭建起同场竞技、以赛交友、互通交流的平台。",
+      "url": "https://www.chinanews.com.cn/ty/2026/07-25/10666133.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-24T16:04:08.000Z"
+    },
+    {
+      "id": "d45aa5bca23d",
+      "title": "孟加拉国议长担任代理总统",
+      "summary": "新华社达卡7月24日电 孟加拉国国民议会秘书处24日向媒体证实，总统穆罕默德·谢哈布丁·楚普辞职后，国民议会议长哈菲兹·乌丁·艾哈迈德担任代理总统。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-24/10666132.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-24T15:59:15.000Z"
+    },
+    {
+      "id": "6f3b7256b268",
+      "title": "APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明",
+      "summary": "7月24日，中方在四川省成都市主办APEC人工智能高级别论坛，论坛主题为“促进人工智能普惠包容发展”。APEC成员经济体重申，我们致力于在人工智能领域深化交流、凝聚共识、加强合作、促进创新，并致力于继续实施《2040年APEC布特拉加亚愿景》、《APEC互联网和数字经济路线图》和《APEC人工智能倡议(2026—2030)》。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-24/10666131.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-24T15:39:42.000Z"
+    },
+    {
+      "id": "157239ae6955",
+      "title": "中美在禁毒、遣返追逃、打击电诈等领域执法合作取得最新成果",
+      "summary": "今年以来，中美两国执法部门认真落实两国元首重要共识，在禁毒、遣返追逃、打击电诈等领域开展系列务实合作，取得诸多可视化成果。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-24/10666130.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-24T15:34:34.000Z"
+    },
+    {
+      "id": "7aac48fed0dd",
+      "title": "More than 80,000 people flee as wildfires spread in south-west France and Spain",
+      "summary": "<p>‘Unpredictable’ blaze forces evacuation of holiday spot Cap Ferret and Spain declares emergency over fires near Madrid</p><p></p><p>More than 80,000 people have fled huge wildfires in Spain and France as Madrid declar",
+      "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T15:33:03.000Z"
+    },
+    {
       "id": "eb56d5057477",
       "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
       "summary": "<p>Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies</p><p>The confirmed death toll from the recent capsizing of a state ferry off <a href=\"https://www.the",
@@ -37,16 +167,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-24T15:28:37.000Z"
-    },
-    {
-      "id": "cc4ca3cb3b33",
-      "title": "Middle East crisis latest: US carries out strikes across Iran as Tehran targets American bases in region",
-      "summary": "<p>Latest attacks come after Trump vowed ‘major military punishment’ for Tehran and its Houthi allies</p><p>An <strong>Omani</strong> delegation has arrived in <strong>Iran</strong> to discuss a framework “to establish a",
-      "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T15:27:14.000Z"
     },
     {
       "id": "a234329d42c8",
@@ -60,7 +180,7 @@
     },
     {
       "id": "32872672b2fa",
-      "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – Europe live",
+      "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – as it happened",
       "summary": "<p>French evacuees using hundreds of mobilised boats or the only road linking the area with the mainland as evacuation also ordered in areas near Spanish capital</p><p>Over in France, it’s not just the south-west that ge",
       "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
       "source": "The Guardian World",
@@ -209,16 +329,6 @@
       "publishedAt": "2026-07-24T14:34:28.000Z"
     },
     {
-      "id": "7aac48fed0dd",
-      "title": "More than 80,000 people flee as wildfires spread in south-west France and Spain",
-      "summary": "<p>‘Unpredictable’ blaze forces evacuation of French holiday spot Cap Ferret and Spain declares emergency as fires merge near Madrid</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/24/france-spain-",
-      "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T14:32:24.000Z"
-    },
-    {
       "id": "c79cb207f08d",
       "title": "四川成都：借力数字经济跻身开放前沿",
       "summary": "7月16日至29日，亚太经合组织(APEC)数字和人工智能部长会议及数字周相关高级别活动在四川成都举行，各经济体相关部长围绕数字经济、人工智能、数字贸易等前沿议题展开交流。与此同时，2026亚太数字伙伴对话暨“投资成都”全球招商大会、新型工业化推进现场交流会、太空算力产业生态大会等城市侧活动也接续展开。",
@@ -339,76 +449,6 @@
       "publishedAt": "2026-07-24T14:18:55.000Z"
     },
     {
-      "id": "ca2f9504a673",
-      "title": "宁夏2026年“三下乡”集中示范活动在固原启幕 惠民服务送到百姓家门口",
-      "summary": "中新网固原7月24日电 (记者 李佩珊)7月24日，2026年宁夏文化科技卫生“三下乡”集中示范活动在固原市原州区彭堡镇正式启动。活动聚焦送理论、送科技、送健康、送文化，将优质公共服务、农技知识、医疗资源下沉乡村一线，把民生暖意送到百姓家门口。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-24/10666085.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-24T14:18:49.000Z"
-    },
-    {
-      "id": "644351f6b69b",
-      "title": "中国气象局：受台风“红霞”影响粤闽赣或现极端降雨",
-      "summary": "中新社北京7月24日电 (记者 陈溯)中央气象台首席预报员吕心艳24日向记者表示，受今年第12号台风“红霞”影响，粤闽赣将出现极端降雨。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-24/10666101.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-24T14:18:31.000Z"
-    },
-    {
-      "id": "8ce7ebbe75f7",
-      "title": "中国产“空中出租车”首次在阿斯塔纳演示飞行",
-      "summary": "中新社阿斯塔纳7月24日电 (记者 单璐)一架由中国企业自主研发的大型电动垂直起降航空器24日在哈萨克斯坦首都阿斯塔纳完成演示飞行。这也是此类航空器首次飞上阿斯塔纳上空。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-24/10666105.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-24T14:18:29.000Z"
-    },
-    {
-      "id": "eb733f41611c",
-      "title": "孟加拉国总统楚普辞职",
-      "summary": "中新社北京7月24日电 达卡消息：当地时间7月24日，孟加拉国总统穆罕默德·谢哈布丁·楚普以健康状况不佳为由，向国民议会议长哈菲兹递交辞呈，辞去总统职务。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-24/10666103.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-24T14:17:51.000Z"
-    },
-    {
-      "id": "fc7461cb9e58",
-      "title": "东盟副秘书长：寻求“小而实用”的AI解决方案以改善地区民生",
-      "summary": "中新社成都7月24日电 (单鹏)2026年亚太经合组织(APEC)数字周16日至29日在四川成都举办。参加活动的东盟副秘书长萨特温德·辛格24日接受媒体采访时表示，当前东盟寻求的并非耗能巨大的大型生成式人工智能，而是能够真正融入产业生态、“小而实用”的AI解决方案，以切实改善地区民生。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/07-24/10666102.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-24T14:17:41.000Z"
-    },
-    {
-      "id": "b2db64399699",
-      "title": "第十一届“创客中国”广西中小企业创新创业大赛南宁区域赛收官",
-      "summary": "中新网南宁7月24日电(张广权 肖景凤)7月23日至24日，第十一届“创客中国”广西中小企业创新创业大赛南宁区域赛收官。活动共吸引南宁、崇左、百色三地140个优质创新项目报名参赛。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-24/10666089.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-24T14:16:53.000Z"
-    },
-    {
-      "id": "4795741ecfc6",
-      "title": "柬埔寨上半年批准1000兆瓦清洁能源投资",
-      "summary": "中新社金边7月24日电 《高棉时报》24日报道称，柬埔寨发展理事会(CDC)在2026年上半年批准一系列可再生能源项目，它们预计将为柬国家电网新增1000兆瓦(MW)的清洁能源发电能力。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-24/10666100.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-24T14:16:45.000Z"
-    },
-    {
       "id": "00e5ed03db16",
       "title": "I’ve been gaming for 40 years. Here are the best chairs in the UK for comfort, support and serious play",
       "summary": "<p>Whether you’re on PC or a console, level up your setup with our gaming expert’s pick of the best chairs</p><p>• <a href=\"https://www.theguardian.com/culture/ng-interactive/2026/jun/11/the-best-games-of-2026-so-far\"><s",
@@ -420,23 +460,13 @@
     },
     {
       "id": "f80d32241275",
-      "title": "Canadian government urged to block data-sharing deal between Thomson Reuters and US ICE",
-      "summary": "<p>ICE will pay Canadian media giant US$125m to use its investigative database to identify ‘immigration fraud’</p><p>A Canadian federal opposition party leader is calling on the Mark Carney government to block the latest",
+      "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
+      "summary": "<p>US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’</p><p>A Canadian federal opposition party leader has called on Mark Carney’s government to block the l",
       "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-24T13:53:34.000Z"
-    },
-    {
-      "id": "61cc0b356b54",
-      "title": "Poland’s main rightwing opposition splits after loyalty pledge ultimatum",
-      "summary": "<p>Former prime minister Mateusz Morawiecki and allies say they were forced out over factional disagreements </p><p>Poland’s main opposition Law and Justice (PiS) party has split, after former prime minister Mateusz Mora",
-      "url": "https://www.theguardian.com/world/2026/jul/24/poland-rightwing-opposition-splits-loyalty-pledge-ultimatum-mateusz-morawiecki",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T13:50:24.000Z"
     },
     {
       "id": "3ecc7db58a46",
@@ -447,16 +477,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-24T13:00:14.000Z"
-    },
-    {
-      "id": "e3b4bdc4a746",
-      "title": "Four Palestinians and one Israeli killed during West Bank settler attack",
-      "summary": "<p>Several others seriously injured in attack that residents of Palestinian village say also involved Israeli military</p><p>Four Palestinians and one Israeli settler have been killed in a shooting in the northern West B",
-      "url": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T12:55:37.000Z"
     },
     {
       "id": "1664786a2eb5",
@@ -599,16 +619,6 @@
       "publishedAt": "2026-07-24T00:03:29.000Z"
     },
     {
-      "id": "f49185dc1ca9",
-      "title": "UK ‘ready to defend itself’ after Iranian threat over US bases",
-      "summary": "<p>IRGC claims base in south-west England was used by US to launch bombing missions, making it ‘legitimate target’</p><p>The government has said the UK is “ready to defend itself” after Iran’s military warned that any ba",
-      "url": "https://www.theguardian.com/world/2026/jul/23/uk-ready-to-defend-itself-iran-threat-us-bases",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T22:41:37.000Z"
-    },
-    {
       "id": "e60c66d1f28e",
       "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
       "summary": "<p>‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising bills</p><p>Donald Trump has announced that about 200 entities have signed on to his non-binding “Ratepayer ",
@@ -619,18 +629,8 @@
       "publishedAt": "2026-07-23T19:56:50.000Z"
     },
     {
-      "id": "50cff931719d",
-      "title": "Donald Trump says decision on ‘massive attack’ against Iran is close",
-      "summary": "<p>President’s remarks follow Houthi strikes on Saudi tankers in the Red Sea and oil prices rising past $100 a barrel again</p><p>Donald Trump has said he is close to deciding whether to launch “a massive attack” against",
-      "url": "https://www.theguardian.com/world/2026/jul/23/trump-says-he-is-close-to-decision-on-largest-yet-attack-on-iran",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T16:58:25.000Z"
-    },
-    {
       "id": "6361be88d576",
-      "title": "‘Customers prefer AI chatbots,’ says British Gas owner as 1,300 call centre jobs axed",
+      "title": "Customers prefer AI chatbots, says British Gas owner as 1,300 call centre and back office jobs axed",
       "summary": "<p>CEO Chris O’Shea defends Centrica’s plans as it reports rise in retail profits following focus on bigger margins</p><p>The owner of British Gas has claimed that most households would rather speak with an AI chatbot th",
       "url": "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
       "source": "The Guardian Technology",
