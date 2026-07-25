@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T22:03:42.203Z",
+  "updatedAt": "2026-07-25T23:05:13.273Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,84 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "d406d1e1598d",
+      "title": "7月26日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/07-26/10666600.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T22:48:40.000Z"
+    },
+    {
       "id": "915736719715",
-      "title": "Berlin Pride march called off after car crashes into crowd of people near route",
-      "summary": "Christopher Street Day event cancelled after incident that left several people injured A major incident has been declared in Berlin after reports that a car has crashed into a cr…",
+      "title": "One killed and 15 injured after van crashes into crowd at Berlin Pride",
+      "summary": "Police call off annual parade hours after it began as several people are struck by vehicle in Tiergarten park A van has ploughed into a crowd at Berlin’s annual LGBTQ+ pride para…",
       "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-25T21:20:16.000Z"
+      "publishedAt": "2026-07-25T22:44:36.000Z"
+    },
+    {
+      "id": "28e7bc194523",
+      "title": "柏林发生汽车撞人事件致1死14伤",
+      "summary": "德国柏林警方当地时间25日说，柏林市中心当晚发生一起汽车冲撞行人事件，造成至少1人死亡、14人受伤，其中多人伤势严重。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666599.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T22:44:22.000Z"
+    },
+    {
+      "id": "6c7494f0c7ff",
+      "title": "中央部门“晒账本”，花钱更加求“绩”问“效”",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666598.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T22:39:12.000Z"
+    },
+    {
+      "id": "a6b39358d75d",
+      "title": "放心用省心还，租车场景更多元",
+      "summary": "“十五五”时期，汽车短租市场规模预计年均增长约15%",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-26/10666597.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T22:36:31.000Z"
+    },
+    {
+      "id": "5a11e37dfca6",
+      "title": "美军称对伊海上封锁已使两艘船只失去航行能力",
+      "summary": "当地时间7月25日，美国中央司令部表示，美国针对伊朗的海上封锁仍全面生效。截至当天，美军已拦截并改道12艘试图突破封锁的商船，使2艘拒不配合的船只失去航行能力，并登船检查2艘船舶。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666596.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T22:25:41.000Z"
+    },
+    {
+      "id": "20e7ae4255a8",
+      "title": "特朗普下令暂停空袭伊朗",
+      "summary": "央视记者获悉，当地时间7月25日，美国总统特朗普下令美军当天不要对伊朗发动新的空袭，结束了此前连续近两周、持续13天的每日打击行动。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666595.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T22:23:31.000Z"
+    },
+    {
+      "id": "9251a8964d0d",
+      "title": "攻破世界级难题、申遗成功！本周我国多领域实现历史性突破",
+      "summary": "“景德镇手工瓷业遗存”申遗成功",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666594.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T22:20:37.000Z"
     },
     {
       "id": "640777c93c41",
@@ -290,16 +360,6 @@
       "publishedAt": "2026-07-25T13:04:27.000Z"
     },
     {
-      "id": "5ce806327fe0",
-      "title": "“青超联赛”上演海拔3700米争夺战 玉树队主场战平海北队",
-      "summary": "7月25日，青海玉树，玉树牦牛队（黄衣）与海北祁连山藏羊队在比赛中。当日，第三届“大美青海·高原足球”超级联赛进入第八轮比赛，玉树牦牛队在海拔3700米以上的主场迎战海北祁连山藏羊队，经过激烈比拼，双方0比0战平。中新社记者 马铭言 摄 7月25日，青海玉树，玉树牦牛队（黄衣）与海北祁连山藏羊队在比赛中。当日，第三届“大美青海·高原足球”超级联赛进入第八…",
-      "url": "https://www.chinanews.com.cn/tp/2026/07-25/10666560.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T13:03:51.000Z"
-    },
-    {
       "id": "64934dbed4f8",
       "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
       "summary": "Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay In March, Anthropic, the cutting-edge artificial in…",
@@ -308,66 +368,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-25T13:00:43.000Z"
-    },
-    {
-      "id": "e47114a2a251",
-      "title": "西安市跆拳道公开赛启幕 多省区近500名选手同台竞技",
-      "summary": "中新网西安7月25日电 (记者 张一辰)25日，2026年西安市跆拳道公开赛在西安欧亚学院综合体育馆举行。本次赛事汇聚陕西、新疆、四川、宁夏、辽宁等地40余支代表队、近500名选手参赛。",
-      "url": "https://www.chinanews.com.cn/ty/2026/07-25/10666562.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:59:45.000Z"
-    },
-    {
-      "id": "b8c97d2fadb9",
-      "title": "印象唐山：凤凰之城的坚韧、智慧和魅力",
-      "summary": "中新网唐山7月25日电 题：印象唐山：凤凰之城的坚韧、智慧和魅力",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666556.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:58:43.000Z"
-    },
-    {
-      "id": "c9a7931c1591",
-      "title": "华星小记者畅游乐山 品读大佛与乌木里的华夏文脉",
-      "summary": "中新网乐山7月25日电 (轩瑾婉)25日，“2026华星小记者四川集结营”研学活动走进乐山。来自卡塔尔、韩国、荷兰、马来西亚、德国、法国、英国7个国家的30名华裔师生驻足乐山大佛脚下，纷纷感慨大佛气势恢宏。",
-      "url": "https://www.chinanews.com.cn/hr/2026/07-25/10666561.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:57:58.000Z"
-    },
-    {
-      "id": "2b42d2455199",
-      "title": "2026“爱飞翔·乡村教育”开班 65位乡村教师来沪学习先进教学经验与创新思维",
-      "summary": "中新网上海7月25日电 (记者 陈静)“爱飞翔·乡村教育”2026开班仪式25日在华东师范大学举行，吸引来自云南、贵州、江西、安徽等地及上海随迁子女学校的65位乡村教师等参加。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666557.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:57:26.000Z"
-    },
-    {
-      "id": "1f4a1f14e350",
-      "title": "中国红十字基金会数字化备灾救灾项目：多地试点、惠及民众",
-      "summary": "中新网北京7月25日电 (张素 侯力新)记者25日从中国红十字基金会获悉，截至目前，数字化备灾救灾相关项目已在北京、西藏、贵州、四川、内蒙古、广西、湖北等地试点实践，覆盖洪涝、地震、台风等多种类型灾害场景。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666559.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:56:56.000Z"
-    },
-    {
-      "id": "63675699cc76",
-      "title": "欧盟罚了中美企业，却伤了欧洲自己丨真相",
-      "summary": "最近，几张天价罚单，把欧盟送上了风口浪尖。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-25/10666554.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:55:58.000Z"
     },
     {
       "id": "3fe1b9243c03",
