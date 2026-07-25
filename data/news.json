@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T15:13:12.076Z",
+  "updatedAt": "2026-07-25T16:27:43.920Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,46 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "309915b8fbdd",
+      "title": "广东省将防风应急响应提升为Ⅰ级",
+      "summary": "记者获悉，鉴于今年第12号台风“红霞”近岸加强，即将以强台风级登陆广东省，造成严重风雨影响。根据《广东省防汛防旱防风防冻应急预案》和省防总有关规定，广东省防总已于7月25日23时将防风Ⅱ级应急响应提升为防风Ⅰ级应急响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666590.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T15:50:50.000Z"
+    },
+    {
+      "id": "ff15003112b6",
+      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
+      "summary": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first minister Tell us: have you been affected by wildfires in Eu…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-25T15:50:48.000Z"
+    },
+    {
+      "id": "cc22b1ce31ad",
+      "title": "受台风影响 港珠澳大桥、深中通道将临时封闭",
+      "summary": "记者获悉，受今年第12号台风“红霞”影响，为确保交通安全，经粤港澳三地共同会商决定，定于7月26日0时0分起，对港珠澳大桥主桥实施临时封桥，珠海公路口岸珠港之间暂停通关服务。解封时间将另行通知，请留意官方公告。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666589.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T15:28:37.000Z"
+    },
+    {
+      "id": "c405ad5d25c4",
+      "title": "（台湾写真）在花莲，与一场丰年祭雨中相逢",
+      "summary": "中新社台湾花莲7月25日电 题：在花莲，与一场丰年祭雨中相逢",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-25/10666587.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T15:23:24.000Z"
+    },
+    {
       "id": "650f59a6880f",
       "title": "《姐姐当家2》徐梦桃治愈式回家，冉莹颖邹市明双向告白",
       "summary": "由爱奇艺出品的国内首档熟龄女性观察节目《姐姐当家2》持续热播。本期节目中，姐夫团首次进入观察室，以丈夫视角观察姐姐们的真实生活，与观察团共同探寻爱的答案。",
@@ -48,16 +88,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-25T14:50:23.000Z"
-    },
-    {
-      "id": "ff15003112b6",
-      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
-      "summary": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first minister Tell us: have you been affected by wildfires in Eu…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-25T14:38:42.000Z"
     },
     {
       "id": "9ba2cd7376df",
@@ -328,36 +358,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-07-25T12:55:12.000Z"
-    },
-    {
-      "id": "0b98ce25505c",
-      "title": "第40届全国青少年科技创新大赛在西安举办 国际代表首次六大洲全覆盖",
-      "summary": "中新网北京7月25日电 (记者 孙自法)记者从中国科学技术协会(中国科协)获悉，第40届全国青少年科技创新大赛7月25日至29日在西安举办。作为亮点之一，本届大赛首次实现国际代表亚洲、非洲、欧洲、北美洲、南美洲、大洋洲全覆盖。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666553.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:54:10.000Z"
-    },
-    {
-      "id": "fe62520d4658",
-      "title": "北京石景山推动AI等五大特色产业从“集聚”向“集群”迈进",
-      "summary": "中新网北京7月25日电 (记者 陈杭)北京石景山将持续压实市区企协同项目推进机制，统筹市级政策、区级资源、企业运营多方力量，滚动落地一批标志性示范工程，建设高品质城市水岸客厅，打造北京西部高质量发展新引擎，绘就“山水京西、活力永定”新图景。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666551.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:53:12.000Z"
-    },
-    {
-      "id": "275a39704dc5",
-      "title": "今年洋山口岸国际航行船舶进出港数量突破6000艘次",
-      "summary": "中新网上海7月25日电 (陈静 叶真于)25日傍晚，利比里亚籍“雄心”轮顺利靠泊洋山港冠东码头，该轮在港期间将装卸1.1万个标箱。至此，今年以来进出洋山口岸的国际航行船舶总量突破6000艘次。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666550.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:52:24.000Z"
     },
     {
       "id": "03752f199b94",
