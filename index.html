@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="讯息流——聚合科技、财经、国际、AI 与商业资讯。" />
   <title>讯息流｜每日重要新闻</title>
-  <link rel="stylesheet" href="styles.css?v=2" />
+  <link rel="stylesheet" href="styles.css?v=3" />
 </head>
 <body>
   <header class="topbar">
@@ -15,7 +15,7 @@
     </a>
     <nav aria-label="新闻分类" id="main-nav"></nav>
     <button class="search-toggle" id="search-toggle" aria-label="搜索新闻" aria-expanded="false"><span></span></button>
-    <span class="live"><i></i>实时更新</span>
+    <span class="live" id="live-status"><i></i>等待更新</span>
   </header>
 
   <div class="search-panel" id="search-panel" hidden>
@@ -62,18 +62,21 @@
         <p>筛掉噪音，只保留对行业、市场和未来真正有影响的内容。</p>
       </div>
       <div class="filters"><div id="filter-nav"></div><span id="result-count"></span></div>
+      <div class="filter-tools" aria-label="新闻筛选">
+        <select id="language-filter"><option value="all">全部语言</option><option value="zh">只看中文</option><option value="en">只看英文</option></select>
+        <select id="source-filter"><option value="all">全部来源</option></select>
+        <select id="period-filter"><option value="all">全部时间</option><option value="6h">最近 6 小时</option><option value="24h">最近 24 小时</option></select>
+        <button id="saved-filter" type="button">只看收藏</button>
+        <small id="update-status">等待首次更新</small>
+      </div>
       <div class="news-grid" id="news-grid"></div>
       <div class="empty" id="empty" hidden><strong>没有找到相关资讯</strong><p>换一个关键词，或浏览其他分类。</p><button id="reset-filter">查看全部新闻</button></div>
       <button class="load-more" id="load-more">加载更多资讯 ↓</button>
     </section>
 
-    <section class="briefing">
-      <div><p class="eyebrow">每日简报</p><h2>每天 8:30，读完真正重要的事</h2><p>由编辑筛选科技、财经与全球商业动态，五分钟掌握关键变化。</p></div>
-      <form id="subscribe-form"><label for="email">订阅邮箱</label><div><input id="email" type="email" placeholder="name@example.com" required /><button>订阅简报</button></div><small id="subscribe-note">每个工作日一封，无广告，可随时退订。</small></form>
-    </section>
   </main>
 
-  <footer><a class="brand" href="#top"><strong>讯息流</strong></a><p>理解变化，而不是追逐噪音。</p><span>© 2026 讯息流 · 演示资讯站</span></footer>
-  <script src="script.js?v=5"></script>
+  <footer><a class="brand" href="#top"><strong>讯息流</strong></a><p>理解变化，而不是追逐噪音。</p><span>© 2026 讯息流 · 新闻聚合站</span></footer>
+  <script src="script.js?v=6"></script>
 </body>
 </html>
