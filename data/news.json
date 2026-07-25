@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T13:55:32.958Z",
+  "updatedAt": "2026-07-25T15:13:12.076Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,24 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "bc7aa12b2b64",
-      "title": "学习时节｜立德树人！总书记领航基础教育发展",
-      "summary": "7月22日，全国基础教育工作会议在北京召开，会上传达了习近平总书记近日对基础教育工作作出的重要指示，系统部署新征程基础教育高质量发展重点任务。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-25/10666570.shtml",
+      "id": "650f59a6880f",
+      "title": "《姐姐当家2》徐梦桃治愈式回家，冉莹颖邹市明双向告白",
+      "summary": "由爱奇艺出品的国内首档熟龄女性观察节目《姐姐当家2》持续热播。本期节目中，姐夫团首次进入观察室，以丈夫视角观察姐姐们的真实生活，与观察团共同探寻爱的答案。",
+      "url": "https://www.chinanews.com.cn/cul/2026/07-25/10666588.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-25T13:43:32.000Z"
+      "publishedAt": "2026-07-25T15:01:05.000Z"
+    },
+    {
+      "id": "21620697ced4",
+      "title": "More than 250,000 people flee wildfires in France and Spain",
+      "summary": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have fo…",
+      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-25T14:50:23.000Z"
     },
     {
       "id": "ff15003112b6",
@@ -47,7 +57,117 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-25T13:42:06.000Z"
+      "publishedAt": "2026-07-25T14:38:42.000Z"
+    },
+    {
+      "id": "9ba2cd7376df",
+      "title": "台风“红霞”来袭 香港发出今年首个“八号风球”",
+      "summary": "中新社香港7月25日电 题：台风“红霞”来袭 香港发出今年首个“八号风球”",
+      "url": "https://www.chinanews.com.cn/dwq/2026/07-25/10666582.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T14:27:47.000Z"
+    },
+    {
+      "id": "3b027fe322b0",
+      "title": "广东省减灾委员会启动Ⅳ级救灾应急响应",
+      "summary": "针对今年第12号台风“红霞”带来的风雨浪潮及次生灾害影响，根据《广东省自然灾害救助应急预案》规定，广东省减灾委员会已于7月25日20时启动省Ⅳ级救灾应急响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666583.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T14:27:17.000Z"
+    },
+    {
+      "id": "c4d8b6a57fa6",
+      "title": "“红霞”已加强为强台风 中央气象台发布今年首个台风红色预警",
+      "summary": "中央气象台7月25日22时发布台风红色预警：今年第12号台风“红霞”已于今天(25日)晚上10点钟由台风级加强为强台风级，其中心位于广东惠州市惠东县东南方向大约100公里的近海海面上，就是北纬22.0度、东经115.6度，中心附近最大风力有14级(42米/秒)，中心最低气压为955百帕，七级风圈半径180-250公里，十级风圈半径90公里，十二级风圈半径…",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666580.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T14:12:52.000Z"
+    },
+    {
+      "id": "967ddc306b6a",
+      "title": "伊朗官员：镐山设施“目前是空的”",
+      "summary": "据伊朗方面25日消息，一名伊朗消息人士称，伊朗的镐山设施不仅坚固，而且“是空的”，美国袭击镐山的行动注定失败，伊朗的回应不会仅限于大规模军事行动。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-25/10666579.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T14:04:29.000Z"
+    },
+    {
+      "id": "49aeedc58b90",
+      "title": "中国国民党集会 抗议民进党当局漠视食品安全",
+      "summary": "中新社北京7月25日电 中国国民党25日晚在台北举行“我是人，我反毒台”集会活动，抗议民进党当局漠视食品安全，要求其负起应尽责任。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-25/10666578.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T14:03:15.000Z"
+    },
+    {
+      "id": "85451ba29859",
+      "title": "国家能源局报告指中国天然气市场有效应对国际波动 运行总体平稳",
+      "summary": "中新社北京7月25日电 (记者 王梦瑶)记者25日从中国国家能源局获悉，《中国天然气发展报告(2026)》指出，今年以来国际气价大幅上涨，中国天然气市场运行总体平稳，有效应对了国际市场供需平衡和价格波动。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-25/10666575.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T14:00:37.000Z"
+    },
+    {
+      "id": "ba7828e40256",
+      "title": "中国水利部针对7省区启动洪水防御Ⅳ级应急响应",
+      "summary": "中新社北京7月25日电 (记者 陈溯)记者25日从中国水利部获悉，水利部针对7省区启动洪水防御Ⅳ级应急响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666574.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T13:59:25.000Z"
+    },
+    {
+      "id": "1eac2451b9d6",
+      "title": "旅法华侨华人山东觅“新”机 冀中法“智”造深度牵手",
+      "summary": "中新社济南7月25日电 (陈宛婷)“侨连中法 共创未来”旅法侨界联合参访团于7月24日至25日到访山东济南，实地感受新能源、高端装备、数字产业发展实景，多位旅法华侨华人结合考察见闻畅谈合作机遇与发展构想。",
+      "url": "https://www.chinanews.com.cn/hr/2026/07-25/10666573.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T13:58:41.000Z"
+    },
+    {
+      "id": "998c61116aaa",
+      "title": "奇瑞汽车累计销量突破2000万辆 出口占比超三分之一",
+      "summary": "中新社合肥7月25日电 (记者 张俊)奇瑞控股集团有限公司(以下简称“奇瑞”)25日披露，其累计汽车销量突破2000万辆，其中出口近700万辆，占比超三分之一。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-25/10666572.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T13:58:21.000Z"
+    },
+    {
+      "id": "42111a9a07dc",
+      "title": "广东防御台风“红霞” 累计转移人员近35万人",
+      "summary": "中新社广州7月25日电 (记者 王坚)台风“红霞”中心25日19时在距离广东汕尾东南方向约145公里的海面上，其对广东已产生风雨影响。广东省应急管理厅25日通报称，为防御“红霞”，截至25日16时，全省累计转移人员349996人。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666571.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T13:57:29.000Z"
+    },
+    {
+      "id": "bc7aa12b2b64",
+      "title": "学习时节｜立德树人！总书记领航基础教育发展",
+      "summary": "7月22日，全国基础教育工作会议在北京召开，会上传达了习近平总书记近日对基础教育工作作出的重要指示，系统部署新征程基础教育高质量发展重点任务。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-25/10666570.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T13:43:32.000Z"
     },
     {
       "id": "ac76ed387e70",
@@ -240,116 +360,6 @@
       "publishedAt": "2026-07-25T12:52:24.000Z"
     },
     {
-      "id": "20f6691dcdca",
-      "title": "台风“红霞”即将登陆 港珠澳大桥桥梁航道交通管制再升级",
-      "summary": "中新网珠海7月25日电 (记者 邓媛雯)台风“红霞”即将登陆，受其影响，港珠澳大桥水域出现10-11级阵风。为保障通航安全，港珠澳大桥海事局于25日18时起升级港珠澳大桥桥梁航道临时交通管制措施，管制期间禁止所有船舶通过港珠澳大桥桥梁航道。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666549.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:48:22.000Z"
-    },
-    {
-      "id": "530beda42e99",
-      "title": "台风“红霞”将给广东带来狂风暴雨",
-      "summary": "中新网广州7月25日电 (记者 王坚)台风“红霞”正持续逼近广东。25日白天，韶关、清远和珠三角的部分市县出现了强雷雨，并伴有8级至13级雷雨大风，大亚湾西区录得广东最大雨量76.9毫米，粤东市县受台风外围环流影响，出现了小雨局部中雨和8级至10级大风。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666547.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:47:46.000Z"
-    },
-    {
-      "id": "3479aabf2f60",
-      "title": "台风“红霞”将袭粤 广东预泄腾库6.97亿立方米",
-      "summary": "中新网广州7月25日电 (记者 王坚)广东省水利厅25日通报称，截至25日17时，该厅组织261宗大中型水库预泄腾库6.97亿立方米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666546.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:47:04.000Z"
-    },
-    {
-      "id": "da8c6e68451d",
-      "title": "沈阳故宫暑期夜场开放 沉浸式演绎展现清代宫廷文化",
-      "summary": "中新社沈阳7月25日电 (记者 韩宏)24日、25日晚，沈阳故宫博物院内宫灯点亮、光影交织，暑期夜场活动如期举行，再现清代宫廷场景。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666545.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:44:04.000Z"
-    },
-    {
-      "id": "8762188ff203",
-      "title": "七预警齐发！台风“红霞”将于今天夜间至明天凌晨登陆",
-      "summary": "中新网7月25日电 据中央气象台网站消息，7月25日18时，中央气象台继续发布台风橙色预警、高温黄色预警、暴雨红色预警、强对流天气黄色预警、渍涝风险气象警报；水利部和中国气象局联合发布红色山洪灾害气象预警，自然资源部与中国气象局联合发布橙色地质灾害气象风险预警。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666497.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:41:38.000Z"
-    },
-    {
-      "id": "c444cb2e0e1c",
-      "title": "老街新生 家园蝶变——对口援疆民生与文化的“温度”",
-      "summary": "变化，始于对口援疆的精准落笔。",
-      "url": "https://www.chinanews.com.cn/txy/2026/07-25/10666544.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:38:35.000Z"
-    },
-    {
-      "id": "be501d82b7c4",
-      "title": "稳中有进 向新向优 质效提升——透视“十五五”开局之年新疆经济半年报",
-      "summary": "新疆经济看点·年中经济观察丨稳中有进 向新向优 质效提升——透视“十五五”开局之年新疆经济半年报",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-25/10666543.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:36:59.000Z"
-    },
-    {
-      "id": "2d5b8309e822",
-      "title": "日本大肆扩武埋隐患 若主动攻击无疑“以卵击石”",
-      "summary": "近年来，日本执政当局背离和平宪法、加速“再军事化”，导致日本防卫预算连续14年增长，近5年增幅约60%。2026财年日本防卫预算突破9万亿日元，创下历史新高。不止传统军费规模疯狂膨胀，日本在无人作战、智能化军备领域的突破速度，同样值得高度警惕。2026财年，日本用于构建“盾牌”无人作战体系的专项经费已达到1001亿日元。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-25/10666542.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:35:45.000Z"
-    },
-    {
-      "id": "9bc2cea3dd64",
-      "title": "进军太空 借演试弹 日本扩军拓武必将引火烧身",
-      "summary": "前不久日本参议院正式通过防卫省法案，将“航空自卫队”正式变更为了“航空宇宙自卫队”，同步设立专职太空作战的宇宙作战集团。近期日本海上自卫队的“金刚号”驱逐舰还在环太平洋军演中进行了实弹射击演练，对外军事扩张必然意味着军费增长，日本的防卫预算已经14年连续增长。跟随专家一起，逐一拆解近期日本加速再军事化的具体动向。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-25/10666541.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:34:37.000Z"
-    },
-    {
-      "id": "50278129ceb9",
-      "title": "打破界限 景德镇全产业链申遗中的“中国经验”",
-      "summary": "25日，在联合国教科文组织第48届世界遗产大会上，中国申报的“景德镇手工瓷业遗存”成功列入《世界遗产名录》。随着联合国教科文组织对世界文化遗产的要求日益严格，中国在申遗策略、保护技术乃至管理体制上都在不断创新。此次“景德镇手工瓷业遗存”的申报，中国不仅向世界完整展示了手工业时代的巅峰产业体系，更为全球文化遗产的保护与管理，贡献了不可替代的“东方智慧”。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-25/10666538.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:32:55.000Z"
-    },
-    {
-      "id": "f50f0c1f7026",
-      "title": "景德镇手工瓷业遗存填补世界遗产“瓷”空白",
-      "summary": "原标题：新华鲜报｜天涯共“瓷”时 “景德镇手工瓷业遗存”填补世界遗产“瓷”空白",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-25/10666539.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:30:51.000Z"
-    },
-    {
       "id": "03752f199b94",
       "title": "Treasure as trinkets: Zendaya’s earrings renew debate on ownership of ancient artefacts",
       "summary": "Jewellery made from BC Iran worn at Odyssey photocall throws spotlight on the trade of rare archeological finds The Odyssey has stormed cinemas, but while its take on the Homeric…",
@@ -428,16 +438,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-24T22:18:51.000Z"
-    },
-    {
-      "id": "d5a33d932795",
-      "title": "Law student charged after military-grade bomb intercepted near Irish border",
-      "summary": "Isobella Perrie Sullivan, 25, remanded in custody after intelligence-led operation against dissident republicans A 25-year-old law student has been charged in relation to an “ext…",
-      "url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T22:18:49.000Z"
     },
     {
       "id": "a58b8c7e4985",
