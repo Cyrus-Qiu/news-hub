@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T16:27:43.920Z",
+  "updatedAt": "2026-07-25T17:34:51.035Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,46 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "a2b218d8a522",
+      "title": "台风“红霞”逼近 广东已累计转移人员超71万人",
+      "summary": "今年第12号台风“红霞”已于25日22时由台风级加强为强台风级，其中心位于惠州惠东县东南方向大约100公里的近海海面上。预计，“红霞”将以每小时20公里的速度向西北方向移动，将于26日凌晨在广东深圳到海丰一带沿海登陆，登陆后转向北偏西方向移动，强度逐渐减弱。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666592.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T17:14:27.000Z"
+    },
+    {
+      "id": "ff15003112b6",
+      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
+      "summary": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first minister Tell us: have you been affected by wildfires in Eu…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-25T17:07:36.000Z"
+    },
+    {
+      "id": "b7288571df4a",
+      "title": "深圳市发布台风红色预警信号",
+      "summary": "台风“红霞”(强台风级)将给深圳带来严重风雨影响，深圳东部将进入12级风圈，深圳市气象台7月26日0时30分将盐田区、坪山区、大鹏新区、大鹏湾、大亚湾和龙岗区(坪地、龙城、龙岗、宝龙、园山街道)台风橙色预警信号升级为红色；同时将罗湖区、南山区、福田区、宝安区、光明区、龙华区、珠江口、深圳湾和龙岗区(平湖、南湾、坂田、横岗、吉华街道)台风黄色预警信号升级为…",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666591.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-25T16:50:33.000Z"
+    },
+    {
+      "id": "21620697ced4",
+      "title": "More than 250,000 people flee wildfires in France and Spain",
+      "summary": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have fo…",
+      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-25T16:23:17.000Z"
+    },
+    {
       "id": "309915b8fbdd",
       "title": "广东省将防风应急响应提升为Ⅰ级",
       "summary": "记者获悉，鉴于今年第12号台风“红霞”近岸加强，即将以强台风级登陆广东省，造成严重风雨影响。根据《广东省防汛防旱防风防冻应急预案》和省防总有关规定，广东省防总已于7月25日23时将防风Ⅱ级应急响应提升为防风Ⅰ级应急响应。",
@@ -38,16 +78,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-25T15:50:50.000Z"
-    },
-    {
-      "id": "ff15003112b6",
-      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
-      "summary": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first minister Tell us: have you been affected by wildfires in Eu…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-25T15:50:48.000Z"
     },
     {
       "id": "cc22b1ce31ad",
@@ -78,16 +108,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-25T15:01:05.000Z"
-    },
-    {
-      "id": "21620697ced4",
-      "title": "More than 250,000 people flee wildfires in France and Spain",
-      "summary": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have fo…",
-      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-25T14:50:23.000Z"
     },
     {
       "id": "9ba2cd7376df",
@@ -338,26 +358,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-25T12:55:36.000Z"
-    },
-    {
-      "id": "ad0be87a26c0",
-      "title": "北京石景山规划建设国家科幻主题公园 打造“科幻之城”",
-      "summary": "中新网北京7月25日电 (记者 陈杭)北京石景山将整合首钢高炉、工业管廊、滨水空间等特色资源，落地科幻展陈基地、科幻实景拍摄基地、科幻主题公共休闲空间，规划建设国家科幻主题公园。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666552.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:55:30.000Z"
-    },
-    {
-      "id": "5366e06a2962",
-      "title": "“夏夜揽才·职通陇原” 甘肃夏季人才夜市系列招聘活动启幕",
-      "summary": "图为甘肃省夏季人才夜市系列招聘活动现场，工作人员为求职者进行政策解读、完善求职信息、精准匹配岗位。田鹏鹤 摄 图为甘肃省夏季人才夜市系列招聘活动现场，求职者在工作人员引导下，体验AI智能职业指导服务。田鹏鹤 摄 图为甘肃省夏季人才夜市系列招聘活动现场，工作人员为求职者进行政策解读、完善求职信息、精准匹配岗位。田鹏鹤 摄 图为甘肃省夏季人才夜市系列招聘活动…",
-      "url": "https://www.chinanews.com.cn/tp/2026/07-25/10666555.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-07-25T12:55:12.000Z"
     },
     {
       "id": "03752f199b94",
