@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T17:11:14.001Z",
+  "updatedAt": "2026-07-26T18:36:38.604Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "c71c4356a86c",
+      "title": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
+      "summary": "Abdul Ballout, 21, reportedly shot in operation at allotment in Spandau district after fatal attack in Tiergarten park A man suspected of a driving a van into a crowd near Berlin…",
+      "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-26T17:53:50.000Z"
+    },
     {
       "id": "3f06f49163bc",
       "title": "三处受威胁遗产地经紧急程序列入《世界遗产名录》",
@@ -68,16 +78,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-26T15:54:04.000Z"
-    },
-    {
-      "id": "c71c4356a86c",
-      "title": "Berlin Pride van and knife rampage an ‘Islamist terrorist attack’, say German authorities",
-      "summary": "Hunt ongoing for main suspect, named as Abdul Ballout, 21, after fatal attack in Tiergarten park close to LGBTQ+ event A deadly van ramming and knife rampage near Berlin’s Pride…",
-      "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-26T15:48:21.000Z"
     },
     {
       "id": "15a1c8cbacfc",
