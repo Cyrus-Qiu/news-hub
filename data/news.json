@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T22:09:14.949Z",
+  "updatedAt": "2026-07-26T23:32:43.121Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,114 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "71347cd8b2ef",
+      "title": "花钱买的实习经历，却不敢写进简历……警惕高价付费内推服务",
+      "summary": "一些中介推销高价付费内推服务，实则暗藏陷阱",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-27/10666980.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T23:26:25.000Z"
+    },
+    {
       "id": "10d80221c4c2",
-      "title": "Australia news live: Jacinta Allan loses majority caucus support after meeting of state Labor factions; national AusAlert test to blare siren",
+      "title": "News live: national AusAlert test to blare siren; latest US tariffs on Australia ‘unjustified’, James Paterson says",
       "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast It’s also well worth watching this video of Guardian Australia’s community affairs reporte…",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-26T22:01:20.000Z"
+      "publishedAt": "2026-07-26T23:17:48.000Z"
+    },
+    {
+      "id": "f0bc922f9892",
+      "title": "伊朗外长称乌克兰违反联合国宪章",
+      "summary": "中新网7月27日电 据土耳其阿纳多卢通讯社报道，伊朗外交部长阿拉格奇当地时间26日表示，乌克兰袭击伊朗商船并造成一名船员死亡的事件“不能置之不理”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-27/10666979.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T23:16:21.000Z"
+    },
+    {
+      "id": "3f7f1a46098a",
+      "title": "重庆彭水山体崩塌灾害救援现场发现失联客运中巴车残骸",
+      "summary": "记者从重庆彭水山体崩塌灾害现场救援指挥部了解到，7月26日23时52分许，在彭水山体崩塌灾害救援现场C区作业面，发现失联客运中巴车残骸。目前，搜寻工作仍在紧张有序进行中。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-27/10666978.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T23:12:12.000Z"
+    },
+    {
+      "id": "f565ab59db2f",
+      "title": "AusAlert test: what time will national emergency warning siren sound on phones in Australia today? Here’s what to know",
+      "summary": "National emergency test alert will be sent to all compatible mobile devices on 27 July, with domestic violence advocates advising how to turn off safe phones Follow our Australia…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/ausalert-test-sound-national-alert-emergency-warning-system-date",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-26T23:09:42.000Z"
+    },
+    {
+      "id": "9ab941256bdb",
+      "title": "伊朗高官：只要美国暂停轰炸，伊朗就会停止袭击",
+      "summary": "中新网7月27日电 据路透社报道，一位伊朗高级官员当地时间26日表示，只要美国停止袭击，伊朗也将停止袭击。此前，美国总统特朗普的顾问称，美国已无目标可供攻击，并对耗尽美国武器库表示担忧，随后美国暂停了其空袭行动。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-27/10666977.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T22:58:25.000Z"
+    },
+    {
+      "id": "141e3559c895",
+      "title": "伊朗最高领袖重申对真主党的支持，要求以色列停止袭击黎巴嫩",
+      "summary": "中新网7月27日电 据土耳其阿纳多卢通讯社报道，当地时间26日，伊朗最高领袖穆杰塔巴·哈梅内伊重申了对黎巴嫩真主党的支持，并呼吁以色列“彻底、无条件”停止对黎巴嫩的袭击。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-27/10666976.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T22:46:48.000Z"
+    },
+    {
+      "id": "8741fb534d26",
+      "title": "7月27日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/07-27/10666975.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T22:46:28.000Z"
+    },
+    {
+      "id": "f322993ef7ca",
+      "title": "Jacinta Allan expected to face leadership challenge after Victorian Labor factions meet",
+      "summary": "Minister says premier ‘not going anywhere’ and describes leaking of Sunday-night meeting as attempt to build momentum for spill Follow our Australia news live blog for latest upd…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-26T22:41:58.000Z"
+    },
+    {
+      "id": "50062c9bc3eb",
+      "title": "伊朗外交部：伊美间信息交流及斡旋方活动仍在进行",
+      "summary": "当地时间7月26日，伊朗外交部发言人巴加埃表示，伊朗与美国之间的信息交流仍在持续，斡旋方也正继续开展相关工作。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-27/10666974.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T22:27:27.000Z"
+    },
+    {
+      "id": "0a2dc8b9025f",
+      "title": "美称暂停对伊朗军事打击 为谈判留出空间",
+      "summary": "央视记者当地时间7月26日获悉，美国常驻联合国代表迈克尔·华尔兹当天表示，为给外交谈判留出更多空间，美国总统特朗普已暂停对伊朗的军事打击。华尔兹没有透露谈判相关具体情况。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-27/10666973.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T22:25:49.000Z"
     },
     {
       "id": "9938eb4140c5",
@@ -200,14 +300,14 @@
       "publishedAt": "2026-07-26T15:00:17.000Z"
     },
     {
-      "id": "688edebb9289",
-      "title": "Israeli siblings who fear breaking law in Gaza under IDF owed protection by Australia, tribunal finds",
-      "summary": "Exclusive: Tribunal accepts three siblings could face ‘persecution’ for refusing military conscription due to their political opinion on war Follow our Australia news live blog f…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/israeli-siblings-owed-protection-by-australia-after-vowing-not-to-serve-in-idf-tribunal-finds-ntwnfb",
+      "id": "3f6a1147c6b3",
+      "title": "Former NSW Liberal powerbroker at heart of Icac allegations now living in UK and not expected to appear",
+      "summary": "Christian Ellis, a former registered lobbyist, is named in two Independent Commission Against Corruption allegations Follow our Australia news live blog for latest updates Get ou…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/former-nsw-liberal-powerbroker-at-heart-of-icac-allegations-now-living-in-uk-and-not-expected-to-appear-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-26T15:00:16.000Z"
+      "publishedAt": "2026-07-26T15:00:17.000Z"
     },
     {
       "id": "c07e1db7d54d",
@@ -350,86 +450,6 @@
       "publishedAt": "2026-07-26T13:17:51.000Z"
     },
     {
-      "id": "c2182c633f5c",
-      "title": "品读三苏古韵 感受乡村新风 华星小记者探秘四川人文之美",
-      "summary": "中新网德阳7月26日电 (轩瑾婉)26日，“2026华星小记者四川集结营”研学活动走进眉山、德阳两地。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666948.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T13:16:51.000Z"
-    },
-    {
-      "id": "a641a8148c6d",
-      "title": "跨省引种落地生根 山西偏关糜子绽放天山脚下",
-      "summary": "中新网忻州7月26日电 题：跨省引种落地生根 山西偏关糜子绽放天山脚下",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-26/10666949.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T13:16:21.000Z"
-    },
-    {
-      "id": "67baed6b2c68",
-      "title": "日本冲绳县宜野湾市民众集会要求明确普天间机场归还期限",
-      "summary": "中新网东京7月26日电 据日本共同社报道，日本冲绳县宜野湾市议会及当地经济团体26日举行集会并发表联合声明，要求日美两国政府明确驻日美军普天间机场的归还期限。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666945.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T13:15:25.000Z"
-    },
-    {
-      "id": "5fbc9f0f98b1",
-      "title": "青海共和：“最大规模藏族扎木念弹唱”获世界纪录认证",
-      "summary": "中新网西宁7月26日电 (祁绣娟 倪君)7月26日，青海省海南藏族自治州共和县组织开展的最大规模藏族扎木念弹唱挑战活动，经世界纪录认证机构(WRCAC)认证官现场全程核验、资料审核，正式获得世界纪录认证。至此，共和县已获5项世界纪录认证。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666947.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T13:14:11.000Z"
-    },
-    {
-      "id": "6dc902a97e3c",
-      "title": "非洲多国妇女工作骨干访吉林 互鉴女性赋能产业发展经验",
-      "summary": "中新网吉林7月26日电 (记者 石洪宇)26日，非洲英语国家妇女能力建设研修班学员走进吉林省吉林市，近距离了解中国女性投身制造业、特色产业、文旅文博等领域的发展实践，推动中非妇女发展经验互学互鉴。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666946.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T13:13:41.000Z"
-    },
-    {
-      "id": "49e8c630bfa1",
-      "title": "台湾新北市发生4.8级地震 震源深度95千米",
-      "summary": "中新网7月26日电 中国地震台网正式测定：7月26日20时36分在台湾新北市(北纬24.94度，东经121.82度)发生4.8级地震，震源深度95千米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666933.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T13:09:58.000Z"
-    },
-    {
-      "id": "7e9a824d9565",
-      "title": "九寨沟景区局部受短时强降雨引发泥石流 游客正有序撤离无人员伤亡",
-      "summary": "中新网成都7月26日电 (记者 安源)记者26日从九寨沟风景名胜区管理局获悉，7月26日15时50分许，九寨沟景区局部区域因短时强降雨引发泥石流灾害，造成景区内部分道路交通受阻，滞留游客正有序安全撤离，现场秩序平稳，无人员伤亡。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666944.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T13:05:46.000Z"
-    },
-    {
-      "id": "fd4f4f3485b9",
-      "title": "中国羽毛球公开赛：“圣坛”组合卫冕女双 中国队揽两冠",
-      "summary": "中新社江苏常州7月26日电 2026中国羽毛球公开赛26日在江苏常州迎来决赛日。中国队在混双、女双、女单三项闯入决赛，最终斩获两金，郭新娃/陈芳卉、刘圣书/谭宁分别登顶混双和女双。",
-      "url": "https://www.chinanews.com.cn/ty/2026/07-26/10666939.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T13:04:18.000Z"
-    },
-    {
       "id": "4f86d1cf9d65",
       "title": "Why does everything feel so joyless? Welcome to the age of decadence without pleasure | Michèle Mendelssohn and Charlie Tyson",
       "summary": "Decadence in our era comes in technologically mediated forms, emptied of desire and obsessed with self-optimisation Do you want to have a good time? You know, really enjoy yourse…",
@@ -500,16 +520,6 @@
       "publishedAt": "2026-07-26T04:42:23.000Z"
     },
     {
-      "id": "87e916f916b5",
-      "title": "‘Socialist’ teachers target eight Victorian Labor MPs including education minister – as it happened",
-      "summary": "This blog is now closed ‘We’re cohesive’: PM says after muted ALP national conference The prime minister, Anthony Albanese , spoke with David Speers on Insiders as Labor’s 50th n…",
-      "url": "https://www.theguardian.com/politics/blog/live/2026/jul/26/australia-news-live-politics-pauline-hanson-ed-husic-anthony-albanese-labor-party-conference-bird-flu-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-26T04:16:11.000Z"
-    },
-    {
       "id": "8fada9354156",
       "title": "怎樣辨識出「AI臉」？",
       "summary": "人類通常相當不擅長辨識AI生成的臉孔，但新研究顯示，一小時的訓練可能有助於改變這個情況。",
@@ -518,16 +528,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-07-26T02:54:37.000Z"
-    },
-    {
-      "id": "54d799fbd665",
-      "title": "Albanese at odds with Labor policy which now says telehealth should be allowed for euthanasia consultations",
-      "summary": "Campaigners say existing federal ban on phone or video calls for assisted dying consultations adversely affects people living in regional Australia Follow our Australia news live…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/26/labor-pressure-telehealth-access-euthanasia-assisted-dying-anthony-albanese",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-26T02:22:08.000Z"
     },
     {
       "id": "b750609ef59b",
