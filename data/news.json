@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T18:36:38.604Z",
+  "updatedAt": "2026-07-26T19:49:11.994Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "ec313480b992",
+      "title": "US pauses Iran attacks for second night after Trump advised to halt bombing",
+      "summary": "Top military officials say campaign has reached its limit of effectiveness and warn of dwindling stocks of munitions The US has paused strikes on Iran for a second night as top m…",
+      "url": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-26T18:45:41.000Z"
+    },
     {
       "id": "c71c4356a86c",
       "title": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
@@ -608,16 +618,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-24T21:50:56.000Z"
-    },
-    {
-      "id": "0adeceaef5b8",
-      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-      "summary": "No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and Kuwait The US has struck targets across Iran, reaching as far as the Caspian S…",
-      "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T17:58:22.000Z"
     },
     {
       "id": "d5ac986591cc",
