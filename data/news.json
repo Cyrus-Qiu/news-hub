@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T12:13:10.257Z",
+  "updatedAt": "2026-07-26T14:11:15.831Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,346 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "c380e9eaa845",
+      "title": "三伏天老年人消暑有方：别硬扛也别贪凉！",
+      "summary": "| 时令节气与健康",
+      "url": "https://www.chinanews.com.cn/jk/2026/07-26/10666953.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:58:01.000Z"
+    },
+    {
+      "id": "c07e1db7d54d",
+      "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sánchez as more than 300,000 flee homes in France and Spain",
+      "summary": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in France More than 250,000 people flee wildfires…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-26T13:57:51.000Z"
+    },
+    {
+      "id": "b22b00dbc4b2",
+      "title": "打着农产品幌子 有毒“养生神药”竟被肆意网售",
+      "summary": "财经调查丨打着农产品幌子 有毒“养生神药”竟被肆意网售",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666952.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:52:43.000Z"
+    },
+    {
+      "id": "915736719715",
+      "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
+      "summary": "Authorities issue wanted notice for Abdul Ballout, 21, after deadly van ramming described as Islamist terrorism German authorities have issued a wanted notice for a suspect in a…",
+      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-26T13:45:29.000Z"
+    },
+    {
+      "id": "e9e0ac6d4c12",
+      "title": "南非侨社情系杰米斯顿 捐物资暖千余居民",
+      "summary": "中新网约翰内斯堡7月26日电 (记者 孙翔)“杰米斯顿社区关爱与合作公益活动”25日在约翰内斯堡东部的杰米斯顿社区举行，南非侨界向当地千余名居民捐赠轮椅、毛毯、冬季衣物、书包、食品包等生活物资。",
+      "url": "https://www.chinanews.com.cn/hr/2026/07-26/10666951.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:21:55.000Z"
+    },
+    {
+      "id": "2e0f3c512103",
+      "title": "第四届滇商大会昆明开幕 约300名嘉宾共话“数智兴滇”",
+      "summary": "中新网昆明7月26日电 (记者 韩帅南)7月26日，第四届滇商大会在昆明举行。约300名中外企业家、商协会代表、专家学者等嘉宾汇聚一堂，围绕“滇商聚力数智兴滇”主题，聚焦数智赋能产业发展，畅叙乡情友谊，共商合作发展。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666950.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:17:51.000Z"
+    },
+    {
+      "id": "c2182c633f5c",
+      "title": "品读三苏古韵 感受乡村新风 华星小记者探秘四川人文之美",
+      "summary": "中新网德阳7月26日电 (轩瑾婉)26日，“2026华星小记者四川集结营”研学活动走进眉山、德阳两地。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666948.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:16:51.000Z"
+    },
+    {
+      "id": "a641a8148c6d",
+      "title": "跨省引种落地生根 山西偏关糜子绽放天山脚下",
+      "summary": "中新网忻州7月26日电 题：跨省引种落地生根 山西偏关糜子绽放天山脚下",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-26/10666949.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:16:21.000Z"
+    },
+    {
+      "id": "67baed6b2c68",
+      "title": "日本冲绳县宜野湾市民众集会要求明确普天间机场归还期限",
+      "summary": "中新网东京7月26日电 据日本共同社报道，日本冲绳县宜野湾市议会及当地经济团体26日举行集会并发表联合声明，要求日美两国政府明确驻日美军普天间机场的归还期限。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666945.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:15:25.000Z"
+    },
+    {
+      "id": "5fbc9f0f98b1",
+      "title": "青海共和：“最大规模藏族扎木念弹唱”获世界纪录认证",
+      "summary": "中新网西宁7月26日电 (祁绣娟 倪君)7月26日，青海省海南藏族自治州共和县组织开展的最大规模藏族扎木念弹唱挑战活动，经世界纪录认证机构(WRCAC)认证官现场全程核验、资料审核，正式获得世界纪录认证。至此，共和县已获5项世界纪录认证。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666947.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:14:11.000Z"
+    },
+    {
+      "id": "6dc902a97e3c",
+      "title": "非洲多国妇女工作骨干访吉林 互鉴女性赋能产业发展经验",
+      "summary": "中新网吉林7月26日电 (记者 石洪宇)26日，非洲英语国家妇女能力建设研修班学员走进吉林省吉林市，近距离了解中国女性投身制造业、特色产业、文旅文博等领域的发展实践，推动中非妇女发展经验互学互鉴。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666946.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:13:41.000Z"
+    },
+    {
+      "id": "49e8c630bfa1",
+      "title": "台湾新北市发生4.8级地震 震源深度95千米",
+      "summary": "中新网7月26日电 中国地震台网正式测定：7月26日20时36分在台湾新北市(北纬24.94度，东经121.82度)发生4.8级地震，震源深度95千米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666933.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:09:58.000Z"
+    },
+    {
+      "id": "7e9a824d9565",
+      "title": "九寨沟景区局部受短时强降雨引发泥石流 游客正有序撤离无人员伤亡",
+      "summary": "中新网成都7月26日电 (记者 安源)记者26日从九寨沟风景名胜区管理局获悉，7月26日15时50分许，九寨沟景区局部区域因短时强降雨引发泥石流灾害，造成景区内部分道路交通受阻，滞留游客正有序安全撤离，现场秩序平稳，无人员伤亡。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666944.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:05:46.000Z"
+    },
+    {
+      "id": "fd4f4f3485b9",
+      "title": "中国羽毛球公开赛：“圣坛”组合卫冕女双 中国队揽两冠",
+      "summary": "中新社江苏常州7月26日电 2026中国羽毛球公开赛26日在江苏常州迎来决赛日。中国队在混双、女双、女单三项闯入决赛，最终斩获两金，郭新娃/陈芳卉、刘圣书/谭宁分别登顶混双和女双。",
+      "url": "https://www.chinanews.com.cn/ty/2026/07-26/10666939.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:04:18.000Z"
+    },
+    {
+      "id": "23250d3e4acd",
+      "title": "广东向受灾地区拨付省级自然灾害救灾资金5000万元",
+      "summary": "中新网广州7月26日电 (记者 王坚)广东26日向受灾地区拨付省级自然灾害救灾资金5000万元。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666941.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:04:16.000Z"
+    },
+    {
+      "id": "14db11d08ad6",
+      "title": "“三曼”村联动兴业 打造傣乡旅居研学集群",
+      "summary": "中新网云南西双版纳7月26日电 (陆星羽)近日，2026年“文明中国”主题采访报道团走进云南省西双版纳州景洪市勐罕镇，探访曼空岱、曼峦站、曼空迈三个傣族村寨连片打造的“三曼”乡村振兴示范区。作为“兴滇润边新时代文明实践带”典型案例，当地打破村域抱团发展，依托校企地合作发展乡村旅居产业，走出一条边疆民族地区抱团发展的路径。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666943.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:03:18.000Z"
+    },
+    {
+      "id": "993cd61c0470",
+      "title": "台风“红霞”离港 香港特区政府有序推进善后工作",
+      "summary": "中新社香港7月26日电 今年第12号台风“红霞”逐步远离香港，风力持续减弱，香港天文台26日15时20分改发“一号戒备信号”，并于19时10分取消所有热带气旋警告。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/07-26/10666940.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T13:02:00.000Z"
+    },
+    {
+      "id": "4f86d1cf9d65",
+      "title": "Why does everything feel so joyless? Welcome to the age of decadence without pleasure | Michèle Mendelssohn and Charlie Tyson",
+      "summary": "Decadence in our era comes in technologically mediated forms, emptied of desire and obsessed with self-optimisation Do you want to have a good time? You know, really enjoy yourse…",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-26T13:00:14.000Z"
+    },
+    {
+      "id": "e016c87f31aa",
+      "title": "西泠印社社员姚伟荣：方寸刀笔间 守正传文脉",
+      "summary": "中新网上海7月26日电 题：西泠印社社员姚伟荣：方寸刀笔间守正传文脉",
+      "url": "https://www.chinanews.com.cn/cul/2026/07-26/10666934.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:58:59.000Z"
+    },
+    {
+      "id": "694b948eca25",
+      "title": "广东省财政厅、省应急管理厅向广东受灾地区拨付省级自然灾害救灾资金5000万元",
+      "summary": "为切实做好台风“红霞”应急救灾工作，7月26日，广东省财政厅、省应急管理厅紧急下达省级自然灾害救灾资金5000万元，支持惠州、汕尾、揭阳、梅州、河源等受灾地区开展应急抢险和受灾群众救助，救灾物资购置、储运，次生灾害隐患排查和应急整治，倒损住房恢复重建等工作，最大程度减轻灾害影响，保障受灾群众生命财产安全。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666938.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:57:47.000Z"
+    },
+    {
+      "id": "89d76e2831b0",
+      "title": "甘肃省定西市洪水防御应急响应升至Ⅱ级",
+      "summary": "记者从甘肃省水利厅了解到，26日下午，定西市渭源县发生山洪灾害，已造成10人死亡。依据《甘肃省水利厅水旱灾害防御应急预案》规定，甘肃省水利厅决定自7月26日19时起，将定西市洪水防御Ⅳ级应急响应调整为Ⅱ级。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666937.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:57:13.000Z"
+    },
+    {
+      "id": "bfc04eaccdad",
+      "title": "意定监护落地实施 当独居老人有了“法律上的家人” 该如何做好监督",
+      "summary": "意定监护，是指成年人在民事行为能力完全时，预先书面确定未来可能丧失行为能力时的监护人，由其在自己失能后履行监护职责。对于高龄独居等缺乏监护的老年人来说，做手术没人签字，身后事没人料理等具体问题，都能通过意定监护得到解决。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666936.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:56:31.000Z"
+    },
+    {
+      "id": "1b9cf2e1a6f4",
+      "title": "Firefighters in France battle to prevent huge blaze from approaching Bordeaux",
+      "summary": "Efforts to contain wildfire that has consumed an area of four times the size of Paris impeded by windy conditions Europe wildfires live – latest updates Authorities are battling…",
+      "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-26T12:56:30.000Z"
+    },
+    {
+      "id": "f5222a0ef7eb",
+      "title": "“熊猫”会英文、眼镜能传译……APEC会场外，世界看见“成都造”数字未来",
+      "summary": "封面新闻记者杨芮雯 柴枫桔 摄影报道",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666935.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:55:27.000Z"
+    },
+    {
+      "id": "5eeff15d8930",
+      "title": "中国·嘉峪关第17届国际铁人三项赛：千名国内外选手戈壁角逐",
+      "summary": "图为赛事活动中跑步项目。中新社记者 李亚龙 摄 图为赛事活动中跑步项目。中新社记者 李亚龙 摄 图为赛事活动跑步项目中，参赛选手边跑边降温。中新社记者 李亚龙 摄 图为赛事活动中自行车项目。中新社记者 李亚龙 摄 图为赛事活动中跑步项目。中新社记者 李亚龙 摄 图为赛事活动中自行车项目。中新社记者 李亚龙 摄 图为赛事活动中自行车项目。中新社记者 李亚龙…",
+      "url": "https://www.chinanews.com.cn/tp/2026/07-26/10666932.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:51:03.000Z"
+    },
+    {
+      "id": "c5b5da738e8e",
+      "title": "广州市“红棉匠才”系列西式面点师职业技能竞赛在穗开赛",
+      "summary": "图为西点从业者在比赛中。中新社记者 陈楚红 摄 图为西点从业者在比赛中。中新社记者 陈楚红 摄 图为西点从业者在比赛中。中新社记者 陈楚红 摄 图为西点从业者在比赛中。中新社记者 陈楚红 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/07-26/10666929.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:49:11.000Z"
+    },
+    {
+      "id": "174fb0b7fcc8",
+      "title": "山东济南：民众乐享五龙潭亲子狂欢泼水节",
+      "summary": "7月26日，民众在山东济南五龙潭公园乐享亲子狂欢泼水节。孙倩 摄 7月26日，民众在山东济南五龙潭公园乐享亲子狂欢泼水节。孙倩 摄 7月26日，民众在山东济南五龙潭公园乐享亲子狂欢泼水节。孙倩 摄 7月26日，民众在山东济南五龙潭公园乐享亲子狂欢泼水节。孙倩 摄 7月26日，民众在山东济南五龙潭公园乐享亲子狂欢泼水节。孙倩 摄 7月26日，民众在山东济南…",
+      "url": "https://www.chinanews.com.cn/tp/2026/07-26/10666927.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:47:47.000Z"
+    },
+    {
+      "id": "d08599e3f763",
+      "title": "台湾宜兰县海域发生4.8级地震",
+      "summary": "新华社快讯：中国地震台网自动测定：7月26日20时36分，在台湾宜兰县海域附近(北纬24.90度，东经121.87度)发生4.8级左右地震。最终结果以正式速报为准。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666931.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:47:23.000Z"
+    },
+    {
+      "id": "30ba2eb3e72e",
+      "title": "景区突发山洪致10人遇难 遇山洪、泥石流如何科学避险→",
+      "summary": "7月26日下午，甘肃省定西市渭源县一景区受短时强降雨影响，引发山洪，致部分露营游客被困。截至18时，已有10人遇难、23人受伤。伤员已被送医救治，另有174人已被救出。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666930.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:45:23.000Z"
+    },
+    {
+      "id": "c217411fc197",
+      "title": "杭州湾“海上龙骨”成型 世界最长跨海高铁建设迎新进展",
+      "summary": "7月26日，海上浮吊设备已完成钢桁梁吊装。当日，浙江宁波，通甬高铁杭州湾跨海高铁大桥南航道桥全部钢桁梁顺利架设到位，主桥“钢铁脊梁”完整成型。总重10673吨的钢桁梁如“海上龙骨”，适配350公里时速高铁高速通行的严苛荷载要求。通苏嘉甬高铁由浙江省交通集团等投资，杭州湾跨海铁路大桥作为目前在建的世界最长、建设标准最高的高速铁路跨海大桥，建成后将完善“轨道…",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-26/1199293.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:43:03.000Z"
+    },
+    {
+      "id": "d5602dc49f7b",
+      "title": "2026中国羽毛球公开赛：中国选手陈雨菲获得女单亚军",
+      "summary": "图为陈雨菲在比赛中。中新社记者 泱波 摄 图为陈雨菲(右)在赛后与山口茜握手。中新社记者 泱波 摄 图为陈雨菲(左)在领奖台上与山口茜(右)合影。中新社记者 泱波 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/07-26/10666923.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:38:06.000Z"
+    },
+    {
+      "id": "94dc5d8cb13e",
+      "title": "2026中国羽毛球公开赛：中国组合刘圣书/ 谭宁夺得女双冠军",
+      "summary": "7月26日，在江苏常州举行的2026中国羽毛球公开赛决赛中，中国组合刘圣书/ 谭宁战胜福岛由纪/ 松本麻佑，夺得女双冠军。图为刘圣书/ 谭宁（左）上台领奖。中新社记者 泱波 摄 7月26日，在江苏常州举行的2026中国羽毛球公开赛决赛中，中国组合刘圣书/ 谭宁战胜福岛由纪/ 松本麻佑，夺得女双冠军。图为刘圣书（左）/ 谭宁在比赛中。中新社记者 泱波 摄…",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-26/1199289.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:34:56.000Z"
+    },
+    {
+      "id": "a9256c0d9637",
+      "title": "2026中国羽毛球公开赛：日本选手山口茜获得女单冠军",
+      "summary": "图为山口茜赛后向观众致意。中新社记者 泱波 摄 图为山口茜在比赛中。中新社记者 泱波 摄 图为山口茜在比赛中。中新社记者 泱波 摄 图为山口茜（右）在领奖台上与陈雨菲合影。中新社记者 泱波 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/07-26/10666922.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:34:50.000Z"
+    },
+    {
+      "id": "432dd1a9b112",
+      "title": "歌曲被白宫用在打击伊朗视频中 “水果姐”怒斥",
+      "summary": "中新网7月26日电 据美国《华盛顿邮报》报道，美国流行歌手“水果姐”凯蒂·佩里25日公开谴责白宫，称后者日前发布的一段展示美军对伊朗发动军事打击的视频中，“未经授权”使用了她的歌曲《Firework》(《烟火》)作为配乐。佩里发声称，这一举动让她“深感震惊和愤怒”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666926.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T12:33:48.000Z"
+    },
+    {
       "id": "c9afc35018a3",
       "title": "Corporate America may be using AI to cut jobs, but small businesses are using it to keep them",
       "summary": "Reports of wide-scale replacement of workers by AI are overblown. Small businesses use it to help workers I recently met the owner of a company that sells windows and doors. He t…",
@@ -38,316 +378,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-26T12:00:11.000Z"
-    },
-    {
-      "id": "85f55bdce12d",
-      "title": "华裔青少年沪上寻根 沉浸式感受中华文脉",
-      "summary": "中新网上海7月26日电(范宇斌)解读上海城市历史、体验海派非遗制作、领略川剧变脸艺术、感受皮影表演乐趣……近日，20名来自斐济、荷兰的华裔青少年在上海参加一堂国学课堂，体验中华文化深厚底蕴与独特魅力。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666906.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:57:17.000Z"
-    },
-    {
-      "id": "bc3e603e5367",
-      "title": "太行山“乡”约大别山 河南安阳发布四条乡村旅游精品线路",
-      "summary": "中新网郑州7月26日电 (记者 王宇)7月26日下午，由河南安阳市委、安阳市政府主办的“‘乡’约安阳·何必远方”——安阳市2026年乡村旅游暑期特别活动线路推介会在郑州举行。推介会上，安阳官方发布了4条乡村旅游精品线路。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666904.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:56:45.000Z"
-    },
-    {
-      "id": "c07e1db7d54d",
-      "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
-      "summary": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in France More than 250,000 people flee wildfires…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-26T11:52:50.000Z"
-    },
-    {
-      "id": "aa4acf26703f",
-      "title": "甘肃省继续发布山洪灾害气象风险橙色预警",
-      "summary": "甘肃省水利厅、甘肃省气象局于2026年7月26日18时00分联合发布山洪灾害气象风险橙色预警，预计：",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666908.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:49:41.000Z"
-    },
-    {
-      "id": "a3edad9e6de1",
-      "title": "贵州织金发生一起山体危岩垮塌 提前转移未造成人员伤亡",
-      "summary": "记者从贵州织金县政府新闻办获悉，2026年7月26日10时左右，织金县马场镇中心村二屯组一山体发生危岩垮塌，初步估算垮塌量约400m#179;。前期经省市县有关部门和专家进行联合研判，划定了该隐患点的紧急避让区域，相关区域内全部人员已提前转移，进行了临时避让。经核实，现场未造成人员伤亡。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666907.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:48:43.000Z"
-    },
-    {
-      "id": "25fbf7efe2fb",
-      "title": "景德镇：一面老城烟火，一面瓷都新潮",
-      "summary": "图为7月6日，游客在景德镇陶溪川文创街区的陶溪川美术馆门口参观游览。中新社记者 刘力鑫 摄 图为7月7日，游客在景德镇陶溪川文创街区参观游览。陶溪川文创街区保留了老烟囱、工业厂房等，经过更新营造形成特色公共空间，独具年代感的工业建筑吸引人们前来参观游览。中新社记者 刘力鑫 摄 图为7月7日，游客在景德镇陶溪川文创街区参观游览。陶溪川文创街区保留了老烟囱、…",
-      "url": "https://www.chinanews.com.cn/tp/2026/07-26/10666901.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:48:07.000Z"
-    },
-    {
-      "id": "6e3d79465c2c",
-      "title": "温州在AI时代跑出加速度",
-      "summary": "在中国城市算力话语权争夺中，温州跑在了前面。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-26/10666905.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:47:17.000Z"
-    },
-    {
-      "id": "311735374ab0",
-      "title": "青海西宁湟中境内首次拍到野生雪豹",
-      "summary": "中新网西宁7月26日电 (祁绣娟)7月26日，记者从青海省西宁市湟中区委宣传部了解到，近日，该区生态护林员联合当地牧民在共和镇尕水峡常态化巡护中，拍摄到野生雪豹野外活动影像，这是湟中区首次记录到野生雪豹野外活动踪迹，进一步丰富了西宁“雪豹之都”生态资源分布图景。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666902.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:46:07.000Z"
-    },
-    {
-      "id": "3725d2229b44",
-      "title": "巴基斯坦安全部队在俾路支省开展反恐行动 击毙16名恐怖分子",
-      "summary": "中新社北京7月26日电 伊斯兰堡消息：据巴基斯坦媒体26日报道，巴安全部队在该国西南部俾路支省的“决心行动”(Operation Al-Azm)中击毙16名恐怖分子，摧毁多处恐怖分子藏匿点，并缴获武器和爆炸物。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666903.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:44:29.000Z"
-    },
-    {
-      "id": "ec572eca4ecd",
-      "title": "中国科技馆2026级“小小志愿者”完成培训 暑期高峰即将上岗",
-      "summary": "中新网北京7月26日电 (记者 孙自法)中国科技馆7月26日向媒体通报说，该馆2026年度“小小志愿者”培训活动已圆满结束，即将于7月28日面向公众亮相，在暑期高峰上岗开展志愿讲解服务。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666899.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:39:46.000Z"
-    },
-    {
-      "id": "d06c448b7a08",
-      "title": "甘肃定西市渭源县一景区发生山洪 两部门派出工作组赶赴现场",
-      "summary": "中新社北京7月26日电 (记者 陈溯 郭超凯)甘肃定西市渭源县一景区26日发生山洪，中国两部门已派出工作组赶赴现场。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666900.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:38:42.000Z"
-    },
-    {
-      "id": "cb82bd2c88b7",
-      "title": "沪上工匠分享奋斗历程 侨胞捐资支持职业教育发展",
-      "summary": "中新网上海7月26日电(范宇斌 洪俊杰)近日，上海市侨联举办以“匠心筑梦 技展风华”为主题的“侨界会客厅”活动，邀请包起帆、郭秀玲、富小青、陶巍4位嘉宾与海内外侨胞分享他们与技能的故事，共同迎接将于上海举办的第48届世界技能大赛。",
-      "url": "https://www.chinanews.com.cn/hr/2026/07-26/10666897.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:36:52.000Z"
-    },
-    {
-      "id": "dc9926dfd931",
-      "title": "海派非遗科普馆在沪揭幕：打造可触摸、可参与的中医药文化新地标",
-      "summary": "中新网上海7月26日电 (记者 陈静)海派非遗科普馆26日在上海中医药大学附属岳阳中西医结合医院(下称：岳阳医院)揭幕。海派非遗科普馆是集非遗实物展示、中医文化交流、沉浸式互动体验于一体的全新文化平台。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666895.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:35:46.000Z"
-    },
-    {
-      "id": "9d27d8f8f734",
-      "title": "景德镇：瓷立千年 | 文化中国行",
-      "summary": "7月25日，韩国釜山，联合国教科文组织第48届世界遗产大会，“景德镇手工瓷业遗存”通过审议，成为中国第61项世界遗产。在这个夏天，本就高温的景德镇，更“热”了。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666896.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:25:18.000Z"
-    },
-    {
-      "id": "0e26b9313d93",
-      "title": "2026暑期档电影票房破55亿 国漫《八仙！》创新表达成黑马",
-      "summary": "据网络平台数据",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-26/10666893.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:22:38.000Z"
-    },
-    {
-      "id": "d35a1c4c3742",
-      "title": "“中国冲击2.0”混淆视听，“中国机遇2.0”才是共识",
-      "summary": "尺素金声｜“中国冲击2.0”混淆视听，“中国机遇2.0”才是共识",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666892.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:19:43.000Z"
-    },
-    {
-      "id": "30c7675bf6f5",
-      "title": "YICGG2026收官 全球青年共议守护世界文化遗产话题",
-      "summary": "中新网上海7月26日电(记者 陈静)复旦大学方面26日披露，由复旦大学、威尼斯大学、上海荣昶公益基金会联合主办的2026年“荣昶杯”青年全球治理创新设计大赛(YICGG2026)决赛在意大利威尼斯落下帷幕。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666890.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:09:15.000Z"
-    },
-    {
-      "id": "3e6860f6f015",
-      "title": "台风“红霞”或致珠江流域部分中小河流发生超警洪水",
-      "summary": "中新网广州7月26日电 (记者 王坚)水利部珠江水利委员会(下称“珠江委”)26日召开防汛防台风专题会商，滚动分析研判台风“红霞”影响态势和流域雨水汛情发展，针对性安排部署台风暴雨洪水防范应对工作。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666889.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:08:49.000Z"
-    },
-    {
-      "id": "b73ee36d70f9",
-      "title": "强对流黄色预警：河南四川重庆等地部分地区有10级以上雷暴大风",
-      "summary": "中新网7月26日电 据中央气象台网站消息，中央气象台7月26日18时继续发布强对流天气黄色预警：预计7月26日20时至27日20时，东北地区中部、黄淮西部、西北地区东部、西南地区北部、华南中东部等地的部分地区将有8级以上雷暴大风或冰雹天气，其中，河南东部、四川中东部、重庆西部等地的部分地区将有10级以上雷暴大风，最大风力可达11级以上，局地不排除出现龙卷…",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666876.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:06:01.000Z"
-    },
-    {
-      "id": "714a7f71d396",
-      "title": "2026年质量督察第四督察组进驻山东省开展质量督察",
-      "summary": "为深入贯彻落实党中央、国务院关于质量工作的决策部署，根据有关督查检查考核计划，国家质量强国建设协调推进领导小组办公室会同有关成员单位组成质量督察组，近日进驻山东省开展质量督察，并于7月23日与山东省委、省政府进行沟通对接。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666888.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:02:40.000Z"
-    },
-    {
-      "id": "815107af2b00",
-      "title": "四川洪雅玉屏山突发森林火情 未造成人员被困和伤亡",
-      "summary": "中新网成都7月26日电 (记者 刘忠俊)四川洪雅县国有林场玉屏山管护站26日发布火情通报，位于四川洪雅县柳江镇的玉屏山突发一起森林火情，未造成人员被困和伤亡。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666884.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:02:00.000Z"
-    },
-    {
-      "id": "f286844c832c",
-      "title": "美国中期选举进入100天倒计时 民调显示特朗普支持率处于低位",
-      "summary": "中新网7月26日电 据法新社26日报道，在距离美国中期选举仅剩100天之际，美国总统特朗普领导的共和党正面临严峻形势。多项民调显示，共和党可能失去众议院控制权，而参议院席位争夺也将异常激烈。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666866.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:01:58.000Z"
-    },
-    {
-      "id": "9a0a04ef143c",
-      "title": "2026低空经济产业对接会在河南安阳举办",
-      "summary": "中新网安阳7月26日电(王佳宁)2026低空经济产业对接会26日在河南省安阳市举办。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-26/10666885.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:01:30.000Z"
-    },
-    {
-      "id": "f04936bc25b5",
-      "title": "广东省脐血库20年出库超7000例 救治多种血液病及罕见病患儿",
-      "summary": "中新网广州7月26日电 (记者 蔡敏婕)记者26日从广东省脐血库获悉，该库成立20年来累计出库脐血7272份，其中公开的跨境应用案例共有2例，均送往香港，用于救治重型β地中海贫血患儿。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666882.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:01:26.000Z"
-    },
-    {
-      "id": "f30d71bfbd52",
-      "title": "地质灾害预警：江西广东甘肃等地部分地区发生地质灾害气象风险高",
-      "summary": "中新网7月26日电 据中央气象台网站消息，自然资源部与中国气象局7月26日18时联合发布橙色地质灾害气象风险预警：预计，7月26日20时至27日20时，山西东南部、吉林东北部、黑龙江南部、江西西部和南部、河南西北部、湖南东南部、广东中东部和南部、四川中部和东北部、云南南部、陕西西部、甘肃东部和南部等地部分地区发生地质灾害的气象风险较高(黄色预警)，其中，…",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666874.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:01:14.000Z"
-    },
-    {
-      "id": "c977a8a8b565",
-      "title": "台湾爱保初心教育团队赴福建漳浦开展医教融合交流",
-      "summary": "中新网漳州7月26日电 (李志鑫)25日至26日，台湾爱保初心教育团队一行赴福建省漳州市漳浦县开展医教融合交流活动，搭建两岸医疗、学前教育、特殊康复领域互动平台，促进两岸医教理念互学互鉴。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666886.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T11:01:02.000Z"
-    },
-    {
-      "id": "7d30c9e49dcd",
-      "title": "甘肃渭源县一景区发生山洪 两部门派出工作组赴现场",
-      "summary": "中新网7月26日电 据应急管理部微信公众号消息，7月26日下午，甘肃省定西市渭源县双石门景区受短时强降雨影响，发生山洪灾害，造成人员伤亡。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666887.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T10:55:36.000Z"
-    },
-    {
-      "id": "20f4fbc323f1",
-      "title": "渍涝风险警报：江西广东等地部分地区发生渍涝气象风险很高",
-      "summary": "中新网7月26日电 据中央气象台网站消息，中央气象台7月26日18时发布渍涝风险气象警报：受强降雨的影响，预计7月26日20时至27日20时，江西西部和南部、湖南东南部、广东中东部和南部、四川中南部、陕西西部、甘肃东部、宁夏南部等地部分地区发生渍涝的气象风险较高，其中，江西西南部、湖南东南部、广东中东部、陕西西部、甘肃东部等地部分地区发生渍涝的气象风险高…",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666871.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T10:53:17.000Z"
-    },
-    {
-      "id": "a5f373442570",
-      "title": "暴雨橙色预警：6省部分地区有大暴雨 江西广东等局地有特大暴雨",
-      "summary": "中新网7月26日电 据中央气象台网站消息，中央气象台7月26日18时发布暴雨橙色预警：预计，7月26日20时至27日20时，广东、福建中南部、江西大部、湖南东部、广西东部、甘肃东部、陕西西部、四川盆地西部、黑龙江南部、吉林北部等地部分地区有大到暴雨，其中，广东中部和南部沿海、江西南部和西部、湖南东南部、四川盆地西部、甘肃东部、陕西西部等地部分地区有大暴雨…",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666867.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T10:51:17.000Z"
-    },
-    {
-      "id": "8629cd5cc8aa",
-      "title": "台风蓝色预警：“红霞”将穿过广东中部 明天凌晨进入湖南南部",
-      "summary": "中新网7月26日电 据中央气象台网站消息，中央气象台7月26日18时发布台风蓝色预警：",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666861.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T10:49:45.000Z"
-    },
-    {
-      "id": "bae7cb0d4267",
-      "title": "国际射联全项世界杯：布帅航男子10米气手枪夺金",
-      "summary": "7月26日，2026国际射联全项世界杯杭州站男子10米气手枪决赛，中国选手布帅航打出244.4环收获金牌，这也是中国队在本届赛事拿到的第六枚金牌。另一位中国选手、奥运冠军谢瑜打出176.7环，排名第五。",
-      "url": "https://www.chinanews.com.cn/ty/2026/07-26/10666883.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-26T10:47:55.000Z"
     },
     {
       "id": "c3a5b347aa05",
@@ -370,16 +400,6 @@
       "publishedAt": "2026-07-26T08:35:51.000Z"
     },
     {
-      "id": "915736719715",
-      "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
-      "summary": "Authorities ask for help finding 21-year-old, identified only as Abdul B, after van ramming in German capital German authorities have issued a wanted notice for a fugitive suspec…",
-      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-26T08:02:13.000Z"
-    },
-    {
       "id": "eba920a86063",
       "title": "What links Horrible Histories and Gordon Brown’s neighbour? The bumper summer quiz",
       "summary": "From award-winning Julies to golfers who were nearly the best, test your knowledge with this bumper summer quiz 1 What is now the world’s most populous city, according to the UN?…",
@@ -391,7 +411,7 @@
     },
     {
       "id": "46b52f34105d",
-      "title": "Venezuela men sue aviation firms who flew them to notorious Salvadorian jail",
+      "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
       "summary": "Exclusive: CSI Aviation and GlobalX accused of violating civil rights as part of Trump immigration crackdown Venezuelan men sent last year to a notorious Salvadorian terrorism pr…",
       "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
       "source": "The Guardian World",
@@ -468,16 +488,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-25T17:07:36.000Z"
-    },
-    {
-      "id": "21620697ced4",
-      "title": "More than 250,000 people flee wildfires in France and Spain",
-      "summary": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have fo…",
-      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-25T16:23:17.000Z"
     },
     {
       "id": "64934dbed4f8",
@@ -748,16 +758,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-23T15:27:52.000Z"
-    },
-    {
-      "id": "5898aade0ce9",
-      "title": "The roaring 20s: how the current decade revolutionised cinema",
-      "summary": "Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet…",
-      "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-23T15:00:48.000Z"
     },
     {
       "id": "3510c6cc3d47",
