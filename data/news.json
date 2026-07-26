@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T23:05:13.273Z",
+  "updatedAt": "2026-07-26T00:09:13.000Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,36 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "de8ea2ed10a2",
+      "title": "水利部专题部署台风“红霞”暴雨洪水防御工作",
+      "summary": "记者从水利部了解到，受台风“红霞”影响，预计7月25日至30日，珠江、长江、淮河、黄河、海河等流域部分主要河流将出现明显涨水过程，珠江流域东江可能发生编号洪水；台风影响范围内前期降雨多、土壤饱和，山洪灾害风险高，中小河流洪水多发；受风、雨、潮共同影响，粤东闽南沿海部分潮位站将超警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666602.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T00:01:29.000Z"
+    },
+    {
+      "id": "25b1860ac40f",
+      "title": "“情绪文旅”为何成为万亿级新风口？",
+      "summary": "一年去十多个城市追20场演唱会，为一间民宿奔赴宏村，花500元油钱去挖一袋值50元的土豆……",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-26/10666601.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-26T00:00:27.000Z"
+    },
+    {
+      "id": "915736719715",
+      "title": "One killed and 16 injured after van mows into crowd at Berlin Pride",
+      "summary": "Police call off annual parade after crowd struck by vehicle in Tiergarten park The German chancellor, Friedrich Merz, vowed to punish those responsible after a car struck people…",
+      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-25T23:51:08.000Z"
+    },
+    {
       "id": "d406d1e1598d",
       "title": "7月26日新闻早报",
       "summary": "",
@@ -38,16 +68,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-25T22:48:40.000Z"
-    },
-    {
-      "id": "915736719715",
-      "title": "One killed and 15 injured after van crashes into crowd at Berlin Pride",
-      "summary": "Police call off annual parade hours after it began as several people are struck by vehicle in Tiergarten park A van has ploughed into a crowd at Berlin’s annual LGBTQ+ pride para…",
-      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-25T22:44:36.000Z"
     },
     {
       "id": "28e7bc194523",
@@ -338,26 +358,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-25T13:31:53.000Z"
-    },
-    {
-      "id": "21004faf9e31",
-      "title": "多艘菲律宾非法活动船只、飞机侵闯我黄岩岛管辖海域",
-      "summary": "↑7月24日，一艘菲律宾渔业与水产资源局公务船企图侵闯中国黄岩岛管辖海域，在中国海警川山舰舰艏附近大角度危险转向(无人机照片)。新华社发 7月24日，多艘菲律宾渔业与水产资源局公务船、菲海警船、八爪渔船在中国南海黄岩岛附近海域聚集，飞机盘旋窥伺，企图侵闯中国领海。中国海警川山舰正在黄岩岛海域依法巡航，对位中国黄岩岛管辖海域非法活动的菲律宾多艘船只采取管制…",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-25/10666566.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T13:24:49.000Z"
-    },
-    {
-      "id": "06bf665d4c36",
-      "title": "青海召开各民主党派、无党派人士“参政为公、实干为民”主题教育工作座谈会",
-      "summary": "中新网西宁7月25日电 (记者 胡贵龙)7月24日，青海省委统战部召开各民主党派、无党派人士“参政为公、实干为民”主题教育工作座谈会，青海省委常委、统战部部长班果主持会议并讲话。",
-      "url": "https://www.chinanews.com.cn/txy/2026/07-25/10666564.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-25T13:04:27.000Z"
     },
     {
       "id": "64934dbed4f8",
