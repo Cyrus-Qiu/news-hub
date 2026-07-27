@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T17:19:17.081Z",
+  "updatedAt": "2026-07-27T18:59:04.859Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -24,15 +24,45 @@
     },
     {
       "name": "The Guardian Business",
-      "count": 20
+      "count": 19
     }
   ],
   "failedCount": 0,
   "articles": [
     {
+      "id": "bb89cc436071",
+      "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
+      "summary": "英國阻止因中國《香港國安法》案件被判囚的前議員胡志偉入境後改變主意；他對BBC中文否認曾提出政治庇護申請。",
+      "url": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-27T18:02:29.000Z"
+    },
+    {
+      "id": "2a385d5f38b1",
+      "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
+      "summary": "Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fall Oil prices have dropped sharply as traders bet that a pause in US attacks on Iran could pr…",
+      "url": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-27T17:30:47.000Z"
+    },
+    {
+      "id": "4e89bd8d2086",
+      "title": "Cracker Barrel CEO to step down after overseeing logo backlash last year",
+      "summary": "Julie Masino faced criticism as restaurant chain was called ‘woke’ and ‘soulless’ after unveiling modernized logo Cracker Barrel’s CEO, Julie Masino, is stepping down, the restau…",
+      "url": "https://www.theguardian.com/business/2026/jul/27/julie-masino-cracker-barrel-steps-down",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-27T17:28:12.000Z"
+    },
+    {
       "id": "640442d710d0",
       "title": "Trump warns of return to ‘strong military action’ if Iran diplomacy fails",
-      "summary": "Washington and Tehran issue conflicting messages over the status of talks to end Middle East crisis Donald Trump once again warned the US will return to “strong military action”…",
+      "summary": "Washington and Tehran issue conflicting messages over the status of talks to end Middle East crisis Donald Trump has once again warned that the US will return to “strong military…",
       "url": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails",
       "source": "The Guardian World",
       "category": "国际",
@@ -118,16 +148,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-27T15:44:34.000Z"
-    },
-    {
-      "id": "bb89cc436071",
-      "title": "胡志偉向BBC談倫敦機場風波：僅獲「入境保釋」，面臨遣返香港",
-      "summary": "因中國《香港國安法》案件被判囚的前民主黨主席胡志偉對BBC中文否認曾提出政治庇護申請，如今對被遣返後能否再次赴英感到徬徨。",
-      "url": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-27T15:43:45.000Z"
     },
     {
       "id": "8dec00239654",
@@ -218,16 +238,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-27T14:13:13.000Z"
-    },
-    {
-      "id": "2a385d5f38b1",
-      "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
-      "summary": "Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fall Business live – latest updates Oil prices have dropped sharply as traders bet that a pause…",
-      "url": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-27T14:10:00.000Z"
     },
     {
       "id": "5e6aaaadeaad",
@@ -502,7 +512,7 @@
     {
       "id": "bd0f13d229e8",
       "title": "Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation",
-      "summary": "Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO Business live – latest updates The boss of the startup hacked by an OpenAI agent has c…",
+      "summary": "Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO The boss of the startup hacked by an OpenAI agent has called for the investigation int…",
       "url": "https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence",
       "source": "The Guardian Technology",
       "category": "AI",
@@ -870,6 +880,16 @@
       "publishedAt": "2026-07-24T10:57:47.000Z"
     },
     {
+      "id": "87f407c501b7",
+      "title": "Mass job cuts loom at VW as profits fall steeply on China sales slump",
+      "summary": "Carmaker expects to sell 3% fewer vehicles this year as it pushes through a programme that could eliminate 100,000 roles Volkswagen has reported a steep fall in profits and cut i…",
+      "url": "https://www.theguardian.com/business/2026/jul/24/vw-profits-plunge-and-deep-job-cuts-loom-amid-tough-chinese-competition",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-24T10:34:14.000Z"
+    },
+    {
       "id": "8e24e9852df7",
       "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
       "summary": "美國宣布對60個貿易夥伴課徵10%至12.5%關稅，指其未能有效禁止「強迫勞動」產品進口，涵蓋歐盟、日本、台灣、中國等經濟體，週五（7月24日）生效。",
@@ -908,6 +928,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-23T19:56:50.000Z"
+    },
+    {
+      "id": "25a31d7c8474",
+      "title": "How the Bab al-Mandab blockade threat helped push oil back above $100",
+      "summary": "Escalating Houthi warnings to ships carrying Saudi crude through the strait lead to fears of further price surge A fresh front in the Middle East crisis opened this week, bringin…",
+      "url": "https://www.theguardian.com/business/2026/jul/23/bab-al-mandab-blockade-push-oil-100-houthi-ships",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-23T16:04:11.000Z"
     },
     {
       "id": "3510c6cc3d47",
@@ -980,6 +1010,16 @@
       "publishedAt": "2026-07-23T09:54:11.000Z"
     },
     {
+      "id": "f1f5fef8683e",
+      "title": "EasyJet profits plunge 70% as fuel costs soar amid Iran war",
+      "summary": "Budget airline, which has two US investment firms vying to buy it, also affected by passengers booking later The low-cost airline easyJet has revealed a 70% slide in profits beca…",
+      "url": "https://www.theguardian.com/business/2026/jul/23/easyjet-profits-plunge-fuel-costs-soar-iran-war",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-23T08:24:49.000Z"
+    },
+    {
       "id": "094340637311",
       "title": "美國與沙特簽署核協議 為中東再引核擴散風險",
       "summary": "專家表示，這將是美國首次達成此類安排，並可能增加這個本已不穩定地區未來出現核擴散的風險。",
@@ -1028,16 +1068,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-22T20:40:48.000Z"
-    },
-    {
-      "id": "91e4bb9bac15",
-      "title": "US trade chief defends tariffs as Democrats say Trump ‘in denial’ over price hikes",
-      "summary": "Jamieson Greer denies tariffs have pushed up prices during grilling from lawmakers over cost-of-living concerns Donald Trump ’s chief trade official denied the president’s sweepi…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/trump-tariffs-inflation-jamieson-greer",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-22T19:43:28.000Z"
     },
     {
       "id": "f88e87a72392",
@@ -1130,6 +1160,16 @@
       "publishedAt": "2026-07-21T22:39:00.000Z"
     },
     {
+      "id": "7fd3cccb63c5",
+      "title": "Ozempic maker Novo Nordisk sues US rival over ‘materially misleading’ ads",
+      "summary": "Danish pharma company says Eli Lilly using outdated trial data to make its weight-loss drugs appear more effective Ozempic maker Novo Nordisk said on Tuesday it is suing arch US…",
+      "url": "https://www.theguardian.com/business/2026/jul/21/novo-nordisk-eli-lilly-weight-loss-ads",
+      "source": "The Guardian Business",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-07-21T17:21:19.000Z"
+    },
+    {
       "id": "cca06e532677",
       "title": "How AI may drive union-resistant tech workers to the bargaining table",
       "summary": "Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligence…",
@@ -1188,46 +1228,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-21T09:00:08.000Z"
-    },
-    {
-      "id": "e98edebd6c95",
-      "title": "亞洲年輕人大舉押注科技股 他們過得怎麼樣？",
-      "summary": "在人工智能（AI）熱潮帶動下，科技股的上漲吸引了大量普通投資者，其中許多人是二十多歲和三十出頭的年輕人。",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgwp1xgq02o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-07-21T08:25:04.000Z"
-    },
-    {
-      "id": "de021caef336",
-      "title": "從烏干達、美國到中國：在俄羅斯戰爭中喪生的外國人",
-      "summary": "BBC調查發現，來自40多個國家的逾3,500名外國公民，在烏克蘭戰爭中為俄羅斯作戰時死亡，當中包括來自厄瓜多爾、烏干達、美國、中國、越南和斯里蘭卡的人。",
-      "url": "https://www.bbc.com/zhongwen/articles/c20e6vk7dn6o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-21T00:08:29.000Z"
-    },
-    {
-      "id": "85c775ca61b1",
-      "title": "European gas prices surge amid fears US-Iran war will cause winter shortages",
-      "summary": "Benchmark hits a four-year high as oil briefly breaches $90 a barrel before easing after Tehran says talks ongoing European gas prices have hit a four-month high as the escalatio…",
-      "url": "https://www.theguardian.com/business/2026/jul/20/european-gas-prices-high-us-iran-war-supply-shortages-oil-price",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-20T13:46:54.000Z"
-    },
-    {
-      "id": "05b21a55c62e",
-      "title": "AI job worries grow. But some human skills can’t be replaced by machines | Gaynor Parkin and Dave Winsborough",
-      "summary": "The fear of becoming obsolete is a rising source of anxiety as artificial intelligence emerges in the workplace. Staying strongly connected with others will help The modern mind…",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/20/ai-job-worries-human-skills-machines-cant-replace",
-      "source": "The Guardian Business",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-19T15:00:31.000Z"
     }
   ]
 }
