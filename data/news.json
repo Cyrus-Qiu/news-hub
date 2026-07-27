@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T20:39:30.606Z",
+  "updatedAt": "2026-07-27T22:13:47.188Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -37,7 +37,7 @@
       "source": "The Guardian World",
       "category": "财经",
       "language": "en",
-      "publishedAt": "2026-07-27T20:13:50.000Z"
+      "publishedAt": "2026-07-27T22:00:13.000Z"
     },
     {
       "id": "bb89cc436071",
@@ -160,9 +160,19 @@
       "publishedAt": "2026-07-27T15:44:34.000Z"
     },
     {
+      "id": "fd45d156b1fa",
+      "title": "So how do you get access to the Qantas chairman’s lounge? Alan Joyce has some tips",
+      "summary": "In his memoir, the former Qantas chief executive denies using the lounge as a tool to influence politicians Follow our Australia news live blog for latest updates Get our breakin…",
+      "url": "https://www.theguardian.com/business/2026/jul/28/alan-joyce-qantas-chairmans-lounge-memoir",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-27T15:00:13.000Z"
+    },
+    {
       "id": "8dec00239654",
       "title": "Secret tape recordings and ‘sham’ payments: the Liberals’ internal ideological war laid bare",
-      "summary": "The NSW anti-corruption watchdog has begun a public inquiry into allegations of branch stacking, illegal donations, and interference with preselections Get our breaking news emai…",
+      "summary": "The NSW anti-corruption watchdog has begun a public inquiry into allegations of branch stacking, illegal donations and interference with preselections Follow our Australia news l…",
       "url": "https://www.theguardian.com/australia-news/2026/jul/28/nsw-liberals-icac-operation-rosny-secret-tape-recordings-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -508,16 +518,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-27T13:18:30.000Z"
-    },
-    {
-      "id": "9dccdce44c91",
-      "title": "Potential for first Australian oil refinery in 60 years as treasurer braces for inflation from Middle East war",
-      "summary": "Commonwealth and Western Australia to fund study into construction of large-scale petrol refinery as buffer against fuel vulnerability Follow our Australia news live blog for lat…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/potential-for-first-australian-oil-refinery-in-60-years-as-treasurer-braces-for-inflation-from-middle-east-war",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-27T12:30:09.000Z"
     },
     {
       "id": "7bfaefdc6178",
