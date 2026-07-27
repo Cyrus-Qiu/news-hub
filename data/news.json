@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T18:59:04.859Z",
+  "updatedAt": "2026-07-27T20:39:30.606Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "c3d069df2d5f",
+      "title": "Australia news live: Anthony Albanese praises Sally McManus and Michele O’Neil as ‘giants’ as they step down from ACTU",
+      "summary": "Prime minister pays tribute to secretary and president of the Australian Council of Trade Unions after surprise announcement. Follow updates live Get our breaking news email , fr…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-27T20:13:50.000Z"
+    },
+    {
       "id": "bb89cc436071",
       "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
       "summary": "英國阻止因中國《香港國安法》案件被判囚的前議員胡志偉入境後改變主意；他對BBC中文否認曾提出政治庇護申請。",
@@ -47,7 +57,7 @@
       "source": "The Guardian Business",
       "category": "财经",
       "language": "en",
-      "publishedAt": "2026-07-27T17:30:47.000Z"
+      "publishedAt": "2026-07-27T17:30:46.000Z"
     },
     {
       "id": "4e89bd8d2086",
@@ -162,7 +172,7 @@
     {
       "id": "488f59ab730c",
       "title": "Pauline Hanson and Malcolm Roberts deride family law system, calling DV a ‘weapon’ and court a ‘slaughterhouse’",
-      "summary": "Exclusive: Resurfaced comments by the One Nation leader underline her criticism of paid family violence leave and domestic violence support groups Pauline Hanson told a podcast l…",
+      "summary": "Exclusive: Resurfaced comments by the One Nation leader underline her criticism of paid family violence leave and domestic violence support groups Follow our Australia news live…",
       "url": "https://www.theguardian.com/australia-news/2026/jul/27/pauline-hanson-labels-dv-a-weapon-while-malcolm-roberts-calls-family-court-a-slaughterhouse-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -278,6 +288,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-27T14:03:51.000Z"
+    },
+    {
+      "id": "6bb3272b8890",
+      "title": "Tariffs are Trump’s favorite plaything – and his justifications are absurd | Steven Greenhouse",
+      "summary": "The president is using forced labor as a pretext to slap tariffs on countries around the world With the midterm elections less than four months away, it’s a precarious time for D…",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-27T14:00:11.000Z"
     },
     {
       "id": "ac5814d9fc6f",
@@ -492,7 +512,7 @@
     {
       "id": "9dccdce44c91",
       "title": "Potential for first Australian oil refinery in 60 years as treasurer braces for inflation from Middle East war",
-      "summary": "Commonwealth and Western Australia to fund study into construction of large-scale petrol refinery as buffer against fuel vulnerability Get our breaking news email , free app or d…",
+      "summary": "Commonwealth and Western Australia to fund study into construction of large-scale petrol refinery as buffer against fuel vulnerability Follow our Australia news live blog for lat…",
       "url": "https://www.theguardian.com/australia-news/2026/jul/27/potential-for-first-australian-oil-refinery-in-60-years-as-treasurer-braces-for-inflation-from-middle-east-war",
       "source": "The Guardian World",
       "category": "财经",
@@ -588,16 +608,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-27T09:00:36.000Z"
-    },
-    {
-      "id": "0eb61d10bd22",
-      "title": "British YouTuber Yung Filly describes night he met fan in Australian nightclub before allegedly raping her",
-      "summary": "Performer on trial on six charges of sexually penetrating a 20-year-old woman without consent A British YouTuber and musician accused of violently raping a fan after a gig never…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/british-youtuber-yung-filly-describes-night-he-met-fan-in-perth-nightclub-before-allegedly-raping-her-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-27T08:59:27.000Z"
     },
     {
       "id": "7fc32d0cb7fa",
@@ -708,6 +718,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-27T00:06:51.000Z"
+    },
+    {
+      "id": "8c017c14fcd8",
+      "title": "Rising oil prices could force up UK interest rates, say economists",
+      "summary": "Bank of England expected to keep rates on hold on Thursday but renewed Iran conflict casts shadow over energy costs The Bank of England could be forced to tear up its economic fo…",
+      "url": "https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-26T23:01:23.000Z"
     },
     {
       "id": "0711f6be8cd5",
@@ -870,6 +890,16 @@
       "publishedAt": "2026-07-24T12:00:13.000Z"
     },
     {
+      "id": "d1aec9661236",
+      "title": "Trump’s latest tariffs put UK at disadvantage to EU, say experts",
+      "summary": "While overall levy for UK is unchanged, sectors not covered by Turnberry deal face tougher competition Donald Trump’s latest round of tariffs has put UK businesses at a disadvant…",
+      "url": "https://www.theguardian.com/business/2026/jul/24/trump-tariffs-uk-disadvantage-eu-turnberry-competition",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-24T11:52:30.000Z"
+    },
+    {
       "id": "0ecd8c8725bd",
       "title": "香港步入「禁書時代」？回顧書店與出版環境的變化",
       "summary": "BBC中文整理近年與出版、書店及書籍執法相關的重要事件，回顧香港出版環境的變化。",
@@ -910,6 +940,16 @@
       "publishedAt": "2026-07-24T04:16:29.000Z"
     },
     {
+      "id": "4ac71c8e59f6",
+      "title": "Trump imposes fresh tariffs on UK, EU and dozens of other trading partners",
+      "summary": "New tariffs will replace 10% global duty and come after US supreme court declared many of the earlier levies illegal Donald Trump has imposed a fresh round of tariffs on more tha…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T04:03:27.000Z"
+    },
+    {
       "id": "42a08b35c151",
       "title": "曼德海峽：胡塞武裝的威脅會否觸發紅海航運危機？",
       "summary": "全球約12%的海運石油貿易經過曼德海峽。隨着霍爾木茲海峽（荷莫茲海峽）實際上已被關閉，伊朗的盟友正威脅透過封鎖這條中東第二關鍵海上航道，進一步擾亂全球貿易。",
@@ -928,16 +968,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-23T19:56:50.000Z"
-    },
-    {
-      "id": "25a31d7c8474",
-      "title": "How the Bab al-Mandab blockade threat helped push oil back above $100",
-      "summary": "Escalating Houthi warnings to ships carrying Saudi crude through the strait lead to fears of further price surge A fresh front in the Middle East crisis opened this week, bringin…",
-      "url": "https://www.theguardian.com/business/2026/jul/23/bab-al-mandab-blockade-push-oil-100-houthi-ships",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-23T16:04:11.000Z"
     },
     {
       "id": "3510c6cc3d47",
@@ -1008,16 +1038,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-23T09:54:11.000Z"
-    },
-    {
-      "id": "f1f5fef8683e",
-      "title": "EasyJet profits plunge 70% as fuel costs soar amid Iran war",
-      "summary": "Budget airline, which has two US investment firms vying to buy it, also affected by passengers booking later The low-cost airline easyJet has revealed a 70% slide in profits beca…",
-      "url": "https://www.theguardian.com/business/2026/jul/23/easyjet-profits-plunge-fuel-costs-soar-iran-war",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T08:24:49.000Z"
     },
     {
       "id": "094340637311",
@@ -1160,16 +1180,6 @@
       "publishedAt": "2026-07-21T22:39:00.000Z"
     },
     {
-      "id": "7fd3cccb63c5",
-      "title": "Ozempic maker Novo Nordisk sues US rival over ‘materially misleading’ ads",
-      "summary": "Danish pharma company says Eli Lilly using outdated trial data to make its weight-loss drugs appear more effective Ozempic maker Novo Nordisk said on Tuesday it is suing arch US…",
-      "url": "https://www.theguardian.com/business/2026/jul/21/novo-nordisk-eli-lilly-weight-loss-ads",
-      "source": "The Guardian Business",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-07-21T17:21:19.000Z"
-    },
-    {
       "id": "cca06e532677",
       "title": "How AI may drive union-resistant tech workers to the bargaining table",
       "summary": "Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligence…",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-21T09:03:16.000Z"
-    },
-    {
-      "id": "c582c3b013cd",
-      "title": "The best LED face masks in the UK, tested: 12 light therapy devices that are worth the hype",
-      "summary": "They claim to fix fine lines, blemishes, and redness – but which stand up to scrutiny? After consulting dermatologists and putting them to the test, we have crowned a brand new n…",
-      "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-21T09:00:08.000Z"
     }
   ]
 }
