@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T15:26:52.647Z",
+  "updatedAt": "2026-07-27T17:19:17.081Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,106 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "640442d710d0",
+      "title": "Trump warns of return to ‘strong military action’ if Iran diplomacy fails",
+      "summary": "Washington and Tehran issue conflicting messages over the status of talks to end Middle East crisis Donald Trump once again warned the US will return to “strong military action”…",
+      "url": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-27T17:02:56.000Z"
+    },
+    {
+      "id": "7116ff49e859",
+      "title": "Off-duty police officer detains man who attacked three women with knives in Paris",
+      "summary": "Two women severely wounded before bystanders intervened in incident near Porte de Clichy A man attacked three women with knives in Paris before bystanders pinned him to the groun…",
+      "url": "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-27T16:59:39.000Z"
+    },
+    {
+      "id": "9656ffac2562",
+      "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+      "summary": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials say Firefighters in France and Spain are racing to bring huge wildfires…",
+      "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-27T16:36:30.000Z"
+    },
+    {
+      "id": "d67894d06685",
+      "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
+      "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the…",
+      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-27T16:27:44.000Z"
+    },
+    {
+      "id": "7f57bc289646",
+      "title": "Shots fired near US consulate in Canada for second time in four months",
+      "summary": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police say Shots were fired near the US consulate in Toronto early on Mon…",
+      "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-27T16:20:56.000Z"
+    },
+    {
+      "id": "3e8411657006",
+      "title": "‘It felt like being in a disaster movie’: uncertainty after evacuation from France’s Gironde wildfire",
+      "summary": "Residents describe their fear as they were forced to leave their homes because of the ‘extremely intense’ blaze Sitting in their suburban apartment in Mérignac on the outskirts o…",
+      "url": "https://www.theguardian.com/world/2026/jul/27/it-felt-like-being-in-a-disaster-movie-inside-the-evacuation-from-frances-bordeaux-wildfires",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-27T16:13:56.000Z"
+    },
+    {
+      "id": "cf47c2fc3b0a",
+      "title": "特朗普称若谈判破裂将强力打击伊朗",
+      "summary": "当地时间27日，总台记者获悉，美国总统特朗普在接受采访时表示，美国目前正与伊朗进行“深度谈判”。但他同时警告说，如果外交努力失败，美国将重启“强有力的军事行动”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-27/10667570.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-27T15:55:15.000Z"
+    },
+    {
+      "id": "4d9bbb3bc9d0",
+      "title": "NBA 3X天津站收官 丁彦雨航助阵见证冠军诞生",
+      "summary": "中新网7月27日电 NBA 3X区域赛天津站赛事26日收官，欧耶队、京将ROSE队分获男子组、女子组冠军。曾代表达拉斯独行侠队征战NBA季前赛的丁彦雨航现身现场，与球迷互动并为获奖队伍颁奖。",
+      "url": "https://www.chinanews.com.cn/ty/2026/07-27/10667568.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-27T15:51:37.000Z"
+    },
+    {
+      "id": "03db4def830a",
+      "title": "机票超售与高额退票费 是否触碰公平消费底线？",
+      "summary": "买了机票却不能登机，退张机票要扣97%的票款。机票超售让消费者“走不了”，天价退票费让消费者“退不起”。记者走访调查，为您揭开机票消费背后的权益“黑洞”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-27/10667569.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-27T15:44:34.000Z"
+    },
+    {
+      "id": "bb89cc436071",
+      "title": "胡志偉向BBC談倫敦機場風波：僅獲「入境保釋」，面臨遣返香港",
+      "summary": "因中國《香港國安法》案件被判囚的前民主黨主席胡志偉對BBC中文否認曾提出政治庇護申請，如今對被遣返後能否再次赴英感到徬徨。",
+      "url": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-27T15:43:45.000Z"
+    },
+    {
       "id": "8dec00239654",
       "title": "Secret tape recordings and ‘sham’ payments: the Liberals’ internal ideological war laid bare",
       "summary": "The NSW anti-corruption watchdog has begun a public inquiry into allegations of branch stacking, illegal donations, and interference with preselections Get our breaking news emai…",
@@ -48,16 +148,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-27T15:00:13.000Z"
-    },
-    {
-      "id": "bb89cc436071",
-      "title": "胡志偉向BBC談倫敦機場風波：僅獲「入境保釋」，面臨遣返香港",
-      "summary": "因中國《香港國安法》案件被判囚的前民主黨主席胡志偉對BBC中文否認曾提出政治庇護申請，如今對被遣返後能否再次赴英感到徬徨。",
-      "url": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-27T14:53:34.000Z"
     },
     {
       "id": "1bf9de8f4f95",
@@ -88,16 +178,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-27T14:31:12.000Z"
-    },
-    {
-      "id": "7116ff49e859",
-      "title": "Off-duty police officer detains man who attacked three women with knives in Paris",
-      "summary": "Women aged 19, 24 and 36 taken to hospital after assault in Porte de Clichy area in north of capital A French off-duty police officer has detained a man after he attacked and wou…",
-      "url": "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-27T14:29:49.000Z"
     },
     {
       "id": "09492a049805",
@@ -400,46 +480,6 @@
       "publishedAt": "2026-07-27T13:18:30.000Z"
     },
     {
-      "id": "5f9d62932567",
-      "title": "青海玉树：民族传统体育竞技吸引游客",
-      "summary": "7月27日，青海玉树，骑手进行马术项目比赛。当日，玉树群众民族体育竞技及2026三江源生态文化旅游节闭幕式在扎西科赛马场举行。马术、赛牦牛、举沙袋等传统民族体育竞技项目轮番上演，展现当地康巴草原游牧文化，吸引海内外游客到访参观。中新社记者 马铭言 摄 7月27日，青海玉树，骑手进行马术项目比赛。当日，玉树群众民族体育竞技及2026三江源生态文化旅游节闭幕…",
-      "url": "https://www.chinanews.com.cn/tp/2026/07-27/10667529.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-27T13:16:31.000Z"
-    },
-    {
-      "id": "7b3163b315fe",
-      "title": "立上游、开新局，民营企业如何以AI实现数智化转型？",
-      "summary": "中新网宜宾7月27日电(左雨晴) 民营经济是推进中国式现代化的生力军，也是高质量发展的重要基础。随着人工智能等新技术飞速迭代，数字智能经济加速演进，如何主动拥抱人工智能实现数智化转型，成为民营企业必须直面的时代命题。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-27/10667533.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-07-27T13:16:25.000Z"
-    },
-    {
-      "id": "805796920fd0",
-      "title": "四川达州持续高温天气 州河成市民消暑地",
-      "summary": "7月27日，四川达州持续高温天气，州河一片浅滩成为一处天然戏水场，吸引不少市民前来游泳消暑。为确保安全，河道所在辖区还安排工作人员现场值守。（无人机照片）中新社记者 张浪 摄 7月27日，四川达州持续高温天气，州河一片浅滩成为一处天然戏水场，吸引不少市民前来游泳消暑。为确保安全，河道所在辖区还安排工作人员现场值守。（无人机照片）中新社记者 张浪 摄 7月…",
-      "url": "https://www.chinanews.com.cn/tp/2026/07-27/10667525.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-27T13:16:07.000Z"
-    },
-    {
-      "id": "9f35a813df39",
-      "title": "German officials call for tighter extremism laws after Berlin Pride attack",
-      "summary": "Alternative für Deutschland, topping polls ahead of state elections, accuses government of failing to tackle Islamist radicalism Europe live – latest updates German officials hav…",
-      "url": "https://www.theguardian.com/politics/2026/jul/27/german-officials-tighter-extremism-laws-berlin-pride-attack",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-27T12:58:51.000Z"
-    },
-    {
       "id": "9dccdce44c91",
       "title": "Potential for first Australian oil refinery in 60 years as treasurer braces for inflation from Middle East war",
       "summary": "Commonwealth and Western Australia to fund study into construction of large-scale petrol refinery as buffer against fuel vulnerability Get our breaking news email , free app or d…",
@@ -474,8 +514,8 @@
       "title": "AstraZeneca boss urges western drugmakers to move at ‘Chinese speed’",
       "summary": "Europe and US risk being outpaced on innovation, as happened in the car industry, warns Pascal Soriot AstraZeneca must operate at “Chinese speed” to ensure it does not suffer the…",
       "url": "https://www.theguardian.com/business/2026/jul/27/astrazeneca-boss-urges-western-drugmakers-to-move-at-chinese-speed",
-      "source": "The Guardian World",
-      "category": "国际",
+      "source": "The Guardian Business",
+      "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-27T12:09:41.000Z"
     },
@@ -770,16 +810,6 @@
       "publishedAt": "2026-07-25T13:00:43.000Z"
     },
     {
-      "id": "3fe1b9243c03",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
-      "summary": "Saudi air defences intercept ballistic missiles as Iran reports first night without US strikes in two weeks Yemen’s Iran-backed Houthi rebels claimed a missile attack on the sout…",
-      "url": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-25T12:28:31.000Z"
-    },
-    {
       "id": "52eae3d249bb",
       "title": "‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT",
       "summary": "Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she wa…",
@@ -810,16 +840,6 @@
       "publishedAt": "2026-07-24T15:28:37.000Z"
     },
     {
-      "id": "f80d32241275",
-      "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
-      "summary": "US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’ A Canadian federal opposition party leader has called on Mark C…",
-      "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
-      "source": "The Guardian World",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-07-24T13:53:34.000Z"
-    },
-    {
       "id": "3ecc7db58a46",
       "title": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun",
       "summary": "If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful it is. And who benefits from that? On 14 February 2019, OpenAI announced a language model called…",
@@ -838,16 +858,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-24T12:00:13.000Z"
-    },
-    {
-      "id": "f50e6e1d19e6",
-      "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
-      "summary": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western Amazon Indigenous leaders on the Brazilian-Peruvian border have said their communities…",
-      "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T11:49:19.000Z"
     },
     {
       "id": "0ecd8c8725bd",
@@ -1218,16 +1228,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-19T15:00:31.000Z"
-    },
-    {
-      "id": "7458fc469447",
-      "title": "Why a modest US interest rate rise won’t change much for most businesses",
-      "summary": "Rates may rise, but don’t be too concerned – a small increase is unlikely to change major decisions on investment or hiring With the appointment of a new Federal Reserve chair, t…",
-      "url": "https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-19T14:00:28.000Z"
     }
   ]
 }
