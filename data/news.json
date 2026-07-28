@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T16:19:49.499Z",
+  "updatedAt": "2026-07-28T17:59:21.382Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,8 +30,88 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "d7f57535edf0",
+      "title": "South Korean stock market at three-month low as AI sell-off intensifies",
+      "summary": "Samsung and SK Hynix fall by more than 10% amid renewed fears over AI spending and Chinese competition Business live – latest updates The sell-off in AI stocks has intensified, d…",
+      "url": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-28T17:43:46.000Z"
+    },
+    {
+      "id": "6bb390cf3ec6",
+      "title": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – live updates",
+      "summary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌6.8 ‌struck ‌the country’s Kumamoto prefecture Kyushu Electric Power said ​48,000 homes had lost power as a result of the late…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T17:26:10.000Z"
+    },
+    {
+      "id": "1135f915028f",
+      "title": "Labour MP suing Elon Musk’s xAI says chatbot added own fake abusive content",
+      "summary": "Jess Asato’s particulars of claim states Grok added explicit sexual material users had not asked for A Labour MP who is taking legal action against Elon Musk’s xAI company over f…",
+      "url": "https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-28T17:18:17.000Z"
+    },
+    {
+      "id": "396fe41a7469",
+      "title": "Apple becomes second ever $5tn company as investors flee AI stocks",
+      "summary": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-off Apple has become only the second company to pass the $…",
+      "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-28T16:51:56.000Z"
+    },
+    {
+      "id": "0dca99a4792a",
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+      "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to Trump Canadians spent $3.3bn less on travel to the US in 2025 than in the pre…",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T16:46:05.000Z"
+    },
+    {
+      "id": "e71bf746106d",
+      "title": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
+      "summary": "Return of winds and extreme heat threaten firefighters’ attempts to bring blazes under control Nearly 4,000 people have been evacuated from tourist sites on France’s Atlantic coa…",
+      "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T16:42:43.000Z"
+    },
+    {
+      "id": "d09e7466e543",
+      "title": "巴西6月出口创历史新高 经常账户逆差大幅收窄",
+      "summary": "中新社圣保罗7月28日电 巴西央行28日发布统计数据显示，受商品出口创历史新高带动，巴西6月经常账户逆差大幅收窄，外部账户状况继续改善。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668217.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T16:32:58.000Z"
+    },
+    {
+      "id": "b1808cdfe174",
+      "title": "轻信保录被骗、付费志愿填报全滑档 别再踩这些坑！",
+      "summary": "一年一度的高考招生录取季，总有个别家长听信他人谎言，相信可以通过“花钱点招、内部指标、低分补录”等所谓的“捷径”，让孩子进入更好的高校，结果掉入骗子精心设计的“陷阱”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668216.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T16:20:37.000Z"
+    },
+    {
       "id": "9f2442662df1",
-      "title": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – Europe live",
+      "title": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – as it happened",
       "summary": "Spanish prime minister also says the fires serve as a reminder to plan for the ‘worsening’ climate emergency France and Spain race to contain huge wildfires before fresh heatwave…",
       "url": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
       "source": "The Guardian World",
@@ -48,16 +128,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-28T16:04:18.000Z"
-    },
-    {
-      "id": "6bb390cf3ec6",
-      "title": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – live updates",
-      "summary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌6.8 ‌struck ‌the country’s Kumamoto prefecture Kyushu Electric Power said ​48,000 homes had lost power as a result of the late…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T15:58:55.000Z"
     },
     {
       "id": "e12033252144",
@@ -290,16 +360,6 @@
       "publishedAt": "2026-07-28T14:00:05.000Z"
     },
     {
-      "id": "e71bf746106d",
-      "title": "New evacuation from tourist sites near Bordeaux as France and Spain fight wildfires",
-      "summary": "French authorities order evacuation of almost 4,000 people from Lacanau resort amid return of heatwave Europe live – latest updates The evacuation of nearly 4,000 people from tou…",
-      "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T13:59:35.000Z"
-    },
-    {
       "id": "c7dc33fc2423",
       "title": "青海兴海连发4次地震 官方严防次生灾害",
       "summary": "中新社西宁7月28日电 (李隽)据中国地震台网正式测定，青海省海南藏族自治州兴海县28日7小时内连发4次地震。截至发稿时，地震造成7个乡镇基础设施受损，暂无人员伤亡。",
@@ -308,16 +368,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-28T13:53:34.000Z"
-    },
-    {
-      "id": "d7f57535edf0",
-      "title": "AI sell-off intensifies as investors ditch chip stocks",
-      "summary": "Samsung and SK Hynix fall by more than 10% amid renewed fears over AI spending and Chinese competition Business live – latest updates The sell-off in AI stocks has intensified, d…",
-      "url": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-28T13:53:26.000Z"
     },
     {
       "id": "cb9805442351",
@@ -410,26 +460,6 @@
       "publishedAt": "2026-07-28T13:49:22.000Z"
     },
     {
-      "id": "e8a9a01b3a9a",
-      "title": "中国牵头共建地震韧性国际联合实验室",
-      "summary": "中新社北京7月28日电 (记者 孙自法)唐山大地震50周年地震工程与城市韧性国际学术研讨会和第三届全国防震减灾科普大会7月28日在北京举办。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-28/10668176.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:48:46.000Z"
-    },
-    {
-      "id": "9f0e0dea7694",
-      "title": "全国中小学生唐诗文化传习实践地青少年唐诗文化交流活动在西安启幕",
-      "summary": "中新网西安7月28日电 (阿琳娜 崔瑞颖)28日，以“少年入长安·唐诗逐梦行”为主题的全国中小学生唐诗文化传习实践地青少年唐诗文化交流活动在西安启幕。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-28/10668175.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:48:14.000Z"
-    },
-    {
       "id": "c7202f772fe8",
       "title": "The great PlayStation blackout – will kids actually have to leave their bedrooms this summer?",
       "summary": "Gamers are angry that Sony will be deleting TV shows and films from their libraries as well as getting rid of physical games. Will a boycott make a difference? Name: PlayStation…",
@@ -472,7 +502,7 @@
     {
       "id": "9132edbf3ded",
       "title": "Home Office used ‘AI hallucinated’ information to refuse asylum claim, judge suggests",
-      "summary": "Upper tribunal unable to find document cited in case and claims it is ‘analogous to relying on bogus evidence’ UK politics live – latest updates A senior judge has accused the Ho…",
+      "summary": "Upper tribunal unable to find document cited in case and claims it is ‘analogous to relying on bogus evidence’ A senior judge has accused the Home Office of relying on “AI halluc…",
       "url": "https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests",
       "source": "The Guardian Technology",
       "category": "AI",
@@ -980,16 +1010,6 @@
       "publishedAt": "2026-07-26T06:00:04.000Z"
     },
     {
-      "id": "46b52f34105d",
-      "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
-      "summary": "Exclusive: CSI Aviation and GlobalX accused of violating civil rights as part of Trump immigration crackdown Venezuelan men sent last year to a notorious Salvadorian terrorism pr…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-26T05:00:03.000Z"
-    },
-    {
       "id": "64934dbed4f8",
       "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
       "summary": "Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay In March, Anthropic, the cutting-edge artificial in…",
@@ -1050,6 +1070,16 @@
       "publishedAt": "2026-07-24T10:57:47.000Z"
     },
     {
+      "id": "918857143f23",
+      "title": "Weather tracker: More than 900 wildfires rage across Canada",
+      "summary": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildf…",
+      "url": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-24T08:11:31.000Z"
+    },
+    {
       "id": "8e24e9852df7",
       "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
       "summary": "美國宣布對60個貿易夥伴課徵10%至12.5%關稅，指其未能有效禁止「強迫勞動」產品進口，涵蓋歐盟、日本、台灣、中國等經濟體，週五（7月24日）生效。",
@@ -1100,26 +1130,6 @@
       "publishedAt": "2026-07-23T19:56:50.000Z"
     },
     {
-      "id": "6361be88d576",
-      "title": "Customers prefer AI chatbots, says British Gas owner as 1,300 call centre and back office jobs axed",
-      "summary": "CEO Chris O’Shea defends Centrica’s plans as it reports rise in retail profits following focus on bigger margins The owner of British Gas has claimed that most households would r…",
-      "url": "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-23T16:45:56.000Z"
-    },
-    {
-      "id": "e751e1ec6687",
-      "title": "Elon Musk says he got ‘carried away’ with Trump – but still holds on to contentious political views",
-      "summary": "In interview, billionaire says instead of running ‘Doge’ he should’ve ‘worked on my companies’ and shares extreme predictions Elon Musk has admitted he became too consumed by pol…",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-23T15:27:52.000Z"
-    },
-    {
       "id": "3510c6cc3d47",
       "title": "Two Russian men jailed in Angola for terrorism and spying",
       "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of…",
@@ -1168,16 +1178,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-23T06:56:18.000Z"
-    },
-    {
-      "id": "3d63653656d3",
-      "title": "Total solar eclipse books out hotels two years in advance in New Zealand city",
-      "summary": "Dunedin will be the focal point, having last experienced such an eclipse in 1163 – before any humans reached New Zealand Hotels are booking out two years in advance in the New Ze…",
-      "url": "https://www.theguardian.com/world/2026/jul/23/total-solar-eclipse-new-zealand-2028-dunedin",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-23T04:59:08.000Z"
     },
     {
       "id": "307dbb9a31a0",
