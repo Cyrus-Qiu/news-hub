@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T17:59:21.382Z",
+  "updatedAt": "2026-07-28T19:46:11.778Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "6bb390cf3ec6",
+      "title": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – as it happened",
+      "summary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌6.8 ‌struck ‌the country’s Kumamoto prefecture Kyushu Electric Power said ​48,000 homes had lost power as a result of the late…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T18:39:59.000Z"
+    },
+    {
       "id": "d7f57535edf0",
       "title": "South Korean stock market at three-month low as AI sell-off intensifies",
       "summary": "Samsung and SK Hynix fall by more than 10% amid renewed fears over AI spending and Chinese competition Business live – latest updates The sell-off in AI stocks has intensified, d…",
@@ -38,16 +48,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-28T17:43:46.000Z"
-    },
-    {
-      "id": "6bb390cf3ec6",
-      "title": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – live updates",
-      "summary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌6.8 ‌struck ‌the country’s Kumamoto prefecture Kyushu Electric Power said ​48,000 homes had lost power as a result of the late…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T17:26:10.000Z"
     },
     {
       "id": "1135f915028f",
@@ -560,6 +560,16 @@
       "publishedAt": "2026-07-28T10:21:46.000Z"
     },
     {
+      "id": "d2ec2de3d4b9",
+      "title": "Americans feel pinch of continued Iran war: ‘It’s screwed everything up’",
+      "summary": "Whether in favor of or against the US-Israel war on Iran, people across the country are left holding the bill and wondering on its purpose Five months after the United States and…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/us-iran-war-cost-of-living",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T10:00:02.000Z"
+    },
+    {
       "id": "a07611be8cf7",
       "title": "Spies in the sky: how worried should we be about the arrival of AI-enabled smart lamp-posts?",
       "summary": "The new breed of camera-equipped streetlights has the potential to fight crime and track down missing persons. Or will it just take Britain one step closer to a surveillance stat…",
@@ -591,8 +601,8 @@
     },
     {
       "id": "c6a519092b81",
-      "title": "Security firm linked to ICE crackdown in US reports UK revenue slump after asylum centre contract ends",
-      "summary": "MTC provided security at heavily criticised Manston centre in Kent and could now make £500m managing the site A private security company linked to Donald Trump’s immigration crac…",
+      "title": "ICE-linked security firm reports UK revenue slump after asylum contract ends",
+      "summary": "MTC provided security at heavily criticised Manston centre in Kent – and could now make £500m managing arrivals at site A private security company linked to Donald Trump’s immigr…",
       "url": "https://www.theguardian.com/business/2026/jul/28/mtc-security-uk-ice-trump-manston-asylum-centre",
       "source": "The Guardian Business",
       "category": "商业",
@@ -1098,16 +1108,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-07-24T04:16:29.000Z"
-    },
-    {
-      "id": "4ac71c8e59f6",
-      "title": "Trump imposes fresh tariffs on UK, EU and dozens of other trading partners",
-      "summary": "New tariffs will replace 10% global duty and come after US supreme court declared many of the earlier levies illegal Donald Trump has imposed a fresh round of tariffs on more tha…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T04:03:27.000Z"
     },
     {
       "id": "42a08b35c151",
