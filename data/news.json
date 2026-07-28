@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T22:36:58.160Z",
+  "updatedAt": "2026-07-28T23:35:36.034Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,13 +31,123 @@
   "articles": [
     {
       "id": "9cbfa73706e2",
-      "title": "Australia news live: Allan was subjected to ‘vile sexism’ as premier, Gillard says; former Melbourne gangster sentenced to life in prison in Iraq",
-      "summary": "Former PM says ousted Victorian premier was ‘courageous in combating misogyny’ and was a trailblazer for other women. Follow updates Get our breaking news email , free app or dai…",
+      "title": "Australia news live: Dan Tehan sidesteps questions on Angus Taylor’s links to Icac inquiry; former Melbourne gangster sentenced to life in prison in Iraq",
+      "summary": "Follow updates Get our breaking news email , free app or daily news podcast Specially designed Airbus completes marathon 24-hour flight before joining Qantas fleet A specially mo…",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-28T22:28:09.000Z"
+      "publishedAt": "2026-07-28T23:28:34.000Z"
+    },
+    {
+      "id": "e5d5d55b74c5",
+      "title": "以赛促研，中国车跑出加速度",
+      "summary": "中国品牌汽车在世界赛场屡创佳绩——",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668233.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T23:26:38.000Z"
+    },
+    {
+      "id": "cba713cd5410",
+      "title": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
+      "summary": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US The Federal Communications Commission announced a ban on humanoid robots f…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
+      "source": "The Guardian World",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-28T23:24:15.000Z"
+    },
+    {
+      "id": "a8fc5732c6fa",
+      "title": "就王虹推荐信，北大数院发声",
+      "summary": "网传消息不实！王虹在北大曾获评优秀毕业生，数院多位教师为她留学写推荐信",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668232.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T23:24:00.000Z"
+    },
+    {
+      "id": "4d164b667f84",
+      "title": "“付费内推实习”是在借“求职焦虑”牟利",
+      "summary": "“没有收到过正式录用通知，全程未见公司官方痕迹，我也不确定实习证明的真实性。”近日，北京某高校在读研究生小莫向记者反映，“花钱买的实习经历，却不敢写进简历。”他此前花费8万元通过某中介购买了暑期实习的机会，却发现实习经历太“水”。眼下正值暑期实习旺季，一些打着“内推”旗号的实习中介，利用在读大学生的“实习焦虑”，高价贩卖内推实习机会。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668231.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T23:21:36.000Z"
+    },
+    {
+      "id": "784418d1aa21",
+      "title": "“进货式网购”遇纠纷，能要求三倍赔偿吗",
+      "summary": "大批量网购玩具，用于线下摆摊二次售卖，遇纠纷要退货，主张适用消费者权益保护法规定的“退一赔三”惩罚性赔偿，合理吗？河南省焦作市马村区人民法院审结了一起网购玩具合同纠纷案。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668230.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T23:20:18.000Z"
+    },
+    {
+      "id": "36bcc4d16b28",
+      "title": "美军中央司令部：伊朗发射多枚导弹袭击驻中东美军",
+      "summary": "中新网7月29日电 据美国有线电视新闻网(CNN)报道，当地时间28日，美军中央司令部表示，美国东部时间当日下午5时45分，伊朗伊斯兰革命卫队从伊朗境内发射多枚弹道导弹，“试图对驻中东地区的美军发动突然袭击”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668229.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T23:08:09.000Z"
+    },
+    {
+      "id": "0d97559b05c7",
+      "title": "法国西南部野火重灾区面临高温警报 逾两千消防员救灾",
+      "summary": "中新社巴黎7月28日电 (记者 李洋)法国西南部野火重灾区当地时间28日面临高温橙色警报，目前在重灾区有超过两千名消防员奋力救灾。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668228.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T22:58:26.000Z"
+    },
+    {
+      "id": "898b141e2e3c",
+      "title": "内塔尼亚胡结束与特朗普会晤：两人“最好的对话之一”",
+      "summary": "中新网7月29日电 据美国有线电视新闻网(CNN)报道，当地时间28日，以色列总理内塔尼亚胡在社交媒体上表示，他与美国总统特朗普的会谈是两人“最好的对话之一”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668227.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T22:55:18.000Z"
+    },
+    {
+      "id": "910a5e981c15",
+      "title": "7月29日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/07-29/10668226.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T22:48:11.000Z"
+    },
+    {
+      "id": "9f6dafd8480a",
+      "title": "藤森庆子宣誓就任秘鲁总统",
+      "summary": "中新网7月29日电 据路透社报道，当地时间7月28日，秘鲁当选总统藤森庆子在该国首都利马宣誓就职，任期至2031年7月。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668225.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T22:40:27.000Z"
+    },
+    {
+      "id": "4dd47630c42e",
+      "title": "日本熊本县强震已确认数人死亡 已发生148次余震",
+      "summary": "中新网7月29日电 据日本共同社报道，日本熊本县28日发生7.1级地震，目前已确认有数人死亡。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668224.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T22:30:40.000Z"
     },
     {
       "id": "7af5bfdd78b0",
@@ -360,56 +470,6 @@
       "publishedAt": "2026-07-28T14:09:13.000Z"
     },
     {
-      "id": "30b0f472d27c",
-      "title": "王毅出席全球发展倡议5周年高级别会议",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-28/1199538.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T14:08:36.000Z"
-    },
-    {
-      "id": "adeca773dbb8",
-      "title": "7月28日新闻夜读",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/07-28/10668201.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T14:04:33.000Z"
-    },
-    {
-      "id": "ff830ca05811",
-      "title": "近千件五代十国文物集结杭州 “太平年·天下同宁”展启幕",
-      "summary": "中新网杭州7月28日电(曹丹)7月28日，由浙江省博物馆与华策影视集团共同主办的“太平年·天下同宁”展在浙江杭州启幕，来自全国近百家文博机构的近千件五代十国珍贵文物集结浙江。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-28/10668200.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T14:04:29.000Z"
-    },
-    {
-      "id": "02629fe79990",
-      "title": "西藏上半年融资成本稳居全国低位",
-      "summary": "中新社拉萨7月28日电 (记者 贡桑拉姆)记者28日从西藏自治区官方召开的新闻发布会获悉，2026年上半年西藏自治区金融运行态势向好，信贷总量稳步扩容、融资成本低位下行，金融紧扣高原发展实际深耕科技、绿色、普惠等五大领域，叠加跨境支付、企业融资透明化改革落地。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10668199.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T14:04:01.000Z"
-    },
-    {
-      "id": "061ee13b03ca",
-      "title": "中国官方要求国有文物管理机构提供主动公开、授权使用等服务",
-      "summary": "中新社北京7月28日电 (记者 应妮)中国国家文物局日前出台《国有文物资源数据管理办法》(以下简称《办法》)。在28日的新闻发布会上，国家文物局科技教育司司长罗静指出，《办法》强调国有文物管理机构应面向社会提供主动公开、授权使用等服务，推动文物保护与数字化发展成果更多更公平惠及广大民众。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-28/10668198.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T14:03:25.000Z"
-    },
-    {
       "id": "91ae133ac6bc",
       "title": "Ex-FCC officials warn agency sending ‘chilling message’ with ABC license review",
       "summary": "Ex-officials ask FCC to reject petitions to deny renewal of broadcast licenses for eight stations owned by ABC A group of prominent former Federal Communications Commission (FCC)…",
@@ -418,46 +478,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-28T14:00:05.000Z"
-    },
-    {
-      "id": "c7dc33fc2423",
-      "title": "青海兴海连发4次地震 官方严防次生灾害",
-      "summary": "中新社西宁7月28日电 (李隽)据中国地震台网正式测定，青海省海南藏族自治州兴海县28日7小时内连发4次地震。截至发稿时，地震造成7个乡镇基础设施受损，暂无人员伤亡。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-28/10668195.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:53:34.000Z"
-    },
-    {
-      "id": "cb9805442351",
-      "title": "广西今年上半年打掉走私偷渡团伙445个",
-      "summary": "中新网南宁7月28日电 (杨志雄 黄艳梅)广西壮族自治区官方28日介绍，广西系统推进强边固防、建设平安边关，取得阶段性明显成效。今年上半年，广西打掉走私偷渡犯罪团伙445个，抓获团伙头目501人。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-28/10668194.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:52:16.000Z"
-    },
-    {
-      "id": "9c357d7558be",
-      "title": "当越南姑娘“开”上中国地铁：一次跨越山海的AI之约",
-      "summary": "中新网南宁7月28日电 题：当越南姑娘“开”上中国地铁：一次跨越山海的AI之约",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/07-28/10668191.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:51:52.000Z"
-    },
-    {
-      "id": "646e28c03bbf",
-      "title": "网络名人走进青海互助“零碳乡村”",
-      "summary": "图为参加活动的网络名人在班彦村盘绣园了解手工盘绣的致富路。 中新社记者 张忠苹 摄 图为班彦村党支部书记李生宝（右一）在介绍该村异地搬迁工作。 中新社记者 张忠苹 摄 图为参加活动的网络名人在村史馆听党支部书记李生宝（左一）介绍异地搬迁工作。 中新社记者 张忠苹 摄 图为航拍青海省海东市互助土族自治县班彦村。（无人机照片）中新社记者 张忠苹 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/07-28/10668193.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:51:38.000Z"
     },
     {
       "id": "c7202f772fe8",
@@ -1080,16 +1100,6 @@
       "publishedAt": "2026-07-24T10:57:47.000Z"
     },
     {
-      "id": "918857143f23",
-      "title": "Weather tracker: More than 900 wildfires rage across Canada",
-      "summary": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildf…",
-      "url": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-24T08:11:31.000Z"
-    },
-    {
       "id": "8e24e9852df7",
       "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
       "summary": "美國宣布對60個貿易夥伴課徵10%至12.5%關稅，指其未能有效禁止「強迫勞動」產品進口，涵蓋歐盟、日本、台灣、中國等經濟體，週五（7月24日）生效。",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-21T22:39:00.000Z"
-    },
-    {
-      "id": "cca06e532677",
-      "title": "How AI may drive union-resistant tech workers to the bargaining table",
-      "summary": "Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligence…",
-      "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-21T11:00:44.000Z"
     }
   ]
 }
