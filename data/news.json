@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T14:29:14.141Z",
+  "updatedAt": "2026-07-28T16:19:49.499Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -24,11 +24,161 @@
     },
     {
       "name": "The Guardian Business",
-      "count": 19
+      "count": 20
     }
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "9f2442662df1",
+      "title": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – Europe live",
+      "summary": "Spanish prime minister also says the fires serve as a reminder to plan for the ‘worsening’ climate emergency France and Spain race to contain huge wildfires before fresh heatwave…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T16:15:06.000Z"
+    },
+    {
+      "id": "b9831baf8e3b",
+      "title": "特朗普重申若未与伊朗达成协议将摧毁“镐山”",
+      "summary": "当地时间7月28日，美国总统特朗普在采访中表示，“伊朗位于纳坦兹以南的‘镐山’地下设施并非大问题，但如果没能与伊朗达成协议，将摧毁‘镐山’。美国目前在伊朗问题上处于非常强势的地位”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668215.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T16:04:18.000Z"
+    },
+    {
+      "id": "6bb390cf3ec6",
+      "title": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – live updates",
+      "summary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌6.8 ‌struck ‌the country’s Kumamoto prefecture Kyushu Electric Power said ​48,000 homes had lost power as a result of the late…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T15:58:55.000Z"
+    },
+    {
+      "id": "e12033252144",
+      "title": "新唐山建设50周年：凤凰城涅槃新变",
+      "summary": "中新社河北唐山7月28日电 题：新唐山建设50周年：凤凰城涅槃新变",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-28/10668214.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T15:55:59.000Z"
+    },
+    {
+      "id": "0641349f966a",
+      "title": "东西问丨纪念唐山抗震50周年 读懂唐山何以“唐山”",
+      "summary": "中新网唐山7月28日电 题：纪念唐山抗震50周年 读懂唐山何以“唐山”",
+      "url": "https://www.chinanews.com.cn/dxw/2026/07-28/10668213.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T15:48:29.000Z"
+    },
+    {
+      "id": "5bdab593ee5f",
+      "title": "Japan earthquake injures at least 100 and traps many inside shopping mall",
+      "summary": "Deaths expected as Kumamoto shaken by 6.8-magnitude quake, knocking out power and damaging buildings A 6.8-magnitude earthquake has shaken south Japan, leaving at least 100 peopl…",
+      "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T15:43:42.000Z"
+    },
+    {
+      "id": "c0b6767bf855",
+      "title": "比赛失利后挥拳击打对手 乒乓球运动员曹彦灏被处罚并禁赛1年",
+      "summary": "7月28日晚，江苏省乒乓球运动协会发布情况处罚通报：2026年7月27日下午，在2026年国青国少集训队(第七期)江苏省选拔赛14岁组半决赛比赛中，运动员曹彦灏在比赛失利后，挥拳击打对手，扰乱赛场正常竞赛秩序，造成不良影响。该行为违背了体育精神，损害了江苏省青少年乒乓球运动员队伍良好形象。为严肃赛风赛纪，铸牢青少年运动员规则意识与文明参赛理念，警示教育全…",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-28/10668212.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T15:24:14.000Z"
+    },
+    {
+      "id": "93711ebd1e73",
+      "title": "中国香港队获2026年击剑世锦赛男子花剑团体银牌",
+      "summary": "中新社香港7月28日电 2026年世界击剑锦标赛(简称“击剑世锦赛”)男子花剑团体赛决赛28日在香港亚洲国际博览馆举行。中国香港队以44:45不敌世界排名第一的意大利队，夺得银牌。美国队获得季军。",
+      "url": "https://www.chinanews.com.cn/ty/2026/07-28/10668211.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T15:19:34.000Z"
+    },
+    {
+      "id": "dc044787e136",
+      "title": "商务部：中方敦促土耳其尊重世贸组织专家组裁决",
+      "summary": "中新社北京7月28日电 (记者 尹倩芸)中国商务部条约法律司负责人28日表示，中方敦促土耳其尊重世贸组织专家组裁决，采取切实行动，尽快纠正违规措施。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10668210.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T15:18:27.000Z"
+    },
+    {
+      "id": "fd1fda6e49f6",
+      "title": "中国海军83舰编队圆满结束对文莱友好访问",
+      "summary": "中新社斯里巴加湾7月28日电 中国海军83舰编队28日圆满完成对文莱为期4天的友好访问，从文莱摩拉港码头起航，继续执行远海综合实习访问任务。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-28/10668209.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T15:04:11.000Z"
+    },
+    {
+      "id": "b389d10a5f46",
+      "title": "Guardian Essential poll: Angus Taylor’s approval rating crashes and One Nation support plateaus",
+      "summary": "Survey also shows Australians rounding on the government over its handling of inflation and the cost of living crisis Get our breaking news email , free app or daily news podcast…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/guardian-essential-poll-angus-taylors-approval-rating-crashes-and-one-nation-support-plateaus",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-28T15:00:09.000Z"
+    },
+    {
+      "id": "8ae6aac1246e",
+      "title": "Royal commission into Victorian construction sector could boost Labor’s chances at state election, expert says",
+      "summary": "Commission promised by new premier would be an ‘important signal’ for voters that the government was acting on alleged corruption Get our breaking news email , free app or daily…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/royal-commission-into-victorian-construction-sector-could-boost-labors-chances-at-state-election-expert-says",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T15:00:09.000Z"
+    },
+    {
+      "id": "85b183dcf865",
+      "title": "Anger at Labor as Rex Patrick faces potential six-figure legal fee if he loses Aukus documents battle",
+      "summary": "Australian government insists legal costs should be paid by former senator as FoI fight escalates Get our breaking news email , free app or daily news podcast The government will…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/anger-at-labor-as-rex-patrick-faces-potential-six-figure-legal-fee-if-he-loses-aukus-documents-battle",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T15:00:08.000Z"
+    },
+    {
+      "id": "005bae20cd72",
+      "title": "Angus Taylor has inadvertently taken centre stage in an Icac hearing – and the fallout could be profound",
+      "summary": "If the opposition leader was funding one side of a vicious factional war, it would be hard for many in the party to stomach Get our breaking news email , free app or daily news p…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/angus-taylor-centre-stage-in-icac-hearing-fall-out-could-be-profound-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T15:00:06.000Z"
+    },
+    {
+      "id": "93c01370d7e0",
+      "title": "重庆彭水山体崩塌累计新搜寻确认出30名遇难者",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/07-28/10668208.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-28T14:29:30.000Z"
+    },
     {
       "id": "d60c0c39ca3f",
       "title": "7月23日以来，彭水山体崩塌现场累计新搜寻确认出30名遇难者",
@@ -78,16 +228,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-28T14:08:36.000Z"
-    },
-    {
-      "id": "5bdab593ee5f",
-      "title": "Japan earthquake injures 50 and traps ‘many people’ inside shopping mall",
-      "summary": "Deaths expected as Kumamoto shaken by 6.8-magnitude quake, knocking out power and damaging buildings A 6.8-magnitude earthquake has shaken south Japan, leaving at least 50 people…",
-      "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T14:07:34.000Z"
     },
     {
       "id": "adeca773dbb8",
@@ -140,6 +280,16 @@
       "publishedAt": "2026-07-28T14:01:05.000Z"
     },
     {
+      "id": "91ae133ac6bc",
+      "title": "Ex-FCC officials warn agency sending ‘chilling message’ with ABC license review",
+      "summary": "Ex-officials ask FCC to reject petitions to deny renewal of broadcast licenses for eight stations owned by ABC A group of prominent former Federal Communications Commission (FCC)…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-former-officials-abc-licenses",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-28T14:00:05.000Z"
+    },
+    {
       "id": "e71bf746106d",
       "title": "New evacuation from tourist sites near Bordeaux as France and Spain fight wildfires",
       "summary": "French authorities order evacuation of almost 4,000 people from Lacanau resort amid return of heatwave Europe live – latest updates The evacuation of nearly 4,000 people from tou…",
@@ -148,16 +298,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-28T13:59:35.000Z"
-    },
-    {
-      "id": "9f2442662df1",
-      "title": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – Europe live",
-      "summary": "Spanish prime minister also says the fires serve as a reminder to plan for the ‘worsening’ climate emergency France and Spain race to contain huge wildfires before fresh heatwave…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T13:57:33.000Z"
     },
     {
       "id": "c7dc33fc2423",
@@ -208,16 +348,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-28T13:51:38.000Z"
-    },
-    {
-      "id": "6bb390cf3ec6",
-      "title": "‘Many people’ trapped inside Japanese shopping centre, others missing in paper factory, after earthquake – live updates",
-      "summary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌6.8 ‌struck ‌the country’s Kumamoto prefecture Kyushu Electric Power said ​48,000 homes had lost power as a result of the late…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T13:50:43.000Z"
     },
     {
       "id": "668e8a43c7be",
@@ -300,36 +430,6 @@
       "publishedAt": "2026-07-28T13:48:14.000Z"
     },
     {
-      "id": "3b1d1b6cdd08",
-      "title": "“中国冲击2.0”论调站不住脚",
-      "summary": "“不能说一套、做一套，也不能只允许自己干、不让别人干。”",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10668187.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:46:19.000Z"
-    },
-    {
-      "id": "328b653e474e",
-      "title": "23日以来 彭水山体崩塌现场累计新搜寻确认出30名遇难者",
-      "summary": "7月17日9时许，重庆彭水汉葭街道发生大型山体崩塌灾害。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-28/10668188.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:43:19.000Z"
-    },
-    {
-      "id": "d568ab16d7fc",
-      "title": "VCTCN联赛第二赛段常规赛收官",
-      "summary": "中新网7月28日电 V26无畏巡回长沙站暨2026无畏契约冠军巡回赛CN联赛第二赛段常规赛日前在长沙收官。EDG战队率先晋级上海全球冠军赛，而NOVA、BLG、XLG、TYL四支队伍入围第二赛段季后赛正赛。",
-      "url": "https://www.chinanews.com.cn/ty/2026/07-28/10668185.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:42:23.000Z"
-    },
-    {
       "id": "c7202f772fe8",
       "title": "The great PlayStation blackout – will kids actually have to leave their bedrooms this summer?",
       "summary": "Gamers are angry that Sony will be deleting TV shows and films from their libraries as well as getting rid of physical games. Will a boycott make a difference? Name: PlayStation…",
@@ -348,56 +448,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-28T13:41:25.000Z"
-    },
-    {
-      "id": "0b40b07fd327",
-      "title": "“熊猫健康列车”赴松潘县开展健康医疗服务活动",
-      "summary": "图为成都大学附属医院中医科游爽主治医师为群众做检查。中新社记者 安源 摄 图为成都大学附属医院健康管理中心主任曾红莲主任医师为群众义诊。中新社记者 安源 摄 图为成都大学附属医院主管护师樊春为群众介绍专家情况。中新社记者 安源 摄 图为成都大学附属医院妇科孙宇虹副主任医师为群众义诊。中新社记者 安源 摄 图为群众登上健康列车。中新社记者 安源 摄 图为成…",
-      "url": "https://www.chinanews.com.cn/tp/2026/07-28/10668179.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:36:47.000Z"
-    },
-    {
-      "id": "99c0f641e08c",
-      "title": "让AI有温度 全球首款主动式儿童情感陪伴机器人在杭州发布",
-      "summary": "7月28日，小朋友和陪伴机器人互动。中新社记者 王刚 摄 7月28日，陪伴机器人“胖达”亮相。中新社记者 王刚 摄 7月28日，研发企业代表介绍陪伴机器人的技术性能等。中新社记者 王刚 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/07-28/10668166.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:36:23.000Z"
-    },
-    {
-      "id": "1a4686da5d78",
-      "title": "联阿援助团：阿富汗巴基斯坦边境冲突已致近500名阿富汗平民遇难",
-      "summary": "中新社北京7月28日电 喀布尔消息：当地时间7月28日，联合国阿富汗援助团(联阿援助团)发布报告称，去年10月至今年6月底，巴基斯坦与阿富汗边境冲突已造成阿富汗境内近500名平民死亡，另有1000余人受伤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-28/10668178.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:31:23.000Z"
-    },
-    {
-      "id": "8c0991ec522a",
-      "title": "国家文物局出台《国有文物资源数据管理办法》《革命文物保护工程技术导则（试行）》",
-      "summary": "中新网北京7月28日电 (记者 应妮)国家文物局28日在京召开新闻发布会，介绍出台《国有文物资源数据管理办法》(以下简称《办法》)、《革命文物保护工程技术导则(试行)》(以下简称《技术导则》)等有关情况。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-28/10668173.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:29:13.000Z"
-    },
-    {
-      "id": "cda31e3e98ae",
-      "title": "湖北宜昌：三峡枢纽核心区“空中快递”暖船家",
-      "summary": "中新网宜昌7月28日电 题：湖北宜昌：三峡枢纽核心区“空中快递”暖船家",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-28/10668167.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T13:28:49.000Z"
     },
     {
       "id": "87387381fdc7",
@@ -480,16 +530,6 @@
       "publishedAt": "2026-07-28T10:21:46.000Z"
     },
     {
-      "id": "6179c1518e53",
-      "title": "Ben Carroll announces royal commission into construction sector in first act as new Victorian premier",
-      "summary": "Jacinta Allan steps down from top job before expected spill, saying her deputy has her ‘unqualified support’ Live updates: Jacinta Allan quits as premier of Victoria Who is Ben C…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T10:12:07.000Z"
-    },
-    {
       "id": "a07611be8cf7",
       "title": "Spies in the sky: how worried should we be about the arrival of AI-enabled smart lamp-posts?",
       "summary": "The new breed of camera-equipped streetlights has the potential to fight crime and track down missing persons. Or will it just take Britain one step closer to a surveillance stat…",
@@ -498,16 +538,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-28T10:00:01.000Z"
-    },
-    {
-      "id": "69cd5ba3ce1e",
-      "title": "After 48 hours of acrimony, Ben Carroll’s U-turn for the ages needs to set Victoria on a new course",
-      "summary": "The newly minted premier must convince voters that he doesn’t represent more of the same Will a new premier save Victorian Labor? - Full Story podcast Who is Ben Carroll? Ben Car…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/28/ben-carroll-premier-u-turn-victoria-labor",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T09:01:17.000Z"
     },
     {
       "id": "843e940db6f9",
@@ -550,16 +580,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     },
     {
-      "id": "c3d069df2d5f",
-      "title": "New Victorian premier Ben Carroll says ‘I will do things differently’ – as it happened",
-      "summary": "This blog is now closed Jacinta Allan resigns as Victorian premier before leadership challenge by Ben Carroll Who is Ben Carroll? Get our breaking news email , free app or daily…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T07:53:39.000Z"
-    },
-    {
       "id": "22671778a6d5",
       "title": "自然災害頻傳，中國面臨新挑戰——AI偽造視頻",
       "summary": "過去幾個月發生的暴風雨和洪水事件導致社群媒體上充斥著假影片。",
@@ -568,16 +588,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-07-28T07:32:39.000Z"
-    },
-    {
-      "id": "89d68366fac6",
-      "title": "‘Shake down Angus’: Taylor named as potential donor to NSW Liberal ‘Reformers’ being investigated by Icac",
-      "summary": "Federal opposition leader, who is not accused of wrongdoing, says he won’t provide ‘running commentary on matters before commission’ Follow our Australia news live blog for lates…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/28/icac-nsw-liberals-reformers-morrison-perrottet-woke-alleged-payments-angus-taylor-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T05:47:10.000Z"
     },
     {
       "id": "97f254d5513c",
@@ -1218,16 +1228,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-21T11:00:44.000Z"
-    },
-    {
-      "id": "5edc277a1dd4",
-      "title": "Social Darwinists to tech bros: tracing the long fight against equality in US",
-      "summary": "Historian Kim Phillips-Fein’s book Country of Lords looks back at the many men who have tried to fight against egalitarianism, from John Adams to Peter Thiel The historian Kim Ph…",
-      "url": "https://www.theguardian.com/books/2026/jul/21/kim-phillips-fein-country-of-lords",
-      "source": "The Guardian Business",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-21T10:00:43.000Z"
     }
   ]
 }
