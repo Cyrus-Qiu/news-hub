@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T19:46:11.778Z",
+  "updatedAt": "2026-07-28T21:16:52.627Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,26 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "9cbfa73706e2",
+      "title": "Australia news live: Jacinta Allan was subjected to ‘vile sexism’ as premier, Julia Gillard says",
+      "summary": "Former PM says ousted Victorian premier was ‘courageous in combating misogyny’ and was a trailblazer for other women. Follow updates Get our breaking news email , free app or dai…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T20:53:58.000Z"
+    },
+    {
+      "id": "396fe41a7469",
+      "title": "Apple becomes second $5tn company as investors flee AI stocks",
+      "summary": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-off Apple has become only the second company to pass the $…",
+      "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-28T20:33:14.000Z"
+    },
+    {
       "id": "6bb390cf3ec6",
       "title": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – as it happened",
       "summary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌6.8 ‌struck ‌the country’s Kumamoto prefecture Kyushu Electric Power said ​48,000 homes had lost power as a result of the late…",
@@ -58,16 +78,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-28T17:18:17.000Z"
-    },
-    {
-      "id": "396fe41a7469",
-      "title": "Apple becomes second ever $5tn company as investors flee AI stocks",
-      "summary": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-off Apple has become only the second company to pass the $…",
-      "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-28T16:51:56.000Z"
     },
     {
       "id": "0dca99a4792a",
@@ -338,16 +348,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-28T14:03:25.000Z"
-    },
-    {
-      "id": "1db923bfe07c",
-      "title": "Banks charged mortgage holders $55m in extra interest after offset account errors, Asic finds",
-      "summary": "Australian banks ‘not getting the basics right’, regulator says after review of more than 200,000 home loans Get our breaking news email , free app or daily news podcast Asic has…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/banks-charged-mortgage-holders-55m-in-extra-interest-after-offset-account-errors-asic-finds",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T14:01:05.000Z"
     },
     {
       "id": "91ae133ac6bc",
