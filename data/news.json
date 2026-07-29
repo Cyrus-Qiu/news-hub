@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T01:04:33.014Z",
+  "updatedAt": "2026-07-29T04:23:36.819Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,74 +30,404 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "ed54f037caa3",
-      "title": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
-      "summary": "有记者问：美东时间7月23日，美国防部更新公布“从事问题活动的外国科研机构清单”(1286清单)，对中方部分科研机构实施列单制裁。请问商务部对此有何评论？",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668260.shtml",
+      "id": "9982fea10019",
+      "title": "“燕子”飞出大山",
+      "summary": "中新网宁夏闽宁镇7月29日电 题：“燕子”飞出大山",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668429.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T01:03:04.000Z"
+      "publishedAt": "2026-07-29T04:12:36.000Z"
     },
     {
-      "id": "4cc30e3f4a34",
-      "title": "超90%诈骗藏在App等网络工具里 硬核反诈有新招",
-      "summary": "记者从信息通信行业反诈中心了解到，近年来，在电话、短信等通信渠道持续整治下，诈骗活动正在向互联网领域转移蔓延。工业和信息化部将深化App、云服务、移动智能终端等涉诈风险防范，推动建设全国一体化反诈技防能力。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668259.shtml",
+      "id": "05393524fd60",
+      "title": "《孙子兵法》竹简，是如何被发现的？",
+      "summary": "中新社记者 赵晓",
+      "url": "https://www.chinanews.com.cn/dxw/2026/07-29/10668458.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T01:01:36.000Z"
+      "publishedAt": "2026-07-29T04:11:00.000Z"
     },
     {
       "id": "9cbfa73706e2",
-      "title": "Australia news live: Angus Taylor insists he made no payments to conservative Liberal group amid Icac investigation",
+      "title": "Australia news live: Icac hears of ‘shit sheet’ on former NSW Liberal minister’s alleged affair; police treating mother and child’s deaths as murder-suicide",
       "summary": "Follow updates Get our breaking news email , free app or daily news podcast Specially designed Airbus completes marathon 24-hour flight before joining Qantas fleet A specially mo…",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-29T00:56:35.000Z"
+      "publishedAt": "2026-07-29T04:09:18.000Z"
     },
     {
-      "id": "488acab5a16d",
-      "title": "喝水2升为何还是补水不足致肾损伤？夏季补水不只是补白开水",
-      "summary": "据媒体报道，近期，长沙一外卖骑手顶着烈日工作，每天喝足2升白开水反而喝出急性肾损伤。为何已经补足水了，仍然肾损伤？南京市第二医院肾内科副主任医师江春玲指出，盛夏大量出汗时，身体流失的不仅仅是水分，还有关键电解质，因此补水方式切勿单一。",
-      "url": "https://www.chinanews.com.cn/life/2026/07-29/10668258.shtml",
+      "id": "f1b214a708f6",
+      "title": "日本熊本縣發生6.8級地震，這是目前已知的情況",
+      "summary": "日本九州島發生強烈地震，目前災情嚴重。以下是我們目前所了解的情況。",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-29T04:06:00.000Z"
+    },
+    {
+      "id": "0038ded8f449",
+      "title": "国台办回应台方与美菲谴责大陆伤人",
+      "summary": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：中菲近日在仁爱礁爆发冲突，台湾方面与美、菲同声谴责中方使用武力伤人，不过中菲外交部长22日在马尼拉举行会谈时，菲律宾外长重申奉行“一中政策”。请问对此有何评论？如何看待这一台菲关系？",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668456.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T00:53:47.000Z"
+      "publishedAt": "2026-07-29T04:04:50.000Z"
     },
     {
-      "id": "f1a29c58b9b1",
-      "title": "One Nation faces being struck off in Queensland after failing to file audited financial statements",
-      "summary": "Breach exposes Pauline Hanson to possible fines as party given deadline to comply by 18 August Follow our Australia news live blog for latest updates Get our breaking news email…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/one-nation-faces-being-struck-off-in-queensland-after-failing-to-file-audited-financial-statements",
+      "id": "0acdf0778c3e",
+      "title": "斯洛伐克总统访华：赓续传统友谊 共拓合作新局",
+      "summary": "中新网7月29日电 应国家主席习近平邀请，斯洛伐克总统佩列格里尼将于7月27日至29日对中国进行国事访问。这是佩列格里尼总统就任以来首次访华。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668421.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T04:00:53.000Z"
+    },
+    {
+      "id": "52cb5b900062",
+      "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
+      "summary": "‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights Network Flawed and racialise…",
+      "url": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-29T04:00:22.000Z"
+    },
+    {
+      "id": "ffcd5a45acbd",
+      "title": "尼日利亚中部一村庄遇袭造成14人死亡",
+      "summary": "中新网北京7月29日电 阿布贾消息：尼日利亚地方官员当地时间28日说，该国中部贝努埃州一座村庄当天早些时候遭武装人员袭击，造成至少14人死亡、多人受伤。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668329.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:58:41.000Z"
+    },
+    {
+      "id": "c346527f6536",
+      "title": "中国医疗队在阿尔及利亚内陆开展急救培训和公益义诊",
+      "summary": "中新网约翰内斯堡7月29日电 中国第29批援阿尔及利亚医疗队地亚雷特分队近日在阿内陆地区布萨达省，采用中法、中阿双语为当地居民和中企员工开展常见病讲座、急救培训及公益义诊活动。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668328.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:58:03.000Z"
+    },
+    {
+      "id": "cd3037637b14",
+      "title": "青海兴海连发三次5级以上地震 周边水电站运行平稳",
+      "summary": "中新网西宁7月29日电 (记者 孙睿)中新网记者28日晚从国家电投集团黄河上游水电开发有限责任公司(简称“黄河公司”)获悉，截至目前，青海省海南州兴海县连发三次5.0级及以上地震，龙羊峡、拉西瓦、羊曲、班多等黄河干流重点水电站均出现震感，黄河公司紧急全域排查，周边电站、新能源场站设备运行正常，无人员伤亡、设施损毁，电力供应稳定。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668436.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:50:24.000Z"
+    },
+    {
+      "id": "fb121adc083f",
+      "title": "国台办回应陆委会称两岸签约会作秀",
+      "summary": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：今年海峡论坛期间，国台办举办了十项促进两岸交流合作的政策措施对接签约会，台湾5组农渔团体签了订单。台陆委会副主委梁文杰近日称，经过调查了解，所签合约没有约定具体采购日程与数量，签约会就是“作秀”。请问对此有何评论？会否将采购意向书转化为正式合约？能否介绍相关订单的采购规模与进度？",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668438.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:50:12.000Z"
+    },
+    {
+      "id": "6b8854b0fcfb",
+      "title": "今年前五个月 我国知识产权使用费出口额达455亿元",
+      "summary": "中新网7月29日电 国务院新闻办公室7月29日举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期知识产权保护和运用有关情况。国家知识产权局新闻发言人、副局长芮文彪表示，我国知识产权国际竞争力显著加强。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668432.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:49:26.000Z"
+    },
+    {
+      "id": "34ea9b07497e",
+      "title": "截至6月底 我国新一代信息技术领域有效发明专利占总量16.5%",
+      "summary": "中新网7月29日电 国务院新闻办公室7月29日举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期知识产权保护和运用有关情况。国家知识产权局新闻发言人、副局长芮文彪表示，我国重点领域创新动能不断增强。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668399.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:47:08.000Z"
+    },
+    {
+      "id": "05587892e77f",
+      "title": "国台办引用乡愁诗句谈电影《回家之路》",
+      "summary": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近日改编自高雄里长刘德文护送超过400名赴台老兵骨灰归乡真实经历的电影《回家之路》发布预告片，编导、演员阵容来自两岸暨香港，有台湾舆论认为涉及统战。请问发言人对此有何评论？电影中讲述的是“回家”的故事，目前两岸官方协商机制停摆，请问大陆方面认为应该如何化解包括老兵归乡等人道协助的交流…",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668430.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:43:32.000Z"
+    },
+    {
+      "id": "298618daed1e",
+      "title": "国台办称根本不存在所谓“台海中线”",
+      "summary": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：日前，解放军1架直升机伴随无人机跨越“台海中线”，引发台湾与国际社会关切，近期大陆海警船密集出现在台湾东部海域，从西侧的“台海中线”、金马水域，到上个月推进到东部海域，大陆方面表示这是针对“日菲私自划界”宣示海洋主权。请问大陆方面如何看待外界认为大陆是试图以“切香肠”的方式进行环台海…",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668425.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:41:22.000Z"
+    },
+    {
+      "id": "a3697d191955",
+      "title": "国台办：民进党当局恶意限缩台湾特定民众群体来大陆探亲范围 不得人心",
+      "summary": "中新网7月29日电 国务院台办7月29日举行例行新闻发布会。会上，有记者提问：台防务部门近日修正“从事防务事务现职及退离职人员申请进入大陆地区作业规定”，现役军职、文职等人员申请赴大陆探亲、探病或奔丧的亲等，由四亲等内改为三亲等内。请问对此有何评论？",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668387.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:38:20.000Z"
+    },
+    {
+      "id": "eec162bd7732",
+      "title": "US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq",
+      "summary": "Oil price spikes after flare-up of fighting and claimed Iranian attacks on three tankers in strait of Hormuz The US military said it knocked down an Iranian missile barrage and w…",
+      "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-29T03:36:14.000Z"
+    },
+    {
+      "id": "6933f23c2047",
+      "title": "云南勐腊通报教师教育不当行为：已对涉事教师记过处分",
+      "summary": "中新网7月29日电 据“勐腊教育”微信公众号消息，云南勐腊县教育体育局7月29日发布情况通报称，近日媒体关注该县第二中学教师教育不当行为，经核查，该行为发生于5月27日，基本属实。勐腊县教育体育局已对涉事教师记过处分，并进行全县通报，责令学校全面整改。同时，勐腊县教育体育局成立专班，举一反三排查全县学校及教师管理漏洞，推动系统整改。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668396.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:35:10.000Z"
+    },
+    {
+      "id": "ce46736f535b",
+      "title": "直击日本熊本震后景象 道路损毁建筑物倒塌",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-29/1199583.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:34:50.000Z"
+    },
+    {
+      "id": "bc56a83aaf22",
+      "title": "截至6月底 我国高价值发明专利拥有量达236万件",
+      "summary": "中新网7月29日电 国务院新闻办公室7月29日举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期知识产权保护和运用有关情况。国家知识产权局新闻发言人、副局长芮文彪表示，我国知识产权创造质量稳步提升。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668391.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:27:01.000Z"
+    },
+    {
+      "id": "d7fcd803d2de",
+      "title": "第四届中国野生动物摄影大展在青海玉树开幕",
+      "summary": "图为游客参观摄影展。中新社记者 马铭言 摄 图为游客参观摄影展。中新社记者 马铭言 摄 图为游客参观摄影展。中新社记者 马铭言 摄 图为游客参观摄影展。中新社记者 马铭言 摄 图为游客参观摄影展。中新社记者 马铭言 摄 图为游客参观摄影展。中新社记者 马铭言 摄 图为游客参观摄影展。中新社记者 马铭言 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/07-29/10668383.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:25:41.000Z"
+    },
+    {
+      "id": "3ca65dec1608",
+      "title": "多国媒体记者聚焦云南保山 探寻“国宝”永子围棋制作技艺",
+      "summary": "图为光照下的永子黑子如同一枚碧绿的翡翠。 中新社记者 刘冉阳 摄 图为工作人员展示永子围棋制作过程。 中新社记者 刘冉阳 摄 图为孟加拉国记者（左）采访永子第十二代传人、国家级非物质文化遗产代表性传承人李国伟（中）。 中新社记者 刘冉阳 摄 图为外媒记者观看永子围棋制作过程。 中新社记者 刘冉阳 摄 图为多国媒体记者在永子文化园参观。 中新社记者 刘冉阳 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/07-29/10668386.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:23:13.000Z"
+    },
+    {
+      "id": "3a1a3bb19672",
+      "title": "“中国经济圆桌会”聚焦2026年中国经济半年报",
+      "summary": "近日，2026年中国经济半年报公布——上半年，国内生产总值(GDP)69.6万亿元，同比增长4.7%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668400.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:22:43.000Z"
+    },
+    {
+      "id": "b0a870725c83",
+      "title": "数十人受伤、近万人避难、数万户停水停电 日本熊本地震最新消息",
+      "summary": "中新网7月29日电 综合日媒报道，日本内阁官房长官木原稔在记者会上表示，截至当地时间29日上午8时30分，熊本县地震已造成7人重伤，29人轻伤。日本首相高市早苗此前表示，地震已造成13人死亡。日本气象厅提醒，未来一周内，熊本县可能再次发生强震。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668397.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:22:29.000Z"
+    },
+    {
+      "id": "ff2ca147068b",
+      "title": "1440.5亿 ！上半年钦州港口岸进出口再创新高",
+      "summary": "记者从钦州港海关获悉，今年上半年，钦州港口岸进出口总值1440.5亿元、同比增长32.8%，进出口规模创历史同期新高，进出口规模稳居广西沿海口岸首位，口岸进出口双向增长、态势良好，西部陆海新通道门户枢纽优势进一步显现。其中，进口897.9亿元、同比增长36%，出口542.5亿元、同比增长27.8%。各月进出口值均保持两位数增长，延续了开年以来的良好增长态势。",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/07-29/10668394.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:20:37.000Z"
+    },
+    {
+      "id": "d4833da657fb",
+      "title": "Queensland and NT reject Labor’s push to ensure that power-hungry AI datacentres use renewable energy",
+      "summary": "Federal-state stoush comes as rating agency warns that electricity bills could skyrocket Follow our Australia news live blog for latest updates Get our breaking news email , free…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy",
+      "source": "The Guardian World",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-29T03:19:17.000Z"
+    },
+    {
+      "id": "878379c3fd21",
+      "title": "国台办回应台民众失联未能处理言论",
+      "summary": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近日，海基会召开背景说明会称，两岸两会联系机制停摆，台湾民众赴陆失联情况未能循原有制度处理，问题本质在于中国大陆未能确保台湾民众在陆的人身安全，遗憾大陆以“九二共识”等政治前提作为两会联系机制恢复前提，“九二共识不是台湾人民的共识”。请问对此有何评论？",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668395.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:18:53.000Z"
+    },
+    {
+      "id": "8534b2f6a949",
+      "title": "今年上半年我国共授权发明专利45.3万件",
+      "summary": "中新网7月29日电 国务院新闻办公室7月29日举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期知识产权保护和运用有关情况。国家知识产权局新闻发言人、副局长芮文彪表示，今年上半年共授权发明专利45.3万件，核准注册商标205.5万件，认定地理标志产品64个，核准地理标志作为集体商标、证明商标注册8件，集成电路布图设计登记发证5061件，新批…",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668356.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:18:35.000Z"
+    },
+    {
+      "id": "e86f48d0417c",
+      "title": "中国国产大型客机C919高原型首架机完成首飞",
+      "summary": "中新网北京7月29日电 (记者 孙自法)记者7月29日从中国商用飞机有限责任公司(中国商飞)获悉，国产大型客机C919高原型首架机当天在上海浦东国际机场开展首次飞行试验，空中飞行1小时59分钟，完成全部预定试飞科目，标志着C919飞机系列化发展迈出重要一步。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668382.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:16:27.000Z"
+    },
+    {
+      "id": "205563382f03",
+      "title": "如何确定台风路径走向？中国团队研发AI-物理集合预报系统实现科学判断",
+      "summary": "中新网北京7月29日电 (记者 孙自法)每到台风季，台风登陆及其影响路径预报的准确性，不仅关乎个人出行、渔船出海、学校上课，更直接关系到国家层面的防灾部署和应急响应，因此备受关注。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668384.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:16:03.000Z"
+    },
+    {
+      "id": "5dc37c2da8da",
+      "title": "云南首次通过地方性法规保护野生植物",
+      "summary": "中新网昆明7月29日电 (罗婕)28日，云南省十四届人大常委会第二十四次会议表决通过《云南省野生植物保护条例》(以下简称《条例》)。这是该省首次就野生植物保护制定专门地方性法规。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668381.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:15:25.000Z"
+    },
+    {
+      "id": "f0b7764125e3",
+      "title": "7·29话虎：从“濒危”到“频现”，中国护虎实践作答",
+      "summary": "中新网长春7月29日电 题：7·29话虎：从“濒危”到“频现”，中国护虎实践作答",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668380.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:14:56.000Z"
+    },
+    {
+      "id": "d2c1808e930b",
+      "title": "国台办批民进党炒作大陆跨境镇压",
+      "summary": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近日，台外事部门负责人林佳龙称，为应对大陆“跨境镇压”已制定标准作业程序(SOP)，台湾民众在外国遇到“胁迫情形”，可与台驻外机构联络，台将与各国持续沟通以共同应处。请问对此有何评论？",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668389.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:14:42.000Z"
+    },
+    {
+      "id": "187ed5c13a4a",
+      "title": "“十五五”期间单位国内生产总值二氧化碳排放将降低17%",
+      "summary": "生态环境部会同国家发展改革委等18个部门今天(29日)联合发布《国家应对气候变化“十五五”规划》，系统部署“十五五”时期应对气候变化的目标任务，为今后五年应对气候变化工作提供清晰指引。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668388.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:12:36.000Z"
+    },
+    {
+      "id": "35d7f50d2127",
+      "title": "中央宣传部授予王戟同志“时代楷模”称号",
+      "summary": "新华社北京7月29日电 日前，中央宣传部向全社会宣传发布王戟同志的先进事迹，授予他“时代楷模”称号。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668385.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T03:09:52.000Z"
+    },
+    {
+      "id": "49656b9ad6b5",
+      "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
+      "summary": "Former leader shows support for new Victorian premier while paying tribute to Jacinta Allan Follow our Australia news live blog for latest updates Get our breaking news email , f…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-29T00:52:34.000Z"
+      "publishedAt": "2026-07-29T02:48:11.000Z"
+    },
+    {
+      "id": "8e9a1fa0b2e0",
+      "title": "‘Dodged a bullet’: inflation eases to 3.8%, reducing chances of interest rate rise for Australia’s mortgage holders",
+      "summary": "ABS data shows inflation still too high but tracking lower than anticipated Australian mortgage-holders have “dodged a bullet’, with the Reserve Bank now less likely to hike rate…",
+      "url": "https://www.theguardian.com/business/2026/jul/29/cpi-rate-inflation-rba-reserve-bank-australia-interest-rates",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-29T02:45:51.000Z"
+    },
+    {
+      "id": "276d8d60b5f4",
+      "title": "‘Prioritising profit’: Australians regularly prescribed medicinal cannabis with very high THC levels",
+      "summary": "Exclusive: Of more than 1,000 medicinal cannabis products available, only two have been evaluated by the drug regulator Follow our Australia news live blog for latest updates Get…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/cannabis-prescription-australia-doctors",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T02:45:20.000Z"
     },
     {
       "id": "aa7b820e8545",
-      "title": "Japan earthquake death toll rises as rescue teams search for missing amid aftershocks",
-      "summary": "Military mobilises thousands of personnel after quake on southern Kyushu island that registered a maximum 7 on the Japanese shindo intensity scale At least five people have been…",
+      "title": "‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing",
+      "summary": "Military mobilises thousands of personnel after quake on southern Kyushu island that registered a maximum 7 on the Japanese shindo intensity scale Earthquake rocks southern Japan…",
       "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-29T00:50:05.000Z"
+      "publishedAt": "2026-07-29T02:40:23.000Z"
     },
     {
-      "id": "a85607b5a314",
-      "title": "（活力中国调研行）杭州光机所：助力科学家创业的科创孵化器",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-29/1199546.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
+      "id": "890fe6eaab3e",
+      "title": "什麼是「火雲」? 為何會使野火更致命 ?",
+      "summary": "嚴重的野火可能會產生火積雲——美國太空總署稱之為「噴火的雲龍」。",
+      "url": "https://www.bbc.com/zhongwen/articles/ce3q99dj835o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
       "language": "zh",
-      "publishedAt": "2026-07-29T00:48:54.000Z"
+      "publishedAt": "2026-07-29T01:24:40.000Z"
     },
     {
       "id": "ca76e701bccd",
@@ -110,76 +440,6 @@
       "publishedAt": "2026-07-29T00:48:07.000Z"
     },
     {
-      "id": "73e01c98adcc",
-      "title": "比赛失利后挥拳击打对手 乒乓球运动员曹彦灏被处罚并禁赛1年",
-      "summary": "中新网7月29日电 据“江苏省乒乓球运动协会”微信公众号消息，7月28日晚，江苏省乒乓球运动协会发布《关于对运动员曹彦灏违反赛风赛纪问题的处罚通报》。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668255.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T00:47:35.000Z"
-    },
-    {
-      "id": "4ef91e123bc4",
-      "title": "北京正阳门城楼时隔六年重新开放 北京中轴线再添观赏视角",
-      "summary": "经过长达六年的系统性保护修缮与整治提升，位于北京中轴线上的正阳门城楼近日恢复向社会开放。在此之前，正阳门箭楼已于2024年12月率先开放，而这次城楼的开放，意味着正阳门终于以完整的姿态，回到了大家的视野之中。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668254.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T00:37:54.000Z"
-    },
-    {
-      "id": "9ed55b42bf39",
-      "title": "喝绿豆汤喝出脑出血？专家：不是汤“毒”，是喝法错了",
-      "summary": "高温预警连发",
-      "url": "https://www.chinanews.com.cn/life/2026/07-29/10668253.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T00:35:50.000Z"
-    },
-    {
-      "id": "834474b416ff",
-      "title": "华中华南四川盆地等地有较强降水 黑龙江等地多强对流天气",
-      "summary": "中新网7月29日电 据中央气象台网站消息，昨日，广东、湖南、湖北、河南、山东、黑龙江等地部分地区出现大到暴雨或大暴雨。预计未来三天，广东、河南、湖北、四川、云南、黑龙江、内蒙古等地有较强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝等；东北地区、内蒙古东北部等地多强对流天气，关注对交通、城市运行、户外活动等的不利影响。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668245.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T00:33:10.000Z"
-    },
-    {
-      "id": "eb4b25c62413",
-      "title": "代写代发SCI论文？骗子诈骗3名被害人近40万元",
-      "summary": "签订“学术服务协议书”，称可联系机构发表论文，虚构论文录用通知骗取钱款——",
-      "url": "https://www.chinanews.com.cn/fz/2026/07-29/10668248.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T00:28:36.000Z"
-    },
-    {
-      "id": "34100b9e4c33",
-      "title": "日本熊本一大型商场强震后发生爆炸 部分建筑坍塌",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-29/1199542.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T00:27:50.000Z"
-    },
-    {
-      "id": "c7e9dbe86da9",
-      "title": "C919高原型首飞",
-      "summary": "7月29日7时59分，C919高原型首架机在上海浦东国际机场第四跑道起飞，开展首次飞行试验。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668246.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T00:22:54.000Z"
-    },
-    {
       "id": "4c2e5a26efad",
       "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
       "summary": "從重慶到紐約、柏林和悉尼，政治投影近年成為部分海外倡議團體表達政治訴求的新方式。",
@@ -190,136 +450,6 @@
       "publishedAt": "2026-07-29T00:22:01.000Z"
     },
     {
-      "id": "eec162bd7732",
-      "title": "US says it intercepted ‘surprise’ Iran missile attack on its forces in Middle East after lull in fighting",
-      "summary": "Fighting was paused after nearly two weeks of nightly strikes by the US on Iran, as both sides battled for control of the strait of Hormuz Iran launched multiple ballistic missil…",
-      "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T00:12:56.000Z"
-    },
-    {
-      "id": "75c80f530bc3",
-      "title": "老歌翻唱火爆全网 AI翻唱新技术引发版权保护之思",
-      "summary": "老歌翻唱火爆全网 大概率是机器生成",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668244.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:57:02.000Z"
-    },
-    {
-      "id": "6b96679115ed",
-      "title": "习言道｜走进茶园，习近平强调做好这篇“大文章”",
-      "summary": "中新网7月29日电 题：走进茶园，习近平强调做好这篇“大文章”",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668242.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:56:14.000Z"
-    },
-    {
-      "id": "0d3b8d4efcb2",
-      "title": "16家烤肉店11家收炭火费 烤肉店强制收取附加费合理吗",
-      "summary": "16家烤肉店中，11家入座就收炭火费",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668243.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:53:25.000Z"
-    },
-    {
-      "id": "7897a680ff1f",
-      "title": "私占车位“小恶”难治困局亟待破解 专家建议",
-      "summary": "私占车位“小恶”难治困局亟待破解",
-      "url": "https://www.chinanews.com.cn/fz/2026/07-29/10668241.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:49:15.000Z"
-    },
-    {
-      "id": "338d74971b17",
-      "title": "艺术生的毕业作品，花了多少钱",
-      "summary": "拍一部毕业短片，20多个人、4天，成本1.2万元。这是读广播电视编导专业的学生张然想尽办法省出来的价格：主演是外甥，场地是姥姥家的“旧房子”，交通工具是托家里关系借来的一辆大车。如果是商业剧组，总体预算“要10万元”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668240.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:47:29.000Z"
-    },
-    {
-      "id": "928de571d18a",
-      "title": "日本熊本县一商场爆炸已致2死多伤 或因燃气泄漏引发",
-      "summary": "中新网7月29日电 据日本广播协会(NHK)报道，日本熊本县嘉岛町一大型商场强震后发生爆炸，经搜救已找到8名被困人员，其中两人死亡、5人受伤，另有1人处于心肺停止状态。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668239.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:44:41.000Z"
-    },
-    {
-      "id": "0bca7b9196d9",
-      "title": "暑假里“安全”不能放假 这些避险知识点请切记！",
-      "summary": "暑假里“安全”不能放假——",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668238.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:39:09.000Z"
-    },
-    {
-      "id": "04885b389803",
-      "title": "付费内推乱象：花八万元买的实习，为何无法写进简历",
-      "summary": "花八万元买的实习，为何无法写进简历",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668237.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:39:09.000Z"
-    },
-    {
-      "id": "07e97b7211da",
-      "title": "人这一辈子，一定要去一趟昆仑山！",
-      "summary": "山在眼前，天地无言",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668236.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:36:35.000Z"
-    },
-    {
-      "id": "85e57b6a5694",
-      "title": "多国设槛，未成年人社交媒体准入年龄该定几岁",
-      "summary": "7月24日，欧盟委员会向TikTok通报初步调查结果：该平台未能按照欧盟《数字服务法》的要求，为未成年人提供足够安全的账户环境。欧盟委员会特别指出，未成年人可以把账户设为公开，16岁至17岁用户发布的内容甚至可能经“为你推荐”信息流推送给任何人。欧盟要求，保护未成年人不能依赖用户主动选择，安全设置应当成为默认选项。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668235.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:33:02.000Z"
-    },
-    {
-      "id": "8e54da6dd481",
-      "title": "全球发展倡议5周年高级别会议在北京举行",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-29/1199539.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:31:42.000Z"
-    },
-    {
-      "id": "e5d5d55b74c5",
-      "title": "以赛促研，中国车跑出加速度",
-      "summary": "中国品牌汽车在世界赛场屡创佳绩——",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668233.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:26:38.000Z"
-    },
-    {
       "id": "cba713cd5410",
       "title": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
       "summary": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US The Federal Communications Commission announced a ban on humanoid robots f…",
@@ -328,76 +458,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-28T23:24:15.000Z"
-    },
-    {
-      "id": "a8fc5732c6fa",
-      "title": "就王虹推荐信，北大数院发声",
-      "summary": "网传消息不实！王虹在北大曾获评优秀毕业生，数院多位教师为她留学写推荐信",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668232.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:24:00.000Z"
-    },
-    {
-      "id": "4d164b667f84",
-      "title": "“付费内推实习”是在借“求职焦虑”牟利",
-      "summary": "“没有收到过正式录用通知，全程未见公司官方痕迹，我也不确定实习证明的真实性。”近日，北京某高校在读研究生小莫向记者反映，“花钱买的实习经历，却不敢写进简历。”他此前花费8万元通过某中介购买了暑期实习的机会，却发现实习经历太“水”。眼下正值暑期实习旺季，一些打着“内推”旗号的实习中介，利用在读大学生的“实习焦虑”，高价贩卖内推实习机会。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668231.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:21:36.000Z"
-    },
-    {
-      "id": "784418d1aa21",
-      "title": "“进货式网购”遇纠纷，能要求三倍赔偿吗",
-      "summary": "大批量网购玩具，用于线下摆摊二次售卖，遇纠纷要退货，主张适用消费者权益保护法规定的“退一赔三”惩罚性赔偿，合理吗？河南省焦作市马村区人民法院审结了一起网购玩具合同纠纷案。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668230.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:20:18.000Z"
-    },
-    {
-      "id": "36bcc4d16b28",
-      "title": "美军中央司令部：伊朗发射多枚导弹袭击驻中东美军",
-      "summary": "中新网7月29日电 据美国有线电视新闻网(CNN)报道，当地时间28日，美军中央司令部表示，美国东部时间当日下午5时45分，伊朗伊斯兰革命卫队从伊朗境内发射多枚弹道导弹，“试图对驻中东地区的美军发动突然袭击”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668229.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T23:08:09.000Z"
-    },
-    {
-      "id": "0d97559b05c7",
-      "title": "法国西南部野火重灾区面临高温警报 逾两千消防员救灾",
-      "summary": "中新社巴黎7月28日电 (记者 李洋)法国西南部野火重灾区当地时间28日面临高温橙色警报，目前在重灾区有超过两千名消防员奋力救灾。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668228.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T22:58:26.000Z"
-    },
-    {
-      "id": "898b141e2e3c",
-      "title": "内塔尼亚胡结束与特朗普会晤：两人“最好的对话之一”",
-      "summary": "中新网7月29日电 据美国有线电视新闻网(CNN)报道，当地时间28日，以色列总理内塔尼亚胡在社交媒体上表示，他与美国总统特朗普的会谈是两人“最好的对话之一”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668227.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T22:55:18.000Z"
-    },
-    {
-      "id": "910a5e981c15",
-      "title": "7月29日新闻早报",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/07-29/10668226.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-28T22:48:11.000Z"
     },
     {
       "id": "5bdab593ee5f",
@@ -480,34 +540,14 @@
       "publishedAt": "2026-07-28T16:15:06.000Z"
     },
     {
-      "id": "b389d10a5f46",
-      "title": "Guardian Essential poll: Angus Taylor’s approval rating crashes and One Nation support plateaus",
-      "summary": "Survey also shows Australians rounding on the government over its handling of inflation and the cost-of-living crisis Follow our Australia news live blog for latest updates Get o…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/guardian-essential-poll-angus-taylors-approval-rating-crashes-and-one-nation-support-plateaus",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-28T15:00:09.000Z"
-    },
-    {
-      "id": "8ae6aac1246e",
-      "title": "Royal commission into Victorian construction sector could boost Labor’s chances at state election, expert says",
-      "summary": "Commission promised by new premier would be an ‘important signal’ for voters that the government was acting on alleged corruption Follow our Australia news live blog for latest u…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/royal-commission-into-victorian-construction-sector-could-boost-labors-chances-at-state-election-expert-says",
+      "id": "8864834146b2",
+      "title": "Qantas plane flies for more than 24 hours in record-breaking flight",
+      "summary": "The A350 landed in Toulouse 24 hours and 24 minutes after leaving Melbourne as airline plans direct London service Follow our Australia news live blog for latest updates Get our…",
+      "url": "https://www.theguardian.com/business/2026/jul/28/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-28T15:00:09.000Z"
-    },
-    {
-      "id": "85b183dcf865",
-      "title": "Anger at Labor as Rex Patrick faces potential six-figure legal fee if he loses Aukus documents battle",
-      "summary": "Australian government insists legal costs should be paid by former senator as FoI fight escalates Follow our Australia news live blog for latest updates Get our breaking news ema…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/anger-at-labor-as-rex-patrick-faces-potential-six-figure-legal-fee-if-he-loses-aukus-documents-battle",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T15:00:08.000Z"
+      "publishedAt": "2026-07-28T14:02:31.000Z"
     },
     {
       "id": "91ae133ac6bc",
@@ -810,16 +850,6 @@
       "publishedAt": "2026-07-27T17:03:51.000Z"
     },
     {
-      "id": "7116ff49e859",
-      "title": "Off-duty police officer detains man who attacked three women with knives in Paris",
-      "summary": "Two women severely wounded before bystanders intervened in incident near Porte de Clichy A man attacked three women with knives in Paris before bystanders pinned him to the groun…",
-      "url": "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-27T16:59:39.000Z"
-    },
-    {
       "id": "d67894d06685",
       "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
       "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the…",
@@ -858,16 +888,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-27T14:00:11.000Z"
-    },
-    {
-      "id": "7bfaefdc6178",
-      "title": "梅根在《澳洲廚神》節目中稱哈里王子「魅力十足」",
-      "summary": "在擔任《廚神當道澳洲版》節目嘉賓評審期間，哈里王子給梅根打了個視訊電話，給了他一個驚喜。",
-      "url": "https://www.bbc.com/zhongwen/articles/cr49n7we21qo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-27T12:23:12.000Z"
     },
     {
       "id": "bd0f13d229e8",
@@ -958,16 +978,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-27T07:00:34.000Z"
-    },
-    {
-      "id": "6e206d929982",
-      "title": "Misleading AI-generated doctors pose ‘huge danger to public safety’",
-      "summary": "Research shows AI accounts are gaining millions of views on TikTok by spreading dubious health advice Misleading health claims online pose a “huge danger to public safety”, exper…",
-      "url": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-27T06:00:34.000Z"
     },
     {
       "id": "1eb753a95e89",
@@ -1148,16 +1158,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-24T00:03:29.000Z"
-    },
-    {
-      "id": "e60c66d1f28e",
-      "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
-      "summary": "‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising bills Donald Trump has announced that about 200 entities have signed…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-23T19:56:50.000Z"
     },
     {
       "id": "3510c6cc3d47",
