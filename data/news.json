@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T10:13:34.286Z",
+  "updatedAt": "2026-07-29T12:32:06.683Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,114 +30,314 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "d6d4eed91e6d",
-      "title": "轮椅上“跑出”的加速度——记国防科大研究员王戟",
-      "summary": "湘江之畔，国防科技大学。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668646.shtml",
+      "id": "cd053ef1ea0a",
+      "title": "（乡村行·看振兴）广东新龙镇：科技兴农结硕果 铺就“共富路”",
+      "summary": "中新网广州7月29日电 (张璐 余冰冰 林文慧)近日，走进广州新果现代草莓种业基地的植物工厂里，只见一排排草莓挂在立体栽培架上，根部扎在经反渗透处理的水培管中，头顶是特制的LED光照板，空调系统精准控制着温湿度。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668822.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T10:10:33.000Z"
+      "publishedAt": "2026-07-29T12:26:15.000Z"
     },
     {
-      "id": "3ab88c66db36",
-      "title": "国家互联网信息办公室关于《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见的通知",
-      "summary": "为了预防、制止和惩治网络暴力，加强反网络暴力工作，保护个人、组织的合法权益，维护国家安全和社会公共利益，按照有关立法规划计划安排，国家互联网信息办公室会同有关部门起草了《中华人民共和国反网络暴力法(征求意见稿)》，现向社会公开征求意见。公众可通过以下途径和方式提出反馈意见：",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668693.shtml",
+      "id": "35e1ac75cc27",
+      "title": "四川达州：民众高温天气下体验防空洞火锅",
+      "summary": "7月29日，四川达州一处设置在防空洞内的火锅店吸引顾客。当日，达州高温天气持续，不少市民走进防空洞内，一边纳凉，一边享受美食，体验别样夏日生活。中新社记者 张浪 摄 7月29日，四川达州一处设置在防空洞内的火锅店吸引顾客。当日，达州高温天气持续，不少市民走进防空洞内，一边纳凉，一边享受美食，体验别样夏日生活。中新社记者 张浪 摄 7月29日，四川达州一处…",
+      "url": "https://www.chinanews.com.cn/tp/2026/07-29/10668823.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T10:10:07.000Z"
+      "publishedAt": "2026-07-29T12:26:07.000Z"
     },
     {
-      "id": "522254549b66",
-      "title": "（乡村行·看振兴）山西朔州：沙土地里刨出“脆甜金条” 胡萝卜丰收“钱”景喜人",
-      "summary": "中新网朔州7月29日电 (杨静 张春霞)盛夏时节，山西省朔州市朔城区南榆林乡青钟村的800亩胡萝卜进入集中采收季，田间地头一派繁忙景象。采收机械设备穿梭田间作业，将一棵棵胡萝卜从疏松的土壤中翻出，200多名务工人员分工协作，去缨、分拣、装袋、装车，各环节衔接有序。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668668.shtml",
+      "id": "14c4df26b5d3",
+      "title": "专访毕马威卢鹍鹏：AI规模化落地，企业尚缺“全局规划”",
+      "summary": "中新社北京7月29日电 (记者 庞无忌)资金热浪正在涌入人工智能(AI)赛道。毕马威中国科技、媒体及娱乐、电信行业审计主管合伙人卢鹍鹏近日接受中新社记者专访时表示，当前多数中国企业的AI应用正处于从单点效率提升工具，向重塑全局业务架构演进的关键过渡期，企业最缺的并非“算法”而是“全局规划”。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668820.shtml",
       "source": "中国新闻网",
-      "category": "国内",
+      "category": "AI",
       "language": "zh",
-      "publishedAt": "2026-07-29T10:07:36.000Z"
+      "publishedAt": "2026-07-29T12:25:47.000Z"
     },
     {
-      "id": "7dad4acc7317",
-      "title": "哈尔滨机场迎来暑运客流高峰",
-      "summary": "中新网哈尔滨7月29日电 (温天禹)哈尔滨机场29日发布消息，7月1日至28日，哈尔滨机场保障航班起降14060架次，运送旅客213.3万人次，同比分别增长4.1%、5.2%。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668667.shtml",
+      "id": "a71bf14ca64b",
+      "title": "中缅边境瑞丽口岸上半年货物贸易出口额增长251.9%",
+      "summary": "中新社云南德宏7月29日电 (张莹欣 熊胤期)云南瑞丽海关7月29日通报称，中缅边境最大陆路口岸瑞丽口岸(含弄岛通道)今年上半年货物贸易进出口总值达344.8亿元(人民币，下同)，同比增长10.7%。其中，进口328.8亿元，同比增长7.1%；出口16亿元，同比增长251.9%。",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/07-29/10668818.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T10:07:02.000Z"
+      "publishedAt": "2026-07-29T12:24:35.000Z"
     },
     {
-      "id": "274bd8a63347",
-      "title": "海外华裔青少年研学南京 沉浸式感悟中华文脉",
-      "summary": "中新网南京7月29日电 (陈竞 孙正阳)29日，“千年运河情·水韵江苏行”2026大运河文化体验活动南京营活动落下帷幕。活动期间，来自美国、西班牙、瑞典、葡萄牙、爱尔兰、丹麦、卡塔尔7个国家的45名海外华裔青少年相聚南京，开启寻访运河文脉、感知古都底蕴、溯源根脉的研学旅程。",
-      "url": "https://www.chinanews.com.cn/hr/2026/07-29/10668665.shtml",
+      "id": "717c282c9848",
+      "title": "多国媒体聚焦云南龙陵 探寻“中华仙草”——石斛产业发展路径",
+      "summary": "图为缅甸媒体记者了解石斛产品。中新社记者 刘冉阳 摄 图为树上生长的石斛。中新社记者 刘冉阳 摄 图为孟加拉国记者了解石斛。中新社记者 刘冉阳 摄 图为多国媒体记者在中国石斛花卉交易展示中心参观。中新社记者 刘冉阳 摄 图为多国媒体记者在中国石斛花卉交易展示中心参观。中新社记者 刘冉阳 摄 图为孟加拉国记者在中国·龙陵石斛种质资源保护研究中心采访。中新社…",
+      "url": "https://www.chinanews.com.cn/tp/2026/07-29/10668810.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T10:06:42.000Z"
+      "publishedAt": "2026-07-29T12:24:23.000Z"
     },
     {
-      "id": "87d85f833549",
-      "title": "微纪录片丨一个名字都不能少",
-      "summary": "在唐山地震遗址纪念公园，13面7.28米高的纪念墙上，刻着247986个名字。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668634.shtml",
+      "id": "b37da2239add",
+      "title": "税务部门公布3起税务人员与不法分子内外勾结被查处案件",
+      "summary": "中新网北京7月29日电 (记者 赵建华)近年来，税务部门查处涉税违法犯罪行为的同时，严查税务人员与不法分子内外勾结、通同作弊骗取国家税款等违纪违法行为。国家税务总局29日公布3起税务人员与不法分子内外勾结被查处案件，涉及河北、江苏、四川等地。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668817.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T10:05:20.000Z"
+      "publishedAt": "2026-07-29T12:22:17.000Z"
     },
     {
-      "id": "f60a224041cd",
-      "title": "生态环境部应对气候变化司相关负责人就《国家应对气候变化“十五五”规划》答记者问",
-      "summary": "近日，生态环境部会同国家发展改革委等18个部门联合发布《国家应对气候变化“十五五”规划》(以下简称《规划》)。生态环境部应对气候变化司负责同志就《规划》相关情况回答了记者提问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668686.shtml",
+      "id": "79af0e1c41ea",
+      "title": "携手共建粤港澳大湾区·中央企业对接会在京举行",
+      "summary": "中新网北京7月29日电 (杨宏伟)7月27日至29日，广东省在北京举行携手共建粤港澳大湾区·中央企业对接会。对接会由1场主题对接会、3场供需洽谈和若干场地市产业对接组成，旨在进一步深化广东与央企多领域高水平合作，推动央企持续在广东、大湾区布局发展。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/07-29/10668815.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T10:05:06.000Z"
+      "publishedAt": "2026-07-29T12:22:05.000Z"
     },
     {
-      "id": "035ad2ab9b58",
-      "title": "李钧辞去陕西省副省长职务",
-      "summary": "中新网7月29日电 据“陕西人大”微信公众号消息，7月29日下午，陕西省第十四届人民代表大会常务委员会第二十四次会议举行第二次全体会议。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668679.shtml",
+      "id": "ac9b4585cb88",
+      "title": "聚焦出海企业法律服务需求 上海精准培育涉外法治人才",
+      "summary": "中新网上海7月29日电 (李姝徵 张易安)半年前，上海“鼎新”涉外法治人才新锐者、上海国创律师事务所律师陈敏，做出了一个改写职业轨迹的抉择：她毅然举家奔赴乌兹别克斯坦，扎根中亚一线，为出海中资企业提供本土化专业法律服务。",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/07-29/10668814.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T10:04:48.000Z"
+      "publishedAt": "2026-07-29T12:21:15.000Z"
     },
     {
-      "id": "60f3120e75a2",
-      "title": "全国U12冰球冠军赛在哈尔滨挥杆开赛",
-      "summary": "中新网哈尔滨7月29日电 (记者 王妮娜)2026年全国青少年U12冰球冠军赛28日在哈尔滨体育学院大学生滑冰馆拉开战幕。来自全国的13支代表队齐聚冰城，在盛夏时节展开冰上竞技，参赛队伍数量创下该项赛事的历史新高。",
-      "url": "https://www.chinanews.com.cn/ty/2026/07-29/10668664.shtml",
+      "id": "b00177e7f85b",
+      "title": "物证无声自有答案——探访司法鉴定科学研究院",
+      "summary": "中新网上海7月29日电(李姝徵 张易安)破解百年遗骨鉴定难题、考证马克思珍贵书信真迹、精准鉴别濒危中华鲟物证……司法鉴定科学研究院(以下简称“司鉴院”)，一次次让尘封无声的各类物证“开口说话”。多年来，该院深耕司法鉴定前沿领域，专职攻克重大疑难复杂鉴定案件。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668812.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T10:03:10.000Z"
+      "publishedAt": "2026-07-29T12:20:39.000Z"
     },
     {
-      "id": "30347abfb62a",
-      "title": "赵乐际会见斯洛伐克总统佩列格里尼",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-29/1199605.shtml",
+      "id": "7e28ac40d887",
+      "title": "应县木塔赴约海河晚风 “五千年文明看山西”巡展天津启幕",
+      "summary": "中新网天津7月29日电 (记者 周亚强)“五千年文明看山西”文化巡展天津站开幕式暨全域文旅推介活动28日在天津举行。680平方米展厅集中呈现山西古建、壁画、彩塑等代表性文化遗存，为市民和游客带来沉浸式三晋文明体验。",
+      "url": "https://www.chinanews.com.cn/cul/2026/07-29/10668811.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T10:01:10.000Z"
+      "publishedAt": "2026-07-29T12:20:21.000Z"
     },
     {
-      "id": "e7e542cc059c",
-      "title": "这九个“一”，帮你备好家庭“防汛防灾应急包”",
-      "summary": "今年入汛以来，我国强降雨过程多，时空分布不均，中小河流洪水频发，防汛形势严峻复杂。当前，正是“七下八上”防汛关键期，如何做到“早知晓、早防范、早准备”，我们整理了家庭“防汛防灾应急包”，帮你了解相关应急知识，一起守护安全、平安度汛。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668631.shtml",
+      "id": "967aa7f7a56e",
+      "title": "APEC嘉宾走进成都人工智能一线：关注从“大脑”到“本体”的产业链协同",
+      "summary": "中新网成都7月29日电(单鹏)2026年亚太经合组织(APEC)数字周活动16日至29日在成都举行。29日，来自APEC各经济体嘉宾走进成都天府软件园与成都人形机器人创新中心，实地探访当地人工智能与机器人产业的发展脉动。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668808.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T09:59:44.000Z"
+      "publishedAt": "2026-07-29T12:19:49.000Z"
+    },
+    {
+      "id": "2655560bd172",
+      "title": "四川启动洪水灾害防御四级响应",
+      "summary": "中新网成都7月29日电 (记者 何浠)记者29日从四川省水利厅获悉，综合考虑未来雨情、汛情变化趋势，四川启动洪水灾害防御四级响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668809.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:19:31.000Z"
+    },
+    {
+      "id": "680c1daf3dac",
+      "title": "广州新增生物医药与健康产业平台",
+      "summary": "中新网广州7月29日电 (记者 蔡敏婕)广州29日新增生物医药与健康产业平台，进一步促进生命健康产业集聚发展。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668797.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:19:09.000Z"
+    },
+    {
+      "id": "ed46ffdcc1fe",
+      "title": "2026年上半年新疆昌吉州GDP同比增长4.3%",
+      "summary": "中新网新疆昌吉7月29日电 (张家伟)新疆昌吉州统计局29日公布今年上半年经济运行数据。1至6月，昌吉州实现地区生产总值1253.57亿元，同比增长4.3%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668799.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:18:55.000Z"
+    },
+    {
+      "id": "1a3909cdd39c",
+      "title": "郑州力争2030年GDP达到2万亿元",
+      "summary": "中新网郑州7月29日电 (记者 王宇)河南省政府新闻办公室29日下午举行河南省“开局起步‘十五五’、奋力谱写新篇章”系列郑州专场新闻发布会，郑州市政府市长庄建球在发布会上表示，郑州力争到2030年GDP达到2万亿元(人民币，下同)。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668801.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:18:43.000Z"
+    },
+    {
+      "id": "d8f5f7c2f14d",
+      "title": "瞄准财报反舞弊与智能审计 上海校企携手开发“AI+专业服务业”垂类模型和智能体",
+      "summary": "中新网上海7月29日电 (记者 陈静)记者29日从上海立信会计金融学院获悉，校企将联合开发“高质量审计知识库建设与智能审计助手垂类模型”“财报反舞弊多智能体”和“中国财会税综合智能体”。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668802.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:18:25.000Z"
+    },
+    {
+      "id": "c24b9c2328fa",
+      "title": "辽宁持续深化法治化营商环境建设 以法治之力护航振兴发展",
+      "summary": "中新网沈阳7月29日电 (李晛 王翕瞳)记者7月29日自辽宁省政府新闻办召开的发布会上获悉，全省法院始终将优化法治化营商环境作为服务保障辽宁振兴发展的重中之重。今年以来，全省法院紧扣打造“营商环境最佳口碑省”目标，持续深化法治化营商环境建设，以法治之力护航辽宁振兴发展。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668803.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:18:01.000Z"
+    },
+    {
+      "id": "35d45e0f8e41",
+      "title": "成都“和谐劳动关系超市”提质升级 暖心护航一线职工",
+      "summary": "中新网成都7月29日电 (记者 何浠)成都市新都区2026年“和谐劳动关系超市”夏季商品发布会29日在成都举行。活动围绕高温作业防护、劳动权益保障、职工健康守护等重点，联动多部门、群团组织及爱心企业推出系列夏季专项服务，精准保障高温一线劳动者合法权益与身心健康。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668804.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:17:19.000Z"
+    },
+    {
+      "id": "cbd2795beaa5",
+      "title": "“养猪能手”大比拼 广西举办农业行业职业技能竞赛",
+      "summary": "中新网南宁7月29日电(林洁琪 梁雨诗)2026年广西农业行业职业技能竞赛家畜繁殖员(猪)赛项29日在南宁市开赛。广西14个市的农业农村部门组队参赛，56名选手同场竞技。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668805.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:16:54.000Z"
+    },
+    {
+      "id": "0a0cf308b054",
+      "title": "北京建立250余家警企服务站 助力企业挽回经济损失超10亿元",
+      "summary": "中新网北京7月29日电 (记者 吕少威)记者28日从北京市公安局“强治理、护民安、促发展”主题宣传一线采访活动中获悉，北京警方深化“警企联络官”品牌建设以来，已在全市建立250余家警企服务站，其中高标准建立17家精品警企服务站，常态化开展上门普法70余场，累计提供法律咨询500余次，排查经营风险300余处，助力企业挽回经济损失超10亿元。企业依法经营、抵…",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668806.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:16:38.000Z"
+    },
+    {
+      "id": "904bb2670594",
+      "title": "国际奥数选手参观特展 一代代科研人持之以恒潜心求索触动人心",
+      "summary": "中新网北京7月29日电 (宋丹 张素)《科学之光：共生与聚变——未来科学大奖十周年特展》正在面向公众开放，不少国际奥数选手前来观展。这些海外青年从中感受到中国科研领域的成长与突破。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668807.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:16:16.000Z"
+    },
+    {
+      "id": "70c404c7f63c",
+      "title": "中新健康丨被指贿赂医生、违规收集患者数据，科伦博泰陷“举报门”",
+      "summary": "中新网北京7月29日电(记者 赵方园)7月29日，市场流传一份关于科伦博泰及相关人员涉嫌商业贿赂的举报信。",
+      "url": "https://www.chinanews.com.cn/jk/2026/07-29/10668800.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:15:38.000Z"
+    },
+    {
+      "id": "8ce0525a1421",
+      "title": "Pedro Sánchez says next 12 hours will be ‘decisive’ in battle to contain wildfires – Europe live",
+      "summary": "Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 40s in Brussels The European Union’s c…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T12:14:20.000Z"
+    },
+    {
+      "id": "f90041ce20d0",
+      "title": "OpenAI：失控AI曾試圖入侵其他公司系統",
+      "summary": "這個失控的AI找到四組登入憑證，令它能夠存取多個未具名的網上服務。",
+      "url": "https://www.bbc.com/zhongwen/articles/c39ezlgpyx0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:14:14.000Z"
+    },
+    {
+      "id": "5a24033cda7f",
+      "title": "把华侨华人当威胁，到底是谁心虚？",
+      "summary": "短短一个月，两场关于“侨”的重要会议相继召开。",
+      "url": "https://www.chinanews.com.cn/txy/2026/07-29/10668796.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:12:00.000Z"
+    },
+    {
+      "id": "00465c9b553e",
+      "title": "从三组外贸数据读懂“中国机遇2.0”（商海观潮）",
+      "summary": "外贸，丈量开放成色的风向标，观照经济活力的晴雨表。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668795.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:02:32.000Z"
+    },
+    {
+      "id": "5242b9477223",
+      "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
+      "summary": "Layoffs will come in admin and development divisions in Germany, with production operations unaffected BMW is planning to cut as many as 8,000 jobs in Germany, according to repor…",
+      "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T12:02:20.000Z"
+    },
+    {
+      "id": "87dde0a3c400",
+      "title": "身有桎梏 心向鸿鹄——记国防科技大学计算机学院研究员王戟",
+      "summary": "和王戟第一次见面，约在学校图书馆“高地文库”。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668794.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T12:00:24.000Z"
+    },
+    {
+      "id": "f748034173cb",
+      "title": "一组数据看我国“知识产权大国”的含金量有多高",
+      "summary": "今天(29日)上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家知识产权局相关负责人在会上介绍“十五五”时期知识产权保护和运用有关情况。一文带你了解发布会重点↓",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668793.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T11:59:09.000Z"
+    },
+    {
+      "id": "1355691a96f8",
+      "title": "French music producer Kavinsky, known for Drive soundtrack hit Nightcall, dies aged 50",
+      "summary": "French authorities investigate death of musician who performed at Paris Olympics, but say ‘no suspicious elements’ at play The French electronic musician Kavinsky, known for the…",
+      "url": "https://www.theguardian.com/music/2026/jul/29/kavinsky-french-music-producer-dies-aged-50-drive-soundtrack-nightcall",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T11:55:17.000Z"
+    },
+    {
+      "id": "ae0747cbe312",
+      "title": "伊朗方面称该国西北部遭美方空袭",
+      "summary": "据伊朗方面当地时间7月29日消息，当天下午，伊朗西北部西阿塞拜疆省皮兰沙赫尔市边境地带遭到美国方面空袭。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668792.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T11:46:56.000Z"
     },
     {
       "id": "74e065aecc9e",
@@ -147,207 +347,67 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-29T09:58:15.000Z"
+      "publishedAt": "2026-07-29T11:42:09.000Z"
     },
     {
-      "id": "b941dcfefc45",
-      "title": "大陆赠台小熊猫与台北市民相见欢 取名“乐乐”“甜甜”",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-29/1199602.shtml",
+      "id": "314a09408dca",
+      "title": "李强会见斯洛伐克总统佩列格里尼",
+      "summary": "新华社北京7月29日电 7月29日下午，国务院总理李强在北京人民大会堂会见来华进行国事访问的斯洛伐克总统佩列格里尼。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668791.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T09:55:26.000Z"
+      "publishedAt": "2026-07-29T11:41:38.000Z"
     },
     {
-      "id": "de9e9d592c4f",
-      "title": "教育部新闻发布会聚焦学生资助体系",
-      "summary": "原标题：促进教育公平 强化育人导向——教育部新闻发布会聚焦学生资助体系",
-      "url": "https://www.chinanews.com.cn/edu/2026/07-29/10668622.shtml",
+      "id": "f5fe8a3b3c17",
+      "title": "“新新三样”成中国出口新名片",
+      "summary": "今年以来，中国制造出海的“货单”上，出现了越来越多新面孔。上半年，机器人、人工智能、创新药等代表未来产业方向的“新新三样”出口增速明显，正在成为中国出口的新名片。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668790.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T09:54:53.000Z"
+      "publishedAt": "2026-07-29T11:40:32.000Z"
     },
     {
-      "id": "0a86dd1d149d",
-      "title": "开局之年看中国·解码“产业大脑”丨数智成“脑”，链通未来",
-      "summary": "广饶是全国闻名的“轮胎之都”，轮胎企业体量大、链条长，但各个企业数字化程度参差不齐，数据自成孤岛；",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668613.shtml",
+      "id": "c89818e31583",
+      "title": "习言道｜促进海内外中华儿女团结奋斗",
+      "summary": "近日，习近平总书记对侨务工作作出重要指示，强调“更好凝聚侨心侨力，引导广大海外侨胞和归侨侨眷秉承优良传统、厚植家国情怀，发挥独特优势、展现更大作为，积极服务祖国统一大业，促进海内外中华儿女团结奋斗，为以中国式现代化全面推进强国建设、民族复兴伟业汇聚磅礴力量”。习近平总书记高度重视侨务工作，对广大侨胞一次次饱含深情的惦念、对侨务工作的一句句殷殷嘱托，跨越千…",
+      "url": "http://www.chinanews.com.cn/gn/shipin/2026/07-29/news1063705.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-29T09:53:13.000Z"
+      "publishedAt": "2026-07-29T11:38:49.000Z"
+    },
+    {
+      "id": "29af220da129",
+      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
+      "summary": "美國和中國正陷入一場爭奪全球機械人與人工智能領導地位的競賽。",
+      "url": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-29T11:14:21.000Z"
+    },
+    {
+      "id": "64fb61d2d3b7",
+      "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
+      "summary": "這名演員兼音樂人合共面對10名女性的指控。她們表示，自己在青少年時期曾遭他不當對待。",
+      "url": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-29T10:35:20.000Z"
     },
     {
       "id": "eec162bd7732",
-      "title": "US thwarts Iran missile attack and joins forces with Saudis to strike Iraq, killing 20",
+      "title": "US joins forces with Saudis to strike Tehran-backed militias in Iraq",
       "summary": "Oil price spikes after flare-up of fighting and claimed Iranian attacks on three tankers in strait of Hormuz The US military said it knocked down an Iranian missile barrage and w…",
       "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
       "source": "The Guardian World",
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-29T09:52:44.000Z"
-    },
-    {
-      "id": "1f7b5a06a528",
-      "title": "税务部门公布3起税务人员与不法分子内外勾结被查处案件",
-      "summary": "中新网7月29日电 据国家税务总局网站消息，近年来，税务部门在依法查处涉税违法犯罪行为的同时，严肃查处税务人员与不法分子内外勾结、通同作弊骗取国家税款等违纪违法行为。现公布3起相关案件，分别是：",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668660.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:51:49.000Z"
-    },
-    {
-      "id": "9dc76bfff840",
-      "title": "吉林汪清提升防汛应急响应至一级 全县采取“五停”措施",
-      "summary": "记者今天从汪清县防汛抗旱指挥部了解到，汪清县防指决定于7月29日14时将防汛二级应急响应提升至一级。同时宣布该县进入紧急防汛期。一级应急响应期间，全县所有地势低的群众要立即向高处转移。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668662.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:50:23.000Z"
-    },
-    {
-      "id": "9644f5db552b",
-      "title": "中俄海军海上联合巡航结束",
-      "summary": "参加中俄海军海上联合巡航的舰艇编队29日抵达俄罗斯符拉迪沃斯托克，此次联合巡航结束。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668661.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:48:29.000Z"
-    },
-    {
-      "id": "f70f04fe9728",
-      "title": "国家粮食和物资储备局上海局原局长杨永宁接受审查调查",
-      "summary": "中新网7月29日电 据中央纪委国家监委驻国家发展改革委纪检监察组、上海市纪委监委消息：国家粮食和物资储备局上海局原分党组书记、局长杨永宁涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家发展改革委纪检监察组纪律审查和上海市崇明区监察委员会监察调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668655.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:48:15.000Z"
-    },
-    {
-      "id": "7511179dbb6a",
-      "title": "黑龙江省纪委监委驻省卫生健康委员会纪检监察组组长李强被查",
-      "summary": "中新网7月29日电 据黑龙江省纪委监委消息：黑龙江省纪委监委驻省卫生健康委员会纪检监察组组长李强涉嫌严重违纪违法，目前正接受黑龙江省纪委监委纪律审查和监察调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668653.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:47:27.000Z"
-    },
-    {
-      "id": "2828fef13696",
-      "title": "汽车改装新政出台：行业盼细则尽快落地",
-      "summary": "中新网北京7月29日电(记者 查志远 实习生 李美林)6月23日，商务部等8部门办公厅公布全国40个汽车流通消费改革试点城市名单，北京朝阳、顺义两区入选，其中朝阳的重点方向是汽车改装。同日，商务部等9部门公开发布《关于培育壮大汽车后市场消费若干措施的通知》。围绕汽车改装、房车露营、传统经典车、汽车维修和保险服务、汽车赛事、汽车租赁等6个方面提出17项举措。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668650.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:43:55.000Z"
-    },
-    {
-      "id": "213af3b6f53f",
-      "title": "九部门：鼓励地方向科技型企业提供授权开放信息渠道",
-      "summary": "中新网7月29日电 据央行网站消息，为深入落实《关于扎实做好科技金融大文章的工作方案》《加快构建科技金融体制 有力支撑高水平科技自立自强的若干政策举措》，加强科技金融领域数据共建共享，近日，中国人民银行、国家发展改革委、科技部、工业和信息化部、海关总署、市场监管总局、金融监管总局、国家知识产权局、国家数据局联合印发《关于加强科技金融领域数据开发利用的通知…",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668652.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:42:41.000Z"
-    },
-    {
-      "id": "f325679416f1",
-      "title": "我国消费金融公司去年共发放个人消费贷款5.24万亿元",
-      "summary": "中国银行业协会日前发布《中国消费金融公司发展报告(2026)》。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668658.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:41:39.000Z"
-    },
-    {
-      "id": "8ce0525a1421",
-      "title": "France and Spain brace for fresh heatwave as warnings issued over risk of new wildfires – Europe live",
-      "summary": "Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 40s Spanish prime minister Pedro Sánch…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T09:41:03.000Z"
-    },
-    {
-      "id": "8af15232c059",
-      "title": "长江十年行｜十年深耕破局 生态损害赔偿守护巴山渝水",
-      "summary": "仲夏时节，流经沙坪坝、九龙坡和大渡口三区的长江一级支流跳磴河水波轻淌，景致盎然。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668610.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:37:32.000Z"
-    },
-    {
-      "id": "bb75075ced8f",
-      "title": "从四款出口“爆品”看“中国智造”",
-      "summary": "这个夏天，“中国智造”频上热搜，成为“爆品”。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668607.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:35:40.000Z"
-    },
-    {
-      "id": "ac0ac7d95b88",
-      "title": "好评中国|普法“上新”，让法治融入寻常生活",
-      "summary": "e法耀陇原|普法“上新”，让法治融入寻常生活",
-      "url": "https://www.chinanews.com.cn/ll/2026/07-29/10668599.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:33:54.000Z"
-    },
-    {
-      "id": "659cdb65f984",
-      "title": "我国IPv6活跃用户数达8.69亿 五年增长88%",
-      "summary": "中新网雄安7月29日电(记者 刘星晨)7月28日，第五届中国IPv6创新发展大会在雄安新区召开。会议现场，推进IPv6规模部署和应用专家委员会(以下简称“专家委”)发布了《中国IPv6发展报告(2026)》。截至2025年底，我国IPv6活跃用户数达8.69亿，五年增长88%，移动网络IPv6流量占比达70.85%，固定网络IPv6流量占比达32.38%…",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668642.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:31:46.000Z"
-    },
-    {
-      "id": "aecdec2a721a",
-      "title": "蓄共识之力 赋实践之能——媒体智库人士共话上海合作组织发展新图景",
-      "summary": "新华社比什凯克7月28日电 题：蓄共识之力 赋实践之能——媒体智库人士共话上海合作组织发展新图景",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668588.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:30:46.000Z"
-    },
-    {
-      "id": "e5f9651ce4a5",
-      "title": "日本熊本县地震遇难人数升至14人",
-      "summary": "当地时间29日，日本熊本县宇城市市长末松直洋表示，接到报告称，该市市内有两名男性因前一日发生的地震死亡。至此，此次地震遇难人数升至14人。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668649.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:30:26.000Z"
-    },
-    {
-      "id": "220816458f6e",
-      "title": "国家文物局印发《国家文物事业发展“十五五”规划》",
-      "summary": "中新网7月29日电 据国家文物局微信公众号消息，国家文物局近日印发《国家文物事业发展“十五五”规划》，内容如下：",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668641.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T09:26:08.000Z"
     },
     {
       "id": "d6cb042170c5",
@@ -378,16 +438,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-29T08:50:26.000Z"
-    },
-    {
-      "id": "64fb61d2d3b7",
-      "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
-      "summary": "這名演員兼音樂人合共面對10名女性的指控。她們表示，自己在青少年時期曾遭他不當對待。",
-      "url": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-29T08:45:53.000Z"
     },
     {
       "id": "830586298aef",
@@ -618,26 +668,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-28T16:42:43.000Z"
-    },
-    {
-      "id": "9f2442662df1",
-      "title": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – as it happened",
-      "summary": "Spanish prime minister also says the fires serve as a reminder to plan for the ‘worsening’ climate emergency France and Spain race to contain huge wildfires before fresh heatwave…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T16:15:06.000Z"
-    },
-    {
-      "id": "8864834146b2",
-      "title": "Qantas plane flies for more than 24 hours in record-breaking flight",
-      "summary": "The A350 landed in Toulouse 24 hours and 24 minutes after leaving Melbourne as airline plans direct London service Follow our Australia news live blog for latest updates Get our…",
-      "url": "https://www.theguardian.com/business/2026/jul/28/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T14:02:31.000Z"
     },
     {
       "id": "91ae133ac6bc",
@@ -1198,36 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-23T06:56:18.000Z"
-    },
-    {
-      "id": "307dbb9a31a0",
-      "title": "OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim",
-      "summary": "Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systems Last week Hugging Face – a company that hosts artificial intelligence mod…",
-      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-22T20:40:48.000Z"
-    },
-    {
-      "id": "a0dc701f0862",
-      "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
-      "summary": "The companies hope to follow in the footsteps of SpaceX, which raised $86bn and soared to a $2.1tn valuation after it listed on public markets in June Get our breaking news email…",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-22T15:00:19.000Z"
-    },
-    {
-      "id": "7cba62224692",
-      "title": "「如果有一座橋」：金門人怎麼看翔安機場的「情感工程」？",
-      "summary": "廈門翔安機場設計中包含多項與金門連結的構想，這些基礎建設折射出金門居民心中的矛盾：有人視為多年來的發展願景，也有人認為是政治角力與國安風險的象徵。",
-      "url": "https://www.bbc.com/zhongwen/articles/cx25g733w65o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-22T03:18:05.000Z"
     }
   ]
 }
