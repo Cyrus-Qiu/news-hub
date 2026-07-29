@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:36:01.910Z",
+  "updatedAt": "2026-07-29T17:52:01.658Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,36 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "bb3d4466011c",
+      "title": "US-Saudi strikes in Iraq push region into ‘uncharted territory’, analysts warn",
+      "summary": "Riyadh’s decision to join US in strikes on Iran-backed militia further complicates widening and ‘unpredictable’ war US-Saudi strikes on Iran-backed militia in Iraq have pushed th…",
+      "url": "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T17:32:32.000Z"
+    },
+    {
+      "id": "fc99dde7e269",
+      "title": "Norwegian teenager guilty of travelling to UK to carry out contract killing",
+      "summary": "Johannes Kongsnes Natland was recruited to murder unknown person by international crime gang linked to Iran A Norwegian teenager has been found guilty of travelling to England to…",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/29/norwegian-teenager-johannes-kongsnes-natland-guilty-uk-contract-killing",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T17:02:07.000Z"
+    },
+    {
+      "id": "4dcd0ac6f01b",
+      "title": "Russia accuses Telegram founder of aiding terrorism in its latest online crackdown",
+      "summary": "FSB puts Pavel Durov on international wanted lists and says his messaging app is used for sabotage and murder Russian officials have charged Pavel Durov, the founder and chief ex…",
+      "url": "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T16:36:09.000Z"
+    },
+    {
       "id": "c2dc588d8863",
       "title": "习近平总书记关切事丨康庄大道 山海偕行",
       "summary": "今年是闽宁协作30年。习近平同志在福建工作期间亲自谋划、亲自推动这一伟大实践，创造了“干沙滩”变“金沙滩”的人间奇迹，开辟了东西部协作的新机制。",
@@ -58,16 +88,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-29T15:50:52.000Z"
-    },
-    {
-      "id": "bb3d4466011c",
-      "title": "US-Saudi strikes in Iraq push region into ‘uncharted territory’, analysts warn",
-      "summary": "Riyadh’s decision to join US in strikes on Iran-backed militia further complicates widening and ‘unpredictable’ war US-Saudi strikes on Iran-backed militia in Iraq on Wednesday h…",
-      "url": "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T15:32:16.000Z"
     },
     {
       "id": "d7cc748eb7f1",
@@ -158,16 +178,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-29T14:27:33.000Z"
-    },
-    {
-      "id": "9453912a14a8",
-      "title": "Next 12 hours ‘decisive’ for wildfire near Madrid, says Spanish PM",
-      "summary": "Comments by Pedro Sánchez come as extreme heat renews pressure on firefighters tackling blazes across southern Europe Europe live – latest updates The next 12 hours will be “deci…",
-      "url": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T14:17:53.000Z"
     },
     {
       "id": "5f5fa055e56a",
@@ -478,16 +488,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-07-29T12:14:14.000Z"
-    },
-    {
-      "id": "5242b9477223",
-      "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
-      "summary": "Layoffs will come in admin and development divisions in Germany, with production operations unaffected BMW is planning to cut as many as 8,000 jobs in Germany, according to repor…",
-      "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T12:02:20.000Z"
     },
     {
       "id": "29af220da129",
