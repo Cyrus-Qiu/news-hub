@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T19:37:40.690Z",
+  "updatedAt": "2026-07-29T21:07:10.461Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "898ad589c7f3",
+      "title": "Australia news live: McCarthy welcomes ‘milestone’ as one Closing the Gap target reached; three dead in Sydney house fire",
+      "summary": "Early childhood education enrolment for First Nations children reaches 95% across the country. Follow updates live Get our breaking news email , free app or daily news podcast Th…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T20:51:12.000Z"
+    },
     {
       "id": "9453912a14a8",
       "title": "Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires",
@@ -122,7 +132,7 @@
     {
       "id": "e2cd0fa081de",
       "title": "The population of an endangered Australian bat suddenly dropped by up to 16%. No one knows why",
-      "summary": "Exclusive: Scientists say about 5,000 fewer southern bent-wing bats have been recorded at a key maternity site for the species Get our breaking news email , free app or daily new…",
+      "summary": "Exclusive: Scientists say about 5,000 fewer southern bent-wing bats have been recorded at a key maternity site for the species Follow our Australia news live blog for latest upda…",
       "url": "https://www.theguardian.com/environment/2026/jul/30/southern-bent-wing-bat-population-decline",
       "source": "The Guardian World",
       "category": "国际",
@@ -142,7 +152,7 @@
     {
       "id": "73ab9d5ccece",
       "title": "Atlassian tightens tracking of staff AI use as other technology firms encourage ‘tokenmaxxing’",
-      "summary": "Some companies reportedly using leaderboards for employees who used the most AI in their work Get our breaking news email , free app or daily news podcast Software firm Atlassian…",
+      "summary": "Some companies reportedly using leaderboards for employees who used the most AI in their work Follow our Australia news live blog for latest updates Get our breaking news email ,…",
       "url": "https://www.theguardian.com/technology/2026/jul/30/atlassian-tightens-tracking-of-staff-ai-use-as-other-technology-firms-encourage-tokenmaxxing",
       "source": "The Guardian World",
       "category": "AI",
@@ -150,19 +160,9 @@
       "publishedAt": "2026-07-29T15:00:36.000Z"
     },
     {
-      "id": "d5c5c3bb5a6d",
-      "title": "Bird flu is spreading locally and Australia faces more wildlife deaths. How bad could it get?",
-      "summary": "Authorities say local transmission of H5 bird flu virus among South Australian birds signals ‘shift in the situation’ Get our breaking news email , free app or daily news podcast…",
-      "url": "https://www.theguardian.com/world/2026/jul/30/bird-flu-australia-h5n1-how-will-it-affect-wildlife",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T15:00:35.000Z"
-    },
-    {
       "id": "687436fcd1a3",
       "title": "Icac hits paydirt as Reformers’ ‘shit sheets’ are given a very public airing",
-      "summary": "Dirt files are always damaging – not least those originating in the secretive rightwing Reformers sub-faction of the party Get our breaking news email , free app or daily news po…",
+      "summary": "Dirt files are always damaging – not least those originating in the secretive rightwing Reformers sub-faction of the party Follow our Australia news live blog for latest updates…",
       "url": "https://www.theguardian.com/australia-news/2026/jul/29/icac-hits-paydirt-as-reformers-shit-sheets-are-given-a-very-public-airing",
       "source": "The Guardian World",
       "category": "国际",
