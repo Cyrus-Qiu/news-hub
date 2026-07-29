@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T21:07:10.461Z",
+  "updatedAt": "2026-07-29T22:32:30.119Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,124 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "8df442fbe37a",
+      "title": "田里遭了灾，农业保险怎么赔",
+      "summary": "(服务窗·关注汛期安全)",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-30/10668935.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T22:27:27.000Z"
+    },
+    {
+      "id": "e046d36e84f1",
+      "title": "SpaceX获得美国太空军16亿美元的合同",
+      "summary": "美国太空军当地时间7月29日宣布，美国太空探索技术公司(SpaceX)最新获得一份价值16亿美元的合同，将在2027年底前执行18次“猎鹰9”号火箭发射任务，搭载用于探测和追踪空中目标的军用卫星升空。(央视记者 吴汉婴)",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668934.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T22:25:29.000Z"
+    },
+    {
+      "id": "f68f7e66963a",
+      "title": "告别手忙脚乱 12306隐藏技能“轻装行”使用教程来了",
+      "summary": "当前正值暑运高峰期，全国铁路客流持续高位运行，旅客财物遗失、错拿行李等情况时有发生。近日，全国多地铁路公安接连处置多起类似警情。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-30/10668933.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T22:22:33.000Z"
+    },
+    {
+      "id": "1233e556dcd3",
+      "title": "暑期旅行，保险怎么选",
+      "summary": "(信息服务台)",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-30/10668932.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T22:20:44.000Z"
+    },
+    {
+      "id": "82e9967ca2bd",
+      "title": "菲律宾东部海域发生5.6级地震",
+      "summary": "据菲律宾火山地震研究所消息，7月29日22时11分左右，菲律宾吕宋岛东部海域发生5.6级地震，震源深度10公里，包括首都大马尼拉地区在内的多地有震感。该地震预计不会造成破坏，但会有余震。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668931.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T22:19:24.000Z"
+    },
+    {
       "id": "898ad589c7f3",
       "title": "Australia news live: McCarthy welcomes ‘milestone’ as one Closing the Gap target reached; three dead in Sydney house fire",
-      "summary": "Early childhood education enrolment for First Nations children reaches 95% across the country. Follow updates live Get our breaking news email , free app or daily news podcast Th…",
+      "summary": "Early childhood education enrolment for First Nations children reaches 95% across the country. Follow updates live Get our breaking news email , free app or daily news podcast Mi…",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-29T20:51:12.000Z"
+      "publishedAt": "2026-07-29T22:13:20.000Z"
+    },
+    {
+      "id": "2262ed5d57cd",
+      "title": "英格兰过半地区进入干旱状态",
+      "summary": "中新社北京7月29日电 (记者 欧阳开宇)英国环境署29日宣布，受持续高温少雨天气影响，英格兰过半地区进入干旱状态，河流水位、水库蓄水量大幅走低，水资源供应承压严峻。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668930.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T22:08:20.000Z"
+    },
+    {
+      "id": "34c685a7af5e",
+      "title": "荷兰警方发起反恐行动逮捕3名涉恐嫌犯",
+      "summary": "中新社海牙7月29日电 荷兰媒体29日报道，荷兰警方发起反恐行动，在荷兰第二大城市鹿特丹等地逮捕3名涉恐嫌疑人。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668929.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T22:07:42.000Z"
+    },
+    {
+      "id": "93d497a3feea",
+      "title": "托尔斯滕·弗赖当选德国联盟党议会党团主席",
+      "summary": "中新社柏林7月29日电 (记者 马秀秀)德国联邦议院联盟党(由基民盟、基社盟组成)议会党团29日举行特别会议，选举基民盟政治家托尔斯滕·弗赖为新任议会党团主席，接替此前辞职的延斯·施潘。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668928.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T22:07:24.000Z"
+    },
+    {
+      "id": "d5f7fdecdb58",
+      "title": "斯诺克上海大师赛上演两场“中国德比”：赵心童、吴宜泽晋级八强",
+      "summary": "中新社上海7月29日电 (记者 缪璐 王笈)2026世界斯诺克上海大师赛29日进行16进8轮次的较量。当晚上演两场“中国德比”，赵心童和吴宜泽分别战胜丁俊晖、斯佳辉，晋级八强，比分均为6:2。",
+      "url": "https://www.chinanews.com.cn/ty/2026/07-30/10668927.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T22:06:38.000Z"
+    },
+    {
+      "id": "2ae793c8112c",
+      "title": "国际足联正式对阿根廷足协启动调查",
+      "summary": "当地时间7月29日，国际足联宣布对阿根廷足协启动多项纪律调查，同时因美加墨世界杯决赛后冲突一事，对阿根廷球员帕雷德斯、莫利纳以及助理教练阿亚拉启动纪律调查。这三人因采取“攻击”行为，可能将面临长期禁赛。",
+      "url": "https://www.chinanews.com.cn/ty/2026/07-30/10668926.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T22:04:18.000Z"
+    },
+    {
+      "id": "d7cc748eb7f1",
+      "title": "Body found in suitcase in Athens is that of 38-year-old British woman",
+      "summary": "Greek authorities identify remains as those of Elizabeth Jane Ross after discovery in a derelict building 11 days ago A body found in a suitcase in an abandoned building in centr…",
+      "url": "https://www.theguardian.com/world/2026/jul/29/body-suitcase-athens-38-year-old-british-woman-greek-authorities",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T21:05:04.000Z"
     },
     {
       "id": "9453912a14a8",
@@ -110,16 +220,6 @@
       "publishedAt": "2026-07-29T15:50:52.000Z"
     },
     {
-      "id": "d7cc748eb7f1",
-      "title": "Body found in suitcase in Athens is that of 38-year-old British woman",
-      "summary": "Greek authorities identify remains as those of Elizabeth Jane Ross after discovery in a derelict building 11 days ago A body found in a suitcase in an abandoned building in centr…",
-      "url": "https://www.theguardian.com/world/2026/jul/29/body-suitcase-athens-38-year-old-british-woman-greek-authorities",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T15:12:06.000Z"
-    },
-    {
       "id": "e130af9e6ad1",
       "title": "日本熊本县地震已致14人死亡",
       "summary": "中新社东京7月29日电 (记者 朱晨曦)据日本共同社29日晚报道，熊本县宇城市当日下午新接到两名男子在地震中丧生的报告，此次熊本县地震已致14人死亡。",
@@ -140,16 +240,6 @@
       "publishedAt": "2026-07-29T15:00:37.000Z"
     },
     {
-      "id": "7125b3346dec",
-      "title": "Australians value batteries and EVs, but renewables industry must earn trust of regions, summit told",
-      "summary": "Clean Energy Council calls for a national, legislated scheme to funnel benefits of hosting renewables projects back to local councils Sign up for climate and environment editor A…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/30/australians-value-batteries-and-evs-but-renewables-industry-must-earn-trust-of-regions-summit-told",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T15:00:36.000Z"
-    },
-    {
       "id": "73ab9d5ccece",
       "title": "Atlassian tightens tracking of staff AI use as other technology firms encourage ‘tokenmaxxing’",
       "summary": "Some companies reportedly using leaderboards for employees who used the most AI in their work Follow our Australia news live blog for latest updates Get our breaking news email ,…",
@@ -160,10 +250,20 @@
       "publishedAt": "2026-07-29T15:00:36.000Z"
     },
     {
-      "id": "687436fcd1a3",
-      "title": "Icac hits paydirt as Reformers’ ‘shit sheets’ are given a very public airing",
-      "summary": "Dirt files are always damaging – not least those originating in the secretive rightwing Reformers sub-faction of the party Follow our Australia news live blog for latest updates…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/icac-hits-paydirt-as-reformers-shit-sheets-are-given-a-very-public-airing",
+      "id": "7125b3346dec",
+      "title": "‘Extremely effective’ organised campaigns against wind and solar undermining support for renewable energy",
+      "summary": "Clean Energy Council calls for a national, legislated scheme to funnel benefits of hosting renewables projects back to local councils Sign up for climate and environment editor A…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/30/australians-value-batteries-and-evs-but-renewables-industry-must-earn-trust-of-regions-summit-told",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T15:00:36.000Z"
+    },
+    {
+      "id": "d5c5c3bb5a6d",
+      "title": "Bird flu is spreading locally and Australia faces more wildlife deaths. How bad could it get?",
+      "summary": "Authorities say local transmission of H5 bird flu virus among South Australian birds signals ‘shift in the situation’ Follow our Australia news live blog for latest updates Get o…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/bird-flu-australia-h5n1-how-will-it-affect-wildlife",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
@@ -368,106 +468,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-29T13:57:22.000Z"
-    },
-    {
-      "id": "372992137064",
-      "title": "公益足球赛事落地太原 山西青少年球员角逐全国赛事入场券",
-      "summary": "中新网太原7月29日电 (刘小红)29日，2026东润杯·山西省青少年足球联赛在太原开赛。赛事立足山西省校园体育发展现状，聚焦普通青少年的运动成长需求，将专业足球赛事资源下沉地方校园，为山西热爱足球的青少年提供公平展示、实战锻炼、相互交流的公益平台。",
-      "url": "https://www.chinanews.com.cn/ty/2026/07-29/10668908.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:57:02.000Z"
-    },
-    {
-      "id": "dee0cf2e8345",
-      "title": "重庆两江新区启动硕博引才专项行动 企业释放千余个高层次岗位",
-      "summary": "中新网重庆7月29日电 (马佳欣)29日，“才聚新两江 筑梦新重庆”2026年“硕博人才两江行”暨青年留渝来渝引才服务专项行动启动仪式在重庆两江新区举行。长安汽车、赛力斯、中国汽研等55家重点企业释放高层次人才岗位1134个，面向硕博青年广纳英才。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668910.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:56:10.000Z"
-    },
-    {
-      "id": "2f2a1cc5a21f",
-      "title": "跨越千里赴沪逐梦 云南绿春哈尼学子入职上海虹桥空港",
-      "summary": "中新网上海7月29日电 (范宇斌)28日，在上海虹桥机场二号航站楼星空间，身着哈尼族服饰的云南绿春青年成为一道靓丽的风景线。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668911.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:55:36.000Z"
-    },
-    {
-      "id": "05dafe4a5440",
-      "title": "助力银发群体从“养老”到“享老” 新龄青年音乐生活节首站收官",
-      "summary": "中新网北京7月29日电 (王童 张素)鸭绿江畔，逾千名平均年龄超过55岁的观众齐声合唱《我和我的祖国》……近日在“新龄青年音乐生活节”上的这一幕受到关注。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-29/10668912.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:55:08.000Z"
-    },
-    {
-      "id": "85c303aec199",
-      "title": "网络名人走进青海循化 探寻撒拉族历史文化",
-      "summary": "图为参与活动的网络名人实地了解撒拉族历史文化。图为参加活动的网络名人拍摄制作的手工艺品。中新社记者 张忠苹 摄 图为参与活动的网络名人实地了解撒拉族历史文化。图为景区工作人员（左前一）向网络名人讲述撒拉族历史文化。中新社记者 张忠苹 摄 图为参与活动的网络名人实地了解撒拉族历史文化。图为文化学者（右黑衣）向网络名人讲述撒拉族历史文化。中新社记者 张忠苹…",
-      "url": "https://www.chinanews.com.cn/tp/2026/07-29/10668905.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:54:22.000Z"
-    },
-    {
-      "id": "3d4c5169a4f2",
-      "title": "榴梿还是黄梨？马来西亚将选“国果”",
-      "summary": "中新网吉隆坡7月29日电(记者 刘育英)马来西亚官方将发起全国民意普查，以决定哪个水果被选为马来西亚的“国果”，候选果品为榴梿与黄梨(菠萝，本地俗称黄梨)。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668904.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:53:28.000Z"
-    },
-    {
-      "id": "b0a562023b95",
-      "title": "7月29日新闻夜读",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/07-29/10668909.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:50:14.000Z"
-    },
-    {
-      "id": "2d4925dfb13e",
-      "title": "《国际形势和中国外交蓝皮书（2025/2026）》正式出版",
-      "summary": "中新网北京7月29日电 (刘纪 张素)29日，中国国际问题研究院编写的《国际形势和中国外交蓝皮书(2025/2026)》(下称《蓝皮书》)在北京发布。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668850.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:50:06.000Z"
-    },
-    {
-      "id": "f9929f19d59d",
-      "title": "德媒：宝马计划到2027年底裁员8000人",
-      "summary": "中新社柏林7月29日电 综合德国媒体29日报道，德国汽车制造商宝马计划到2027年底在全球裁减约8000个工作岗位，其中超过一半可能位于德国。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668821.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:49:28.000Z"
-    },
-    {
-      "id": "8dc0bd2feff4",
-      "title": "马来西亚3月月薪中位数3027林吉特 采矿业最高",
-      "summary": "中新社吉隆坡7月29日电 (记者 刘育英)马来西亚统计局29日发布的3月统计数据显示，马全国705万正规领域雇员月薪中位数达3027林吉特(约合5008元人民币)。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668819.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:48:52.000Z"
     },
     {
       "id": "08d781a4f56b",
@@ -980,16 +980,6 @@
       "publishedAt": "2026-07-27T14:00:11.000Z"
     },
     {
-      "id": "bd0f13d229e8",
-      "title": "Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation",
-      "summary": "Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO The boss of the startup hacked by an OpenAI agent has called for the investigation int…",
-      "url": "https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-27T12:15:03.000Z"
-    },
-    {
       "id": "7ab85cf07f6b",
       "title": "AstraZeneca boss urges western drugmakers to move at ‘Chinese speed’",
       "summary": "Europe and US risk being outpaced on innovation, as happened in the car industry, warns Pascal Soriot AstraZeneca must operate at “Chinese speed” to ensure it does not suffer the…",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-23T06:56:18.000Z"
+    },
+    {
+      "id": "307dbb9a31a0",
+      "title": "OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim",
+      "summary": "Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systems Last week Hugging Face – a company that hosts artificial intelligence mod…",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-22T20:40:48.000Z"
     }
   ]
 }
