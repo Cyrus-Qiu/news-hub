@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T14:54:44.218Z",
+  "updatedAt": "2026-07-29T16:36:01.910Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,116 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "c2dc588d8863",
+      "title": "习近平总书记关切事丨康庄大道 山海偕行",
+      "summary": "今年是闽宁协作30年。习近平同志在福建工作期间亲自谋划、亲自推动这一伟大实践，创造了“干沙滩”变“金沙滩”的人间奇迹，开辟了东西部协作的新机制。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10668925.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T16:25:26.000Z"
+    },
+    {
+      "id": "8ce0525a1421",
+      "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – as it happened",
+      "summary": "Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 40s in Brussels The European Union’s c…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T16:04:42.000Z"
+    },
+    {
+      "id": "c86875c9166d",
+      "title": "特朗普称伊朗将遭“痛击” 不排除继续打击其地区代理人",
+      "summary": "当地时间7月29日，美国总统特朗普接受采访时表示，在伊朗向美军发动导弹袭击后，美国将进行报复。特朗普称，美国将“狠狠打击”伊朗，伊朗将遭到“痛击”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668924.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T15:50:52.000Z"
+    },
+    {
+      "id": "bb3d4466011c",
+      "title": "US-Saudi strikes in Iraq push region into ‘uncharted territory’, analysts warn",
+      "summary": "Riyadh’s decision to join US in strikes on Iran-backed militia further complicates widening and ‘unpredictable’ war US-Saudi strikes on Iran-backed militia in Iraq on Wednesday h…",
+      "url": "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T15:32:16.000Z"
+    },
+    {
+      "id": "d7cc748eb7f1",
+      "title": "Body found in suitcase in Athens 11 days ago that of 38-year-old British woman",
+      "summary": "Greek authorities identify remains after reported discovery in a derelict building by homeless man A body found in a suitcase in an abandoned building in central Athens has been…",
+      "url": "https://www.theguardian.com/world/2026/jul/29/body-suitcase-athens-38-year-old-british-woman-greek-authorities",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T15:12:06.000Z"
+    },
+    {
+      "id": "e130af9e6ad1",
+      "title": "日本熊本县地震已致14人死亡",
+      "summary": "中新社东京7月29日电 (记者 朱晨曦)据日本共同社29日晚报道，熊本县宇城市当日下午新接到两名男子在地震中丧生的报告，此次熊本县地震已致14人死亡。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668919.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-29T15:11:11.000Z"
+    },
+    {
+      "id": "e2cd0fa081de",
+      "title": "The population of an endangered Australian bat suddenly dropped by up to 16%. No one knows why",
+      "summary": "Exclusive: Scientists say about 5,000 fewer southern bent-wing bats have been recorded at a key maternity site for the species Get our breaking news email , free app or daily new…",
+      "url": "https://www.theguardian.com/environment/2026/jul/30/southern-bent-wing-bat-population-decline",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T15:00:37.000Z"
+    },
+    {
+      "id": "7125b3346dec",
+      "title": "Australians value batteries and EVs, but renewables industry must earn trust of regions, summit told",
+      "summary": "Clean Energy Council calls for a national, legislated scheme to funnel benefits of hosting renewables projects back to local councils Sign up for climate and environment editor A…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/30/australians-value-batteries-and-evs-but-renewables-industry-must-earn-trust-of-regions-summit-told",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T15:00:36.000Z"
+    },
+    {
+      "id": "73ab9d5ccece",
+      "title": "Atlassian tightens tracking of staff AI use as other technology firms encourage ‘tokenmaxxing’",
+      "summary": "Some companies reportedly using leaderboards for employees who used the most AI in their work Get our breaking news email , free app or daily news podcast Software firm Atlassian…",
+      "url": "https://www.theguardian.com/technology/2026/jul/30/atlassian-tightens-tracking-of-staff-ai-use-as-other-technology-firms-encourage-tokenmaxxing",
+      "source": "The Guardian World",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-29T15:00:36.000Z"
+    },
+    {
+      "id": "d5c5c3bb5a6d",
+      "title": "Bird flu is spreading locally and Australia faces more wildlife deaths. How bad could it get?",
+      "summary": "Authorities say local transmission of H5 bird flu virus among South Australian birds signals ‘shift in the situation’ Get our breaking news email , free app or daily news podcast…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/bird-flu-australia-h5n1-how-will-it-affect-wildlife",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T15:00:35.000Z"
+    },
+    {
+      "id": "687436fcd1a3",
+      "title": "Icac hits paydirt as Reformers’ ‘shit sheets’ are given a very public airing",
+      "summary": "Dirt files are always damaging – not least those originating in the secretive rightwing Reformers sub-faction of the party Get our breaking news email , free app or daily news po…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/icac-hits-paydirt-as-reformers-shit-sheets-are-given-a-very-public-airing",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-29T15:00:35.000Z"
+    },
+    {
       "id": "48c6dbc9e772",
       "title": "A ​decade on the Iberian ​frontline​ has shown me that Europe’s ​climate ​emergency​ is ​impossible to ​deny",
       "summary": "What once felt exceptional now arrives with grim regularity​ all over the continent, and it will only get worse • Don’t get This Is Europe delivered to your inbox? Sign up here S…",
@@ -41,23 +151,13 @@
     },
     {
       "id": "74e065aecc9e",
-      "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – live updates",
+      "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened",
       "summary": "Emergency workers are continuing their search for survivors in southern Japan after yesterday’s powerful earthquake ‘Race against time’: Japan earthquake death toll rises as resc…",
       "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-29T14:27:33.000Z"
-    },
-    {
-      "id": "8ce0525a1421",
-      "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – Europe live",
-      "summary": "Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 40s in Brussels The European Union’s c…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T14:24:07.000Z"
     },
     {
       "id": "9453912a14a8",
@@ -71,7 +171,7 @@
     },
     {
       "id": "5f5fa055e56a",
-      "title": "Can’t hear what’s playing on TV? It’s not your ears, its the flat screen. These affordable soundbars can help",
+      "title": "Can’t hear what’s playing on TV? It’s not your ears, it’s the flat screen. These affordable soundbars can help",
       "summary": "Get rid of subtitles to hear what movies and TV shows are supposed to sound like – for as little as $130 I tested 42 pairs of wireless earbuds to find the best in the US, and I n…",
       "url": "https://www.theguardian.com/thefilter-us/2026/jul/29/tv-speakers-soundbars",
       "source": "The Guardian Technology",
@@ -360,36 +460,6 @@
       "publishedAt": "2026-07-29T13:48:52.000Z"
     },
     {
-      "id": "7488775c884c",
-      "title": "日本国内人口42年来首次跌破1.2亿",
-      "summary": "中新网东京7月29日电 (记者 朱晨曦)日本总务省29日公布的人口动态调查结果显示，截至今年1月1日，日本国内人口数量约为1.1973亿，时隔42年再度低于1.2亿。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668816.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:48:06.000Z"
-    },
-    {
-      "id": "f16eefb2a06e",
-      "title": "1.8万贿金换15年逃亡！香港机场“内鬼”贪腐案收官",
-      "summary": "徐英杰，认罪",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-29/10668901.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:48:06.000Z"
-    },
-    {
-      "id": "b0149104427c",
-      "title": "中国驻澳大利亚大使馆举办肖千大使离任招待会",
-      "summary": "中新网堪培拉7月29日电 中国驻澳大利亚大使馆28日举行肖千大使离任招待会。澳大利亚外交贸易部副秘书长艾丽及各国驻澳使团代表、澳各界人士等200余人出席。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668813.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-29T13:47:20.000Z"
-    },
-    {
       "id": "08d781a4f56b",
       "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
       "summary": "ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging Face OpenAI has revealed that a cyber-attack carried out by a rogue AI…",
@@ -418,16 +488,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-29T12:02:20.000Z"
-    },
-    {
-      "id": "1355691a96f8",
-      "title": "French music producer Kavinsky, known for Drive soundtrack hit Nightcall, dies aged 50",
-      "summary": "French authorities investigate death of musician who performed at Paris Olympics, but say ‘no suspicious elements’ at play The French electronic musician Kavinsky, known for the…",
-      "url": "https://www.theguardian.com/music/2026/jul/29/kavinsky-french-music-producer-dies-aged-50-drive-soundtrack-nightcall",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T11:55:17.000Z"
     },
     {
       "id": "29af220da129",
@@ -462,7 +522,7 @@
     {
       "id": "d6cb042170c5",
       "title": "‘The shaking was terrifying’: stories of survival and loss emerge after Japan earthquake",
-      "summary": "Rescuers pulling people from the wreckage in southern Japan in a haunting repeat of disaster that struck 10 years ago Japan earthquake – latest updates ‘Race against time’: Japan…",
+      "summary": "Rescuers pulling people from the wreckage in southern Japan in a haunting repeat of disaster that struck 10 years ago ‘Race against time’: Japan earthquake death toll rises as re…",
       "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki",
       "source": "The Guardian World",
       "category": "国际",
@@ -478,56 +538,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-29T08:52:55.000Z"
-    },
-    {
-      "id": "16e17479f03c",
-      "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
-      "summary": "Drop comes after South Korean company SK Hynix’s results undershoot investors’ expectations Business live – latest updates Shares in companies linked to AI have plunged further a…",
-      "url": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
-      "source": "The Guardian World",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-29T08:50:26.000Z"
-    },
-    {
-      "id": "830586298aef",
-      "title": "Mother went to South Australia police station day before suspected murder-suicide",
-      "summary": "Police say chance of finding missing baby alive ‘zero’ after bodies of mother Helena Wright and toddler found in ocean near Port Macdonnell Get our breaking news email , free app…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/sa-police-helena-wright-toddler-death-missing-baby-port-macdonnell-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T08:27:31.000Z"
-    },
-    {
-      "id": "8817ab715774",
-      "title": "Victorian cults inquiry accidentally shares email address of anonymous survivors with group members",
-      "summary": "Committee apologises for not concealing email addresses when alerting witnesses to final report Get our breaking news email , free app or daily news podcast A Victorian parliamen…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/victorian-cults-inquiry-accidentally-shares-email-address-of-anonymous-survivors-with-group-members-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T08:09:11.000Z"
-    },
-    {
-      "id": "9cbfa73706e2",
-      "title": "Petrol back above $2 a litre in some areas – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Specially designed Airbus completes marathon 24-hour flight before joining Qantas fleet A spe…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T07:36:19.000Z"
-    },
-    {
-      "id": "49656b9ad6b5",
-      "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
-      "summary": "Former leader shows support for new Victorian premier while paying tribute to Jacinta Allan Follow our Australia news live blog for latest updates Get our breaking news email , f…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T07:34:38.000Z"
     },
     {
       "id": "f1b214a708f6",
@@ -548,16 +558,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-29T07:00:26.000Z"
-    },
-    {
-      "id": "a297a1a633f1",
-      "title": "Young Liberal power brokers created ‘shit sheet’ on NSW minister accusing him of extramarital affair",
-      "summary": "David Elliott denies having affair after document revealed during Icac hearing into corruption allegations Follow our Australia news live blog for latest updates Get our breaking…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/icac-operation-rosny-young-liberals-shit-sheet-nsw-minister-david-elliott-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T06:30:45.000Z"
     },
     {
       "id": "ca46950c454f",
@@ -638,6 +638,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-28T23:24:15.000Z"
+    },
+    {
+      "id": "5bdab593ee5f",
+      "title": "Japan earthquake injures at least 100 and kills two inside shopping mall",
+      "summary": "Kumamoto shaken by 6.8-magnitude quake, knocking out power and damaging buildings, as people remain trapped inside shopping centre A 6.8-magnitude earthquake has shaken south Jap…",
+      "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-28T22:14:45.000Z"
     },
     {
       "id": "821c058de4b1",
@@ -950,16 +960,6 @@
       "publishedAt": "2026-07-27T16:20:56.000Z"
     },
     {
-      "id": "d4cb4a1818a5",
-      "title": "‘You say genocide, I say war’: Boy George releases pro-Israel song, We Will Dance Again",
-      "summary": "Culture Club singer sings ‘I stand with the Jews / I don’t feel brave, I just need to behave like a human’, in song defending Israel’s response to Hamas attack Boy George has rel…",
-      "url": "https://www.theguardian.com/music/2026/jul/27/you-say-genocide-i-say-war-boy-george-releases-pro-israel-song-we-will-dance-again",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-27T14:31:12.000Z"
-    },
-    {
       "id": "6bb3272b8890",
       "title": "Tariffs are Trump’s favorite plaything – and his justifications are absurd | Steven Greenhouse",
       "summary": "The president is using forced labor as a pretext to slap tariffs on countries around the world With the midterm elections less than four months away, it’s a precarious time for D…",
@@ -1050,16 +1050,6 @@
       "publishedAt": "2026-07-27T07:00:34.000Z"
     },
     {
-      "id": "6e206d929982",
-      "title": "Misleading AI-generated doctors pose ‘huge danger to public safety’",
-      "summary": "Research shows AI accounts are gaining millions of views on TikTok by spreading dubious health advice Misleading health claims online pose a “huge danger to public safety”, exper…",
-      "url": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-27T06:00:34.000Z"
-    },
-    {
       "id": "1eb753a95e89",
       "title": "I risk losing my livelihood because Nissan failed to repair my car",
       "summary": "I’m a self-employed driving instructor and I’m running out of cash to hire a replacement dual-control vehicle My livelihood as a self-employed driving instructor is under threat…",
@@ -1138,6 +1128,16 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-25T13:00:43.000Z"
+    },
+    {
+      "id": "00e5ed03db16",
+      "title": "I’ve been gaming for 40 years. Here are the best chairs in the UK for comfort, support and serious play",
+      "summary": "Whether you’re on PC or a console, level up your setup with our gaming expert’s pick of the best chairs • The best games of 2026 so far Comfort is crucial to the gaming experienc…",
+      "url": "https://www.theguardian.com/thefilter/2026/jul/24/best-gaming-chairs-tested-uk",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-24T14:00:15.000Z"
     },
     {
       "id": "3ecc7db58a46",
