@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T21:19:15.671Z",
+  "updatedAt": "2026-07-30T22:40:01.748Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,66 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "edbe12270770",
+      "title": "安理会就下任联合国秘书长遴选举行首轮意向性投票",
+      "summary": "中新社联合国7月30日电 (记者 王帆)联合国安理会30日对角逐下任联合国秘书长职务的7位候选人进行首轮意向性投票，标志着秘书长遴选进入关键阶段。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669584.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T22:30:49.000Z"
+    },
+    {
+      "id": "8a55086513bc",
+      "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+      "summary": "中新社北京7月31日电 中国海警局消息，7月30日，中国海警位中国黄岩岛领海及周边区域开展执法巡查。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669583.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T22:30:19.000Z"
+    },
+    {
+      "id": "af74b33c2246",
+      "title": "美国第二季度经济增长1.5% 低于市场预期",
+      "summary": "中新社华盛顿7月30日电 (记者 沙晗汀)美国商务部当地时间30日公布首次预估数据显示，今年第二季度美国实际国内生产总值(GDP)按年率计算环比增长1.5%，低于市场预期。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669582.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T22:29:49.000Z"
+    },
+    {
+      "id": "a122a736504d",
+      "title": "德国7月通胀率升至2.8%",
+      "summary": "中新社柏林7月30日电 (记者 马秀秀)德国联邦统计局30日公布的初步数据显示，德国7月通胀率升至2.8%，较6月的2.3%明显上升。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669581.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T22:28:55.000Z"
+    },
+    {
+      "id": "29b9d0a3ea2c",
+      "title": "德国经济第二季度环比微增0.2%",
+      "summary": "中新社柏林7月30日电 (记者 马秀秀)德国联邦统计局30日公布的初步数据显示，经价格、季节和工作日调整，2026年第二季度德国国内生产总值环比增长0.2%，略高于经济学家此前预期的0.1%。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669580.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T22:27:39.000Z"
+    },
+    {
+      "id": "6c70ceb564e6",
+      "title": "重庆彭水山体崩塌找到并确认51人遇难 10人失联",
+      "summary": "中新社重庆7月30日电 据“彭水发布”消息，重庆彭水山体崩塌现场救援指挥部30日晚通报，彭水县汉葭街道山体崩塌灾害发生以来，目前找到并确认51人遇难，仍有10名失联人员。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669579.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T22:27:13.000Z"
+    },
+    {
       "id": "9627a21672f0",
       "title": "Middle East crisis live: Iraq says it had ‘no prior knowledge’ of US-Saudi attacks",
       "summary": "Iraqi prime minister postpones trip to Saudi Arabia after attacks as government spokesperson denies Trump’s claim that strikes were coordinated with Iraq US launches fresh strike…",
@@ -37,7 +97,7 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-30T21:05:20.000Z"
+      "publishedAt": "2026-07-30T22:21:35.000Z"
     },
     {
       "id": "4e54762f20ca",
@@ -47,7 +107,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-30T21:04:22.000Z"
+      "publishedAt": "2026-07-30T22:19:28.000Z"
+    },
+    {
+      "id": "9173c874c544",
+      "title": "Australian Rose Davies wins gold in 5,000m in second Commonwealth Games triumph",
+      "summary": "Newcastle-born Davies wins in Glasgow Follows earlier gold in 10,000m Rose Davies has roared to a landmark track triumph at the Commonwealth Games in Glasgow, becoming the first…",
+      "url": "https://www.theguardian.com/sport/2026/jul/31/australian-rose-davies-wins-gold-in-5000m-in-second-commonwealth-games-triumph",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-30T21:30:50.000Z"
     },
     {
       "id": "fa0ed8a420d7",
@@ -242,7 +312,7 @@
     {
       "id": "92b9aa219a4c",
       "title": "Governor general warns of ‘growing catastrophe’ that threatens to undermine democracy in Australia",
-      "summary": "Sam Mostyn says there is a widespread ‘failure to understand and engage with and feel proud of the very civic underpinnings of our democracy’ Get our breaking news email , free a…",
+      "summary": "Sam Mostyn says there is a widespread ‘failure to understand and engage with’ civic underpinnings of our democracy Follow our Australia news live blog for latest updates Get our…",
       "url": "https://www.theguardian.com/australia-news/2026/jul/31/governor-general-warns-of-growing-catastrophe-that-threatens-to-undermine-democracy-in-australia-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -252,7 +322,7 @@
     {
       "id": "742e8a1651a1",
       "title": "Icac revelations have left Angus Taylor’s colleagues anxious – and his factional enemies angry",
-      "summary": "The opposition leader is the highest-profile person mentioned so far at the NSW anti-corruption commission – and the political figure with the most to lose Get our breaking news…",
+      "summary": "The opposition leader is the highest-profile person mentioned so far at the NSW anti-corruption commission – and the political figure with the most to lose Follow our Australia n…",
       "url": "https://www.theguardian.com/australia-news/2026/jul/31/icac-revelations-have-left-angus-taylors-colleagues-anxious-and-his-factional-enemies-angry",
       "source": "The Guardian World",
       "category": "国际",
@@ -268,16 +338,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-30T14:54:16.000Z"
-    },
-    {
-      "id": "9f45f74cf4bd",
-      "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
-      "summary": "中新网7月30日电 据“中国海警”微信公众号消息，7月30日，中国海警位中国黄岩岛领海及周边区域开展执法巡查。7月份以来，中国海警持续加强黄岩岛领海及周边区域执法巡查，依法依规采取喊话警告、拦阻管制、水炮喷射等必要措施驱离非法侵权滋扰船只，进一步强化有关海域管控，坚决维护国家领土主权和海洋权益。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669567.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T14:39:02.000Z"
     },
     {
       "id": "0552f21e14eb",
@@ -430,36 +490,6 @@
       "publishedAt": "2026-07-30T13:50:27.000Z"
     },
     {
-      "id": "596b0229cf81",
-      "title": "中国经济半年观察：“向新向优”成为关键词",
-      "summary": "读懂中国经济，首先要看大势、看基本面。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-30/10669556.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:49:38.000Z"
-    },
-    {
-      "id": "c997fa9b9127",
-      "title": "深化产教融合 湖北首个具身智能人才培养基地揭牌",
-      "summary": "中新网武汉7月30日电 (卢琪 周正 黄全周)湖北具身智能人才培养基地30日在武汉东湖高新区(又称“中国光谷”)揭牌。作为湖北首个面向全学段群体、服务全产业链的具身智能人才培育平台，该基地将构建“政产学研用”一体化的人才供给生态。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-30/10669554.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:48:18.000Z"
-    },
-    {
-      "id": "4572e6f02d92",
-      "title": "超拟人数字人实时生成技术发布",
-      "summary": "中新网北京7月30日电 (记者 庞无忌)数字人不仅从“能看”走向“能干”，生成速度也不断加快。7月30日，科大讯飞首次对外发布“超拟人数字人实时生成技术”。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-30/10669549.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:43:26.000Z"
-    },
-    {
       "id": "9d7a513b2b1c",
       "title": "Raids across UK in crackdown on nuisance car finance texts",
       "summary": "Laptops, phones and documents seized as information commissioner acts on messages about mis-selling scandal Laptops, mobile phones and documents have been seized after officials…",
@@ -468,36 +498,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-30T13:39:46.000Z"
-    },
-    {
-      "id": "4743248d3864",
-      "title": "三部门调拨5000件中央救灾物资支持甘肃救灾救助工作",
-      "summary": "中新网7月30日电 据应急管理部微信公众号消息，7月30日，国家防灾减灾救灾委员会办公室、应急管理部针对甘肃定西山洪以及陇南等地新一轮强降雨等灾害影响，根据救灾工作需要，会同国家粮食和物资储备局向甘肃调拨折叠床、毛毯、家庭应急包、应急照明灯等5000件中央救灾物资，支持地方妥善做好受灾群众安置救助工作。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669543.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:39:06.000Z"
-    },
-    {
-      "id": "06b299eac7a1",
-      "title": "外媒：美军或要求部分驻中东军人上交手机",
-      "summary": "中新网7月30日电 据路透社7月29日报道，消息人士称，一些部署在外的美军人员可能很快会被勒令上交手机。美军中东地区最高军事指挥官警告部队，在网上分享的手机视频可能会帮助伊朗瞄准美军基地实施打击。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-30/10669548.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:37:04.000Z"
-    },
-    {
-      "id": "0de0ba19c462",
-      "title": "“1.5万元机票仅退款432元”后续：携程回应和律师解读来了",
-      "summary": "近日引发关注的“1.5万元国际机票退票仅退款432元”事件后续来了：消费者已于7月28日收到全额退款。涉事的携程方面表示，将于2026年7月31日正式升级风险提示机制。同时，律师也建议，航司和平台应制定公平合理的交易规则，充分保障消费者的知情权、公平交易权和求偿权。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-30/10669546.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:36:32.000Z"
     },
     {
       "id": "1f92c156f3e9",
@@ -620,16 +620,6 @@
       "publishedAt": "2026-07-30T08:54:59.000Z"
     },
     {
-      "id": "898ad589c7f3",
-      "title": "Kumanjayi Little Baby murder trial delayed until December – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Minister says meeting Closing the Gap target a major step, but more work needed on others Mal…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T08:08:59.000Z"
-    },
-    {
       "id": "e080726f031e",
       "title": "Halo: Campaign Evolved review – they don’t make ‘em like this any more",
       "summary": "PC, Xbox, PlayStation 5; Halo Studios/Xbox Game Studios Halo’s modernised introduction to all that was great about the 00s’ first-person shooter is also a welcome return trip for…",
@@ -728,6 +718,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-29T17:55:37.000Z"
+    },
+    {
+      "id": "16e17479f03c",
+      "title": "FTSE 100 hits record high despite AI sell-off",
+      "summary": "Strong corporate results buoy market as investors move money away from tech and semiconductor stocks London’s FTSE 100 stock index has touched a fresh high, driven by strong corp…",
+      "url": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-29T15:02:28.000Z"
     },
     {
       "id": "73ab9d5ccece",
