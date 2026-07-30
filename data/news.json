@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T14:25:34.642Z",
+  "updatedAt": "2026-07-30T16:09:46.195Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,146 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "3e48e234f38d",
+      "title": "解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
+      "summary": "中新社北京7月30日电 据中国人民解放军南部战区社交平台官方账号消息，7月30日，中国人民解放军南部战区组织海空兵力位中国黄岩岛领海领空及周边海空域开展战备警巡。黄岩岛是中国固有领土。7月份以来，战区部队持续加强黄岩岛领海周边海空域巡逻警戒，有力有效应对各类侵权挑衅行径，坚决捍卫国家主权安全，坚定维护南海地区和平稳定。(完)",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669571.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T15:56:24.000Z"
+    },
+    {
+      "id": "9627a21672f0",
+      "title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
+      "summary": "Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on Thursday US launches fresh strik…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T15:49:13.000Z"
+    },
+    {
+      "id": "1ac0bcab9885",
+      "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
+      "summary": "Split vote comes as Iran war is rekindled and oil price climbs back above $90 a barrel Business live – latest updates Only Middle East crisis is preventing drop in UK interest ra…",
+      "url": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-30T15:47:35.000Z"
+    },
+    {
+      "id": "e8847d104d4d",
+      "title": "US hits dozens of targets in Iran overnight as peace efforts under threat",
+      "summary": "Central Command says strikes aimed at diminishing Iranian military while mediators say talks are continuing Middle East crisis – live updates The US struck Iran overnight and Teh…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T15:30:33.000Z"
+    },
+    {
+      "id": "5e68a28d9b37",
+      "title": "Iran’s war with the US is not its only conflict as internal crises mount",
+      "summary": "Government fears social discontent on ‘most important battlefield’ of economy and livelihoods as war takes its toll amid anti-state dissent Iran, in the midst of an escalating fi…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/iran-war-us-conflict-internal-crises-economy-dissent",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T15:24:31.000Z"
+    },
+    {
+      "id": "81933c3eb645",
+      "title": "（经济观察）中国楼市继续“稳”字当头",
+      "summary": "中新社北京7月30日电 (记者 庞无忌)7月30日召开的中共中央政治局会议再次强调“稳定房地产市场”。这是继今年4月中央政治局会议提出“努力稳定房地产市场”后，高层半年内第二次聚焦“稳楼市”。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-30/10669569.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T15:17:10.000Z"
+    },
+    {
+      "id": "50b462f1a09e",
+      "title": "重庆彭水山体崩塌找到并确认51人遇难 仍有10人失联",
+      "summary": "中新网7月30日电 7月17日9时许，重庆彭水汉葭街道发生大型山体崩塌灾害。据“彭水发布”微信公众号消息，重庆彭水山体崩塌现场救援指挥部30日发布情况通报称，截至目前，陆上灾害现场承灾区域已全部搜寻完毕，将尽快恢复乌江三桥等中断交通及相关地区的生活秩序。乌江水域清淤疏浚和搜寻工作仍在进行中。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-30/10669570.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T15:11:52.000Z"
+    },
+    {
+      "id": "9131308ff755",
+      "title": "Nato ‘will take all necessary measures’ to defend territory after Russian missile crashes in Poland – as it happened",
+      "summary": "Polish PM confirms the missile that crashed in Poland was a Russian Kh-101 cruise missile and says he is in touch with EU and US leaders Poland’s defence minister Władysław Kosin…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/30/europe-ukraine-russia-poland-wildfires-france-spain-greece-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T15:03:25.000Z"
+    },
+    {
+      "id": "52a648d6f8fa",
+      "title": "Firefighters race to extinguish blazes across EU as fire weather breaks records",
+      "summary": "European Forest Fire Information Service figures show conditions in EU 43% more severe than for same period in last 20 years Fire weather in the EU has broken records for severit…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T15:02:12.000Z"
+    },
+    {
+      "id": "92b9aa219a4c",
+      "title": "Governor general warns of ‘growing catastrophe’ that threatens to undermine democracy in Australia",
+      "summary": "Sam Mostyn says there is a widespread ‘failure to understand and engage with and feel proud of the very civic underpinnings of our democracy’ Get our breaking news email , free a…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/31/governor-general-warns-of-growing-catastrophe-that-threatens-to-undermine-democracy-in-australia-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T15:00:19.000Z"
+    },
+    {
+      "id": "742e8a1651a1",
+      "title": "Icac revelations have left Angus Taylor’s colleagues anxious – and his factional enemies angry",
+      "summary": "The opposition leader is the highest-profile person mentioned so far at the NSW anti-corruption commission – and the political figure with the most to lose Get our breaking news…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/31/icac-revelations-have-left-angus-taylors-colleagues-anxious-and-his-factional-enemies-angry",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T15:00:17.000Z"
+    },
+    {
+      "id": "12541ba18fec",
+      "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "summary": "新华社北京7月30日电#8195;北京时间7月30日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话，双方围绕落实好中美两国元首北京会晤重要共识，就下一阶段中美双方保持经贸关系稳定、拓展务实合作、妥善解决彼此关切，进行了坦诚、深入、富有建设性的交流。中方就近期美对华经贸限制措施表达严正关切。双方同意在…",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669568.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T14:54:16.000Z"
+    },
+    {
+      "id": "9f45f74cf4bd",
+      "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+      "summary": "中新网7月30日电 据“中国海警”微信公众号消息，7月30日，中国海警位中国黄岩岛领海及周边区域开展执法巡查。7月份以来，中国海警持续加强黄岩岛领海及周边区域执法巡查，依法依规采取喊话警告、拦阻管制、水炮喷射等必要措施驱离非法侵权滋扰船只，进一步强化有关海域管控，坚决维护国家领土主权和海洋权益。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669567.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T14:39:02.000Z"
+    },
+    {
+      "id": "0552f21e14eb",
+      "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
+      "summary": "中新网7月30日电 据“南部战区”微信公众号消息，7月30日，中国人民解放军南部战区组织海空兵力位中国黄岩岛领海领空及周边海空域开展战备警巡。黄岩岛是中国固有领土。7月份以来，战区部队持续加强黄岩岛领海周边海空域巡逻警戒，有力有效应对各类侵权挑衅行径，坚决捍卫国家主权安全，坚定维护南海地区和平稳定。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669566.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T14:36:20.000Z"
+    },
+    {
       "id": "8bc7b9aa04a4",
       "title": "四川盆地至黄淮等地有较强降水 两部门加派工作组赴一线协助指导",
       "summary": "中新网7月30日电 据应急管理部微信公众号消息，7月30日上午，国家防总办公室、应急管理部继续组织中国气象局、水利部、自然资源部、住房城乡建设部、工业和信息化部、交通运输部等部门联合会商，研判强降雨发展趋势，部署重点地区防汛工作。国家防总、应急管理部维持针对广东、四川、甘肃的防汛四级应急响应和针对内蒙古、新疆、新疆生产建设兵团的抗旱四级应急响应，增派1个…",
@@ -58,16 +198,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-30T14:01:28.000Z"
-    },
-    {
-      "id": "9131308ff755",
-      "title": "Nato ‘will take all necessary measures’ to defend territory after Russian missile crashes in Poland – Europe live",
-      "summary": "Polish PM confirms the missile that crashed in Poland was a Russian Kh-101 cruise missile and says he is in touch with EU and US leaders Poland’s defence minister Władysław Kosin…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/30/europe-ukraine-russia-poland-wildfires-france-spain-greece-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T14:01:08.000Z"
     },
     {
       "id": "7f7606393465",
@@ -300,56 +430,6 @@
       "publishedAt": "2026-07-30T13:31:50.000Z"
     },
     {
-      "id": "b29475f5756e",
-      "title": "琴鸣松花江畔 中国扬琴艺术节首次落地哈尔滨",
-      "summary": "中新网哈尔滨7月30日电(史轶夫 徐帆)30日，哈尔滨音乐厅内，随着扬琴合奏《歌声里的黑龙江》响起，哈尔滨首届扬琴艺术节暨第六届中国扬琴艺术节展演开幕。千余名来自全国各地的演奏者、专家学者齐聚松花江畔。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-30/10669540.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:31:38.000Z"
-    },
-    {
-      "id": "7d53949d1f25",
-      "title": "毕节帮扶路上的“15分钟生命救援”",
-      "summary": "中新网贵州毕节7月30日电 题：毕节帮扶路上的“15分钟生命救援”",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669527.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:30:21.000Z"
-    },
-    {
-      "id": "97886a981576",
-      "title": "中外62名选手获第40届全国青少年科技创新大赛“中国科协主席奖”",
-      "summary": "中新网北京7月30日电 (记者 孙自法)记者7月30日从中国科学技术协会(中国科协)获悉，第40届全国青少年科技创新大赛7月29日在陕西西安顺利闭幕，经过团队和个人挑战的激烈角逐，中外62名青少年参赛选手以优异的综合成绩，荣获大赛最高奖项——中国科协主席奖。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669530.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:29:39.000Z"
-    },
-    {
-      "id": "9206a77ab526",
-      "title": "东西问丨刘海平：“中国方案”如何为全球高原鱼类保护提供借鉴？",
-      "summary": "中新社重庆7月30日电 题：“中国方案”如何为全球高原鱼类保护提供借鉴？",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669535.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:23:33.000Z"
-    },
-    {
-      "id": "4f43961dfc76",
-      "title": "津门潮涌，开启迈向世界一流的开放新篇章",
-      "summary": "中新网北京7月30日电(记者 谢艺观)盛夏七月，天津港码头一派繁忙。一列满载货物的中欧班列启程向西，驶向万里之外的欧洲腹地；码头另一侧，一艘来自地中海航运的巨型货轮靠泊，到港货物依托多式联运疏运至京津冀腹地。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-30/10669538.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:22:27.000Z"
-    },
-    {
       "id": "1f92c156f3e9",
       "title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target",
       "summary": "Consumer spending remained resilient even as policymakers kept interest rates on hold The US economy expanded at a sluggish 1.5% pace from April through June as rising imports we…",
@@ -360,29 +440,9 @@
       "publishedAt": "2026-07-30T13:21:19.000Z"
     },
     {
-      "id": "9627a21672f0",
-      "title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
-      "summary": "Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on Thursday US launches fresh strik…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T13:18:50.000Z"
-    },
-    {
-      "id": "1ca344e4ce7b",
-      "title": "多国媒体走访云南腾冲 体验和顺古镇和谐风尚",
-      "summary": "7月30日，参加“世界同框 幸会保山·2026海外媒体记者保山行”的十余名海外媒体记者，走进位于云南保山市腾冲市的和顺古镇，体验并记录侨乡人文风光，感受边地古镇独有的和谐风尚。和顺古镇地处云南省著名侨乡腾冲市，是一座始建于明朝，有着600年历史的边陲小镇。中原文化、西洋文化、南诏文化、边地文化在这里相互交融、碰撞，孕育出了独特的侨乡文化和马帮文化。图为多…",
-      "url": "https://www.chinanews.com.cn/tp/2026/07-30/10669532.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:17:41.000Z"
-    },
-    {
       "id": "fa1885381e95",
       "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
-      "summary": "Maria and Czeslaw Krupa, who arrived in 1947 and 1948 as dependants of displaced Polish service members, were told they did not have post-Brexit rights to return to UK Two Polish…",
+      "summary": "Maria and Czeslaw Krupa, who arrived as children of displaced Polish veterans, told they have no post-Brexit rights to return home to Bury Two Polish citizens who have lived in t…",
       "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
       "source": "The Guardian World",
       "category": "国际",
@@ -418,16 +478,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-30T12:46:50.000Z"
-    },
-    {
-      "id": "78f92ec59427",
-      "title": "HMRC fines Airbus £6.4m for breaching rules on export of sensitive technology",
-      "summary": "Manufacturer self-reported the offences in the tax authority’s largest such out-of-court settlement Airbus has been fined £6.4m in the UK after the European aerospace company adm…",
-      "url": "https://www.theguardian.com/business/2026/jul/30/airbus-fined-64m-hmrc-export-technology-breaches",
-      "source": "The Guardian World",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-30T12:41:39.000Z"
     },
     {
       "id": "6c0c4bdf9a1b",
@@ -468,26 +518,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-30T11:55:00.000Z"
-    },
-    {
-      "id": "e8847d104d4d",
-      "title": "US hits dozens of targets in Iran overnight as peace efforts under threat",
-      "summary": "Central Command says strikes aimed at diminishing Iranian military while mediators say talks are continuing Middle East crisis – live updates The US military has struck dozens of…",
-      "url": "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T11:50:43.000Z"
-    },
-    {
-      "id": "1ac0bcab9885",
-      "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
-      "summary": "Split vote comes as Iran war is rekindled and oil price climbs back above $90 a barrel Business live – latest updates The Bank of England has kept UK interest rates on hold as it…",
-      "url": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-30T11:00:52.000Z"
     },
     {
       "id": "8d50889e7d28",
@@ -578,26 +608,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-30T06:49:55.000Z"
-    },
-    {
-      "id": "6340666ebdf5",
-      "title": "Archibald prize 2026: portrait of Jewish leader after Bondi terror attack wins people’s choice award",
-      "summary": "Artist Michael Zavros says he was inspired by a deep respect for Alex Ryvchin’s leadership, as well as an uncanny likeness between the two men An artist’s portrayal of a Jewish l…",
-      "url": "https://www.theguardian.com/artanddesign/2026/jul/30/archibald-prize-2026-portrait-of-jewish-leader-after-bondi-terror-attack-wins-peoples-choice-award",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T06:22:20.000Z"
-    },
-    {
-      "id": "0831509b7074",
-      "title": "NSW to send paramedics not police to some mental health emergencies after multiple deaths",
-      "summary": "Mental health experts to triage triple zero calls, but not all of the changes will be implemented 24/7 or statewide Follow our Australia news live blog for latest updates Get our…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/30/nsw-to-send-paramedics-not-police-to-some-mental-health-emergencies-after-multiple-deaths",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T05:05:16.000Z"
     },
     {
       "id": "e8fa145ece56",
@@ -790,6 +800,16 @@
       "publishedAt": "2026-07-29T08:52:55.000Z"
     },
     {
+      "id": "bdec747cb26c",
+      "title": "Datacentre projects face fees for grid access to ease connection queue, Ofgem says",
+      "summary": "Energy regulator’s plan would mean upfront fees or financial security via letters of credit, bonds or cash deposits Datacentre projects in Britain will be forced to pay hundreds…",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-29T07:42:01.000Z"
+    },
+    {
       "id": "f1b214a708f6",
       "title": "日本熊本縣發生6.8級地震，這是目前已知的情況",
       "summary": "日本九州島發生強烈地震，目前災情嚴重。以下是我們目前所了解的情況。",
@@ -968,16 +988,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-28T10:36:49.000Z"
-    },
-    {
-      "id": "015314dd639f",
-      "title": "Prisoners at Iran’s largest jail sew lips shut in hunger strike as executions soar",
-      "summary": "At least 1,500 protest after six men on drug-related charges put in solitary confinement before possible execution Prisoners at Iran’s largest jail have sewn their lips shut as h…",
-      "url": "https://www.theguardian.com/world/2026/jul/28/prisoners-iran-largest-jail-sew-lips-shut-hunger-strike-executions-soar",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-28T10:26:38.000Z"
     },
     {
       "id": "fb199ee15f6e",
@@ -1218,16 +1228,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-25T13:00:43.000Z"
-    },
-    {
-      "id": "00e5ed03db16",
-      "title": "I’ve been gaming for 40 years. Here are the best chairs in the UK for comfort, support and serious play",
-      "summary": "Whether you’re on PC or a console, level up your setup with our gaming expert’s pick of the best chairs • The best games of 2026 so far Comfort is crucial to the gaming experienc…",
-      "url": "https://www.theguardian.com/thefilter/2026/jul/24/best-gaming-chairs-tested-uk",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-24T14:00:15.000Z"
     }
   ]
 }
