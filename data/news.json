@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T19:44:42.105Z",
+  "updatedAt": "2026-07-30T21:19:15.671Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,24 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "560ba7808011",
-      "title": "French riot police used teargas on people trying to board small boat, charity claims",
-      "summary": "CRS officers funded by UK tried to stop boarding of boat, on day four asylum seekers died trying to cross Channel French riot police funded by UK taxpayers used teargas on asylum…",
-      "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
+      "id": "9627a21672f0",
+      "title": "Middle East crisis live: Iraq says it had ‘no prior knowledge’ of US-Saudi attacks",
+      "summary": "Iraqi prime minister postpones trip to Saudi Arabia after attacks as government spokesperson denies Trump’s claim that strikes were coordinated with Iraq US launches fresh strike…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-30T19:20:16.000Z"
+      "publishedAt": "2026-07-30T21:05:20.000Z"
+    },
+    {
+      "id": "4e54762f20ca",
+      "title": "Australia news live: attorneys general meet to reform working with children checks; leaders gather for Garma festival",
+      "summary": "Attorneys general meet in Darwin to work on nationalising the working with children check after serious allegations of safety breaches in childcare sector. Follow live Get our br…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T21:04:22.000Z"
     },
     {
       "id": "fa0ed8a420d7",
@@ -47,17 +57,17 @@
       "source": "The Guardian Business",
       "category": "财经",
       "language": "en",
-      "publishedAt": "2026-07-30T19:03:57.000Z"
+      "publishedAt": "2026-07-30T19:46:05.000Z"
     },
     {
-      "id": "9627a21672f0",
-      "title": "Middle East crisis live: tensions rise in region after US launches ‘heavy’ strikes on Iran",
-      "summary": "Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on Thursday US launches fresh strik…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+      "id": "560ba7808011",
+      "title": "French riot police used teargas on people trying to board small boat, charity claims",
+      "summary": "CRS officers funded by UK tried to stop boarding of boat, on day four asylum seekers died trying to cross Channel French riot police funded by UK taxpayers used teargas on asylum…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-30T19:02:24.000Z"
+      "publishedAt": "2026-07-30T19:20:16.000Z"
     },
     {
       "id": "7b6577a2296e",
@@ -618,16 +628,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-30T08:08:59.000Z"
-    },
-    {
-      "id": "64e6d9bd74ed",
-      "title": "‘Warring kingdoms’: cofounder of religious Reformers compares NSW Liberal party factionalism to Braveheart",
-      "summary": "Robert Assaf tells Icac that Angus Taylor wasn’t ‘that involved’ but the federal opposition leader ‘definitely wasn’t opposed’ to work of conservative group Follow our Australia…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/30/robert-assaf-nsw-liberal-party-braveheart-icac-hearings-angus-taylor-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T07:38:39.000Z"
     },
     {
       "id": "e080726f031e",
