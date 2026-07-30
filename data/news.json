@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T16:09:46.195Z",
+  "updatedAt": "2026-07-30T17:59:07.557Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,66 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "9627a21672f0",
+      "title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
+      "summary": "Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on Thursday US launches fresh strik…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T17:41:01.000Z"
+    },
+    {
+      "id": "c7c3cde717cd",
+      "title": "Russian missile destroys US firm’s Kyiv drone factory",
+      "summary": "Strike on Terminal Autonomy plant appears to be first time in the war that Moscow has targeted a US company A drone factory in Kyiv destroyed by a Russian ballistic missile on Fr…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/us-firm-drone-factory-terminal-autonomy-ukraine-russia",
+      "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-07-30T17:40:29.000Z"
+    },
+    {
+      "id": "3c7a0d7ddb43",
+      "title": "台湾台东县海域发生4.0级地震",
+      "summary": "中国地震台网正式测定：7月31日00时58分在台湾台东县海域(北纬23.01度，东经121.47度)发生4.0级地震，震源深度20千米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669575.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T17:35:39.000Z"
+    },
+    {
+      "id": "60fc1b6ee082",
+      "title": "Russia accused of violating Polish airspace after missile explosion near village",
+      "summary": "Polish PM visits scene of crater thought to have occurred during deadly wave of attacks on Ukraine Europe live – latest updates Russia has been accused of violating Polish airspa…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T17:22:31.000Z"
+    },
+    {
+      "id": "fa1885381e95",
+      "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
+      "summary": "Maria and Czeslaw Krupa, who arrived as children of displaced Polish veterans, told they have no post-Brexit rights to return home to Bury Two Polish citizens who have lived in t…",
+      "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-30T16:59:20.000Z"
+    },
+    {
+      "id": "1a87de015cfc",
+      "title": "英国央行维持基准利率3.75%不变",
+      "summary": "中新社伦敦7月30日电 (记者 欧阳开宇)英国央行当地时间30日召开货币政策会议，决定维持基准利率3.75%不变。此次会议内部分歧明显，投票比例为6比3。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669574.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-30T16:20:36.000Z"
+    },
+    {
       "id": "3e48e234f38d",
       "title": "解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
       "summary": "中新社北京7月30日电 据中国人民解放军南部战区社交平台官方账号消息，7月30日，中国人民解放军南部战区组织海空兵力位中国黄岩岛领海领空及周边海空域开展战备警巡。黄岩岛是中国固有领土。7月份以来，战区部队持续加强黄岩岛领海周边海空域巡逻警戒，有力有效应对各类侵权挑衅行径，坚决捍卫国家主权安全，坚定维护南海地区和平稳定。(完)",
@@ -40,19 +100,9 @@
       "publishedAt": "2026-07-30T15:56:24.000Z"
     },
     {
-      "id": "9627a21672f0",
-      "title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
-      "summary": "Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on Thursday US launches fresh strik…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T15:49:13.000Z"
-    },
-    {
       "id": "1ac0bcab9885",
       "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
-      "summary": "Split vote comes as Iran war is rekindled and oil price climbs back above $90 a barrel Business live – latest updates Only Middle East crisis is preventing drop in UK interest ra…",
+      "summary": "Split vote comes as Iran war is rekindled and oil price climbs close to $90 a barrel Business live – latest updates Only Middle East crisis is preventing drop in UK interest rate…",
       "url": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
       "source": "The Guardian Business",
       "category": "财经",
@@ -72,7 +122,7 @@
     {
       "id": "5e68a28d9b37",
       "title": "Iran’s war with the US is not its only conflict as internal crises mount",
-      "summary": "Government fears social discontent on ‘most important battlefield’ of economy and livelihoods as war takes its toll amid anti-state dissent Iran, in the midst of an escalating fi…",
+      "summary": "Government fears social discontent on ‘most important battlefield’ of economy and livelihoods as war takes its toll amid anti-state dissent Middle East crisis live – latest updat…",
       "url": "https://www.theguardian.com/world/2026/jul/30/iran-war-us-conflict-internal-crises-economy-dissent",
       "source": "The Guardian World",
       "category": "国际",
@@ -112,7 +162,7 @@
     {
       "id": "52a648d6f8fa",
       "title": "Firefighters race to extinguish blazes across EU as fire weather breaks records",
-      "summary": "European Forest Fire Information Service figures show conditions in EU 43% more severe than for same period in last 20 years Fire weather in the EU has broken records for severit…",
+      "summary": "Figures show hot, dry, windy conditions in EU are 43% more severe than the average over last 20 years Fire weather in the EU has broken records for severity for this time of year…",
       "url": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data",
       "source": "The Guardian World",
       "category": "国际",
@@ -410,26 +460,6 @@
       "publishedAt": "2026-07-30T13:32:54.000Z"
     },
     {
-      "id": "431027cb5061",
-      "title": "2026“新疆是个好地方”非遗援疆主题展示活动呈现共创成果",
-      "summary": "中新网新疆石河子7月30日电 (记者 应妮)2026“新疆是个好地方”非遗援疆主题展示活动30日在新疆生产建设兵团石河子市开幕，全国31个省区市和新疆生产建设兵团的651项非遗代表性项目、549位非遗代表性传承人汇聚于此，呈现共展共创共享的成果。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-30/10669541.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:32:12.000Z"
-    },
-    {
-      "id": "05ae36f903ee",
-      "title": "英国卫生机构：今年高温相关死亡人数估计已达2877人",
-      "summary": "中新网7月30日电 据路透社报道，今年以来英国估计已有2877人死于与高温相关的原因，这一数字接近2022年创下的纪录。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-30/10669547.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T13:31:50.000Z"
-    },
-    {
       "id": "1f92c156f3e9",
       "title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target",
       "summary": "Consumer spending remained resilient even as policymakers kept interest rates on hold The US economy expanded at a sluggish 1.5% pace from April through June as rising imports we…",
@@ -438,36 +468,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-30T13:21:19.000Z"
-    },
-    {
-      "id": "fa1885381e95",
-      "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
-      "summary": "Maria and Czeslaw Krupa, who arrived as children of displaced Polish veterans, told they have no post-Brexit rights to return home to Bury Two Polish citizens who have lived in t…",
-      "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T13:10:55.000Z"
-    },
-    {
-      "id": "0fcef9db6f11",
-      "title": "Europe burns: a visual guide to the wildfires",
-      "summary": "Ferocious flames continue to rage in parts of France and Spain, with no sign of abating. We chart the destruction in graphics and pictures The hellish infernos that have torn thr…",
-      "url": "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T13:00:15.000Z"
-    },
-    {
-      "id": "60fc1b6ee082",
-      "title": "Russia accused of violating Polish airspace after missile explosion near village",
-      "summary": "Polish PM visits scene of crater thought to have occurred during deadly wave of attacks on Ukraine Europe live – latest updates Russia has been accused of violating Polish airspa…",
-      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T12:50:16.000Z"
     },
     {
       "id": "b0d90ed1679d",
@@ -518,6 +518,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-30T11:55:00.000Z"
+    },
+    {
+      "id": "fd79d81f11ec",
+      "title": "Let them eat SUVs: Trump White House orders fleet of luxury cars as Americans struggle",
+      "summary": "Americans are facing a deepening affordability crisis but at least Trump and co have ... 250 new Cadillac Escalades This was originally published in This Week in Trumpland. Sign…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/29/trump-general-motors-escalades",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-30T11:00:13.000Z"
     },
     {
       "id": "8d50889e7d28",
@@ -1026,16 +1036,6 @@
       "url": "https://www.theguardian.com/games/2026/jul/28/the-mermaid-mask-review-detective-grimoire-sfb",
       "source": "The Guardian Technology",
       "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-28T09:00:35.000Z"
-    },
-    {
-      "id": "c6a519092b81",
-      "title": "ICE-linked security firm reports UK revenue slump after asylum contract ends",
-      "summary": "MTC provided security at heavily criticised Manston centre in Kent – and could now make £500m managing arrivals at site A private security company linked to Donald Trump’s immigr…",
-      "url": "https://www.theguardian.com/business/2026/jul/28/mtc-security-uk-ice-trump-manston-asylum-centre",
-      "source": "The Guardian Business",
-      "category": "商业",
       "language": "en",
       "publishedAt": "2026-07-28T09:00:35.000Z"
     },
