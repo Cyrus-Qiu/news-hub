@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T00:11:46.272Z",
+  "updatedAt": "2026-07-31T04:03:46.037Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,214 +30,364 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "dd36ad031ce1",
-      "title": "贵州贵定县通报洛北河“伴漂服务”：已开展调查",
-      "summary": "中新网7月31日电 据“贵定县文化广电和旅游局”微信公众号消息，7月31日，贵州贵定县文化广电和旅游局(县体育局)发布情况通报称，7月30日，“大风新闻”报道贵定县洛北河“伴漂服务”的信息，针对信息反映的内容，该局高度重视，已联合公安、市场监管等部门依法依规开展调查，调查结果将第一时间向社会公布。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669606.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T00:04:45.000Z"
-    },
-    {
-      "id": "6b213cb97bef",
-      "title": "报告：德国今年高温相关死亡人数已近万人",
-      "summary": "中新社柏林7月30日电 (记者 马秀秀)德国联邦疾控机构罗伯特·科赫研究所30日发布的报告显示，截至7月19日，德国今年高温相关死亡人数估计已达9800人，超过2016年以来任一完整年度的高温相关死亡人数。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669604.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T00:02:23.000Z"
-    },
-    {
-      "id": "235dad570cfd",
-      "title": "涉及生态环境、退役军人等 8月一批新规将实施",
-      "summary": "8月起，一批新规将开始施行，哪些与你我生活相关，一起了解。",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-31/10669608.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T00:02:01.000Z"
-    },
-    {
-      "id": "10e8effdf0f1",
-      "title": "（活力中国调研行）探访浙江清华长三角研究院",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-31/1199752.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T23:59:58.000Z"
-    },
-    {
       "id": "9627a21672f0",
-      "title": "Middle East crisis live: Trump claims breakthrough reached in Gaza disarmament; Israel and Hamas yet to comment",
+      "title": "Middle East crisis live: Trump claims breakthrough reached in Gaza disarmament; Hamas confirms deal",
       "summary": "US president claims his Board of Peace has reached ‘historic agreement for the complete disarmament of Hamas and all other armed groups in Gaza’ US launches fresh strikes on Iran…",
       "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-30T23:55:03.000Z"
+      "publishedAt": "2026-07-31T03:54:15.000Z"
+    },
+    {
+      "id": "46d72b138864",
+      "title": "7万亿元，新机遇！多视角解读 “数”看体育产业撬动经济活力增长极",
+      "summary": "央视网消息：国家体育总局近日发布《体育强国建设“十五五”规划》(以下简称《规划》)，其中设专章，为我国体育产业的发展设定目标规模、明确重点路径、作出系统部署。赛事经济活力十足，体育消费场景多元，装备制造提质升级，我国体育产业正以年均两位数的增速，成为国民经济的活力增长极。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669711.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:50:17.000Z"
+    },
+    {
+      "id": "5d64ae5943ec",
+      "title": "A股午评：超4500只个股飘红，三大指数集体收涨",
+      "summary": "；半导体板块暴涨，软件、通信设备、教育上涨；银行回调，保险、酒类下跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669810.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:49:59.000Z"
     },
     {
       "id": "4e54762f20ca",
-      "title": "Australia news live: Australia sends firefighters to France as blazes rage; leaders gather for Garma festival",
-      "summary": "A Chinook helicopter equipped with a 11,300-litre water tank and a support aircraft would be deployed, alongside 24 skilled aerial and ground crew from the New South Wales Rural…",
+      "title": "Australia news live: Reformers member tells Icac he can’t recall Taylor making donation, saying ‘I don’t think Angus worked out’",
+      "summary": "Former premier’s brother to appear before inquiry. Follow live Get our breaking news email , free app or daily news podcast eSafety commissioner says court action against Telegra…",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-30T23:51:43.000Z"
+      "publishedAt": "2026-07-31T03:47:13.000Z"
     },
     {
-      "id": "da609e6a09dd",
-      "title": "避暑游拉动文旅消费 “凉资源”变成“热流量”",
-      "summary": "入伏以来，全国多地迎来酷暑高温，避暑游成为旅游市场主角。游客或奔赴清凉户外，或走进室内文博场馆、冰雪世界、工厂车间，或前往避暑小城，多样避暑游拉动文旅消费，“清凉经济”展现出强劲活力。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669605.shtml",
+      "id": "34dfe115362d",
+      "title": "长江十年行丨从好生态到好生活 重庆如何让绿水青山落地生金？",
+      "summary": "第1眼TV-华龙网讯(首席记者 陈雨)夏日的长寿湖畔，河水清澈，两岸草木葱郁，湖边孩童嬉戏。“这里曾经也是饱受污染的臭水湖，系统治理后，才有了如今的湖光山色美如画。”长寿湖镇党委书记程康说。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669709.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T23:51:06.000Z"
+      "publishedAt": "2026-07-31T03:45:39.000Z"
     },
     {
-      "id": "c4a85fa5f521",
-      "title": "菲尔兹奖双响，带给中国数学哪些思考",
-      "summary": "北京时间7月23日晚，2026年国际数学家大会开幕式上，中国数学家王虹、邓煜摘得菲尔兹奖。这是中国籍数学家首次获得该奖项，也是中国数学家首次在同一届菲尔兹奖中收获两枚奖章。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669603.shtml",
+      "id": "b89a088e9522",
+      "title": "国家发改委：我国经济呈现动能向新、结构向优的发展态势",
+      "summary": "中新网7月31日电 国家发展改革委7月31日召开7月份新闻发布会。国家发展改革委国民经济综合司副司长周宏伟表示，今年以来，国际局势更趋复杂严峻，对世界经济运行和全球产业链供应链稳定造成严重冲击，“我们有效应对各种外部冲击和内部困难，我国经济呈现动能向新、结构向优的发展态势”。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669769.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T23:47:46.000Z"
+      "publishedAt": "2026-07-31T03:42:41.000Z"
     },
     {
-      "id": "74d1d7164793",
-      "title": "收到税务提醒，互联网平台内经营者如何自查整改？",
-      "summary": "收到税务提醒，互联网平台内经营者如何自查整改(服务窗)",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669602.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T23:45:54.000Z"
-    },
-    {
-      "id": "9fe8a05a3f0d",
-      "title": "凤凰卫视原知名主持人沈蓓蓓逝世，享年78岁",
-      "summary": "澎湃新闻记者从沈蓓蓓生前多位友人处获悉，凤凰卫视原知名主持人沈蓓蓓女士，已于2026年7月25日因病逝世，享年78岁。将于8月6日在香港举行告别仪式。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-31/10669600.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T23:43:58.000Z"
-    },
-    {
-      "id": "9a56865611e4",
-      "title": "澳大利亚首都堪培拉掠影",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/07-31/1199749.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T23:41:24.000Z"
-    },
-    {
-      "id": "2f920c6ba5f3",
-      "title": "AI夜校，“越夜越热”",
-      "summary": "傍晚时分，北京市中关村AI北纬社区内，人工智能OPC夜校灯火通明，青年创业者端坐电脑前，系统梳理各类AI工具，精心规划适配自身业务的全套运营方案；同一时刻，广东省深圳市福田区华强北街道AI夜校里，刚收完档口的商户们围聚在教室内，认真学习如何借助AI智能体生成多语种跨境产品文案……",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669598.shtml",
+      "id": "6d9b1eafc613",
+      "title": "人文素养“校准”技术温度 文科生解锁新就业赛道",
+      "summary": "AI技术飞速普及，科技企业跨界招录文科生成为新趋势。文科专业迎来了新的就业机会。文科素养叠加AI技能成为求职的新优势，不少高校文科生主动跨界学习、适配市场新需求，解锁全新就业赛道。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669704.shtml",
       "source": "中国新闻网",
       "category": "AI",
       "language": "zh",
-      "publishedAt": "2026-07-30T23:40:46.000Z"
+      "publishedAt": "2026-07-31T03:40:23.000Z"
     },
     {
-      "id": "34839619a34c",
-      "title": "遇险事故频发 野外出游不能走“野路子”",
-      "summary": "野外出游不能走“野路子”",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669597.shtml",
+      "id": "ac39a8a29842",
+      "title": "【国际漫评】山姆牌“迷魂汤”",
+      "summary": "近日，美国前国务卿布林肯公开承认，中国在制造业、消费市场、技术专利等关键领域优势突出，美国仅凭自身实力，根本无法在对华博弈中取胜。为此，他极力拉拢欧、日、韩、印、澳等经济体抱团结盟，企图构建对华制衡阵营。",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669698.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T23:38:09.000Z"
+      "publishedAt": "2026-07-31T03:38:37.000Z"
     },
     {
-      "id": "cd5d864f1d58",
-      "title": "第12批国家组织药品集采将在上海开标",
-      "summary": "新华社上海7月31日电(记者彭韵佳、龚雯)7月31日，第12批国家组织药品集采将在上海开标，投标企业7时30分开始陆续入场递交报价材料。本次集采共纳入65种药品，覆盖抗感染、抗肿瘤、抗血栓、降血糖、降血压、降血脂、风湿免疫、消炎镇痛等领域常用药品。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669596.shtml",
+      "id": "d5ac30ff616d",
+      "title": "文化中国行︱一抔泥土的千年远征",
+      "summary": "视频：文化中国行︱一抔泥土的千年远征来源：大江新闻",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669800.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T23:33:29.000Z"
+      "publishedAt": "2026-07-31T03:38:03.000Z"
     },
     {
-      "id": "4235fca69768",
-      "title": "养老机器人叩响百姓门 百亿市场预期下的“理想”与“现实”",
-      "summary": "清晨，家住北京市的周青老人照常被“保姆”叫醒。这个“保姆”有点特殊，它不用吃饭、睡觉，却能准时叫人起床，提醒人按时睡觉和吃药。",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669595.shtml",
+      "id": "eca28c9124ef",
+      "title": "深入学习贯彻习近平党建思想 推动新时代新征程纪检监察工作高质量发展（深入学习贯彻习近平新时代中国特色社会主义思想）",
+      "summary": "人民日报 中央纪委国家监委机关",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-31/10669682.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T23:32:13.000Z"
+      "publishedAt": "2026-07-31T03:37:21.000Z"
     },
     {
-      "id": "ab4aef73a4d0",
-      "title": "特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议",
-      "summary": "中新网7月31日电 据土耳其阿纳多卢通讯社报道，美国总统特朗普当地时间30日表示，已就哈马斯“全面解除武装”达成协议，随着这一进程的推进，以色列军队将撤出加沙地带。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669594.shtml",
+      "id": "1b885b7fbe48",
+      "title": "2026年质量督察首批督察组全部实现督察进驻",
+      "summary": "中新网7月31日电 据“市说新语”微信公众号消息，按照2026年质量督察有关工作安排，2026年质量督察首批督察组已于近日陆续进驻江苏、浙江、山东和广东4省开展质量督察工作。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669774.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T23:22:03.000Z"
+      "publishedAt": "2026-07-31T03:34:30.000Z"
     },
     {
-      "id": "6098a4d601cc",
-      "title": "美国否认伊朗摧毁三架F-35战斗机的说法",
-      "summary": "中新网7月31日电 据土耳其阿纳多卢通讯社报道，美国军方当地时间7月30日否认了伊朗媒体关于导弹袭击摧毁数架美国F-35隐形战斗机的报道。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669593.shtml",
+      "id": "8a9487161c55",
+      "title": "“机械陪伴者”如何通过伦理安全关",
+      "summary": "《人工智能拟人化互动服务管理暂行办法》施行",
+      "url": "https://www.chinanews.com.cn/fz/2026/07-31/10669784.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T23:09:26.000Z"
+      "publishedAt": "2026-07-31T03:26:50.000Z"
     },
     {
-      "id": "54aee5e57f02",
-      "title": "7月31日新闻早报",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/07-31/10669592.shtml",
+      "id": "919a1e73cb89",
+      "title": "香港青少年赴江西吉安研学 沉浸式感悟庐陵文脉",
+      "summary": "中新网吉安7月31日电 (付丽玲 李颖婷)“以前只在课本里读到过科举制度，今天实地走进吉安，才真切感受到古代读书人的求学追求与家国担当，很受触动。”来自香港裘锦秋中学(元朗)的高二学生陈嘉欣说。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/07-31/10669781.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T22:59:53.000Z"
+      "publishedAt": "2026-07-31T03:23:06.000Z"
     },
     {
-      "id": "182c06a74124",
-      "title": "外媒：欧足联或将抵制世界杯",
-      "summary": "中新网7月31日电 据英国广播公司(BBC)报道，当地时间7月30日，欧足联的55个成员协会投票决定，如果国际足联继续推进将世界杯股份出售给私人投资者的计划，他们将抵制世界杯。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669591.shtml",
+      "id": "2e2d31b5a911",
+      "title": "7月中国非制造业商务活动指数为49%",
+      "summary": "中新社北京7月31日电 (记者 阮煜琳)中国物流与采购联合会31日发布数据显示，7月份，中国非制造业商务活动指数为49%，环比下降1.2个百分点，结束连续两个月环比上升走势，意味着非制造业景气水平较上月有所下降。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669753.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T22:54:37.000Z"
+      "publishedAt": "2026-07-31T03:22:18.000Z"
     },
     {
-      "id": "ede44ad7e969",
-      "title": "欧足联宣布抵制所有国际足联赛事",
-      "summary": "当地时间7月30日，欧洲足球管理机构欧足联及其55个成员国投票决定“抵制所有国际足联赛事”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669590.shtml",
+      "id": "27e38bd3d1f6",
+      "title": "7月中国制造业PMI回落至49.2%",
+      "summary": "中新社北京7月31日电 (记者 王恩博)中国国家统计局7月31日公布，受前期制造业较快增长基数较高、部分制造业行业进入传统生产淡季等因素影响，7月份中国制造业采购经理指数(PMI)降至49.2%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669754.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T22:53:51.000Z"
+      "publishedAt": "2026-07-31T03:21:50.000Z"
     },
     {
-      "id": "31aaa407fb20",
-      "title": "特朗普称已就哈马斯“全面解除武装”达成协议",
-      "summary": "新华社华盛顿7月30日电 美国总统特朗普30日在社交媒体发文称，美国发起的所谓“和平委员会”就哈马斯和加沙地带其他武装组织“全面解除武装”达成了一项历史性协议。(完)",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669589.shtml",
+      "id": "47d5f434d506",
+      "title": "2026“亲情中华·中国寻根之旅”夏令营闽宁营顺利结营",
+      "summary": "中新网银川7月31日电 (记者 李佩珊)7月30日下午，2026“亲情中华·中国寻根之旅”夏令营闽宁营闭营式在宁夏银川举行。来自缅甸、英国、德国、法国、意大利等10个国家的70名华裔青少年及带队老师参与活动，顺利结束本次研学行程。",
+      "url": "https://www.chinanews.com.cn/txy/2026/07-31/10669757.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-07-30T22:52:18.000Z"
+      "publishedAt": "2026-07-31T03:21:16.000Z"
+    },
+    {
+      "id": "fa5e2908a0f4",
+      "title": "成都高新区通报“河面出现大量白色泡沫”：水质恢复达标",
+      "summary": "中新网7月31日电 据“成都市高新区生态环境城管局”微信公众号消息，7月31日，成都市高新区生态环境城管局发布情况通报称，7月29日下午，有网民反映高攀河与锦江交汇处河面出现大量白色泡沫。高新区生态环境城管局立即赶赴现场核查处置，并及时向上游武侯生态环境局通报异常情况。当日18时40分，河面泡沫消除，河道恢复原貌，现场快速监测显示水质达标，同步委托专业机…",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669733.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:21:10.000Z"
+    },
+    {
+      "id": "6bcba81dab29",
+      "title": "济商高速全线通车 加密山东对接中原经济区交通脉络",
+      "summary": "中新网山东成武7月31日电 题：济商高速全线通车 加密山东对接中原经济区交通脉络",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669758.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:20:56.000Z"
+    },
+    {
+      "id": "875788675ea6",
+      "title": "海河药香藏文脉 张伯礼寄语华裔少年：中医药是东方生活哲学",
+      "summary": "中新网天津7月31日电 (记者 孙玲玲 周亚强)20日至29日，2026“亲情中华·中国寻根之旅”夏令营(天津中医药大学营)在天津举办。来自荷兰、巴基斯坦、西班牙的30名海外华裔青少年及领队跨越山海，齐聚渤海之滨，在为期十天的研学活动中沉浸式感受津沽风情与中医药文化魅力。",
+      "url": "https://www.chinanews.com.cn/txy/2026/07-31/10669767.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:20:38.000Z"
+    },
+    {
+      "id": "5277a0f03640",
+      "title": "何以景德镇：千年瓷都，“新”火如何相传？",
+      "summary": "中新网景德镇7月31日电 题：何以景德镇：千年瓷都，“新”火如何相传？",
+      "url": "https://www.chinanews.com.cn/txy/2026/07-31/10669766.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:20:08.000Z"
+    },
+    {
+      "id": "7cf9d268f5a0",
+      "title": "习近平：强国必须强军，军强才能国安",
+      "summary": "今年是中国人民解放军建军99周年，99年风雨兼程，辉煌荣光。“强国必须强军，军强才能国安。” 党的十八大以来，中共中央总书记、国家主席、中央军委主席习近平始终高度重视国防和军队建设，在不同场合多次发表重要论述，为强军建设指引奋进方向。",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-31/10669765.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:20:02.000Z"
+    },
+    {
+      "id": "f4cdd7fa3af5",
+      "title": "495家企业投标第12批国家组织药品集采",
+      "summary": "7月31日10时30分，第12批国家组织药品集中带量采购企业递交报价材料结束，共有495家企业的859个产品投标。现场进入唱标环节。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669771.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:19:52.000Z"
+    },
+    {
+      "id": "0804be358060",
+      "title": "中西方民族问题治理的差异是什么？",
+      "summary": "就现代国家的建构而言，中西方有巨大差异。“广西样本”有四大经验。",
+      "url": "https://www.chinanews.com.cn/dxw/2026/07-31/10669742.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:19:50.000Z"
+    },
+    {
+      "id": "79b536adad1f",
+      "title": "今年中国7550亿元人民币中央预算内投资基本下达完毕",
+      "summary": "中新社北京7月31日电 (记者 王恩博)中国国家发改委新闻发言人蒋毅7月31日在北京表示，今年7550亿元人民币中央预算内投资已基本下达完毕。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669751.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:19:30.000Z"
+    },
+    {
+      "id": "fbc6ad2dbcd8",
+      "title": "越南博主看云南：边陲老巷有新意、村村寨寨皆从容",
+      "summary": "中新网保山7月31日电 (陆希成)“这是什么？这又是什么？怎么吃？”在云南省保山市板桥镇青龙街，越南自媒体博主小青的镜头一直停不下来。她面对未曾见过的木瓜水、烧肉米线、琳琅满目的各类果脯……边拍边发问。她说，自己是在记录生活，更是在体验不一样的生活。",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669746.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:11:03.000Z"
+    },
+    {
+      "id": "afc499641318",
+      "title": "上海市欧美同学会发布“百年留印·申城留学报国足迹图”",
+      "summary": "中新网上海7月31日电(范宇斌)30日，上海市欧美同学会在上海市留学人员之家发布“百年留印·申城留学报国足迹图”。",
+      "url": "https://www.chinanews.com.cn/txy/2026/07-31/10669744.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:10:31.000Z"
+    },
+    {
+      "id": "9485779a42d6",
+      "title": "上海市知联会成立40周年 三代知友共话成长",
+      "summary": "中新网上海7月31日电 (范宇斌)近日，上海中青年知识分子联谊会(以下简称：上海市知联会)成立40周年特别策划之“同心知联汇讲坛——四十正青春”首场活动在上海市统战文化活动中心举行。",
+      "url": "https://www.chinanews.com.cn/txy/2026/07-31/10669743.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:09:55.000Z"
+    },
+    {
+      "id": "a16370aac25f",
+      "title": "2026年“奔跑吧·少年”全国青少年阳光体育大会在河南郑州开幕",
+      "summary": "中新网郑州7月31日电 (记者 王宇)7月30日晚，2026年“奔跑吧·少年”全国青少年阳光体育大会在河南郑州开幕。",
+      "url": "https://www.chinanews.com.cn/ty/2026/07-31/10669738.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:09:39.000Z"
+    },
+    {
+      "id": "a1c6e7b42497",
+      "title": "国家发改委：“六张网”建设正加快推进 政策红利持续释放",
+      "summary": "中新网7月31日电 国家发展改革委7月31日召开7月份新闻发布会。国家发展改革委新闻发言人蒋毅介绍“六张网”建设情况时表示，在各方共同努力下，一大批项目抓紧开工，拟于年内开工的重大单体项目多数已经实现开工。“六张网”建设正在加快推进，政策红利也在持续释放。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669729.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:07:59.000Z"
+    },
+    {
+      "id": "deb335ea0120",
+      "title": "‘A car in the bus!’: Toyota becomes airborne and then wedges in side of Brisbane bus",
+      "summary": "Queensland police fine driver of another car that allegedly caused Yaris to swerve before it hit kerb and catapulted into air – and bus A Queensland driver has been fined after b…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/31/brisbane-bus-car-crash",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T03:04:40.000Z"
+    },
+    {
+      "id": "6dee5591e9e2",
+      "title": "超30%增速 人工智能成为经济增长的澎湃动力源",
+      "summary": "今天上午，国家发展改革委举行7月份新闻发布会。国家发展改革委新闻发言人表示，上半年，我国人工智能自主创新步伐加快，在全产业链多环节实现快速突破。",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669739.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:04:11.000Z"
+    },
+    {
+      "id": "d4e501ca2796",
+      "title": "广州双沙城更项目沙浦片区启动摇珠",
+      "summary": "又一批黄埔村民分新房！",
+      "url": "https://www.chinanews.com.cn/dwq/2026/07-31/10669737.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T03:02:49.000Z"
+    },
+    {
+      "id": "60ff4e0031ec",
+      "title": "Pauline Hanson’s comments on ‘good Muslims’ don’t breach hate speech laws, Australian federal police finds",
+      "summary": "One Nation leader’s ‘how can you tell me there are good Muslims?’ remarks were the subject of complaints, but police say the matter has now been finalised Follow our Australia ne…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/31/pauline-hanson-muslim-comments-afp-australian-federal-police-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T02:44:15.000Z"
+    },
+    {
+      "id": "1361fad83a77",
+      "title": "Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertain",
+      "summary": "US president’s Board of Peace hails ‘critical step’, but responses of Israeli and Hamas officials suggest disagreements remain Middle East crisis – live updates What is Trump’s B…",
+      "url": "https://www.theguardian.com/world/2026/jul/31/trump-hamas-disarmament-agreement-gaza-board-of-peace",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T02:11:06.000Z"
+    },
+    {
+      "id": "b95569640ed6",
+      "title": "香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯",
+      "summary": "來自香港科技大學廣州分校的一項研究顯示，生命早期較少攝取糖分有助長期腦部健康，但相關證據尚未有定論。",
+      "url": "https://www.bbc.com/zhongwen/articles/c78gny39xl8o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-31T00:27:53.000Z"
+    },
+    {
+      "id": "2e78d515f2fd",
+      "title": "驗血與超聲波檢查：韓國正成為全球醫療旅遊樞紐之一",
+      "summary": "愈來愈多旅客把全面身體檢查納入韓國行程，原因在於價格相宜、報告出得快，以及提供英語支援服務。",
+      "url": "https://www.bbc.com/zhongwen/articles/cgjegwxddeqo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-31T00:27:49.000Z"
     },
     {
       "id": "154094179ab9",
@@ -248,106 +398,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-30T22:48:02.000Z"
-    },
-    {
-      "id": "89c69b4478ae",
-      "title": "那达慕，好一场热烈的草原之约",
-      "summary": "(聚焦传统体育)",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669588.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T22:41:52.000Z"
-    },
-    {
-      "id": "b7f29aef5bfb",
-      "title": "日本政府正式设立“国家情报局”",
-      "summary": "当地时间7月31日，日本政府正式设立“国家情报局”。首任局长为原和也。原和也曾历任警察厅外事课课长、警备局局长等职务，自2023年起担任内阁情报官。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669587.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T22:37:08.000Z"
-    },
-    {
-      "id": "ca2771913d3e",
-      "title": "伊朗军方称打击约旦美军基地并摧毁3架F-35战机",
-      "summary": "当地时间30日，伊朗伊斯兰革命卫队在一份声明中表示，当天黎明时分，美国利用其军事基地对伊朗发动了空袭，导致伊朗格什姆岛上的两栋房屋遭袭，造成一家三口(父亲、母亲和一名儿童)死亡，另有两名儿童受伤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669586.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T22:35:20.000Z"
-    },
-    {
-      "id": "18da49cbb0c8",
-      "title": "美国30年期贷款利率升至6.66% 创一年来最高值",
-      "summary": "中新社华盛顿7月30日电 (记者 沙晗汀)美国住房金融机构房地美(Freddie Mac)当地时间30日公布数据显示，美国30年期固定抵押贷款平均利率升至6.66%，是自去年7月31日以来的最高值。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669585.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T22:31:51.000Z"
-    },
-    {
-      "id": "edbe12270770",
-      "title": "安理会就下任联合国秘书长遴选举行首轮意向性投票",
-      "summary": "中新社联合国7月30日电 (记者 王帆)联合国安理会30日对角逐下任联合国秘书长职务的7位候选人进行首轮意向性投票，标志着秘书长遴选进入关键阶段。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669584.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T22:30:49.000Z"
-    },
-    {
-      "id": "8a55086513bc",
-      "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
-      "summary": "中新社北京7月31日电 中国海警局消息，7月30日，中国海警位中国黄岩岛领海及周边区域开展执法巡查。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669583.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T22:30:19.000Z"
-    },
-    {
-      "id": "af74b33c2246",
-      "title": "美国第二季度经济增长1.5% 低于市场预期",
-      "summary": "中新社华盛顿7月30日电 (记者 沙晗汀)美国商务部当地时间30日公布首次预估数据显示，今年第二季度美国实际国内生产总值(GDP)按年率计算环比增长1.5%，低于市场预期。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669582.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T22:29:49.000Z"
-    },
-    {
-      "id": "a122a736504d",
-      "title": "德国7月通胀率升至2.8%",
-      "summary": "中新社柏林7月30日电 (记者 马秀秀)德国联邦统计局30日公布的初步数据显示，德国7月通胀率升至2.8%，较6月的2.3%明显上升。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669581.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T22:28:55.000Z"
-    },
-    {
-      "id": "29b9d0a3ea2c",
-      "title": "德国经济第二季度环比微增0.2%",
-      "summary": "中新社柏林7月30日电 (记者 马秀秀)德国联邦统计局30日公布的初步数据显示，经价格、季节和工作日调整，2026年第二季度德国国内生产总值环比增长0.2%，略高于经济学家此前预期的0.1%。",
-      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669580.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T22:27:39.000Z"
-    },
-    {
-      "id": "6c70ceb564e6",
-      "title": "重庆彭水山体崩塌找到并确认51人遇难 10人失联",
-      "summary": "中新社重庆7月30日电 据“彭水发布”消息，重庆彭水山体崩塌现场救援指挥部30日晚通报，彭水县汉葭街道山体崩塌灾害发生以来，目前找到并确认51人遇难，仍有10名失联人员。",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669579.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T22:27:13.000Z"
     },
     {
       "id": "fa0ed8a420d7",
@@ -368,16 +418,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-30T19:20:16.000Z"
-    },
-    {
-      "id": "7b6577a2296e",
-      "title": "被动投保退费难？一文了解弹窗投保套路 教你轻松维权止损",
-      "summary": "银行卡莫名其妙被扣钱，查了半天才发现是一份“根本不知道什么时候买的保险”？最近，不少消费者反映，自己在充电桩扫码充电、租借共享充电宝，甚至刷视频、逛网店的时候，稀里糊涂就“被投保”了，想退费更是难上加难。记者调查发现，这背后隐藏着一个从弹窗广告到自动扣费的“投保陷阱”，这里面有着怎样的套路？消费者该如何避坑？网络平台和保险公司又该承担怎样的责任呢？",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669578.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-30T18:19:44.000Z"
     },
     {
       "id": "52a648d6f8fa",
@@ -580,14 +620,14 @@
       "publishedAt": "2026-07-30T11:00:12.000Z"
     },
     {
-      "id": "42d2cef8d11d",
-      "title": "Book returned to Australian library – 150 years overdue",
-      "summary": "The book, Antiquities of Athens, was handed back to Kiama library by a man who found it bricked into a wall An Australian public library has had a book returned an estimated 150…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/30/book-returned-to-australian-library-150-years-overdue",
-      "source": "The Guardian World",
-      "category": "国际",
+      "id": "c7f69c5624a7",
+      "title": "Lloyds Bank to cut £2bn in costs as part of AI-powered strategy",
+      "summary": "Chief executive says the four-year plan will lead to greater efficiency but gives no details of potential job losses Business live – latest updates Lloyds Banking Group will cut…",
+      "url": "https://www.theguardian.com/business/2026/jul/30/lloyds-bank-cut-2bn-costs-part-ai-powered-strategy",
+      "source": "The Guardian Technology",
+      "category": "AI",
       "language": "en",
-      "publishedAt": "2026-07-30T10:59:19.000Z"
+      "publishedAt": "2026-07-30T10:22:52.000Z"
     },
     {
       "id": "b8c1290c655e",
@@ -618,16 +658,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-30T08:54:59.000Z"
-    },
-    {
-      "id": "898ad589c7f3",
-      "title": "Kumanjayi Little Baby murder trial delayed until December – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Minister says meeting Closing the Gap target a major step, but more work needed on others Mal…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-30T08:08:59.000Z"
     },
     {
       "id": "e080726f031e",
@@ -718,16 +748,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-29T18:05:59.000Z"
-    },
-    {
-      "id": "bb3d4466011c",
-      "title": "US-Saudi strikes in Iraq push region into ‘uncharted territory’, analysts warn",
-      "summary": "Riyadh’s decision to join US in strikes on Iran-backed militia further complicates widening and ‘unpredictable’ war Middle East crisis – live updates US-Saudi strikes on Iran-bac…",
-      "url": "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T17:55:37.000Z"
     },
     {
       "id": "16e17479f03c",
@@ -838,26 +858,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-29T09:08:57.000Z"
-    },
-    {
-      "id": "ced452e787ed",
-      "title": "重視骨骼健康就是補鈣？吃哪些食物會有幫助？",
-      "summary": "我們的骨質密度開始下降的時間其實比你想像中更早。不過，只要飲食中攝取足夠的特定營養就有助維持骨骼強健，這些都是有幫助的食物。",
-      "url": "https://www.bbc.com/zhongwen/articles/cdx7vvn1n29o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-29T08:52:55.000Z"
-    },
-    {
-      "id": "bdec747cb26c",
-      "title": "Datacentre projects face fees for grid access to ease connection queue, Ofgem says",
-      "summary": "Energy regulator’s plan would mean upfront fees or financial security via letters of credit, bonds or cash deposits Datacentre projects in Britain will be forced to pay hundreds…",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-29T07:42:01.000Z"
     },
     {
       "id": "f1b214a708f6",
@@ -1140,16 +1140,6 @@
       "publishedAt": "2026-07-27T12:09:41.000Z"
     },
     {
-      "id": "d9a506f5ca8d",
-      "title": "所羅門群島中資金礦坍塌傳多人死亡 突顯「淘金熱」隱憂",
-      "summary": "中資控股金嶺金礦凌晨坍塌，法新社傳至少10人死亡；非法礦工淘金熱再釀悲劇，凸顯所羅門資源治理困境。",
-      "url": "https://www.bbc.com/zhongwen/articles/cn0n57kynz2o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-27T12:02:43.000Z"
-    },
-    {
       "id": "e6390da5512c",
       "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
       "summary": "中國一名6歲女童接受實驗性基因編輯治療後一周內死亡，事件一直未有公開，直至國際學術期刊《科學》與學術誠信監督平台「撤稿觀察」展開調查才曝光，引發中國官方調查及科學界廣泛關注。",
@@ -1178,16 +1168,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-27T06:00:32.000Z"
-    },
-    {
-      "id": "d365f1782bfb",
-      "title": "「它一點點侵蝕我的身體」：韓國超級便利隔夜送貨的人命代價",
-      "summary": "在高度互聯的韓國夜間送貨十分普遍，但引發了關於工作條件的討論。",
-      "url": "https://www.bbc.com/zhongwen/articles/c1l1m290yl3o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-27T04:51:41.000Z"
     },
     {
       "id": "8e037b48ffb5",
@@ -1228,6 +1208,26 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-26T10:00:08.000Z"
+    },
+    {
+      "id": "64934dbed4f8",
+      "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
+      "summary": "Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay In March, Anthropic, the cutting-edge artificial in…",
+      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-25T13:00:43.000Z"
+    },
+    {
+      "id": "3ecc7db58a46",
+      "title": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun",
+      "summary": "If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful it is. And who benefits from that? On 14 February 2019, OpenAI announced a language model called…",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-24T13:00:14.000Z"
     }
   ]
 }
