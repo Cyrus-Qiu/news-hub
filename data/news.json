@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T16:51:46.506Z",
+  "updatedAt": "2026-07-31T18:39:25.212Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,16 +30,6 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "6fc66372fbef",
-      "title": "Italy says it’s suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – Europe live",
-      "summary": "The measure will impact people travelling by plane or boat between the two countries Spanish prime minister Pedro Sánchez is now in Ceuta, accompanied by interior minister Fernan…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T16:45:01.000Z"
-    },
-    {
       "id": "860c295fd16d",
       "title": "Middle East crisis live: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first",
       "summary": "The agreement is a ‘great breakthrough’, the president says in response to media questions Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertai…",
@@ -47,7 +37,37 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-31T16:43:00.000Z"
+      "publishedAt": "2026-07-31T18:06:38.000Z"
+    },
+    {
+      "id": "8caef9b18446",
+      "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident Europe live – latest updates At least 57 people have died trying t…",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T17:52:11.000Z"
+    },
+    {
+      "id": "6fc66372fbef",
+      "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
+      "summary": "The measure will impact people travelling by plane or boat between the two countries Spanish prime minister Pedro Sánchez is now in Ceuta, accompanied by interior minister Fernan…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T17:43:45.000Z"
+    },
+    {
+      "id": "82551056344d",
+      "title": "BP puts North Sea oil and gas business up for sale",
+      "summary": "Move will end six decades of production in area, as new CEO tries to simplify company and cut debt Business live – latest updates BP has put its North Sea oil and gas business up…",
+      "url": "https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-31T17:06:51.000Z"
     },
     {
       "id": "44e39630c181",
@@ -60,14 +80,14 @@
       "publishedAt": "2026-07-31T16:36:26.000Z"
     },
     {
-      "id": "8caef9b18446",
-      "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident Europe live – latest updates At least 57 people have died trying t…",
-      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "id": "2a1585c44b18",
+      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
+      "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV p…",
+      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-31T16:34:43.000Z"
+      "publishedAt": "2026-07-31T16:29:14.000Z"
     },
     {
       "id": "b0472b2f0d22",
@@ -121,7 +141,7 @@
     },
     {
       "id": "86cec605ddbe",
-      "title": "World-renowned climber Nirmal Purja among 10 struck by avalanche on Pakistan mountain",
+      "title": "World-renowned climber Nirmal Purja among 11 struck by avalanche on Pakistan mountain",
       "summary": "Rescuers say four bodies found in search for team caught in Broad Peak avalanche, after trackers showed rapid descent The world-renowned Nepali mountaineer Nirmal Purja – a forme…",
       "url": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain",
       "source": "The Guardian World",
@@ -450,16 +470,6 @@
       "publishedAt": "2026-07-31T13:46:11.000Z"
     },
     {
-      "id": "82551056344d",
-      "title": "BP puts North Sea oil and gas business up for sale",
-      "summary": "Move will end six decades of production in area, as new CEO tries to simplify firm and cut debt Business live – latest updates BP has put its North Sea oil and gas business up fo…",
-      "url": "https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-31T12:26:23.000Z"
-    },
-    {
       "id": "0042a3650916",
       "title": "BTS are back: return of K-pop superstars sparks US economic boom",
       "summary": "Cities in North America hosting 14 concerts in August and September – and economic impact is set to be significant BTS’s “Army” fanbase is descending on New York this weekend as…",
@@ -600,6 +610,16 @@
       "publishedAt": "2026-07-31T06:10:24.000Z"
     },
     {
+      "id": "d9b38e384040",
+      "title": "Drones offer alternative to balloons for weather research",
+      "summary": "Pre-programmed flights gather data at different altitudes then return to bases to recharge and download Weather happens in the boundary layer, the atmosphere from ground level to…",
+      "url": "https://www.theguardian.com/news/2026/jul/31/weatherwatch-drone-base-station-offers-alternative-weather-balloons",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-31T05:00:04.000Z"
+    },
+    {
       "id": "15cc492fcc53",
       "title": "Could AI take your job? Some workers in China already know the answer",
       "summary": "Across the country, workers are fearful about the impact of AI on their livelihoods in an increasingly fragile labour market On the tree-lined streets of Wuhan, where cars jostle…",
@@ -631,7 +651,7 @@
     },
     {
       "id": "1f38712b054a",
-      "title": "Anthropic’s AI Claude escaped testing environment and hacked organizations",
+      "title": "Anthropic’s AI Claude hacked into three organizations during cybersecurity test",
       "summary": "Company says it discovered unauthorized access during ‘proactive review’ after rival OpenAI revealed rogue agent Anthropic ⁠said on Thursday its AI Claude model hacked ⁠systems o…",
       "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
       "source": "The Guardian Technology",
@@ -1060,16 +1080,6 @@
       "publishedAt": "2026-07-28T10:00:02.000Z"
     },
     {
-      "id": "a07611be8cf7",
-      "title": "Spies in the sky: how worried should we be about the arrival of AI-enabled smart lamp-posts?",
-      "summary": "The new breed of camera-equipped streetlights has the potential to fight crime and track down missing persons. Or will it just take Britain one step closer to a surveillance stat…",
-      "url": "https://www.theguardian.com/world/2026/jul/28/spies-in-sky-worried-ai-enabled-smart-lamp-posts-surveillance",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-28T10:00:01.000Z"
-    },
-    {
       "id": "f1c41a01c494",
       "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
       "summary": "美國與伊朗的戰爭正好發生在常被稱為「戴維森窗口」的時間點之前。在部分美軍事規劃者眼中，中國在此期間對台灣發動入侵的可能性會升高。",
@@ -1128,16 +1138,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-27T16:27:44.000Z"
-    },
-    {
-      "id": "7f57bc289646",
-      "title": "Shots fired near US consulate in Canada for second time in four months",
-      "summary": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police say Shots were fired near the US consulate in Toronto early on Mon…",
-      "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-27T16:20:56.000Z"
     },
     {
       "id": "7ab85cf07f6b",
