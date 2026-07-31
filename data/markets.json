@@ -1,42 +1,15 @@
 {
-  "updatedAt": "2026-07-31T15:03:39.106Z",
-  "failedCount": 1,
+  "updatedAt": "2026-07-31T16:52:06.592Z",
+  "failedCount": 4,
   "markets": [
-    {
-      "id": "NASDAQCOM",
-      "name": "纳斯达克综合指数",
-      "unit": "index",
-      "value": 25122.18,
-      "changePercent": 2.7788801183491088,
-      "asOf": "2026-07-30",
-      "source": "FRED"
-    },
-    {
-      "id": "DTWEXBGS",
-      "name": "美元广义指数",
-      "unit": "index",
-      "value": 120.7105,
-      "changePercent": -0.16293447470173705,
-      "asOf": "2026-07-24",
-      "source": "FRED"
-    },
-    {
-      "id": "DCOILWTICO",
-      "name": "WTI 原油",
-      "unit": "USD",
-      "value": 84.25,
-      "changePercent": -8.164377588838015,
-      "asOf": "2026-07-27",
-      "source": "FRED"
-    },
     {
       "id": "BTCUSD",
       "name": "Bitcoin",
       "symbol": "BTC",
       "unit": "USD",
-      "value": 62546,
-      "changePercent": -3.1402787692300134,
-      "asOf": "2026-07-31T15:01:20.000Z",
+      "value": 62759,
+      "changePercent": -3.065510096304415,
+      "asOf": "2026-07-31T16:49:40.000Z",
       "source": "CoinGecko"
     },
     {
@@ -44,9 +17,9 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "unit": "USD",
-      "value": 1854.82,
-      "changePercent": -3.1066126676791628,
-      "asOf": "2026-07-31T15:01:20.000Z",
+      "value": 1860.76,
+      "changePercent": -2.9024324730981,
+      "asOf": "2026-07-31T16:49:50.000Z",
       "source": "CoinGecko"
     }
   ]

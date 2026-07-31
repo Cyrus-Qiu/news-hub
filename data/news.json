@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T15:03:35.853Z",
+  "updatedAt": "2026-07-31T16:51:46.506Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,13 +31,133 @@
   "articles": [
     {
       "id": "6fc66372fbef",
-      "title": "Spain’s Sánchez blames trafficking gangs as estimated 60,000 migrants reach Ceuta – Europe live",
-      "summary": "PM says criminals have misled people over a recent court ruling about those arriving in Spain via the sea Spanish prime minister Pedro Sánchez is now in Ceuta, accompanied by int…",
+      "title": "Italy says it’s suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – Europe live",
+      "summary": "The measure will impact people travelling by plane or boat between the two countries Spanish prime minister Pedro Sánchez is now in Ceuta, accompanied by interior minister Fernan…",
       "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-31T14:59:51.000Z"
+      "publishedAt": "2026-07-31T16:45:01.000Z"
+    },
+    {
+      "id": "860c295fd16d",
+      "title": "Middle East crisis live: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first",
+      "summary": "The agreement is a ‘great breakthrough’, the president says in response to media questions Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertai…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T16:43:00.000Z"
+    },
+    {
+      "id": "44e39630c181",
+      "title": "Daughter of British couple killed in Spanish wildfire rejects claim they ignored order to leave",
+      "summary": "Exclusive: Danielle Kirton calls on Ed Miliband to help her get answers about why evacuation order came too late The bereaved daughter of a British couple who died in a Spanish w…",
+      "url": "https://www.theguardian.com/world/2026/jul/31/spain-wildfire-bedar-british-couple-pete-fran-gillam-killed",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T16:36:26.000Z"
+    },
+    {
+      "id": "8caef9b18446",
+      "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident Europe live – latest updates At least 57 people have died trying t…",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T16:34:43.000Z"
+    },
+    {
+      "id": "b0472b2f0d22",
+      "title": "Hamas agrees to Trump’s plan to disarm in Gaza – The Latest",
+      "summary": "Donald Trump has declared a breakthrough in negotiations over the disarmament of Hamas in Gaza and the withdrawal of Israeli forces, but Israeli government officials have voiced…",
+      "url": "https://www.theguardian.com/news/audio/2026/jul/31/hamas-agrees-trump-plan-disarm-gaza-the-latest",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T16:11:39.000Z"
+    },
+    {
+      "id": "c07c800570f2",
+      "title": "第一观察丨总书记把舵定向高质量推进国防和军队现代化",
+      "summary": "中共中央政治局7月30日下午就高质量推进国防和军队现代化进行第二十七次集体学习。习近平总书记在主持学习时强调，强化政治引领，深化创新发展，高质量推进国防和军队现代化。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670268.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T16:07:10.000Z"
+    },
+    {
+      "id": "102db9166ccb",
+      "title": "强降雨后积水暗藏隐患 慢病患者涉水风险高",
+      "summary": "最近多地出现强降雨，导致道路积水、城市内涝。有一种风险很容易被忽视，那就是糖尿病、肾病等慢病患者的出行安全。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670267.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T16:01:58.000Z"
+    },
+    {
+      "id": "615613f086bd",
+      "title": "孩子店内逗猫被咬伤，责任谁来担？法院判了",
+      "summary": "软萌可爱的小猫小狗，总能吸引不少小孩驻足围观、伸手逗玩。但家养宠物看似温顺无害，一旦被惊扰，很可能应激伤人。这个时候责任该如何划分？前不久，湖北省黄石市下陆区人民法院就审结了一起饲养动物损害责任纠纷案件，被咬伤小孩的家长和宠物的主人都认为对方有过错，那么法院又是如何判决的呢？",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10670264.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T15:53:47.000Z"
+    },
+    {
+      "id": "a2252b53c7bd",
+      "title": "2026中网首批参赛球员名单和赛程安排来了！8月5日开票",
+      "summary": "7月31日，中网组委会正式公布了首批确认参赛球员名单，并同步揭晓了赛程安排和票务政策等信息。",
+      "url": "https://www.chinanews.com.cn/ty/2026/07-31/10670262.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T15:46:42.000Z"
+    },
+    {
+      "id": "86cec605ddbe",
+      "title": "World-renowned climber Nirmal Purja among 10 struck by avalanche on Pakistan mountain",
+      "summary": "Rescuers say four bodies found in search for team caught in Broad Peak avalanche, after trackers showed rapid descent The world-renowned Nepali mountaineer Nirmal Purja – a forme…",
+      "url": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T15:35:53.000Z"
+    },
+    {
+      "id": "b9bb13b5d598",
+      "title": "中新健康｜从热身到恢复，儿童运动防护前中后全攻略请收好",
+      "summary": "中新网北京7月31日电(赵方园 李萍)暑假是青少年调整作息、走出课堂的放松期，更是弥补日常运动不足、改善体质状态、培育运动习惯的关键期。适度运动有助于增强体质、长高塑形、提升专注力，但与此同时，儿童运动损伤也成为不少家庭关注的问题。",
+      "url": "https://www.chinanews.com.cn/jk/2026/07-31/10670260.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-07-31T15:08:32.000Z"
+    },
+    {
+      "id": "21684db79889",
+      "title": "数字公益的背后，是科技与人心的温情交织",
+      "summary": "中新网北京7月31日电(记者 刘星晨)一块智能黑板、一根网线，让孩子们的视野延伸到千里之外的城市课堂；“声音可能迟到，但爱不会缺席”，让听障儿童的故事被更多人听到；大山深处，孩子们通过AI描绘未来登上月球的场景；一堂免费美妆课后，渴望撑起家庭的女化妆师实现了梦想……",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-31/10670259.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-07-31T15:01:18.000Z"
+    },
+    {
+      "id": "5cedfb30143f",
+      "title": "NSW should compensate elderly woman whose public housing was inundated with sewage, ombudsman finds",
+      "summary": "Ombudsman finds Homes NSW acted unreasonably and recommended additional payment for distress and suffering Get our breaking news email , free app or daily news podcast An elderly…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/01/nsw-should-compensate-elderly-woman-whose-public-housing-was-inundated-with-sewage-ombudsman-finds-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-07-31T15:00:18.000Z"
     },
     {
       "id": "3c913f738dfa",
@@ -98,16 +218,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-31T14:48:35.000Z"
-    },
-    {
-      "id": "860c295fd16d",
-      "title": "Middle East crisis live: Hamas will hand over weapons to new Gaza administration, says official, but deal depends on Israeli withdrawal",
-      "summary": "Hamas’s Ghazi Hamad tells Reuters that it will hand over arms to body established by Trump’s Board of Peace Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T14:45:29.000Z"
     },
     {
       "id": "9e046b7a0642",
@@ -230,16 +340,6 @@
       "publishedAt": "2026-07-31T14:05:06.000Z"
     },
     {
-      "id": "8caef9b18446",
-      "title": "At least 43 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident Europe live – latest updates At least 43 people have died trying t…",
-      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T14:04:55.000Z"
-    },
-    {
       "id": "3d5d0510c594",
       "title": "男子在香港一酒吧被围殴身亡 警方：已拘捕9人，2人在逃",
       "summary": "原标题：谋杀！男子在香港一酒吧被围殴身亡，警方：嫌疑人有黑社会背景，已拘捕9人，仍有2人在逃",
@@ -348,86 +448,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-07-31T13:46:11.000Z"
-    },
-    {
-      "id": "72491196ca7d",
-      "title": "歌手周锐质疑李佳薇歌曲抄袭 律师：版权纠纷不能仅凭“听感”认定",
-      "summary": "中新网北京7月31日电(记者 王诗尧)近日，歌手周锐在社交平台发文，质疑由李佳薇演唱的歌曲《甲乙丙丁》与其2021年发行的歌曲《搁浅的鲸》存在部分词曲相似，疑似涉嫌抄袭。随后，李佳薇工作室发布严正声明回应称，相关质疑“无任何事实依据”，已侵犯艺人名誉权，要求周锐删除相关内容并公开道歉，同时保留依法追责的权利。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-31/10670226.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T13:43:33.000Z"
-    },
-    {
-      "id": "5e2b7e06ad4f",
-      "title": "习言道｜不断创造高质量发展新业绩",
-      "summary": "中共中央政治局7月30日召开会议，决定今年10月在北京召开中国共产党第二十届中央委员会第五次全体会议，主要议程是，中共中央政治局向中央委员会报告工作，研究持之以恒推进全面从严治党若干重大问题。会议分析研究当前经济形势，部署下半年经济工作。中共中央总书记习近平主持会议。会议指出——",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-31/10670224.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T13:40:28.000Z"
-    },
-    {
-      "id": "44e39630c181",
-      "title": "Daughter of British couple killed in Spanish wildfire rejects claim they ignored order to leave",
-      "summary": "Exclusive: Danielle Kirton calls on Ed Miliband to help her get answers about why evacuation order came too late The bereaved daughter of a British couple who died in a Spanish w…",
-      "url": "https://www.theguardian.com/world/2026/jul/31/spain-wildfire-bedar-british-couple-pete-fran-gillam-killed",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T13:39:03.000Z"
-    },
-    {
-      "id": "dfa543211c30",
-      "title": "7月31日新闻夜读",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/07-31/10670225.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T13:38:24.000Z"
-    },
-    {
-      "id": "4adc272d63f0",
-      "title": "展览“疏密时空”在京举行 首设“两两对话”激活抽象艺术",
-      "summary": "中新网北京7月31日电 展览“疏密时空——马树青、封岩、王光乐艺术对话”正在中央美术学院美术馆举行。本次展览是中央美术学院美术馆“CAFAM当代艺术力量系列”的首展，聚焦马树青、封岩、王光乐三位艺术家，通过独立板块与“两两对话”相结合的展陈方式，呈现他们在抽象艺术领域中不同路径的探索与追问。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-31/10670220.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T13:34:12.000Z"
-    },
-    {
-      "id": "333ba256db40",
-      "title": "“诗咏长安”青少年对诗诵读主题活动西安举行",
-      "summary": "中新网西安7月31日电 (杨英琦 王一诺)31日，全国中小学生唐诗文化传习实践地“诗咏长安”青少年对诗诵读主题活动在西安举行。来自上海、长沙、西安等地的中小学生代表齐聚一堂，以诗会友、以诵传情，在沉浸式的文化体验中感悟唐诗风骨，搭建起一座连接青少年文化交流桥梁。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-31/10670211.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T13:33:38.000Z"
-    },
-    {
-      "id": "f307a17f278f",
-      "title": "2026“千里之行”全国美术学院毕业作品展亮相北京宋庄",
-      "summary": "中新网北京7月31日电 (记者 应妮)2026“千里之行”全国美术学院毕业作品展31日在北京宋庄上上国际美术馆开幕。展览汇聚了全国优秀青年艺术学子的年度创作成果，为这个毕业季献上一场兼具学术深度与青春活力的艺术盛宴。",
-      "url": "https://www.chinanews.com.cn/cul/2026/07-31/10670219.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T13:33:12.000Z"
-    },
-    {
-      "id": "86cec605ddbe",
-      "title": "World-renowned climber Nirmal Purja among 10 struck by avalanche on Pakistan mountain",
-      "summary": "Rescuers say four bodies found in search for team caught in Broad Peak avalanche, after trackers showed rapid descent The world-renowned Nepali mountaineer Nirmal Purja – a forme…",
-      "url": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T13:30:47.000Z"
     },
     {
       "id": "82551056344d",
@@ -578,26 +598,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-31T06:10:24.000Z"
-    },
-    {
-      "id": "066a432fd7c7",
-      "title": "Forced out of Australia’s military due to his sexuality, David says an apology is ‘long overdue’ for veterans like him",
-      "summary": "Exclusive: ADF personnel who were discriminated against for being LGBTQ+ are owed a national apology, federal government told Follow our Australia news live blog for latest updat…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/31/forced-out-of-adf-military-due-to-his-sexuality-david-says-an-apology-is-long-overdue-for-veterans-like-him-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T05:48:54.000Z"
-    },
-    {
-      "id": "9627a21672f0",
-      "title": "Iraq says it had ‘no prior knowledge’ of US-Saudi attacks – as it happened",
-      "summary": "This blog is now closed – our live coverage of the Middle East continues here A liquefied natural gas tanker controlled by QatarEnergy exited the strait of Hormuz overnight – the…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T05:47:32.000Z"
     },
     {
       "id": "15cc492fcc53",
