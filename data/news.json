@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T18:39:25.212Z",
+  "updatedAt": "2026-07-31T20:26:02.927Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -37,12 +37,22 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-07-31T18:06:38.000Z"
+      "publishedAt": "2026-07-31T19:42:37.000Z"
+    },
+    {
+      "id": "c78467d05c3e",
+      "title": "‘It ain’t the same’: inside the bitter battle to free Ben & Jerry’s",
+      "summary": "Ben Cohen says his ice-cream company has been silenced by corporate ownership – and a boycott of Magnum brands could force a sale Ben & Jerry’s ice-cream in the tub is still grea…",
+      "url": "https://www.theguardian.com/business/2026/jul/31/ben-jerrys-ice-cream-magnum-boycott",
+      "source": "The Guardian Business",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-07-31T18:48:22.000Z"
     },
     {
       "id": "8caef9b18446",
       "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident Europe live – latest updates At least 57 people have died trying t…",
+      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident At least 57 people have died trying to reach the Spanish enclave o…",
       "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
       "source": "The Guardian World",
       "category": "国际",
@@ -58,6 +68,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-31T17:43:45.000Z"
+    },
+    {
+      "id": "304bc55db3f6",
+      "title": "Washington Post’s opinion editor resigns after just one year in role",
+      "summary": "Adam O’Neal did not give reason for his departure at end of August in another major shakeup at US publication The Washington Post had realized a state of relative calm in the fiv…",
+      "url": "https://www.theguardian.com/media/2026/jul/31/washington-post-opinion-editor-resigns-adam-oneal",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-31T17:24:42.000Z"
     },
     {
       "id": "82551056344d",
@@ -208,16 +228,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-07-31T14:53:23.000Z"
-    },
-    {
-      "id": "c78467d05c3e",
-      "title": "‘It ain’t the same’: inside the bitter battle to free Ben & Jerry’s",
-      "summary": "Ben Cohen says his ice-cream company has been silenced by corporate ownership – and a boycott of Magnum brands could force a sale Ben & Jerry’s ice-cream in the tub is still grea…",
-      "url": "https://www.theguardian.com/business/2026/jul/31/ben-jerrys-ice-cream-magnum-boycott",
-      "source": "The Guardian Business",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-07-31T14:50:47.000Z"
     },
     {
       "id": "75b11cd4bd0c",
@@ -928,16 +938,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-07-29T12:14:14.000Z"
-    },
-    {
-      "id": "5242b9477223",
-      "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
-      "summary": "Layoffs will come in admin and development divisions in Germany, with production operations unaffected BMW is planning to cut as many as 8,000 jobs in Germany, according to repor…",
-      "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-07-29T12:02:20.000Z"
     },
     {
       "id": "29af220da129",
