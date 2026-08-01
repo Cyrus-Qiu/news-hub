@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T15:39:46.714Z",
+  "updatedAt": "2026-08-01T17:10:12.303Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,36 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "11f340b340d4",
+      "title": "EU to hold urgent meeting after Spanish PM calls Ceuta crisis response ‘selfish’",
+      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa The EU will hold an extraordinary meeting of interior ministe…",
+      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T16:59:07.000Z"
+    },
+    {
+      "id": "1cc9a3d034b2",
+      "title": "世界排球联赛男排总决赛：波兰、美国会师决赛",
+      "summary": "中新社宁波8月1日电 (张煜欢 鲍梦妮)8月1日，2026世界排球联赛男排总决赛半决赛在浙江宁波北仑举行，波兰、美国男排分别击败斯洛文尼亚与日本男排，会师决赛。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670675.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T16:06:34.000Z"
+    },
+    {
+      "id": "571aa24cc9ce",
+      "title": "2026年广东省城市篮球联赛收官 东莞队获得总冠军",
+      "summary": "中新社东莞8月1日电 (记者 张璐)2026年广东省城市篮球联赛(简称“粤BA”)总决赛第二回合8月1日晚在东莞举行。东莞队坐镇主场，以108:73战胜深圳队，以总比分2:0获胜，夺得“粤BA”总冠军。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670673.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T15:46:17.000Z"
+    },
+    {
       "id": "b7229c35f0af",
       "title": "乘火车、飞机这些东西不能带 暑期出行攻略→",
       "summary": "暑期出游、探亲、研学等日程排得满满当当，不光要玩得尽兴，还要注意出行安全，不要因为一时疏忽，耽误行程。",
@@ -58,16 +88,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-01T15:09:51.000Z"
-    },
-    {
-      "id": "11f340b340d4",
-      "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
-      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa Spain’s prime minister, Pedro Sánchez, has called for an urge…",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-01T15:05:05.000Z"
     },
     {
       "id": "47ec41098a90",
@@ -338,26 +358,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-01T13:49:15.000Z"
-    },
-    {
-      "id": "140a4476ddde",
-      "title": "从算力底座到终端应用 “中国智造”全面出海",
-      "summary": "以高技术制造业、人工智能为代表的新兴产业，正成为我国经济的核心驱动力量。国家发展改革委今日在发布会上表示，上半年，人工智能相关行业保持30%以上的高增长。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670631.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T13:45:43.000Z"
-    },
-    {
-      "id": "6d6d0b44180d",
-      "title": "医保基金结算堵点加快打通 减轻群众就医负担",
-      "summary": "央视网消息(新闻联播)：近年来，我国不断提升医保管理服务水平，加快打通医保基金即时结算堵点，进一步减轻群众就医负担。国家医保局最新统计显示，今年1—5月，全国跨省异地就医直接结算1.47亿人次，涉及医疗总费用1503亿元，减少群众垫付资金886亿元。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670630.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T13:43:33.000Z"
     },
     {
       "id": "cd4deb3ebc07",
