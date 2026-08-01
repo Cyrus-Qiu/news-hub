@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T01:07:33.046Z",
+  "updatedAt": "2026-08-01T04:58:17.644Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,74 +30,354 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "b35fd6c77958",
-      "title": "四川舰最新画面公布！不只电磁弹射试验，还有实弹发射",
-      "summary": "日前",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670304.shtml",
+      "id": "67e4a9b2879a",
+      "title": "中外学者发现海洋生物类群灭绝遵循“两阶段”模式",
+      "summary": "中新网武汉8月1日电 (记者 马芙蓉)中国、瑞士学者联合完成的一项最新研究成果，系统揭示了海洋生物类群灭绝遵循一致的“两阶段”模式：先经历长达千万年以上的缓慢衰退，再被重大环境事件最终摧毁，为理解宏演化灭绝机制提供新的理论框架。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670349.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T00:59:13.000Z"
+      "publishedAt": "2026-08-01T04:55:12.000Z"
     },
     {
-      "id": "b19d2ceb7b9d",
-      "title": "人工智能赋能孤独症辅助筛查与康复训练 “星星的孩子”康复或有新途径",
-      "summary": "“举起左手。”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670300.shtml",
+      "id": "9b5be20d7a20",
+      "title": "山西暂停汽车以旧换新公证摇号 符合条件可直接申请补贴",
+      "summary": "中新网太原8月1日电 (记者 李庭耀)山西省商务厅7月31日发布通告称，为进一步便利广大消费者申领汽车以旧换新补贴，激活汽车消费市场，经研究，决定自该日起调整该省汽车以旧换新补贴实施方式，暂停公证摇号，同时取消前期已中签消费者3个月资格有效期的限制。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670348.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T00:49:26.000Z"
+      "publishedAt": "2026-08-01T04:53:42.000Z"
     },
     {
-      "id": "534bc3ecbc3d",
-      "title": "日本熊本地震死亡人数升至36人 超1500栋房屋受损",
-      "summary": "中新网8月1日电 据日本广播协会(NHK)报道，日本熊本县通报说，截至当地时间7月31日19时，此次7.1级地震已造成36人死亡，近万民众避难。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670298.shtml",
+      "id": "147cc8624b82",
+      "title": "广东省运会女足C组赛事冠军争夺战广州队胜出",
+      "summary": "中新网茂名8月1日电 (梁盛 高干)7月31日下午，广东省第十七届运动会足球女子C组决赛在茂名信宜市进行，广州队、深圳队展开冠军争夺战，佛山队、梅州队冲刺季军席位。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670347.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T00:47:28.000Z"
+      "publishedAt": "2026-08-01T04:50:09.000Z"
     },
     {
-      "id": "ab8e9a5fe58b",
-      "title": "南部战区位黄岩岛领海领空和周边海空域组织海空联合演训",
-      "summary": "中新网8月1日电 据南部战区微信公众号消息，8月1日，中国人民解放军南部战区位黄岩岛领海、领空和周边海空域组织海空联合演训，这是针对当前南海局势及个别域内国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战化能力。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670297.shtml",
+      "id": "312d8daead4b",
+      "title": "民族管弦乐《长征》长春奏响 乐声回溯二万五千里征途",
+      "summary": "中新网长春8月1日电 (高龙安 李彦国)7月31日晚，纪念红军长征胜利90周年民族管弦乐音乐会《长征》在吉林省音乐厅上演，吉林省交响乐团以七大乐章层层铺展，重现红军二万五千里长征壮阔征途。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-01/10670341.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T00:47:08.000Z"
+      "publishedAt": "2026-08-01T04:47:39.000Z"
     },
     {
-      "id": "a12a9cc56aec",
-      "title": "习言道｜确保枪杆子永远听党指挥",
-      "summary": "7月30日，中共中央政治局就高质量推进国防和军队现代化进行第二十七次集体学习。中共中央总书记习近平在主持学习时强调——",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670293.shtml",
+      "id": "6f0ea87b052a",
+      "title": "聚焦“分子影像” “医用生物电子材料” 中国科协年会举办专题论坛",
+      "summary": "中新网北京8月1日电 (记者 孙自法)第二十八届中国科协年会“分子影像与认知表型新发现”“医用生物电子材料”专题论坛，近日在北京分别举办。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670336.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T00:45:16.000Z"
+      "publishedAt": "2026-08-01T04:46:07.000Z"
     },
     {
-      "id": "6343ac1e0d81",
-      "title": "直播：八一建军节：回顾长征路 致敬铁血军魂",
+      "id": "8f76becad71c",
+      "title": "三大运营商整治号卡乱象 低价流量卡优惠套路要留心",
+      "summary": "7月31日晚，中国电信、中国移动和中国联通发布公告称，为保障用户权益和数据信息安全，对互联网渠道号卡订购业务进行统一规范。自2026年8月1日起，用户如需在互联网渠道订购号卡，只能通过电信运营商官方App、官方网站等渠道办理，第三方互联网渠道不再提供电信号卡办理相关服务。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670379.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T04:36:31.000Z"
+    },
+    {
+      "id": "bc7a27ec6a9e",
+      "title": "暑运过半 全国铁路累计发送旅客4.32亿人次",
+      "summary": "记者今天(8月1日)从国铁集团获悉，为期两个月的铁路暑运自7月1日启动以来至7月31日，累计发送旅客4.32亿人次。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670378.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T04:33:12.000Z"
+    },
+    {
+      "id": "9246efe13c27",
+      "title": "遭遇强烈反对 国际足联宣布放弃世界杯股权出售项目",
+      "summary": "当地时间8月1日，国际足联主席因凡蒂诺发表声明称，因出售股权项目引发各方分歧，已不再符合最初目标，决定停止推进该项目。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670376.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T04:28:18.000Z"
+    },
+    {
+      "id": "2b6b1e3e4e40",
+      "title": "（活力中国调研行）数字浪潮势不可挡 浙江温州如何乘“数”而上？",
+      "summary": "中新网温州8月1日电(邵燕飞 周健)数字经济是浙江的一张“金名片”。作为浙江继杭州、宁波之后，支撑全省高质量发展的核心增长极，温州如何乘“数”而上？31日，记者来到中国(温州)数安港(以下简称“数安港”)，一探究竟。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670367.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T04:10:29.000Z"
+    },
+    {
+      "id": "aed095073754",
+      "title": "《黄岩岛国家级自然保护区管理办法》发布",
+      "summary": "新华社北京8月1日电#8195;依据《中华人民共和国自然保护区条例》和有关规定，8月1日，自然资源部、国家林业和草原局、中国海警局、海南省人民政府联合印发《黄岩岛国家级自然保护区管理办法》。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670375.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T04:03:09.000Z"
+    },
+    {
+      "id": "8f602884a180",
+      "title": "四川盆地等地有强降水 东北地区华北等地有强对流天气",
+      "summary": "中新网8月1日电 据中央气象台网站消息，预计未来三天，广东、四川、陕西、山西、内蒙古、黑龙江等地部分地区有强降雨并伴有强对流天气，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝和局地强对流天气危害；黑龙江东南部、内蒙古东部等地有较明显风雹天气，需关注对交通、城市运行、户外活动等的不利影响。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670288.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T04:01:31.000Z"
+    },
+    {
+      "id": "57eec57018c6",
+      "title": "‘We stared into an abyss’: the heroes battling to tame France’s ‘megafire’",
+      "summary": "Exhausted firefighters wage ‘war of attrition’ against blaze that forced 200,000 people from their homes By noon it is time for a break. The temperature is about 35C, the smell o…",
+      "url": "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T04:00:42.000Z"
+    },
+    {
+      "id": "02d22938d454",
+      "title": "‘Who could have done this?’ Mystery over Briton found dead in a suitcase in Athens",
+      "summary": "Greek police throw entire homicide division at trying to explain fate of 38-year-old Elisabeth-Jane Ross Two worlds separated by sheets of corrugated iron: one, a tree-lined road…",
+      "url": "https://www.theguardian.com/world/2026/aug/01/mystery-briton-found-dead-suitcase-athens",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T04:00:42.000Z"
+    },
+    {
+      "id": "899e9e14a4c2",
+      "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
+      "summary": "Exclusive: As wildfires rage, Frank Elderson says more work needed to assess risk from collapse of ecosystem services A senior policymaker at the European Central Bank has said t…",
+      "url": "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-01T04:00:41.000Z"
+    },
+    {
+      "id": "a86d8063a3d2",
+      "title": "现场画面！南部战区位黄岩岛周边组织海空联合演训",
+      "summary": "8月1日，中国人民解放军南部战区位黄岩岛领海、领空和周边海空域组织海空联合演训，这是针对当前南海局势及个别域内国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战化能力。",
+      "url": "http://www.chinanews.com.cn/mil/shipin/2026/08-01/news1064017.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T03:55:20.000Z"
+    },
+    {
+      "id": "29f1260fbf09",
+      "title": "习近平强党兴党的故事｜治国之要 首在用人",
+      "summary": "党的干部是党和国家事业的中坚力量，干部队伍建设是关系党和国家事业的关键性问题。1984年7月，在时任河北省正定县委书记习近平的推动下，正定县大刀阔斧调整农村党支部和村委会领导班子。习近平同志按照干部队伍“革命化、年轻化、知识化、专业化”要求，不拘一格、唯“德才”是举。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670374.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T03:54:40.000Z"
+    },
+    {
+      "id": "383e51d1dc51",
+      "title": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
+      "summary": "Two members given ‘stern warnings’ after concert and barred from returning, with band also excluded from performing in Singapore again, say authorities British trip-hop band Mass…",
+      "url": "https://www.theguardian.com/music/2026/aug/01/singapore-bans-massive-attack-for-showing-palestinian-flag-breaching-ban-on-foreign-emblems",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T03:51:36.000Z"
+    },
+    {
+      "id": "6ccc514943ce",
+      "title": "习语丨“安享和平是人民之福，保卫和平是人民军队之责”",
+      "summary": "“安享和平是人民之福，保卫和平是人民军队之责。”“我坚信，我们的英雄军队有信心、有能力打败一切来犯之敌！”今年是中国人民解放军建军99周年，重温习近平主席对人民军队的深切期望和殷殷嘱托，一起致敬人民子弟兵！(人民日报客户端)",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670372.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T03:51:24.000Z"
+    },
+    {
+      "id": "29f0336f16aa",
+      "title": "人民军队制胜向强",
+      "summary": "向百年",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670370.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T03:47:27.000Z"
+    },
+    {
+      "id": "11721917baaa",
+      "title": "山东荣成：滨海夜色引客来",
+      "summary": "7月31日，山东省荣成市那香海景区，游客们漫步沙滩、畅游夜市、赏秀观演，享受夏日休闲时光。当地打造夜间经济新场景，让滨海夜色成为拉动地方文旅产业发展的新增长点。（无人机照片）李信君 摄 7月31日，山东省荣成市那香海景区，游客们漫步沙滩、畅游夜市、赏秀观演，享受夏日休闲时光。当地打造夜间经济新场景，让滨海夜色成为拉动地方文旅产业发展的新增长点。（无人机照…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-01/10670366.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T03:41:57.000Z"
+    },
+    {
+      "id": "f6abaa017b76",
+      "title": "电影《八仙！》带火山西千年古建",
+      "summary": "中新社太原8月1日电 (记者 范丽芳)2026年中国电影暑期档期间，国产动画电影《八仙！》持续热映，目前已突破10亿元人民币票房，成为档期“黑马”。片中大量取景于山西永乐宫、悬空寺、晋祠等景区的画面，引发观众“打卡”热潮。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-01/10670361.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T03:40:21.000Z"
+    },
+    {
+      "id": "349d8e7b83d0",
+      "title": "不靠“卷成本”：成都跨境电商从内陆突围",
+      "summary": "中新网成都8月1日电 (单鹏)2026亚马逊全球开店华西区域卖家大会日前在成都举行。活动期间，成都市跨境电子商务协会秘书长吴悦接受采访时表示，成都跨境电商行业自2021年进入快车道以来，交易规模已从约700亿元增长至2025年的约1400亿元，年均增速超过20%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670334.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T03:36:37.000Z"
+    },
+    {
+      "id": "72b96396e8d7",
+      "title": "食用菌专家孙达锋：为“云南菌子”固本立标长成产业",
+      "summary": "中新网昆明8月1日电 题：食用菌专家孙达锋：为“云南菌子”固本立标长成产业",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670332.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T03:34:53.000Z"
+    },
+    {
+      "id": "bfa214fc039a",
+      "title": "华盛顿网球公开赛：弗里茨2比1胜米切尔森",
       "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-01/10670294.shtml",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199841.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T00:41:38.000Z"
+      "publishedAt": "2026-08-01T03:27:30.000Z"
     },
     {
-      "id": "f83001a46674",
-      "title": "陪诊服务成为部分患者就医刚需 专家建议明确陪诊师社会化医疗辅助服务从业者定位",
-      "summary": "2026年7月中旬的一天上午，上海一家医院门诊大厅人头攒动。陪诊师张爱(化名)的手机不停震动，她一边快步走向神经内科候诊区，一边在电话里跟客户说：“张叔叔，您先别急着去B超室，心内科的就诊号马上排到了，先看心内科。”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670292.shtml",
+      "id": "4bead51c38f9",
+      "title": "华盛顿网球公开赛：大坂直美2比1胜科恰雷托",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199838.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T00:38:38.000Z"
+      "publishedAt": "2026-08-01T03:10:37.000Z"
+    },
+    {
+      "id": "b6f9c1be7f29",
+      "title": "日本青森县附近海域发生5.8级地震 多地有震感",
+      "summary": "中新网8月1日电 据日本气象厅消息，当地时间8月1日11时48分左右，日本青森县附近海域发生5.8级地震，震源深度80公里。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670354.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T03:06:13.000Z"
+    },
+    {
+      "id": "bbdd256c4124",
+      "title": "雨天外出脚下“发麻”？当心看不见的“跨步电压”",
+      "summary": "汛期多雨、强对流频发，户外带电设施受雨水冲刷或雷暴大风影响，易发生接地故障。这个时候，如果遇到断落的高压线，该怎么办？",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670352.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T03:02:43.000Z"
+    },
+    {
+      "id": "f75ebd2c9264",
+      "title": "周末中东部仍有大范围高温桑拿天 四川陕西等地警惕降雨叠加致灾",
+      "summary": "中国天气网讯 本周末(8月1日至8月2日)至下周初，我国中东部大范围高温桑拿天将持续，长江中下游部分地区可超38℃；西南地区的重庆高温尤为持久，追平了当地7月高温日数历史纪录，未来几天暑热仍不下线，公众需注意及时补水降温。与此同时，强降雨仍围绕在副热带高压边缘，呈现面弱点强的特点，四川、陕西、黑龙江等地局地有大暴雨，需警惕降雨叠加致灾。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670346.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T02:54:16.000Z"
+    },
+    {
+      "id": "1465627fa44d",
+      "title": "硬核“入学礼”！运-20B搭载“中国心”首次运送新飞行学员报到",
+      "summary": "7月31日、8月1日，空军将使用多架运-20飞机，从沈阳、石家庄、济南、南京、长沙和成都6个登机点，集中运送2026年新录取飞行学员到空军航空大学报到，同步在各登机点和航空大学组织欢送和迎新仪式。",
+      "url": "http://www.chinanews.com.cn/mil/shipin/cns/2026/08-01/news1064009.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T02:53:55.000Z"
+    },
+    {
+      "id": "085d59bca3f7",
+      "title": "阿尔及利亚客车事故致27死 全国哀悼三天",
+      "summary": "中新社北京8月1日电 阿尔及尔消息：阿尔及利亚北部布米尔达斯省一辆客车当地时间7月31日发生事故，造成至少27人死亡。阿尔及利亚总统特本当天宣布，全国为遇难者哀悼三天。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670339.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T02:53:40.000Z"
+    },
+    {
+      "id": "0076c98be48b",
+      "title": "中国原创舞剧《咏春》在韩国首演",
+      "summary": "中新网韩国安东8月1日电 (记者 金旭)“英雄站在光里，而我们，愿是那束光。”随着这句字幕缓缓浮现，中国深圳原创舞剧《咏春》7月31日晚在韩国安东文化艺术殿堂完成首演。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670315.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T02:53:02.000Z"
+    },
+    {
+      "id": "6420b6e7edc8",
+      "title": "“川超”冠军挑战赛：成都锦城队点球大战5比4胜市州联队",
+      "summary": "图为成都锦城队6号刘超(黄衣)与市州联队球员争抢头球瞬间。中新社记者 刘忠俊 摄 图为冠军挑战赛开赛现场的《大四川》歌舞表演。中新社记者 刘忠俊 摄 图为点球大战现场，成都锦城队96号守门员张长昊(灰衣)拦住最后一个点球瞬间。中新社记者 刘忠俊 摄 图为队友们冲向成都锦城队守门员张长昊(灰衣)庆贺胜利。中新社记者 刘忠俊 摄 图为颁奖仪式现场庆贺夺冠的成…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-01/10670335.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T02:52:28.000Z"
+    },
+    {
+      "id": "64b000043372",
+      "title": "电商平台仅退款规则被恶意滥用 专家呼吁搭建兼顾消费者与商家权益双向约束制度",
+      "summary": "“好不容易卖出一单商品，结果却遭遇仅退款(买家申请退款，无需退货)，且不说贷款遭受损失，一通流程下来觉得满心疲惫。”2026年7月中旬的一天，在天津市从事食品销售的商家王阳(化名)对《法治日报》记者说。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670344.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T02:51:10.000Z"
+    },
+    {
+      "id": "c59bd8b2dac4",
+      "title": "快递外卖电动车须悬挂专用号牌 北京新规今起施行",
+      "summary": "今天(1日)，《北京市快递、外卖行业非机动车管理办法(试行)》正式施行。新规明确用于快递、外卖服务的电动自行车须登记并悬挂专用号牌，实行“专车专用”。停止用于快递外卖服务的，应在停用之日起30日内变更普通号牌。同时，新购置用于快递、外卖服务的电动自行车，应符合2024年版《电动自行车安全技术规范》国家标准并列入北京市产品目录。(央视新闻客户端)",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670343.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T02:46:40.000Z"
+    },
+    {
+      "id": "c1a4e7d59f04",
+      "title": "Petrol prices on track to top $2 a litre as Bowen sounds death knell for fuel excise relief",
+      "summary": "Petrol now costs more than $1.90 a litre in every capital city, with diesel expected to exceed $2.40 a litre Get our breaking news email , free app or daily news podcast Petrol p…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/01/petrol-prices-on-track-to-top-2-a-litre-as-bowen-sounds-death-knell-for-fuel-excise-relief",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T02:22:49.000Z"
     },
     {
       "id": "0dd3872bab10",
@@ -110,26 +390,6 @@
       "publishedAt": "2026-08-01T00:33:29.000Z"
     },
     {
-      "id": "65be7c957d94",
-      "title": "（活力中国调研行）走进浙江久立 感受“钢”的力量",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199804.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T00:33:13.000Z"
-    },
-    {
-      "id": "0961938b8967",
-      "title": "直播：长江十年行｜奇山秀水焕新颜 一川秀色向“黔”行",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-01/10670289.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T00:30:51.000Z"
-    },
-    {
       "id": "f24517787b71",
       "title": "Adani to pay no company tax despite $1bn revenue from Queensland coalmine",
       "summary": "Indian conglomerate offsets earnings from Carmichael mine to report $340.6m loss, after promising billions in taxes and royalties Get our breaking news email , free app or daily…",
@@ -138,196 +398,6 @@
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-08-01T00:00:37.000Z"
-    },
-    {
-      "id": "fa6969e23993",
-      "title": "对话杜富国：维护国家安全，每个人都要有“让我来”的担当",
-      "summary": "“军队打胜仗，人民是靠山，维护国家安全，需要汇聚全社会的力量。国安才能家宁，维护国家安全，需要每个人都要有‘让我来’的担当。”近日，“国家安全大家谈”独家对话“八一勋章”获得者、“排雷英雄战士”杜富国。从儿时听红军故事立下从军志向，到戍守云南边境、主动请缨参加边境扫雷行动，再到负伤后宣讲国防故事，他始终把“让我来”的使命担当刻在心中。",
-      "url": "http://www.chinanews.com.cn/shipin/2026/08-01/news1063997.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T00:00:18.000Z"
-    },
-    {
-      "id": "b67cc8653558",
-      "title": "先撤军还是先解除武装？加沙停火卡在关键前提",
-      "summary": "美国总统特朗普7月31日说，关于“全面解除”哈马斯武装的协议，美国与以色列达成“谅解”，“以色列对此非常满意”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670286.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T23:30:28.000Z"
-    },
-    {
-      "id": "ce6551633dd3",
-      "title": "中国大足石刻美国展在纽约举行启动仪式",
-      "summary": "中新社纽约7月31日电 (记者 王帆)当地时间7月31日，中国大足石刻纽约展暨美国巡展启动仪式在纽约深刻博物馆(Memor Museum)举行。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-01/10670285.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T23:26:29.000Z"
-    },
-    {
-      "id": "c1d8e013448c",
-      "title": "敬礼，八一军旗",
-      "summary": "在别人看不见的地方，军旗陪伴着我们",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670284.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T23:16:51.000Z"
-    },
-    {
-      "id": "06eaecc713ed",
-      "title": "中国企业家代表团与美中贸委会及其会员企业交流座谈",
-      "summary": "中新社华盛顿7月31日电 (记者 沙晗汀)中国国际贸易促进委员会组织中国企业家代表团于当地时间7月31日在美国华盛顿与美中贸易全国委员会及其会员企业进行交流座谈。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670283.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T23:13:39.000Z"
-    },
-    {
-      "id": "f018ba83b813",
-      "title": "8月1日新闻早报",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-01/10670282.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T23:09:26.000Z"
-    },
-    {
-      "id": "582c143e2281",
-      "title": "今年7月欧元区通胀率升至2.9%",
-      "summary": "中新社布鲁塞尔7月31日电 (记者 德永健)欧盟统计局7月31日公布的数据显示，受能源价格高企等因素影响，今年7月欧元区通胀率升至2.9%。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670270.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:54:59.000Z"
-    },
-    {
-      "id": "0960b0e4259d",
-      "title": "“热穹顶”是本轮高温幕后推手吗",
-      "summary": "(趣科普)",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670281.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:53:37.000Z"
-    },
-    {
-      "id": "9bb142bc20a9",
-      "title": "你的前额叶，真的受损了吗",
-      "summary": "(唠“科”)",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-01/10670280.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:51:19.000Z"
-    },
-    {
-      "id": "ec9f9cbf5ba1",
-      "title": "法国密切关注西班牙飞地移民危机 加强法西边境管控",
-      "summary": "中新社巴黎7月31日电 (记者 李洋)位于北非海岸的西班牙飞地休达最近涌入数万名来自摩洛哥的非法移民，引发法国等欧盟国家的密切关注。法国官方当地时间7月31日证实，为应对此事，已加强法西边境管控。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670271.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:49:27.000Z"
-    },
-    {
-      "id": "45bdde88856e",
-      "title": "霍尔木兹海峡单日船舶通行量降至5艘",
-      "summary": "国际航运信息平台“海上交通网站”7月31日公布的数据显示，霍尔木兹海峡30日的船舶通行数量从前一天的22艘降至5艘，降幅达77%。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670279.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:48:47.000Z"
-    },
-    {
-      "id": "34b00dc99f4d",
-      "title": "古特雷斯呼吁停止海湾地区战事",
-      "summary": "当地时间7月31日，联合国秘书长古特雷斯在纽约联合国总部呼吁立即停止海湾地区战事，全面恢复霍尔木兹海峡和曼德海峡及周边地区的国际航行权利和自由，并通过外交途径解决争端。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670278.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:47:43.000Z"
-    },
-    {
-      "id": "01ff738b29fc",
-      "title": "斯诺克上海大师赛：吴宜泽不敌特鲁姆普无缘争冠",
-      "summary": "中新社上海7月31日电 (记者 缪璐)2026世界斯诺克上海大师赛首场半决赛于31日晚间落下帷幕。这场对决是新生代世界冠军与当今斯诺克顶尖统治者的直接碰撞。最终，现世界排名第一的贾德·特鲁姆普更胜一筹，以10:6晋级决赛，史上首位“00后”世锦赛冠军、中国选手吴宜泽遗憾止步，无缘争冠。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670269.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:45:57.000Z"
-    },
-    {
-      "id": "fdb0f714ac36",
-      "title": "贷款“明白纸”，让借款人不再“雾里看花”",
-      "summary": "《个人贷款业务明示综合融资成本规定》8月1日起施行",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670277.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:45:05.000Z"
-    },
-    {
-      "id": "6c0787bbf08f",
-      "title": "云南普洱市墨江县发生4.4级地震 震源深度10千米",
-      "summary": "中国地震台网正式测定：8月1日5时24分在云南普洱市墨江县(北纬23.18度，东经101.45度)发生4.4级地震，震源深度10千米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670276.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:43:06.000Z"
-    },
-    {
-      "id": "19b807613cb1",
-      "title": "美中央司令部：已改变30艘商船航行路线",
-      "summary": "当地时间7月31日，美国中央司令部表示，截至当天，中央司令部已改变30艘商船的航行路线，使2艘船只失去行动能力，并登船检查2艘，以确保其完全遵守封锁要求。美军还允许近30艘船只通过封锁线运送人道主义援助。(央视记者 刘骁骞)",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670275.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:42:08.000Z"
-    },
-    {
-      "id": "3e669311edcd",
-      "title": "美官员称特朗普已下令对伊朗发动新一轮袭击",
-      "summary": "央视记者当地时间7月31日获悉，美国官员表示，美国总统特朗普已下令对伊朗发动新一轮袭击，目的是迫使德黑兰方面投降。相关行动最早可能于本周末开始，并持续数天。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670274.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:39:48.000Z"
-    },
-    {
-      "id": "29629eb0985a",
-      "title": "直播：八一广场举行升旗仪式",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-01/10670273.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:35:00.000Z"
-    },
-    {
-      "id": "a178072c2d97",
-      "title": "“空调自由”背后 有这四道“保险”在托底",
-      "summary": "热浪席卷欧洲多国，空调成了“奢侈品”。大批海外游客拖着行李箱飞抵中国——来避暑，来旅游，顺便体验一把“空调自由”。入境客流持续攀升，“来华避暑”成了全球社交平台上的新热词。外国游客来了直呼“太凉快了”，而中国人早就习以为常：无论窗外多少度，随手一按，凉风即来。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670272.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T22:28:18.000Z"
     },
     {
       "id": "435639750002",
@@ -400,16 +470,6 @@
       "publishedAt": "2026-07-31T17:06:51.000Z"
     },
     {
-      "id": "44e39630c181",
-      "title": "Daughter of British couple killed in Spanish wildfire rejects claim they ignored order to leave",
-      "summary": "Exclusive: Danielle Kirton calls on Ed Miliband to help her get answers about why evacuation order came too late The bereaved daughter of a British couple who died in a Spanish w…",
-      "url": "https://www.theguardian.com/world/2026/jul/31/spain-wildfire-bedar-british-couple-pete-fran-gillam-killed",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T16:36:26.000Z"
-    },
-    {
       "id": "2a1585c44b18",
       "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
       "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV p…",
@@ -428,26 +488,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-31T16:11:39.000Z"
-    },
-    {
-      "id": "c07c800570f2",
-      "title": "第一观察丨总书记把舵定向高质量推进国防和军队现代化",
-      "summary": "中共中央政治局7月30日下午就高质量推进国防和军队现代化进行第二十七次集体学习。习近平总书记在主持学习时强调，强化政治引领，深化创新发展，高质量推进国防和军队现代化。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670268.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T16:07:10.000Z"
-    },
-    {
-      "id": "102db9166ccb",
-      "title": "强降雨后积水暗藏隐患 慢病患者涉水风险高",
-      "summary": "最近多地出现强降雨，导致道路积水、城市内涝。有一种风险很容易被忽视，那就是糖尿病、肾病等慢病患者的出行安全。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670267.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-07-31T16:01:58.000Z"
     },
     {
       "id": "86cec605ddbe",
@@ -500,16 +540,6 @@
       "publishedAt": "2026-07-31T14:10:52.000Z"
     },
     {
-      "id": "1361fad83a77",
-      "title": "Trump says ‘complete disarmament’ of Hamas agreed in Gaza but Israel yet to accept",
-      "summary": "US president hails breakthrough but Israeli far-right minister says ‘only solution’ is ‘encouraging emigration and destroying Hamas’ Middle East crisis – live updates What is Tru…",
-      "url": "https://www.theguardian.com/world/2026/jul/31/trump-hamas-disarmament-agreement-gaza-board-of-peace",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T14:09:46.000Z"
-    },
-    {
       "id": "0042a3650916",
       "title": "BTS are back: return of K-pop superstars sparks US economic boom",
       "summary": "Cities in North America hosting 14 concerts in August and September – and economic impact is set to be significant BTS’s “Army” fanbase is descending on New York this weekend as…",
@@ -534,7 +564,7 @@
       "title": "AI labels to be compulsory on authentic-looking content under EU rules",
       "summary": "Companies must ensure people know when they are interacting with artificially generated images, audio and text designed to look real From apparently conspiring to steal elections…",
       "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
-      "source": "The Guardian World",
+      "source": "The Guardian Technology",
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-31T11:21:20.000Z"
@@ -558,16 +588,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-31T09:00:10.000Z"
-    },
-    {
-      "id": "11ece91dd785",
-      "title": "British-Azerbaijani man arrested in Cyprus over alleged spying on UK airbase for Iran",
-      "summary": "Rashad Sultanov, from London, suspected of conducting hostile surveillance and passing information to Revolutionary Guards A British-Azerbaijani national has been arrested ⁠in Cy…",
-      "url": "https://www.theguardian.com/world/2026/jul/31/british-azerbaijani-man-arrested-cyprus-alleged-spying-uk-airbase-iran",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T08:58:41.000Z"
     },
     {
       "id": "855f53d34fbf",
@@ -598,16 +618,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-31T07:53:29.000Z"
-    },
-    {
-      "id": "e3a83d81bc17",
-      "title": "‘Rob has the bucks cash’: NSW Liberals used Reformers funds to pay for ‘personal expenditure’, Icac hears",
-      "summary": "Robert Assaf separately tells anti-corruption inquiry money funnelled through lobbying firm to create ‘maximum benefit from a tax perspective’ Follow our Australia news live blog…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/31/icac-corruption-hearing-robert-assaf-nsw-liberals-reformers-funds-bucks-personal-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T07:36:24.000Z"
     },
     {
       "id": "f290ca7c9573",
@@ -1218,16 +1228,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-26T10:00:08.000Z"
-    },
-    {
-      "id": "64934dbed4f8",
-      "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
-      "summary": "Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay In March, Anthropic, the cutting-edge artificial in…",
-      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-25T13:00:43.000Z"
     }
   ]
 }
