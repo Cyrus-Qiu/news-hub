@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T11:04:22.853Z",
+  "updatedAt": "2026-08-01T12:08:40.502Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,324 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "76dbb039e8aa",
+      "title": "中国银发族乐享“斜杠生活”",
+      "summary": "中新网银川8月1日电 (杨迪 李铭琪 冯钰林)乒乓球社团骨干、合唱团积极分子、扇子舞队义务教练……这是家住宁夏银川市长城花园社区的李淑艳的“多重身份”。今年72岁的她时常怀揣粉布兜，里面塞着乒乓球拍、绸扇和一本厚厚的歌谱，走到哪儿带到哪儿。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670563.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:57:30.000Z"
+    },
+    {
       "id": "47ec41098a90",
-      "title": "Sánchez condemns ‘polarising’ reaction of some EU countries to Ceuta border crisis as death toll rises – Europe live",
-      "summary": "In letter to Brussels, Spanish PM hits out at ‘selfish and illegal’ responses after tens of thousands of people crossed from Morocco to Spanish enclave Back to Ukraine, where nin…",
+      "title": "France says Gironde ‘megafire’ is contained, as wildfires continue to burn in Greece and Spain – Europe live",
+      "summary": "Blaze in south-western region ‘is no longer spreading’, but others have reignited or have been fuelled by strong winds Back to Ukraine, where nine people were killed in Kyiv this…",
       "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-01T10:48:13.000Z"
+      "publishedAt": "2026-08-01T11:53:52.000Z"
+    },
+    {
+      "id": "bcdbd23448cf",
+      "title": "暑运半程 国铁北京局发送旅客3877.4万人次",
+      "summary": "中新网北京8月1日电(记者 贾天勇)记者1日从中国铁路北京局集团有限公司(以下简称：国铁北京局)获悉，2026年暑运已过半程，铁路客流持续保持高位态势。截至2026年7月31日，国铁北京局暑运期间累计发送旅客3877.4万人次，日均发送旅客125.1万人次。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670561.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:53:14.000Z"
+    },
+    {
+      "id": "7c16cfcd5e2b",
+      "title": "2026年广州龙舟超级联赛开幕",
+      "summary": "中新社广州8月1日电 (记者 王坚)2026年广州龙舟超级联赛(简称“广州龙超”)开幕式暨揭幕战8月1日在广州海珠区举行。赛事汇聚49支龙舟队伍共1552名运动员以舟竞速。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670558.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:52:14.000Z"
+    },
+    {
+      "id": "37b562a8b05e",
+      "title": "中国U18男篮走进安吴青年训练班纪念馆 追寻红色足迹蓄力赛场拼搏",
+      "summary": "中新网陕西咸阳8月1日电 (记者 张一辰)在中国人民解放军建军99周年之际，中国U18男篮全体人员1日赴咸阳市泾阳县安吴青年训练班纪念馆，开展“追寻红色足迹，熔铸钢铁意志”主题教育活动。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670554.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:51:54.000Z"
+    },
+    {
+      "id": "101d81b37585",
+      "title": "海口开通“第比利斯-海口-米兰”第五航权货运航线",
+      "summary": "中新网海口8月1日电 (刘泽群 王金娜)一架载有50吨货物的B767全货机1日从海口美兰国际机场(简称美兰机场)飞往米兰贝加莫机场，标志着“第比利斯-海口-米兰”第五航权货运航线正式开通，串联格鲁吉亚、海南、意大利三地物流市场。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670553.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:51:30.000Z"
+    },
+    {
+      "id": "3259f7f90826",
+      "title": "山西省第十七届运动会运动员村正式开村 赋能三晋体育事业发展",
+      "summary": "中新网长治8月1日电 (刘小红)7月31日，山西省第十七届运动会运动员村开村仪式在长治举行。作为长治首次全城承办省级综合性体育赛事的核心配套载体，运动员村的启用，完善了省运会办赛体系，搭建起运动员休整交流平台，助推全省民众体育与竞技体育协同发展。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670549.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:50:22.000Z"
+    },
+    {
+      "id": "71850e50ae87",
+      "title": "全国近200所高校7000余名学生携人形机器人在京竞技",
+      "summary": "中新网北京8月1日电 (记者 陈杭)第二十八届中国机器人及人工智能大赛(CRAIC)人形机器人专项赛全国决赛1日在北京首钢园开幕。本届赛事共吸引全国近200所高校的7000余名学生参与，历经层层选拔，最终来自清华大学、哈尔滨工业大学、西安交通大学等高校的200余支队伍晋级决赛。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670542.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:50:10.000Z"
+    },
+    {
+      "id": "6b53fa04fc72",
+      "title": "应对强降雨天气 甘肃陇南已转移撤离群众1.4万余人",
+      "summary": "甘肃省陇南市徽县气象台8月1日11时39分继续发布暴雨红色预警信号：徽县大部分乡镇出现暴雨，降水仍将持续。预计今天白天，徽县嘉陵镇、大河店镇、虞关乡、永宁镇等乡镇仍有暴雨。由强降水引发中小河流洪水、山洪及地质灾害、城市积涝的气象风险高，请注意防范。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670560.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:49:50.000Z"
+    },
+    {
+      "id": "11f340b340d4",
+      "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
+      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa Europe live – latest updates Spain’s prime minister, Pedro Sá…",
+      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T11:49:48.000Z"
+    },
+    {
+      "id": "186bc7e5e04f",
+      "title": "第五届“昆山妈祖杯”青年快投垒球赛开赛",
+      "summary": "中新社江苏昆山8月1日电 (记者 钟升)第五届“昆山妈祖杯”青年快投垒球赛8月1日在昆山开赛，18支参赛球队约380名两岸青年以球会友，共叙情谊。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670538.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:49:44.000Z"
+    },
+    {
+      "id": "6007845b0fdf",
+      "title": "（经济观察）中国暑期旅游市场活力迸发 多元体验激活消费新动能",
+      "summary": "中新社北京8月1日电 (记者 刘文文)2026年暑期已过半。在亲子、避暑、休闲等多重需求叠加下，中国旅游消费市场深度游、体验游趋势加速升温，文旅消费热度持续走高。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670535.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:48:52.000Z"
+    },
+    {
+      "id": "13dbe9e69cff",
+      "title": "多国媒体人深入云南保山 问发展、探文脉、感知边陲变化",
+      "summary": "中新网保山8月1日电 题：多国媒体人深入云南保山 问发展、探文脉、感知边陲变化",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-01/10670534.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:48:06.000Z"
+    },
+    {
+      "id": "aa61c8963aac",
+      "title": "保险业上半年原保险保费收入3.86万亿元，同比增长3.3%",
+      "summary": "中新网北京8月1日电 (陶思阅)中国保险行业协会党委委员、副秘书长方咏近日在北京介绍，2026年上半年，保险市场运行总体平稳，业务结构持续优化。原保险保费收入3.86万亿元，同比增长3.3%；赔款与给付支出1.40万亿元，同比增长3.8%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670531.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:47:36.000Z"
+    },
+    {
+      "id": "979123bbd91b",
+      "title": "2026年全国业余围棋邀请赛开赛",
+      "summary": "中新网长治8月1日电 (刘小红 刘盼)2026年“丹朱杯”全国业余围棋邀请赛7月31日在山西省长子县开赛。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670530.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:47:10.000Z"
+    },
+    {
+      "id": "336b61fb418f",
+      "title": "《安徽省促进茶产业发展条例》施行 护航徽茶扬帆出海",
+      "summary": "中新网合肥8月1日电 (记者 赵强)《安徽省促进茶产业发展条例》(下称“条例”)8月1日起正式施行。这是安徽省首部省级茶产业专项法规，标志着安徽茶产业发展由政策引导迈入法治护航新阶段。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670529.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:45:01.000Z"
+    },
+    {
+      "id": "8f5c4d9b5755",
+      "title": "小体量承载大主题 音乐微短剧《风吹稻浪》研讨会举行",
+      "summary": "中新网北京8月1日电 (记者 高凯)由中国电视艺术委员会主办的音乐微短剧《风吹稻浪》研讨会日前在京举行。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-01/10670527.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:44:49.000Z"
+    },
+    {
+      "id": "c47d6daf4f62",
+      "title": "南北方多地桑拿天盘踞 台风“白海豚”再度完成眼壁置换蓄力增强",
+      "summary": "高温桑拿天、区域性暴雨、海上台风成为近期天气关注的焦点，一起来了解最新形势：",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670559.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:44:45.000Z"
+    },
+    {
+      "id": "179ca2a89543",
+      "title": "一抹赤红惊艳苍穹 邂逅四子王旗大红山“火星”秘境",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199876.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:43:01.000Z"
+    },
+    {
+      "id": "933dac4ec164",
+      "title": "从“怀疑”到“学习” 海外民众见证中国减贫奇迹",
+      "summary": "中新网银川8月1日电 题：从“怀疑”到“学习” 海外民众见证中国减贫奇迹",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670526.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:42:19.000Z"
+    },
+    {
+      "id": "5b23f1e2ea13",
+      "title": "吕蔚然：天津写字楼市场凭“稳”诠释高度市场化",
+      "summary": "中新网天津8月1日电 (记者 周亚强 孙玲玲)高力国际天津及沈阳分公司总经理吕蔚然日前接受中新网记者专访时指出，作为中国北方较早发展写字楼市场的城市，当前天津市场正呈现出高度市场化、租金走势平稳的显著特征。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670525.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:42:01.000Z"
+    },
+    {
+      "id": "0887cb808a4d",
+      "title": "被“AI”“开盒”别再手足无措 律师：依法收证维权 网络不是法外之地",
+      "summary": "中新网成都8月1日电 (记者 吕杨)《中华人民共和国反网络暴力法(征求意见稿)》日前面向社会征求意见。网络之上，不少人认为网上随意发布他人视频只是娱乐，打字跟风骂几句不用负责，实则不然，一句过激评论、一段剪辑画面、一张AI合成影像，都可能酿成网络暴力。近日，四川致高律师事务所律师郑华贵接受中新网记者专访时表示，根据《反网络暴力法征求意见稿》相关规定，我们…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670524.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:41:45.000Z"
+    },
+    {
+      "id": "160a5647eaf2",
+      "title": "广东遭遇季风槽影响 广州等地降暴雨、大暴雨",
+      "summary": "中新社广州8月1日电 (记者 王坚)受季风槽北抬影响，广东8月1日起遭遇新一轮强降雨。当日，广东多地出现暴雨、大暴雨；广州录得1小时降雨量达20毫米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670522.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:41:13.000Z"
+    },
+    {
+      "id": "ab15e97690c8",
+      "title": "（投资中国）艾默生中国总裁：在华产业生态重塑跨国企业“能力边界”",
+      "summary": "中新社北京8月1日电 (陶思阅)艾默生中国总裁王毅峯近日接受中新社采访时表示，跨国企业在中国的产业生态，正重新定义企业“能力边界”，中国超大规模市场形成了独特的创新驱动逻辑。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670521.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:40:37.000Z"
+    },
+    {
+      "id": "442009881958",
+      "title": "宁波至首尔直飞航线复航",
+      "summary": "中新社浙江宁波8月1日电 (奚金燕)8月1日16时29分，一架满载181名旅客的韩国易斯达航空波音737客机从宁波栎社国际机场起飞，标志着宁波直飞韩国首尔客运航线正式恢复运营。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670520.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:39:33.000Z"
+    },
+    {
+      "id": "bb40812c9f5b",
+      "title": "2026年暑运过半 深圳铁路客流高位运行",
+      "summary": "中新网深圳8月1日电 (索有为 岳千琳)2026年铁路暑运自7月1日启动以来，至7月31日刚好一半。深圳铁路部门1日发布的统计数据显示，暑运以来深圳铁路累计到发旅客1718.3万人次，日均到发旅客57.3万人次。其中，发送旅客875.3万人次，到达旅客843.0万人次。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670512.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:38:47.000Z"
+    },
+    {
+      "id": "4a25eab7e130",
+      "title": "500名桨板健儿奔赴宁夏银川 踏浪追风竞风流",
+      "summary": "中新网银川8月1日电 (记者 李佩珊)8月1日，2026年全国桨板长距离争霸赛(银川金凤站)暨“乘风破浪、劲爽一夏”水上休闲运动嘉年华活动在银川花博园火热开赛。来自重庆、四川、广西、河北、陕西、上海、甘肃、内蒙古、宁夏等多地的500名桨板选手齐聚塞上湖城逐浪竞速，为夏日银川献上一场动感十足的水上体育盛宴。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670507.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:38:31.000Z"
+    },
+    {
+      "id": "9a7b7bab50be",
+      "title": "江西于都：在长征集结出发地重温峥嵘岁月",
+      "summary": "中新网江西于都8月1日电 (记者 李韵涵)8月1日，正值中国人民解放军建军99周年，江西省赣州市于都县中央红军长征出发纪念馆内迎来众多参观者，民众走进展厅，透过文物、史料和复原场景，重温峥嵘岁月。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670491.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:37:53.000Z"
+    },
+    {
+      "id": "1d18570a59b8",
+      "title": "2026曲江碳水节启幕 丰富西安暑期夜间文旅业态",
+      "summary": "中新网西安8月1日电 (记者 党田野)2026曲江碳水节7月31日在西安大唐不夜城启幕。本次活动是曲江文旅“长安舞会·音乐季”重要组成部分，依托五大美食片区汇集本土餐饮商户，搭配互动游戏、街区演艺与艺文活动，活跃西安暑期夜间文旅市场。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670488.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:36:01.000Z"
+    },
+    {
+      "id": "920059c20714",
+      "title": "从“打卡”到“入戏” 浙江景区NPC重塑文旅新体验",
+      "summary": "中新网杭州8月1日电(郭其钰)“水波荡漾，有缘人到此可有疑问？”“诸位施主，远道而来，一路辛苦。”……在浙江省杭州市桐庐县垂云通天河景区，NPC(非玩家角色)“龟仙人”白衣长须，以自带混响的嗓音随时接梗，还能中英文无缝切换。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-01/10670482.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:35:47.000Z"
+    },
+    {
+      "id": "31fb7cfa20af",
+      "title": "直播：李心草、阎维文等带来大型音乐史诗《百年荣光·长征组歌》",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-01/10670555.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:34:07.000Z"
+    },
+    {
+      "id": "96abc0071a5a",
+      "title": "四预警齐发！这些地区发生山洪可能性很大",
+      "summary": "中新网8月1日电 据中央气象台网站消息，8月1日18时，水利部和中国气象局联合发布红色山洪灾害气象预警，自然资源部与中国气象局联合发布橙色地质灾害气象风险预警，中央气象台发布暴雨橙色预警、继续发布强对流天气蓝色预警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670551.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T11:30:17.000Z"
     },
     {
       "id": "6fc66372fbef",
@@ -50,26 +360,6 @@
       "publishedAt": "2026-08-01T10:44:06.000Z"
     },
     {
-      "id": "8831fe9e3545",
-      "title": "2026全国桨板长距离争霸赛（银川金凤站）开赛",
-      "summary": "图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-01/10670523.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T10:39:47.000Z"
-    },
-    {
-      "id": "11f340b340d4",
-      "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
-      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa Europe live – latest updates Spain’s prime minister, Pedro Sá…",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-01T10:32:55.000Z"
-    },
-    {
       "id": "ae988ea9ef11",
       "title": "Scores injured as earthquake hits near Naples in seismic swarm",
       "summary": "At least 21 injured and more than 250 evacuated in strongest quake to hit southern Italian region in 40 years At least 21 people have been injured after a 4.7-magnitude earthquak…",
@@ -78,46 +368,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-01T10:26:22.000Z"
-    },
-    {
-      "id": "8919617c29c6",
-      "title": "五年规划发布 全国供销合作社将全面升级为农服务",
-      "summary": "新华社北京8月1日电 题：五年规划发布 全国供销合作社将全面升级为农服务",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670519.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T10:21:12.000Z"
-    },
-    {
-      "id": "a555ba6eb8f4",
-      "title": "从乡建乡创到城建城创 台青设计师探路大陆城市更新“新蓝海”",
-      "summary": "中新社福州8月1日电 题：从乡建乡创到城建城创 台青设计师探路大陆城市更新“新蓝海”",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-01/10670486.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T10:14:24.000Z"
-    },
-    {
-      "id": "799bda464599",
-      "title": "青年华商：中华传统文化诠释中外合作商道",
-      "summary": "中新网北京8月1日电 2026年海外华裔青年精英文化经济研习活动日前收官，来自马来西亚、菲律宾、泰国、新加坡等15个国家的45名华裔青年行业领军人才在北京、福建两地深学悟道，共商发展，与中国企业家围绕构建健康、理性、共享的国际商业新秩序展开交流。",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-01/10670485.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T10:13:30.000Z"
-    },
-    {
-      "id": "dd35c45019f2",
-      "title": "平安过暑假，谨防溺水 | 应急医课堂",
-      "summary": "盛夏时节是溺水意外的高发阶段。谨防溺水，家长要提醒孩子不要做这几件事情。",
-      "url": "https://www.chinanews.com.cn/life/2026/08-01/10670517.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T10:09:02.000Z"
     },
     {
       "id": "d3189799b0a5",
@@ -130,26 +380,6 @@
       "publishedAt": "2026-08-01T10:07:05.000Z"
     },
     {
-      "id": "08d7136f98ec",
-      "title": "全国政协召开双周协商座谈会 围绕深入实施“人工智能+”行动协商议政 王沪宁主持",
-      "summary": "7月31日，十四届全国政协第四十八次双周协商座谈会在北京召开，中共中央政治局常委、全国政协主席王沪宁主持会议。人民政协报记者 齐波 摄 本报讯(记者 吕巍)十四届全国政协第四十八次双周协商座谈会7月31日在京召开，中共中央政治局常委、全国政协主席王沪宁主持会议。他表示，中共十八大以来，以习近平同志为核心的中共中央高度重视人工智能发展，把握人工智能技术演进…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670516.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:58:01.000Z"
-    },
-    {
-      "id": "964aa7012a7c",
-      "title": "航拍中国历史文化名镇——贵州土城古镇",
-      "summary": "图为8月1日，航拍贵州习水土城古镇一隅。石小杰 摄 图为8月1日，航拍贵州习水土城古镇一隅。石小杰 摄 图为8月1日，航拍贵州习水土城古镇一隅。石小杰 摄 图为8月1日，航拍贵州习水土城古镇一隅。石小杰 摄 图为8月1日，航拍贵州习水土城古镇一隅。石小杰 摄 图为8月1日，航拍贵州习水土城古镇一隅。石小杰 摄 图为8月1日，航拍贵州习水土城古镇四渡赤水纪…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-01/10670511.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:57:53.000Z"
-    },
-    {
       "id": "f9c8fa46968c",
       "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
       "summary": "在現代戰爭中，環繞地球運行的人造衛星幾乎未曾受到波及；但到了21世紀，太空或許已不再是安全的避風港。",
@@ -158,236 +388,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-01T09:56:01.000Z"
-    },
-    {
-      "id": "58eeb57bd344",
-      "title": "探访皇岗口岸港方口岸区",
-      "summary": "图为皇岗口岸港方口岸区的非过境交通接驳层。中新网记者 张祥毅 摄 图为媒体记者拍摄皇岗口岸联检大楼。中新网记者 张祥毅 摄 图为皇岗口岸港方口岸区的“合作查验”快捷通道，皇岗口岸共设置134条“合作查验”快捷通道和68个传统人工柜台。中新网记者 张祥毅 摄 图为媒体记者拍摄皇岗口岸港方口岸区。中新网记者 张祥毅 摄 图为皇岗口岸港方口岸区。中新网记者 张…",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199869.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:52:33.000Z"
-    },
-    {
-      "id": "f2d79c88d417",
-      "title": "不开空调室温25℃ 江苏徐州一小区试点集中供冷",
-      "summary": "三伏天酷热难耐，可在江苏徐州，却有居民正在享受一种别样的清凉，不用开空调，室温就能保持在25℃左右。这份清凉从何而来？",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670510.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:44:40.000Z"
-    },
-    {
-      "id": "6d98ab89ea9b",
-      "title": "从“中国乳都”到“世界乳都”——2026年世界奶业大会在呼和浩特举办",
-      "summary": "2026年世界奶业大会在呼和浩特开幕。 8月1日，以“科技引领、合作共赢，共建全球奶业可持续生态圈”为主题，由伊利集团、蒙牛集团共同主办的2026年世界奶业大会在呼和浩特开幕。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670508.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:39:24.000Z"
-    },
-    {
-      "id": "5b9460b52199",
-      "title": "中广核老挝北部清洁能源基地一期100万千瓦光伏项目建成投运",
-      "summary": "——",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670509.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:34:35.000Z"
-    },
-    {
-      "id": "cef7aaffa6dc",
-      "title": "中国海警位黄岩岛附近海域组织维权执法管控演练",
-      "summary": "中新网8月1日电 据“中国海警”微信公众号消息，中国海警局新闻发言人姜略表示，8月1日，中国海警位黄岩岛附近海域组织维权执法管控演练，重点演练临检拿捕、拦阻冲闯、强制拖离等执法行动。黄岩岛是中国固有领土。中国海警将加大黄岩岛附近海域维权执法管控力度，坚决维护国家领土主权和海洋权益。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670506.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:22:55.000Z"
-    },
-    {
-      "id": "ca2fbcc25e4c",
-      "title": "南部战区位黄岩岛领海领空和周边海空域开展多个实战化科目演练",
-      "summary": "中新网8月1日电 据南部战区微信公众号消息，8月1日，中国人民解放军南部战区位黄岩岛领海、领空和周边海空域组织海空联合演训，重点演练侦察预警、威慑巡航、海空管制、联合突击等实战化科目，有效检验了部队海空协同、快速支援和体系制胜能力。黄岩岛是中国固有领土，菲方划设所谓黄岩岛“领海基线”非法无效。战区部队时刻保持高度戒备，坚决捍卫国家领土主权和海洋权益。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670505.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:21:29.000Z"
-    },
-    {
-      "id": "b9a67b0c98ff",
-      "title": "蓝厅观察丨日本“国家情报局”成立 军国主义岂容还魂！",
-      "summary": "7月31日，日本正式成立“国家情报局”，引发外界强烈关注。由首相高市早苗亲自挂帅的“国家情报会议”也在同日召开首次会议，日本政府宣称，这是为了整合情报力量、应对所谓“间谍渗透”。但外界普遍认为，这是日本右翼势力对战后国际秩序赤裸裸的挑衅。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670504.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:18:06.000Z"
-    },
-    {
-      "id": "7d6958d782c5",
-      "title": "国际锐评丨“731”这天，日本“国家情报局”上线意欲何为？",
-      "summary": "对于曾遭受日本军国主义侵略的国家来说，“731”代表着罄竹难书的战争罪行。而在二战结束81年后的7月31日，日本政府正式设立“国家情报局”，并召开由日本首相高市早苗担任主席的首次“国家情报会议”，究竟意欲何为？",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670503.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:14:48.000Z"
-    },
-    {
-      "id": "214bf0876719",
-      "title": "“中国共产党展现了卓越的自我革新能力”——访匈牙利《民主主义者》周刊总编辑本齐克",
-      "summary": "“中国共产党之所以能够在过去105年的奋斗中不断铸就辉煌，根本在于该党具有其他政党无可比拟的优秀特质。”匈牙利《民主主义者》周刊总编辑本齐克·安德拉什日前在接受本报记者专访时如是说。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670502.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:12:04.000Z"
-    },
-    {
-      "id": "9cf83be21036",
-      "title": "佳话现场丨下半年经济工作如何发力？这场发布会释放重要信号！",
-      "summary": "如何看待当前经济运行情况？如何深入挖掘内需潜力？下半年经济工作有何侧重点？围绕大家关心的经济热点话题，7月31日，国家发展改革委举行新闻发布会。会上，国家发展改革委国民经济综合司副司长周宏伟表示，我国经济基础稳、优势多、韧性强、潜力大，长期向好的支撑条件和基本趋势没有改变，随着党中央、国务院各项既定部署加快落实落地，我们完全有条件、有能力、有信心、有底气…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670501.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:07:52.000Z"
-    },
-    {
-      "id": "6be4a46b77c2",
-      "title": "消费与投资如何协同发力？下半年经济工作发力方向划重点",
-      "summary": "7月30日，中共中央政治局召开会议，分析研究当前经济形势，部署下半年经济工作。会议强调“推动经济持续向新向优向好发展”，作出一系列重要部署。下半年经济工作怎么干？来看国家发展改革委国家信息中心研究员魏琪嘉的解读。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670500.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:04:08.000Z"
-    },
-    {
-      "id": "7bd70b75ba88",
-      "title": "“何以景德镇”主题展览亮相北京",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199860.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:01:09.000Z"
-    },
-    {
-      "id": "a39ed10559bc",
-      "title": "高地上的戟",
-      "summary": "王戟生活在两个世界。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670499.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:00:54.000Z"
-    },
-    {
-      "id": "cda8c3b9457e",
-      "title": "焦点访谈｜持之以恒推进全面从严治党 推动经济持续向新向优向好发展",
-      "summary": "央视网消息(焦点访谈)：中共中央政治局7月30日召开会议，决定今年10月在北京召开中国共产党第二十届中央委员会第五次全体会议，主要议程是，中共中央政治局向中央委员会报告工作，研究持之以恒推进全面从严治党若干重大问题。会议分析研究当前经济形势，部署下半年经济工作。持之以恒推进全面从严治党有何重大意义？下半年经济工作的着力点又有哪些？",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670497.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T08:56:01.000Z"
-    },
-    {
-      "id": "0baf5332f7bf",
-      "title": "谋发展——深刻认识“最本质的特征”和“最大优势”",
-      "summary": "高质量发展，全面建设社会主义现代化国家的首要任务。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670496.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T08:52:11.000Z"
-    },
-    {
-      "id": "1e1dd5263297",
-      "title": "（活力中国调研行）探访浙江晶盛机电股份有限公司",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199855.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T08:51:10.000Z"
-    },
-    {
-      "id": "426b87a31d26",
-      "title": "大国重器背后的故事：高可信是什么？王戟又是谁？",
-      "summary": "“高可信”是什么？",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670494.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T08:43:34.000Z"
-    },
-    {
-      "id": "5c4ea5c05608",
-      "title": "乌首都基辅遇袭致9死 俄称打击乌军工企业",
-      "summary": "中新社北京8月1日电 综合消息：乌克兰首都基辅当地时间8月1日凌晨遭袭，造成9人死亡。俄罗斯国防部同日称，对基辅地区的乌克兰军工企业发动打击。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670487.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T08:42:44.000Z"
-    },
-    {
-      "id": "cf321155c8ea",
-      "title": "美国新关税刚落地，就被自己人告了｜真相",
-      "summary": "中新网8月1日电 就在美国政府对全球60个国家和地区再次挥舞关税大棒之际，美国政府也再次迎来反噬——新关税落地当日就收到至少九家小型企业提呈的诉状。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670490.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T08:33:10.000Z"
-    },
-    {
-      "id": "a0fad222e27f",
-      "title": "2026年中国轮滑刷街竞速公开赛（锡林浩特站）鸣枪开赛",
-      "summary": "图为参加比赛的滑轮小将。穆仁 摄 图为比赛精彩瞬间。穆仁 摄 图为参加比赛的滑轮小将。穆仁 摄 图为比赛精彩瞬间。王志伟 摄 图为参赛者起跑出发。王志伟 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-01/10670484.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T08:32:54.000Z"
-    },
-    {
-      "id": "b3893e3d98e2",
-      "title": "黄河上游水生生态系统持续修复",
-      "summary": "中新社西宁8月1日电 (祁增蓓)青海省农业农村厅1日消息，该省自2021年8月1日起对黄河流域青海段干流、扎陵湖、鄂陵湖及大通河、湟水、隆务河等9条支流实施的五年禁捕满期。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670467.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T08:32:05.000Z"
-    },
-    {
-      "id": "45d1beb212f6",
-      "title": "暑运过半 全国铁路发送旅客超4.3亿人次",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199854.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T08:28:09.000Z"
-    },
-    {
-      "id": "97805136464f",
-      "title": "第三届海峡两岸民谣之夜交流活动在江门举办",
-      "summary": "中新社广东江门8月1日电 (记者 郭军)“声动湾区 乐享江门”——第三届海峡两岸民谣之夜交流活动7月29日至8月1日在广东江门市举办。本次活动以音乐为纽带，融合交流参访、美食体验、民谣共唱等多元形式，吸引来自海峡两岸的音乐人、台胞代表、商会代表及高校代表等近400人参与。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-01/10670466.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T08:25:39.000Z"
     },
     {
       "id": "9b4c8e3775b4",
