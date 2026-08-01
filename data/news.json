@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T19:47:09.283Z",
+  "updatedAt": "2026-08-01T21:04:45.001Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "916c591d7e1a",
+      "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
+      "summary": "Aircraft crashes into field after departing from the nearby city of Ica, according to local authorities At least 13 people have died after a plane carrying tourists crashed into…",
+      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T20:42:06.000Z"
+    },
     {
       "id": "11f340b340d4",
       "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
@@ -408,6 +418,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-01T09:56:01.000Z"
+    },
+    {
+      "id": "9796d68469c1",
+      "title": "‘We didn’t feel safe’: Booking.com users face battle to get money back",
+      "summary": "From melted electric sockets to shabby alternatives, readers tell of dealings with platform when things go wrong Jane Ripley* spent some time researching the best apartment to st…",
+      "url": "https://www.theguardian.com/money/2026/aug/01/bookingcom-money-back-refund",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-01T09:00:49.000Z"
     },
     {
       "id": "9b4c8e3775b4",
@@ -1020,16 +1040,6 @@
       "publishedAt": "2026-07-28T16:46:05.000Z"
     },
     {
-      "id": "c7202f772fe8",
-      "title": "The great PlayStation blackout – will kids actually have to leave their bedrooms this summer?",
-      "summary": "Gamers are angry that Sony will be deleting TV shows and films from their libraries as well as getting rid of physical games. Will a boycott make a difference? Name: PlayStation…",
-      "url": "https://www.theguardian.com/games/2026/jul/28/playstation-blackout-august-sony",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-28T13:41:44.000Z"
-    },
-    {
       "id": "c243f9b2c2ec",
       "title": "唐山大地震50週年：重塑中國社會肌理半世紀的「餘震」",
       "summary": "1976年7月28日凌晨3時42分，中國河北省唐山市發生7.8級地震，造成24.2萬人遇難。",
@@ -1090,6 +1100,16 @@
       "publishedAt": "2026-07-28T10:00:02.000Z"
     },
     {
+      "id": "843e940db6f9",
+      "title": "A self-emptying, frictionless marvel: Shark PowerDetect Speed Clean and Empty Pet Pro review",
+      "summary": "Shark’s cordless vacuum is a whiz at cleaning hard floors and pet hair, but a disarmingly short battery life caught our reviewer off guard • The best cordless vacuum cleaners – t…",
+      "url": "https://www.theguardian.com/thefilter/2026/jul/28/shark-powerdetect-speed-clean-and-empty-pet-pro-review",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-07-28T09:00:35.000Z"
+    },
+    {
       "id": "f1c41a01c494",
       "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
       "summary": "美國與伊朗的戰爭正好發生在常被稱為「戴維森窗口」的時間點之前。在部分美軍事規劃者眼中，中國在此期間對台灣發動入侵的可能性會升高。",
@@ -1140,16 +1160,6 @@
       "publishedAt": "2026-07-28T00:15:40.000Z"
     },
     {
-      "id": "d67894d06685",
-      "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
-      "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the…",
-      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-27T16:27:44.000Z"
-    },
-    {
       "id": "7ab85cf07f6b",
       "title": "AstraZeneca boss urges western drugmakers to move at ‘Chinese speed’",
       "summary": "Europe and US risk being outpaced on innovation, as happened in the car industry, warns Pascal Soriot AstraZeneca must operate at “Chinese speed” to ensure it does not suffer the…",
@@ -1178,16 +1188,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-07-27T08:00:34.000Z"
-    },
-    {
-      "id": "862bf4faa932",
-      "title": "Honor Magic V6 review: sleek foldable phone lacking a bit of polish",
-      "summary": "Super-premium Android has top performance, long battery life and good cameras, but is let down by software Honor’s svelte Android phone-tablet has been given a glow-up for its si…",
-      "url": "https://www.theguardian.com/technology/2026/jul/27/honor-magic-v6-review-android-sleek-foldable-phone-battery-cameras",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-27T06:00:32.000Z"
     },
     {
       "id": "8e037b48ffb5",
