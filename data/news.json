@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T12:08:40.502Z",
+  "updatedAt": "2026-08-01T14:08:12.101Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,94 +30,324 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "76dbb039e8aa",
-      "title": "中国银发族乐享“斜杠生活”",
-      "summary": "中新网银川8月1日电 (杨迪 李铭琪 冯钰林)乒乓球社团骨干、合唱团积极分子、扇子舞队义务教练……这是家住宁夏银川市长城花园社区的李淑艳的“多重身份”。今年72岁的她时常怀揣粉布兜，里面塞着乒乓球拍、绸扇和一本厚厚的歌谱，走到哪儿带到哪儿。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670563.shtml",
+      "id": "38ce2b673960",
+      "title": "从“不足千人”到“王者之师”：走近三湾改编的热血交锋",
+      "summary": "【编者按】",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-01/10670637.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T11:57:30.000Z"
+      "publishedAt": "2026-08-01T13:58:56.000Z"
+    },
+    {
+      "id": "ad2f5cc95cc1",
+      "title": "中外1800余名螳螂拳爱好者山东莱阳以武会友",
+      "summary": "中新社山东莱阳8月1日电 (记者 杨兵 王娇妮)首届中国·莱阳国际螳螂拳大赛1日迎来首个比赛日，来自中国、巴西、德国、美国、俄罗斯、法国等国家和地区的118支参赛队伍、1800余名螳螂拳爱好者齐聚山东莱阳，以武会友、同台切磋。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670636.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T13:58:48.000Z"
+    },
+    {
+      "id": "e650442444dd",
+      "title": "好评中国|未来网评：赓续99载铁血荣光，凝聚军民同心力量",
+      "summary": "今年8月1日，是中国人民解放军建军99周年的日子。站在这个特殊的时间节点，我们看到，这支从南昌城头枪声中走来的人民军队，早已成长为坚不可摧的钢铁长城、当之无愧的和平之师，正以势不可挡的步伐奔向建军百年的伟大时刻。",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-01/10670635.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T13:55:54.000Z"
+    },
+    {
+      "id": "10f8104c1c1d",
+      "title": "开局之年看中国·解码“产业大脑”｜数据大屏跳动，全球七成假睫毛跟着“起舞”",
+      "summary": "央广网青岛7月30日消息(记者唐磊)一个“产业大脑”，让全球七成假睫毛的“出生地”变了模样。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670634.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T13:53:11.000Z"
+    },
+    {
+      "id": "1bf44ee4a25d",
+      "title": "黄金市场成洗钱暗道？有人被骗近600万元！套路曝光→",
+      "summary": "近600万元，从上海的一个账户里消失，只用了几分钟。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670633.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T13:50:15.000Z"
     },
     {
       "id": "47ec41098a90",
-      "title": "France says Gironde ‘megafire’ is contained, as wildfires continue to burn in Greece and Spain – Europe live",
-      "summary": "Blaze in south-western region ‘is no longer spreading’, but others have reignited or have been fuelled by strong winds Back to Ukraine, where nine people were killed in Kyiv this…",
+      "title": "Spain leaving Schengen ‘not on table’ says France after Sánchez hits out at EU response to Ceuta crisis – Europe live",
+      "summary": "Interior minister confirms France will not ask for Spain’s removal from visa-free travel arrangements, after Spanish PM condemned ‘selfish, polarising’ response of some countries…",
       "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-01T11:53:52.000Z"
+      "publishedAt": "2026-08-01T13:49:41.000Z"
     },
     {
-      "id": "bcdbd23448cf",
-      "title": "暑运半程 国铁北京局发送旅客3877.4万人次",
-      "summary": "中新网北京8月1日电(记者 贾天勇)记者1日从中国铁路北京局集团有限公司(以下简称：国铁北京局)获悉，2026年暑运已过半程，铁路客流持续保持高位态势。截至2026年7月31日，国铁北京局暑运期间累计发送旅客3877.4万人次，日均发送旅客125.1万人次。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670561.shtml",
+      "id": "0354fecfb5d4",
+      "title": "清澈的爱，始于故宫午门，走遍祖国山海｜八一特别策划",
+      "summary": "故宫午门与端门之间，驻扎着大众所熟知的“最帅天团”——中国人民解放军仪仗司礼大队。红墙青砖、晨露朝风，他们日复一日迎着天安门的日出，守护五星红旗与太阳一同升起。他们曾踏过长安街阅兵场，执行过迎送外国元首、海外援训等重大任务，在万众瞩目下扛起家国荣光。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670632.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T11:53:14.000Z"
+      "publishedAt": "2026-08-01T13:49:31.000Z"
     },
     {
-      "id": "7c16cfcd5e2b",
-      "title": "2026年广州龙舟超级联赛开幕",
-      "summary": "中新社广州8月1日电 (记者 王坚)2026年广州龙舟超级联赛(简称“广州龙超”)开幕式暨揭幕战8月1日在广州海珠区举行。赛事汇聚49支龙舟队伍共1552名运动员以舟竞速。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670558.shtml",
+      "id": "ae988ea9ef11",
+      "title": "Dozens injured as earthquake hits near Naples in seismic swarm",
+      "summary": "At least five taken to hospital and about 300 evacuated in strongest quake to hit southern Italian region in 40 years At least 26 people have been injured after a 4.7-magnitude e…",
+      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T13:49:15.000Z"
+    },
+    {
+      "id": "140a4476ddde",
+      "title": "从算力底座到终端应用 “中国智造”全面出海",
+      "summary": "以高技术制造业、人工智能为代表的新兴产业，正成为我国经济的核心驱动力量。国家发展改革委今日在发布会上表示，上半年，人工智能相关行业保持30%以上的高增长。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670631.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T11:52:14.000Z"
+      "publishedAt": "2026-08-01T13:45:43.000Z"
     },
     {
-      "id": "37b562a8b05e",
-      "title": "中国U18男篮走进安吴青年训练班纪念馆 追寻红色足迹蓄力赛场拼搏",
-      "summary": "中新网陕西咸阳8月1日电 (记者 张一辰)在中国人民解放军建军99周年之际，中国U18男篮全体人员1日赴咸阳市泾阳县安吴青年训练班纪念馆，开展“追寻红色足迹，熔铸钢铁意志”主题教育活动。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670554.shtml",
+      "id": "6d6d0b44180d",
+      "title": "医保基金结算堵点加快打通 减轻群众就医负担",
+      "summary": "央视网消息(新闻联播)：近年来，我国不断提升医保管理服务水平，加快打通医保基金即时结算堵点，进一步减轻群众就医负担。国家医保局最新统计显示，今年1—5月，全国跨省异地就医直接结算1.47亿人次，涉及医疗总费用1503亿元，减少群众垫付资金886亿元。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670630.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T11:51:54.000Z"
+      "publishedAt": "2026-08-01T13:43:33.000Z"
     },
     {
-      "id": "101d81b37585",
-      "title": "海口开通“第比利斯-海口-米兰”第五航权货运航线",
-      "summary": "中新网海口8月1日电 (刘泽群 王金娜)一架载有50吨货物的B767全货机1日从海口美兰国际机场(简称美兰机场)飞往米兰贝加莫机场，标志着“第比利斯-海口-米兰”第五航权货运航线正式开通，串联格鲁吉亚、海南、意大利三地物流市场。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670553.shtml",
+      "id": "b09715375369",
+      "title": "不断推动退役军人工作高质量发展",
+      "summary": "坚持为经济社会发展服务、为国防和军队建设服务",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670629.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T11:51:30.000Z"
+      "publishedAt": "2026-08-01T13:41:47.000Z"
     },
     {
-      "id": "3259f7f90826",
-      "title": "山西省第十七届运动会运动员村正式开村 赋能三晋体育事业发展",
-      "summary": "中新网长治8月1日电 (刘小红)7月31日，山西省第十七届运动会运动员村开村仪式在长治举行。作为长治首次全城承办省级综合性体育赛事的核心配套载体，运动员村的启用，完善了省运会办赛体系，搭建起运动员休整交流平台，助推全省民众体育与竞技体育协同发展。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670549.shtml",
+      "id": "9d4b01ecbfb8",
+      "title": "【长江十年行】长江十年 贵州用十个故事作答",
+      "summary": "长江，中华民族的母亲河，自唐古拉山的冰川发端，奔涌六千三百余公里，枝繁脉盛、河湖共生，横贯华夏大地。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670628.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T11:50:22.000Z"
+      "publishedAt": "2026-08-01T13:37:33.000Z"
     },
     {
-      "id": "71850e50ae87",
-      "title": "全国近200所高校7000余名学生携人形机器人在京竞技",
-      "summary": "中新网北京8月1日电 (记者 陈杭)第二十八届中国机器人及人工智能大赛(CRAIC)人形机器人专项赛全国决赛1日在北京首钢园开幕。本届赛事共吸引全国近200所高校的7000余名学生参与，历经层层选拔，最终来自清华大学、哈尔滨工业大学、西安交通大学等高校的200余支队伍晋级决赛。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670542.shtml",
+      "id": "36c00322e657",
+      "title": "解放军驻香港部队举行招待会庆祝建军99周年",
+      "summary": "中新社香港8月1日电 中国人民解放军驻香港部队(简称“驻香港部队”)8月1日在昂船洲军营举行招待会，庆祝中国人民解放军建军99周年。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-01/10670625.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T11:50:10.000Z"
+      "publishedAt": "2026-08-01T13:36:27.000Z"
     },
     {
-      "id": "6b53fa04fc72",
-      "title": "应对强降雨天气 甘肃陇南已转移撤离群众1.4万余人",
-      "summary": "甘肃省陇南市徽县气象台8月1日11时39分继续发布暴雨红色预警信号：徽县大部分乡镇出现暴雨，降水仍将持续。预计今天白天，徽县嘉陵镇、大河店镇、虞关乡、永宁镇等乡镇仍有暴雨。由强降水引发中小河流洪水、山洪及地质灾害、城市积涝的气象风险高，请注意防范。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670560.shtml",
+      "id": "e25b7ffccc04",
+      "title": "首届全国青少年人工智能大赛决赛在沪开幕",
+      "summary": "中新网上海8月1日电 (记者 陈静)由中国福利会和中国妇女发展基金会共同主办的首届全国青少年人工智能大赛决赛(下称：大赛决赛)1日在上海开幕。开幕式融合传统文化与前沿科技，通过人工智能生成技术，打造“从甲骨文到量子计算”视觉长卷，实现历史文明与未来科技的跨时空对话，展现中国科技的传承与突破。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670619.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-01T11:49:50.000Z"
+      "publishedAt": "2026-08-01T13:33:02.000Z"
+    },
+    {
+      "id": "c2aedc8fc42a",
+      "title": "紧急修复铁路线、无人机空投保供应……多地“汛”速出击保通保畅保安全",
+      "summary": "央视网消息：当前正值“七下八上”防汛关键期，降雨范围广、局地雨强大，洪涝灾害风险较高。国家防总、应急管理部7月31日15时针对山西、黑龙江、陕西、青海启动防汛四级应急响应。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670626.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T13:31:00.000Z"
+    },
+    {
+      "id": "f0402bccd1fa",
+      "title": "军旗高扬砺斗志 矢志强军新征程",
+      "summary": "今天是八一建军节，全军和武警部队官兵以多种形式庆祝中国人民解放军建军99周年，激励官兵传承红色基因、矢志强军保家卫国。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670624.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T13:28:22.000Z"
+    },
+    {
+      "id": "76242d42d235",
+      "title": "政策发力提效 推动经济持续向新向优向好发展",
+      "summary": "央视网消息(新闻联播)：记者7月31日从国家发展改革委了解到，下半年宏观政策将发力提效，确保完成全年预期目标任务。在扩大内需方面，今年7550亿元中央预算内投资已基本下达完毕，民生类政府投资力度进一步加大。接下来，将协同推进109项重大工程和“六张网”规划建设，扎实推进“两重”建设和“两新”工作，重点聚焦投资空间大、民营企业投资意愿强的成长性行业领域推出…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670623.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T13:25:26.000Z"
+    },
+    {
+      "id": "eee8030f9e14",
+      "title": "人民军队99载浴血荣光 陆海空三军锚定目标坚守战位",
+      "summary": "今天是八一建军节，人民军队99载浴血荣光，一代代官兵肩负捍卫国家主权、安全和发展利益的重要使命，时刻保持警惕，面对复杂的国际形势和潜在的安全威胁，他们在各自战位做好了时刻军事斗争的准备。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670622.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T13:22:06.000Z"
+    },
+    {
+      "id": "0cb99c7c4ab3",
+      "title": "人民论坛网评 | 以实绩作答，让群众阅卷",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-01/10670621.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T13:02:07.000Z"
+    },
+    {
+      "id": "0ca5f9ad4d23",
+      "title": "金观平：存量加增量释放政策集成效应",
+      "summary": "精准有效实施宏观政策，是促进经济平稳健康运行的关键。近日召开的中央政治局会议在部署下半年经济工作时强调，实施好更加积极的财政政策和适度宽松的货币政策，充分发挥各项存量政策效能，及时谋划出台务实管用的增量政策，加大逆周期调节力度。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670617.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:59:34.000Z"
+    },
+    {
+      "id": "5c1bef5e4305",
+      "title": "持续向新向优向好发展（今日谈）",
+      "summary": "面对各种外部冲击和内部困难，中国经济为什么总能交出亮眼答卷？今年上半年经济实践中有启示。",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-01/10670615.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:57:38.000Z"
+    },
+    {
+      "id": "0c94092091f5",
+      "title": "浙江实施《人工智能OPC术语》团体标准 划定行业标尺",
+      "summary": "中新网杭州8月1日电(蓝伊旎)8月1日起，由浙江省数字经济发展中心、浙江省智能经济与智慧城市促进会牵头，14家单位共同编制的《人工智能OPC术语》团体标准正式实施。作为国内首个聚焦人工智能OPC(一人公司)领域的术语类标准，该标准将为OPC认定、评价、运营、服务提供统一的行业参照。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670611.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:57:08.000Z"
+    },
+    {
+      "id": "6103150eb743",
+      "title": "驻香港部队举行庆祝中国人民解放军建军99周年招待会",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199883.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:57:01.000Z"
+    },
+    {
+      "id": "e662bfeb10a2",
+      "title": "中国农业大学首届“未来农业”国际暑期学校在京开幕",
+      "summary": "中新网北京8月1日电 (记者 曾玥)7月31日，中国农业大学首届“未来农业”国际暑期学校在该校正式开幕。本届暑期学校以“绿色技术与智能创新”为主题，汇聚来自中国、巴西、美国、日本、西班牙、泰国等国农业高校的百余名青年学子与专家学者，共同开启为期14天的研学与对话。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670607.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:56:36.000Z"
+    },
+    {
+      "id": "1a7658d053f5",
+      "title": "新疆夫妻坚守“两条店规” 烟火小店传递绵长善意",
+      "summary": "中新网杭州8月1日电 题：新疆夫妻坚守“两条店规” 烟火小店传递绵长善意",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-01/10670605.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:54:38.000Z"
+    },
+    {
+      "id": "67e4a06e521d",
+      "title": "浙江立法规范生成式人工智能领域妇女权益保护",
+      "summary": "中新网杭州8月1日电(张煜欢)8月1日记者获悉，《浙江省妇女权益保障条例》(下称《条例》)经浙江省第十四届人民代表大会常务委员会第二十五次会议审议通过，将于今年9月1日起正式施行。其中，针对数字时代下女性维权的新情况、新问题，该《条例》对新就业群体女性劳动者权益保障、生成式人工智能领域妇女权益保护等作出规定。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670599.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:53:46.000Z"
+    },
+    {
+      "id": "574b6c642c07",
+      "title": "超前点映一票难求 电影《奥德赛》亮相中国内地院线引关注",
+      "summary": "中新网北京8月1日电 (记者 高凯)距离8月14日在中国内地院线正式公映还有近两周，克里斯托弗·诺兰执导的史诗巨制《奥德赛》已在中国市场掀起一轮热潮与关注。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-01/10670608.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:53:10.000Z"
+    },
+    {
+      "id": "e0474d279488",
+      "title": "（活力中国调研行）浙江绍兴：AI赋能硅片制造 加速半导体材料国产突围",
+      "summary": "中新网绍兴8月1日电(刘子琳 项菁)“半导体硅片制造装备搭载了AI视觉系统，可依靠成像算法实时捕捉晶体生长状态、研判工艺波动，即时给出最优工艺调整方案。”8月1日，在位于浙江绍兴上虞的浙江晶盛机电股份有限公司生产车间，一套套半导体硅片制造装备有序运转，该公司抛光设备研究所所长李阳健受访时如是说。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670613.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:53:02.000Z"
+    },
+    {
+      "id": "4ad6041b6b09",
+      "title": "海南第二批7家岛内居民日用消费品免税店1日起陆续开业",
+      "summary": "中新网海口8月1日电 (记者 王子谦)继今年2月首批5家岛内居民日用消费品免税店开业后，海南自贸港第二批7家岛内居民日用消费品免税店1日起陆续开业。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670598.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:52:32.000Z"
+    },
+    {
+      "id": "42ac47408998",
+      "title": "浙江今年首现超40℃气温",
+      "summary": "中新网杭州8月1日电(记者 王逸飞)由于副热带高压牢牢“控场”，浙江连日来出现高温酷热天气。8月第一天，该省多地气温超过40℃，这也是浙江今年首现超40℃的气温。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670597.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:51:34.000Z"
+    },
+    {
+      "id": "6fcf13a3477f",
+      "title": "（文化中国行）粉彩瓷绘：方寸瓷器物 匠心续古香",
+      "summary": "中新社景德镇8月1日电 题：粉彩瓷绘：方寸瓷器物 匠心续古香",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670609.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:50:50.000Z"
+    },
+    {
+      "id": "51e6221bc50b",
+      "title": "强国必须强军 军强才能国安",
+      "summary": "强国必须强军，军强才能国安。习近平总书记指出，新征程上，必须全面贯彻新时代党的强军思想，贯彻新时代军事战略方针，坚持党对人民军队的绝对领导，坚定不移走中国特色强军之路。(新华社)",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670612.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T12:50:48.000Z"
     },
     {
       "id": "11f340b340d4",
@@ -127,227 +357,27 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-01T11:49:48.000Z"
+      "publishedAt": "2026-08-01T12:35:04.000Z"
     },
     {
-      "id": "186bc7e5e04f",
-      "title": "第五届“昆山妈祖杯”青年快投垒球赛开赛",
-      "summary": "中新社江苏昆山8月1日电 (记者 钟升)第五届“昆山妈祖杯”青年快投垒球赛8月1日在昆山开赛，18支参赛球队约380名两岸青年以球会友，共叙情谊。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670538.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:49:44.000Z"
-    },
-    {
-      "id": "6007845b0fdf",
-      "title": "（经济观察）中国暑期旅游市场活力迸发 多元体验激活消费新动能",
-      "summary": "中新社北京8月1日电 (记者 刘文文)2026年暑期已过半。在亲子、避暑、休闲等多重需求叠加下，中国旅游消费市场深度游、体验游趋势加速升温，文旅消费热度持续走高。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670535.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:48:52.000Z"
-    },
-    {
-      "id": "13dbe9e69cff",
-      "title": "多国媒体人深入云南保山 问发展、探文脉、感知边陲变化",
-      "summary": "中新网保山8月1日电 题：多国媒体人深入云南保山 问发展、探文脉、感知边陲变化",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-01/10670534.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:48:06.000Z"
-    },
-    {
-      "id": "aa61c8963aac",
-      "title": "保险业上半年原保险保费收入3.86万亿元，同比增长3.3%",
-      "summary": "中新网北京8月1日电 (陶思阅)中国保险行业协会党委委员、副秘书长方咏近日在北京介绍，2026年上半年，保险市场运行总体平稳，业务结构持续优化。原保险保费收入3.86万亿元，同比增长3.3%；赔款与给付支出1.40万亿元，同比增长3.8%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670531.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:47:36.000Z"
-    },
-    {
-      "id": "979123bbd91b",
-      "title": "2026年全国业余围棋邀请赛开赛",
-      "summary": "中新网长治8月1日电 (刘小红 刘盼)2026年“丹朱杯”全国业余围棋邀请赛7月31日在山西省长子县开赛。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670530.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:47:10.000Z"
-    },
-    {
-      "id": "336b61fb418f",
-      "title": "《安徽省促进茶产业发展条例》施行 护航徽茶扬帆出海",
-      "summary": "中新网合肥8月1日电 (记者 赵强)《安徽省促进茶产业发展条例》(下称“条例”)8月1日起正式施行。这是安徽省首部省级茶产业专项法规，标志着安徽茶产业发展由政策引导迈入法治护航新阶段。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670529.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:45:01.000Z"
-    },
-    {
-      "id": "8f5c4d9b5755",
-      "title": "小体量承载大主题 音乐微短剧《风吹稻浪》研讨会举行",
-      "summary": "中新网北京8月1日电 (记者 高凯)由中国电视艺术委员会主办的音乐微短剧《风吹稻浪》研讨会日前在京举行。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-01/10670527.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:44:49.000Z"
-    },
-    {
-      "id": "c47d6daf4f62",
-      "title": "南北方多地桑拿天盘踞 台风“白海豚”再度完成眼壁置换蓄力增强",
-      "summary": "高温桑拿天、区域性暴雨、海上台风成为近期天气关注的焦点，一起来了解最新形势：",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670559.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:44:45.000Z"
-    },
-    {
-      "id": "179ca2a89543",
-      "title": "一抹赤红惊艳苍穹 邂逅四子王旗大红山“火星”秘境",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199876.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:43:01.000Z"
-    },
-    {
-      "id": "933dac4ec164",
-      "title": "从“怀疑”到“学习” 海外民众见证中国减贫奇迹",
-      "summary": "中新网银川8月1日电 题：从“怀疑”到“学习” 海外民众见证中国减贫奇迹",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670526.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:42:19.000Z"
-    },
-    {
-      "id": "5b23f1e2ea13",
-      "title": "吕蔚然：天津写字楼市场凭“稳”诠释高度市场化",
-      "summary": "中新网天津8月1日电 (记者 周亚强 孙玲玲)高力国际天津及沈阳分公司总经理吕蔚然日前接受中新网记者专访时指出，作为中国北方较早发展写字楼市场的城市，当前天津市场正呈现出高度市场化、租金走势平稳的显著特征。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670525.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:42:01.000Z"
-    },
-    {
-      "id": "0887cb808a4d",
-      "title": "被“AI”“开盒”别再手足无措 律师：依法收证维权 网络不是法外之地",
-      "summary": "中新网成都8月1日电 (记者 吕杨)《中华人民共和国反网络暴力法(征求意见稿)》日前面向社会征求意见。网络之上，不少人认为网上随意发布他人视频只是娱乐，打字跟风骂几句不用负责，实则不然，一句过激评论、一段剪辑画面、一张AI合成影像，都可能酿成网络暴力。近日，四川致高律师事务所律师郑华贵接受中新网记者专访时表示，根据《反网络暴力法征求意见稿》相关规定，我们…",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670524.shtml",
-      "source": "中国新闻网",
+      "id": "cd4deb3ebc07",
+      "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
+      "summary": "New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industry Over the past month, a series of advancements in China’s artificial in…",
+      "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+      "source": "The Guardian Technology",
       "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:41:45.000Z"
+      "language": "en",
+      "publishedAt": "2026-08-01T12:00:53.000Z"
     },
     {
-      "id": "160a5647eaf2",
-      "title": "广东遭遇季风槽影响 广州等地降暴雨、大暴雨",
-      "summary": "中新社广州8月1日电 (记者 王坚)受季风槽北抬影响，广东8月1日起遭遇新一轮强降雨。当日，广东多地出现暴雨、大暴雨；广州录得1小时降雨量达20毫米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670522.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:41:13.000Z"
-    },
-    {
-      "id": "ab15e97690c8",
-      "title": "（投资中国）艾默生中国总裁：在华产业生态重塑跨国企业“能力边界”",
-      "summary": "中新社北京8月1日电 (陶思阅)艾默生中国总裁王毅峯近日接受中新社采访时表示，跨国企业在中国的产业生态，正重新定义企业“能力边界”，中国超大规模市场形成了独特的创新驱动逻辑。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670521.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:40:37.000Z"
-    },
-    {
-      "id": "442009881958",
-      "title": "宁波至首尔直飞航线复航",
-      "summary": "中新社浙江宁波8月1日电 (奚金燕)8月1日16时29分，一架满载181名旅客的韩国易斯达航空波音737客机从宁波栎社国际机场起飞，标志着宁波直飞韩国首尔客运航线正式恢复运营。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670520.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:39:33.000Z"
-    },
-    {
-      "id": "bb40812c9f5b",
-      "title": "2026年暑运过半 深圳铁路客流高位运行",
-      "summary": "中新网深圳8月1日电 (索有为 岳千琳)2026年铁路暑运自7月1日启动以来，至7月31日刚好一半。深圳铁路部门1日发布的统计数据显示，暑运以来深圳铁路累计到发旅客1718.3万人次，日均到发旅客57.3万人次。其中，发送旅客875.3万人次，到达旅客843.0万人次。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670512.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:38:47.000Z"
-    },
-    {
-      "id": "4a25eab7e130",
-      "title": "500名桨板健儿奔赴宁夏银川 踏浪追风竞风流",
-      "summary": "中新网银川8月1日电 (记者 李佩珊)8月1日，2026年全国桨板长距离争霸赛(银川金凤站)暨“乘风破浪、劲爽一夏”水上休闲运动嘉年华活动在银川花博园火热开赛。来自重庆、四川、广西、河北、陕西、上海、甘肃、内蒙古、宁夏等多地的500名桨板选手齐聚塞上湖城逐浪竞速，为夏日银川献上一场动感十足的水上体育盛宴。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670507.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:38:31.000Z"
-    },
-    {
-      "id": "9a7b7bab50be",
-      "title": "江西于都：在长征集结出发地重温峥嵘岁月",
-      "summary": "中新网江西于都8月1日电 (记者 李韵涵)8月1日，正值中国人民解放军建军99周年，江西省赣州市于都县中央红军长征出发纪念馆内迎来众多参观者，民众走进展厅，透过文物、史料和复原场景，重温峥嵘岁月。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670491.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:37:53.000Z"
-    },
-    {
-      "id": "1d18570a59b8",
-      "title": "2026曲江碳水节启幕 丰富西安暑期夜间文旅业态",
-      "summary": "中新网西安8月1日电 (记者 党田野)2026曲江碳水节7月31日在西安大唐不夜城启幕。本次活动是曲江文旅“长安舞会·音乐季”重要组成部分，依托五大美食片区汇集本土餐饮商户，搭配互动游戏、街区演艺与艺文活动，活跃西安暑期夜间文旅市场。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670488.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:36:01.000Z"
-    },
-    {
-      "id": "920059c20714",
-      "title": "从“打卡”到“入戏” 浙江景区NPC重塑文旅新体验",
-      "summary": "中新网杭州8月1日电(郭其钰)“水波荡漾，有缘人到此可有疑问？”“诸位施主，远道而来，一路辛苦。”……在浙江省杭州市桐庐县垂云通天河景区，NPC(非玩家角色)“龟仙人”白衣长须，以自带混响的嗓音随时接梗，还能中英文无缝切换。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-01/10670482.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:35:47.000Z"
-    },
-    {
-      "id": "31fb7cfa20af",
-      "title": "直播：李心草、阎维文等带来大型音乐史诗《百年荣光·长征组歌》",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-01/10670555.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:34:07.000Z"
-    },
-    {
-      "id": "96abc0071a5a",
-      "title": "四预警齐发！这些地区发生山洪可能性很大",
-      "summary": "中新网8月1日电 据中央气象台网站消息，8月1日18时，水利部和中国气象局联合发布红色山洪灾害气象预警，自然资源部与中国气象局联合发布橙色地质灾害气象风险预警，中央气象台发布暴雨橙色预警、继续发布强对流天气蓝色预警。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670551.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T11:30:17.000Z"
+      "id": "d25d29afb947",
+      "title": "The great British switch-off: how floating retreats, mobile-free pubs and sauna book groups are freeing people from their smartphones",
+      "summary": "Sick of doomscrolling? From venues with smartphone swear jars to cabins with absolutely no signal, here are the fun and freeing ways to ditch your device There’s a ritual at the…",
+      "url": "https://www.theguardian.com/technology/2026/aug/01/great-british-switch-off-fun-freeing-ways-ditch-smartphone-doomscrolling",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-01T11:00:51.000Z"
     },
     {
       "id": "6fc66372fbef",
@@ -358,16 +388,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-01T10:44:06.000Z"
-    },
-    {
-      "id": "ae988ea9ef11",
-      "title": "Scores injured as earthquake hits near Naples in seismic swarm",
-      "summary": "At least 21 injured and more than 250 evacuated in strongest quake to hit southern Italian region in 40 years At least 21 people have been injured after a 4.7-magnitude earthquak…",
-      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-01T10:26:22.000Z"
     },
     {
       "id": "d3189799b0a5",
@@ -508,6 +528,16 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-31T17:24:42.000Z"
+    },
+    {
+      "id": "ebdff910e4ef",
+      "title": "$2m crime novel deal collapses amid questions over AI use",
+      "summary": "Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’ A high-profile publishing deal for a debut crime…",
+      "url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-07-31T16:45:04.000Z"
     },
     {
       "id": "2a1585c44b18",
@@ -830,16 +860,6 @@
       "publishedAt": "2026-07-30T11:00:12.000Z"
     },
     {
-      "id": "c7f69c5624a7",
-      "title": "Lloyds Bank to cut £2bn in costs as part of AI-powered strategy",
-      "summary": "Chief executive says the four-year plan will lead to greater efficiency but gives no details of potential job losses Business live – latest updates Lloyds Banking Group will cut…",
-      "url": "https://www.theguardian.com/business/2026/jul/30/lloyds-bank-cut-2bn-costs-part-ai-powered-strategy",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-30T10:22:52.000Z"
-    },
-    {
       "id": "b8c1290c655e",
       "title": "中國機器人大軍如何改變英國零售業？",
       "summary": "英國生產力成長乏力、勞動力短缺，這給中國機器人公司創造了機會。",
@@ -908,26 +928,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-30T00:17:17.000Z"
-    },
-    {
-      "id": "bacfb77975c4",
-      "title": "Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology",
-      "summary": "First-in-nation law sets up test on states’ power to regulate use of AI as it tries to outlaw fake nude images of real people Elon Musk’s company xAI has sued Minnesota over the…",
-      "url": "https://www.theguardian.com/technology/2026/jul/29/xai-sues-minnesota-nudification-technology",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-30T00:02:03.000Z"
-    },
-    {
-      "id": "ad7997a1b17d",
-      "title": "Meta misses earnings forecasts after Zuckerberg media push to promote AI",
-      "summary": "Stock tumbles nearly 8% after weaker-than-expected results, despite CEO’s blitz to tout positive effects of AI Mark Zuckerberg’s media spree touting the positive effects of artif…",
-      "url": "https://www.theguardian.com/technology/2026/jul/29/meta-earnings-mark-zuckerberg",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-29T21:26:49.000Z"
     },
     {
       "id": "c92319752b7a",
