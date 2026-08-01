@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T22:06:26.310Z",
+  "updatedAt": "2026-08-01T23:06:31.354Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,104 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "1af8ba1e9016",
+      "title": "第12批国家组织药品集采开标 有哪些新变化？",
+      "summary": "第12批国家组织药品集采7月31日在上海开标，65种药品采购成功，327家企业的521个产品获得拟中选资格，拟中选结果公示后将正式发布。根据采购规则，首轮报价未中选的企业，有机会根据采购规则进行第二轮“复活”报价，以适宜价格供应临床。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670684.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T22:54:59.000Z"
+    },
+    {
+      "id": "21f72f93f29a",
+      "title": "莫斯科发生爆炸事件已致3人死亡21人受伤",
+      "summary": "中新社莫斯科8月1日电 俄罗斯国家反恐委员会1日晚发布消息说，莫斯科市中心一家餐厅发生爆炸，已造成3人死亡、21人受伤。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670679.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T22:49:57.000Z"
+    },
+    {
+      "id": "27e736b16bd1",
+      "title": "Australia news live: aged-care nurses get pay rise; fuel excise cut due to end at midnight",
+      "summary": "Increase in annual pay packets began from August 1. Follow updates The deputy leader of the opposition, Jane Hume , will appear on ABC’s Insiders after 9. Petrol prices set to ri…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T22:46:07.000Z"
+    },
+    {
+      "id": "4d4f9e90c567",
+      "title": "全球央行购金大增62% 释放哪些信号？专家解读→",
+      "summary": "7月30日，世界黄金协会发布的2026年二季度《全球黄金需求趋势报告》显示：二季度全球黄金总需求同比持平，为1269吨，上半年全球黄金总需求达2522吨，需求总值约3800亿美元，创历史新高。金价涨势暂歇、市场展现韧性，这对投资者意味着什么？央行购金、金饰消费、科技用金数据背后又释放了哪些信号？",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670683.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T22:38:59.000Z"
+    },
+    {
+      "id": "3ba3e8696e93",
+      "title": "斯诺克上海大师赛：赵心童不敌威尔逊无缘争冠",
+      "summary": "中新社上海8月1日电 (记者 缪璐)2026世界斯诺克上海大师赛半决赛于1日晚间战罢。中国“独苗”赵心童未能再进一步，以8:10憾负卫冕冠军凯伦·威尔逊，无缘争冠。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670677.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T22:37:20.000Z"
+    },
+    {
+      "id": "a5a7739f2151",
+      "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
+      "summary": "当地时间8月1日，俄罗斯国家反恐委员会表示，莫斯科市中心一家餐厅发生的事故系自制爆炸装置爆炸所致。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670682.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T22:36:26.000Z"
+    },
+    {
+      "id": "5f4184461a40",
+      "title": "美驻中东多国使馆发布警告 称地区局势可能升级",
+      "summary": "美国驻中东多国大使馆8月1日发布安全警告，提醒美国公民提高警惕，密切关注当地安全形势，并采取必要防范措施。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670681.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T22:34:26.000Z"
+    },
+    {
+      "id": "ea62bc86fc57",
+      "title": "“闽超”岚台交流赛在平潭鸣哨开赛",
+      "summary": "中新社福建平潭8月1日电 (记者 闫旭)2026福建省城市足球联赛岚台交流赛1日晚在平潭鸣哨开赛，台湾劲凤足球队与2026福建省城市足球联赛(“闽超”)平潭队对阵。最终，平潭队以2：1的比分战胜台湾劲凤足球队。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670676.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T22:33:14.000Z"
+    },
+    {
+      "id": "2ee4f4ab9054",
+      "title": "以官员称美接近批准对伊军事打击 以方保持高度警惕",
+      "summary": "当地时间8月1日，据一名以色列官员透露，以色列方面评估认为，美国总统特朗普目前比以往任何时候都更接近批准对伊朗发动重大军事袭击，但相关计划尚未最终确定。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670680.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T22:32:18.000Z"
+    },
+    {
       "id": "916c591d7e1a",
-      "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
-      "summary": "Aircraft crashes into field after departing from the nearby city of Pisco, according to local authorities At least 13 people, among them foreign tourists, have been killed in a p…",
+      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
+      "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been…",
       "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-01T21:47:06.000Z"
+      "publishedAt": "2026-08-01T22:31:13.000Z"
     },
     {
       "id": "11f340b340d4",
@@ -280,86 +370,6 @@
       "publishedAt": "2026-08-01T14:09:25.000Z"
     },
     {
-      "id": "803e6591468c",
-      "title": "爱尔兰前总理感叹中国的经济、技术和文化力量",
-      "summary": "全球媒体聚焦｜爱尔兰前总理感叹中国的经济、技术和文化力量",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670639.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T14:07:37.000Z"
-    },
-    {
-      "id": "17e8d5022da5",
-      "title": "【好评中国】从南昌烽火到强军潮头，以铁血军魂护佑可爱中国",
-      "summary": "1927年8月1日，南昌城头一声枪响划破沉沉暗夜，人民军队就此诞生。历经99载风雨征程，这支人民子弟兵从战火硝烟中一路走来，始终恪守听党指挥的根本原则，以血肉之躯守护家国疆土、万家烟火。回望99载奋进之路，一条红线清晰可见：党旗引领军旗行，人民军队的根始终扎在人民中间。这份恒久不变的初心与信仰，构筑起守护华夏大地安宁稳固的钢铁根基。",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-01/10670638.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T14:04:15.000Z"
-    },
-    {
-      "id": "38ce2b673960",
-      "title": "从“不足千人”到“王者之师”：走近三湾改编的热血交锋",
-      "summary": "【编者按】",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-01/10670637.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T13:58:56.000Z"
-    },
-    {
-      "id": "ad2f5cc95cc1",
-      "title": "中外1800余名螳螂拳爱好者山东莱阳以武会友",
-      "summary": "中新社山东莱阳8月1日电 (记者 杨兵 王娇妮)首届中国·莱阳国际螳螂拳大赛1日迎来首个比赛日，来自中国、巴西、德国、美国、俄罗斯、法国等国家和地区的118支参赛队伍、1800余名螳螂拳爱好者齐聚山东莱阳，以武会友、同台切磋。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670636.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T13:58:48.000Z"
-    },
-    {
-      "id": "e650442444dd",
-      "title": "好评中国|未来网评：赓续99载铁血荣光，凝聚军民同心力量",
-      "summary": "今年8月1日，是中国人民解放军建军99周年的日子。站在这个特殊的时间节点，我们看到，这支从南昌城头枪声中走来的人民军队，早已成长为坚不可摧的钢铁长城、当之无愧的和平之师，正以势不可挡的步伐奔向建军百年的伟大时刻。",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-01/10670635.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T13:55:54.000Z"
-    },
-    {
-      "id": "10f8104c1c1d",
-      "title": "开局之年看中国·解码“产业大脑”｜数据大屏跳动，全球七成假睫毛跟着“起舞”",
-      "summary": "央广网青岛7月30日消息(记者唐磊)一个“产业大脑”，让全球七成假睫毛的“出生地”变了模样。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670634.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T13:53:11.000Z"
-    },
-    {
-      "id": "1bf44ee4a25d",
-      "title": "黄金市场成洗钱暗道？有人被骗近600万元！套路曝光→",
-      "summary": "近600万元，从上海的一个账户里消失，只用了几分钟。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670633.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T13:50:15.000Z"
-    },
-    {
-      "id": "0354fecfb5d4",
-      "title": "清澈的爱，始于故宫午门，走遍祖国山海｜八一特别策划",
-      "summary": "故宫午门与端门之间，驻扎着大众所熟知的“最帅天团”——中国人民解放军仪仗司礼大队。红墙青砖、晨露朝风，他们日复一日迎着天安门的日出，守护五星红旗与太阳一同升起。他们曾踏过长安街阅兵场，执行过迎送外国元首、海外援训等重大任务，在万众瞩目下扛起家国荣光。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670632.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T13:49:31.000Z"
-    },
-    {
       "id": "ae988ea9ef11",
       "title": "Dozens injured as earthquake hits near Naples in seismic swarm",
       "summary": "At least five taken to hospital and about 300 evacuated in strongest quake to hit southern Italian region in 40 years At least 26 people have been injured after a 4.7-magnitude e…",
@@ -588,16 +598,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-31T15:35:53.000Z"
-    },
-    {
-      "id": "5cedfb30143f",
-      "title": "NSW should compensate elderly woman whose public housing was inundated with sewage, ombudsman finds",
-      "summary": "Ombudsman finds Homes NSW acted unreasonably and recommended additional payment for distress and suffering Get our breaking news email , free app or daily news podcast An elderly…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/01/nsw-should-compensate-elderly-woman-whose-public-housing-was-inundated-with-sewage-ombudsman-finds-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T15:00:18.000Z"
     },
     {
       "id": "cb375db86712",
