@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T12:11:02.174Z",
+  "updatedAt": "2026-08-02T14:10:28.230Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,114 +30,364 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "d7ceaad5e83c",
-      "title": "中国央行：支持更多境外机构参与熊猫债发行",
-      "summary": "中新社北京8月2日电 (陶思阅)中国央行2日发布消息称，近日召开了2026年下半年工作会议，提出要支持和便利更多境外机构参与熊猫债的发行。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670909.shtml",
+      "id": "2150f11a724d",
+      "title": "勇立潮头大湾区丨“来数加工”成跨境算力新场景",
+      "summary": "算力，不是遥不可及的黑科技 而是数字时代的“新水电” 从《哪吒之魔童降世》《流浪地球》的 影视特效 到《王者荣耀》《黑神话：悟空》等游戏 丝滑操作 甚至是每一次精准的天气预警 …… 这一切的背后都离不开两个字：算力 依托大湾区平台优势 粤港澳大湾区数据特区 “来数加工”跨境算力专区 近期在广东韶关 正式启用 韶关和香港之间架起“数字桥梁” 为粤港澳科创协…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670953.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T12:03:50.000Z"
+      "publishedAt": "2026-08-02T14:03:51.000Z"
     },
     {
-      "id": "7dc77c66d953",
-      "title": "湖南张家界避暑山水“圈粉”境外游客",
-      "summary": "中新社湖南张家界8月2日电 (邓霞 高双志 宋莉莉)今年暑期，法国游客伊莎贝尔(Isabelle)和家人选择来湖南张家界避暑度假。行走在海拔超千米的张家界国家森林公园黄石寨景区观景步道上，林木苍翠，山风清爽。一行人边饱览石英砂岩峰林美景，边享受清凉惬意。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670908.shtml",
+      "id": "9738239b28c8",
+      "title": "全球媒体聚焦 | 中国开源模型领先 美媒反思美AI发展盲区",
+      "summary": "近期，美国开放人工智能研究中心(OpenAI)模型自主入侵其他企业数据系统、中国开源模型参与应急响应，引发国际舆论持续关注。美国媒体也对各国开展AI安全治理合作以及AI开源生态价值#8204;进行思考与讨论。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670952.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:55:02.000Z"
+    },
+    {
+      "id": "0bd6e078d40a",
+      "title": "Evacuations near Athens as Greece becomes focus of Europe’s wildfire crisis",
+      "summary": "High winds spread flames through Attica while blazes stabilise in France and Spain but risk of flare-ups remains high Europe’s wildfire crisis fractured along starkly different f…",
+      "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T13:52:53.000Z"
+    },
+    {
+      "id": "059ce2ed45d7",
+      "title": "Moscow bomb kills at least three as device carried by woman explodes",
+      "summary": "More than 20 people injured in blast near Italian restaurant Balzi Rossi in centre of Russian capital on Saturday night A homemade bomb carried by a woman killed three people and…",
+      "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T13:51:41.000Z"
+    },
+    {
+      "id": "f655d099bd17",
+      "title": "破壁而立，寻新机！ 中国跨境电商从“卖产品”转向“拥有品牌议价权和定价权”",
+      "summary": "央视网消息：从2026年7月1日起，欧盟正式取消150欧元以下进口包裹的免税政策。在两年过渡期内，对所有入境小包裹按件征收3欧元临时统一关税，并与原有增值税叠加征收。延续多年的“免税红利”终结后，中国跨境电商的低价直邮模式遭遇冲击。对于客单价10欧元左右的商品而言，3欧元关税意味着成本增长30%。政策施行一个月，商家受到哪些影响？",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670951.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T11:58:35.000Z"
+      "publishedAt": "2026-08-02T13:48:50.000Z"
     },
     {
-      "id": "e0709b674484",
-      "title": "南拳弟子“归山”立碑 莆田南少林寺再续祖庭文脉",
-      "summary": "中新社福建莆田8月2日电 (叶秋云)时值“世界武术日”前夕，“寻根祖地南拳归山——第二批南拳联合归山立碑仪式”2日在福建莆田南少林寺举行。来自福建、广东、广西、浙江及香港地区的二十余个南拳流派、四百余名武术传人齐聚南拳祖庭，共溯南少林武术文脉。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670907.shtml",
+      "id": "43bd3719848f",
+      "title": "中国北疆列车助力少数民族文化传承",
+      "summary": "中新社黑龙江齐齐哈尔8月2日电 (记者 史轶夫)黑龙江省齐齐哈尔市富裕县七家子村玛纳斯广场8月2日鼓乐悠扬，传统敖包祭祀启幕，一年一度的柯尔克孜族东迁节如期而至。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670947.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T11:58:19.000Z"
+      "publishedAt": "2026-08-02T13:40:55.000Z"
     },
     {
-      "id": "17839ce7533f",
-      "title": "广西灵山县一公司在建楼发生火灾 致2死2伤",
-      "summary": "2026年8月2日12时许，广西钦州灵山县十里工业园区园园丰食品有限公司一在建楼发生火灾，接报后，灵山县消防救援、公安、应急、卫生健康等部门立即赶赴现场处置。现场造成4人被困，已全部救出，其中2人经抢救无效死亡，2人受伤已送医院救治，无生命危险。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670910.shtml",
+      "id": "dc6f5d7eeed2",
+      "title": "《再走绛州》首演 千年古调成古城文旅“新引擎”",
+      "summary": "中新网运城8月2日电(卫世新 杨建义)“一根扁担软溜软溜溜呀哈咳，担上了扁担我走绛州……”传唱数百年的经典民歌《走绛州》，早已成为绛州最鲜活、最鲜明的文化图腾。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-02/10670938.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T11:56:37.000Z"
+      "publishedAt": "2026-08-02T13:18:32.000Z"
     },
     {
-      "id": "635e95ace570",
-      "title": "中国脐带血稳定植入率已提升至逾97%",
-      "summary": "中新网上海8月2日电(陈静 张嘉卿)中国脐带血储存及应用已走过三十余载发展历程。记者2日在此间获悉，到目前为止，全国七家获批设置的脐带血库累计储存脐带血超过245万份，出库临床应用超过5万份，为民众健康提供了坚实支撑。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-02/10670906.shtml",
+      "id": "5c15387a7490",
+      "title": "东西问·知味东方｜广府菜“香”动外国政要：一煲一焖藏鲜香，一煎一焗见中国",
+      "summary": "中新社广州8月2日电 题：广府菜“香”动外国政要：一煲一焖藏鲜香，一煎一焗见中国",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-02/10670929.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T11:51:30.000Z"
+      "publishedAt": "2026-08-02T13:17:54.000Z"
     },
     {
-      "id": "e925f82032a9",
-      "title": "“中国猛犸象故乡”青冈：农文旅融合“组团出圈” 激活夏日消费新活力",
-      "summary": "中新网哈尔滨8月2日电 题：“中国猛犸象故乡”青冈：农文旅融合“组团出圈” 激活夏日消费新活力",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670905.shtml",
+      "id": "b4a7fa181ebc",
+      "title": "中外青年组队共创短视频 在上海寻找打动海外的中国故事",
+      "summary": "中新网上海8月2日电 (范宇斌)首届“新出海·国际传播训练营”结营式2日在上海市黄浦区举办。来自9个国家的50位青年在过去三周时间内混合组队共创短视频作品。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670937.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T11:50:40.000Z"
+      "publishedAt": "2026-08-02T13:17:42.000Z"
     },
     {
-      "id": "e9cf188bcd59",
-      "title": "史前玉器是如何制作的？考古实证中国新石器时代已发明轮轴机械",
-      "summary": "中新网北京8月2日电 (记者 孙自法)承载着源远流长、博大精深中华玉文化的各类精美玉器，其在史前时期是如何制作出来的？长期以来颇具争议，也广受关注。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-02/10670903.shtml",
+      "id": "d115d3c9c257",
+      "title": "学习·故事丨古厝焕新生",
+      "summary": "“十五五”开局之年“第一课”，习近平总书记指出：“政绩观问题是一个根本性问题，关乎立党为公、执政为民。”",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670946.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T11:50:10.000Z"
+      "publishedAt": "2026-08-02T13:16:16.000Z"
     },
     {
-      "id": "e004954a4d93",
-      "title": "湖南隆回村民跨界培育辣椒新品种 小产业带动大民生",
-      "summary": "中新网邵阳8月2日电(陈斌 邹萍)盛夏时节，湖南隆回县荷香桥镇九牛坳村，连片的富硒蔬菜产业园里，高效智能化联动大棚在阳光下泛着银光。大棚内，一串串个头饱满、油光发亮的青辣椒缀满植株，村民们挎着竹篮在垄间穿梭。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670902.shtml",
+      "id": "452b78a8690e",
+      "title": "韩国最高气温创纪录",
+      "summary": "中新社首尔8月2日电 (记者 金旭)据韩国气象厅2日消息，韩国多地当天遭遇40摄氏度以上高温天气，庆尚南道梁山日间气温连续五天超过40摄氏度，2日更升至42.5摄氏度，刷新韩国最高气温纪录。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670936.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T11:49:38.000Z"
+      "publishedAt": "2026-08-02T13:16:02.000Z"
     },
     {
-      "id": "ab4cfbec90d9",
-      "title": "内蒙古锡林郭勒：草原镶嵌彩色盐湖玉盘",
+      "id": "a15d4e32d5e3",
+      "title": "习语丨我和你们一起在这里站岗",
+      "summary": "走边防、到连队，登甲板、进座舱，习近平主席一直十分关心战士们的衣食冷暖、部队建设和战备训练等情况。步履之间，言行之中，统帅的爱兵之情，真挚流露。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670945.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:15:24.000Z"
+    },
+    {
+      "id": "9e5473083cd9",
+      "title": "学习新语｜坚定不移走中国特色强军之路",
+      "summary": "今天是八一建军节。千秋伟业大道如砥，强国强军征途如虹。党的十八大以来，在习近平总书记领航掌舵下，在习近平强军思想科学指引下，新时代强军事业取得历史性成就、发生历史性变革。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670943.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:14:18.000Z"
+    },
+    {
+      "id": "efe83b99306b",
+      "title": "广货迭代升级 “湾区智造”畅销全球",
+      "summary": "中新社广州8月2日电 (记者 蔡敏婕)装载着近2000辆“广东造”汽车的永乐口轮2日从广州港南沙汽车口岸驶离，即将开往地中海地区港口。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670935.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:12:58.000Z"
+    },
+    {
+      "id": "4e8e9ac711d6",
+      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+      "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects Four days ago, Youssef El Abbas saw an opportunity to reclaim the…",
+      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T13:11:56.000Z"
+    },
+    {
+      "id": "823ec99b6cae",
+      "title": "AI时代，心血管学科的“心”生与融合",
+      "summary": "中新网杭州8月2日电(张煜欢)随着人工智能深度落地临床，学科交叉融合持续提速，当下中国心血管医学正迎来迭代革新的关键期。7月27日至8月2日，2026杭州心血管创新大会在浙江杭州举行，多位院士专家及学科带头人围绕学科转型、技术赋能、慢病防控、人才培养等关键议题分享权威观点，解码AI时代心血管学科的全新变革与发展内核。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-02/10670928.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:08:50.000Z"
+    },
+    {
+      "id": "68deec85ebef",
+      "title": "【活力中国调研行】卫星走上“流水线”之后",
+      "summary": "生产周期缩短至28天，流水线可实现日产1至2颗",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670934.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:08:10.000Z"
+    },
+    {
+      "id": "64808adee363",
+      "title": "量子计算：从理论构想到未来引擎",
+      "summary": "(院士讲科普·未来产业)",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670942.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:04:45.000Z"
+    },
+    {
+      "id": "85ca8adf2392",
+      "title": "开局之年看中国·解码“产业大脑”丨数实相融聚合力 产业升级向新高",
+      "summary": "近日，“开局之年看中国#12539;解码‘产业大脑’”网络主题宣传活动在济南启动。调研团队深入济南、青岛、烟台、威海、临沂五大产业集群一线，实地考察山东数实融合的落地实践与发展成果。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670933.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:02:57.000Z"
+    },
+    {
+      "id": "54bf7d7c4639",
+      "title": "青海“河南蒙旗”那达慕盛会上演牧民搏克比赛",
+      "summary": "图为选手在比赛中。中新社记者 马铭言 摄 图为选手在比赛中。中新社记者 马铭言 摄 图为选手在比赛中。中新社记者 马铭言 摄 图为选手在比赛中。中新社记者 马铭言 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670930.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:02:53.000Z"
+    },
+    {
+      "id": "89fe709c3f83",
+      "title": "邮政行业寄递业务量2030年将达2900亿件",
+      "summary": "央视新闻客户端消息(新闻联播)：记者从国家邮政局了解到，《邮政业发展“十五五”规划》正式对外发布。到2030年，邮政行业业务收入将达2.4万亿元，邮政行业寄递业务量达2900亿件，国际快递网络覆盖国家和地区数达到110个，规模以上处理中心全自动化率达到88%，快递企业绿色包装使用率达到80%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670932.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:01:51.000Z"
+    },
+    {
+      "id": "198997420333",
+      "title": "学习进行时｜句句铿锵——总书记的强军号令",
+      "summary": "【学习进行时】“强国必须强军，军强才能国安。”党的十八大以来，以习近平同志为核心的党中央围绕新时代强军目标，对国防和军队建设作出一系列重要部署，引领国防和军队建设取得历史性成就、发生历史性变革。一起学习领会习近平总书记的重要论述，感受句句铿锵的强军号令。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670931.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T13:00:23.000Z"
+    },
+    {
+      "id": "76dee05daf05",
+      "title": "What do you wish you could buy in vending machines?",
+      "summary": "The long-running series in which readers answer other readers’ questions commits the cash and presses the buttons on a vital consumer dilemma Read this week’s replies: What is th…",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/02/what-do-you-wish-you-could-buy-in-vending-machines",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-02T13:00:22.000Z"
+    },
+    {
+      "id": "ff67a92bbdb5",
+      "title": "台湾青年访浙江杭州蔡志忠文化馆 感悟中华传统文化之美",
+      "summary": "8月2日，台湾青年参观蔡志忠文化馆。中新社记者 郭其钰 摄 8月2日，台湾青年观看、拍摄蔡志忠文化馆的漫画作品。中新社记者 郭其钰 摄 8月2日，台湾青年拍摄蔡志忠文化馆的漫画作品。中新社记者 郭其钰 摄 8月2日，台湾青年观看蔡志忠文化馆的漫画作品。中新社记者 郭其钰 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670927.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T12:56:56.000Z"
+    },
+    {
+      "id": "7daa93b4d334",
+      "title": "2026广东工会“工BA”职工嘉年华在广东中山启幕",
+      "summary": "图为舞狮表演。中新社记者 陈楚红 摄 图为广东省篮球协会会长杜锋(左)和篮球名宿郑海霞(中)参加开幕活动。中新社记者 陈楚红 摄 图为球员在篮球友谊赛拼抢。中新社记者 陈楚红 摄 图为广东省篮球协会会长杜锋(左)和篮球名宿郑海霞向观众比心。中新社记者 陈楚红 摄 图为广东省篮球协会会长杜锋(前排右二)参加开幕活动。中新社记者 陈楚红 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670924.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T12:55:50.000Z"
+    },
+    {
+      "id": "ef5ff277e512",
+      "title": "2026年中国国青男篮热身赛国际篮球对抗赛（咸阳站）启幕",
+      "summary": "图为加拿大球队队员(白衣)持球上篮。赛事组委会供图 图为韩国东国大学队队员(橙衣)进攻篮下。赛事组委会供图 图为双方球员篮下缠斗。赛事组委会供图 图为韩国东国大学队队员(橙衣)摘得篮板球。赛事组委会供图",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670920.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T12:54:54.000Z"
+    },
+    {
+      "id": "24bb06e77236",
+      "title": "盘活高山生态资源 山西五寨培育避暑康养经济",
+      "summary": "中新网忻州8月2日电 题：盘活高山生态资源 山西五寨培育避暑康养经济",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670926.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T12:53:34.000Z"
+    },
+    {
+      "id": "679ebf259fba",
+      "title": "EU citizens in UK get letters telling them post-Brexit residency rights were given ‘in error’",
+      "summary": "After years of building lives in UK, potentially hundreds of thousands of EU citizens could be told they have no right to remain The UK Home Office has started stripping some EU…",
+      "url": "https://www.theguardian.com/politics/2026/aug/02/eu-citizens-uk-letters-post-brexit-residency-rights-given-in-error",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T12:42:40.000Z"
+    },
+    {
+      "id": "e05d0f4dfa41",
+      "title": "重庆：大熊猫萌态十足",
       "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-02/1199980.shtml",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-02/1199983.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T11:43:27.000Z"
+      "publishedAt": "2026-08-02T12:38:02.000Z"
     },
     {
-      "id": "e2ba50319ab2",
-      "title": "2026中国网球公开赛球童海选在北京启动",
-      "summary": "中新网北京8月2日电 2026中国网球公开赛(简称“中网”)球童海选活动7月31日在北京启动。本次海选面向10至17岁青少年，旨在为9月28日至10月11日举行的2026中网选拔一批优秀球童。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670901.shtml",
+      "id": "cddc43c1dcfb",
+      "title": "文商旅体展协同发力 上海夏日越“夜”越精彩",
+      "summary": "中新网上海8月2日电(李佳佳 曾子琴)夏季正是夜间经济最火热的时候，在这个夏天，上海的夜，又上新了。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670923.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T11:37:22.000Z"
+      "publishedAt": "2026-08-02T12:36:13.000Z"
     },
     {
-      "id": "ec4a14b41b5d",
-      "title": "广西推出“平陆贷”产品 赋能企业向海发展",
-      "summary": "中新网南宁8月2日电(韦佳秀)广西壮族自治区财政厅2日发布消息称，近日，广西四部门推出“平陆贷”产品，通过财金联动惠企贷款贴息和担保费用补贴支持向海发展融资需求，为向海经济经营主体提供个性化、差异化的财政金融支撑，助力提升企业向海发展能力。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670898.shtml",
+      "id": "a33f9bdf6255",
+      "title": "中国特有濒危物种斑尾榛鸡种群规模稳定回升",
+      "summary": "中新网兰州8月2日电 (记者 冯志军)经过40余年持续系统保护，甘肃莲花山国家级自然保护区扭转了中国特有濒危物种斑尾榛鸡种群衰退趋势，物种生存状态持续改善。种群林间活动频次逐年递增、活动范围稳步向外拓展、幼鸟存活率持续提升，隔离小种群适应性不断增强，整体呈现种群数量稳步回升、持续恢复的良好态势。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670922.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-02T11:27:41.000Z"
+      "publishedAt": "2026-08-02T12:35:51.000Z"
+    },
+    {
+      "id": "36b97318519b",
+      "title": "上海多家老年教育机构开设暑期班 让银发群体“四季有学”“时时乐学”",
+      "summary": "中新网上海8月2日电(记者 许婧)去老年大学“避暑学习”，享受学习的“清凉”，成为不少上海老年人的新选择。今年暑期，以普陀区老年大学、华东师范大学老年大学等为代表的多家老年教育机构首次开设特色暑期课程，推动上海老年教育从学期制办学转向全年化服务，让银发群体“四季有学”“时时乐学”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670921.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T12:35:33.000Z"
+    },
+    {
+      "id": "3d71ce96b968",
+      "title": "天津11部门联合出台意见 升级存量资产盘活政策",
+      "summary": "中新网天津8月2日电 (记者 周亚强)记者2日从天津市规划资源局获悉，该局联合天津市发展改革委、市住房城乡建设委等10部门近日印发《关于盘活存量资产解决历史遗留项目规划土地及不动产登记问题意见(2026版)》(下称《2026版》)，在2024年试行政策基础上进一步扩大适用范围、优化办理流程，为历史遗留项目完善手续、办理不动产登记提供支撑。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670919.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T12:31:31.000Z"
+    },
+    {
+      "id": "f704236c7bc4",
+      "title": "重庆对12个区县启动市级防汛三级应急响应",
+      "summary": "中新网重庆8月2日电 (记者 刘相琳)记者2日从重庆市应急管理局获悉，重庆市防汛抗旱指挥部决定自2日15时起，对12个区县启动市级防汛三级应急响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670918.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T12:30:47.000Z"
+    },
+    {
+      "id": "5779d6858eca",
+      "title": "人文社“哈利·波特”学院知识竞赛引“哈迷”齐聚直播间展开智慧较量",
+      "summary": "中新网北京8月2日电 (记者 应妮)由人民文学出版社举办的第七届“哈利·波特”学院知识竞赛日前在线上举行。本届竞赛延续了往年的火热氛围，吸引了全国各地的“哈迷”齐聚直播间，以学院之名展开智慧较量。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-02/10670917.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T12:29:53.000Z"
+    },
+    {
+      "id": "6fc66372fbef",
+      "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
+      "summary": "The measure will impact people travelling by plane or boat between the two countries Spanish prime minister Pedro Sánchez is now in Ceuta, accompanied by interior minister Fernan…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T12:25:01.000Z"
     },
     {
       "id": "3098b39f0f3a",
@@ -148,186 +398,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-02T11:22:04.000Z"
-    },
-    {
-      "id": "9aac00252b66",
-      "title": "山东青岛一仓库起火 正全力扑救",
-      "summary": "8月2日17时许，山东青岛黄岛区七星河路363号青岛象屿速传供应链有限公司仓库起火，目前市、区消防、公安、应急等部门正在现场组织开展灭火工作，无人员被困和伤亡，起火原因正在调查中。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670900.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T11:09:54.000Z"
-    },
-    {
-      "id": "897a2b4d361a",
-      "title": "好评中国丨向“绿”而行 “碳”路致远",
-      "summary": "工业是立国之本，更是降碳减污的主战场。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670899.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T11:09:06.000Z"
-    },
-    {
-      "id": "6fbb6ef9db13",
-      "title": "新闻会客厅丨十访新疆，这位外国博主的“新发现”让西方沉默",
-      "summary": "中新网北京8月2日电 题：十访新疆，这位外国博主的“新发现”让西方沉默 (记者 王高飞 吴辛茹)",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670877.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T11:07:48.000Z"
-    },
-    {
-      "id": "2c2b22378731",
-      "title": "锋玄纸韵阔——中国纸上刀绘文化艺术作品展亮相沈阳",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-02/1199978.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T11:07:35.000Z"
-    },
-    {
-      "id": "b5722d1e0cf2",
-      "title": "【好评中国】永葆“赶考”清醒，把全面从严治党一抓到底",
-      "summary": "近日召开的中共中央政治局会议作出部署，确定今年10月在北京召开中国共产党第二十届中央委员会第五次全体会议，会议主要议程为中共中央政治局向中央委员会报告工作，重点研究持之以恒推进全面从严治党若干重大问题。此次议程的敲定，释放出党中央一以贯之推进党的自我革命、绝不松懈管党治党的鲜明信号，站在新的发展节点，唯有坚持严的基调不动摇，方能为中国式现代化建设筑牢坚强…",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-02/10670896.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T11:07:08.000Z"
-    },
-    {
-      "id": "97e18ec3d32b",
-      "title": "“蓝色屋顶”点亮巴基斯坦绿色未来",
-      "summary": "从巴基斯坦伊斯兰堡、拉合尔等城市上空俯瞰，会看到一道特殊的风景——高低错落的建筑屋顶上，布满蓝色太阳能电池板。自2017年巴基斯坦启动可再生能源推广计划以来，来自中国的光伏产品悄然重塑当地能源格局，助力经济发展和民生改善。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670895.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T11:04:12.000Z"
-    },
-    {
-      "id": "c879f9c1b868",
-      "title": "台湾各界发布联合声明 抗议解散台湾“中华统一促进党”",
-      "summary": "中新网北京8月2日电 针对台内部事务主管部门宣布将声请解散台湾“中华统一促进党”，台湾多个团体与个人7月31日发布联合声明，严正提出抗议。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670883.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:41:18.000Z"
-    },
-    {
-      "id": "96d22de9b51f",
-      "title": "台商在重庆培育牛樟芝 以生物技术拓产业新路",
-      "summary": "中新社重庆8月2日电 题：台商在重庆培育牛樟芝 以生物技术拓产业新路",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670886.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:37:28.000Z"
-    },
-    {
-      "id": "b8436d9f9100",
-      "title": "两部门联合发布红色山洪灾害气象预警",
-      "summary": "中新网8月2日电 据水利部官方微信消息，水利部和中国气象局8月2日18时联合发布红色山洪灾害气象预警。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670894.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:36:44.000Z"
-    },
-    {
-      "id": "7da41798280e",
-      "title": "中外专家新疆共探生态农业发展之道",
-      "summary": "中新社乌鲁木齐8月2日电 (苟继鹏)2026新时代生态农业战略研讨会8月2日在新疆乌鲁木齐市举行。来自农业、生态、资源环境等领域的中外专家，围绕新时代生态农业发展的战略方向、生态安全、科技创新和产业落地等议题展开深入研讨。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670885.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:36:34.000Z"
-    },
-    {
-      "id": "47d0d72fb546",
-      "title": "国家防总、应急管理部针对贵州启动防汛四级应急响应",
-      "summary": "中新网8月2日电 据应急管理部官方微信消息，据气象部门预报，8月2日至4日，贵州自西北向东南将先后出现大到暴雨，局地大暴雨。根据《国家防汛抗旱应急预案》有关规定，国家防总、应急管理部决定于8月2日17时针对贵州启动防汛四级应急响应。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670891.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:31:43.000Z"
-    },
-    {
-      "id": "77d7eb273a39",
-      "title": "助威亚运 香港举行“全民运动日2026”",
-      "summary": "图为市民体验软式曲棍球项目。中新网记者 张祥毅 摄 图为市民体验虚拟马术项目。中新网记者 张祥毅 摄 图为市民体验虚拟赛艇项目。中新网记者 张祥毅 摄 图为小朋友体验手球项目。中新网记者 张祥毅 摄 图为武术表演。中新网记者 张祥毅 摄 图为香港特区行政长官李家超与体验手球项目的小朋友互动。中新网记者 张祥毅 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670884.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:30:11.000Z"
-    },
-    {
-      "id": "0b213fc45434",
-      "title": "四川重庆陕西广东等地有强降水 国家防总办公室、应急管理部持续会商调度",
-      "summary": "中新网8月2日电 据应急管理部官方微信消息，8月2日上午，国家防总办公室、应急管理部组织中国气象局、水利部、自然资源部、工业和信息化部、住房城乡建设部、交通运输部等部门联合会商，研判近期强降雨发展形势，研究部署重点地区防汛工作。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670887.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:29:41.000Z"
-    },
-    {
-      "id": "b4e7916ff5f3",
-      "title": "直击日本熊本地震灾区：多处古迹受损 居民用水困难",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-02/1199974.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:29:32.000Z"
-    },
-    {
-      "id": "64f958799bcc",
-      "title": "上半年西藏特色产品出口额同比增长18.7%",
-      "summary": "7月31日，记者从拉萨海关获悉：今年上半年，西藏特色产品出口货值3336.11万元，同比增长18.7%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670889.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:27:35.000Z"
-    },
-    {
-      "id": "e304a623e084",
-      "title": "美丽中国新疆行丨昆仑荒原 守护无声",
-      "summary": "7月31日是世界巡护员日。近日，记者走进阿尔金山国家级自然保护区，探访常年守护这片土地的人们。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670888.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:25:37.000Z"
-    },
-    {
-      "id": "54939a2753bc",
-      "title": "中国海军83舰编队抵达印度尼西亚进行友好访问",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-02/1199966.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:14:32.000Z"
-    },
-    {
-      "id": "9051d32ba426",
-      "title": "一组数据读懂我国经济发展向新向优向好背后的底气",
-      "summary": "我国电动汽车充电基础设施(枪)总数达到2305.7万个",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670880.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T10:11:20.000Z"
     },
     {
       "id": "0b1844adb53a",
@@ -400,16 +470,6 @@
       "publishedAt": "2026-08-02T05:00:19.000Z"
     },
     {
-      "id": "54a4f07e6f94",
-      "title": "‘This is where democracy beats totalitarianism’: Ukraine’s drone strike force takes the fight to Russia",
-      "summary": "Exclusive: At a launch site in the Ukrainian countryside, members of the elite ‘Magyar’s Birds’ brigade are turning Russia’s vast size into a weakness Sparrows were cheeping as t…",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/02/this-is-where-democracy-beats-totalitarianism-ukraines-drone-strike-force-takes-the-fight-to-russia",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-02T05:00:12.000Z"
-    },
-    {
       "id": "3784d7d45617",
       "title": "特朗普表示同意取消對伊朗的打擊，前提是能「迅速」達成協議",
       "summary": "美國總統發布這則訊息之際，媒體報道稱他正計劃於週末對伊朗發動新一輪猛烈打擊。",
@@ -440,16 +500,6 @@
       "publishedAt": "2026-08-02T03:11:48.000Z"
     },
     {
-      "id": "059ce2ed45d7",
-      "title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
-      "summary": "More than 20 people injured in explosion near Italian restaurant on Saturday night, authorities say A homemade bomb carried by a woman killed three people and injured at least 21…",
-      "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-02T00:22:48.000Z"
-    },
-    {
       "id": "916c591d7e1a",
       "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
       "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been…",
@@ -478,26 +528,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-01T19:03:39.000Z"
-    },
-    {
-      "id": "47ec41098a90",
-      "title": "EU offered Spain support ‘from first moment’ of Ceuta crisis, says von der Leyen, after Sánchez hits out – Europe live",
-      "summary": "‘Not a single person reached mainland Spain or rest of EU,’ says European Commission president, after Spanish PM condemned ‘selfish, polarising’ reaction of some countries Back t…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-01T14:58:54.000Z"
-    },
-    {
-      "id": "ae988ea9ef11",
-      "title": "Dozens injured as earthquake hits near Naples in seismic swarm",
-      "summary": "At least five taken to hospital and about 300 evacuated in strongest quake to hit southern Italian region in 40 years At least 26 people have been injured after a 4.7-magnitude e…",
-      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-01T13:49:15.000Z"
     },
     {
       "id": "cd4deb3ebc07",
@@ -548,6 +578,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-01T09:00:49.000Z"
+    },
+    {
+      "id": "9b4c8e3775b4",
+      "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
+      "summary": "Labour veteran is said to relish role that requires careful negotiation of Trump and impending G20 leadership Extraordinarily, given the importance of geopolitics, the office of…",
+      "url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T07:00:45.000Z"
     },
     {
       "id": "16d1434b7621",
@@ -660,16 +700,6 @@
       "publishedAt": "2026-07-31T16:11:39.000Z"
     },
     {
-      "id": "86cec605ddbe",
-      "title": "World-renowned climber Nirmal Purja among 11 struck by avalanche on Pakistan mountain",
-      "summary": "Rescuers say four bodies found in search for team caught in Broad Peak avalanche, after trackers showed rapid descent The world-renowned Nepali mountaineer Nirmal Purja – a forme…",
-      "url": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T15:35:53.000Z"
-    },
-    {
       "id": "cb375db86712",
       "title": "網傳胡錦濤舉家身亡 秦楓稱流傳帖文屬冒用",
       "summary": "在黨政元老預計按傳統聚集北戴河休假之際，網傳前中共中央總書記胡錦濤與兒子胡海峰一家食物中毒身亡。原始消息來源後來被否認。",
@@ -738,16 +768,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-31T09:00:10.000Z"
-    },
-    {
-      "id": "855f53d34fbf",
-      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
-      "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The lat…",
-      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-31T08:00:08.000Z"
     },
     {
       "id": "744a5da48b30",
@@ -938,16 +958,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-30T09:33:51.000Z"
-    },
-    {
-      "id": "d00616698c47",
-      "title": "The best cordless vacuum cleaners for a spotless home: 10 tried and tested favourites",
-      "summary": "Stick vacuums are a convenient alternative to corded designs, but which model wins for overall cleaning prowess? Our expert reveals all • The best robot vacuums • How to make you…",
-      "url": "https://www.theguardian.com/thefilter/2025/mar/28/best-cordless-vacuum-cleaners-uk",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-30T09:00:50.000Z"
     },
     {
       "id": "f55ca8f30c3b",
@@ -1218,16 +1228,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-26T10:00:08.000Z"
-    },
-    {
-      "id": "64934dbed4f8",
-      "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
-      "summary": "Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay In March, Anthropic, the cutting-edge artificial in…",
-      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-25T13:00:43.000Z"
     }
   ]
 }
