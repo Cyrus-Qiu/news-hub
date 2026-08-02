@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T15:41:24.957Z",
+  "updatedAt": "2026-08-02T17:10:23.330Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "3098b39f0f3a",
+      "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
+      "summary": "US president claims delay is also in response to requests from Iran and other countries in the region Donald Trump has said he cancelled planned military strikes against Iran on…",
+      "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T16:06:37.000Z"
+    },
+    {
+      "id": "0672217d0337",
+      "title": "上海横沙誉民队直通国际篮联三人篮球洪川挑战赛",
+      "summary": "中新网北京8月2日电 为期3天的2026年中国男子三人篮球联赛北京西城争霸赛2日收官。上海横沙誉民队在决赛中以21比15击败上海久事队，获得冠军。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670961.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T15:53:46.000Z"
+    },
+    {
+      "id": "2277f6bf5e3e",
+      "title": "NBA 3X宁波站赛事收官",
+      "summary": "中新网8月2日电 作为美职篮(NBA)旗下三人篮球赛事，NBA 3X区域赛宁波站比赛于8月1日收官。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670960.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T15:53:26.000Z"
+    },
     {
       "id": "1327362e9fc9",
       "title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
@@ -390,16 +420,6 @@
       "publishedAt": "2026-08-02T12:54:54.000Z"
     },
     {
-      "id": "24bb06e77236",
-      "title": "盘活高山生态资源 山西五寨培育避暑康养经济",
-      "summary": "中新网忻州8月2日电 题：盘活高山生态资源 山西五寨培育避暑康养经济",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670926.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T12:53:34.000Z"
-    },
-    {
       "id": "679ebf259fba",
       "title": "EU citizens in UK get letters telling them post-Brexit residency rights were given ‘in error’",
       "summary": "After years of building lives in UK, potentially thousands of EU citizens could be told they have no right to remain The UK Home Office has started stripping some EU citizens of…",
@@ -410,16 +430,6 @@
       "publishedAt": "2026-08-02T12:42:40.000Z"
     },
     {
-      "id": "e05d0f4dfa41",
-      "title": "重庆：大熊猫萌态十足",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-02/1199983.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T12:38:02.000Z"
-    },
-    {
       "id": "6fc66372fbef",
       "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
       "summary": "The measure will impact people travelling by plane or boat between the two countries Spanish prime minister Pedro Sánchez is now in Ceuta, accompanied by interior minister Fernan…",
@@ -428,16 +438,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-02T12:25:01.000Z"
-    },
-    {
-      "id": "3098b39f0f3a",
-      "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
-      "summary": "US president claims delay is also in response to requests from Iran and other countries in the region Donald Trump has said he cancelled planned military strikes against Iran on…",
-      "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-02T11:22:04.000Z"
     },
     {
       "id": "0b1844adb53a",
