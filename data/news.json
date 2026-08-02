@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T14:10:28.230Z",
+  "updatedAt": "2026-08-02T15:41:24.957Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,96 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "1327362e9fc9",
+      "title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
+      "summary": "The 85-year-old former broadcaster faces 22 charges from six different complainants in what is expected to be a four-month trial Get our breaking news email , free app or daily n…",
+      "url": "https://www.theguardian.com/media/2026/aug/03/trial-alan-jones-begins-sydney-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T15:00:27.000Z"
+    },
+    {
+      "id": "e20bf04848c4",
+      "title": "A record number of First Nations people died in NSW prison custody last year. Advocates fear this year will be worse",
+      "summary": "Exclusive: Karlene Whitton says her son Matthew Roberts took his own life three months into his jail term. ‘I keep picturing it every night’ Warning: This article contains images…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/03/rising-indigenous-deaths-custody-nsw-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T15:00:24.000Z"
+    },
+    {
+      "id": "503803bef0b6",
+      "title": "Man arrested after Scottish woman found dead inside suitcase in Athens",
+      "summary": "Greek police say 26-year-old foreigner is believed to have left Elisabeth-Jane Ross’s body in derelict building A man has been arrested over the death of a Scottish woman whose b…",
+      "url": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T14:56:41.000Z"
+    },
+    {
+      "id": "a904deef4a44",
+      "title": "青海海南州兴海县发生3.6级地震 震源深度10千米",
+      "summary": "中新网8月2日电 中国地震台网正式测定：08月02日22时37分在青海海南州兴海县(北纬35.36度，东经99.51度)发生3.6级地震，震源深度10千米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T14:52:08.000Z"
+    },
+    {
+      "id": "b30f63a19543",
+      "title": "青海海南州兴海县发生4.8级地震 震源深度10千米",
+      "summary": "中新网8月2日电 中国地震台网正式测定：08月02日22时31分在青海海南州兴海县（北纬35.34度，东经99.50度）发生4.8级地震，震源深度10千米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670958.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T14:40:53.000Z"
+    },
+    {
+      "id": "eaea73267616",
+      "title": "2026年“文化中国·水立方杯”中文歌曲大赛总决赛落幕",
+      "summary": "中新社北京8月2日电 (记者 吴侃 门睿)2026年“文化中国·水立方杯”中文歌曲大赛总决赛2日晚在北京落幕。",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-02/10670957.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T14:27:18.000Z"
+    },
+    {
+      "id": "cb35dd4c24b6",
+      "title": "藏羚羊带娃回家啦！青藏公路开启“静音模式”",
+      "summary": "7月下旬",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670956.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T14:24:32.000Z"
+    },
+    {
+      "id": "3d9bcf4312f3",
+      "title": "行进中国｜跟着牦牛尾巴走的派出所",
+      "summary": "西藏阿里，札达县，曲松乡。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670955.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T14:19:40.000Z"
+    },
+    {
+      "id": "3f7e1596aebc",
+      "title": "铸牢中华民族共同体意识丨戈壁清泉畔的岁岁相守",
+      "summary": "天山网-新疆日报记者 杨舒涵",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T14:16:24.000Z"
+    },
+    {
       "id": "2150f11a724d",
       "title": "勇立潮头大湾区丨“来数加工”成跨境算力新场景",
       "summary": "算力，不是遥不可及的黑科技 而是数字时代的“新水电” 从《哪吒之魔童降世》《流浪地球》的 影视特效 到《王者荣耀》《黑神话：悟空》等游戏 丝滑操作 甚至是每一次精准的天气预警 …… 这一切的背后都离不开两个字：算力 依托大湾区平台优势 粤港澳大湾区数据特区 “来数加工”跨境算力专区 近期在广东韶关 正式启用 韶关和香港之间架起“数字桥梁” 为粤港澳科创协…",
@@ -38,6 +128,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-02T14:03:51.000Z"
+    },
+    {
+      "id": "556620c36ee8",
+      "title": "House prices slide across Australia as Middle East conflict and tax changes begin to bite",
+      "summary": "Cotality data shows a drop in Brisbane, Adelaide and Perth, as nation’s median home price falls about $19,000 below its March peak Get our breaking news email , free app or daily…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/03/house-prices-slide-across-australia-as-middle-east-conflict-and-tax-changes-begin-to-bite",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T14:01:23.000Z"
     },
     {
       "id": "9738239b28c8",
@@ -302,7 +402,7 @@
     {
       "id": "679ebf259fba",
       "title": "EU citizens in UK get letters telling them post-Brexit residency rights were given ‘in error’",
-      "summary": "After years of building lives in UK, potentially hundreds of thousands of EU citizens could be told they have no right to remain The UK Home Office has started stripping some EU…",
+      "summary": "After years of building lives in UK, potentially thousands of EU citizens could be told they have no right to remain The UK Home Office has started stripping some EU citizens of…",
       "url": "https://www.theguardian.com/politics/2026/aug/02/eu-citizens-uk-letters-post-brexit-residency-rights-given-in-error",
       "source": "The Guardian World",
       "category": "国际",
@@ -318,66 +418,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-02T12:38:02.000Z"
-    },
-    {
-      "id": "cddc43c1dcfb",
-      "title": "文商旅体展协同发力 上海夏日越“夜”越精彩",
-      "summary": "中新网上海8月2日电(李佳佳 曾子琴)夏季正是夜间经济最火热的时候，在这个夏天，上海的夜，又上新了。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670923.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T12:36:13.000Z"
-    },
-    {
-      "id": "a33f9bdf6255",
-      "title": "中国特有濒危物种斑尾榛鸡种群规模稳定回升",
-      "summary": "中新网兰州8月2日电 (记者 冯志军)经过40余年持续系统保护，甘肃莲花山国家级自然保护区扭转了中国特有濒危物种斑尾榛鸡种群衰退趋势，物种生存状态持续改善。种群林间活动频次逐年递增、活动范围稳步向外拓展、幼鸟存活率持续提升，隔离小种群适应性不断增强，整体呈现种群数量稳步回升、持续恢复的良好态势。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670922.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T12:35:51.000Z"
-    },
-    {
-      "id": "36b97318519b",
-      "title": "上海多家老年教育机构开设暑期班 让银发群体“四季有学”“时时乐学”",
-      "summary": "中新网上海8月2日电(记者 许婧)去老年大学“避暑学习”，享受学习的“清凉”，成为不少上海老年人的新选择。今年暑期，以普陀区老年大学、华东师范大学老年大学等为代表的多家老年教育机构首次开设特色暑期课程，推动上海老年教育从学期制办学转向全年化服务，让银发群体“四季有学”“时时乐学”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670921.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T12:35:33.000Z"
-    },
-    {
-      "id": "3d71ce96b968",
-      "title": "天津11部门联合出台意见 升级存量资产盘活政策",
-      "summary": "中新网天津8月2日电 (记者 周亚强)记者2日从天津市规划资源局获悉，该局联合天津市发展改革委、市住房城乡建设委等10部门近日印发《关于盘活存量资产解决历史遗留项目规划土地及不动产登记问题意见(2026版)》(下称《2026版》)，在2024年试行政策基础上进一步扩大适用范围、优化办理流程，为历史遗留项目完善手续、办理不动产登记提供支撑。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670919.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T12:31:31.000Z"
-    },
-    {
-      "id": "f704236c7bc4",
-      "title": "重庆对12个区县启动市级防汛三级应急响应",
-      "summary": "中新网重庆8月2日电 (记者 刘相琳)记者2日从重庆市应急管理局获悉，重庆市防汛抗旱指挥部决定自2日15时起，对12个区县启动市级防汛三级应急响应。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670918.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T12:30:47.000Z"
-    },
-    {
-      "id": "5779d6858eca",
-      "title": "人文社“哈利·波特”学院知识竞赛引“哈迷”齐聚直播间展开智慧较量",
-      "summary": "中新网北京8月2日电 (记者 应妮)由人民文学出版社举办的第七届“哈利·波特”学院知识竞赛日前在线上举行。本届竞赛延续了往年的火热氛围，吸引了全国各地的“哈迷”齐聚直播间，以学院之名展开智慧较量。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-02/10670917.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T12:29:53.000Z"
     },
     {
       "id": "6fc66372fbef",
@@ -440,16 +480,6 @@
       "publishedAt": "2026-08-02T06:40:41.000Z"
     },
     {
-      "id": "00cb81b63825",
-      "title": "Callas, Beethoven, bee-eaters or storks: competition seeks to redesign euro notes",
-      "summary": "The EU is using a currency revamp as an opportunity to be less neutral and try some finely balanced identity-building Is Europe best represented by the bold intellect of Marie Cu…",
-      "url": "https://www.theguardian.com/world/2026/aug/02/european-central-bank-notes-new-design",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-02T06:00:14.000Z"
-    },
-    {
       "id": "3d5e22b60bfe",
       "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
       "summary": "每年都有成千上萬人騎單車環繞台灣一圈，這項被不少人視為成年禮的挑戰，如今正吸引越來越多海外旅客參與。這條1000公里的路線究竟有何魅力？",
@@ -488,16 +518,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-02T04:00:11.000Z"
-    },
-    {
-      "id": "27e736b16bd1",
-      "title": "Concept images of controversial 2032 Brisbane Olympics precinct revealed – as it happened",
-      "summary": "Community members concerned about loss of community green space and areas of cultural importance. This blog is now closed Get our breaking news email , free app or daily news pod…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-02T03:11:48.000Z"
     },
     {
       "id": "916c591d7e1a",
@@ -590,16 +610,6 @@
       "publishedAt": "2026-08-01T07:00:45.000Z"
     },
     {
-      "id": "16d1434b7621",
-      "title": "First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds",
-      "summary": "Helicopter surveillance finds dead and dying greater crested terns off South Australian coast as H5 virus spreads Get our breaking news email , free app or daily news podcast Mor…",
-      "url": "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-01T06:12:27.000Z"
-    },
-    {
       "id": "383e51d1dc51",
       "title": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
       "summary": "Two members given ‘stern warnings’ after concert and barred from returning, with band also excluded from performing in Singapore again, say authorities British trip-hop band Mass…",
@@ -608,16 +618,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-01T03:51:36.000Z"
-    },
-    {
-      "id": "c1a4e7d59f04",
-      "title": "Petrol prices on track to top $2 a litre as Bowen sounds death knell for fuel excise relief",
-      "summary": "Petrol now costs more than $1.90 a litre in every capital city, with diesel expected to exceed $2.40 a litre Get our breaking news email , free app or daily news podcast Petrol p…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/01/petrol-prices-on-track-to-top-2-a-litre-as-bowen-sounds-death-knell-for-fuel-excise-relief",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-01T02:22:49.000Z"
     },
     {
       "id": "0dd3872bab10",
