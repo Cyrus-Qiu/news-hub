@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T23:06:31.354Z",
+  "updatedAt": "2026-08-02T00:07:59.465Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,76 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "27e736b16bd1",
+      "title": "Australia news live: Jane Hume says PM has shown ‘extraordinary lack of curiosity’ on alleged corruption on construction sites",
+      "summary": "Meanwhile, cut to fuel excise to due end at midnight. Follow updates Get our breaking news email , free app or daily news podcast Icac should be ‘free of political interference’,…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-01T23:55:04.000Z"
+    },
+    {
+      "id": "1c8ce9b5d4c5",
+      "title": "被“三高”困住的年轻人该如何自救？",
+      "summary": "健康 | 被“三高”困住的年轻人该如何自救？",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-02/10670689.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T23:36:00.000Z"
+    },
+    {
+      "id": "5efceddfda6b",
+      "title": "美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
+      "summary": "美国国务院8月1日向中东地区美国公民发出广泛安全警告，建议其考虑撤离或做好迅速撤离准备。据美方消息，美以正计划对伊朗能源设施发动“迄今最猛烈的轰炸”，行动或持续整个周末。不过，美总统特朗普尚未下达最终行动命令。伊朗外交部则在同日发表声明，强调决心继续抵抗。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670688.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T23:22:05.000Z"
+    },
+    {
+      "id": "274085e57237",
+      "title": "076型两栖攻击舰已是“准航母” 引导发展新模式",
+      "summary": "昨天(1日)是中国人民解放军建军99周年。海军076型两栖攻击舰的首舰四川舰下水已有一年半的时间，目前四川舰的状态如何？",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670687.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T23:19:05.000Z"
+    },
+    {
+      "id": "24fe12fae990",
+      "title": "法国西南部吉伦特省野火受控 20万被疏散人员返回",
+      "summary": "中新社巴黎8月1日电 (记者 李洋)法国官方当地时间1日确认，法国西南部吉伦特省野火在燃烧10余天后终于得到控制，已有约20万被疏散人员得以返回。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670678.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T23:17:07.000Z"
+    },
+    {
+      "id": "ec2d17619ba2",
+      "title": "“民宿+”产业链越串越长 如何让游客觉得没白来？",
+      "summary": "悬崖咖啡、研学基地、冲浪小店……“民宿+”产业链越串越长",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670686.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T23:16:35.000Z"
+    },
+    {
+      "id": "fbc607f7dd8e",
+      "title": "8月2日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-02/10670685.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-01T23:07:37.000Z"
+    },
+    {
       "id": "1af8ba1e9016",
       "title": "第12批国家组织药品集采开标 有哪些新变化？",
       "summary": "第12批国家组织药品集采7月31日在上海开标，65种药品采购成功，327家企业的521个产品获得拟中选资格，拟中选结果公示后将正式发布。根据采购规则，首轮报价未中选的企业，有机会根据采购规则进行第二轮“复活”报价，以适宜价格供应临床。",
@@ -48,16 +118,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-01T22:49:57.000Z"
-    },
-    {
-      "id": "27e736b16bd1",
-      "title": "Australia news live: aged-care nurses get pay rise; fuel excise cut due to end at midnight",
-      "summary": "Increase in annual pay packets began from August 1. Follow updates The deputy leader of the opposition, Jane Hume , will appear on ABC’s Insiders after 9. Petrol prices set to ri…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-01T22:46:07.000Z"
     },
     {
       "id": "4d4f9e90c567",
@@ -308,66 +368,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-01T14:26:24.000Z"
-    },
-    {
-      "id": "3be39e034849",
-      "title": "科技体验、夜间研学 暑期文旅花样上新",
-      "summary": "这个暑期，各地文旅活动花样上新。不少地方推出了科技体验、夜间研学等活动。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670648.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T14:24:08.000Z"
-    },
-    {
-      "id": "be1bef3686e3",
-      "title": "伟大征程丨坚定不移听党指挥 向着世界一流军队迈进",
-      "summary": "今天是八一建军节。强国必须强军，军强才能国安。党的十八大以来，人民军队全面贯彻新时代党的强军思想，贯彻新时代军事战略方针，坚持党对人民军队的绝对领导，坚定不移走中国特色强军之路，固本开新、革弊鼎新、守正创新，实现整体性革命性重塑。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670646.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T14:20:29.000Z"
-    },
-    {
-      "id": "70fff665369d",
-      "title": "万亿产业可期！北斗走进日常赋能千行百业",
-      "summary": "今天(31日)，北斗三号全球卫星导航系统迎来开通六周年纪念日。最新数据显示，2025年，我国以北斗为核心的卫星导航与位置服务产业总体产值已达6290亿元。按照规划，这一规模将在“十五五”期间突破一万亿元大关。北斗正加速从“天边”走近“身边”，在我们的身边，都有哪些北斗的应用？",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670645.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T14:17:01.000Z"
-    },
-    {
-      "id": "77d731af417a",
-      "title": "泽连斯基称乌军击沉一艘俄集装箱船",
-      "summary": "当地时间8月1日，乌克兰总统泽连斯基在社交平台发文称，乌军于夜间发起打击行动，对黑海、亚速海水域海上目标及俄罗斯境内腹地设施实施多轮打击。一艘悬挂俄罗斯国旗的集装箱船“亚尼纳”号被乌方击中并沉没，该船载重吨位超10万吨。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670644.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T14:15:47.000Z"
-    },
-    {
-      "id": "83d3c0f87645",
-      "title": "新闻1+1丨中央政治局会议，如何部署下半年？",
-      "summary": "7月30日，中共中央政治局召开会议，分析研究当前经济形势，部署下半年经济工作。“加快推动新旧动能转换”进展如何？“及时谋划出台务实管用的增量政策”，怎样适时调整、精准调控？如何挖掘服务消费潜力？《新闻1+1》带来分析解读。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670643.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T14:13:31.000Z"
-    },
-    {
-      "id": "fcf446135429",
-      "title": "八一建军节MV：《纽扣》",
-      "summary": "八一建军节来临之际，孩子们用温情的歌声向爸爸妈妈送上节日的祝福，快来听听吧。(作者：胡丰磊、孔零然、李松涛、李茜茜、姚天宝)",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-01/news1064064.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-01T14:09:25.000Z"
     },
     {
       "id": "ae988ea9ef11",
