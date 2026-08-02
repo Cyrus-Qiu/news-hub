@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T22:05:45.152Z",
+  "updatedAt": "2026-08-02T23:06:22.359Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,44 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "0db27f3d63fd",
+      "title": "查实作弊！河南通报“三支一扶”核查结果：相关负责人停职",
+      "summary": "针对近期备受关注的2026年河南省“三支一扶”计划招募相关舆情，河南省“三支一扶”领导小组协调办公室8月2日晚发布最新通报。",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-03/10670979.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T22:54:12.000Z"
+    },
+    {
       "id": "92ed6a40e407",
-      "title": "Australia news live: Chalmers asks regulator to watch service stations ‘like a hawk’ as fuel excise cut ends",
-      "summary": "Fuel excise cut, which was imposed after outbreak of Iran conflict, ended at midnight on Monday. Follow today’s news live Chalmers maintains fuel excise cut never meant to be per…",
+      "title": "News live: Australian company ‘deeply saddened’ by fatal collision of its two firefighting helicopters in Greece",
+      "summary": "Meanwhile fuel excise cut, imposed after outbreak of Iran conflict, ended at midnight on Monday. Follow today’s news live Alan Jones trial on indecent assault and sexual touching…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
       "source": "The Guardian World",
-      "category": "国际",
+      "category": "商业",
       "language": "en",
-      "publishedAt": "2026-08-02T21:52:25.000Z"
+      "publishedAt": "2026-08-02T22:50:19.000Z"
+    },
+    {
+      "id": "754fce9ba59c",
+      "title": "特朗普称美伊3日将举行谈判",
+      "summary": "中新网8月3日电 综合外媒报道，当地时间2日，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670978.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T22:36:55.000Z"
+    },
+    {
+      "id": "079b2b8634b6",
+      "title": "8月3日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-03/10670977.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T22:35:39.000Z"
     },
     {
       "id": "ba0828a23da9",
@@ -182,7 +212,7 @@
     {
       "id": "00c2e298cb5c",
       "title": "四川宜宾市高县发生4.8级地震 震源深度6千米",
-      "summary": "中新网8月3日电 中国地震台网正式测定：08月03日02时21分在四川宜宾市高县(北纬28.54度，东经104.67度)发生4.8级地震，震源深度6千米。",
+      "summary": "中新网8月3日电 据中国地震台网正式测定：08月03日02时21分在四川宜宾市高县(北纬28.54度，东经104.67度)发生4.8级地震，震源深度6千米。",
       "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670962.shtml",
       "source": "中国新闻网",
       "category": "国内",
@@ -262,7 +292,7 @@
     {
       "id": "a904deef4a44",
       "title": "青海海南州兴海县发生3.6级地震 震源深度10千米",
-      "summary": "中新网8月2日电 中国地震台网正式测定：08月02日22时37分在青海海南州兴海县(北纬35.36度，东经99.51度)发生3.6级地震，震源深度10千米。",
+      "summary": "中新网8月2日电 据中国地震台网正式测定：08月02日22时37分在青海海南州兴海县(北纬35.36度，东经99.51度)发生3.6级地震，震源深度10千米。",
       "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
       "source": "中国新闻网",
       "category": "国内",
@@ -272,7 +302,7 @@
     {
       "id": "b30f63a19543",
       "title": "青海海南州兴海县发生4.8级地震 震源深度10千米",
-      "summary": "中新网8月2日电 中国地震台网正式测定：08月02日22时31分在青海海南州兴海县（北纬35.34度，东经99.50度）发生4.8级地震，震源深度10千米。",
+      "summary": "中新网8月2日电 据中国地震台网正式测定：08月02日22时31分在青海海南州兴海县（北纬35.34度，东经99.50度）发生4.8级地震，震源深度10千米。",
       "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670958.shtml",
       "source": "中国新闻网",
       "category": "国内",
@@ -378,36 +408,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-02T13:40:55.000Z"
-    },
-    {
-      "id": "dc6f5d7eeed2",
-      "title": "《再走绛州》首演 千年古调成古城文旅“新引擎”",
-      "summary": "中新网运城8月2日电(卫世新 杨建义)“一根扁担软溜软溜溜呀哈咳，担上了扁担我走绛州……”传唱数百年的经典民歌《走绛州》，早已成为绛州最鲜活、最鲜明的文化图腾。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-02/10670938.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T13:18:32.000Z"
-    },
-    {
-      "id": "5c15387a7490",
-      "title": "东西问·知味东方｜广府菜“香”动外国政要：一煲一焖藏鲜香，一煎一焗见中国",
-      "summary": "中新社广州8月2日电 题：广府菜“香”动外国政要：一煲一焖藏鲜香，一煎一焗见中国",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-02/10670929.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T13:17:54.000Z"
-    },
-    {
-      "id": "b4a7fa181ebc",
-      "title": "中外青年组队共创短视频 在上海寻找打动海外的中国故事",
-      "summary": "中新网上海8月2日电 (范宇斌)首届“新出海·国际传播训练营”结营式2日在上海市黄浦区举办。来自9个国家的50位青年在过去三周时间内混合组队共创短视频作品。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670937.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T13:17:42.000Z"
     },
     {
       "id": "4e8e9ac711d6",
