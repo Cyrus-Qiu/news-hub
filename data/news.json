@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T17:10:23.330Z",
+  "updatedAt": "2026-08-02T18:34:05.400Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,8 +30,28 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "503803bef0b6",
+      "title": "Man arrested after Scottish woman found dead inside suitcase in Athens",
+      "summary": "Greek police say 26-year-old Afghan national is believed to have left Elisabeth-Jane Ross’s body in derelict building Greek authorities have arrested an Afghan national in connec…",
+      "url": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T18:29:33.000Z"
+    },
+    {
+      "id": "0bd6e078d40a",
+      "title": "Two helicopters collide outside Athens as Greece battles to control wildfires",
+      "summary": "Fire department says two-person crew of one aircraft killed in incident during gale-force winds to west of capital Two firefighting helicopters have collided west of Athens, kill…",
+      "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T17:36:18.000Z"
+    },
+    {
       "id": "3098b39f0f3a",
-      "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
+      "title": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
       "summary": "US president claims delay is also in response to requests from Iran and other countries in the region Donald Trump has said he cancelled planned military strikes against Iran on…",
       "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
       "source": "The Guardian World",
@@ -78,16 +98,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-02T15:00:24.000Z"
-    },
-    {
-      "id": "503803bef0b6",
-      "title": "Man arrested after Scottish woman found dead inside suitcase in Athens",
-      "summary": "Greek police say 26-year-old foreigner is believed to have left Elisabeth-Jane Ross’s body in derelict building A man has been arrested over the death of a Scottish woman whose b…",
-      "url": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-02T14:56:41.000Z"
     },
     {
       "id": "a904deef4a44",
@@ -178,16 +188,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-08-02T13:55:02.000Z"
-    },
-    {
-      "id": "0bd6e078d40a",
-      "title": "Evacuations near Athens as Greece becomes focus of Europe’s wildfire crisis",
-      "summary": "High winds spread flames through Attica while blazes stabilise in France and Spain but risk of flare-ups remains high Europe’s wildfire crisis fractured along starkly different f…",
-      "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-02T13:52:53.000Z"
     },
     {
       "id": "059ce2ed45d7",
