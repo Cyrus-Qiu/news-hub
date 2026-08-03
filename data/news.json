@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T18:20:54.777Z",
+  "updatedAt": "2026-08-03T20:15:32.830Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,23 +31,53 @@
   "articles": [
     {
       "id": "4327d67d38f0",
-      "title": "Middle East crisis live: Trump says Iran ‘unbelievably duplicitous’ and US blockade will continue until ‘deal or total surrender’",
-      "summary": "US president lashes out on Truth Social after Iran denied it was in negotiations Iran in talks with Oman over shipping route but not US, says Tehran People walk near a billboard…",
+      "title": "Middle East crisis live: Trump claims strait of Hormuz could open ‘by tomorrow’ as Iran denies any talks taking place",
+      "summary": "US president claims talks are ‘not very complex’ as he speaks at White House as Iran’s foreign ministry says there are no talks taking place with US Iran in talks with Oman over…",
       "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-03T18:13:08.000Z"
+      "publishedAt": "2026-08-03T20:06:49.000Z"
     },
     {
       "id": "73e51061091b",
-      "title": "Holdouts for Trump’s attorney general pick say they will advance his nomination to the full Senate – US politics live",
-      "summary": "Republican senators John Cornyn and Thom Tillis say that formal order withdrawing ‘anti-weaponization fund’ has addressed their concerns Blanche formally rescinds Trump’s $1.8bn…",
+      "title": "Trump declines to call for Max Miller’s resignation amid abuse allegations – live",
+      "summary": "President says he will ‘let the families figure that out’ and calls situation ‘a very sad thing’ when asked if Ohio Republican should step down Sign up for the US Breaking News e…",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-03T18:12:39.000Z"
+      "publishedAt": "2026-08-03T19:59:21.000Z"
+    },
+    {
+      "id": "139a1c434d8c",
+      "title": "Athens suitcase death: suspect admits hiding body but denies murder",
+      "summary": "Police are focusing on Elisabeth-Jane Ross’s final hours in hope of discovering motive for her killing Greek authorities are investigating what may have motivated a 26-year-old A…",
+      "url": "https://www.theguardian.com/world/2026/aug/03/greek-authorities-investigate-motive-behind-of-scottish-woman-found-inside-suitcase",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-03T19:36:44.000Z"
+    },
+    {
+      "id": "c90c0b6b843f",
+      "title": "Fresh US-Iran talks are ‘last chance’ for Tehran to avoid war escalating, Trump says",
+      "summary": "US president expects negotiations to begin in next day or two but Iran says it is not reviving talks with Washington Middle East crisis live – latest updates New talks between Wa…",
+      "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-03T19:36:44.000Z"
+    },
+    {
+      "id": "9802b66247fb",
+      "title": "Trump meets his obstinate match in Iran’s hardball regime",
+      "summary": "US president reduced to bemoaning Tehran’s ‘unbelievable duplicity’ as he struggles to find solid negotiating ground Middle East crisis live – latest updates The Donald Trump doc…",
+      "url": "https://www.theguardian.com/world/2026/aug/03/trump-meets-his-obstinate-match-in-irans-hardball-regime",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-03T18:27:41.000Z"
     },
     {
       "id": "2dea8ed3ee66",
@@ -510,16 +540,6 @@
       "publishedAt": "2026-08-03T12:00:19.000Z"
     },
     {
-      "id": "c90c0b6b843f",
-      "title": "Iran in talks with Oman over shipping but US negotiations on hold, says Tehran",
-      "summary": "Iran discussing creation of temporary route through strait of Hormuz with its neighbour, says spokesperson Middle East crisis live – latest updates Iran has been in discussion wi…",
-      "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-03T11:52:56.000Z"
-    },
-    {
       "id": "dfe8baeea4ec",
       "title": "緬甸軍方發佈最新照片 昂山素與世隔絕兩年半後首會客",
       "summary": "照片顯示昂山素季與一名紅十字國際委員會（ICRC）官員會面，這是兩年半來首次證實她與外界接觸。",
@@ -538,16 +558,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-03T10:27:17.000Z"
-    },
-    {
-      "id": "7f658436997a",
-      "title": "Russia blames Ukraine for deadly restaurant bombing in Moscow",
-      "summary": "Foreign ministry accuses Kyiv of carrying out attack reports say may have been aimed at air force chief Europe live – latest updates Russia has blamed Ukraine for a bombing at a…",
-      "url": "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-03T10:27:16.000Z"
     },
     {
       "id": "94cf17bd9b0d",
@@ -708,16 +718,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-03T00:01:11.000Z"
-    },
-    {
-      "id": "3098b39f0f3a",
-      "title": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
-      "summary": "US president claims delay is also in response to requests from Iran and other countries in the region Donald Trump has said he cancelled planned military strikes against Iran on…",
-      "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-02T20:16:50.000Z"
     },
     {
       "id": "0a8bb52cfa32",
