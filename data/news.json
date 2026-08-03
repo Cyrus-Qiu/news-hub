@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T16:33:24.139Z",
+  "updatedAt": "2026-08-03T18:20:54.777Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "4327d67d38f0",
+      "title": "Middle East crisis live: Trump says Iran ‘unbelievably duplicitous’ and US blockade will continue until ‘deal or total surrender’",
+      "summary": "US president lashes out on Truth Social after Iran denied it was in negotiations Iran in talks with Oman over shipping route but not US, says Tehran People walk near a billboard…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-03T18:13:08.000Z"
+    },
+    {
       "id": "73e51061091b",
       "title": "Holdouts for Trump’s attorney general pick say they will advance his nomination to the full Senate – US politics live",
       "summary": "Republican senators John Cornyn and Thom Tillis say that formal order withdrawing ‘anti-weaponization fund’ has addressed their concerns Blanche formally rescinds Trump’s $1.8bn…",
@@ -37,17 +47,27 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-03T16:29:46.000Z"
+      "publishedAt": "2026-08-03T18:12:39.000Z"
     },
     {
       "id": "2dea8ed3ee66",
-      "title": "Stronger EU borders including physical barriers needed after Ceuta crisis, von der Leyen says",
-      "summary": "European Commission president says work needed in five area of migration control including returning more people The president of the European Commission has called for action to…",
+      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+      "summary": "European Commission president says work needed in five areas of migration control including returning more people The president of the European Commission has called for action t…",
       "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-03T16:26:45.000Z"
+      "publishedAt": "2026-08-03T17:44:01.000Z"
+    },
+    {
+      "id": "30325a367e78",
+      "title": "AstraZeneca shares fall 8.9% over merger talks with US cancer drug firm",
+      "summary": "Proposed $400bn tie-up with Bristol Myers Squibb would create world’s fourth-largest drugmaker but analysts question rationale More than £17bn was wiped off the value of Britain’…",
+      "url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
+      "source": "The Guardian Business",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-03T16:32:09.000Z"
     },
     {
       "id": "5d24f14cc3a7",
@@ -58,16 +78,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-03T16:05:20.000Z"
-    },
-    {
-      "id": "4327d67d38f0",
-      "title": "Middle East crisis live: Trump says Iran ‘unbelievably duplicitous’ and US blockade will continue until ‘deal or total surrender’",
-      "summary": "US president lashes out on Truth Social after Iran denied it was in negotiations Iran in talks with Oman over shipping route but not US, says Tehran People walk near a billboard…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-03T15:57:59.000Z"
     },
     {
       "id": "3f9b3723fd82",
@@ -88,16 +98,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-03T15:11:26.000Z"
-    },
-    {
-      "id": "30325a367e78",
-      "title": "AstraZeneca shares plunge over talks with US cancer drug firm on $400bn merger",
-      "summary": "Bristol Myers Squibb tie-up would create world’s fourth largest drugmaker but analysts question rationale for deal More than £15bn was wiped off the value of Britain’s biggest dr…",
-      "url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
-      "source": "The Guardian Business",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-03T15:10:02.000Z"
     },
     {
       "id": "646252bc1154",
@@ -480,6 +480,16 @@
       "publishedAt": "2026-08-03T14:04:22.000Z"
     },
     {
+      "id": "4e4014005c4e",
+      "title": "Ring Cycle review – AI staging dispenses with drama to create banal bric-a-brac",
+      "summary": "Bayreuth festival theatre, Bayreuth For the festival’s 150th anniversary, the creative team have turned to AI to generate visuals reflecting Wagner’s tetralogy’s past, present –…",
+      "url": "https://www.theguardian.com/music/2026/aug/03/wagner-bayreuth-ring-cycle-review-ai-staging-dispenses-with-drama-to-create-banal-bric-a-brac",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-03T13:28:07.000Z"
+    },
+    {
       "id": "81727b84d44d",
       "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
       "summary": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resume Business live – latest updates Crude oil prices fell sharply while stocks and gove…",
@@ -850,6 +860,16 @@
       "publishedAt": "2026-08-01T20:39:20.000Z"
     },
     {
+      "id": "84635cb2f008",
+      "title": "‘More than just objects’: Australian booksellers raise alarm over ‘horrific’ destruction of rare titles to feed AI",
+      "summary": "Secondhand booksellers believe they may have been caught up in the AI supply chain that sees old books scanned then destroyed Follow our Australia news live blog for latest updat…",
+      "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-01T20:00:02.000Z"
+    },
+    {
       "id": "cd4deb3ebc07",
       "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
       "summary": "New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industry Over the past month, a series of advancements in China’s artificial in…",
@@ -1100,16 +1120,6 @@
       "publishedAt": "2026-07-30T09:33:51.000Z"
     },
     {
-      "id": "d00616698c47",
-      "title": "The best cordless vacuum cleaners for a spotless home: 10 tried and tested favourites",
-      "summary": "Stick vacuums are a convenient alternative to corded designs, but which model wins for overall cleaning prowess? Our expert reveals all • The best robot vacuums • How to make you…",
-      "url": "https://www.theguardian.com/thefilter/2025/mar/28/best-cordless-vacuum-cleaners-uk",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-07-30T09:00:50.000Z"
-    },
-    {
       "id": "29af220da129",
       "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
       "summary": "美國和中國正陷入一場爭奪全球機械人與人工智能領導地位的競賽。",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-27T09:19:49.000Z"
-    },
-    {
-      "id": "7fc32d0cb7fa",
-      "title": "What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
-      "summary": "The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers The AI ethicist Eleanor Drage believes that to thrive alongside arti…",
-      "url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-27T08:00:34.000Z"
     }
   ]
 }
