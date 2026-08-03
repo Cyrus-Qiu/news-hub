@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T20:15:32.830Z",
+  "updatedAt": "2026-08-03T21:43:39.817Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,44 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "4327d67d38f0",
-      "title": "Middle East crisis live: Trump claims strait of Hormuz could open ‘by tomorrow’ as Iran denies any talks taking place",
-      "summary": "US president claims talks are ‘not very complex’ as he speaks at White House as Iran’s foreign ministry says there are no talks taking place with US Iran in talks with Oman over…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
+      "id": "9d0d8f4f4432",
+      "title": "尼泊尔7月接待国际游客逾7万人次",
+      "summary": "中新社加德满都8月3日电 (记者 崔楠)尼泊尔旅游委员会3日公布数据显示，今年7月共有71775人次国际游客到访尼泊尔，同比增长2.3%；其中，中国游客同比增长逾六成。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671491.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-03T21:40:52.000Z"
+    },
+    {
+      "id": "bac02fb17986",
+      "title": "中美青少年共聚西安 以乐为媒搭建“音乐丝路”",
+      "summary": "中新社西安8月3日电 题：中美青少年共聚西安 以乐为媒搭建“音乐丝路”",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671490.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-03T21:39:44.000Z"
+    },
+    {
+      "id": "5e7fe7e1828c",
+      "title": "中东局势致英国燃油盗窃案激增",
+      "summary": "中新社伦敦8月3日电 (记者 欧阳开宇)受中东局势持续动荡、国际油价剧烈波动影响，英国燃油价格大幅走高，境内加油站燃油盗窃、逃费案件近期显著激增。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671489.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-03T21:39:12.000Z"
+    },
+    {
+      "id": "cf1d480f2d64",
+      "title": "Australia news live: charges laid after alleged replica gun scare in Sydney entertainment spot",
+      "summary": "Two men were arrested on Monday evening and one was charged over an alleged replica pistol. Follow today’s news live. Get our breaking news email , free app or daily news podcast…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-03T20:06:49.000Z"
+      "publishedAt": "2026-08-03T21:26:44.000Z"
     },
     {
       "id": "73e51061091b",
@@ -47,7 +77,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-03T19:59:21.000Z"
+      "publishedAt": "2026-08-03T21:22:14.000Z"
+    },
+    {
+      "id": "4327d67d38f0",
+      "title": "Middle East crisis live: Trump claims strait of Hormuz could open ‘by tomorrow’ as Iran denies any talks taking place",
+      "summary": "US president claims talks are ‘not very complex’ as he speaks at White House as Iran’s foreign ministry says there are no talks taking place with US Iran in talks with Oman over…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-03T20:48:51.000Z"
     },
     {
       "id": "139a1c434d8c",
@@ -162,7 +202,7 @@
     {
       "id": "ec9472433aa8",
       "title": "Kmart sells out of low-cost rival to Meta camera glasses across Australia amid warnings of ‘privacy nightmare’",
-      "summary": "Expert says people face being filmed without their consent as $89 Anko smartglasses sell out in stores and online Get our breaking news email , free app or daily news podcast Kma…",
+      "summary": "Expert says people face being filmed without their consent as $89 Anko smartglasses sell out in stores and online Follow our Australia news live blog for latest updates Get our b…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/04/kmart-camera-glasses-anko-meta-smartglasses-australia",
       "source": "The Guardian World",
       "category": "国际",
@@ -480,36 +520,6 @@
       "publishedAt": "2026-08-03T14:05:04.000Z"
     },
     {
-      "id": "b41cd180b78c",
-      "title": "四集党建主题纪录片《樵夫廖俊波》播出",
-      "summary": "中新网福州8月3日电 (记者 闫旭)由中共福建省委宣传部指导、中共南平市委宣传部出品、福建省广播影视集团、南平广播电视台联合摄制的四集党建主题纪录片《樵夫廖俊波》，于8月1日至2日在东南卫视播出。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-03/10671436.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-03T14:04:46.000Z"
-    },
-    {
-      "id": "a606ef8ab285",
-      "title": "“让世界聆听青海——《生命树》”情景交响音乐会在青海德令哈首演",
-      "summary": "中新网青海德令哈8月3日电 (记者 孙睿)8月3日，“让世界聆听青海——《生命树》”情景交响音乐会在青海省海西州德令哈市首演。音乐会由青海省文化和旅游厅、德令哈市政府主办，天津交响乐团与青海省演艺集团同台献艺，依托本土影视IP打造特色高原文艺演出。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-03/10671438.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-03T14:04:34.000Z"
-    },
-    {
-      "id": "01be8d623cbf",
-      "title": "助推中国埃塞经贸合作深化 埃塞俄比亚国际丝路会客厅揭牌",
-      "summary": "中新网北京8月3日电 (刘俊佳 张素)记者3日从中国商业股份制企业经济联合会现代服务业工作委员会获悉，埃塞俄比亚国际丝路会客厅近日于埃塞俄比亚正式揭牌。",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-03/10671431.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-03T14:04:22.000Z"
-    },
-    {
       "id": "4e4014005c4e",
       "title": "Ring Cycle review – AI staging dispenses with drama to create banal bric-a-brac",
       "summary": "Bayreuth festival theatre, Bayreuth For the festival’s 150th anniversary, the creative team have turned to AI to generate visuals reflecting Wagner’s tetralogy’s past, present –…",
@@ -608,16 +618,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-03T08:23:44.000Z"
-    },
-    {
-      "id": "2a8aa884fe8d",
-      "title": "Teenager didn’t tell anyone Alan Jones allegedly kissed and touched him as he feared losing financial help, trial hears",
-      "summary": "Former 2UE and 2GB radio broadcaster is facing 22 charges. Jones, 85, has pleaded not guilty Alan Jones trial day one – as it happened Get our breaking news email , free app or d…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/03/alan-jones-trial-update-sydney-court-case-day-1-news-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-03T08:16:43.000Z"
     },
     {
       "id": "6455622c5219",
