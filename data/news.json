@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T23:06:22.359Z",
+  "updatedAt": "2026-08-03T00:08:14.074Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,146 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "73f45f325da5",
+      "title": "讓人遍體鱗傷的24小時過後，國際足協與恩凡蒂諾如何走下去？",
+      "summary": "壓力正逐漸落在詹尼·恩凡蒂諾身上。在這項備受爭議的世界盃投資計劃崩潰後，他這國際足協主席還當得下去嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-03T00:01:11.000Z"
+    },
+    {
+      "id": "5fea24831ff7",
+      "title": "‘Stop all outdoor activities’: South Korea records its highest ever temperature",
+      "summary": "Authorities issue alert saying indoor spaces without airconditioning are ‘dangerous’ as temperatures pass 40C for fifth straight day South Korea has registered its highest temper…",
+      "url": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-02T23:54:50.000Z"
+    },
+    {
+      "id": "712f3cc7811d",
+      "title": "重庆贵州陕西等地有强降水 东北华北等地有强对流天气",
+      "summary": "中新网8月3日电 据中央气象台网站3日消息，昨日，广东、云南、四川、重庆、贵州等地部分地区出现暴雨或大暴雨。预计未来三天，广东、云南、贵州、四川、重庆、陕西等地部分地区有强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝；东北、华北、内蒙古等地多降雨和强对流天气，需防范局地强降雨、雷暴大风或冰雹等强对流天气对交通、城市运行、户外活动等的不利影响。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670990.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:54:20.000Z"
+    },
+    {
+      "id": "92ed6a40e407",
+      "title": "News live: Australian company ‘deeply saddened’ by fatal collision of its two firefighting helicopters in Greece",
+      "summary": "Meanwhile fuel excise cut, imposed after outbreak of Iran conflict, ended at midnight on Monday. Follow today’s news live Angus Taylor and Anthony Albanese on leave this week The…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-02T23:50:50.000Z"
+    },
+    {
+      "id": "759d6f22611f",
+      "title": "特朗普称3日与伊朗谈判 以色列自曝“被盟友抛弃”",
+      "summary": "美国总统特朗普当地时间2日最新表态称，美国将于3日与伊朗进行谈判。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670989.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:47:53.000Z"
+    },
+    {
+      "id": "c06276d6b923",
+      "title": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
+      "summary": "中新网8月3日电 据伊朗媒体2日报道，伊朗外交部发言人巴加埃表示，伊朗正与阿曼讨论在霍尔木兹海峡划定一条新航线，以确保双方主权权利以及伊朗的国家利益与安全。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670987.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:43:21.000Z"
+    },
+    {
+      "id": "37c21a5c1d3d",
+      "title": "这样的保研辅导，是“馅饼”还是“陷阱”？",
+      "summary": "当研究生推免比例逐年提升，当绩点、科研、竞赛、面试成为硬性考核标准，激烈的保研竞争催生了旺盛的市场需求，各类辅导机构顺势而生。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670988.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:42:49.000Z"
+    },
+    {
+      "id": "060585d420fc",
+      "title": "2026年度电影总票房超231亿元 市场热度持续走高",
+      "summary": "截至8月2日22时，2026年度电影总票房已超231亿元，其中，暑期档已连续23天单日票房破亿，市场热度正持续走高。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-03/10670986.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:36:33.000Z"
+    },
+    {
+      "id": "7518242d6256",
+      "title": "算法把“数字泔水”推给青少年，法律能做什么",
+      "summary": "“数字泔水”是近两年来网络空间治理中浮现的典型问题，特指利用算法推荐机制，向用户持续推送低俗、虚假、极端化内容，以攫取流量和注意力为目的的信息污染现象。青少年正处于价值观形成的关键期，如果长期沉浸于此类内容，其认知结构易被窄化，理性判断力易被侵蚀，甚至可能催生偏激对立的世界观。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670985.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:33:29.000Z"
+    },
+    {
+      "id": "e02b964e1bf9",
+      "title": "让“手搓”不“受挫”，“一人公司”痛点何解？",
+      "summary": "让“手搓”不“受挫”(融观中国)",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670984.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:30:58.000Z"
+    },
+    {
+      "id": "4f206798381f",
+      "title": "暑期来临 “电子带娃”代替不了暖心陪伴",
+      "summary": "暑期来临，“电子带娃”成不少家庭育儿常态，暗藏隐忧——",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670983.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:27:30.000Z"
+    },
+    {
+      "id": "67d2b604d8b0",
+      "title": "暴雨、强对流天气预警发布 陕西重庆等地部分地区有大暴雨",
+      "summary": "中新网8月3日电 据中央气象台网站消息，中央气象台8月3日6时发布暴雨橙色预警和强对流天气蓝色预警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670982.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:25:26.000Z"
+    },
+    {
+      "id": "e35e1dba9735",
+      "title": "赛里木湖景区工作人员殴打旅游车司机处理情况：7人被行政拘留 优化自驾服务费",
+      "summary": "8月3日，新疆维吾尔自治区、博尔塔拉蒙古自治州联合工作组发布《关于赛里木湖景区工作人员殴打旅游车司机事件处理及整改的情况通报》：",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670981.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:20:44.000Z"
+    },
+    {
+      "id": "9fecfc420fbb",
+      "title": "以媒称以色列方面通过特朗普社媒得知美叫停对伊打击",
+      "summary": "中新网8月3日电 据以色列媒体2日报道，以色列官员是通过美国总统特朗普在“真相社交”上发表的帖文得知，特朗普已决定取消原定对伊朗的袭击计划。以媒还称，美国中央司令部事先也未被告知此事。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670980.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-02T23:10:53.000Z"
+    },
+    {
       "id": "0db27f3d63fd",
       "title": "查实作弊！河南通报“三支一扶”核查结果：相关负责人停职",
       "summary": "针对近期备受关注的2026年河南省“三支一扶”计划招募相关舆情，河南省“三支一扶”领导小组协调办公室8月2日晚发布最新通报。",
@@ -40,19 +180,9 @@
       "publishedAt": "2026-08-02T22:54:12.000Z"
     },
     {
-      "id": "92ed6a40e407",
-      "title": "News live: Australian company ‘deeply saddened’ by fatal collision of its two firefighting helicopters in Greece",
-      "summary": "Meanwhile fuel excise cut, imposed after outbreak of Iran conflict, ended at midnight on Monday. Follow today’s news live Alan Jones trial on indecent assault and sexual touching…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian World",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-02T22:50:19.000Z"
-    },
-    {
       "id": "754fce9ba59c",
       "title": "特朗普称美伊3日将举行谈判",
-      "summary": "中新网8月3日电 综合外媒报道，当地时间2日，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。",
+      "summary": "中新网8月3日电 综合外媒2日报道，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。",
       "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670978.shtml",
       "source": "中国新闻网",
       "category": "国内",
@@ -260,19 +390,9 @@
       "publishedAt": "2026-08-02T15:53:46.000Z"
     },
     {
-      "id": "2277f6bf5e3e",
-      "title": "NBA 3X宁波站赛事收官",
-      "summary": "中新网8月2日电 作为美职篮(NBA)旗下三人篮球赛事，NBA 3X区域赛宁波站比赛于8月1日收官。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670960.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T15:53:26.000Z"
-    },
-    {
       "id": "1327362e9fc9",
       "title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
-      "summary": "The 85-year-old former broadcaster faces 22 charges from six different complainants in what is expected to be a four-month trial Follow our Australia news live blog for latest up…",
+      "summary": "The 85-year-old former broadcaster faces 22 charges from six different complainants in what is expected to be a four-month trial Alan Jones trial live updates The high-profile tr…",
       "url": "https://www.theguardian.com/media/2026/aug/03/trial-alan-jones-begins-sydney-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -290,76 +410,6 @@
       "publishedAt": "2026-08-02T15:00:24.000Z"
     },
     {
-      "id": "a904deef4a44",
-      "title": "青海海南州兴海县发生3.6级地震 震源深度10千米",
-      "summary": "中新网8月2日电 据中国地震台网正式测定：08月02日22时37分在青海海南州兴海县(北纬35.36度，东经99.51度)发生3.6级地震，震源深度10千米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T14:52:08.000Z"
-    },
-    {
-      "id": "b30f63a19543",
-      "title": "青海海南州兴海县发生4.8级地震 震源深度10千米",
-      "summary": "中新网8月2日电 据中国地震台网正式测定：08月02日22时31分在青海海南州兴海县（北纬35.34度，东经99.50度）发生4.8级地震，震源深度10千米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670958.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T14:40:53.000Z"
-    },
-    {
-      "id": "eaea73267616",
-      "title": "2026年“文化中国·水立方杯”中文歌曲大赛总决赛落幕",
-      "summary": "中新社北京8月2日电 (记者 吴侃 门睿)2026年“文化中国·水立方杯”中文歌曲大赛总决赛2日晚在北京落幕。",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-02/10670957.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T14:27:18.000Z"
-    },
-    {
-      "id": "cb35dd4c24b6",
-      "title": "藏羚羊带娃回家啦！青藏公路开启“静音模式”",
-      "summary": "7月下旬",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670956.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T14:24:32.000Z"
-    },
-    {
-      "id": "3d9bcf4312f3",
-      "title": "行进中国｜跟着牦牛尾巴走的派出所",
-      "summary": "西藏阿里，札达县，曲松乡。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670955.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T14:19:40.000Z"
-    },
-    {
-      "id": "3f7e1596aebc",
-      "title": "铸牢中华民族共同体意识丨戈壁清泉畔的岁岁相守",
-      "summary": "天山网-新疆日报记者 杨舒涵",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T14:16:24.000Z"
-    },
-    {
-      "id": "2150f11a724d",
-      "title": "勇立潮头大湾区丨“来数加工”成跨境算力新场景",
-      "summary": "算力，不是遥不可及的黑科技 而是数字时代的“新水电” 从《哪吒之魔童降世》《流浪地球》的 影视特效 到《王者荣耀》《黑神话：悟空》等游戏 丝滑操作 甚至是每一次精准的天气预警 …… 这一切的背后都离不开两个字：算力 依托大湾区平台优势 粤港澳大湾区数据特区 “来数加工”跨境算力专区 近期在广东韶关 正式启用 韶关和香港之间架起“数字桥梁” 为粤港澳科创协…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670953.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T14:03:51.000Z"
-    },
-    {
       "id": "556620c36ee8",
       "title": "House prices slide across Australia as Middle East conflict and tax changes begin to bite",
       "summary": "Cotality data shows a drop in Brisbane, Adelaide and Perth, as nation’s median home price falls about $19,000 below its March peak Follow our Australia news live blog for latest…",
@@ -370,16 +420,6 @@
       "publishedAt": "2026-08-02T14:01:23.000Z"
     },
     {
-      "id": "9738239b28c8",
-      "title": "全球媒体聚焦 | 中国开源模型领先 美媒反思美AI发展盲区",
-      "summary": "近期，美国开放人工智能研究中心(OpenAI)模型自主入侵其他企业数据系统、中国开源模型参与应急响应，引发国际舆论持续关注。美国媒体也对各国开展AI安全治理合作以及AI开源生态价值#8204;进行思考与讨论。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670952.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-02T13:55:02.000Z"
-    },
-    {
       "id": "059ce2ed45d7",
       "title": "Moscow bomb kills at least three as device carried by woman explodes",
       "summary": "More than 20 people injured in blast near Italian restaurant Balzi Rossi in centre of Russian capital on Saturday night A homemade bomb carried by a woman killed three people and…",
@@ -388,26 +428,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-02T13:51:41.000Z"
-    },
-    {
-      "id": "f655d099bd17",
-      "title": "破壁而立，寻新机！ 中国跨境电商从“卖产品”转向“拥有品牌议价权和定价权”",
-      "summary": "央视网消息：从2026年7月1日起，欧盟正式取消150欧元以下进口包裹的免税政策。在两年过渡期内，对所有入境小包裹按件征收3欧元临时统一关税，并与原有增值税叠加征收。延续多年的“免税红利”终结后，中国跨境电商的低价直邮模式遭遇冲击。对于客单价10欧元左右的商品而言，3欧元关税意味着成本增长30%。政策施行一个月，商家受到哪些影响？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670951.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T13:48:50.000Z"
-    },
-    {
-      "id": "43bd3719848f",
-      "title": "中国北疆列车助力少数民族文化传承",
-      "summary": "中新社黑龙江齐齐哈尔8月2日电 (记者 史轶夫)黑龙江省齐齐哈尔市富裕县七家子村玛纳斯广场8月2日鼓乐悠扬，传统敖包祭祀启幕，一年一度的柯尔克孜族东迁节如期而至。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670947.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-02T13:40:55.000Z"
     },
     {
       "id": "4e8e9ac711d6",
@@ -990,16 +1010,6 @@
       "publishedAt": "2026-07-29T21:06:08.000Z"
     },
     {
-      "id": "74e065aecc9e",
-      "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened",
-      "summary": "Emergency workers are continuing their search for survivors in southern Japan after yesterday’s powerful earthquake ‘Race against time’: Japan earthquake death toll rises as resc…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-07-29T14:27:33.000Z"
-    },
-    {
       "id": "29af220da129",
       "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
       "summary": "美國和中國正陷入一場爭奪全球機械人與人工智能領導地位的競賽。",
@@ -1188,16 +1198,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-27T02:03:48.000Z"
-    },
-    {
-      "id": "a900c2623e29",
-      "title": "審視阿努廷時代下的泰中關係：中國「長臂管轄」連上泰國了？",
-      "summary": "當中國當局尋找逃往泰國的異議人士或難民時，泰國政府幾乎有求必應。泰國是否正在成為中國政府跨境執法的延伸？",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2594ne6g7o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-27T00:06:51.000Z"
     },
     {
       "id": "8c017c14fcd8",
