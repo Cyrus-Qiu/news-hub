@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T22:19:09.875Z",
+  "updatedAt": "2026-08-04T23:35:15.026Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,166 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "a5cd9ccd3120",
+      "title": "暴雨、强对流天气预警发布 陕西云南等地局地有大暴雨",
+      "summary": "中新网8月5日电 据中央气象台网站消息，中央气象台8月5日6时发布暴雨蓝色预警和强对流天气蓝色预警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672073.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:33:06.000Z"
+    },
+    {
+      "id": "3da04490d06c",
+      "title": "AI音乐遍地生长，法律边界在何处？",
+      "summary": "(文化只眼)",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-05/10672076.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:31:20.000Z"
+    },
+    {
+      "id": "56231550bb1f",
+      "title": "Australia news live: Pocock says falling house prices a ‘good thing for our country’; Labor expands solar discount to commercial buildings",
+      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Almost every house sold in first six months of the year made a profit The vast majority of h…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-04T23:29:57.000Z"
+    },
+    {
+      "id": "1e8bff6b8080",
+      "title": "三伏天减重，怎样安全又高效",
+      "summary": "(服务窗)",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-05/10672075.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:28:18.000Z"
+    },
+    {
+      "id": "39576c3abc21",
+      "title": "美财长：美伊有望“数小时内”达成霍尔木兹海峡协议",
+      "summary": "中新网8月5日电 据法新社报道，当地时间8月4日，一名美国高级官员表示，与伊朗就重新开放霍尔木兹海峡达成协议“可能就在今明两天”，受此消息影响，国际油价因市场对这条重要水道恢复通航的预期而大幅下挫。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672074.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:24:44.000Z"
+    },
+    {
+      "id": "d845e3e4c623",
+      "title": "三项光伏能耗能效强制性国标明年1月起正式实施",
+      "summary": "记者昨天(4日)从国家标准委了解到，三项光伏领域能耗能效强制性国家标准明年一月起正式实施，三项标准将从源头严控低效产品入市、推动光伏产业技术迭代与绿色升级。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672072.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:19:11.000Z"
+    },
+    {
+      "id": "ec54ac6c7eab",
+      "title": "市场监管总局：我国量子信息产业质量强链取得阶段性成果",
+      "summary": "量子科技是前沿科技竞争的核心赛道，产业标准化、质量体系建设是产业化落地的关键。记者今天(5日)了解到，市场监管总局实施的量子信息产业质量强链专项行动取得系列阶段性成果。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672070.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:15:43.000Z"
+    },
+    {
+      "id": "dfc270fa279b",
+      "title": "内塔尼亚胡：哈马斯完全解除武装前不会从加沙撤军",
+      "summary": "中新网8月5日电 据美联社报道，当地时间8月4日，以色列总理内塔尼亚胡表示，在巴勒斯坦伊斯兰抵抗运动(哈马斯)完全解除武装之前，以色列军队不会撤出其在加沙地带当前的防线，并表示以方并未接受美方宣布的相关方案。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672071.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:15:31.000Z"
+    },
+    {
+      "id": "40637d697b87",
+      "title": "国内航线燃油附加费今起再次下调",
+      "summary": "记者从多家航空公司了解到，从今天(5日)起销售的国内航线机票燃油附加费再次下调。调整后的国内航线燃油附加费标准为：800公里以上航线每位成人旅客收取70元燃油附加费，800公里(含)以下航线每位成人旅客收取40元燃油附加费，相较于调整前分别降低了30元和10元。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672069.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:13:21.000Z"
+    },
+    {
+      "id": "c3d117507919",
+      "title": "Jetstar to charge fees up to $52 to put carry-on baggage in overhead lockers",
+      "summary": "Airline says struggling to find room in overhead lockers on planes a ‘stressful part of the airport experience’ Follow our Australia news live blog for latest updates Get our bre…",
+      "url": "https://www.theguardian.com/business/2026/aug/05/jetstar-to-charge-passengers-up-to-52-to-put-baggage-in-overhead-lockers",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-04T22:54:18.000Z"
+    },
+    {
+      "id": "d3ae142d041b",
+      "title": "美国撤销巴西驻美大使签证",
+      "summary": "中新网8月5日电 综合路透社等媒体报道，当地时间8月4日，美国国务院一名高级官员表示，美国政府已撤销巴西驻美大使的签证，以报复巴西上月拒绝向两名美国务院官员发放签证以及迟迟未接受美总统特朗普提名的驻巴西大使人选。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672068.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T22:47:03.000Z"
+    },
+    {
+      "id": "2ece5cddfd65",
+      "title": "Naplan results 2026: reading and writing worsens in Australian schools as one in three students fail to meet benchmarks",
+      "summary": "Education minister Jason Clare says the results showed ‘real challenges’ but numeracy scores were heartening Follow our Australia news live blog for latest updates Get our breaki…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/04/naplan-results-2026-reading-writing-australian-school-standards",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-04T22:45:42.000Z"
+    },
+    {
+      "id": "799d067e9f4f",
+      "title": "旅美大熊猫“宝力”迎来五周岁生日",
+      "summary": "中新社华盛顿8月4日电 (记者 沙晗汀)旅居华盛顿美国国家动物园的大熊猫“宝力”当地时间4日迎来五周岁生日。这是“宝力”在美国度过的第二个生日。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672067.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T22:41:23.000Z"
+    },
+    {
+      "id": "1b14891bbabc",
+      "title": "MI6 is top European foreign intelligence service, peer review finds",
+      "summary": "UK’s Secret Intelligence Service praised for playing long game and having ‘a taste for dirty tricks’ MI6 has been ranked as the most powerful foreign intelligence service in Euro…",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-04T22:40:53.000Z"
+    },
+    {
+      "id": "2da1022e7d56",
+      "title": "乌克兰首都连续传出爆炸声 基辅市长称“多枚导弹向基辅飞来”",
+      "summary": "中新网8月5日电 据《基辅独立报》当地时间5日凌晨报道，乌克兰首都基辅拉响防空警报，并传出连续爆炸声。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672066.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T22:35:47.000Z"
+    },
+    {
+      "id": "c8adaaf79f93",
+      "title": "8月5日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-05/10672065.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T22:31:22.000Z"
+    },
+    {
       "id": "05ada88f5052",
       "title": "Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made – as it happened",
       "summary": "This live blog is now closed. US and Qatar report progress on Iran ceasefire and reopening Hormuz strait Iran and Oman have made progress toward a deal to reopen the strait of Ho…",
@@ -38,16 +198,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-04T22:13:58.000Z"
-    },
-    {
-      "id": "56231550bb1f",
-      "title": "Australia news live: Jetstar to charge passengers for overhead baggage; Labor drops so-called ‘widow tax’",
-      "summary": "Airline removes carry-on weight limit but will charge for bags that don’t fit under seat. Follow today’s news live Get our breaking news email , free app or daily news podcast Po…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T22:06:56.000Z"
     },
     {
       "id": "95572c10fb8d",
@@ -108,16 +258,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-08-04T21:44:43.000Z"
-    },
-    {
-      "id": "c3d117507919",
-      "title": "Jetstar to charge passengers up to $52 to put baggage in overhead lockers",
-      "summary": "Airline says struggling to find room in overhead lockers on planes a ‘stressful part of the airport experience’ Follow our Australia news live blog for latest updates Get our bre…",
-      "url": "https://www.theguardian.com/business/2026/aug/05/jetstar-to-charge-passengers-up-to-52-to-put-baggage-in-overhead-lockers",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T21:42:15.000Z"
     },
     {
       "id": "f6004e7d1743",
@@ -210,6 +350,16 @@
       "publishedAt": "2026-08-04T17:24:41.000Z"
     },
     {
+      "id": "c94f4793b716",
+      "title": "Trump administration reportedly drafting ban on Chinese datacenter components",
+      "summary": "Trump’s FCC is developing a measure to bar US imports of new models of Chinese datacenter devices, sources say The Trump administration is reportedly drafting a ban on US imports…",
+      "url": "https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-04T17:21:33.000Z"
+    },
+    {
       "id": "bc3318069861",
       "title": "US and Qatar report progress on Iran ceasefire and reopening Hormuz strait",
       "summary": "Optimism echoes Trump’s claims on Monday that deal is close as mediators say they are exchanging proposals Middle East crisis live – latest updates US and Qatari officials have s…",
@@ -268,16 +418,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-04T15:02:30.000Z"
-    },
-    {
-      "id": "2ece5cddfd65",
-      "title": "Reading and writing worsens in Australian schools as one in three students fail to meet Naplan benchmarks",
-      "summary": "Education minister Jason Clare says the results showed ‘real challenges’ but numeracy scores were heartening Follow our Australia news live blog for latest updates Get our breaki…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/04/naplan-results-2026-reading-writing-australian-school-standards",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T15:00:06.000Z"
     },
     {
       "id": "386c13009ab7",
@@ -368,126 +508,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-04T14:23:36.000Z"
-    },
-    {
-      "id": "b82d892e800a",
-      "title": "中国最大自航式纯电驱深海海缆敷设船在江苏完成吉水作业",
-      "summary": "中新社南京8月4日电 (记者 朱晓颖)中国最大自航式纯电驱深海海缆敷设船“蓝海领航”轮8月4日在江苏启东完成吉水作业，这标志着该艘海上风电领域的“大国重器”向交付运营迈出更近一步。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10672043.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:21:35.000Z"
-    },
-    {
-      "id": "0ca4ef728c42",
-      "title": "中国出台强制性国标明确自动驾驶产品安全准入基线",
-      "summary": "中新社北京8月4日电 (记者 刘亮)中国工信部4日公布，其组织制定并归口的《智能网联汽车 自动驾驶系统安全要求》强制性国家标准(下称“标准”)近日获批发布，拟于2027年7月1日起正式实施，将为自动驾驶产品明确统一的安全准入基线。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672042.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:20:51.000Z"
-    },
-    {
-      "id": "6d1ff95a28c9",
-      "title": "广交会已与全球231家境外机构建立合作关系",
-      "summary": "中新社广州8月4日电 (程景伟 谢丽巧)中国对外贸易中心4日在广州举行广交会全球合作伙伴签约仪式。截至目前，广交会累计与全球110个国家和地区的231家境外机构建立合作关系。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672041.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:19:43.000Z"
-    },
-    {
-      "id": "2b19b3ca2654",
-      "title": "中国“银河画卷”巡天证实星际分子云是超高能宇宙射线诞生的关键载体",
-      "summary": "中新社青海德令哈8月4日电 (记者 孙睿)中国科学院紫金山天文台4日在第二届人工智能赋能的天文学开放科学会议上披露，位于青海德令哈的中国科学院紫金山天文台青海观测站13.7米口径毫米波射电望远镜完成“银河画卷(MWISP)”一期巡天后有跨界新发现，证实星际分子云是超高能宇宙射线诞生的关键载体，打通了分子天文与高能天文交叉研究全新赛道。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10672039.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:18:13.000Z"
-    },
-    {
-      "id": "ee94949158ac",
-      "title": "（机遇香港）国际机构密集上调增长预期 香港经济基本面被看好",
-      "summary": "中新社香港8月4日电 (记者 戴小橦)多家国际金融机构近期密集上调香港2026年全年本地生产总值(GDP)增长预期。业内人士分析认为，在人工智能需求爆发、楼市财富效应显现及旅游消费持续复苏的多重利好下，下半年香港经济有望延续扩张态势。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-04/10672035.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:17:17.000Z"
-    },
-    {
-      "id": "b03e594128a4",
-      "title": "国防部批日新版防卫白皮书：贼喊捉贼为自身军事松绑找借口",
-      "summary": "中新社北京8月4日电 (记者 李纯)中国国防部新闻发言人陈曦4日就日本政府2026版《防卫白皮书》答记者问。他指出，日新版《防卫白皮书》大肆渲染“周边安全危机”，完全是贼喊捉贼，为自身军事松绑找借口。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10672034.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:15:53.000Z"
-    },
-    {
-      "id": "dcfe0b91ad5d",
-      "title": "亲子、研学体验持续“上新” 各地激活暑期文旅消费",
-      "summary": "目前暑假基本过半，各地的亲子游、研学游都热度不减，在福建霞浦，当地因地制宜，利用滩涂资源、湿地生态、山海美景，设计多条暑期游新路线，激活暑期文旅消费。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10672046.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:14:43.000Z"
-    },
-    {
-      "id": "c43fc8f13a32",
-      "title": "7月中国物流业景气指数为50.4%",
-      "summary": "中新社北京8月4日电 (记者 阮煜琳)中国物流与采购联合会4日发布的数据显示，7月份，中国物流业景气指数为50.4%，环比回落0.2个百分点。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672033.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:14:31.000Z"
-    },
-    {
-      "id": "73d328e5a06f",
-      "title": "物流业景气指数继续保持扩张 新订单指数连续回升 产业物流进一步向好",
-      "summary": "央视网消息：中国物流与采购联合会8月4日公布7月份中国物流业景气指数。指数继续保持扩张，其中，新订单指数连续回升，产业物流进一步向好。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672037.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:11:57.000Z"
-    },
-    {
-      "id": "685a54b98ac5",
-      "title": "联创光电：公司及实控人被证监会立案",
-      "summary": "中新网北京8月4日电 (记者 陈康亮)江西联创光电科技股份有限公司(下称联创光电)4日公告称，公司及实际控制人伍锐于近日分别收到中国证监会下发的《立案告知书》，因公司及伍锐涉嫌未按规定披露非经营性资金往来等违法行为，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法规，中国证监会决定对公司及伍锐立案。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672023.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:08:09.000Z"
-    },
-    {
-      "id": "cefe692df000",
-      "title": "（活力中国调研行）探访合肥大健康研究院：让前沿医疗技术从“书架”走上“货架”",
-      "summary": "中新网合肥8月4日电 (记者 韩苏原)走进合肥综合性国家科学中心大健康研究院(简称“合肥大健康研究院”)，可看到五栋现代化科研楼宇比邻而立。4日，记者随“活力中国调研行”主题采访团到此，见证一批源自科研院所的前沿医疗技术加速从实验室走向临床、落地市场。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672026.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:07:41.000Z"
-    },
-    {
-      "id": "a7c611df7bbf",
-      "title": "广东湛江鲜果出口添“新” 首批鲜番石榴销往新加坡",
-      "summary": "中新网广东湛江8月4日电 (梁盛 谢辉 钟力宇)广东湛江鲜果出口4日再添新成员，首批重6.4吨色泽鲜亮、果香四溢的鲜番石榴发往新加坡。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672024.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:07:15.000Z"
     },
     {
       "id": "1376faa32511",
@@ -598,16 +618,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-04T09:00:18.000Z"
-    },
-    {
-      "id": "96b766f609a7",
-      "title": "Daphne Caruana Galizia was investigating suspected corruption when killed, jury told",
-      "summary": "Journalist’s son says his mother was examining leak from Electrogas, part owned by Yorgen Fenech who is on trial Daphne Caruana Galizia was investigating suspected corruption by…",
-      "url": "https://www.theguardian.com/world/2026/aug/04/daphne-caruana-galizia-investigating-suspected-corruption-when-killed-jury-told",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T07:00:16.000Z"
     },
     {
       "id": "9f799238f8b9",
@@ -1148,16 +1158,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-07-31T17:24:42.000Z"
-    },
-    {
-      "id": "ebdff910e4ef",
-      "title": "$2m crime novel deal collapses amid questions over AI use",
-      "summary": "Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’ A high-profile publishing deal for a debut crime…",
-      "url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-07-31T16:45:04.000Z"
     },
     {
       "id": "2a1585c44b18",
