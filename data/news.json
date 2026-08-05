@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T16:48:19.234Z",
+  "updatedAt": "2026-08-05T18:41:41.601Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,56 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "9f187ea35076",
+      "title": "Middle East crisis live: Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry",
+      "summary": "Joint announcement for geographic coordinates being finalised, says spokesperson, adding that it would not guarantee security in waterway The ⁠geographic coordinates for a shippi…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T18:27:29.000Z"
+    },
+    {
+      "id": "1c9467ab690e",
+      "title": "The Leipzig drone bomb marks a dangerous escalation for Europe",
+      "summary": "Initial evidence suggests the drone, which was found near Ukrainian cargo planes at the German airport, came from Russia The armed drone found at Leipzig airport on Wednesday may…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T17:32:21.000Z"
+    },
+    {
+      "id": "c92580ace476",
+      "title": "Mexican influencer shot dead while streaming live on social media",
+      "summary": "César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver A popular Mexican influencer has been shot dead while doing a live…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T17:31:27.000Z"
+    },
+    {
+      "id": "c6e53e03c022",
+      "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
+      "summary": "Ukraine shoots down most drones but no ballistic missiles in overnight attack that mainly targeted civilian facilities Volodymyr Zelenskyy has blamed allies for not delivering ai…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
+      "source": "The Guardian World",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-05T16:41:02.000Z"
+    },
+    {
+      "id": "85dd0c8daffa",
+      "title": "Israel strikes southern Lebanon killing one and injuring 11",
+      "summary": "Hits on two towns among deadliest bombings since start of June ceasefire An Israeli airstrike in south Lebanon killed one person and injured 11, the Lebanese ministry of health s…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/israel-strikes-southern-lebanon-deadliest-ceasefire",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T16:34:58.000Z"
+    },
+    {
       "id": "22884828b51e",
       "title": "Head of drone manufacturer critically injured in car bomb in Russia",
       "summary": "Assassination attempt demonstrates Ukraine’s ability to continue clandestine operations deep inside Russian territory The head of a leading Russian drone manufacturer has been cr…",
@@ -48,16 +98,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-05T16:24:26.000Z"
-    },
-    {
-      "id": "9f187ea35076",
-      "title": "Middle East crisis live: Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry",
-      "summary": "Joint announcement for geographic coordinates being finalised, says spokesperson, adding that it would not guarantee security in waterway The ⁠geographic coordinates for a shippi…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T16:22:28.000Z"
     },
     {
       "id": "2de7a0a22aca",
@@ -81,8 +121,8 @@
     },
     {
       "id": "6a3d5199ab20",
-      "title": "AI models shock UK testers by using fake identities to trick developers",
-      "summary": "AI Security Institute says models by OpenAI and Anthropic went rogue during a cybersecurity test and showed a new type of risk Advanced artificial intelligence models have stunne…",
+      "title": "AI models shock UK testers by using fake identities to try to trick developers",
+      "summary": "AI Security Institute says OpenAI and Anthropic models went rogue during a cybersecurity test and showed a new type of risk Explainer: Should we be alarmed at AI models going rog…",
       "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
       "source": "The Guardian Technology",
       "category": "AI",
@@ -188,16 +228,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-05T14:31:03.000Z"
-    },
-    {
-      "id": "8da4674c5a64",
-      "title": "The events at Ceuta ​show ​how Europe’s ​hard ​right ​now ​set the ​tone​ on immigration",
-      "summary": "The narratives of the right are seeping into mainstream EU policy, and Spain finds itself increasingly isolated in its humanitarian stance on borders • Don’t get This Is Europe d…",
-      "url": "https://www.theguardian.com/world/2026/aug/05/the-events-at-ceuta-show-how-europes-hard-right-now-set-the-tone-on-immigration",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T14:30:21.000Z"
     },
     {
       "id": "4457e267ba23",
@@ -448,16 +478,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-05T13:54:12.000Z"
-    },
-    {
-      "id": "c6e53e03c022",
-      "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
-      "summary": "Ukraine shoots down most drones but no ballistic missiles in overnight attack that mainly targeted civilian facilities Europe live – latest updates Volodymyr Zelenskyy has blamed…",
-      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T13:47:16.000Z"
     },
     {
       "id": "1b40bc06c33c",
@@ -730,6 +750,16 @@
       "publishedAt": "2026-08-04T23:34:17.000Z"
     },
     {
+      "id": "e891a70d0213",
+      "title": "AI-generated stories rated better quality than human-written ones, study finds",
+      "summary": "Researcher says simpler writing by AI is easier to read and digest, but this does not mean human authors are obsolete From Homer’s Odyssey to Agatha Christie’s crime fiction, hum…",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-04T23:01:03.000Z"
+    },
+    {
       "id": "05ada88f5052",
       "title": "Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made – as it happened",
       "summary": "This live blog is now closed. US and Qatar report progress on Iran ceasefire and reopening Hormuz strait Iran and Oman have made progress toward a deal to reopen the strait of Ho…",
@@ -798,16 +828,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-04T17:21:33.000Z"
-    },
-    {
-      "id": "bc3318069861",
-      "title": "US and Qatar report progress on Iran ceasefire and reopening Hormuz strait",
-      "summary": "Optimism echoes Trump’s claims on Monday that deal is close as mediators say they are exchanging proposals Middle East crisis live – latest updates US and Qatari officials have s…",
-      "url": "https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T17:19:58.000Z"
     },
     {
       "id": "76cbff6c9614",
@@ -910,16 +930,6 @@
       "publishedAt": "2026-08-04T10:41:57.000Z"
     },
     {
-      "id": "83c4b754b955",
-      "title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
-      "summary": "Luis Carlos Rúa revealed himself to be Elefante blanco just three days before election for ‘his own safety’. Now he is tackling graft from senate floor When 102 senators were swo…",
-      "url": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T10:00:47.000Z"
-    },
-    {
       "id": "53042f849068",
       "title": "UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland",
       "summary": "A Guardian investigation finds irrigation canals polluted with microplastics in Turkey, a major destination for UK waste • ‘Nobody cares’: Turkish farmers bear the burden of UK’s…",
@@ -1008,16 +1018,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-04T00:01:45.000Z"
-    },
-    {
-      "id": "7e983335d772",
-      "title": "‘This quarter was otherworldly’: Palantir earnings surge past expectations",
-      "summary": "Shares soar as yearly revenue up 93%, even as opposition grows to company’s role in Trump immigration agenda In a sea of companies reporting mixed financial results this quarter,…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/palantir-second-quarter-earnings",
-      "source": "The Guardian Technology",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-03T23:09:20.000Z"
     },
     {
       "id": "14839091bb4c",
