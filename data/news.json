@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T14:58:15.761Z",
+  "updatedAt": "2026-08-05T16:48:19.234Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,86 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "22884828b51e",
+      "title": "Head of drone manufacturer critically injured in car bomb in Russia",
+      "summary": "Assassination attempt demonstrates Ukraine’s ability to continue clandestine operations deep inside Russian territory The head of a leading Russian drone manufacturer has been cr…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T16:26:40.000Z"
+    },
+    {
+      "id": "89b33e1e08ae",
+      "title": "Bomb disposal robot deployed after drone carrying explosives found at German airport",
+      "summary": "Counter-terror team investigating after DHL plane also collided midair with unknown object at Leipzig airport German police deployed a bomb disposal robot after a drone carrying…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
+      "source": "The Guardian World",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-05T16:24:26.000Z"
+    },
+    {
+      "id": "9f187ea35076",
+      "title": "Middle East crisis live: Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry",
+      "summary": "Joint announcement for geographic coordinates being finalised, says spokesperson, adding that it would not guarantee security in waterway The ⁠geographic coordinates for a shippi…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T16:22:28.000Z"
+    },
+    {
+      "id": "2de7a0a22aca",
+      "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – as it happened",
+      "summary": "German state prosecutors including units working on extremism and terrorism prevention take over investigation into Leipzig incident For what it’s worth, DHL Group CEO Tobias Mey…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T15:40:56.000Z"
+    },
+    {
+      "id": "f2636c7bd352",
+      "title": "人贩子“梅姨”真实姓名曝光",
+      "summary": "8月5日晚，“梅姨”案中被拐儿童钟彬告诉记者，他终于知道了那个曾被称为“梅姨”的人贩子的真实姓名一一谢家梅。他说，自己前两天收到了法院的告知书，案件已进入审查起诉环节，上面明确写着“嫌疑人谢家梅涉及拐卖儿童”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672661.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T15:20:00.000Z"
+    },
+    {
+      "id": "6a3d5199ab20",
+      "title": "AI models shock UK testers by using fake identities to trick developers",
+      "summary": "AI Security Institute says models by OpenAI and Anthropic went rogue during a cybersecurity test and showed a new type of risk Advanced artificial intelligence models have stunne…",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-05T15:15:05.000Z"
+    },
+    {
+      "id": "ff9cf0a7fc57",
+      "title": "Nearly 1,500 properties bought using Australia’s first home buyers' 5% deposit scheme converted into investments",
+      "summary": "New data shows the federal government scheme has been used by high-income borrowers, including one couple earning an annual $674,000 Get our breaking news email , free app or dai…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/first-home-buyers-deposit-scheme-investment-property",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T15:00:23.000Z"
+    },
+    {
+      "id": "4069a3a4b31a",
+      "title": "‘Just an easy cash grab’: why Jetstar is charging customers for carry-on luggage",
+      "summary": "Add-on fees such as the new overhead locker baggage charge can make it harder to compare air fares, experts say Get our breaking news email , free app or daily news podcast Cut-p…",
+      "url": "https://www.theguardian.com/business/2026/aug/06/why-is-jetstar-charging-customers-for-carry-on-luggage",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T15:00:21.000Z"
+    },
     {
       "id": "4f36f9dffeee",
       "title": "让渔民当“群演”，菲律宾的海上闹剧演给谁看",
@@ -70,16 +150,6 @@
       "publishedAt": "2026-08-05T14:41:07.000Z"
     },
     {
-      "id": "9f187ea35076",
-      "title": "Middle East crisis live: Israel resumes Lebanon strikes as US-Iran Hormuz stand-off continues",
-      "summary": "IDF had issued warning to inhabitants of southern Lebanese village to flee homes before striking There is a “50-50” chance that Iran and Oman will reach a deal to reopen the stra…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T14:40:03.000Z"
-    },
-    {
       "id": "c76d851b9f77",
       "title": "香港一女子虐待患病幼子致死 获刑22年",
       "summary": "中新网香港8月5日电 (记者 戴小橦)香港高等法院5日宣判一起虐童致死案件，一名38岁女子因长期残酷虐待患有发展迟缓疾病的5岁亲生儿子，致使幼童最终因重度营养不良引发并发症死亡。被告早前承认误杀、虐儿两项罪名，法院当庭判处其监禁22年。",
@@ -98,16 +168,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-05T14:38:09.000Z"
-    },
-    {
-      "id": "2de7a0a22aca",
-      "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – Europe live",
-      "summary": "German state prosecutors including units working on extremism and terrorism prevention take over investigation into Leipzig incident For what it’s worth, DHL Group CEO Tobias Mey…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T14:35:41.000Z"
     },
     {
       "id": "5e0573923920",
@@ -360,16 +420,6 @@
       "publishedAt": "2026-08-05T14:03:25.000Z"
     },
     {
-      "id": "82f8ab3c1c70",
-      "title": "西藏拉萨打通虫草标准化外贸通道 出口货值达850万元",
-      "summary": "中新社拉萨8月5日电 (记者 江飞波)西藏自治区拉萨市商务局5日披露，拉萨打通冬虫夏草标准化外贸通道，破解了长期以来依赖邮政小包零散邮寄的出口难题。自2025年11月以来，已实现批量规模化出口货值850万元(人民币，下同)，主要销往香港及东南亚地区。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672612.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T14:03:15.000Z"
-    },
-    {
       "id": "620e37772a9e",
       "title": "Darth Vader to become a TikTok star as Disney strikes deal on short video",
       "summary": "Characters and memorable scenes from back catalogue made available to group of creator fans The likes of Darth Vader, Spider-Man and Moana are about to become TikTok stars for th…",
@@ -408,36 +458,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-05T13:47:16.000Z"
-    },
-    {
-      "id": "89b33e1e08ae",
-      "title": "Bomb disposal robot deployed after drone carrying explosives found at German airport",
-      "summary": "Counter-terror team investigating after DHL plane also collided midair with unknown object at Leipzig airport Europe live – latest updates German police deployed a bomb disposal…",
-      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
-      "source": "The Guardian World",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-05T13:47:09.000Z"
-    },
-    {
-      "id": "22884828b51e",
-      "title": "Head of drone manufacturer critically injured in car bomb in Russia",
-      "summary": "Assassination attempt demonstrates Ukraine’s ability to continue clandestine operations deep inside Russian territory Europe live – latest updates The head of a leading Russian d…",
-      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T12:10:21.000Z"
-    },
-    {
-      "id": "6a3d5199ab20",
-      "title": "AI models shock UK testers by using stolen identities to trick developers",
-      "summary": "AI Security Institute says models by OpenAI and Anthropic went rogue during a cybersecurity test and showed a new type of risk Advanced AI models developed by OpenAI and Anthropi…",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-05T12:04:21.000Z"
     },
     {
       "id": "1b40bc06c33c",
@@ -588,26 +608,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-05T07:46:42.000Z"
-    },
-    {
-      "id": "56231550bb1f",
-      "title": "NSW police charge woman with 62 offences over alleged threatening letters – as it happened",
-      "summary": "This blog has now closed Alan Jones trial: live updates Get our breaking news email , free app or daily news podcast Almost every house sold in first six months of the year made…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T07:34:47.000Z"
-    },
-    {
-      "id": "6852f7d01365",
-      "title": "Daniel Andrews defends actions as opposition labels Labor ‘a gangster government’ after Ibac report released",
-      "summary": "Victorian corruption watchdog finds ‘serious and concerning’ conduct by senior Andrews government members in dealings with union boss Follow our Australia news live blog for late…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/ibac-report-daniel-andrews-victoria-government-firefighter-union-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T07:26:12.000Z"
     },
     {
       "id": "3e8f45434fe1",
