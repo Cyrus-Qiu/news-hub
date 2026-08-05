@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T23:35:15.026Z",
+  "updatedAt": "2026-08-05T00:59:39.124Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,256 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "907e3c7dfef8",
+      "title": "暑期出境游升温 北京边检：警惕“境外赚快钱”骗局",
+      "summary": "暑期出境游升温，北京边检提示——警惕“境外赚快钱”骗局",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672102.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:47:07.000Z"
+    },
+    {
+      "id": "7caa267a0a3e",
+      "title": "电子证照如何守护外卖食品安全",
+      "summary": "(政策解读·问答)",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672101.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:46:21.000Z"
+    },
+    {
+      "id": "7a5f0fa0b881",
+      "title": "工人讲给工人听 奋斗故事零距离",
+      "summary": "河南工会把宣讲讲台搬到火热的生产一线",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672100.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:46:11.000Z"
+    },
+    {
+      "id": "56231550bb1f",
+      "title": "Australia news live: Ben Carroll grilled about involvement in Victorian leadership spill",
+      "summary": "Follow today’s news live Alan Jones trial: live updates Get our breaking news email , free app or daily news podcast Almost every house sold in first six months of the year made…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T00:43:13.000Z"
+    },
+    {
+      "id": "bf172522ce8d",
+      "title": "国内航线燃油附加费再下调 暑期出行迎来高峰",
+      "summary": "今日(5日)起销售的国内航线机票燃油附加费再次下调。调整后的国内航线燃油附加费标准为：800公里以上航线每位成人旅客收取70元燃油附加费，800公里(含)以下航线每位成人旅客收取40元燃油附加费。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672098.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:31:06.000Z"
+    },
+    {
+      "id": "3f7f910b6533",
+      "title": "大道行天下｜“以天下之利为利”——中国元首外交的世界情怀与大国气派",
+      "summary": "【编者按】百年变局加速演进，元首外交指引方向。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672097.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:24:36.000Z"
+    },
+    {
+      "id": "fa37808bf3fd",
+      "title": "瓜子水饺也“威胁美国”？｜真相",
+      "summary": "一把瓜子，能嗑掉美国安全吗？一盘水饺，能煮穿美国供应链吗？近日，美国国土安全部又把40余家中国实体塞进所谓“维吾尔强迫劳动预防法”实体清单，洽洽瓜子、思念水饺、七匹狼等消费者熟悉的品牌赫然在列。照这个逻辑，中国人穿件衣服、嗑把瓜子、吃顿水饺，都可能成为美国眼中的“安全威胁”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672079.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:23:07.000Z"
+    },
+    {
+      "id": "0cffa927f859",
+      "title": "习近平总书记引领“十五五”开局之年中国经济破浪前行",
+      "summary": "原标题：为实现全年发展目标任务夯实基础",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672095.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:18:39.000Z"
+    },
+    {
+      "id": "6852f7d01365",
+      "title": "Daniel Andrews’ government engaged in ‘concerning’ conduct but no evidence of firefighter union blackmail: Ibac report",
+      "summary": "Anti-corruption watchdog’s long-awaited report finds ‘serious and concerning’ conduct by senior government members in dealings with union boss Senior members of the former Daniel…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/05/ibac-report-daniel-andrews-victoria-government-firefighter-union-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T00:17:25.000Z"
+    },
+    {
+      "id": "03abb62c2c99",
+      "title": "泰国潮州会馆举办电影《给阿嬷的情书》专场放映活动",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-05/1200130.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:16:11.000Z"
+    },
+    {
+      "id": "f14fdcccd8ea",
+      "title": "今年第14号台风“鲸鱼”于今天凌晨生成 强度变化不大",
+      "summary": "中国天气网讯 今年第14号台风“鲸鱼”(热带风暴级；英文名称：Kujira；名字来源：日本；名称意义：鲸鱼星座)于8月5日凌晨2点钟在南海中东部海面生成，早晨5点钟其中心位于菲律宾马尼拉北偏西方向约305公里的海面上，就是北纬17.1度、东经119.8度，中心附近最大风力有8级(18米/秒)，中心最低气压为998百帕，7级风圈半径为100-120公里。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672093.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:13:17.000Z"
+    },
+    {
+      "id": "7e47d797f92a",
+      "title": "陕西湖北等地有较强降水 东北地区华北等地有强对流天气",
+      "summary": "中新网8月5日电 据中央气象台网站5日消息，昨日，广西、湖南、湖北、陕西等地出现强降雨；江南、黄淮、华北等地出现高温天气。预计未来三天，陕西、湖北、湖南、云南、黑龙江等地部分地区有较强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝；河南、湖北等地有强对流天气，需防范局地雷暴大风或冰雹等强对流天气对交通、城市运行、户外活动等的不利影响；关注新疆…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672092.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:11:37.000Z"
+    },
+    {
+      "id": "004a9553b48d",
+      "title": "旅美大熊猫“宝力”迎来五周岁生日",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-05/1200121.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:08:45.000Z"
+    },
+    {
+      "id": "fcee10fc6a81",
+      "title": "什么是高危端口？网警揭秘涉校园网络安全案细节",
+      "summary": "今年以来，公安机关网安部门聚焦“高危端口、高危漏洞、弱口令”等突出安全隐患，持续推进网络与数据安全源头治理，依法督促网络运营者落实主体责任，切实防范重大网络数据安全风险。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672089.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:03:10.000Z"
+    },
+    {
+      "id": "3d7d0bb43154",
+      "title": "火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？",
+      "summary": "BBC俄語取得的法庭文件顯示，多次有指控稱，指揮官將在烏克蘭受傷的士兵重新送回戰場，而非按照法律要求安排他們接受醫療評估。",
+      "url": "https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:03:04.000Z"
+    },
+    {
+      "id": "01255b74b40e",
+      "title": "施壓日本、探測美國反應：中國在東海新設施釋放哪些信息？",
+      "summary": "日本抗議中國在東海新設構造物；剛出爐的防衛白皮書指中國為「前所未有最大戰略挑戰」。分析人士懷疑北京是否藉灰色地帶策略試探美國對印太盟友的承諾。",
+      "url": "https://www.bbc.com/zhongwen/articles/ckgv49zxy2zo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:02:45.000Z"
+    },
+    {
+      "id": "ff91a026aa40",
+      "title": "BBC專訪金明日：「我雖然自由了，但實際上也有很大的負擔」",
+      "summary": "中國錫安教會創辦人及主任牧師獲釋一個月，接受了BBC中文的專訪。",
+      "url": "https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:02:37.000Z"
+    },
+    {
+      "id": "950df25e69f7",
+      "title": "40亿次刷屏！“Chinamaxxing”，全球出圈！",
+      "summary": "一个热词正在国外媒体和社交平台迅速传播：Chinamaxxing。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672086.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T00:00:12.000Z"
+    },
+    {
+      "id": "e490ec65bc0d",
+      "title": "将办公软件变为娱乐道具 “乱讲PPT”解锁社交新方式",
+      "summary": "将办公软件变为娱乐道具 用轻松幽默甚至“无厘头”方式解读荒诞主题",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672085.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:54:25.000Z"
+    },
+    {
+      "id": "580d30748534",
+      "title": "人这一辈子，一定要去一趟大盘鸡的故乡！",
+      "summary": "近日",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672084.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:51:17.000Z"
+    },
+    {
+      "id": "7a8ed786798f",
+      "title": "我国科学家获空间科学应用领域国际大奖",
+      "summary": "科技日报讯 (记者付丽丽)当地时间8月3日，在意大利佛罗伦萨举办的第46届国际空间研究委员会(COSPAR)科学大会上，中国气象局王劲松研究员荣获威廉·诺德伯格奖章。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672082.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:50:17.000Z"
+    },
+    {
+      "id": "97d28d2b19c3",
+      "title": "美利坚，“撤”就一个字",
+      "summary": "中新网8月5日电(魏晨曦)据路透社4日援引知情人士消息，美国国务院已通知国会，计划关闭位于日本、加拿大、印度尼西亚、喀麦隆和格林纳达的5处海外外交机构。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672083.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:49:47.000Z"
+    },
+    {
+      "id": "9d2c9cda047c",
+      "title": "收回出租房屋时哪些是自然损耗如何恢复原状？法官提示",
+      "summary": "收回出租房屋时哪些是自然损耗如何恢复原状",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672081.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:48:35.000Z"
+    },
+    {
+      "id": "386c13009ab7",
+      "title": "‘Did you send that report?’ The Icac bombshell that came late for Damien Tudehope",
+      "summary": "The former Liberal finance minister was questioned by Icac counsel assisting, Peggy Dwyer, on Tuesday Follow our Australia news live blog for latest updates Get our breaking news…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/05/did-you-send-that-report-the-icac-bombshell-that-came-late-for-damien-tudehope",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-04T23:34:51.000Z"
+    },
+    {
+      "id": "9eb0c87333c2",
+      "title": "警惕AI“自作主张”！规避使用风险这样做",
+      "summary": "“内部测试？不，我要去‘外面的世界’看看。”",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672077.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-04T23:34:18.000Z"
+    },
+    {
       "id": "a5cd9ccd3120",
       "title": "暴雨、强对流天气预警发布 陕西云南等地局地有大暴雨",
       "summary": "中新网8月5日电 据中央气象台网站消息，中央气象台8月5日6时发布暴雨蓝色预警和强对流天气蓝色预警。",
@@ -48,16 +298,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-08-04T23:31:20.000Z"
-    },
-    {
-      "id": "56231550bb1f",
-      "title": "Australia news live: Pocock says falling house prices a ‘good thing for our country’; Labor expands solar discount to commercial buildings",
-      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Almost every house sold in first six months of the year made a profit The vast majority of h…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T23:29:57.000Z"
     },
     {
       "id": "1e8bff6b8080",
@@ -150,16 +390,6 @@
       "publishedAt": "2026-08-04T22:45:42.000Z"
     },
     {
-      "id": "799d067e9f4f",
-      "title": "旅美大熊猫“宝力”迎来五周岁生日",
-      "summary": "中新社华盛顿8月4日电 (记者 沙晗汀)旅居华盛顿美国国家动物园的大熊猫“宝力”当地时间4日迎来五周岁生日。这是“宝力”在美国度过的第二个生日。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672067.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T22:41:23.000Z"
-    },
-    {
       "id": "1b14891bbabc",
       "title": "MI6 is top European foreign intelligence service, peer review finds",
       "summary": "UK’s Secret Intelligence Service praised for playing long game and having ‘a taste for dirty tricks’ MI6 has been ranked as the most powerful foreign intelligence service in Euro…",
@@ -180,16 +410,6 @@
       "publishedAt": "2026-08-04T22:35:47.000Z"
     },
     {
-      "id": "c8adaaf79f93",
-      "title": "8月5日新闻早报",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-05/10672065.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T22:31:22.000Z"
-    },
-    {
       "id": "05ada88f5052",
       "title": "Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made – as it happened",
       "summary": "This live blog is now closed. US and Qatar report progress on Iran ceasefire and reopening Hormuz strait Iran and Oman have made progress toward a deal to reopen the strait of Ho…",
@@ -200,114 +420,14 @@
       "publishedAt": "2026-08-04T22:13:58.000Z"
     },
     {
-      "id": "95572c10fb8d",
-      "title": "多重因素叠加 休达成欧洲移民危机“风暴眼”",
-      "summary": "根据西班牙内政大臣4日公布的最新数据，非法入境休达的人数约为7.2万人。其中，已有7万人遣返到摩洛哥。目前，仍有约2000名非法移民滞留休达。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672064.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T22:06:33.000Z"
-    },
-    {
-      "id": "f535c2fce9f6",
-      "title": "溶洞里品咖啡、泛舟苏州河 这个夏天有了更多避暑新玩法",
-      "summary": "目前正值暑期，各地精心打造消暑纳凉的文旅消费新场景，让市民游客尽享夏日清凉的同时，持续激发城乡消费活力。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672063.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T22:03:51.000Z"
-    },
-    {
-      "id": "74d50f540246",
-      "title": "汛期来袭 这五类网络谣言套路要小心！",
-      "summary": "汛期网络谣言极易引发群众恐慌，干扰一线防汛抢险救援与社会秩序。近日，公安部网安局结合工作实际，梳理出汛期高发的5类网络谣言，提醒广大网友认清谣言套路，自觉抵制虚假汛情信息。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672062.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T22:01:15.000Z"
-    },
-    {
-      "id": "083d36115d5f",
-      "title": "美国华盛顿州山火纵火嫌疑人被捕",
-      "summary": "美国西北部华盛顿州斯波坎县及周边地区正遭受三场山火炙烤，已有6万多人被要求撤离。该县治安官3日晚宣布，已逮捕一名关联其中一起山火的纵火嫌疑人。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672061.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T21:56:48.000Z"
-    },
-    {
-      "id": "39d7a078fda2",
-      "title": "新华时评｜日本“新型军国主义”危险图谋的再次暴露",
-      "summary": "新华社东京8月4日电 题：日本“新型军国主义”危险图谋的再次暴露",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672060.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T21:48:17.000Z"
-    },
-    {
-      "id": "0963694e9441",
-      "title": "新闻分析｜AI对网络安全的“双刃剑”效应日益凸显",
-      "summary": "新华社旧金山8月4日电 新闻分析｜AI对网络安全的“双刃剑”效应日益凸显",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672059.shtml",
-      "source": "中国新闻网",
+      "id": "716f57d203a4",
+      "title": "US stock market hits record highs as AI profits pile and oil prices ease",
+      "summary": "S&P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago The US stock market rallied to records on Tuesday as profits…",
+      "url": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
+      "source": "The Guardian Technology",
       "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-04T21:44:43.000Z"
-    },
-    {
-      "id": "f6004e7d1743",
-      "title": "英国司法大臣为囚犯提前释放争议政策致歉",
-      "summary": "中新社伦敦8月4日电 (记者 欧阳开宇)因英国囚犯提前释放政策引发广泛争议，英国司法大臣亚历克斯·诺里斯4日向受害人家属公开致歉，承认公众与受害者正在承担此前政策疏漏带来的后果。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672058.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T21:41:55.000Z"
-    },
-    {
-      "id": "efd3df740596",
-      "title": "哈萨克斯坦将扩大非资源类商品出口 中国为重点市场之一",
-      "summary": "中新社阿斯塔纳8月4日电 (记者 单璐)哈萨克斯坦贸易和一体化部部长沙卡利耶夫4日在政府会议上表示，哈萨克斯坦将扩大非资源类商品出口，中国是重点市场之一。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672057.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T21:41:01.000Z"
-    },
-    {
-      "id": "b0a80cf2fc42",
-      "title": "俄总统普京签署数字货币和数字权利监管法律",
-      "summary": "中新社莫斯科8月4日电 俄罗斯总统普京4日签署对俄数字货币和数字权利进行全面监管的法律。相关文件已在俄法律信息网站发布。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672056.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T21:39:59.000Z"
-    },
-    {
-      "id": "d7ed15cbf6ef",
-      "title": "香港教师冀与内地共同培养复合型人才",
-      "summary": "中新社北京8月4日电 (徐雪莹 金志成)“长期以来，香港的高等院校侧重基础理论与学术研究，内地科创体系擅长应用转化。”香港圣芳济书院教师胡栢麟4日受访时表示，期待两地多交流，共同培养复合型人才。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-05/10672055.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T21:38:59.000Z"
-    },
-    {
-      "id": "6fad268ed68d",
-      "title": "韩国通过法案全面取消检察机关侦查权",
-      "summary": "中新社首尔8月5日电 (记者 金旭)当地时间4日，韩国政府召开由总统李在明主持的国务会议，审议并通过《刑事诉讼法》修正案，全面取消检察机关直接侦查和补充侦查的权限。这意味着韩国延续70余年的刑事司法体系将迎来重大变革。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672054.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T21:38:19.000Z"
+      "language": "en",
+      "publishedAt": "2026-08-04T20:56:59.000Z"
     },
     {
       "id": "60796e5aab96",
@@ -410,34 +530,14 @@
       "publishedAt": "2026-08-04T15:20:21.000Z"
     },
     {
-      "id": "6b7b456aeceb",
-      "title": "闽澳高层会晤暨闽澳合作会议第五次会议在福州举行",
-      "summary": "中新社福州8月4日电 (记者 闫旭)闽澳高层会晤暨闽澳合作会议第五次会议4日在福州举行。《闽澳高层会晤暨闽澳合作会议第五次会议合作备忘录》以及旅游、闽企出海、青年发展、文化交流、医疗卫生、人才培养等领域的相关合作协议、备忘录在会上签署。",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-04/10672053.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T15:02:30.000Z"
-    },
-    {
-      "id": "386c13009ab7",
-      "title": "‘Did you send that report?’ The Icac bombshell that came late for Damien Tudehope",
-      "summary": "The former Liberal finance minister was questioned by Icac counsel assisting, Peggy Dwyer, on Tuesday Follow our Australia news live blog for latest updates Get our breaking news…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/did-you-send-that-report-the-icac-bombshell-that-came-late-for-damien-tudehope",
-      "source": "The Guardian World",
-      "category": "财经",
+      "id": "76cbff6c9614",
+      "title": "David Ellison claims opposition to his mega-merger stems from potential CNN control",
+      "summary": "With $111bn deal to acquire cable network’s parent company stalled in courts, Ellison courts public Speaking out on the lawsuit against the big merger between Paramount Skydance…",
+      "url": "https://www.theguardian.com/business/2026/aug/04/cnn-mega-merger-david-ellison",
+      "source": "The Guardian Business",
+      "category": "商业",
       "language": "en",
-      "publishedAt": "2026-08-04T15:00:05.000Z"
-    },
-    {
-      "id": "589ae98483f1",
-      "title": "Vandalism of Melbourne defence manufacturer being investigated as terrorist act by ‘far-left extremists’",
-      "summary": "Federal police say those who vandalised a defence manufacturer and torched nearby cars could face life imprisonment Follow our Australia news live blog for latest updates Get our…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/melbourne-anti-weapons-protest-terrorism-investigation-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T15:00:04.000Z"
+      "publishedAt": "2026-08-04T15:05:47.000Z"
     },
     {
       "id": "fa46b7c3552c",
@@ -448,66 +548,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-04T15:00:03.000Z"
-    },
-    {
-      "id": "1c6a0e1d211b",
-      "title": "女演员带孩子看电影，孩子兴奋叫出声，散场后被观众淋奶油",
-      "summary": "中新网8月4日电 据香港星岛头条、香港01报道，日前，34岁香港女星陈凯琳带三个儿子看电影《蜘蛛侠：崭新之日》，但有网友指出，孩子不断大声交谈、嬉笑及尖叫。散场时更有人疑因不满，向陈凯琳儿子的头部直接淋奶油。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-04/10672050.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:47:07.000Z"
-    },
-    {
-      "id": "5ebb89e29cc0",
-      "title": "我国加快构建绿色低碳电力供给格局",
-      "summary": "央视新闻客户端消息(新闻联播)：《新型电力系统建设“十五五”规划》今天(8月3日)发布，规划提出，到2030年，我国将基本形成绿色低碳的电力供给格局，为经济社会发展提供坚实能源保障。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10672051.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:31:44.000Z"
-    },
-    {
-      "id": "ea0fe5555a64",
-      "title": "从破题到奔向万亿，上半年上海三大先导产业制造业产值同比增长14.5%",
-      "summary": "产业是时间的故事，人工智能更是与时间赛跑。2022世界人工智能大会(WAIC 2022)上，上海世博中心竖起一幅描绘AI的巨幅画卷，由中央美院教授执笔；4年后的今天，同样的画卷已交由大模型生成。时间的笔触，悄然换挡。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10672049.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:27:34.000Z"
-    },
-    {
-      "id": "661796ac608f",
-      "title": "伊朗拟管控霍尔木兹海峡进港航运 与阿曼协商通航计划",
-      "summary": "中新社北京8月4日电 据多家媒体8月4日报道，伊朗目前正在与阿曼商讨一项旨在重新开放霍尔木兹海峡的通航计划。根据该方案，伊朗希望管控经由霍尔木兹海峡的进港航运，同步掌握出港船只通行动态，保留随时实施干预的权力。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-04/10672045.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:24:52.000Z"
-    },
-    {
-      "id": "894a72d2b155",
-      "title": "两岸青年探访大熊猫“圆圆”“娘家 ” AI共创短视频",
-      "summary": "中新社福州8月4日电 (记者 闫旭)大陆赠台大熊猫“团团”“圆圆”，受到来自金门大学的“熊猫迷”王纪新的喜爱。“这里是‘圆圆’的母亲‘雷雷’生活过的地方，让我觉得特别亲切。”4日在海峡(福州)熊猫世界受访时，王纪新如是说。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10672044.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:23:38.000Z"
-    },
-    {
-      "id": "4fe8d1d81411",
-      "title": "年中经济观察丨多方合力 广西横州茉莉花产业链灾后突围",
-      "summary": "今年上半年，我国农业自然灾害呈现“面上偏轻、局部偏重”态势，涝重于旱。农业生产在挑战中承压，也在承压中展现出强大的韧性。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672047.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-04T14:23:36.000Z"
     },
     {
       "id": "1376faa32511",
@@ -880,16 +920,6 @@
       "publishedAt": "2026-08-03T08:34:06.000Z"
     },
     {
-      "id": "29655afd30e4",
-      "title": "為何我不後悔20多歲就選擇結紮？",
-      "summary": "隨着愈來愈多年輕男性接受輸精管結紮手術，BBC訪問了兩名親身經歷者，了解他們為何選擇接受這項手術。",
-      "url": "https://www.bbc.com/zhongwen/articles/cpw91e718vzo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-03T08:23:44.000Z"
-    },
-    {
       "id": "6455622c5219",
       "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
       "summary": "Soaring temperatures continue to sweep parts of Europe, while Okinawa faces powerful winds and storm surges Europe live – latest updates Unbearable, record-breaking heat has domi…",
@@ -920,16 +950,6 @@
       "publishedAt": "2026-08-03T08:00:45.000Z"
     },
     {
-      "id": "92ed6a40e407",
-      "title": "Greens senator brands Pauline Hanson a ‘political coward’ over press conference bans – as it happened",
-      "summary": "This blog is now closed Angus Taylor and Anthony Albanese on leave this week The opposition leader, Angus Taylor, is on leave for most of this week, his office has announced, wit…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-03T07:59:47.000Z"
-    },
-    {
       "id": "b67838872d02",
       "title": "Why has Trump stepped in to prop up Japan’s currency?",
       "summary": "The US has bought up yen to strengthen the currency for the first time in almost 30 years, with the moves raising questions about America’s motives The US has launched a bid to p…",
@@ -938,16 +958,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-03T04:45:51.000Z"
-    },
-    {
-      "id": "53727f08fde3",
-      "title": "美日罕有聯手干預匯市，圖阻日圓跌至40年來新低",
-      "summary": "兩國均表示，未來如有需要，將毫不猶豫再次採取聯合干預行動。",
-      "url": "https://www.bbc.com/zhongwen/articles/cj4kykyvnlko/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-03T03:46:57.000Z"
     },
     {
       "id": "1e1eb1ed5ea3",
@@ -968,26 +978,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-03T00:01:11.000Z"
-    },
-    {
-      "id": "0a8bb52cfa32",
-      "title": "Britain could face food shortages as drought continues, farmers warn",
-      "summary": "Farmers battle to salvage what they can of their crops as heatwave set to continue Britain could face shortages of certain foods after punishing drought in parts of England, the…",
-      "url": "https://www.theguardian.com/environment/2026/aug/02/britain-food-shortages-drought-continues-farmers",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-02T16:54:07.000Z"
-    },
-    {
-      "id": "556620c36ee8",
-      "title": "House prices slide across Australia as Middle East conflict and tax changes begin to bite",
-      "summary": "Cotality data shows a drop in Brisbane, Adelaide and Perth, as nation’s median home price falls about $19,000 below its March peak Follow our Australia news live blog for latest…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/03/house-prices-slide-across-australia-as-middle-east-conflict-and-tax-changes-begin-to-bite",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-02T14:01:23.000Z"
     },
     {
       "id": "4e8e9ac711d6",
@@ -1140,16 +1130,6 @@
       "publishedAt": "2026-08-01T09:56:01.000Z"
     },
     {
-      "id": "c78467d05c3e",
-      "title": "‘It ain’t the same’: inside the bitter battle to free Ben & Jerry’s",
-      "summary": "Ben Cohen says his ice-cream company has been silenced by corporate ownership – and a boycott of Magnum brands could force a sale Ben & Jerry’s ice-cream in the tub is still grea…",
-      "url": "https://www.theguardian.com/business/2026/jul/31/ben-jerrys-ice-cream-magnum-boycott",
-      "source": "The Guardian Business",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-07-31T18:48:22.000Z"
-    },
-    {
       "id": "304bc55db3f6",
       "title": "Washington Post’s opinion editor resigns after just one year in role",
       "summary": "Adam O’Neal did not give reason for his departure at end of August in another major shakeup at US publication The Washington Post had realized a state of relative calm in the fiv…",
@@ -1168,6 +1148,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-07-31T16:29:14.000Z"
+    },
+    {
+      "id": "0042a3650916",
+      "title": "BTS are back: return of K-pop superstars sparks US economic boom",
+      "summary": "Cities in North America hosting 14 concerts in August and September – and economic impact is set to be significant BTS’s “Army” fanbase is descending on New York this weekend as…",
+      "url": "https://www.theguardian.com/music/2026/jul/31/bts-k-pop-economic-boom",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-07-31T12:00:12.000Z"
     },
     {
       "id": "b8c1290c655e",
@@ -1228,6 +1218,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-07-28T09:00:35.000Z"
+    },
+    {
+      "id": "f1c41a01c494",
+      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
+      "summary": "美國與伊朗的戰爭正好發生在常被稱為「戴維森窗口」的時間點之前。在部分美軍事規劃者眼中，中國在此期間對台灣發動入侵的可能性會升高。",
+      "url": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ]
 }
