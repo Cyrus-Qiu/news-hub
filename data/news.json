@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T20:36:51.621Z",
+  "updatedAt": "2026-08-05T21:51:55.671Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,56 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "db5cd9dbb188",
+      "title": "Australia news live: NSW man charged over alleged threats of violence against female MP",
+      "summary": "Police allege man issued threats on social media to find woman and hurt her. Follow today’s news live Get our breaking news email , free app or daily news podcast Ebikes to face…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T21:38:38.000Z"
+    },
+    {
+      "id": "bc05b2946d47",
+      "title": "泰国上半年大米出口量下降18.81%",
+      "summary": "中新社曼谷8月5日电 (记者 李映民)泰国商务部对外贸易厅5日通报称，2026年上半年，泰国大米出口量为328万吨，比上年同期下降18.81%。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672664.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T21:10:32.000Z"
+    },
+    {
+      "id": "1d66cd435cfc",
+      "title": "《给阿嬷的情书》印尼首映 潮汕乡音唤起华裔观众祖辈记忆",
+      "summary": "中新社雅加达8月5日电 (记者 李志全)电影《给阿嬷的情书》5日晚在印度尼西亚雅加达举行首映礼，引发当地华侨华人及印尼观众共鸣。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672663.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T21:08:54.000Z"
+    },
+    {
+      "id": "36dff5ca2377",
+      "title": "台风“鲸鱼”来袭 菲律宾多地停工停课",
+      "summary": "中新社马尼拉8月5日电 (记者 周璟)受今年第14号台风“鲸鱼”及西南季风叠加影响，菲律宾多地5日遭遇强降雨和强风天气。菲律宾总统府宣布，自当日15时起，大马尼拉地区以及吕宋岛中部和北部多省政府机构停工、学校停课。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672662.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T21:06:40.000Z"
+    },
+    {
+      "id": "89b33e1e08ae",
+      "title": "Drone carrying explosives at German airport marks ‘new level of danger’, says interior minister",
+      "summary": "Investigators treating incident as part of ‘professional hybrid threat scenario’, says Alexander Dobrindt Germany’s interior minister has warned that the discovery of a drone car…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T20:56:06.000Z"
+    },
     {
       "id": "9f187ea35076",
       "title": "Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry – as it happened",
@@ -120,16 +170,6 @@
       "publishedAt": "2026-08-05T16:26:40.000Z"
     },
     {
-      "id": "89b33e1e08ae",
-      "title": "Bomb disposal robot deployed after drone carrying explosives found at German airport",
-      "summary": "Counter-terror team investigating after DHL plane also collided midair with unknown object at Leipzig airport German police deployed a bomb disposal robot after a drone carrying…",
-      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
-      "source": "The Guardian World",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-05T16:24:26.000Z"
-    },
-    {
       "id": "2de7a0a22aca",
       "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – as it happened",
       "summary": "German state prosecutors including units working on extremism and terrorism prevention take over investigation into Leipzig incident For what it’s worth, DHL Group CEO Tobias Mey…",
@@ -162,7 +202,7 @@
     {
       "id": "ff9cf0a7fc57",
       "title": "Nearly 1,500 properties bought using Australia’s first home buyers' 5% deposit scheme converted into investments",
-      "summary": "New data shows the federal government scheme has been used by high-income borrowers, including one couple earning an annual $674,000 Get our breaking news email , free app or dai…",
+      "summary": "New data shows the federal government scheme has been used by high-income borrowers, including one couple earning an annual $674,000 Follow our Australia news live blog for lates…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/06/first-home-buyers-deposit-scheme-investment-property",
       "source": "The Guardian World",
       "category": "国际",
@@ -172,7 +212,7 @@
     {
       "id": "4069a3a4b31a",
       "title": "‘Just an easy cash grab’: why Jetstar is charging customers for carry-on luggage",
-      "summary": "Add-on fees such as the new overhead locker baggage charge can make it more difficult to compare air fares, experts say Get our breaking news email , free app or daily news podca…",
+      "summary": "Add-on fees such as the new overhead locker baggage charge can make it more difficult to compare air fares, experts say Follow our Australia news live blog for latest updates Get…",
       "url": "https://www.theguardian.com/business/2026/aug/06/why-is-jetstar-charging-customers-for-carry-on-luggage",
       "source": "The Guardian World",
       "category": "国际",
@@ -450,36 +490,6 @@
       "publishedAt": "2026-08-05T14:04:31.000Z"
     },
     {
-      "id": "16be8c3270aa",
-      "title": "中钢协：铁矿石市场新秩序正逐步构建",
-      "summary": "中新社北京8月5日电 中国钢铁工业协会5日发文表示，打造以人民币计价的铁矿石价格指数体系，为市场提供了除美元指数之外的重要价格参照，有利于提升价格形成的代表性和透明度。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672624.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T14:04:27.000Z"
-    },
-    {
-      "id": "d29bf4bff1a0",
-      "title": "广西钦州推进向海产业布局 深化与东盟跨境产供链合作",
-      "summary": "【东盟专线】广西钦州推进向海产业布局 深化与东盟跨境产供链合作",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672619.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T14:03:59.000Z"
-    },
-    {
-      "id": "8dbfd0bcdb09",
-      "title": "印度东北部雷击造成至少14人死亡",
-      "summary": "中新社北京8月5日电 据印度媒体5日报道，受季风雨季影响，印度东北部恰尔肯德邦多地4日发生雷击事件，造成至少14人死亡，另有多人受伤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672632.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T14:03:25.000Z"
-    },
-    {
       "id": "620e37772a9e",
       "title": "Darth Vader to become a TikTok star as Disney strikes deal on short video",
       "summary": "Characters and memorable scenes from back catalogue made available to group of creator fans The likes of Darth Vader, Spider-Man and Moana are about to become TikTok stars for th…",
@@ -612,7 +622,7 @@
     {
       "id": "30030b5eeba1",
       "title": "Chris Bowen vows to override Queensland and NT to force renewables-powered AI datacentres",
-      "summary": "Energy minister says Australian households and energy reliability will be protected by new federal legislation Get our breaking news email , free app or daily news podcast The en…",
+      "summary": "Energy minister says Australian households and energy reliability will be protected by new federal legislation Follow our Australia news live blog for latest updates Get our brea…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/05/chris-bowen-vows-to-override-queensland-and-nt-to-force-renewables-powered-ai-datacentres",
       "source": "The Guardian World",
       "category": "AI",
@@ -648,16 +658,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-05T07:50:14.000Z"
-    },
-    {
-      "id": "6f8fd0647288",
-      "title": "Test for Australia’s best laundry detergent sees Aldi and Omo tied for first place",
-      "summary": "In a Choice test of 48 products, the Aldi powder also came out on top for top loaders Get our breaking news email , free app or daily news podcast Consumer advocacy group Choice…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/test-for-australias-best-laundry-detergent-sees-aldi-and-omo-tied-for-first-place",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T07:46:42.000Z"
     },
     {
       "id": "3e8f45434fe1",
