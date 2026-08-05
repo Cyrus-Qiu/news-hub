@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T04:19:17.875Z",
+  "updatedAt": "2026-08-05T07:18:41.856Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,384 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "57b70da86089",
+      "title": "《制胜》收官！六集高燃名场面一次看够",
+      "summary": "思想解读类融媒体片",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672331.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T07:13:17.000Z"
+    },
+    {
+      "id": "99a516bf6f3b",
+      "title": "我国牵头的两项兽药残留检测方法国际标准发布",
+      "summary": "央视新闻客户端消息：记者今天从国家标准委了解到，国际标准化组织近日发布两项由我国牵头制定的兽药残留检测方法国际标准，分别为《鸡组织及鸡蛋 尼卡巴嗪标志物残留量的测定 液相色谱—串联质谱法》《肉、鱼及其制品 氟喹诺酮类药物残留量的测定 高效液相色谱—串联质谱法》。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672330.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T07:11:31.000Z"
+    },
+    {
+      "id": "7410e0b11848",
+      "title": "学习新语｜坚持党的全面领导和党中央集中统一领导",
+      "summary": "原标题：学习新语·铸魂强党｜坚持党的全面领导和党中央集中统一领导",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672328.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T07:08:25.000Z"
+    },
+    {
+      "id": "ae1b7f8455a1",
+      "title": "官方通报西安赛格商场坠亡事件",
+      "summary": "情况通报",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672327.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T07:07:57.000Z"
+    },
+    {
+      "id": "12fb12419bc5",
+      "title": "8月5日“农产品批发价格200指数”比昨天上升0.07个点",
+      "summary": "中新网8月5日电 据农业农村部网站消息，据农业农村部监测，8月5日“农产品批发价格200指数”为113.49，比昨天上升0.07个点，“菜篮子”产品批发价格指数为113.63，比昨天上升0.09个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为15.74元/公斤，比昨天下降0.2%；牛肉67.41元/公斤，与昨天持平；羊肉64.39元/公斤，比…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672322.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T07:07:53.000Z"
+    },
+    {
+      "id": "3023fd937827",
+      "title": "习近平经济思想指引中国经济高质量发展行稳致远",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672326.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T07:04:49.000Z"
+    },
+    {
+      "id": "14db5799ae75",
+      "title": "NSW Liberal leader says ‘leaking is never good’ but defers call on Tudehope’s fate until after Icac",
+      "summary": "Kellie Sloane reserves decision on shadow attorney general’s future as Reformer Jean-Claude Perrottet tells inquiry group signed up members to ‘dodgy’ branches Follow our Austral…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/05/nsw-liberal-leader-kellie-sloane-call-damien-tudehope-icac-leak-revelations-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T07:04:22.000Z"
+    },
+    {
+      "id": "6749e2498c7c",
+      "title": "驿站纳凉 洒水降温 多地配齐防暑物资为户外劳动者送清凉",
+      "summary": "据央视新闻客户端消息：今天，山东济南气象台继续发布高温红色预警信号，为应对持续高温天气，济南市加密道路洒水降温频次，配齐防暑物资，保证城市有序运行和一线劳动者作业安全。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672324.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T07:02:11.000Z"
+    },
+    {
+      "id": "097910039932",
+      "title": "7月以来印度季风灾害已致逾百人死亡",
+      "summary": "中新网8月5日电 据法新社5日报道，印度官方数据显示，自7月以来，季风降雨引发的洪水和山体滑坡已在印度造成超过100人死亡，数千人被迫撤离。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672323.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T07:01:51.000Z"
+    },
+    {
       "id": "56231550bb1f",
-      "title": "Australia news live: Bowen says nuclear advocates living in ‘fantasy world’; Leeser says funding won’t improve Naplan results",
+      "title": "Australia news live: Queensland’s deputy premier says meetings with Gina Rinehart were ‘about the weather’, not mining legislation",
       "summary": "Follow today’s news live Alan Jones trial: live updates Get our breaking news email , free app or daily news podcast Almost every house sold in first six months of the year made…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-05T04:09:09.000Z"
+      "publishedAt": "2026-08-05T07:00:12.000Z"
+    },
+    {
+      "id": "585bb8fe4489",
+      "title": "“哪吒”“八仙”为什么都在这里诞生？",
+      "summary": "成都同一座数字文创产业园，接连孵化出“哪吒”“八仙”等现象级动画影片。当地如何发挥产业集聚效应，助力初创团队持续打造爆款IP？",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-05/10672320.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:54:58.000Z"
+    },
+    {
+      "id": "5ad69be2bb5c",
+      "title": "2026年上半年重庆市进出口主要国别（地区）总值表(人民币值)",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672319.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:54:56.000Z"
+    },
+    {
+      "id": "a7ab552b163c",
+      "title": "2026年上半年重庆市进出口主要贸易方式表(人民币值)",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672318.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:51:50.000Z"
+    },
+    {
+      "id": "11fb54ac5318",
+      "title": "航行警告！南海部分海域进行军事训练 禁止驶入",
+      "summary": "中新网8月5日电 据中国海事局网站消息，三亚海事局发布航行警告，8月10日8时至8月14日18时，南海部分海域进行军事训练，禁止驶入。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672315.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:50:42.000Z"
+    },
+    {
+      "id": "7214ac2bde6f",
+      "title": "2026年上半年重庆市进出口总值表(人民币值)",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672317.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:48:34.000Z"
+    },
+    {
+      "id": "ddacdba483cf",
+      "title": "2025年01月-2026年06月广西进出口商品总值表(人民币值)",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672316.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:44:53.000Z"
+    },
+    {
+      "id": "ae924a402685",
+      "title": "“后备箱市集”：既要街头烟火气，也要长效发展路径",
+      "summary": "精细治理赋能“后备箱市集”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672314.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:41:17.000Z"
+    },
+    {
+      "id": "f055145fec96",
+      "title": "神二十一乘组与记者见面会5日在京举行",
+      "summary": "新华社快讯：中国航天员科研训练中心5日在京举行神二十一乘组与记者见面会，航天员张陆、武飞、张洪章返回地球后首次公开亮相。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672313.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:39:57.000Z"
+    },
+    {
+      "id": "7e3fe0818973",
+      "title": "强闯中国驻日使馆男子称“给其他人带来麻烦，深感后悔”",
+      "summary": "中新网8月5日电 据日本时事通信社报道，当地时间5日，关于村田晃大的羁押理由说明程序在日本东京地方法院进行。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672310.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:37:31.000Z"
+    },
+    {
+      "id": "085bc0fd9dd2",
+      "title": "多部门向新疆调拨中央抗旱物资 支持做好抗旱减灾工作",
+      "summary": "中新网8月5日电 据应急管理部网站消息，8月5日，应新疆维吾尔自治区防汛抗旱总指挥部请求，国家防总办公室、应急管理部会同国家粮食和储备局调拨抗旱水泵40台、发电机115台等中央抗旱物资，支持新疆做好抗旱减灾工作。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672308.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:36:51.000Z"
+    },
+    {
+      "id": "431b620c765c",
+      "title": "2026年国际皮划艇联合会桨板世界杯（中国苏州）金秋起桨",
+      "summary": "中新网北京8月5日电 记者5日从国家体育总局水上运动管理中心获悉，2026年国际皮划艇联合会桨板世界杯(中国苏州)将于10月5日至7日在江苏省苏州市环古城河举行。届时，来自世界各地的桨板选手将齐聚这座拥有2500多年历史的江南古城，在世界文化遗产大运河的重要河道上同场竞技。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-05/10672312.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:36:07.000Z"
+    },
+    {
+      "id": "8c27588aa028",
+      "title": "广东超百个镇街出现暴雨、大暴雨 最大降雨量达168.2毫米",
+      "summary": "中新网广州8月5日电 (记者 王坚)4日到5日早晨，广东多地持续强降雨，全省超百个镇街出现暴雨、大暴雨，全省最大降雨量达168.2毫米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672311.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:35:49.000Z"
+    },
+    {
+      "id": "3e8f45434fe1",
+      "title": "Video game maker EA bought by Saudi-led group for $55bn",
+      "summary": "Company acquired in deal involving Affinity Partners, a firm run by Donald Trump’s son-in-law Jared Kushner Electronic Arts, the maker of video games such as The Sims, Madden NFL…",
+      "url": "https://www.theguardian.com/games/2026/aug/05/video-game-maker-ea-bought-by-saudi-led-group",
+      "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-05T06:34:18.000Z"
+    },
+    {
+      "id": "c0d0f66de597",
+      "title": "“村BA”“村超”，“村字号”出圈背后的民生新图景",
+      "summary": "书写“民乐”与“民富”和谐共进",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672309.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:30:13.000Z"
+    },
+    {
+      "id": "d3a65d66f915",
+      "title": "中国国产科学级探测器实现天文成像 填补红外观测短板",
+      "summary": "中新社青海德令哈8月5日电 (记者 孙睿)在正于青海省海西蒙古族藏族自治州德令哈市举办的第二届人工智能赋能的天文学开放科学会议上，中山大学物理与天文学院副教授马斌团队5日集中发布中国新一代地基红外望远镜成套实拍观测成果，填补中国自主近红外天文观测空白。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672302.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:28:00.000Z"
+    },
+    {
+      "id": "74cbb741b805",
+      "title": "霍爾木茲海峽滯留船隻可能觸發海洋「超級傳播」事件",
+      "summary": "生物學家在一份新報告中警告，目前滯留於霍爾木茲海峽的船隻，當航運恢復正常後，可能把入侵物種帶往世界各地。",
+      "url": "https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:22:38.000Z"
+    },
+    {
+      "id": "c4a391220aec",
+      "title": "以高水平自主开放塑造发展新优势",
+      "summary": "【光明论坛】以高水平自主开放塑造发展新优势",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-05/10672301.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:17:50.000Z"
+    },
+    {
+      "id": "03b56e55f6cd",
+      "title": "“2026年8月12日地球将失去引力7秒，致万人死亡”？该说法系谣言！丨中新真探",
+      "summary": "中新网8月5日电 “2026年8月12日地球将失去引力7秒，致万人死亡”？该说法是借2026年8月12日将发生的日全食这一天文现象来制造恐慌。引力是天体质量的固有属性，只要地球质量不发生改变，引力就绝不可能凭空消失，哪怕是一秒钟。日全食是月球运行到太阳和地球之间，遮挡了太阳光，并不会对地球的引力场产生影响。这类末日预言是典型的网络谣言套路，希望大家保持理…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672261.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:16:42.000Z"
+    },
+    {
+      "id": "e246b307259d",
+      "title": "2026年第二届“朱子文化杯”海峡两岸（尤溪）青少年足球邀请赛开赛",
+      "summary": "中新网福建尤溪8月5日电 (雷朝良 吴振湖)2026年第二届“朱子文化杯”海峡两岸(尤溪)青少年足球邀请赛4日在福建省尤溪县拉开战幕。继首届赛事成功举办之后，本届赛事再度汇聚两岸青少年足球健儿，以球会友、共叙情谊。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-05/10672288.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:14:44.000Z"
+    },
+    {
+      "id": "12829944ce23",
+      "title": "田沁鑫话剧《明——明朝那些事儿》影像高清修复版全国首映",
+      "summary": "中新网北京8月5日电 (记者 应妮)16位明代帝王从光影中步出，一字排开，以通俗诙谐的姿态论起“明朝那些事儿”。作为2026“国话戏剧数字院线”展映季作品，话剧《明——明朝那些事儿》影像高清修复版日前在北京国话先锋智慧剧场首映。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-05/10672291.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:13:04.000Z"
+    },
+    {
+      "id": "5fb7745bd401",
+      "title": "扬州国资国企“十五五”开局见实见新 五维发力释放高质量发展强信号",
+      "summary": "中新网扬州8月5日电 (崔佳明 徐珊珊 )8月5日上午，扬州市国资委召开新闻发布会，围绕经济运行、国企改革、重大交通、文旅融合、住宅建设五大领域，通报市属国企上半年运营成效、“十五五”改革部署、重大项目进展、文旅融合及“好房子”标准等热点。扬州市国资委党委委员、副主任方敏主持发布会。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672298.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:12:16.000Z"
+    },
+    {
+      "id": "9da90ec55bc6",
+      "title": "浙江宁海举行2026国际华文童诗交流大会 童诗“牵手”世界",
+      "summary": "中新网宁波8月5日电 (刘子琳 郑璐璐)“我希望以诗为桥，让更多海外华裔少年读懂中国、记住宁海。”近日，2026国际华文童诗交流大会在浙江宁海举行。现场，宁海籍儿童文学作家、民盟盟员雪野分享童诗创作与传播经历时说。",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-05/10672296.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:12:00.000Z"
+    },
+    {
+      "id": "a3225ed5f58a",
+      "title": "上半年中国消协组织为消费者挽回经济损失4.47亿元",
+      "summary": "中新社北京8月5日电 (记者 刘亮)中国消费者协会(简称“中消协”)5日公布，2026年上半年全国消协组织共受理消费者投诉985928件，同比下降1.01%，解决567926件，为消费者挽回经济损失4.47亿元人民币。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672287.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-05T06:11:34.000Z"
+    },
+    {
+      "id": "47bb0c9f104f",
+      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+      "summary": "In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the ground Good morning. Last week, an estim…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T05:54:54.000Z"
+    },
+    {
+      "id": "c6e53e03c022",
+      "title": "Russian attack on Kyiv region kills at least 14 people, say Ukrainian authorities",
+      "summary": "Air raid alerts last for more than an hour as Moscow inflicts another heavy bombardment on Ukraine’s capital Russian strikes in and around Kyiv killed at least 14 people, ⁠injure…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T05:53:38.000Z"
+    },
+    {
+      "id": "6852f7d01365",
+      "title": "Daniel Andrews defends actions as opposition labels Labor ‘a gangster government’ after Ibac report released",
+      "summary": "Victorian corruption watchdog finds ‘serious and concerning’ conduct by senior Andrews government members in dealings with union boss Follow our Australia news live blog for late…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/05/ibac-report-daniel-andrews-victoria-government-firefighter-union-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T05:30:44.000Z"
+    },
+    {
+      "id": "eca664b33338",
+      "title": "月經週期：什麼是「黃體期變醜」？如何影響女性？",
+      "summary": "越來越多的女性在社群媒體上談論黃體期，但它究竟會對你產生什麼影響呢？",
+      "url": "https://www.bbc.com/zhongwen/articles/cy450nxz11eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-05T05:16:15.000Z"
+    },
+    {
+      "id": "c3d117507919",
+      "title": "Jetstar to charge fees to put carry-on luggage in overhead lockers",
+      "summary": "Airline to remove 7kg weight limit for carry-on bags and introduce new fee from February 2027 Follow our Australia news live blog for latest updates Get our breaking news email ,…",
+      "url": "https://www.theguardian.com/business/2026/aug/05/jetstar-to-charge-passengers-up-to-52-to-put-baggage-in-overhead-lockers",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-05T04:58:31.000Z"
     },
     {
       "id": "cb64ed574331",
@@ -60,116 +430,6 @@
       "publishedAt": "2026-08-05T04:00:08.000Z"
     },
     {
-      "id": "96b03ecdfeea",
-      "title": "巴西下调与阿根廷的外交关系级别",
-      "summary": "中新网8月5日电 综合外媒报道，巴西政府4日决定，巴西与阿根廷的外交关系降为代办级。此外，巴西不会派遣此前召回的驻阿根廷大使儒利奥·比特利返回阿根廷。报道称，此举是对阿根廷总统米莱针对巴西总统卢拉发表侮辱性言论的回应。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672179.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:58:11.000Z"
-    },
-    {
-      "id": "4f4bb1762027",
-      "title": "兰州陇原竞技足球俱乐部发布致歉声明",
-      "summary": "中新网8月5日电 据“兰州陇原竞技足球俱乐部”微信公众号消息，8月4日，兰州陇原竞技足球俱乐部发布《关于费用拖欠及相关舆情误解的致歉声明》。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-05/10672231.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:53:08.000Z"
-    },
-    {
-      "id": "c3c79c196f66",
-      "title": "网购退货后商家拖延退款，责任谁来担？法院判了",
-      "summary": "“七天无理由退货”“不满意就退款”“售后无忧”……这是很多电商店铺打出的宣传口号。但不少网购消费者会遇到这样的经历：商品不合心意，按流程寄回退货，商家签收之后，退款却迟迟不到位。这时消费者可以向商家入驻的电商平台发起投诉。平台审核确认符合退款条件后，可扣划商家预先缴纳的保证金，为消费者先行赔付。",
-      "url": "https://www.chinanews.com.cn/fz/2026/08-05/10672238.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:50:04.000Z"
-    },
-    {
-      "id": "7ceee5fe982f",
-      "title": "今年新疆霍尔果斯公路口岸出入境人员突破100万人次",
-      "summary": "据霍尔果斯出入境边防检查站发布的数据，今年以来，霍尔果斯公路口岸出入境人员跨境出行、商贸往来热度持续攀升，截至8月4日，今年经霍尔果斯公路口岸出入境旅客已突破100万人次，同比增长10%，较去年提前15天，创历史同期最新纪录。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672236.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:46:58.000Z"
-    },
-    {
-      "id": "347a1a7e8b02",
-      "title": "让体育容得下生涩 让组织稳得住流量",
-      "summary": "让流量为赛事加分(点到)",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672237.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:46:12.000Z"
-    },
-    {
-      "id": "ec25a41d52e8",
-      "title": "六部门联合印发《关于进一步加强人民法院聘用制书记员管理工作的意见》",
-      "summary": "中新网8月5日电 据最高人民法院官网消息，近日，最高人民法院联合中央组织部、中央政法委、中央编办、财政部、人力资源社会保障部印发《关于进一步加强人民法院聘用制书记员管理工作的意见》(以下简称《意见》)，全面加强聘用制书记员队伍规范管理。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672187.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:44:50.000Z"
-    },
-    {
-      "id": "269c65ed8800",
-      "title": "须弥山石窟为何选址建在宁夏固原？",
-      "summary": "总占地面积6平方公里的须弥山石窟群，修建在西北内陆的宁夏固原市境内，与古丝绸之路的开通和佛教东传有着密切关系。",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-05/10672233.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:42:20.000Z"
-    },
-    {
-      "id": "f91422bbee41",
-      "title": "我国成功发射东方慧眼高光谱01、02星",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-05/1200175.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:41:55.000Z"
-    },
-    {
-      "id": "ffad55307bfb",
-      "title": "旅客携带充电宝自燃，长安航空通报",
-      "summary": "中新网8月5日电 据“新海航丨长安航空”微博消息，8月4日22:30左右，由南京飞往贵阳的9H8470航班，一名旅客携带的充电宝发生自燃。乘务组严格按照机上锂电池冒烟失火应急程序专业高效完成处置，机上无人员受伤，飞机状况良好。经机组慎重决策，航班已于22:50安全备降武汉天河国际机场。经地面检查，飞机状态安全适航。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672203.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:36:59.000Z"
-    },
-    {
-      "id": "82d9ea6a44f2",
-      "title": "AI不“炫技” 一人也成军",
-      "summary": "从智能应用到超级个体——",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672230.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:35:55.000Z"
-    },
-    {
-      "id": "be0114eb8eea",
-      "title": "A股午评：超3900只个股飘红 三大指数集体收涨",
-      "summary": "A股午评：超3900只个股飘红，三大指数集体收涨，科创50大涨超5%；半导体、贵金属爆发，电脑硬件、化工上涨，油气、通信设备、酒类下跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672229.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:34:23.000Z"
-    },
-    {
       "id": "589ae98483f1",
       "title": "Vandalism of Melbourne defence manufacturer being investigated as terrorist act by ‘far-left extremists’",
       "summary": "Video from group claiming responsibility for arson attack raised prospect of further vandalism or targeted action and said ‘Stop arming Israel or else’ Follow our Australia news…",
@@ -178,56 +438,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-05T03:32:32.000Z"
-    },
-    {
-      "id": "cba09d21b13d",
-      "title": "第十一届“创客中国”广西中小企业创新创业大赛市级区域赛收官",
-      "summary": "中新网南宁8月5日电 (张广权 肖景凤)近日，第十一届“创客中国”广西壮族自治区中小企业创新创业大赛北海、玉林、南宁、柳州、桂林五大区域赛相继完赛，市级区域赛收官。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672220.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:32:09.000Z"
-    },
-    {
-      "id": "56af19d7cb03",
-      "title": "力量与速度的碰撞 广东省运会手球甲组赛事在信宜开战",
-      "summary": "中新网茂名8月5日电 (梁盛 高干)广东省第十七届运动会竞技体育组手球项目甲组比赛，4日至10日在茂名信宜市绍秀体育馆开战，来自广东8个地级市代表队的200余名运动员，向男、女子两个组别的冠军发起冲击。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-05/10672227.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:31:29.000Z"
-    },
-    {
-      "id": "d3c9bb748e84",
-      "title": "海南维持暴雨四级预警 强降水天气将持续至7日",
-      "summary": "中新网海口8月5日电(许嘉 陈明)海南省气象局5日上午继续发布暴雨四级预警，气象部门预报，受季风槽影响，海南岛强降水天气将持续至7日。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672226.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:31:11.000Z"
-    },
-    {
-      "id": "cf2db4182aac",
-      "title": "中国“Z世代”逐浪银发经济新赛道",
-      "summary": "中新网武汉8月5日电 题：中国“Z世代”逐浪银发经济新赛道",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672221.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:30:57.000Z"
-    },
-    {
-      "id": "c78137b3f577",
-      "title": "中小学科学教育“上新”，“做中学”让科学教育落地生根",
-      "summary": "今年秋季学期中小学科学教育“上新”",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-05/10672228.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:30:47.000Z"
     },
     {
       "id": "105b88ce5bf1",
@@ -240,164 +450,14 @@
       "publishedAt": "2026-08-05T03:27:37.000Z"
     },
     {
-      "id": "0809f2ebb9c9",
-      "title": "今年上半年全国抽查在用充电桩超14.5万台",
-      "summary": "央视新闻客户端消息：记者今天了解到，民生计量连着千家万户，事关群众切身利益，是守护市场公平交易、保障消费者合法权益的关键防线。2026年上半年，市场监管总局聚焦电动汽车充电设施、眼镜制配计量器具、加油机、居民水电气表、电子计价秤等重点民生计量器具，强化计量监管，严查计量作弊、器具失准、监管缺位等突出问题，全面规范行业经营秩序。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672225.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:27:21.000Z"
-    },
-    {
-      "id": "1edd2916cab9",
-      "title": "防灾减灾救灾一线见闻丨黑龙江部分受灾地区加速恢复",
-      "summary": "新华社哈尔滨8月3日电 题：黑龙江部分受灾地区加速恢复",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672224.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:26:11.000Z"
-    },
-    {
-      "id": "c350c3dd0cc6",
-      "title": "西方Z世代为何开始“粉”中国？",
-      "summary": "“Chinamaxxing”(极致中国化)，在今年的社交媒体上迅速传播，相关标签浏览量突破40亿次。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672222.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:25:35.000Z"
-    },
-    {
-      "id": "d2abab1d7f38",
-      "title": "牢抓把关责任 别让漂流“跑歪”了",
-      "summary": "别让漂流“跑歪”了",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672218.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:23:01.000Z"
-    },
-    {
-      "id": "cff5e596c1ae",
-      "title": "【好评中国】高铁实现“私人定制”，是铁路改革跑出加速度",
-      "summary": "近日，满载554名旅客的G3419次列车从河南开封启程驶向四川泸州，开启一场3天2晚的旅程。这是中国铁路郑州局集团有限公司今年5月份以来开行的第3趟高铁“定制专列”，也是铁路部门精准对接市场需求的生动实践。",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-05/10672216.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:20:01.000Z"
-    },
-    {
-      "id": "48112b877c9e",
-      "title": "异国他乡的“接头暗号”：我带课本去打卡",
-      "summary": "课本成为异国他乡的“接头暗号”，教育闭环在此刻完成",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-05/10672214.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:16:14.000Z"
-    },
-    {
-      "id": "e2bb89d25247",
-      "title": "受台风“白海豚”影响 国家海洋预报台发布海浪黄色警报",
-      "summary": "中新网8月5日电 据国家海洋环境预报中心网站消息，受今年第13号台风”白海豚”(强台风级)的影响，预计8月5日下午到6日上午，东海东部将出现5到8米的巨浪到狂浪区，近海海域海浪预警级别为黄色。请在上述海域作业的船只注意安全，沿海各有关单位提前采取防浪避浪措施。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672182.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:15:16.000Z"
-    },
-    {
-      "id": "f383f8fe31ef",
-      "title": "8月需重点关注哪些极端天气",
-      "summary": "新华社北京8月4日电#8195;题：8月需重点关注哪些极端天气",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672213.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:11:06.000Z"
-    },
-    {
-      "id": "d23228b734c3",
-      "title": "湖北宜昌遭遇强降雨 紧急转移千余人",
-      "summary": "中新网宜昌8月5日电 (记者 郭晓莹)记者5日从湖北省宜昌市夷陵区相关部门获悉，该区4日遭遇强降雨，最大累计雨量超过200毫米，全区紧急转移群众498户1057人，无人员伤亡。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672211.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:09:58.000Z"
-    },
-    {
-      "id": "e9a22ec7d65b",
-      "title": "年中经济观察丨去产地建工厂 “飞地粮仓”探索跨省协作新样板",
-      "summary": "今年上半年，我国夏粮产量创历史新高，筑牢全年粮食丰产根基。现在，秋粮也陆续进入了产量形成的关键期。记者采访时发现，越来越多粮食主销区的市场主体带着资金、技术、渠道来到主产区，为粮食增产作出自己的贡献。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672209.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:06:08.000Z"
-    },
-    {
-      "id": "487ac55de106",
-      "title": "郝珂灵：硅谷路径之外，AI的更多可能性",
-      "summary": "AI公司需向善",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-05/10672208.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:05:16.000Z"
-    },
-    {
-      "id": "12b9bda54b0f",
-      "title": "评论：伪满遗迹成打卡热地，文旅出圈何以锚定历史分量？",
-      "summary": "中新网长春8月5日电 (记者 李彦国)今年暑期，吉林长春伪满皇宫博物院文旅热度持续攀升、强势出圈，日均接待游客达12000人次，其中逾八成游客来自全国各地。承载近代家国抗争与民族记忆的历史遗迹，一跃成为国内文旅热门打卡地，核心要义在于其镌刻厚重史实、担当爱国主义教育载体的独特历史分量。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672205.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-05T03:02:34.000Z"
-    },
-    {
-      "id": "b7387d272e60",
-      "title": "‘Won’t happen’: One Nation Victoria leader’s comments raise questions about Hanson’s mass deportations policy",
-      "summary": "Exclusive : Warren Pickering told 2025 podcast mass deportations ‘not a reality’ in Australia and suggested politicians over 55 should ‘handball it to the next generation’ Follow…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/one-nation-victoria-warren-pickering-comments-mass-deportations-policy-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T03:00:07.000Z"
-    },
-    {
-      "id": "6852f7d01365",
-      "title": "Daniel Andrews’ government engaged in ‘concerning’ conduct but no evidence of firefighter union blackmail: Ibac report",
-      "summary": "Anti-corruption watchdog’s long-awaited report finds ‘serious and concerning’ conduct by senior government members in dealings with union boss Follow our Australia news live blog…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/ibac-report-daniel-andrews-victoria-government-firefighter-union-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T02:33:00.000Z"
-    },
-    {
       "id": "a38b7f4d7aa9",
-      "title": "台灣「漢光演習」四大看點：首次阻絕淡江大橋、動員民用工廠產武器",
+      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
       "summary": "台灣國防部年度「漢光演習」將於8月5日展開，為期十天九夜，軍方目標是「擊潰敵人，讓全面入侵的作戰失敗」。分析指，演習焦點已轉為強調「軍民結合」，並擴展至城市防禦和韌性訓練。",
       "url": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC 中文",
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-05T02:30:53.000Z"
-    },
-    {
-      "id": "651f5c23c55a",
-      "title": "Labor plans migration cuts as Tony Burke pulls out of major speech",
-      "summary": "As home affairs minister’s National Press Club address is postponed, refugee advocates lament missed ‘opportunity to bring Australians together’ Follow our Australia news live bl…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/labor-plans-migration-cuts-as-tony-burke-pulls-out-of-major-speech",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T02:29:21.000Z"
     },
     {
       "id": "31038607ecfc",
@@ -448,6 +508,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-05T00:02:37.000Z"
+    },
+    {
+      "id": "e891a70d0213",
+      "title": "AI-generated stories rated better quality than human-written ones, study finds",
+      "summary": "Researcher says simpler writing by AI is easier to read and digest, but this does not mean human authors are obsolete From Homer’s Odyssey to Agatha Christie’s crime fiction, hum…",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-04T23:01:03.000Z"
     },
     {
       "id": "1b14891bbabc",
@@ -548,26 +618,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-04T16:51:51.000Z"
-    },
-    {
-      "id": "2381594b2c5a",
-      "title": "Refuse collectors help Italian woman recover binned €1m lottery ticket",
-      "summary": "Winner called waste management team after she realised stub showing she had hit the jackpot had been thrown away A €1m lottery ticket has been recovered from the rubbish in Italy…",
-      "url": "https://www.theguardian.com/world/2026/aug/04/refuse-collectors-help-italian-woman-recover-binned-lottery-ticket",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T15:41:25.000Z"
-    },
-    {
-      "id": "eae1edfc4bef",
-      "title": "Spain says 70,000 out of 72,000 migrants that entered Ceuta in mass border crossing have returned to Morocco – as it happened",
-      "summary": "Minister tells reporters least 75 people died after EU ministers meet to discuss response to the crisis Meanwhile, the European Commission said it was “monitoring very closely” t…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T15:35:40.000Z"
     },
     {
       "id": "b2c6e4378b00",
@@ -810,16 +860,6 @@
       "publishedAt": "2026-08-04T00:00:06.000Z"
     },
     {
-      "id": "7e983335d772",
-      "title": "‘This quarter was otherworldly’: Palantir earnings surge past expectations",
-      "summary": "Shares soar as yearly revenue up 93%, even as opposition grows to company’s role in Trump immigration agenda In a sea of companies reporting mixed financial results this quarter,…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/palantir-second-quarter-earnings",
-      "source": "The Guardian Technology",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-03T23:09:20.000Z"
-    },
-    {
       "id": "14839091bb4c",
       "title": "US states sue Trump administration over new tariffs on 60 trading partners",
       "summary": "Coalition of 25 states asks US Court of International Trade to halt tariffs and declare them them unlawful Trump imposes fresh tariffs on dozens of trading partners A coalition o…",
@@ -1010,16 +1050,6 @@
       "publishedAt": "2026-08-03T00:01:11.000Z"
     },
     {
-      "id": "4e8e9ac711d6",
-      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-      "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects Four days ago, Youssef El Abbas saw an opportunity to reclaim the…",
-      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-02T13:11:56.000Z"
-    },
-    {
       "id": "76dee05daf05",
       "title": "What do you wish you could buy in vending machines?",
       "summary": "The long-running series in which readers answer other readers’ questions commits the cash and presses the buttons on a vital consumer dilemma Read this week’s replies: What is th…",
@@ -1040,16 +1070,6 @@
       "publishedAt": "2026-08-02T12:00:22.000Z"
     },
     {
-      "id": "0b1844adb53a",
-      "title": "西班牙移民危機如何引發政治風暴 社交媒體推波助瀾",
-      "summary": "數萬摩洛哥移民游泳及徒步湧入西班牙飛地休達，至少67人死亡。多數已返回，但事件引發歐盟政治風暴，社群媒體假訊息成推手。",
-      "url": "https://www.bbc.com/zhongwen/articles/cy07vj18epyo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-02T09:38:44.000Z"
-    },
-    {
       "id": "7c9695089421",
       "title": "Stock market turmoil sheds stark light on the opaque AI economy",
       "summary": "Investors scramble to make sense of a shock Chinese challenge to the dominance of western chipmakers Even for the rollercoaster world of AI, last week was particularly volatile a…",
@@ -1058,16 +1078,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-02T09:00:17.000Z"
-    },
-    {
-      "id": "4b38881b633e",
-      "title": "‘The language of Pokémon is universal’: why fans are still catching ‘em all after 30 years",
-      "summary": "As Pokémon Go celebrates its 10th anniversary, its devoted players explain how the game has created a vibrant intergenerational community spanning the globe Most Pokémon obsessiv…",
-      "url": "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-02T07:00:15.000Z"
     },
     {
       "id": "f276842aa071",
@@ -1188,16 +1198,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-07-29T11:14:21.000Z"
-    },
-    {
-      "id": "4c2e5a26efad",
-      "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
-      "summary": "從重慶到紐約、柏林和悉尼，政治投影近年成為部分海外倡議團體表達政治訴求的新方式。",
-      "url": "https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-07-29T00:22:01.000Z"
     },
     {
       "id": "c243f9b2c2ec",
