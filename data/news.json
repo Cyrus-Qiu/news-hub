@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T04:21:57.365Z",
+  "updatedAt": "2026-08-06T07:20:22.445Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,324 +30,404 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "e6fdf14e6895",
-      "title": "空调24小时开着反而更省电？电力部门回应",
-      "summary": "烈日炎炎，又到了离不开空调的季节。最近，“空调24小时开着反而更省电”的说法在网络上引发热议。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672849.shtml",
+      "id": "d33f31cc5f2d",
+      "title": "从“向新”“向优”读懂中国经济韧性活力",
+      "summary": "新华社北京8月5日电 题：从“向新”“向优”读懂中国经济韧性活力",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672974.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-06T04:06:14.000Z"
+      "publishedAt": "2026-08-06T07:18:54.000Z"
+    },
+    {
+      "id": "d926f7f05391",
+      "title": "未来五年，民爆行业这样安全发展",
+      "summary": "新华社权威快报|未来五年，民爆行业这样安全发展",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672970.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:12:32.000Z"
+    },
+    {
+      "id": "6ee1c3786adf",
+      "title": "产业兴、通道畅、动能足 西藏外贸焕发新生机",
+      "summary": "“十五五”开局之年，西藏面向南亚开放通道货畅其流、生机勃发。高原葡萄酒、藏香猪肉等“藏字号”产品漂洋过海，国产新能源汽车批量驶向尼泊尔市场，公、铁、空、邮立体通道高效畅通，口岸与腹地平台协同发力。据拉萨海关统计，目前已有千余家企业通过西藏口岸与南亚国家开展贸易，进出口货物种类拓展至2000余种。今年上半年，西藏有进出口实绩的外贸企业达170家，较去年同期…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672969.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:12:00.000Z"
+    },
+    {
+      "id": "dd9a5aa0b0fc",
+      "title": "江西省气象台发布雷电黄色预警信号",
+      "summary": "中新网8月6日电 据中央气象台网站消息，江西省气象台2026年8月6日14时52分发布雷电黄色预警信号：预计未来6小时内，赣州、吉安、萍乡三市和九江、宜春两市西部的部分地区有雷电活动，局地伴有短时强降水、雷暴大风等强对流天气，请注意防范。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672965.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:08:32.000Z"
+    },
+    {
+      "id": "47689d90aa92",
+      "title": "拓视野促发展 全方位发挥立法会建设作用——访香港特区立法会主席李慧琼",
+      "summary": "新华社香港8月5日电 题：拓视野促发展 全方位发挥立法会建设作用——访香港特区立法会主席李慧琼",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-06/10672968.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:08:30.000Z"
+    },
+    {
+      "id": "a42c6dfb884a",
+      "title": "沉浸式体验多彩民俗 外国游客到四川感受“清凉一夏”",
+      "summary": "中国入境游“圈粉”世界。在四川，九寨沟、都江堰等生态旅游地以清凉舒适的气候和优美的自然环境吸引了大量外国游客。当地推出的森林营地、生态体验等特色项目，更是让他们感受到不一样的夏日魅力。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672967.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:07:26.000Z"
+    },
+    {
+      "id": "0eac85fcb6c6",
+      "title": "8月6日“农产品批发价格200指数”比昨天上升0.17个点",
+      "summary": "中新网8月6日电 据农业农村部网站消息，据农业农村部监测，8月6日“农产品批发价格200指数”为113.66，比昨天上升0.17个点，“菜篮子”产品批发价格指数为113.83，比昨天上升0.20个点。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672952.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:07:06.000Z"
+    },
+    {
+      "id": "d26952a7884b",
+      "title": "聚焦“AI+IT”实训赛道 雄安人工智能实训基地正式投运",
+      "summary": "中新网雄安8月6日电 (赵丹媚 韩冰)8月6日，雄安新区首届人工智能实训班开班，标志着雄安人工智能实训基地正式投运。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672963.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:06:54.000Z"
     },
     {
       "id": "db5cd9dbb188",
-      "title": "Australia news live: Jean-Claude Perrottet tells Icac inquiry he can’t recall why lobbying company sent him $5,000 a month; ABC apologises to Gina Rinehart",
+      "title": "Australia news live: Icac witness asked about ‘filthy schools money’ messages; evacuation declared after industrial shed fire creates toxic smoke in Adelaide",
       "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast A 60-year-old man has died after an alleged assault in Melbourne, where he was allegedly set…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
       "source": "The Guardian World",
-      "category": "商业",
+      "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-06T04:06:00.000Z"
+      "publishedAt": "2026-08-06T07:06:49.000Z"
     },
     {
-      "id": "616d02fdfcae",
-      "title": "佛得角门将沃津尼亚亮相新东家欢迎仪式",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-06/1200280.shtml",
+      "id": "47579878efe1",
+      "title": "小剧场演出场次持续增长 成为演出市场重要增长引擎",
+      "summary": "中新网上海8月6日电 (记者 王笈)中国演出行业协会会长刘克智6日在上海表示，小剧场以其蓬勃活力和创造力，成为演出市场重要的增长引擎之一。沉浸式话剧、音乐剧等戏剧形式“百花齐放”，成为促进城市文化消费、夜间经济、文商旅融合的重要抓手。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-06/10672962.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-06T03:41:59.000Z"
+      "publishedAt": "2026-08-06T07:05:54.000Z"
     },
     {
-      "id": "9dd50771f660",
-      "title": "A股午评：3700只个股飘绿，沪指收涨，深指、创业板指冲高回落集体收跌",
-      "summary": "；黄金股爆发，通信设备、半导体上涨，教育、电工电网、汽车下跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672846.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:41:37.000Z"
-    },
-    {
-      "id": "f79ed535e224",
-      "title": "银发志愿者的年龄天花板，何时能拆掉",
-      "summary": "(民生观)",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-06/10672843.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:36:16.000Z"
-    },
-    {
-      "id": "ea4941016442",
-      "title": "公共交通更适老，老年人出行更从容",
-      "summary": "(深阅读·关注适老化改造)",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672842.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:33:36.000Z"
-    },
-    {
-      "id": "beb44892988a",
-      "title": "最高法：集中清理生态环境领域司法解释和规范性文件",
-      "summary": "中新网8月6日电 8月6日，最高人民法院举行新闻发布会，通报司法解释、司法规范性文件清理工作情况。会上，最高人民法院副院长杨临萍表示，生态环境法典颁布后，最高人民法院对生态环境领域现行有效的26件司法解释、35件司法规范性文件和45件指导性案例进行集中清理。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672834.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:30:50.000Z"
-    },
-    {
-      "id": "8071c6c3528a",
-      "title": "2026年中国攀岩联赛揭幕战在贵阳落下帷幕",
-      "summary": "中新网8月6日电 8月5日，2026年中国攀岩联赛揭幕战(贵州贵阳站)在贵州省贵阳市观山湖区“贵州·彩湖国际攀岩中心”落幕。在为期两天的比赛中，来自全国各省、自治区、直辖市的21支参赛队伍143名运动员，参加了男、女子速度和难度四个项目的比拼。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-06/10672838.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:28:38.000Z"
-    },
-    {
-      "id": "a5db649e3b3b",
-      "title": "手艺人用大漆工艺进行创作 成品出现那一刻太惊艳了",
-      "summary": "当事人：几乎做不出来一模一样的作品",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-06/news1064438.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:26:05.000Z"
-    },
-    {
-      "id": "f19670ca102e",
-      "title": "保障生态环境法典实施 最高法发布首个配套司法解释",
-      "summary": "中新网8月6日电 最高人民法院于8月6日举行新闻发布会，发布《最高人民法院关于适用〈中华人民共和国生态环境法典〉时间效力的若干规定》(以下简称《时间效力规定》)，介绍生态环境法典相关司法解释清理工作情况。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672825.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:24:52.000Z"
-    },
-    {
-      "id": "6469d2524b39",
-      "title": "河北邢台：一根跳绳解锁乡村小学活力",
-      "summary": "中新网邢台8月6日电 题：河北邢台：一根跳绳解锁乡村小学活力",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672835.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:22:27.000Z"
-    },
-    {
-      "id": "638d86d8e321",
-      "title": "（长江十年行）湖北宜昌持续壮大新能源游轮“矩阵”",
-      "summary": "中新网宜昌8月6日电 题：湖北宜昌持续壮大新能源游轮“矩阵”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672833.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:21:59.000Z"
-    },
-    {
-      "id": "63e67f04c9bb",
-      "title": "山西公安公开征集涉黑恶犯罪线索 含网络暴力等新型黑恶势力违法犯罪",
-      "summary": "中新网太原8月6日电 (李庭耀 魏宇昕)山西省公安厅扫黑办6日发布公告，公开征集涉黑恶犯罪线索。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672832.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:21:43.000Z"
-    },
-    {
-      "id": "62bfb3e80ab0",
-      "title": "上合组织“天山-2026”联合网络反恐演习在新疆举行",
-      "summary": "7月23日，上海合作组织成员国主管机关“天山-2026”联合网络反恐演习在新疆乌鲁木齐举行。各成员国派出代表团参演，上合组织地区反恐怖机构执委会为演习提供相关协助。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672836.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:21:05.000Z"
-    },
-    {
-      "id": "98b4f6b0ff26",
-      "title": "9日前后台风“白海豚”将给华东等地带来强风雨",
-      "summary": "中新网8月6日电 中央气象台网站6日10时发布中期天气预报。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672815.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:18:15.000Z"
-    },
-    {
-      "id": "38e38ca23697",
-      "title": "关注休达移民危机：边境秩序逐步恢复 未来仍旧面临挑战",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/gj/shipin/2026/08-06/news1064436.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:10:09.000Z"
-    },
-    {
-      "id": "3b9c3fbc951d",
-      "title": "最北高铁哈尔滨至伊春高铁今日启动按图运行试验",
-      "summary": "央视新闻客户端：记者从国铁哈尔滨局获悉，8月6日7时40分，随着D7271次运行试验动车组由黑龙江省哈尔滨站始发，经由哈伊高速铁路，于2小时02分后终到伊春西站，这标志着哈尔滨至伊春高铁启动按图运行试验。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672829.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:09:57.000Z"
-    },
-    {
-      "id": "be79afabf8ee",
-      "title": "“八仙”过十亿不是灵光一现",
-      "summary": "近期，国产动画电影《八仙！》上映10余天票房突破10亿元，成为今年暑期档的现象级作品。与部分国产动画依赖炫目特效、奇观场面吸引观众不同，这部作品的出圈密码，藏在生活烟火气里，这为国产动画IP的创造性转化与长效发展写下了生动注脚。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-06/10672826.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:06:07.000Z"
-    },
-    {
-      "id": "b93f2a176956",
-      "title": "“蓝色引擎”释放新动力",
-      "summary": "自然资源部近日发布的数据显示，我国海洋经济总量稳步增长。初步核算，上半年海洋生产总值5.5万亿元，同比增长5.1%，上半年海洋生产总值占国内生产总值比重为7.9%，海洋经济发展韧劲不断显现。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672821.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:02:12.000Z"
-    },
-    {
-      "id": "2c9a471e1086",
-      "title": "宁夏援外医疗队在贝宁开展“百队千村行”巡诊活动",
-      "summary": "中新网银川8月6日电 (记者 杨迪)记者6日从中国(宁夏)第28批援贝宁医疗队获悉，当地时间8月4日至5日，医疗队在贝宁开展“百队千村行”巡回义诊活动，把优质医疗服务送到当地民众家门口。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672812.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T03:00:42.000Z"
-    },
-    {
-      "id": "d78f9b722e4a",
-      "title": "人民锐评：批发的副会长，失真的公信力",
-      "summary": "一个协会，副会长名单拉出长长一串，难免让人追问，究竟是在选贤任能，还是在批发头衔？",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-06/10672817.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:59:54.000Z"
-    },
-    {
-      "id": "b0491d5c3fd3",
-      "title": "跨省购物、短途观光 列车轨道串起消费新活力",
-      "summary": "暑期来临，各地群众的夏日出游热潮持续走高，旅途中，一趟趟各具特色的列车，正在把客流稳稳转化为实实在在的消费增量。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672810.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:55:47.000Z"
-    },
-    {
-      "id": "6c867a6c0ab6",
-      "title": "中山海关技术中心2026年测汞仪采购项目招标公告",
-      "summary": "项目概况",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672809.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:53:23.000Z"
-    },
-    {
-      "id": "bd8fb34d5e5b",
-      "title": "2026年01月至06月云南省进出口月度总值表",
-      "summary": ".xlsx",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672808.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:50:21.000Z"
-    },
-    {
-      "id": "aaafb50ecb67",
-      "title": "高校临床医学投档位次后移 学医真的不“香”了吗",
-      "summary": "学医真的不“香”了吗",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-06/10672806.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:46:51.000Z"
-    },
-    {
-      "id": "618c91688985",
-      "title": "2026年01至06月云南省出口主要商品量值表",
-      "summary": ".xlsx",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672803.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:46:25.000Z"
-    },
-    {
-      "id": "250597fb991c",
-      "title": "2026年01至06月云南省进口主要商品量值表",
-      "summary": ".xlsx",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672802.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:44:45.000Z"
-    },
-    {
-      "id": "29516c857930",
-      "title": "（活力中国调研行）城市地下管网或将与具身智能结合 加固城市生命线建设",
-      "summary": "中新网合肥8月6日电 (记者 周昕 储玮玮)地下管线是维系城市运转的“血管”，是城市的地下“生命线”。清华大学合肥公共安全研究院院长袁宏永5日在合肥表示，要加快具身智能地下管网研究，加固城市生命线建设。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672798.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:42:25.000Z"
-    },
-    {
-      "id": "a5c81a06d1ee",
-      "title": "文旅热、避暑火、客流旺 黑龙江机场集团迎来史上“最忙暑运”",
-      "summary": "中新网哈尔滨8月6日电 (史轶夫 温天禹)哈尔滨之夏音乐季、哈尔滨国际啤酒节、太阳岛电影周、东北超……暑运以来，黑龙江凭借舒适宜人的夏季气候、丰富多元的大型活动和独具特色的文旅资源，吸引国内外游客纷至沓来。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672797.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:42:11.000Z"
-    },
-    {
-      "id": "48876a5cf6f1",
-      "title": "重庆海关技术中心2026年彭水县食用农产品抽样服务项目比选公告",
-      "summary": "一、项目基本情况",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672801.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:42:03.000Z"
-    },
-    {
-      "id": "30026f9173bd",
-      "title": "2000亿元超长期特别国债下达 支持老旧小区加装电梯等",
-      "summary": "年中经济观察丨2000亿元超长期特别国债下达 支持老旧小区加装电梯等",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672800.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-06T02:41:59.000Z"
-    },
-    {
-      "id": "00f2c5695b17",
-      "title": "Pregnant woman dead and toddler found unharmed after outback Queensland siege ends in apparent murder-suicide",
-      "summary": "A 45-year-old man and 23-year-old woman were found dead in the Charleville home after a near eight-hour police siege Follow our Australia news live blog for latest updates Get ou…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb",
+      "id": "f84120b7a071",
+      "title": "‘Orange elephant in the room’: Pauline Hanson’s political rise is inspiring racism, inquiry hears",
+      "summary": "Former AFL inclusion manager tells inquiry One Nation leader’s conduct is encouraging people to use ‘similar behaviour and words’ The rise of One Nation is fuelling racism, a fed…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/pauline-hanson-one-nation-leader-rise-inspiring-racism-parliament-inquiry-hears-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-06T02:10:35.000Z"
+      "publishedAt": "2026-08-06T07:05:28.000Z"
+    },
+    {
+      "id": "dec180896b5f",
+      "title": "浙江温台地区启动防台风Ⅳ级应急响应",
+      "summary": "中新网温州8月6日电(胡丰盛)据中央气象台消息，今年第13号台风“白海豚”(强台风级)今天(8月6日)08时中心位于浙江温州偏东方向约1300公里的洋面上，中心附近最大风力14级。预计“白海豚”将以每小时15-20公里的速度向偏西方向移动，强度变化不大或略有增强。最大可能9日下午到10日在浙江沿海登陆(台风级或强台风级)，不排除在浙江近海转向穿过舟山群岛…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672959.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:04:54.000Z"
+    },
+    {
+      "id": "b5a5f0d6adb5",
+      "title": "一包瓜子 怎么就上美国制裁清单了",
+      "summary": "最近，美方罔顾中方强烈反对和中美两国业界强烈呼声，一而再、再而三将中国企业列入制裁清单。8月5日，中国商务部宣布，对美系列涉华消极措施实施反制。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672966.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:04:48.000Z"
+    },
+    {
+      "id": "7bdc55a8ee33",
+      "title": "吉林高温将“退场”",
+      "summary": "中新网长春8月6日电 (记者 郭佳)吉林省持续多日的高温闷热天气即将告一段落。吉林省气象台6日发布消息，受北方冷空气南下影响，全省6日至7日将迎来一次明显雷雨、强对流天气过程，降温初期昼夜温差可达10℃以上。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672957.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:04:12.000Z"
+    },
+    {
+      "id": "208f8cbedf06",
+      "title": "“秋天的第一杯奶茶”怎么喝？湖南医生为秋日养生饮食划重点",
+      "summary": "中新网长沙8月6日电 (记者 鲁毅)立秋将至，“秋天的第一杯奶茶”怎么喝更健康？8月6日，在湖南省卫生健康委员会举行的“时令节气与健康湖南·立秋篇”新闻发布会上，医生给出了建议。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-06/10672956.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T07:03:50.000Z"
+    },
+    {
+      "id": "1a1e1086d821",
+      "title": "Metroid at 40: happy birthday to Samus Aran, gaming’s greatest badass and my personal heroine",
+      "summary": "Being a woman who loves video games has often felt lonely, like being on a hostile planet – but Metroid’s female space hunter has been with me all the way It’s 1986, and you’re p…",
+      "url": "https://www.theguardian.com/games/2026/aug/06/metroid-at-40-samus-aran-nintendo-video-game-heroine",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-06T07:00:41.000Z"
+    },
+    {
+      "id": "5f8b33173806",
+      "title": "最高法：将采取五项举措确保生态环境法典落实落地",
+      "summary": "中新网8月6日电 8月6日，最高人民法院举行新闻发布会，发布《最高人民法院关于适用〈中华人民共和国生态环境法典〉时间效力的若干规定》等5份司法文件，介绍生态环境法典相关司法解释清理工作情况。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672876.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:58:49.000Z"
+    },
+    {
+      "id": "a4723424d1c1",
+      "title": "外交部驳斥日本《防卫白皮书》已向日方严正交涉",
+      "summary": "本报北京8月5日电 外交部发言人林剑5日在就日本政府发布2026年版《防卫白皮书》答问时说，日方新版《防卫白皮书》再次无端抹黑指责中方，炒作所谓“中国威胁”，妄议中国台湾事务，粗暴干涉中国内政，中方对此强烈不满、坚决反对，已向日方严正交涉。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672961.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:58:41.000Z"
+    },
+    {
+      "id": "939a0d38fa59",
+      "title": "（活力中国调研行）探访人形机器人训练场：感受具身智能发展活力",
+      "summary": "8月6日，合肥市具身智能机器人数据采集预训练场内，83台来自不同企业的机器人在家居、商超、工业等领域的30余个复刻场景中开展实训。通过数据采集员一次次“手把手”教学，机器人作业能力不断进化，逐步成长为人类可靠的协作伙伴。图为人形机器人在家庭场景中执行抓取任务。中新社记者 韩苏原 摄 8月6日，合肥市具身智能机器人数据采集预训练场内，83台来自不同企业的机…",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-06/1200302.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:57:35.000Z"
+    },
+    {
+      "id": "7c34820715ad",
+      "title": "非洲能从中国乡村全面振兴里学到什么",
+      "summary": "(观象台·国际人士谈“十五五”关键词#9325;)",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-06/10672958.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:56:35.000Z"
+    },
+    {
+      "id": "5ca23b7cd684",
+      "title": "Australian politician admits to sending text saying ‘my job is boring’ during a hearing",
+      "summary": "Mark Parton defends sending text message but denies he sent it to a sex worker, saying he is a ‘multi-tasker from hell’ Get our breaking news email , free app or daily news podca…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/australian-politician-mark-parton-admits-to-sending-text-saying-my-job-is-boring-during-a-hearing-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-06T06:55:23.000Z"
+    },
+    {
+      "id": "c9adbcebbbf5",
+      "title": "中企在吉实施灌溉工程、光伏发电项目助力民生改善——“希望引进更多中国经验和技术”",
+      "summary": "中企在吉实施灌溉工程、光伏发电项目助力民生改善——",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-06/10672955.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:53:27.000Z"
+    },
+    {
+      "id": "15c04f78dd2d",
+      "title": "中越边境地区跨境传染病联防联控培训交流中心揭牌",
+      "summary": "中新网广西崇左8月6日电 (杨陈 钟世佳 何嘉豪)广西崇左市联合越南谅山省、高平省5日在崇左举办跨境卫生健康交流活动。中越双方近百名卫生行政、疾控、卫生监督领域代表齐聚一堂，围绕跨境传染病联防联控、跨境医疗合作等核心议题深入交流协商，凝聚发展共识。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672953.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:52:05.000Z"
+    },
+    {
+      "id": "7d1d3c19acd3",
+      "title": "China Cool，何以在酷暑中圈粉全球？",
+      "summary": "这个盛夏，热浪翻滚，全球许多地区遭遇罕见酷暑。到中国体验又酷又凉的美好，成为各国游客消暑选择。外国游客在中国“清凉”避暑、“酷”享夏日的短视频在海外社交平台广为传播，成为热点话题。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672954.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:51:35.000Z"
+    },
+    {
+      "id": "6473040bd9b3",
+      "title": "司法部：要依法严格加强涉黑涉恶罪犯收押、管理和改造",
+      "summary": "中新网北京8月6日电 (记者 谢雁冰)记者8日从司法部获悉，近日，司法部党组专题部署司法行政系统扎实开展深化扫黑除恶专项斗争工作，强调要全面贯彻习近平法治思想和总体国家安全观，深入贯彻落实习近平总书记重要指示精神，按照党中央、国务院部署，落实全国扫黑除恶专项斗争视频会议要求，针对当前涉黑涉恶行为新表现、新特点、新趋势、新规律，抓好司法行政系统深化扫黑除恶…",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672951.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:50:04.000Z"
+    },
+    {
+      "id": "5a2f42e80591",
+      "title": "最高法：对涉海洋环境保护司法解释有关条文做实质性修改",
+      "summary": "中新网8月6日电 最高人民法院于8月6日举行新闻发布会，介绍生态环境法典相关司法解释清理工作情况。会上，最高人民法院民四庭庭长沈红雨表示，在本次司法解释清理工作中，对涉海洋环境保护司法解释有关条文做了实质性修改。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672911.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:50:04.000Z"
+    },
+    {
+      "id": "7ec6d55475af",
+      "title": "陕西柞水遭遇持续强降雨 1.3万余人转移避险",
+      "summary": "中新网陕西商洛8月6日电 (记者 党田野)记者6日从陕西省商洛市柞水县官方获悉，当地迎来新一轮持续性强降雨，降雨覆盖范围广、局部雨势偏大，河道水位暴涨，山洪、地质灾害风险显著升高，防汛形势严峻。截至8月5日，该县累计安全转移安置民众5603户13729人，安置保障总体平稳。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672949.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:49:34.000Z"
+    },
+    {
+      "id": "1d1548d653da",
+      "title": "Alan Jones’s alleged victim denies ‘fabricating’ claims against broadcaster during robust cross-examination",
+      "summary": "Former 2UE and 2GB radio broadcaster is facing 22 charges. Jones, 85, has pleaded not guilty Follow our Australia news live blog for latest updates Get our breaking news email ,…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/alleged-victim-alan-jones-denies-fabricating-claims-broadcaster-cross-examination-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-06T06:48:57.000Z"
+    },
+    {
+      "id": "6c9bd8955b33",
+      "title": "从异地中转到港口直达 浙江嘉兴港进口鲜果突破4万吨",
+      "summary": "中新网嘉兴8月6日电(傅飞扬 王轶星)日前，一批鲜香蕉经杭州海关所属嘉兴海关关员监管查验后，在嘉兴港浙江中润综合性指定监管场地完成通关。据嘉兴海关6日消息，自2025年2月该场地通过海关总署验收以来，嘉兴港累计进口新鲜水果698批，达4.26万吨。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672948.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:48:04.000Z"
+    },
+    {
+      "id": "9e526b09ac36",
+      "title": "樊嘉院士：中国肝癌治疗正转向“协同攻坚战”",
+      "summary": "中新网上海8月6日电(记者 陈静)“中国肝癌患者确诊时，70%到80%已是中晚期，5年生存率长期低于15%。”中国科学院院士、复旦大学附属中山医院名誉院长樊嘉教授6日表示，但情况正在改变。樊嘉在接受记者采访时描绘了一幅全新的图景：肝癌治疗正从过去的“单打独斗”，转向一场多“兵种”、多环节、多层次的“协同攻坚战”。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-06/10672945.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:47:24.000Z"
+    },
+    {
+      "id": "2b2c0fe232c9",
+      "title": "广西统筹老城更新与文脉传承 历史街区重焕生机",
+      "summary": "中新网南宁8月6日电 (黄诗谊 林浩)“前年骑楼城重新开街后，我的凉茶店生意更红火，街区内百年商埠的氛围又回来了。”近日，在广西梧州市五坊路经营凉茶店的陈丽梅说。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672943.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:45:54.000Z"
+    },
+    {
+      "id": "bc6e0ef6b977",
+      "title": "Meta證實其AI模型「越獄」上網黑進別家公司",
+      "summary": "Meta是又一家披露其人工智能（AI）代理突破密閉環境的公司，引發外界對網絡安全的憂慮。",
+      "url": "https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:45:36.000Z"
+    },
+    {
+      "id": "e985b0906fe7",
+      "title": "郅海杰任北京市西城区委书记 曾林峰任副书记",
+      "summary": "中新网北京8月6日电 据“北京组工”微信公众号6日消息，日前，北京市委决定：郅海杰同志任西城区委书记；曾林峰同志任西城区委委员、常委、副书记。(完)",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672938.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:45:30.000Z"
+    },
+    {
+      "id": "a63d1d8a38f0",
+      "title": "陕西潼关县强降雨引发土崖滑坡致1人失联",
+      "summary": "记者6日从陕西省渭南市潼关县人民政府获悉，受近日持续强降雨影响，8月5日晚，潼关县城关街道吴村中心社区义家九组突发土崖滑坡灾害，造成1户民房随坡体倒塌，1人失联。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-06/10672950.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:44:10.000Z"
+    },
+    {
+      "id": "fe3a98db74da",
+      "title": "从“中国乳都”到“世界乳都”：实干铸就的产业丰碑",
+      "summary": "8月1日上午，2026世界奶业大会开幕式在呼和浩特敕勒川草原千人会议中心举行。开幕式最重要的环节，就是国际食品科技联盟正式向呼和浩特授予“世界乳都”牌匾和奖杯。作为全球乳业的唯一代表，伊利集团董事长兼总裁潘刚站在世界舞台上接过这份至高荣耀，这不仅是一座城市的加冕，更是呼和浩特与伊利政企同心、产业共振的生动写照。从2005年获评“中国乳都”，到2023年获…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672941.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:40:02.000Z"
+    },
+    {
+      "id": "5d835dd4a943",
+      "title": "两年前的网红梗现在能吃了 揭秘“果菌王”的逆袭真相",
+      "summary": "全释硬科技丨两年前的网红梗现在能吃了 揭秘“果菌王”的逆袭真相",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672946.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-06T06:40:02.000Z"
+    },
+    {
+      "id": "61f2f0b9504a",
+      "title": "Israeli strike that killed journalist in Lebanon was war crime, say rights groups",
+      "summary": "Investigation by Human Rights Watch, Amnesty and Legal Agenda shows Israel deliberately attacked Amal Khalil and colleague Zeinab Faraj knowing they were civilians An Israeli str…",
+      "url": "https://www.theguardian.com/world/2026/aug/06/israeli-strike-that-killed-journalist-in-lebanon-was-war-say-rights-groups",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-06T06:00:34.000Z"
+    },
+    {
+      "id": "b729903efdce",
+      "title": "在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚",
+      "summary": "這支受到國際足協（FIFA）認可的女子隊隊員表示，足球給予她們自由和獨立。",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-06T05:59:42.000Z"
+    },
+    {
+      "id": "4558fd500724",
+      "title": "Texts suggest Angus Taylor ‘paid money to the Reformers … or was refusing to’, Icac inquiry hears",
+      "summary": "Jean-Claude Perrottet, brother of former NSW premier, asked about messages referencing federal opposition leader and factional group Reformers Icac’s spotlight has shone on Domin…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/jean-claude-perrottet-icac-angus-taylor-reformers-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-06T05:47:26.000Z"
+    },
+    {
+      "id": "65e09ea5bdbf",
+      "title": "‘I’m not spying’: how Meta’s smartglasses have divided opinion",
+      "summary": "While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglas…",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-06T04:00:37.000Z"
     },
     {
       "id": "70b53cc366b7",
@@ -388,26 +468,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-06T00:35:37.000Z"
-    },
-    {
-      "id": "17620d1df9ff",
-      "title": "News Corp subscriptions fall in Australia as company takes aim at ‘slimy’ AI slop",
-      "summary": "Chief executive Robert Thomson says ‘crass kleptomaniac’ AI companies are ‘in possession of stolen goods’ Follow our Australia news live blog for latest updates Get our breaking…",
-      "url": "https://www.theguardian.com/media/2026/aug/06/news-corp-subscriptions-fall-in-australia-as-company-takes-aim-at-slimy-ai-slop",
-      "source": "The Guardian World",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-05T23:24:14.000Z"
-    },
-    {
-      "id": "cd377b91a8bf",
-      "title": "Labor MP Ed Husic taken to hospital with fractures and concussion after car crash",
-      "summary": "Husic to take ‘short’ period of leave after collision on Sydney motorway on Tuesday Follow our Australia news live blog for latest updates Get our breaking news email , free app…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/06/ed-husic-car-accident-sydney-labor-mp-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T22:52:51.000Z"
     },
     {
       "id": "64d358586f56",
@@ -470,6 +530,16 @@
       "publishedAt": "2026-08-05T18:37:45.000Z"
     },
     {
+      "id": "54402de597f3",
+      "title": "AI models have been going rogue in tests – how worried should we be?",
+      "summary": "The UK’s AI Security Institute test revealed AI models indulging in unprecedented hacking attempts AI models shock UK testers by using fake identities to trick developers Two cut…",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-05T17:43:57.000Z"
+    },
+    {
       "id": "1c9467ab690e",
       "title": "The Leipzig drone bomb marks a dangerous escalation for Europe",
       "summary": "Initial evidence suggests aerial drone, found near Ukrainian cargo planes at German airport, came from Russia The armed drone found at Leipzig airport on Wednesday may not have e…",
@@ -528,16 +598,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-05T15:15:05.000Z"
-    },
-    {
-      "id": "ff9cf0a7fc57",
-      "title": "Nearly 1,500 properties bought using Australia’s first home buyers' 5% deposit scheme converted into investments",
-      "summary": "New data shows the federal government scheme has been used by high-income borrowers, including one couple earning an annual $674,000 Follow our Australia news live blog for lates…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/06/first-home-buyers-deposit-scheme-investment-property",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-05T15:00:23.000Z"
     },
     {
       "id": "d81bcddc92bd",
@@ -850,16 +910,6 @@
       "publishedAt": "2026-08-04T20:56:59.000Z"
     },
     {
-      "id": "60796e5aab96",
-      "title": "Iran’s president denies threatening to resign during talks over strait of Hormuz",
-      "summary": "Masoud Pezeshkian dismisses talk of internal rift as hardline Assembly of Experts call US negotiations ‘futile’ Middle East crisis live – latest updates Masoud Pezeshkian, Iran’s…",
-      "url": "https://www.theguardian.com/world/2026/aug/04/irans-president-denies-threatening-to-resign-during-talks-over-strait-of-hormuz",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T18:24:35.000Z"
-    },
-    {
       "id": "055ebc75498e",
       "title": "BP boss urges Burnham to prioritise UK oil and gas even as firm exits North Sea",
       "summary": "Meg O’Neill says ‘where we generate jobs, we generate tax revenue’, as company’s profits more than double Revealed: major oil firms make $93bn profits amid war and climate crisis…",
@@ -970,16 +1020,6 @@
       "publishedAt": "2026-08-04T11:00:48.000Z"
     },
     {
-      "id": "2914ec774c89",
-      "title": "Big Walk review – larking around with mates elevated to an artform",
-      "summary": "Switch 2, PlayStation 5, PC; House House The creators of Untitled Goose Game return with an online, open-world adventure that delivers slapstick silliness and bucolic majesty in…",
-      "url": "https://www.theguardian.com/games/2026/aug/04/big-walk-review-larking-around-with-mates-elevated-to-an-artform",
-      "source": "The Guardian Technology",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T10:41:57.000Z"
-    },
-    {
       "id": "53042f849068",
       "title": "UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland",
       "summary": "A Guardian investigation finds irrigation canals polluted with microplastics in Turkey, a major destination for UK waste • ‘Nobody cares’: Turkish farmers bear the burden of UK’s…",
@@ -988,16 +1028,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-04T09:00:18.000Z"
-    },
-    {
-      "id": "9f799238f8b9",
-      "title": "Metro Bank customer fights for £14,000 refund after AI-linked fraud",
-      "summary": "Lender was told money was being taken without authorisation, with cash used to buy credits for Claude chatbot A Metro Bank customer has told of his fight to get more than £14,000…",
-      "url": "https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-04T06:00:15.000Z"
     },
     {
       "id": "d8cdae414d20",
@@ -1198,36 +1228,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-02T12:00:22.000Z"
-    },
-    {
-      "id": "7c9695089421",
-      "title": "Stock market turmoil sheds stark light on the opaque AI economy",
-      "summary": "Investors scramble to make sense of a shock Chinese challenge to the dominance of western chipmakers Even for the rollercoaster world of AI, last week was particularly volatile a…",
-      "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-02T09:00:17.000Z"
-    },
-    {
-      "id": "3d5e22b60bfe",
-      "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
-      "summary": "每年都有成千上萬人騎單車環繞台灣一圈，這項被不少人視為成年禮的挑戰，如今正吸引越來越多海外旅客參與。這條1000公里的路線究竟有何魅力？",
-      "url": "https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-02T05:40:11.000Z"
-    },
-    {
-      "id": "f9c8fa46968c",
-      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
-      "summary": "在現代戰爭中，環繞地球運行的人造衛星幾乎未曾受到波及；但到了21世紀，太空或許已不再是安全的避風港。",
-      "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-01T09:56:01.000Z"
     }
   ]
 }
