@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T20:09:14.278Z",
+  "updatedAt": "2026-08-07T21:18:32.839Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "ea33fcf19791",
+      "title": "US police officer accused of killing three people in Mexico arrested at border",
+      "summary": "Chad Eberle of Texas charged over deadly shooting in Saltillo that officials say stemmed from custody dispute A Texas police officer has been arrested in Mexico after authorities…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-07T20:49:24.000Z"
+    },
     {
       "id": "2a7acb33d6b9",
       "title": "Judge approves Trump effort to end South Sudan TPS protections",
@@ -998,16 +1008,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-05T10:43:44.000Z"
-    },
-    {
-      "id": "7d6291e039b2",
-      "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
-      "summary": "Cardinal Pedro Barreto received death threats and harassment during his almost 20-year campaign against a US mining company’s operations in the Andes A Peruvian cardinal who rece…",
-      "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
-      "source": "The Guardian World",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-05T10:40:03.000Z"
     },
     {
       "id": "a38b7f4d7aa9",
