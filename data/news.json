@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:36:34.688Z",
+  "updatedAt": "2026-08-07T08:37:22.533Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,96 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "0599dcc99910",
+      "title": "广东省在澳门发行离岸人民币地方政府债券25亿元",
+      "summary": "中新网广州8月7日电 (记者 许青青)据广东省财政厅7日介绍，广东省政府6日在澳门特别行政区成功发行25亿元离岸人民币地方政府债券，这是广东省连续第6年安排地方政府债券在澳门本地簿记发行、登记托管并上市交易。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673690.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T08:32:33.000Z"
+    },
+    {
+      "id": "e68d986edec2",
+      "title": "台风“白海豚”渐近 浙江温州海警多举措应对",
+      "summary": "中新网温州8月7日电(钱晨菲)随着今年第13号台风“白海豚”的逼近，东海海域风浪渐起。为切实防范台风风险，筑牢海上安全屏障，浙江温州海警局坚持“关口前移、预防为主”，启动防台应急响应机制，组织执法力量深入一线，开展宣传引导与隐患排查工作，全力守护辖区群众生命财产安全。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673689.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T08:32:21.000Z"
+    },
+    {
+      "id": "253669b9df0c",
+      "title": "浙江京昆艺术中心（昆剧团）携原创青春昆剧走进联合国总部",
+      "summary": "中新网北京8月7日电 (记者 高凯)记者7日从中国戏剧家协会获悉，浙江京昆艺术中心(昆剧团)携青春戏曲《盛世红妆》于日前快闪联合国总部。以昆腔为媒，盛唐故事为内核，向海外观众呈现中式古典美学的魅力。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-07/10673692.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T08:31:21.000Z"
+    },
+    {
+      "id": "1d15a925c890",
+      "title": "褪去黄沙披绿纱 内蒙古科右中旗全域焕新颜",
+      "summary": "中新网兴安盟8月7日电 题：褪去黄沙披绿纱 内蒙古科右中旗全域焕新颜",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673686.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T08:30:19.000Z"
+    },
+    {
+      "id": "fc06279ac94c",
+      "title": "河南公安机关查实“三支一扶”招募笔试存在组织作弊犯罪行为",
+      "summary": "本报记者从河南公安机关获悉：2026年8月2日，接人社部门关于河南省2026“三支一扶”计划招募笔试有非法参与考试作弊行为的报案后，公安机关高度重视，迅速成立专案组，全面开展侦查调查。现查明，7月11日举办的招募笔试存在规模性组织作弊犯罪行为，嫌疑人在考前勾结考务人员获取试卷考题，随后立即组织人员答题，后将答案用提前准备的电子设备点对点向事前约定的考生传…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673691.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T08:29:21.000Z"
+    },
+    {
+      "id": "0af0f44533ce",
+      "title": "东航：国内客票提前14天免费退改",
+      "summary": "记者8月7日从中国东航获悉，东航近日发布新版国内客票自愿退票和自愿变更实施细则，明确对于8月6日(含)以后销售的国内客票，所有舱位可提前14天办理免费自愿变更或退票。其中，“提前14天”指航班规定离站时间前14×24小时，即336小时，具体规则以东航官网发布为准。(记者王聿昊、王辰阳)",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673685.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T08:24:13.000Z"
+    },
+    {
+      "id": "02f0659b56c8",
+      "title": "2026“筑梦未来·陕西有约”香港警察子女研学交流分享会举办",
+      "summary": "8月6日，2026“筑梦未来·陕西有约”香港警察子女研学交流分享在陕西西安西影园区举办。香港警务处处长周一鸣，陕西省委统战部副部长、省侨办主任曾德超出席活动并致辞。香港中联办警联部副部长谢巍，陕西省公安厅副厅长高东为获奖青年颁奖。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673684.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T08:21:37.000Z"
+    },
+    {
+      "id": "784bbc19a195",
+      "title": "（乡村行·看振兴）广东西和村：番石榴迎丰收 农旅融合助振兴",
+      "summary": "中新网广州8月7日电 (张璐 余冰冰 罗素玲)盛夏八月，走进广州市从化城郊街道西和村一家果场，沿路可见饱满的木瓜、鲜亮的火龙果、红彤彤的莲雾。成片番石榴树下，挂满套着白色保护袋的果实，在绿叶映衬下格外亮眼。果农穿梭果树间，忙着采摘累累硕果，一派丰收景象。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673682.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T08:21:35.000Z"
+    },
+    {
+      "id": "7ff31b21bd33",
+      "title": "行走侨乡：海内外青年溯源云南腾冲百年家国情怀",
+      "summary": "中新网昆明8月7日电(洪沂)暑期的云南腾冲游人如织，在当地和顺古镇的巷道，众人打卡拍照、品尝小吃、挑选伴手礼……一群身着红色马甲的年轻人格外显眼，他们脚步不疾不徐，在探寻一个关于“侨乡”的前世今生。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673681.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T08:21:19.000Z"
+    },
+    {
       "id": "5a90314bd6e3",
       "title": "泰國校園槍擊案至少七人死亡 槍手同告斃命",
       "summary": "曼谷西北面市郊一家學校發生槍擊事件，槍手據稱是一名14歲男生。當局懷疑他在到學校逞兇前先殺害了自己的祖父母。",
@@ -37,177 +127,237 @@
       "source": "BBC 中文",
       "category": "国际",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:35:09.000Z"
+      "publishedAt": "2026-08-07T08:18:37.000Z"
     },
     {
-      "id": "06ac7145a97a",
-      "title": "济南市宗教政策法规文件贯彻落实工作专题推进会议召开",
-      "summary": "为全面贯彻落实党的宗教工作方针政策，坚持和巩固宗教界“学法规、守戒律、重修为、树形象”主题教育活动，持续提升全市宗教工作法治化、规范化、制度化水平，8月3日，济南市宗教政策法规文件贯彻落实工作专题推进会议召开。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673652.shtml",
+      "id": "26157a66df08",
+      "title": "大湾区动画电影周热议：AI 赋能产业，原创铸就核心",
+      "summary": "中新网东莞8月7日电 (记者 蔡敏婕)AI究竟是动画行业提质增效的工具，还是原创内容的替代者？2026粤港澳大湾区动画电影周正在东莞举行，在同步举办的粤港澳影视政策解读及平行对话会上，多位业内人士探讨AI与动画原创的共生关系。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-07/10673680.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-07T08:18:17.000Z"
+    },
+    {
+      "id": "3ba5cd71ae2a",
+      "title": "立秋时节炖一盅百合木耳冬瓜汤——素淡藏清润 从容养阴津",
+      "summary": "立秋时节炖一盅百合木耳冬瓜汤——",
+      "url": "https://www.chinanews.com.cn/life/2026/08-07/10673679.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:27:33.000Z"
+      "publishedAt": "2026-08-07T08:16:35.000Z"
     },
     {
-      "id": "8db90d9462fe",
-      "title": "江西新余移民村寨篝火起 各族同胞同庆火把节",
-      "summary": "中新网新余8月7日电 (刘力鑫)8月6日，农历六月二十四，“彝火传千年 同心向未来”2026鹄山都则力塘下彝族火把节在江西省新余市渝水区鹄山镇力塘下村举行。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673650.shtml",
+      "id": "d53c47b6a7b7",
+      "title": "柬埔寨红十字会捐赠10万美元支持中方抗洪救灾",
+      "summary": "中新网金边8月7日电 (记者 杨强)8月6日，柬埔寨红十字会秘书长彭占蒂妮专程来到中国驻柬使馆，向汪文斌大使转交给中国红十字会的10万美元捐款，用于支持中方抗洪救灾。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673644.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:27:01.000Z"
+      "publishedAt": "2026-08-07T08:14:38.000Z"
     },
     {
-      "id": "4ee69f332149",
-      "title": "《民用航空发展“十五五”规划》印发",
-      "summary": "为认真贯彻党中央和国务院决策部署，根据“十五五”规划纲要及交通强国建设部署，中国民航局、国家发展改革委、交通运输部近日联合印发《民用航空发展“十五五”规划》。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673653.shtml",
+      "id": "5cf0260f3f5e",
+      "title": "A股周五放量上涨 医药相关板块走强",
+      "summary": "中新社北京8月7日电 (记者 陈康亮)中国A股7日(周五)放量上涨，主要股指悉数飘红。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673677.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:26:13.000Z"
+      "publishedAt": "2026-08-07T08:14:02.000Z"
     },
     {
-      "id": "19a6ee27158c",
-      "title": "“直通非洲”烟台-非洲产业合作对接活动在烟台举办",
-      "summary": "中新网烟台8月7日电 (记者 王娇妮)6日至7日，“直通非洲”烟台-非洲产业合作对接活动在山东省烟台市举办。来自贝宁、埃塞俄比亚、几内亚等15个非洲国家的驻华使节及商协会、企业代表，与烟台50余家企业代表面对面交流，共拓产业合作新空间。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673646.shtml",
+      "id": "835d0af51049",
+      "title": "应对台风“白海豚”，自然资源部对浙江福建启动地质灾害防御Ⅳ级响应",
+      "summary": "中新网8月7日电 据自然资源部微信公众号消息，据气象部门预测和部地质灾害技术指导中心研判，受第13号台风“白海豚”影响，未来一周，浙江、福建有强降雨过程，浙江大部、福建北部发生地质灾害的风险较高。自然资源部于8月7日15时对浙江、福建启动地质灾害防御IV级响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673672.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:25:27.000Z"
+      "publishedAt": "2026-08-07T08:13:50.000Z"
     },
     {
-      "id": "0c1bf09a43e1",
-      "title": "重庆北碚：9万亩水稻开镰绘就好“丰”景",
-      "summary": "图为北碚区三圣镇古佛村采用机械化设备收割成熟的水稻。秦廷富 摄 图为航拍北碚区柳荫镇明通村采用机械化设备收割成熟的水稻。(无人机照片)秦廷富 摄 图为航拍北碚区柳荫镇明通村采用机械化设备收割成熟的水稻。(无人机照片)秦廷富 摄 图为北碚区柳荫镇明通村采用机械化设备收割成熟的水稻。秦廷富 摄 图为村民正在晾晒收割好的水稻。(无人机照片)秦廷富 摄 图为北碚…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-07/10673641.shtml",
+      "id": "c5d2f9968348",
+      "title": "四川宜宾高县发生4.9级地震 暂无人员伤亡",
+      "summary": "中新社成都8月7日电 (单鹏 刘忠俊)据中国地震台网正式测定，7日13时8分，在四川宜宾市高县(北纬28.51度，东经104.67度)发生4.9级地震，震源深度6公里。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673675.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:24:33.000Z"
+      "publishedAt": "2026-08-07T08:13:18.000Z"
     },
     {
-      "id": "0e9593210082",
-      "title": "立秋时节 贵州肇兴侗寨景致宜人",
-      "summary": "图为8月7日航拍肇兴侗寨。(无人机照片)唐哲 摄 图为8月7日航拍肇兴侗寨。(无人机照片)唐哲 摄 图为8月7日航拍游客在肇兴侗寨游玩。(无人机照片)唐哲 摄 图为8月7日航拍肇兴侗寨。(无人机照片)唐哲 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-07/10673640.shtml",
+      "id": "c5fcf08782d8",
+      "title": "河北陆港集团（大兴机场临空区）中欧班列服务中心正式启用",
+      "summary": "【欧洲专线】河北陆港集团(大兴机场临空区)中欧班列服务中心正式启用",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673676.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:23:39.000Z"
+      "publishedAt": "2026-08-07T08:13:00.000Z"
     },
     {
-      "id": "9fa6046cb987",
-      "title": "第38届大众电影百花奖配套展览和市集活动亮相北京朝阳公园",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-07/1200383.shtml",
+      "id": "e19327aa9ee5",
+      "title": "李在明向国家暴力受害者致歉",
+      "summary": "中新网8月7日电 据韩联社报道，当地时间7日，韩国总统李在明邀请约70名国家暴力受害者共进午餐，并代表国家向受害者致歉，表示“国家责任没有时效”，称政府将承担责任，推动伤痛治愈和历史真相调查。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673674.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:22:32.000Z"
+      "publishedAt": "2026-08-07T08:11:56.000Z"
     },
     {
-      "id": "7022f97552ae",
-      "title": "中白将举行“神鹰-2026”空降兵联合训练",
-      "summary": "中新网8月7日电 据“国防部发布”微信公众号，8月7日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673625.shtml",
+      "id": "57eeac1f3e72",
+      "title": "（活力中国调研行）走进奇瑞“智造”工厂：新能源汽车生产中的数智力量",
+      "summary": "图为工人正在总装车间工作。中新社记者 韩苏原 摄 图为工人正在总装车间工作。中新社记者 韩苏原 摄 图为机械臂在生产线上有序作业。中新社记者 韩苏原 摄 图为工人正在焊装车间工作。中新社记者 韩苏原 摄 图为机械臂在生产线上作业。中新社记者 韩苏原 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-07/10673671.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:22:09.000Z"
+      "publishedAt": "2026-08-07T08:11:42.000Z"
     },
     {
-      "id": "f6c2fcc5ba0a",
-      "title": "河南新乡市凤泉区：凝心聚力强根基 多元共进谱新篇",
-      "summary": "近日来，新乡市凤泉区委统战部紧扣新时代统战工作主线，统筹推进民族宗教政策法规培训、思想引领、联谊慰问等重点活动，在学深悟透中筑牢法治根基，在红色洗礼中凝聚思想共识，在走访慰问中深化鱼水情谊，以扎实行动书写统一战线服务全区中心大局的生动答卷。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673633.shtml",
+      "id": "4ad7151b6e1a",
+      "title": "第七届粤港澳大湾区 “粤菜师傅” 大赛新秀组比赛在广东河源举行",
+      "summary": "图为中式烹调区的参赛选手在制作特色小吃。中新社记者 陈楚红 摄 图为中式烹调区的参赛选手选用万绿湖桂花鱼为原料制作美食。中新社记者 陈楚红 摄 图为中式烹调区的参赛选手在比赛中。中新社记者 陈楚红 摄 图为菜品展示区的象形鹰嘴桃酥吸引工作人员拍摄。中新社记者 陈楚红 摄 图为菜品展示区的象形鹰嘴桃酥等中式面点吸引工作人员参观。中新社记者 陈楚红 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-07/10673668.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:21:49.000Z"
+      "publishedAt": "2026-08-07T08:09:28.000Z"
     },
     {
-      "id": "d1b3df1cfeda",
-      "title": "国防部：推动基本实现国防和军队现代化取得决定性进展",
-      "summary": "中新网8月7日电 8月7日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673643.shtml",
+      "id": "2ccd7fdf5e8b",
+      "title": "大量民族古籍“养在深闺无人识” 人工智能或可唤醒“沉睡”的文化宝藏",
+      "summary": "现在，请你画一个小人，你会首先想到画个“火柴人”吗？一个圆作头，一条竖作身，四条斜线作为四肢……恭喜你，你写出了一个我国纳西族东巴文中的“人”字。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-07/10673678.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:21:03.000Z"
+      "publishedAt": "2026-08-07T08:09:18.000Z"
     },
     {
-      "id": "dafe09277754",
-      "title": "辽聊共同体系列活动之铸牢中华民族共同体意识宣讲在大东区举办终场宣讲",
-      "summary": "近日，辽聊共同体系列活动——“红色抗战热土？圆梦聚力同心”铸牢中华民族共同体意识专题宣讲的最后一场在沈阳市大东区时代文仓城市书房举行。活动深挖辽宁红色抗战资源，以厚重史实为载体开展民族团结宣传教育，省市区民族工作系统干部、民族和宗教界代表人士、社区工作者、各族群众等130余人参加。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673634.shtml",
+      "id": "40eab8b7ad30",
+      "title": "国家网信办就《大型个人信息处理者个人信息保护规定（征求意见稿）》公开征求意见",
+      "summary": "中新网8月7日电 据“网信中国”微信公众号消息，国家互联网信息办公室于8月7日关于《大型个人信息处理者个人信息保护规定(征求意见稿)》公开征求意见的通知。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673673.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:19:37.000Z"
+      "publishedAt": "2026-08-07T08:05:00.000Z"
     },
     {
-      "id": "0f38473f3dc5",
-      "title": "日本“再军事化”妄动是地区和平稳定的真正威胁",
-      "summary": "8月7日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673642.shtml",
+      "id": "aed38f3e7ffe",
+      "title": "雄商高铁河北段今起按图行车试验 开通进入倒计时",
+      "summary": "中新网石家庄8月7日电 (邢璐 赵丹媚 董策)据中国铁路北京局集团有限公司(以下简称“国铁北京局”)消息，雄安新区至商丘高速铁路河北段(以下简称“雄商高铁河北段”)7日开始按图行车试验，标志着该线路进入开通运营倒计时。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673670.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:18:47.000Z"
+      "publishedAt": "2026-08-07T08:02:40.000Z"
     },
     {
-      "id": "a82a2c7d186d",
-      "title": "国防部：中国军队坚决反制任何闹海挑衅图谋",
-      "summary": "中新网8月7日电 据国防部官网消息，8月7日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673639.shtml",
+      "id": "053512815a72",
+      "title": "这很中国·国风出海｜俄罗斯青年爱丽娜：从贝加尔湖畔走来，感受跨越国界的“中国热”",
+      "summary": "爱丽娜来自紧邻贝加尔湖的伊尔库茨克。依托社交平台，大量关于中国生活、中华文化的内容传到她的家乡，带动当地兴起“中国热”，越来越多年轻人向往来到中国。新中式穿搭、中式养生理念、特色药品，都受到当地年轻人喜爱。",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-07/news1064619.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:16:23.000Z"
+      "publishedAt": "2026-08-07T07:59:44.000Z"
     },
     {
-      "id": "00490a1f1ba3",
-      "title": "“APEC大会倒计时100天媒体采风活动”在深圳开启",
-      "summary": "中新网深圳8月7日电 (记者 索有为)为期3天的“相约深圳 见证奇迹——APEC大会倒计时100天媒体采风活动”6日在深圳开启。从重大文化设施，到文化精品创作创意机构，再到以舞台艺术传递中国声音的文艺院团，记者们不仅见证了深圳文化高质量发展的生动实践，也感受着这座城市为迎接APEC会议所做的精心筹备。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673635.shtml",
+      "id": "7741812cdb41",
+      "title": "突发：泰国一轿车冲入儿童中心 致15名儿童受伤",
+      "summary": "中新网8月7日电 据泰媒报道，当地时间8月7日，泰国北碧府一辆轿车失控冲入一家儿童发展中心，目前已造成15名儿童受伤。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673632.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-07T07:15:15.000Z"
+      "publishedAt": "2026-08-07T07:59:41.000Z"
+    },
+    {
+      "id": "df83b9ae3e68",
+      "title": "入境消费热度持续攀升 “中国游”带火“中国购”",
+      "summary": "暑期以来，大量外籍旅客来华旅游，带动离境退税业务增长。据北京海关统计，今年前七个月，北京“双枢纽”机场首都国际机场和大兴国际机场海关共验核离境退税申请单超13.1万票，相比去年同期，增长超516%；申请退税商品总金额约10.55亿元，相比去年同期增长45.01%，入境消费热度持续攀升。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673667.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T07:57:43.000Z"
+    },
+    {
+      "id": "23213236a079",
+      "title": "大兴机场临空经济区中欧班列服务中心正式启用",
+      "summary": "今天(7日)，大兴机场临空经济区中欧班列服务中心正式启用，北京与河北实现临空经济区与中欧班列集结中心业务贯通，打造出一条空陆多式联运新通道。",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-07/10673666.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T07:53:35.000Z"
+    },
+    {
+      "id": "a7bf2f54ec64",
+      "title": "“今天总得有40°C了吧？”气象部门为啥还不预警？",
+      "summary": "近期，北京的天气“闷热难熬”，8月份前6天就已出现了5个高温日。不只是北京，我国华北、东北多地正持续经历“桑拿天”，气温居高不下的同时，不少地方相对湿度也超过了60%，体感闷热。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673665.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T07:52:47.000Z"
+    },
+    {
+      "id": "33d94fce3221",
+      "title": "Thailand school shooting: seven killed including suspected attacker, police say",
+      "summary": "At least 15 other people injured after student ⁠opened fire at Debsirin Nonthaburi school, north of Bangkok Thailand school shooting – latest updates A Thai teenager killed at le…",
+      "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-07T07:51:24.000Z"
+    },
+    {
+      "id": "d805e0538d4c",
+      "title": "湖南省发布高温黄色预警",
+      "summary": "中新网8月7日电 据中央气象台网站消息，湖南省气象台2026年8月7日16时发布高温黄色预警：预计8日白天，湘中、湘北部分地区有35℃以上高温，局部地区将达37℃以上，请做好防范。黄色预警区域：长沙东部、株洲中北部、湘潭东部、湘西州东部、张家界中南部、常德大部、益阳北部、岳阳、怀化北部、娄底东部、衡阳中北部、郴州北部。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673664.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T07:49:29.000Z"
+    },
+    {
+      "id": "fcf002178005",
+      "title": "深圳市第三届“新联新质周”启动 助推产学研深度融合",
+      "summary": "中新网深圳8月7日电 (记者 索有为)“科创中国·新质鹏城”点亮产业专项行动暨深圳市第三届“新联新质周”6日在深圳市龙岗区启动。该活动由中央统战部六局、广东省委统战部、深圳市委统战部等指导，深圳市新联会联合龙岗区新联会举办，聚焦新阶层人士专业优势，搭建技术、市场、资本对接平台，为深圳培育新质生产力注入新动能。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673663.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T07:47:48.000Z"
+    },
+    {
+      "id": "419a2aff6d4a",
+      "title": "湖北首个出口食用菌“大基地”落地随州",
+      "summary": "中新网随州8月7日电 (武一力 韩菲 吕洁文)近日，湖北省随州市随县出口食用菌“大基地”正式通过海关出口食品原料种植场备案，成为该省首个出口食用菌“大基地”。数据显示，2026年上半年，随州干制食用菌出口3.4亿元，同比增长39.5%，出口国家由24个增加至29个。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673660.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T07:46:42.000Z"
     },
     {
       "id": "d18390a32e16",
-      "title": "Australia news live: Attorney general warns women and children at risk of ‘harmful conduct’ from smartglasses users; Victoria puts chickens in lockdown due to bird flu",
-      "summary": "Follow today’s news live Federal parliament is returning from winter break next week. Do you have a question you’d like to ask Guardian Australia’s team of political reporters in…",
+      "title": "Attorney general warns women and children at risk of ‘harmful conduct’ from smartglasses users – as it happened",
+      "summary": "This blog is now closed Federal parliament is returning from winter break next week. Do you have a question you’d like to ask Guardian Australia’s team of political reporters in…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-07T07:12:11.000Z"
-    },
-    {
-      "id": "2bbe094ed0d9",
-      "title": "A股收评：超2800只个股飘红，三大指数集体收涨",
-      "summary": "科创综指涨超3%；医药板块掀涨停潮，CPO概念走高，半导体、贵金属上涨；电信、软件下跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673638.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T07:12:09.000Z"
-    },
-    {
-      "id": "cd3857ca982f",
-      "title": "泰国校园枪击案细节曝光：枪手先杀祖父母后行凶，累计开26枪",
-      "summary": "中新网8月7日电 据路透社等外媒报道，8月7日上午，泰国首都曼谷以北的暖武里府一所中学发生枪击事件。警方称，枪击造成包括枪手在内共7人死亡，受伤人数为15人。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673636.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T07:08:04.000Z"
     },
     {
       "id": "0374a7333ec4",
@@ -218,146 +368,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-07T07:00:11.000Z"
-    },
-    {
-      "id": "db58b7f51b43",
-      "title": "7月中国公路物流运价指数环比小幅回落",
-      "summary": "中新社北京8月7日电 (记者 阮煜琳)中国物流与采购联合会7日发布的数据显示，受季节性波动和极端天气影响，7月份，中国公路物流运价指数为105.2点，比上月回落0.05%，同比回升0.15%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673631.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:56:37.000Z"
-    },
-    {
-      "id": "d1f2473f591c",
-      "title": "重庆仙女山“清凉经济”走俏：高山清风迎远客",
-      "summary": "中新网重庆8月7日电 题：重庆仙女山“清凉经济”走俏：高山清风迎远客",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673630.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:56:03.000Z"
-    },
-    {
-      "id": "0d92cc0497df",
-      "title": "台风“白海豚”逼近 长江江苏辖区暂停全部出江试航作业",
-      "summary": "中新网南京8月7日电 (姚鹏 时崇 朱晓颖)台风“白海豚”逼近华东沿海。江苏海事局7日发布消息，长江江苏辖区暂停全部出江试航作业。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673629.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:55:39.000Z"
-    },
-    {
-      "id": "e88ecac798e9",
-      "title": "苏州“网师夜花园”：“非遗”添彩“世遗” 游客竞相打卡",
-      "summary": "中新网苏州8月7日电 (常慕城)一到傍晚时分，苏州网师园门前就排起了长队，来自各地的游客竞相打卡知名夜间文旅项目“网师夜花园”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673628.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:54:57.000Z"
-    },
-    {
-      "id": "4cd17c029a9b",
-      "title": "河南商丘市虞城县：以商会力量激活民营经济新活力",
-      "summary": "车间机器轰鸣不息，产销订单接续不断。在河南省虞城县稍岗镇一批批精密钢卷尺经过自动化加工、智能检测后有序打包，销往全国、远销海外。作为全国规模最大的钢卷尺产业集聚区，当地年产钢卷尺15亿只，占据全国市场份额85%以上。小小五金产品领跑全国市场的背后，是虞城持续建强商会阵地、细化全链条助企服务，全方位为中小微企业纾困解难、蓄势赋能的生动实践。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673626.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:54:27.000Z"
-    },
-    {
-      "id": "1ec603be2742",
-      "title": "浙江防台风应急响应提升至Ⅲ级 162条客渡运航线停航",
-      "summary": "中新社杭州8月7日电 (钱晨菲)浙江省防汛防台抗旱指挥部7日12时将防台风应急响应提升至Ⅲ级。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673623.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:53:37.000Z"
-    },
-    {
-      "id": "e2e6cc2f79f5",
-      "title": "以“体”为媒 架起甬澳青年同心桥——澳门体育界青年走进江北",
-      "summary": "绿茵牵线，甬澳连心。近日，甬澳两地体育界青年交流活动在宁波甬江TOD体育公园举办。活动依托甬江TOD体育公园平台，推动澳门国际体育资源与宁波体育平台深度对接，通过建立常态化合作模式，深度促进两地青年交往、文体产业联动。江北区委常委、统战部部长潘卫锋、北京体育大学澳门校友会会长何力辉、宁波市足球协会主席席伟达、宁波市乒乓球协会副主席范定以及甬澳两地体育界人…",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673627.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:53:05.000Z"
-    },
-    {
-      "id": "684cafa1fe41",
-      "title": "国家能源局印发《电力安全生产“十五五”行动计划》",
-      "summary": "中新网8月7日电 据国家能源局微信公众号消息，国家能源局近日印发《电力安全生产“十五五”行动计划》，通知全文如下：",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673621.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:50:09.000Z"
-    },
-    {
-      "id": "4b1de5f5593b",
-      "title": "三尊北魏合金佛造像，如何传到青藏高原？",
-      "summary": "中新社记者 赵朗",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-07/10673624.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:48:31.000Z"
-    },
-    {
-      "id": "10c473587e54",
-      "title": "8月全国自然灾害风险形势发布：可能有2-3个台风登陆或影响我国沿海地区",
-      "summary": "中新网8月7日电 据应急管理部网站消息，近日，国家防灾减灾救灾委员会办公室、应急管理部会同自然资源部、水利部、农业农村部、中国气象局、国家能源局、国家林草局等部门召开会商会，对2026年8月份全国自然灾害风险形势进行会商研判。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673611.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:45:37.000Z"
-    },
-    {
-      "id": "f6d04c9aa9c2",
-      "title": "老人坐轮椅过马路被隔离柱挡住 两位路过司机下车俯身托举",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-07/news1064617.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:38:58.000Z"
-    },
-    {
-      "id": "6d0d4efbe159",
-      "title": "评论：不临海，吉林何以经略深蓝？",
-      "summary": "中新网长春8月7日电 (记者 李彦国)近日，吉林省委书记黄强到延边州珲春市调研时强调，要充分把握历史机遇，坚定不移向海图强，以高水平对外开放推动吉林高质量发展。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673617.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:38:40.000Z"
-    },
-    {
-      "id": "33af8e72267a",
-      "title": "实干开新局｜消费市场开局起势",
-      "summary": "7月30日，习近平总书记主持召开中共中央政治局会议。会议分析研究当前经济形势，部署下半年经济工作，明确要求有效扩大国内需求，适应不同群体消费需求扩大优质供给，挖掘服务消费潜力。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673622.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:36:26.000Z"
-    },
-    {
-      "id": "384d79beb083",
-      "title": "贵州毕节百里杜鹃：欢庆火把节",
-      "summary": "图为8月6日，民众在贵州省毕节市百里杜鹃管理区参加火把节活动。李华 摄 图为8月6日，演员在贵州省毕节市百里杜鹃管理区火把节活动中表演节目。李华 摄 图为8月6日，演员在贵州省毕节市百里杜鹃管理区火把节活动中表演节目。李华 摄 图为8月6日，演员在贵州省毕节市百里杜鹃管理区火把节活动中表演节目。李华 摄 图为8月6日，民众在贵州省毕节市百里杜鹃管理区参加…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-07/10673579.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T06:34:36.000Z"
     },
     {
       "id": "28d32a4b2ee0",
@@ -1108,16 +1118,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-04T09:00:18.000Z"
-    },
-    {
-      "id": "d8cdae414d20",
-      "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
-      "summary": "Most of the zoo’s 16 lions have struggled to cope with high humidity this summer Three lions from a Tokyo zoo have died from suspected heatstroke and others are undergoing treatm…",
-      "url": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-04T05:46:06.000Z"
     },
     {
       "id": "e2b71464dbd9",
