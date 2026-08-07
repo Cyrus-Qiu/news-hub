@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T16:03:28.941Z",
+  "updatedAt": "2026-08-07T17:02:37.378Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "0f651b6126b7",
+      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
+      "summary": "Counter-disinformation group says social media channels connected to Pravda network helped amplify message Accounts with links to the Russian military promoting far-right message…",
+      "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-07T16:35:26.000Z"
+    },
     {
       "id": "1cc8d598086c",
       "title": "我们的家园｜萨迦县宗果社区灾后重建纪实：重建的是家园 温暖的是人心",
@@ -238,16 +248,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-07T14:48:05.000Z"
-    },
-    {
-      "id": "0f651b6126b7",
-      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
-      "summary": "Counter-disinformation group says social media channels connected to Pravda network helped amplify message Accounts with links to the Russian military promoting far-right message…",
-      "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-07T14:48:03.000Z"
     },
     {
       "id": "b79d78f69a6b",
