@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T17:55:13.301Z",
+  "updatedAt": "2026-08-07T19:08:42.445Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,24 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "2a7acb33d6b9",
+      "title": "Judge approves Trump effort to end South Sudan TPS protections",
+      "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nat…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-07T18:34:34.000Z"
+    },
+    {
       "id": "ffecc5cf2125",
-      "title": "Fenech was ‘preparing champagne’ to celebrate Caruana Galizia murder, court hears",
-      "summary": "A taxi driver says he acted as middleman between the Maltese businessman and three men already convicted of carrying out the €150,000 contract killing The businessman accused of…",
+      "title": "Businessman was ‘preparing champagne’ to celebrate Caruana Galizia murder, court hears",
+      "summary": "Taxi driver says he acted as middleman between Yorgen Fenech and three men already convicted of €150,000 contract killing The businessman accused of paying for hitmen to murder t…",
       "url": "https://www.theguardian.com/world/2026/aug/07/yorgen-fenech-champagne-celebrate-daphne-caruana-galizia-murder",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-07T17:31:06.000Z"
+      "publishedAt": "2026-08-07T17:40:53.000Z"
     },
     {
       "id": "0f651b6126b7",
@@ -758,16 +768,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-06T10:00:45.000Z"
-    },
-    {
-      "id": "1955fba96e7a",
-      "title": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
-      "summary": "Washington-Rabat ties under scrutiny as questions swirl over what led to deadly influx into tiny Spanish territory The cosy relationship between Washington and Rabat has long bee…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-06T09:45:54.000Z"
     },
     {
       "id": "ae7c6b6ca6c5",
