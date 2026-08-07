@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T17:02:37.378Z",
+  "updatedAt": "2026-08-07T17:55:13.301Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "ffecc5cf2125",
+      "title": "Fenech was ‘preparing champagne’ to celebrate Caruana Galizia murder, court hears",
+      "summary": "A taxi driver says he acted as middleman between the Maltese businessman and three men already convicted of carrying out the €150,000 contract killing The businessman accused of…",
+      "url": "https://www.theguardian.com/world/2026/aug/07/yorgen-fenech-champagne-celebrate-daphne-caruana-galizia-murder",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-07T17:31:06.000Z"
+    },
     {
       "id": "0f651b6126b7",
       "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
@@ -528,16 +538,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-07T07:12:11.000Z"
-    },
-    {
-      "id": "ac93cba4b7ca",
-      "title": "Extreme heat breaks temperature records in central and eastern Europe",
-      "summary": "Slovakia reaches new high of 42C as authorities in Poland forced to shut down Kozienice and Połaniec power plants Europe’s dry riverbeds and scorched earth – in pictures Temperat…",
-      "url": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-07T05:00:08.000Z"
     },
     {
       "id": "06cbc6a8a7f5",
