@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T21:18:32.839Z",
+  "updatedAt": "2026-08-07T22:08:13.283Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,116 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "4ca16cbd69ab",
+      "title": "台风“白海豚”逼近 上海洋山港所有船舶已安全转移",
+      "summary": "新华社上海8月7日电(记者王辰阳)记者从洋山港海事局获悉，台风“白海豚”逼近我国东部沿海，8月7日22点，随着最后一艘干线集装箱船“中远海运秘鲁”驶离泊位，上海洋山港所有船舶已全部完成安全转移。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-08/10674027.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T22:00:12.000Z"
+    },
+    {
+      "id": "88939053d668",
+      "title": "香港宏福苑火灾跨部门调查最终报告：大火或由烟头引起",
+      "summary": "新华社香港8月7日电 香港大埔火灾独立委员会最新公开跨部门调查专组的最终调查报告，认为大火或是由烟头引起，而易燃物加剧了火势蔓延。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-08/10674026.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T21:58:16.000Z"
+    },
+    {
+      "id": "70736ab02357",
+      "title": "美国上诉法院维持对白宫宴会厅改造项目的暂停令",
+      "summary": "新华社华盛顿8月7日电(记者杨伶 熊茂伶)美国哥伦比亚特区联邦巡回上诉法院7日裁定，维持对白宫宴会厅改造项目的暂停令。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674025.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T21:55:12.000Z"
+    },
+    {
+      "id": "751f636166d8",
+      "title": "法国今年第二季度失业率升至8.3%",
+      "summary": "中新社巴黎8月7日电 (记者 李洋)法国官方当地时间7日发布的数据显示，法国今年第二季度失业率升至8.3%，达到近6年来的最高水平。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674024.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T21:51:49.000Z"
+    },
+    {
+      "id": "445d1023a328",
+      "title": "德国6月出口额同比增长6.6%",
+      "summary": "中新社柏林8月7日电 (记者 马秀秀)德国联邦统计局7日公布的数据显示，经日历和季节调整后，德国6月出口额为1393亿欧元，环比增长0.9%，同比增长6.6%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674023.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T21:49:21.000Z"
+    },
+    {
+      "id": "9b13f935a5d1",
+      "title": "欧亚经济联盟政府间理事会会议举行 聚焦电子商务等议题",
+      "summary": "中新社阿斯塔纳8月7日电 乔尔蓬阿塔消息：欧亚经济联盟政府间理事会会议6日至7日在吉尔吉斯斯坦乔尔蓬阿塔举行。会议围绕进一步推进欧亚经济一体化，讨论了电子商务、石油及其制品统一市场建设、铁路货运数字化和食品供应保障等议题。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674022.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T21:48:13.000Z"
+    },
+    {
+      "id": "9253f8408df8",
+      "title": "印尼华裔总会新一届理监事就职",
+      "summary": "中新社雅加达8月7日电 (记者 李志全)印度尼西亚华裔总会新一届理监事会就职典礼7日在雅加达举行。黄印华履新2026年至2030年度印尼华裔总会总主席，黄德新受聘为辅导主席。",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-08/10674021.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T21:47:19.000Z"
+    },
+    {
+      "id": "f26faaaa9684",
+      "title": "美国7月非农就业减少2.3万",
+      "summary": "中新社华盛顿8月7日电 (记者 陈孟统)美国劳工部7日发布数据称，美国7月非农就业岗位减少2.3万个，失业率为4.1%，低于6月的4.2%。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674020.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T21:45:01.000Z"
+    },
+    {
+      "id": "df66205a66f8",
+      "title": "Spain to introduce temporary border checks on visitors from Italy",
+      "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy i…",
+      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-07T21:44:38.000Z"
+    },
+    {
+      "id": "1a9309a92a5f",
+      "title": "中国游客在泰国景区坠崖致一死一伤",
+      "summary": "中新社曼谷8月7日电 (记者 李映民)当地时间7日，泰国春武里府芭堤雅附近的阁兰岛发生一起摩托车坠崖事故，一名中国男性游客当场死亡，其女儿受伤送医。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674019.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T21:44:23.000Z"
+    },
+    {
+      "id": "12e18efcc74a",
+      "title": "秘鲁与墨西哥恢复外交关系",
+      "summary": "新华社利马/墨西哥城8月7日电(记者廖思维 翟淑睿)秘鲁外交部7日发布秘鲁和墨西哥政府联合公报，宣布恢复两国外交关系。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674018.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T21:39:41.000Z"
+    },
     {
       "id": "ea33fcf19791",
       "title": "US police officer accused of killing three people in Mexico arrested at border",
@@ -268,106 +378,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-07T14:50:15.000Z"
-    },
-    {
-      "id": "ef1578c5418d",
-      "title": "港澳大学生暑期“闯”海南：愿做逐浪未来之“桥”",
-      "summary": "中新社海口8月7日电 题：港澳大学生暑期“闯”海南：愿做逐浪未来之“桥”",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673979.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:48:05.000Z"
-    },
-    {
-      "id": "b79d78f69a6b",
-      "title": "日本广岛民众举行游行 反对政府危险行径",
-      "summary": "6日，广岛民众举行大规模游行，要求日本政府坚持“无核三原则”，反对解禁杀伤性武器出口等危险行径。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673998.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:45:17.000Z"
-    },
-    {
-      "id": "455af2830606",
-      "title": "入境游“热力值”持续飙升 绝美景色、清凉气候、多彩民俗……海外游客沉浸体验",
-      "summary": "央视网消息：眼下，正值暑期旅游旺季。随着入境游的持续火热，四川九寨沟等地以清凉舒适的气候和优美的自然环境，吸引了大量外国游客。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673997.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:42:05.000Z"
-    },
-    {
-      "id": "f3367016e286",
-      "title": "2026年“一带一路”四国男篮俱乐部邀请赛在宁夏开赛",
-      "summary": "中新社宁夏中宁8月7日电 (记者 杨迪)2026年“一带一路”四国男子篮球俱乐部邀请赛7日晚在宁夏中卫市中宁县开赛，来自中国、德国、格鲁吉亚、澳大利亚的4支职业篮球俱乐部，将在3天内展开对决。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-07/10673987.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:39:40.000Z"
-    },
-    {
-      "id": "fc75e2bda456",
-      "title": "2026年中央一号文件首提“农创客”，上海乡村如何吸粉年轻人？",
-      "summary": "2026年中央一号文件中，首次提出“农创客”，明确提出“因地制宜培育农创客”。“农创客”特指45周岁以下、大专及以上学历，扎根乡村开展创新创业的青年群体。这一政策导向，为青年与乡村的双向奔赴写下时代注脚。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673996.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:38:54.000Z"
-    },
-    {
-      "id": "1453f8794b32",
-      "title": "欧洲足球劲旅来港献技 助力香港盛事经济",
-      "summary": "中新社香港8月7日电 (记者 赵静怡)“香港足球盛会2026”8月5日甫一落幕，德甲拜仁慕尼黑对阵英超阿斯顿维拉的“奥迪足球峰会2026”赛事7日又在香港启德体育园(下称“园区”)主场馆打响。这个夏天，六支欧洲足球劲旅来港献技，持续带动香港零售、餐饮、酒店等多个行业生意兴旺，为香港带来显著经济效益。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-07/10673978.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:36:32.000Z"
-    },
-    {
-      "id": "db25e5b08262",
-      "title": "（走进中国乡村）凉山小黑箐镇：星火映茭海 彝乡夜欢歌",
-      "summary": "中新社四川会理8月7日电 题：凉山小黑箐镇：星火映茭海 彝乡夜欢歌",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673976.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:35:34.000Z"
-    },
-    {
-      "id": "24da98d3465f",
-      "title": "财经老王丨“电影+”如何激发千亿级消费新活力？",
-      "summary": "单日票房连续#8204;20多天#8204;破亿元！今年电影暑期档热度持续攀升。那么，“电影+”如何激发千亿级消费新活力？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673994.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:33:10.000Z"
-    },
-    {
-      "id": "80916da86e60",
-      "title": "国家防总、应急管理部组织多部门联合会商 调度部署台风“白海豚”防范应对工作 国家防总提升防汛防台风应急响应至三级",
-      "summary": "中新网8月7日电 据应急管理部网站消息，8月7日下午，国家防总、应急管理部组织中国气象局、水利部、自然资源部、交通运输部、农业农村部等部门以及浙江、福建和其他可能受影响的省份联合会商，研判台风“白海豚”发展趋势，进一步研究部署台风防范应对工作。国家防总于7日16时将针对浙江、福建的防汛防台风四级应急响应提升至三级。国家防总副总指挥、应急管理部部长张成中主…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673995.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:33:00.000Z"
-    },
-    {
-      "id": "e36952314a62",
-      "title": "（活力中国调研行）从氢能产业到半导体芯片 安徽六安向“新”而行",
-      "summary": "中新社安徽六安8月7日电 (记者 周昕 储玮玮)在中国著名革命老区安徽六安，新能源、新材料等中国战略性新兴产业加速发展。7日，记者走进六安多家企业，在革命老区“触摸”新兴产业脉搏，感受科创驱动城市发展的全新活力。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673975.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:31:46.000Z"
     },
     {
       "id": "33d94fce3221",
@@ -708,16 +718,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-06T13:34:05.000Z"
-    },
-    {
-      "id": "0f4f38c866cc",
-      "title": "Nigerian security forces free more than 300 hostages in ‘largest single-day recovery’",
-      "summary": "President hails operation to rescue captives held in dense forests of Kainji Lake national park in north-central region Nigerian security forces have rescued more than 300 abduct…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-06T12:40:32.000Z"
     },
     {
       "id": "8f521d2e6380",
