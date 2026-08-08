@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T23:08:21.612Z",
+  "updatedAt": "2026-08-08T00:02:25.510Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,46 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "e19a1eb9de32",
+      "title": "德拉埃斯普列亚宣誓就任哥伦比亚总统",
+      "summary": "新华社哥伦比亚卡利8月7日电(记者李子健)哥伦比亚当选总统阿韦拉多·德拉埃斯普列亚7日在哥西南部城市卡利一座大学体育馆宣誓就职，正式开始为期4年的总统任期。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674038.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T23:52:49.000Z"
+    },
+    {
+      "id": "77ca3b64e7fa",
+      "title": "David Brat bound for Australia as diplomat confirmed as next US ambassador",
+      "summary": "Former Republican state congressman, who once argued Christianity and capitalism should merge, confirmed by US Senate to fill long-vacant role Get our breaking news email , free…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-07T23:50:39.000Z"
+    },
+    {
+      "id": "01c11af11750",
+      "title": "巴西前7个月汽车产量增长8.3% 新能源汽车销量翻番",
+      "summary": "中新社圣保罗8月7日电 巴西全国汽车制造商协会7日公布数据显示，今年前7个月，巴西累计生产汽车162.61万辆，同比增长8.3%；累计销售新车170万辆，同比增长17.9%，汽车工业保持稳健增长。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674037.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T23:38:50.000Z"
+    },
+    {
+      "id": "6d7731ae9058",
+      "title": "8月8日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-08/10674035.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-07T23:08:51.000Z"
+    },
     {
       "id": "691064f3f8a4",
       "title": "45天暴瘦40斤后住进ICU AI减重暗藏哪些风险",
@@ -350,36 +390,6 @@
       "publishedAt": "2026-08-07T15:10:33.000Z"
     },
     {
-      "id": "e0f7f8a43349",
-      "title": "最新外贸数据公布 四个关键词解读中国经济韧性",
-      "summary": "外部环境复杂多变，在面临诸多挑战的情况下，我国货物贸易进出口为何能保持良好增长态势？还有哪些值得关注的外贸运行新亮点、新趋势？总台央视记者在海关总署带来观察。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10674004.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T15:04:16.000Z"
-    },
-    {
-      "id": "6caa38b8a6ca",
-      "title": "人民论坛网评 | “文化列车”：从“送文化”到“种文化”",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-07/10674003.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T15:01:08.000Z"
-    },
-    {
-      "id": "856e176ba158",
-      "title": "两岸彝绣创意作品亮相云南南华 针线连心共绣未来",
-      "summary": "中新网云南楚雄8月7日电 (陈静 王临梓)五彩斑斓的敦煌纹样彝绣香包流光溢彩，汲取彝族服饰灵感的手镯、戒指尽显华美，还有红底云锦之上、一匹脚踏繁花的神鹿跃然“绣”上……7日，2026海峡两岸高校南华彝绣艺术创意大赛成果展在云南省楚雄州南华县启幕，来自两岸高校的百余件匠心之作集中亮相，绘就一场跨越山海的文化艺术盛景。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-07/10673990.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-07T14:58:55.000Z"
-    },
-    {
       "id": "33d94fce3221",
       "title": "Thailand school shooting: eight killed including suspected attacker, police say",
       "summary": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where more than 30 were wounded A Thai teenager killed his grandparents before opening fire at his s…",
@@ -668,16 +678,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-06T15:00:06.000Z"
-    },
-    {
-      "id": "9955f98947c5",
-      "title": "Minns said he wouldn’t ‘gloat’ about Icac hearings into the Liberals. Instead, he’s quietly taking out the trash",
-      "summary": "Amid revelations that could damage the opposition’s state election hopes, the NSW government dropped key documents on three contentious issues Follow our Australia news live blog…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/07/minns-said-he-wouldnt-gloat-about-icac-hearings-into-the-liberals-instead-hes-quietly-taken-out-the-trash",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-06T15:00:05.000Z"
     },
     {
       "id": "045c0b3f08e2",
