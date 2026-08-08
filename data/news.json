@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:40:29.869Z",
+  "updatedAt": "2026-08-08T21:39:19.532Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "c1aa1d85dec2",
+      "title": "Iran issues tough demands to reopen strait of Hormuz as deal remains out of reach",
+      "summary": "Tehran urges US to ‘correct its behaviour’ as UAE says one of its ships targeted by Iranian missile Iran has issued tough new demands for reopening the strait of Hormuz, while th…",
+      "url": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-08T21:01:28.000Z"
+    },
     {
       "id": "af5582b5a8c1",
       "title": "Navy says it is spending 25% more time monitoring Russian vessels around UK waters",
@@ -808,16 +818,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-06T13:34:05.000Z"
-    },
-    {
-      "id": "8f521d2e6380",
-      "title": "Trump’s Gaza Board of Peace issues first building contract – for a military base",
-      "summary": "Exclusive: Louisiana firm awarded tender to build rudimentary outpost to house Moroccan troops Donald Trump’s Board of Peace, which was set up in January to oversee the reconstru…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/trump-gaza-board-of-peace-first-building-contract-military-base",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-06T12:00:47.000Z"
     },
     {
       "id": "8b48f93b0aae",
