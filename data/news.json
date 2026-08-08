@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:46:12.634Z",
+  "updatedAt": "2026-08-08T17:38:36.009Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "20c457a6c9f4",
+      "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+      "summary": "Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks OpenAI will pause some work on an artificial intelligence mo…",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-08T17:00:41.000Z"
+    },
     {
       "id": "08738af2a047",
       "title": "200余名香港青少年在北京完成深度创科实践训练",
@@ -1078,16 +1088,6 @@
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-08-04T23:34:17.000Z"
-    },
-    {
-      "id": "e891a70d0213",
-      "title": "AI-generated stories rated better quality than human-written ones, study finds",
-      "summary": "Researcher says simpler writing by AI is easier to read and digest, but this does not mean human authors are obsolete From Homer’s Odyssey to Agatha Christie’s crime fiction, hum…",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-04T23:01:03.000Z"
     },
     {
       "id": "716f57d203a4",
