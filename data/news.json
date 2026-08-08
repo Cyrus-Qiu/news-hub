@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T19:37:29.405Z",
+  "updatedAt": "2026-08-08T20:40:29.869Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "af5582b5a8c1",
+      "title": "Navy says it is spending 25% more time monitoring Russian vessels around UK waters",
+      "summary": "Warning of increased activity as patrols spent 21 days in July shadowing Moscow’s ships in Dover Strait and North Sea The Royal Navy has warned of increasing Russian activity aro…",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/08/navy-says-it-is-spending-25-more-time-monitoring-russian-vessels-around-uk-waters",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-08T20:03:34.000Z"
+    },
+    {
+      "id": "4bc60cae27d3",
+      "title": "Centrelink pursuing debts that are more than 40 years old despite agreeing to waive old arrears",
+      "summary": "Advocates and legal bodies want the debt to be made ‘out of bounds’ given how hard it is to determine its accuracy Get our breaking news email , free app or daily news podcast Ce…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/09/centrelink-pursuing-debts-that-are-more-than-40-years-old-despite-agreeing-to-waive-old-arrears",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-08T20:00:07.000Z"
+    },
+    {
+      "id": "793a4f8a0724",
+      "title": "Hospitality recruitment app Supp calls gig-workers contractors. Some users say it leads to casual work without entitlements",
+      "summary": "Exclusive : Workers’ rights experts raise ‘alarm bells’ over app requiring ABNs for jobs they say lack worker autonomy Get our breaking news email , free app or daily news podcas…",
+      "url": "https://www.theguardian.com/business/2026/aug/09/hospitality-recruitment-app-supp-gig-workers-contractors-casual-work-entitlements-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-08T20:00:06.000Z"
+    },
     {
       "id": "20c457a6c9f4",
       "title": "OpenAI to pause some work on AI model Astra due to security concerns",
@@ -440,16 +470,6 @@
       "publishedAt": "2026-08-08T04:08:18.000Z"
     },
     {
-      "id": "f956f56f6a39",
-      "title": "Germans hogging the sunloungers? Poll finds Italians and French are worse",
-      "summary": "British and Germans themselves share stereotype but other nationalities are likelier to put out towels – or umbrellas Germans are sunlounger hoggers, or so the longstanding stere…",
-      "url": "https://www.theguardian.com/world/2026/aug/08/sunlounger-hoggers-poll-germans-italians-french-british",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-08T04:00:35.000Z"
-    },
-    {
       "id": "1087b693124d",
       "title": "Senior managers at St Basil’s aged care, where 50 died from Covid, can’t remember it all. Grieving loved ones can’t forget",
       "summary": "Konstantin Kontis and Vicky Kos were compelled to testify at a coronial inquest resuming on the sixth anniversary of the tragedy Get our breaking news email , free app or daily n…",
@@ -658,26 +678,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-07T08:40:57.000Z"
-    },
-    {
-      "id": "28d32a4b2ee0",
-      "title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
-      "summary": "Barrister alleges ‘account of penis wiggling is an attempt to humiliate’ broadcaster who has pleaded not guilty to 22 charges of indecent assault and sexual touching Get our brea…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-07T08:38:56.000Z"
-    },
-    {
-      "id": "d18390a32e16",
-      "title": "Attorney general warns women and children at risk of ‘harmful conduct’ from smartglasses users – as it happened",
-      "summary": "This blog is now closed Federal parliament is returning from winter break next week. Do you have a question you’d like to ask Guardian Australia’s team of political reporters in…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-07T07:12:11.000Z"
     },
     {
       "id": "06cbc6a8a7f5",
