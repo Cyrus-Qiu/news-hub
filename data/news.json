@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:39:19.532Z",
+  "updatedAt": "2026-08-08T22:38:54.429Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,8 +30,138 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "6061aae54ae0",
+      "title": "日本岩手县近海地区发生5.6级地震",
+      "summary": "据日本气象厅消息，当地时间9日2时58分左右，日本岩手县近海地区发生5.6级地震，最大震感为震度4，震源深度40千米。本次地震无海啸风险。(总台记者 林博翰)",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674465.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:27:37.000Z"
+    },
+    {
+      "id": "adc5ac2b9274",
+      "title": "我国渤海首个千亿方大气田Ⅰ期开发项目全面投产",
+      "summary": "今天(8月9日)，记者从中国海油获悉，我国渤海首个千亿方大气田——渤中19-6气田Ⅰ期开发项目全面投产，日产油气当量超5200吨。项目投产对优化区域能源结构、助力经济社会高质量发展具有重要意义。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674464.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:24:52.000Z"
+    },
+    {
+      "id": "af519e3aaedb",
+      "title": "超16种改型！回顾轰-6家族的迭代蜕变之路",
+      "summary": "轰-6是中国人民解放军空军",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674463.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:23:58.000Z"
+    },
+    {
+      "id": "b421c060fbd3",
+      "title": "一周大涨超7% 金价为何突然上涨？背后两大推手→",
+      "summary": "本周，国际金价迎来强势反弹，盘中一度站上每盎司4400美元关口，创下6月中旬以来新高。据美国CNBC报道，疲软的美国就业数据、中东局势缓和预期升温，是推动本轮金价上涨的两大直接导火索。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-09/10674462.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:21:48.000Z"
+    },
+    {
+      "id": "03f2e04904e5",
+      "title": "全球首座、重大升级！我国基建、科技领域创新成果“上新”",
+      "summary": "本周",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674461.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:19:06.000Z"
+    },
+    {
+      "id": "9f6b9e504cac",
+      "title": "泰国校园枪击案死亡人数升至9人",
+      "summary": "新华社曼谷8月8日电(记者林淑婷 常天童)泰国暖武里府公共关系办公室8日在社交媒体上说，截至8日16时，前一天发生在该府的校园枪击案死亡人数已升至9人，目前仍有14人住院治疗。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674460.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:10:28.000Z"
+    },
+    {
+      "id": "5b5c4322a594",
+      "title": "老挝国会主席赛宋蓬病逝",
+      "summary": "新华社万象8月8日电(记者马淮钊 赵旭)据老挝人民革命党中央机关报《人民报》报道，老挝国会主席赛宋蓬·丰威汉于8月8日病逝。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674459.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:08:28.000Z"
+    },
+    {
+      "id": "229620413a7e",
+      "title": "美参议院通过临时拨款法案 暂缓政府“停摆”风险",
+      "summary": "新华社纽约8月8日电(记者刘亚南)美国国会参议院8日通过一项联邦政府临时拨款法案，以避免联邦政府在现行预算到期后“停摆”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674458.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:07:16.000Z"
+    },
+    {
+      "id": "14cc9ed53d1e",
+      "title": "National Indigenous Music awards 2026: Baker Boy wins big, including album and song of the year",
+      "summary": "Yolŋu hip-hop artist dominates, while Butchulla duo and cousins Birdz and Fred Leone win artist of the year and Drifting Clouds takes home best new talent Baker Boy has won album…",
+      "url": "https://www.theguardian.com/music/2026/aug/09/nimas-2026-winners-national-indigenous-music-awards-baker-boy-djandjay",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-08T22:06:17.000Z"
+    },
+    {
+      "id": "7cbdda2edc16",
+      "title": "从规划到落实：中国发展经验引发南非各界思考",
+      "summary": "中新社约翰内斯堡8月8日电 (记者 孙翔)为什么中国的发展规划能够持续转化为国家发展的现实成果？全球南方国家可以从中借鉴什么？南非又应如何破解规划多、落实难的发展困境？",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674457.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:04:33.000Z"
+    },
+    {
+      "id": "c049982704a6",
+      "title": "宁夏第十七届运动会暨第十届民族传统体育运动会开幕",
+      "summary": "中新社银川8月8日电 (记者 杨迪 李佩珊)8月8日晚，宁夏回族自治区第十七届运动会暨第十届民族传统体育运动会开幕式在银川览山公园举行。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-09/10674456.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:03:59.000Z"
+    },
+    {
+      "id": "9ea4583ad82f",
+      "title": "台风“白海豚”增强 菲律宾多地发布强降雨警报",
+      "summary": "中新社马尼拉8月8日电 (记者 周璟)菲律宾国家减灾委8日晚8时15分对大马尼拉地区、布拉干省、邦板牙省和内湖省发布红色降雨警告，预计上述地区将出现强降雨，并可能引发洪水和山体滑坡。记者在马尼拉中央商务区马卡蒂市看到，强风暴雨持续，部分路段积水严重。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674455.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:03:35.000Z"
+    },
+    {
+      "id": "2ddfb16a1af6",
+      "title": "穗台港澳青年电竞交流湾区行活动在广州启动",
+      "summary": "中新社广州8月8日电 (记者 孙秋霞)“筑梦珠江·2026广州台湾交流季暨穗台港澳青年电竞交流湾区行”活动8日在广州荔湾启动，吸引穗台港澳近150名青年电竞运动爱好者参加。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-09/10674454.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T22:02:57.000Z"
+    },
+    {
       "id": "c1aa1d85dec2",
-      "title": "Iran issues tough demands to reopen strait of Hormuz as deal remains out of reach",
+      "title": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach",
       "summary": "Tehran urges US to ‘correct its behaviour’ as UAE says one of its ships targeted by Iranian missile Iran has issued tough new demands for reopening the strait of Hormuz, while th…",
       "url": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
       "source": "The Guardian World",
@@ -258,126 +388,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-08-08T13:31:59.000Z"
-    },
-    {
-      "id": "096fbba491d5",
-      "title": "肯尼亚学者：中非贸易创新高为非洲经济发展创造新机遇",
-      "summary": "全球@中国|肯尼亚学者：中非贸易创新高为非洲经济发展创造新机遇",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674430.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:29:35.000Z"
-    },
-    {
-      "id": "69487827c1b8",
-      "title": "中美青少年新疆“以球会友” 共话“飞虎情”",
-      "summary": "中新社乌鲁木齐8月8日电 (胡嘉琛)“这是我第一次来到中国，与新疆的学生踢球、感受这里的文化和自然风光，一切都很美好。回国后，我会分享给家人和朋友。”美国埃尔兰乔高中学生伊斯雷尔·安东尼奥·埃切维里亚8日说。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-08/10674427.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:26:09.000Z"
-    },
-    {
-      "id": "c457a386788e",
-      "title": "三七产业人士齐聚云南 共商高质量发展路径",
-      "summary": "中新网昆明8月8日电 (周蓦洺然)第五届三七产业发展大会8日在云南昆明举行。大会以“三七聚链，焕发银光”为主题，汇聚两院院士、行业主管部门负责人、中医药专家及产业链上下游龙头企业代表等300余位嘉宾，共商三七产业高质量发展大计。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674420.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:11:30.000Z"
-    },
-    {
-      "id": "e541789c1b5d",
-      "title": "港中大2006级内地校友返校 重温同窗情谊共话桥梁作用",
-      "summary": "中新网香港8月8日电 由香港中文大学(简称“港中大”)内地生校友会(CUMA)发起的“港中大内地生返校聚会”开幕典礼8日在港中大校园举行。本次活动以港中大2006级内地本科生入学20周年为契机，吸引逾百名校友重返母校。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-08/10674423.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:10:52.000Z"
-    },
-    {
-      "id": "a54456a56250",
-      "title": "香港青年交流团结束内蒙古研学之旅",
-      "summary": "中新网香港8月8日电 “2026年香港青年内蒙古历史文化交流团”8日结束为期8天的行程返抵香港。本次活动汇聚香港英华书院20余名师生，以实地行走的方式近距离认识北疆大地、感悟祖国发展。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-08/10674421.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:10:42.000Z"
-    },
-    {
-      "id": "6b1b68ee3416",
-      "title": "多家上市公司宣布收到美国关税退税",
-      "summary": "中新网北京8月8日电(记者 王昊)上市公司公告显示，自7月以来，多家公司宣布已经收到美国关税退税。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674425.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:09:26.000Z"
-    },
-    {
-      "id": "6f7a843af6cc",
-      "title": "琴声聚友城 中美青年古都校园共赴音乐盛宴",
-      "summary": "中新网西安8月8日电 题：琴声聚友城 中美青年古都校园共赴音乐盛宴",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-08/10674419.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:09:24.000Z"
-    },
-    {
-      "id": "dc67dc170e15",
-      "title": "江西百余位听障人士乐享运动时光",
-      "summary": "中新网南昌8月8日电 题：江西百余位听障人士乐享运动时光",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-08/10674417.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:08:30.000Z"
-    },
-    {
-      "id": "a971179d4323",
-      "title": "内蒙古自治区体育局原党组成员、副局长吴刚被开除党籍",
-      "summary": "中新网8月8日电 据中央纪委国家监委网站消息，经内蒙古自治区党委批准，内蒙古自治区纪委监委对内蒙古自治区体育局原党组成员、副局长吴刚严重违纪违法问题进行了立案审查调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-08/10674388.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:08:00.000Z"
-    },
-    {
-      "id": "21313cd4d278",
-      "title": "抢占制高点 上海培育未来产业新模式",
-      "summary": "【凝心聚力 真抓实干 奋力实现“十五五”良好开局】抢占制高点 上海培育未来产业新模式",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-08/10674424.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:07:38.000Z"
-    },
-    {
-      "id": "758f8466852f",
-      "title": "50年老厂绿色蝶变 看传统高耗能行业如何走出低碳新路",
-      "summary": "水泥行业是我国工业节能降碳重点赛道，不少老牌水泥生产线受制于建成年代早，绿色改造难度大。但是在重庆，一家运营了半个世纪的老水泥厂却实现了绿色低碳的改造，他们是怎么做到的？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674422.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:05:35.000Z"
-    },
-    {
-      "id": "f6ed3412ff1d",
-      "title": "海内外专家齐聚广州研讨中草药囊泡技术 两项成果转化加速",
-      "summary": "中新网广州8月8日电 (记者 蔡敏婕)2026中草药囊泡研究与应用全球学术会议8日在广州开幕，会上发布了两项从实验室走向应用的原创转化成果。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-08/10674414.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:02:35.000Z"
     },
     {
       "id": "d7d4e8dbf102",
@@ -678,16 +688,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-07T09:00:13.000Z"
-    },
-    {
-      "id": "ed9d5b178299",
-      "title": "Dogs to be euthanised after man dies following suspected animal attack at rural Sydney property",
-      "summary": "Police say body of 23-year-old found at Eschol Park property with significant injuries, indicating he may have been attacked before death Follow our Australia news live blog for…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-07T08:40:57.000Z"
     },
     {
       "id": "06cbc6a8a7f5",
