@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:38:54.429Z",
+  "updatedAt": "2026-08-08T23:37:35.640Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,96 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "b7585e8a068f",
+      "title": "Australia news live: bird flu detected on Murray-Darling basin ‘should be ringing alarm bells’, expert says",
+      "summary": "As of 3pm Saturday, Australia had a total of 215 H5 bird flu cases nationally. Follow updates Get our breaking news email , free app or daily news podcast Greens senator Sarah Ha…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-08T23:22:00.000Z"
+    },
+    {
+      "id": "2d233824cdbd",
+      "title": "超八成睫毛胶样品检出致癌物，部分成分接近502胶！",
+      "summary": "生活中，不少爱美人士会贴假睫毛、嫁接睫毛，随之而来的是眼痒、灼烧、流泪等不适症状。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-09/10674473.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T23:16:06.000Z"
+    },
+    {
+      "id": "8711de290544",
+      "title": "美副总统称美伊冲突仍处于“博弈中段”",
+      "summary": "当地时间8月8日，央视记者获悉，美国副总统万斯在采访中谈及伊朗局势时表示，美国同伊朗正在对话，美伊冲突仍处于“博弈中段”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674472.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T23:13:50.000Z"
+    },
+    {
+      "id": "3a4c8b8a7c25",
+      "title": "未来五年 地质灾害防范会有哪些变化？",
+      "summary": "新闻周刊丨未来五年 地质灾害防范会有哪些变化？",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674471.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T23:11:46.000Z"
+    },
+    {
+      "id": "4966695fac6f",
+      "title": "大量出汗后千万别猛灌白水！这些症状提示你可能不是中暑",
+      "summary": "眼下全国多地持续高温桑拿天气，暑期出行、游玩、劳作导致人体出汗量大幅增加，容易出现头晕乏力、四肢发软、心慌疲惫等不适症状。不少人第一时间以为是中暑了，但医生提醒，有了这些症状不光是中暑，还要警惕夏季高发的低钾血症。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-09/10674470.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T23:09:05.000Z"
+    },
+    {
+      "id": "d3ab520689f9",
+      "title": "克罗地亚两列火车相撞致20人受伤",
+      "summary": "新华社萨格勒布8月8日电(记者马震)克罗地亚一列客运列车和一列货运列车8日在首都萨格勒布以东约60公里的什克利尼亚里附近相撞，造成20名乘客受伤。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674469.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T23:06:49.000Z"
+    },
+    {
+      "id": "8c1b52925e83",
+      "title": "河南发布农田渍涝灾害风险预警",
+      "summary": "新华社郑州8月8日电(记者马意翀)河南省气象局、河南省农业农村厅8日联合发布农田渍涝灾害风险预警。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674468.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T23:05:47.000Z"
+    },
+    {
+      "id": "f9b382420192",
+      "title": "中国战队KSG获2026电竞世俱杯王者荣耀项目冠军",
+      "summary": "中新社巴黎8月8日电 (记者 李洋)2026电竞世俱杯王者荣耀决赛当地时间8日在法国巴黎举行。中国战队KSG鏖战七局，最终以4:3战胜另一支中国战队AG.AL，获得冠军。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674467.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T23:04:21.000Z"
+    },
+    {
+      "id": "be6fa027e9ab",
+      "title": "8月9日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-09/10674466.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-08T23:01:29.000Z"
+    },
     {
       "id": "6061aae54ae0",
       "title": "日本岩手县近海地区发生5.6级地震",
@@ -182,7 +272,7 @@
     {
       "id": "4bc60cae27d3",
       "title": "Centrelink pursuing debts that are more than 40 years old despite agreeing to waive old arrears",
-      "summary": "Advocates and legal bodies want the debt to be made ‘out of bounds’ given how hard it is to determine its accuracy Get our breaking news email , free app or daily news podcast Ce…",
+      "summary": "Advocates and legal bodies want the debt to be made ‘out of bounds’ given how hard it is to determine its accuracy Follow our Australia news live blog for latest updates Get our…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/09/centrelink-pursuing-debts-that-are-more-than-40-years-old-despite-agreeing-to-waive-old-arrears",
       "source": "The Guardian World",
       "category": "国际",
@@ -192,7 +282,7 @@
     {
       "id": "793a4f8a0724",
       "title": "Hospitality recruitment app Supp calls gig-workers contractors. Some users say it leads to casual work without entitlements",
-      "summary": "Exclusive : Workers’ rights experts raise ‘alarm bells’ over app requiring ABNs for jobs they say lack worker autonomy Get our breaking news email , free app or daily news podcas…",
+      "summary": "Exclusive : Workers’ rights experts raise ‘alarm bells’ over app requiring ABNs for jobs they say lack worker autonomy Follow our Australia news live blog for latest updates Get…",
       "url": "https://www.theguardian.com/business/2026/aug/09/hospitality-recruitment-app-supp-gig-workers-contractors-casual-work-entitlements-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -310,86 +400,6 @@
       "publishedAt": "2026-08-08T14:02:35.000Z"
     },
     {
-      "id": "96643b282138",
-      "title": "单舰单艇敢打航母？从《制胜》看解放军强大侦察能力",
-      "summary": "中新网8月8日电(记者 刁炜)近期，思想解读类融媒体片《制胜》播出后引发各方热议。军报刊文指出，打赢现代战争的前提是“明察敌情、料敌于先”。纵观片中展示的解放军各种侦察手段，不仅技术先进、能力超群，而且涵盖海陆空天电并有机融入联合作战体系，在实战中形成了1+1+1＞N的效果。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-08/10674436.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:59:46.000Z"
-    },
-    {
-      "id": "e2a844ad3c34",
-      "title": "综述｜中国人工智能模型在澳受关注",
-      "summary": "新华社悉尼8月8日电#8195;综述｜中国人工智能模型在澳受关注",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674438.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:57:54.000Z"
-    },
-    {
-      "id": "b0360d95cdb2",
-      "title": "“新疆的交警怎么个个像我妈！”",
-      "summary": "近日，一位摩旅爱好者",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-08/10674437.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:55:40.000Z"
-    },
-    {
-      "id": "a9f929bc545b",
-      "title": "“零关税”百日见证中非合作新气象",
-      "summary": "新华社内罗毕8月8日电(记者杨定都#8195;王越#8195;徐瑞青)在肯尼亚首都内罗毕郊外阿西河出口加工区，一座由中国企业投资建设的牛油果加工厂正有序运转。自动化生产线上，一颗颗新鲜牛油果经过储存、熟化、分拣、压榨等工序，被加工成深绿透亮的特级初榨牛油果油，而后装箱运往中国市场。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674435.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:45:50.000Z"
-    },
-    {
-      "id": "efc9dbf598c5",
-      "title": "全球瞭望｜卢旺达媒体：高效的中国制造业让全球受益",
-      "summary": "新华社基加利8月7日电(记者刘佑民)卢旺达“非中评论”网站6日刊登评论文章指出，中国制造业的成功源自在技术研究、基础设施、产业规划和供应链方面的持续投入，得益于规模经济带来的降本增效，不断通过创新为全球经济作出贡献。文章摘要如下：",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674434.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:41:05.000Z"
-    },
-    {
-      "id": "adcc4122b05f",
-      "title": "日本在南鸟岛部署反舰导弹 暴露怎样“再军事化”野心？",
-      "summary": "日本正在其太平洋岛屿建设军事设施，包括在南鸟岛部署反舰导弹。外交部发言人林剑日前回应称，日方上述行径是加速“再军事化”的又一佐证。南鸟岛在哪里？暴露了日本怎样的军事扩张野心？",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674433.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:39:11.000Z"
-    },
-    {
-      "id": "847431681bda",
-      "title": "全球媒体聚焦 | 外媒：外贸强劲增长凸显中国经济韧性",
-      "summary": "根据海关总署8月7日公布的最新数据，今年7月，我国外贸进出口保持强劲增长态势。进出口总值连续5个月超过4万亿元，同比增长19.2%，其中，出口增长17.8%，进口增长21.2%。多家外媒表示，中国出口强劲增长得益于全球对高科技产品的旺盛需求，同时也凸显了中国经济的韧性。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674432.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:33:47.000Z"
-    },
-    {
-      "id": "f3e937d13bae",
-      "title": "全球媒体聚焦︱美媒：多场景低成本应用 中国让AI变得更具实用价值",
-      "summary": "美国知名财经媒体《福布斯》8月7日发文称，尽管硅谷依然在人工智能领域占据着“主导地位”，但中国或许正在参与一场截然不同的竞赛。中国的优势未必是打造出最夺人眼球的聊天机器人，而是让人工智能变得更具实用价值，应用于港口、仓库、电动汽车、医院、物流网络、课堂与工厂车间的各类场景。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674431.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-08T13:31:59.000Z"
-    },
-    {
       "id": "d7d4e8dbf102",
       "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
       "summary": "Observers express concern that the division has lost its independence and commercial reality has taken over When Sir Demis Hassabis said AI had brought the world to a “pivotal mo…",
@@ -498,16 +508,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-08T00:00:30.000Z"
-    },
-    {
-      "id": "77ca3b64e7fa",
-      "title": "David Brat bound for Australia as diplomat confirmed as next US ambassador",
-      "summary": "Former Republican state congressman, who once argued Christianity and capitalism should merge, confirmed by US Senate to fill long-vacant role Get our breaking news email , free…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-07T23:50:39.000Z"
     },
     {
       "id": "df66205a66f8",
