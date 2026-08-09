@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T19:41:17.457Z",
+  "updatedAt": "2026-08-09T20:44:58.673Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,24 +30,24 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "85d9fc253534",
-      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-09T18:55:42.000Z"
-    },
-    {
       "id": "20c45a65aa54",
-      "title": "Israel rejects US-led 15-point Gaza peace plan, says Netanyahu",
-      "summary": "In rare public break with Trump, Israel’s prime minister says IDF will not withdraw until Hamas is disarmed Middle East crisis live – latest updates Israel’s prime minister, Benj…",
+      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
+      "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Middle East crisis live – latest updates Israel’s p…",
       "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-09T18:35:06.000Z"
+      "publishedAt": "2026-08-09T20:00:48.000Z"
+    },
+    {
+      "id": "85d9fc253534",
+      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israel rejects US-led 15-point Gaza peace plan, says Netanyahu Israeli prime minister Benjami…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-09T19:54:53.000Z"
     },
     {
       "id": "ac4ca0da6ad2",
