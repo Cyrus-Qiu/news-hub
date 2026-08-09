@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T18:53:41.289Z",
+  "updatedAt": "2026-08-09T19:41:17.457Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "85d9fc253534",
+      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-09T18:55:42.000Z"
+    },
+    {
       "id": "20c45a65aa54",
       "title": "Israel rejects US-led 15-point Gaza peace plan, says Netanyahu",
       "summary": "In rare public break with Trump, Israel’s prime minister says IDF will not withdraw until Hamas is disarmed Middle East crisis live – latest updates Israel’s prime minister, Benj…",
@@ -38,16 +48,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-09T18:35:06.000Z"
-    },
-    {
-      "id": "85d9fc253534",
-      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-09T18:32:42.000Z"
     },
     {
       "id": "ac4ca0da6ad2",
@@ -72,7 +72,7 @@
     {
       "id": "be52d0a16421",
       "title": "Labour seeking ‘deeper relationship’ with EU under Burnham, new minister says",
-      "summary": "Exclusive: Hamish Falconer wants ‘sense of renewed pace’ in post-Brexit talks while staying within Labour’s red lines The UK will move faster and be more ambitious on achieving c…",
+      "summary": "Exclusive: Hamish Falconer wants ‘sense of renewed pace’ in post-Brexit talks while staying within Labour’s red lines ‘I was on my honeymoon!’: Hamish Falconer’s surprise call-up…",
       "url": "https://www.theguardian.com/politics/2026/aug/09/uk-eu-reset-talks-brexit-burnham-hamish-falconer",
       "source": "The Guardian World",
       "category": "国际",
