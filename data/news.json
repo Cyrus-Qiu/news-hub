@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T13:08:44.980Z",
+  "updatedAt": "2026-08-09T14:10:01.556Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,136 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "1ca187f45b62",
+      "title": "全球媒体聚焦 | 美媒：中国在AI竞赛中有独特优势",
+      "summary": "美国消费者新闻与商业频道近日刊文称，中国人工智能企业正缩小与美国前沿实验室的性能差距，部分领域甚至实现反超。当前全球性能顶尖的开源模型(即可下载、修改、自主部署的模型)均来自中国。此外，多位专家表示，中国的机器人技术同样处于世界领先水平。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674842.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-09T14:00:52.000Z"
+    },
+    {
+      "id": "025c6bc15838",
+      "title": "广东省第十七届运动会在茂名开幕",
+      "summary": "中新社茂名8月9日电 (梁盛 梁天宇)广东省第十七届运动会暨第十届残疾人运动会开幕式9日晚在茂名市举行。据悉，本届广东省运会是广东省规模最大、层次最高、影响最广的综合性体育盛会。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-09/10674840.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:57:57.000Z"
+    },
+    {
+      "id": "627594e927f1",
+      "title": "俄驻日大使：日本推翻“无核三原则”将招致邻国反制",
+      "summary": "据俄罗斯方面9日消息，俄罗斯驻日本大使尼古拉·诺兹德廖夫在接受采访时表示，日本推翻“无核三原则”将引发地区其他国家的反应，并招致这些国家的反制。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674841.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:57:29.000Z"
+    },
+    {
+      "id": "9e8217f18d5e",
+      "title": "香港学子安徽职场“初体验” 沉浸式感知内地科创机遇",
+      "summary": "中新社合肥8月9日电 (记者 赵强)为期七周的2026年香港大学生暑期安徽实习活动9日步入尾声。其间，30余名香港高校学子在安徽合肥多个企事业单位实习，近距离感受安徽产业活力、发展机遇。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-09/10674839.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:57:27.000Z"
+    },
+    {
+      "id": "fdcb82d74ded",
+      "title": "OpenAI等美企被曝旗下AI模型“越界” 安全风险引担忧",
+      "summary": "美国开放人工智能研究中心(OpenAI)7日发布声明称，最新的内部评估结果显示，该公司即将推出的人工智能模型“阿斯特拉”在“网络安全活动”方面，可能达到有严重风险的级别。该公司决定采取包括暂停涉及该模型的部分活动等安全保障措施。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674838.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:55:53.000Z"
+    },
+    {
+      "id": "85d9fc253534",
+      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Along with his rejection of the US Gaza plan earlier, Israeli prime minister Benjamin Netanya…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-09T13:54:33.000Z"
+    },
+    {
+      "id": "4da5cd37dc3b",
+      "title": "爆款频出！国产动画工业链，正把“中国故事”做成全球生意",
+      "summary": "《八仙！》成为暑期档“黑马”！",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674837.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:53:49.000Z"
+    },
+    {
+      "id": "5d90c613c576",
+      "title": "全球媒体聚焦丨大白兔奶糖包装走红西方社交媒体",
+      "summary": "新加坡《海峡时报》9日报道，一款已有六十年历史的中国奶糖包装纸，意外地在西方社交媒体上引发热潮。专家指出，这一现象反映出全球对中国传统美学，尤其是未受西方设计影响的中国本土风格越来越着迷。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674836.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:50:59.000Z"
+    },
+    {
+      "id": "cdc8d86ee67a",
+      "title": "架起巴西和中国人民相知相亲的桥梁",
+      "summary": "(国际论坛)",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674835.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:48:10.000Z"
+    },
+    {
+      "id": "1df279979185",
+      "title": "深山里的全球冠军：海外“Z世代”在贵州读懂中国机遇",
+      "summary": "立秋前夕，一场阵雨让铜仁市江口县的山林更加葱茏。群峰之下，全球最大的抹茶单体精制车间便坐落于此。走进车间，全自动智能生产线吞吐着翠绿色粉末，这便是风靡全球的健康饮品——抹茶。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-09/10674834.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:45:18.000Z"
+    },
+    {
+      "id": "8684472430d4",
+      "title": "‘People were giving me dirty looks’: the backlash against Meta smartglasses",
+      "summary": "Influencers describe negative reactions to their use of what are widely becoming known as ‘pervert glasses’ It was hardly an offensive video. Amid the buzz of the Tour de France…",
+      "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-09T13:37:25.000Z"
+    },
+    {
+      "id": "4062a8989d80",
+      "title": "台湾学生低成本游广东Vlog走红：镜头内外，交流升温",
+      "summary": "没有周详的行程规划、吃饭全靠“闭眼随便走进一家店”、出行主要搭乘公共交通、住在低价经济酒店或青年旅馆……",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674831.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:12:04.000Z"
+    },
+    {
+      "id": "3b67a34e5e42",
+      "title": "直击台风“白海豚”登陆点浙江玉环：风雨交加 树木倒伏 当地救援力量已开始行动",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-09/news1064833.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:10:22.000Z"
+    },
+    {
       "id": "5160afa9d3cd",
       "title": "湖北启动防汛四级应急响应",
       "summary": "中新网武汉8月9日电 (记者 梁婷)根据《湖北省防汛抗旱应急预案》规定，湖北省防办于9日18时启动防汛四级应急响应。",
@@ -38,6 +168,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-09T13:03:14.000Z"
+    },
+    {
+      "id": "bd608bf7ca97",
+      "title": "一习话丨“全民健身计划就是国民幸福计划”",
+      "summary": "人民健康是社会文明进步的基础，是民族昌盛和国家富强的重要标志。党的十八大以来，以习近平同志为核心的党中央高度重视全民健身事业，把增强人民体质、保障人民健康作为全面建设社会主义现代化国家的一个重要方面，系统谋划和深入实施全民健身国家战略。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674829.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-09T13:03:10.000Z"
     },
     {
       "id": "20b08b0a48c4",
@@ -78,16 +218,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-09T12:50:17.000Z"
-    },
-    {
-      "id": "85d9fc253534",
-      "title": "Middle East crisis live: Netanyahu rejects US’s Gaza plan and vows no withdrawal until Hamas disarms",
-      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Iranian president Masoud Pezeshkian met the country’s supreme ⁠leader Mojtaba Khamenei around…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-09T12:48:37.000Z"
     },
     {
       "id": "ac7ed19066b6",
@@ -220,129 +350,9 @@
       "publishedAt": "2026-08-09T12:37:22.000Z"
     },
     {
-      "id": "c7c8da74a2e0",
-      "title": "让机器学会电鳗的“隔空探测术” 西电团队研发新型仿生非接触感知技术",
-      "summary": "中新网西安8月9日电 (阿琳娜 王格)在自然界中，电鳗能在浑浊水域里精准捕食，靠的不是眼睛，而是一种“电场感知”的特殊能力。西安电子科技大学空间科学与技术学院副教授张维强团队从这一生物现象中获得灵感，研发出一种新型的仿生非接触感知技术，为智能制造、人机交互和工业检测等领域带来了新的想象空间。",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-09/10674805.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:37:06.000Z"
-    },
-    {
-      "id": "b269d3c94647",
-      "title": "海南土地二级市场打通全流程线上交易通道",
-      "summary": "中新网海口8月9日电(尹建军 陈少敏)海南省自然资源和规划厅9日介绍，近日随着东方市两宗征地安置留用地(国有划拨建设用地使用权)转让全流程电子化交易，海南土地二级市场打通全流程线上交易通道，全省统一的自然资源要素大市场建设迈出关键一步。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-09/10674803.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:36:46.000Z"
-    },
-    {
-      "id": "bfcf79eb8f1e",
-      "title": "“白海豚”登陆 浙江山洪红色预警范围再扩大",
-      "summary": "中新网杭州8月9日电(鲍梦妮)今年第13号台风“白海豚”的中心于8月9日17时30分前后在浙江省玉环市坎门街道沿海登陆，登陆时为强台风，中心附近最大风力14级(42米/秒)。浙江省水利厅、浙江省气象局8月9日17时联合发布山洪灾害预警，红色预警范围再扩大。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-09/10674801.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:36:04.000Z"
-    },
-    {
-      "id": "13980a9c0573",
-      "title": "从重彩油画跨界 周昌新厚彩瓷作品展亮相荣宝斋",
-      "summary": "中新网北京8月9日电 (记者 应妮)“视界之境——周昌新厚彩瓷作品展”8日在荣宝斋当代艺术馆开幕，展出艺术家潜心创作的六十件厚彩瓷作品，题材囊括自然风物、山河万象、人文哲思、心灵意象等多元维度。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674799.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:35:18.000Z"
-    },
-    {
-      "id": "4391652cdb69",
-      "title": "黑龙江开行今年首趟齐齐哈尔至北京研学专列",
-      "summary": "中新网齐齐哈尔8月9日电 (张学鹏)9日15时55分，黑龙江省齐齐哈尔站，598名中小学师生踏上Y404次列车，前往北京丰台开展为期6天的研学活动。这是今年中国铁路哈尔滨局集团有限公司今年开行的首趟黑龙江至北京研学专列。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-09/10674797.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:35:02.000Z"
-    },
-    {
-      "id": "e9a0412f05cd",
-      "title": "舞韵飞扬迎全民健身日 全国舞者齐聚黑龙江鹤岗竞技",
-      "summary": "中新网鹤岗8月9日电 (陈颖 粟钰雯)9日，黑龙江鹤岗市体育场内乐曲昂扬、舞步翩跹，作为2026年“全民健身日”系列重点活动，2026年鹤岗市全国广场舞邀请赛火热开赛。来自全国的30支代表队、千余名健身爱好者踏歌齐聚，以饱满状态同台竞技，用欢快舞步奏响全民健身的活力乐章。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-09/10674795.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:34:46.000Z"
-    },
-    {
-      "id": "8cfa3cfcf22f",
-      "title": "从“看风景”到“养身心” 伊春丰林打造森林康养“嘉年华”",
-      "summary": "中新网伊春8月9日电(记者 刘璐)“走进伊春，满眼都是绿色，整个人都很放松。”广州游客付女士用“清凉惬意”形容此次伊春丰林之行。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-09/10674794.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:34:32.000Z"
-    },
-    {
-      "id": "39e316dbaaa8",
-      "title": "数字技术解锁敦煌悬泉置遗址千年密码",
-      "summary": "中新社甘肃酒泉8月9日电 (冯志军 唐囡囡)复原汉代驿站完整空间布局，线上线下同步开放虚拟游览；以游戏数字载体开辟丝路文化遗产保护、研究与传播新路径；新增数字互动展项，推动考古学术成果转化为大众可感知的公共文化内容……“数字悬泉置”项目，正使世界文化遗产悬泉置遗址迎来全新数字化表达。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674777.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:34:04.000Z"
-    },
-    {
-      "id": "713542fa4835",
-      "title": "燕京八绝哈尔滨展示中心启幕 推动中华优秀传统文化跨区域传播",
-      "summary": "中新网哈尔滨8月9日电 (记者 刘锡菊)8日，由北京燕京八绝博物馆、哈尔滨市博物馆共同主办的“京韵宫艺汇耀龙江——燕京八绝哈尔滨展示中心”启动仪式在哈尔滨市博物馆举行。来自京哈两地的工艺美术大师等齐聚冰城，共同见证燕京八绝宫廷艺术落地黑龙江。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674771.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:32:18.000Z"
-    },
-    {
-      "id": "e10716588621",
-      "title": "百花奖短剧荣誉单元在京举办 15部作品获颁荣誉",
-      "summary": "中新网北京8月9日电 (记者 尹倩芸)第38届大众电影百花奖“短剧荣誉单元”于9日在北京举办，15部作品分获五项年度荣誉。这是百花奖首次将短剧纳入荣誉评价体系。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674730.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:32:00.000Z"
-    },
-    {
-      "id": "08262115e9f1",
-      "title": "高市早苗再度对“无核三原则”含糊表态",
-      "summary": "中新社东京8月9日电 (记者 朱晨曦)日本长崎遭原子弹轰炸81周年纪念仪式9日在长崎市和平纪念公园举行。日本首相高市早苗参加纪念仪式，其致辞中对“无核三原则”的表态仍含糊其辞，未明确表示日本将继续坚持该原则。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674787.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:31:46.000Z"
-    },
-    {
-      "id": "2339bbabf421",
-      "title": "华裔大学生海南自贸港研习：“侨海逐梦”促交融",
-      "summary": "中新网海口8月9日电(记者 王子谦)2026年“侨海逐梦”华裔大学生研习活动9日在海口启动。来自日本、美国、匈牙利等国的17名华裔大学生齐聚于此，以青春脚步走进祖(籍)国、感知海南自贸港。",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-09/10674718.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-09T12:31:28.000Z"
-    },
-    {
       "id": "6c61fead8ba7",
       "title": "Yemen’s Houthis claim responsibility for attack on Saudi oil refinery",
-      "summary": "Drone strike comes after Riyadh signs defence pact and Iran issues tough demands to reopen of strait of Hormuz Middle East crisis live – latest updates Yemen’s Tehran-aligned Hou…",
+      "summary": "Drone strike comes after Riyadh signs defence pact and Iran issues tough demands to reopen strait of Hormuz Middle East crisis live – latest updates Yemen’s Tehran-aligned Houthi…",
       "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
       "source": "The Guardian World",
       "category": "财经",
@@ -860,16 +870,6 @@
       "publishedAt": "2026-08-06T11:11:46.000Z"
     },
     {
-      "id": "56f370db98e0",
-      "title": "Exclusive: Major Republican fundraiser winning contracts from Trump administration, emails reveal",
-      "summary": "Palmer Luckey has donated $5.9m to Republicans and bundled more, while reaping billions in Pentagon contracts Wealthy Republicans on the west coast received an emailed invitation…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/06/exclusive-palmer-luckey-political-fundraising",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-06T11:00:50.000Z"
-    },
-    {
       "id": "c80fc8414f49",
       "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
       "summary": "When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial security Americans may seem increasingly divided on beliefs and…",
@@ -1120,6 +1120,16 @@
       "publishedAt": "2026-08-04T15:05:47.000Z"
     },
     {
+      "id": "1376faa32511",
+      "title": "The best microwaves in the UK for every kitchen and budget – tested",
+      "summary": "They’re perfect for time-poor cooks, but which deserves your counter space? From combi models to smart designs, here’s what our expert recommends • The best air fryers If you’re…",
+      "url": "https://www.theguardian.com/thefilter/2026/aug/04/best-microwaves-uk-tested",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-04T14:00:02.000Z"
+    },
+    {
       "id": "a1f93a3e5620",
       "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
       "summary": "中國公布新出入境管理規定引起廣泛討論，當中包括邊境人員「必要時可勸阻」公民前往高風險國家和地區，在海外「危害國安」的公民回國後會被禁止出境，科研技術人員亦被納入出境限制。",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-03T14:08:15.000Z"
-    },
-    {
-      "id": "4e4014005c4e",
-      "title": "Ring Cycle review – AI staging dispenses with drama to create banal bric-a-brac",
-      "summary": "Bayreuth festival theatre, Bayreuth For the festival’s 150th anniversary, the creative team have turned to AI to generate visuals reflecting Wagner’s tetralogy’s past, present –…",
-      "url": "https://www.theguardian.com/music/2026/aug/03/wagner-bayreuth-ring-cycle-review-ai-staging-dispenses-with-drama-to-create-banal-bric-a-brac",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-03T13:28:07.000Z"
     }
   ]
 }
