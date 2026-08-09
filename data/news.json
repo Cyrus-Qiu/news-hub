@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T17:39:59.320Z",
+  "updatedAt": "2026-08-09T18:53:41.289Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "20c45a65aa54",
+      "title": "Israel rejects US-led 15-point Gaza peace plan, says Netanyahu",
+      "summary": "In rare public break with Trump, Israel’s prime minister says IDF will not withdraw until Hamas is disarmed Middle East crisis live – latest updates Israel’s prime minister, Benj…",
+      "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-09T18:35:06.000Z"
+    },
+    {
       "id": "85d9fc253534",
       "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
       "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald…",
@@ -37,7 +47,37 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-09T17:17:39.000Z"
+      "publishedAt": "2026-08-09T18:32:42.000Z"
+    },
+    {
+      "id": "ac4ca0da6ad2",
+      "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+      "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urge…",
+      "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-09T18:20:25.000Z"
+    },
+    {
+      "id": "a611c47fee9b",
+      "title": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
+      "summary": "Tropical cyclone brings torrential rain and high winds to east coast after hitting Japan’s southern Okinawa province Typhoon Dolphin, the most powerful tropical cyclone to hit Ch…",
+      "url": "https://www.theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-09T18:13:57.000Z"
+    },
+    {
+      "id": "be52d0a16421",
+      "title": "Labour seeking ‘deeper relationship’ with EU under Burnham, new minister says",
+      "summary": "Exclusive: Hamish Falconer wants ‘sense of renewed pace’ in post-Brexit talks while staying within Labour’s red lines The UK will move faster and be more ambitious on achieving c…",
+      "url": "https://www.theguardian.com/politics/2026/aug/09/uk-eu-reset-talks-brexit-burnham-hamish-falconer",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-09T18:00:21.000Z"
     },
     {
       "id": "4fb1b728a14c",
@@ -560,16 +600,6 @@
       "publishedAt": "2026-08-08T11:00:44.000Z"
     },
     {
-      "id": "2b59527c60bb",
-      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
-      "summary": "Unexploded ordnance and a military motorcycle also recovered following record heat and drought conditions Record-low water levels in the Danube have exposed remnants of Europe’s…",
-      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-08T10:55:15.000Z"
-    },
-    {
       "id": "123a1f07cf24",
       "title": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
       "summary": "The US president’s profound ignorance of his enemy has led to an impotent cycle of empty threats, analysts say Being the subject of mockery may be the most intense of all Donald…",
@@ -658,26 +688,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-07T14:16:01.000Z"
-    },
-    {
-      "id": "0374a7333ec4",
-      "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
-      "summary": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight back As the boat approached t…",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-07T14:00:32.000Z"
-    },
-    {
-      "id": "3ad4ff88ee64",
-      "title": "Israel indicts settler over death of Palestinian activist who worked on No Other Land",
-      "summary": "Yinon Levy charged with manslaughter in first exception this decade to culture of impunity for Israelis who kill Palestinians in the occupied West Bank Prosecutors in Israel have…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/israel-charges-west-bank-settler-killing-palestinian-activist-awdah-hathaleen",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-07T13:49:18.000Z"
     },
     {
       "id": "655262c61265",
@@ -908,16 +918,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-06T09:13:11.000Z"
-    },
-    {
-      "id": "819014dabda3",
-      "title": "Starbucks Korea raided by police after ‘Tank Day’ campaign sparks public outrage",
-      "summary": "Coffee chain has faced backlash over marketing promotion tied to anniversary of Gwangju massacre South Korean police have raided the headquarters of Starbucks Korea as part of an…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-06T07:45:32.000Z"
     },
     {
       "id": "1a1e1086d821",
