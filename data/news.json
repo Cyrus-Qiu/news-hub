@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T16:25:56.479Z",
+  "updatedAt": "2026-08-10T17:29:38.979Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,13 +31,33 @@
   "articles": [
     {
       "id": "4f07762c2d95",
-      "title": "At least 22 reported dead after 7.4 magnitude earthquake shakes Colombia – latest news",
+      "title": "At least 47 dead and buildings collapsed after 7.4-magnitude earthquake shakes western Colombia – latest news",
       "summary": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations People remain trapped in Cali, one of Colombia’s largest cities, ​after more…",
       "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-10T16:09:43.000Z"
+      "publishedAt": "2026-08-10T17:09:48.000Z"
+    },
+    {
+      "id": "b9dbb3d48d00",
+      "title": "More than 70 dead after powerful earthquake strikes western Colombia",
+      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates More than 70 people…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-10T16:40:12.000Z"
+    },
+    {
+      "id": "3fc6b4461f50",
+      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+      "summary": "Attack hundreds of miles from border would be among deadliest of war as Kyiv aims to strangle Russian economy A Ukrainian drone strike on an industrial city deep inside Russia ha…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-10T16:25:30.000Z"
     },
     {
       "id": "339d41d9a610",
@@ -90,16 +110,6 @@
       "publishedAt": "2026-08-10T15:52:43.000Z"
     },
     {
-      "id": "b9dbb3d48d00",
-      "title": "At least 20 dead as powerful earthquake strikes western Colombia",
-      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates At least 20 people h…",
-      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-10T15:38:43.000Z"
-    },
-    {
       "id": "d41e388b9ec3",
       "title": "伊朗最高领袖将任命数名高级军事指挥官",
       "summary": "当地时间10日，据伊朗最高领袖办公室消息，伊朗最高领袖穆杰塔巴将签署对数名伊朗武装部队高级指挥官的任命令。",
@@ -138,16 +148,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-10T15:12:19.000Z"
-    },
-    {
-      "id": "3fc6b4461f50",
-      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-      "summary": "Attack hundreds of miles from border would be among deadliest of war as Kyiv aims to strangle Russian economy A Ukrainian drone strike on an industrial city deep inside Russia ha…",
-      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-10T15:12:17.000Z"
     },
     {
       "id": "1daff346e21b",
@@ -380,16 +380,6 @@
       "publishedAt": "2026-08-10T14:09:21.000Z"
     },
     {
-      "id": "d6bef7747f85",
-      "title": "Oil prices rise as Iran tempers optimism around strait of Hormuz reopening - as it happened",
-      "summary": "European shares mixed; UK employment market shows ‘rays of light’ for jobseekers with upturn in pay, study says More retail news: The John Lewis Partnership , Britain’s biggest e…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/10/uk-employment-market-shows-rays-of-light-for-jobseekers-with-upturn-in-pay-study-shows-business-live",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-10T14:06:46.000Z"
-    },
-    {
       "id": "caa19357c611",
       "title": "宁夏首次实现向内蒙古送电 外送省份扩展至23个",
       "summary": "中新网银川8月10日电 (记者 于晶)记者10日从国网宁夏电力有限公司获悉，今年7月，宁夏外送电量达112.59亿千瓦时，同比增长5.3%；其中外送新能源电量32.72亿千瓦时，同比增长12.7%，单月外送电量及新能源外送电量双双创历史新高。同日，宁夏首次完成电力外送内蒙古，外送省份由此扩展至23个。",
@@ -492,7 +482,7 @@
     {
       "id": "1e68297ffe92",
       "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
-      "summary": "Drought and wildfires intensify across continent, while tropical storms bring heavy rain and disruption to east Asia Europe live – latest updates High pressure has dominated cent…",
+      "summary": "Drought and wildfires intensify across continent, while tropical storms bring heavy rain and disruption to east Asia High pressure has dominated central and eastern Europe in ear…",
       "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
       "source": "The Guardian World",
       "category": "国际",
@@ -1158,6 +1148,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-05T00:02:37.000Z"
+    },
+    {
+      "id": "716f57d203a4",
+      "title": "US stock market hits record highs as AI profits pile and oil prices ease",
+      "summary": "S&P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago The US stock market rallied to records on Tuesday as profits…",
+      "url": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
+      "source": "The Guardian Business",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-04T20:56:59.000Z"
     },
     {
       "id": "055ebc75498e",
