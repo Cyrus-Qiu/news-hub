@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T02:27:19.697Z",
+  "updatedAt": "2026-08-10T04:15:53.115Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,184 +30,324 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "d1b68489a30e",
-      "title": "同事发来“高温补贴”链接，网友险些被骗",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674998.shtml",
+      "id": "d18e1be6dd20",
+      "title": "自然资源部对河北河南湖北启动地质灾害防御Ⅳ级响应",
+      "summary": "据气象部门预测和自然资源部地质灾害技术指导中心研判，受今年第13号台风“白海豚”影响，未来三天，河北、河南、湖北有强降雨过程，河北南部、河南西部和北部、湖北西部等部分地区发生地质灾害的风险较高。自然资源部于8月10日9时对河北、河南、湖北启动地质灾害防御Ⅳ级响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675082.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T02:25:28.000Z"
+      "publishedAt": "2026-08-10T04:05:05.000Z"
     },
     {
-      "id": "660008957e32",
-      "title": "两岸家庭辽宁开启多元研学之旅",
-      "summary": "中新网沈阳8月10日电(姜月恒)两岸亲子家庭漫步沈阳故宫红墙古殿之间，驻足观摩古代建筑风貌；走进稻梦空间穿行田间栈道，观赏特色稻田艺术；走进南航实训基地，跟随科普讲师讲解，学习航空领域知识。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674989.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:23:04.000Z"
-    },
-    {
-      "id": "8d8a0d4a2b5a",
-      "title": "“少年中国说”华裔新生代使者选拔赛研学营走进侨都江门",
-      "summary": "中新网江门8月9日电 题：“少年中国说”华裔新生代使者选拔赛研学营走进侨都江门",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-10/10674994.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:22:28.000Z"
-    },
-    {
-      "id": "16c9270f235e",
-      "title": "性价比最高、容易坚持的运动来了：让你像吃“零食”一样快乐又健康！",
-      "summary": "开会两小时、写报告三小时、刷手机直到手腕发酸——这是不是你身边熟悉的日常？久坐的健康危害众所周知。世界卫生组织《关于身体活动和久坐行为的指南》明确指出，任何强度的身体活动替代久坐都有健康益处。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-10/10674995.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:21:08.000Z"
-    },
-    {
-      "id": "87004d033385",
-      "title": "中外游客打卡“蜜都”饶河 拉动“清凉经济”升温",
-      "summary": "中新网双鸭山8月10日电(张颖 闫伟鑫 潘延伟)优良的生态环境、舒适凉爽的气候，让地处中俄界江乌苏里江江畔的边陲小城饶河成为避暑度假胜地。近期，不少国内外游客前来体验边境小城独有的惬意，房车露营、界江夜市等新业态持续拉动饶河“清凉经济”升温。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674988.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:19:56.000Z"
-    },
-    {
-      "id": "61c72ccf5f85",
-      "title": "（长江十年行）长科院2026年江源综合科考收官 用探地雷达测冬克玛底冰川结构 到沱沱河完成徐霞客探江源梦想",
-      "summary": "8月7日，长科院2026年江源综合科考收官，科考队员用探地雷达测冬克玛底冰川结构，到沱沱河完成徐霞客探江源梦想。",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-10/news1064866.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:17:29.000Z"
-    },
-    {
-      "id": "07f62f244b0d",
-      "title": "北京市气象局发布暴雨橙色预警",
-      "summary": "中新网8月10日电 据北京市气象局网站消息，预计8月11日傍晚至13日白天，北京市有暴雨到大暴雨，大部分地区将出现6小时累计雨量100毫米、24小时累计雨量150毫米以上的强降雨，最强降雨时段为12日凌晨至夜间。其中，房山、大兴、通州、门头沟、经开区等区有大暴雨，6小时累计雨量可达150毫米以上，24小时累计雨量可达200毫米以上，山区及浅山区出现中小河…",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674981.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:16:14.000Z"
-    },
-    {
-      "id": "e369a9fa412b",
-      "title": "北京昌平区党外代表人士当代中国马克思主义读书会走进阳早寒春纪念馆",
-      "summary": "信仰如磐润初心 知行合一践使命——昌平区党外代表人士当代中国马克思主义读书会走进阳早寒春纪念馆",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-10/10674987.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:10:53.000Z"
-    },
-    {
-      "id": "819a98e81511",
-      "title": "新疆生产建设兵团生态环境局原局长吴彬接受审查调查",
-      "summary": "中新网8月10日电 据新疆生产建设兵团纪委监委消息：新疆生产建设兵团生态环境局原党组书记、局长吴彬涉嫌严重违纪违法，目前正接受新疆生产建设兵团纪委监委纪律审查和监察调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10674974.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:10:35.000Z"
-    },
-    {
-      "id": "e4d8703eab04",
-      "title": "国家防减救灾委、应急管理部对浙江启动国家四级救灾应急响应",
-      "summary": "国家防减救灾委、应急管理部启动国家四级救灾应急响应",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10674982.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:08:57.000Z"
-    },
-    {
-      "id": "d9fe7f8e718b",
-      "title": "交通运输部检查指导组在广西检查时发现部分企业安全生产主体责任落实存在短板",
-      "summary": "交通运输部检查指导组(简称检查指导组)赴广西壮族自治区南宁、贵港、来宾、玉林、柳州、钦州、北海等7个地级市22个县(市、区)，开展汛期暑期交通运输安全生产重大风险隐患排查整治指导工作，共发现问题隐患93项，其中突出问题4项。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10674955.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:08:03.000Z"
-    },
-    {
-      "id": "c54cf6d7488c",
-      "title": "解锁宝藏中国 入境游“圈粉”世界",
-      "summary": "今年夏天，入境游圈粉世界。从“打卡中国”到“体验中国”，不少外国游客慕名而来，入境游市场的热度持续走高。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674977.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:05:57.000Z"
-    },
-    {
-      "id": "1011d328f46d",
-      "title": "浙江：向新求质，制造大省的“硬核”跃迁",
-      "summary": "当东海之滨的晨光洒落在浙江宁波的永新光学生产厂区，一众工程师正在显微镜产线上，完成精密光学镜头最后的调校校准；在台州温岭的浙江省高档数控机床技术创新中心，一块块坚硬的钢铁正在AI算法的指挥下，被精密加工；百公里外，温州中国眼谷的小镇客厅里，一款眼科AI诊断系统正基于海量数据飞速运算……",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674976.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:04:25.000Z"
-    },
-    {
-      "id": "c6a0ca4e3694",
-      "title": "南水北调东中线一期工程调水超900亿立方米",
-      "summary": "新华社北京8月10日电(记者魏弘毅)记者从水利部和中国南水北调集团获悉，截至8月10日，南水北调东中线一期工程调水超900亿立方米。其中中线一期工程调水超800.5亿立方米，东线一期工程调水超99.5亿立方米。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10674975.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:03:53.000Z"
+      "id": "3b124dd39bd2",
+      "title": "Lobbyist tells Icac there’s not a ‘shred of evidence’ he was involved with conservative Liberal group",
+      "summary": "Jeremy Greenwood tells inquiry he instructed the factional group ‘not to keep going’ because ‘it became so toxic’ Follow our Australia news live blog for latest updates Get our b…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/10/lobbyist-jeremy-greenwood-icac-operation-rosny-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-10T04:04:45.000Z"
     },
     {
       "id": "8a4573f69b46",
-      "title": "Australia news live: Malcolm Turnbull says trusting Aukus is ‘stark staring bonkers’; Laneway festival to skip two cities next year",
-      "summary": "Former PM told a public inquiry the agreement will probably result in no submarines for Australia. Follow today’s news live Get our breaking news email , free app or daily news p…",
+      "title": "Australia news live: ‘body’ found in suitcase was lifelike doll with ‘bruises and grazes’; Victorian Liberals promise weekly red bin pickup",
+      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Police say the remains found in a suitcase near Goulburn are not human. Supt Linda Bradbury…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-10T02:03:01.000Z"
+      "publishedAt": "2026-08-10T04:03:05.000Z"
     },
     {
-      "id": "74de89d48539",
-      "title": "以媒：内塔尼亚胡曾同意从加沙三个区域撤军 现已反悔",
-      "summary": "中新社北京8月10日电 据以色列第12频道电视台当地时间9日报道，以色列总理内塔尼亚胡曾同意从加沙地带3个区域试点撤军，但在过去24小时内反悔。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674934.shtml",
+      "id": "64078ffac861",
+      "title": "中国公安部网安局再次公布15起涉汛涉灾网络谣言案例",
+      "summary": "中新社北京8月10日电 (记者 郭超凯)中国公安部网安局在前期2次集中公布涉汛涉灾网络谣言典型案例的基础上，8月10日再次公布15起典型案例。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675080.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T02:01:39.000Z"
+      "publishedAt": "2026-08-10T03:59:34.000Z"
     },
     {
-      "id": "4753c058dfce",
-      "title": "当AI学会“深情”，人类如何捍卫真实",
-      "summary": "进入人工智能时代，人类所面对的真实正在被AI改造和异化：AI可以书写让读者热泪盈眶的诗行，大模型算法可以创作逼似人类丹青的精美图像，虚拟主播能用温暖声线生动讲述基层的烟火故事……人类正置身于由人工智能编织和构建的幻觉世界，那些从来没有真实发生过的事件、从来没有真正存在过的面孔、从来没有被人们亲身体验过的情感，正以前所未有的速度和精度逼近人们对“真实”的惯…",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674973.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-10T02:01:23.000Z"
-    },
-    {
-      "id": "809a0632da99",
-      "title": "美妆高增长落幕 商场首层大洗牌",
-      "summary": "在高端美妆品牌纷纷收缩线下门店的当下，兰蔻关闭了位于北京王府井apm的旗舰店。8月8日，北京商报记者走访看到，该店大门紧锁、LOGO也已被拆除，原址已换上户外品牌萨洛蒙的围挡。这家2020年10月开业的旗舰店，曾是兰蔻在华标杆性门店，运营尚不足六年。事实上，兰蔻王府井旗舰店的关闭，只是高端美妆品牌线下收缩的缩影。随着美妆消费逻辑的改变，高端美妆靠线下开店…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674972.shtml",
+      "id": "0cd0b2795440",
+      "title": "7月北京CPI环比由降转涨 同比涨幅回落",
+      "summary": "中新社北京8月10日电 (记者 陈杭)国家统计局北京调查总队10日发布的数据显示，今年7月，北京居民消费价格指数(CPI)环比由降转涨，同比涨幅回落。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675081.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T02:01:11.000Z"
+      "publishedAt": "2026-08-10T03:57:54.000Z"
+    },
+    {
+      "id": "e9f66f227907",
+      "title": "“彩云奖”决赛在云南曲靖开赛 430件作品竞逐54个奖项",
+      "summary": "中新网曲靖8月10日电 (黄兴鸿)9日至15日，云南省第七届群众文化“彩云奖”评奖及展演活动在滇中曲靖市举行。活动期间，将从430件基层原创文艺作品中评出54个奖项，参赛队伍开展4场惠民巡演。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675066.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:50:03.000Z"
+    },
+    {
+      "id": "ef049533bb70",
+      "title": "百花奖首设AIGC推优单元 6部获推优荣誉",
+      "summary": "中新网北京8月10日电 (记者 尹倩芸)第38届大众电影百花奖配套活动AIGC推优单元荣誉盛典于8日在北京举行。今年是百花奖创办64年来首次设立AIGC影像专属征集通道。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675067.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:49:09.000Z"
+    },
+    {
+      "id": "769d66b131fd",
+      "title": "章晓红任巴西金华商会（同乡）总会会长",
+      "summary": "中新网圣保罗8月9日电 (记者 林春茵)当地时间8月8日晚，巴西金华商会成立暨巴西金华同乡总会第六届理监事就职典礼在圣保罗香举行。章晓红任会长，傅向东任监事长，章晓明任理事长，吴奕勋任秘书长。",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-10/10675071.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:48:09.000Z"
+    },
+    {
+      "id": "d0bc31a1d209",
+      "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+      "summary": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safet…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-10T03:46:36.000Z"
+    },
+    {
+      "id": "e809ba27b153",
+      "title": "国家防总、应急管理部针对湖北、山东启动防汛四级应急响应",
+      "summary": "中新网8月10日电 据应急管理部网站消息，据气象部门预报，8月10日至13日，受台风“白海豚”影响，湖北中北部、山东等地有暴雨或大暴雨，局地有特大暴雨，山洪和地质灾害、中小河流洪水等风险较高。根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于8月10日8时针对湖北、山东启动防汛四级应急响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675077.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:43:57.000Z"
+    },
+    {
+      "id": "1d2b3ce5bcf9",
+      "title": "A股午评：超3400只个股飘红，沪指收涨，深指、创业板指收跌",
+      "summary": "；半导体芯片、CPO概念股下挫，通信设备板块大跌，医药、酒类、食品饮料领涨",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675079.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:37:01.000Z"
+    },
+    {
+      "id": "42e0e9d3f6c4",
+      "title": "中新网直播：上海暴雨已致多处路段积水 直击排涝抢险工作",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-10/10675078.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:35:25.000Z"
+    },
+    {
+      "id": "f5e3b5bba4c8",
+      "title": "聚焦“茶韵”与“康养”——致公党江苏连云总支为留云岭乡村振兴“把脉开方”",
+      "summary": "聚焦“茶韵”与“康养”——致公党连云总支为留云岭乡村振兴“把脉开方”",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-10/10675076.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:32:54.000Z"
+    },
+    {
+      "id": "55741092fdbb",
+      "title": "云南“彩云奖”评奖及展演开幕",
+      "summary": "8月9日，演员表演舞蹈《布依姑娘》。中新社记者 黄兴鸿 摄 8月9日，演员演唱《水妹》。中新社记者 黄兴鸿 摄 8月9日，演员表演舞蹈《斑铜记忆》。中新社记者 黄兴鸿 摄 8月9日，演员演绎戏曲《珠源画卷》。中新社记者 黄兴鸿 摄 8月9日，演员表演舞蹈《景颇刀舞》。中新社记者 黄兴鸿 摄 8月9日，歌手演唱《月光下的凤尾竹》。中新社记者 黄兴鸿 摄 8…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675072.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:28:24.000Z"
+    },
+    {
+      "id": "064d4fb59aa1",
+      "title": "北京发布山洪灾害风险橙色预警",
+      "summary": "中新网8月10日电 据北京市水务局官方微博消息，北京市水务局与市气象局8月10日10时联合发布全市山洪灾害风险橙色预警：预计8月11日20时至13日20时，北京市房山区、门头沟区、平谷区发生山洪灾害可能性很大(红色风险)，其余山区发生山洪灾害可能性大(橙色风险)。请公众远离山洪沟道，暂停涉山涉水户外活动，防范山洪灾害。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675062.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:26:00.000Z"
+    },
+    {
+      "id": "95ab994c6e2c",
+      "title": "东西问丨鲍韶山：绿色转型如何拓展澳中合作新空间？",
+      "summary": "中新社澳大利亚布里斯班8月10日电 题：绿色转型如何拓展澳中合作新空间？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-10/10675044.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:25:46.000Z"
+    },
+    {
+      "id": "ed18c03826cf",
+      "title": "斯诺克中国公开赛：墨菲连得607分创纪录 奥沙利文逆转晋级",
+      "summary": "8月9日晚，2026世界斯诺克中国公开赛在山西太原继续进行，“火箭”罗尼·奥沙利文在先失两局的情况下，以6比2逆转杰克逊·佩奇，晋级16强。图为奥沙利文在比赛中。中新社记者 韦亮 摄 8月9日晚，2026世界斯诺克中国公开赛在山西太原继续进行，“火箭”罗尼·奥沙利文在先失两局的情况下，以6比2逆转杰克逊·佩奇，晋级16强。图为奥沙利文在比赛中。中新社记者…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675069.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:25:40.000Z"
+    },
+    {
+      "id": "64acdac556b4",
+      "title": "北京全市拟于8月11日上午启动防汛二级应急响应",
+      "summary": "中新网8月10日电 据“北京应急”微信公众号消息，北京市防汛办提示：8月10日上午市气象台已经发布暴雨橙色预警，预计11日傍晚至13日白天，北京市有暴雨至大暴雨。全市拟于11日上午启动防汛二级应急响应，请大家关注临近天气预报，遵守防汛要求，提前采取避险措施，避开积水路段，远离河道、低洼地带、地质灾害易发区，不进山游玩。遇险拨打119或110。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675073.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:24:54.000Z"
+    },
+    {
+      "id": "2be7224d6965",
+      "title": "中央政府将在澳门发行60亿元人民币国债",
+      "summary": "中新网8月10日电 据财政部网站消息，中华人民共和国财政部和澳门特别行政区政府今日公告，中央政府将于2026年8月20日在澳门发行60亿元人民币国债。2026年是国家“十五五”规划开局之年，中央政府连续第五年在澳门发行人民币国债，凸显了中央政府对澳门经济适度多元发展及特色金融产业竞争力提升的有力支持。此次国债发行的期限结构更趋多元，有利于进一步完善常态化…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675058.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:24:40.000Z"
+    },
+    {
+      "id": "f53c55ec4443",
+      "title": "民建中央科教委员会2026年工作会议在青岛召开",
+      "summary": "8月5日至7日，民建中央科教委员会2026年工作会议在青岛召开。民建中央副主席程京出席会议并讲话，民建山东省委会主委庄文忠致辞。民建中央科教委主任苏华作工作报告，副主任刘常青主持会议。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-10/10675070.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:23:42.000Z"
+    },
+    {
+      "id": "da11c038e75c",
+      "title": "全国超每3个人中就有1个脂肪肝，瘦子也会得！如何改善脂肪肝？",
+      "summary": "别不当回事！全国超每3个人中就有1个脂肪肝，瘦子也会得！",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-10/10675063.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:20:24.000Z"
+    },
+    {
+      "id": "c7fe26169e65",
+      "title": "河南省气象台发布暴雨黄色预警 局地将有特大暴雨",
+      "summary": "河南省气象台8月10日9时30分发布暴雨黄色预警：预计10日14时至11日14时，郑州东南部、开封南部、商丘、平顶山东部、许昌、漯河、周口、南阳东部、驻马店、信阳部分县(市、区)有暴雨，其中商丘东部、平顶山东部、周口、南阳东部、驻马店、信阳部分县(市、区)有大暴雨，局地特大暴雨(个别点200到300毫米)，并伴有短时强降水(最大小时降水量60到100毫米…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675059.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:19:22.000Z"
+    },
+    {
+      "id": "7cf4de47b28a",
+      "title": "北京发布积水内涝风险橙色预警",
+      "summary": "中新网8月10日电 据北京市水务局官方微博消息，北京市水务局与市气象局8月10日10时联合发布积水内涝风险橙色预警：预计8月11日20时至13日20时，北京市中心城区存在积水内涝高风险(橙色风险)。请广大市民关注天气形势及雨水情变化，出行尽量避开低洼处，同时做好地下空间防护工作。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675056.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:18:12.000Z"
+    },
+    {
+      "id": "da071a649470",
+      "title": "直播海报：上海暴雨已致多处路段积水 直击排涝抢险工作",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675057.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:16:50.000Z"
+    },
+    {
+      "id": "5c6b57cf3360",
+      "title": "台风天“菜篮子”供应有保障 浙沪生活必需品储备充足",
+      "summary": "受台风“白海豚”影响，浙江、上海等地遭遇强降雨天气。市民的生活物资保障供应如何？受影响的地区又如何应对？",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675051.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:09:33.000Z"
+    },
+    {
+      "id": "6762eba5a8cb",
+      "title": "特朗普公布新任白宫首席法律顾问",
+      "summary": "中新网8月10日电 据美国消费者新闻与商业频道(CNBC)报道，美国总统特朗普当地时间9日表示，现任白宫秘书威尔·沙夫将于9月1日起担任白宫法律顾问兼总统助理。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10675011.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:09:19.000Z"
+    },
+    {
+      "id": "712286db5220",
+      "title": "湖北省发布山洪灾害气象预警",
+      "summary": "中新网8月10日电 据“湖北气象”微信公众号消息，湖北省防汛抗旱指挥部办公室今日发布黄色山洪灾害气象预警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675042.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:05:53.000Z"
+    },
+    {
+      "id": "10056c440582",
+      "title": "华裔大学生海口品“老爸茶” 感受琼岛市井烟火与非遗魅力",
+      "summary": "8月9日，2026年“侨海逐梦”华裔大学生研习活动走进海口“一品味”老爸茶楼，来自日本、美国、匈牙利等国的17名华裔大学生在此体验省级非物质文化遗产“海南老爸茶习俗”，沉浸式感受琼岛市井烟火与非遗魅力。",
+      "url": "http://www.chinanews.com.cn/hr/shipin/2026/08-10/news1064876.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:04:29.000Z"
+    },
+    {
+      "id": "76342ddc7761",
+      "title": "“白海豚”两次登陆 浙江多流域发生编号洪水",
+      "summary": "中新社杭州8月10日电 (鲍梦妮)今年第13号台风“白海豚”9日在浙江两次登陆。受其影响，9日晚至10日凌晨，浙江甬江、运河水系、椒江、苕溪先后发生编号洪水。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675045.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:04:13.000Z"
+    },
+    {
+      "id": "2d7cac306bfb",
+      "title": "民进湖北荆州市委会优化营商环境民主监督调研座谈会暨荆州民进企联会全体会议顺利召开",
+      "summary": "履职担当优营商 凝心聚力促发展——民进荆州市委会优化营商环境民主监督调研座谈会暨荆州民进企联会全体会议顺利召开",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-10/10675046.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:03:21.000Z"
+    },
+    {
+      "id": "eb6557247bf3",
+      "title": "2026“同心杯”新疆足球超级联赛总决赛举行",
+      "summary": "图为比赛现场。金奇 摄 图为比赛现场。金奇 摄 图为比赛现场。金奇 摄 图为比赛现场。金奇 摄 图为比赛现场。金奇 摄 图为比赛现场。金奇 摄 图为喀什队合影留念。金奇 摄 图为比赛现场。金奇 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675030.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T03:01:53.000Z"
+    },
+    {
+      "id": "1c4aa7cae16e",
+      "title": "从福建到赤道，中印尼青年携手守护红树林",
+      "summary": "中新网雅加达8月10日电 (林睿琛 雷一鸣 黄怡平)七月的印度尼西亚烈日高照，潮水退去，红树林根系裸露在泥滩之间，一群中印尼青年并肩穿梭于这片“海上森林”中，寻找一带一路上的红树林生态保护答案。",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-10/10675034.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T02:58:44.000Z"
     },
     {
       "id": "b2e9bd5ab672",
@@ -218,136 +358,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-10T02:00:31.000Z"
-    },
-    {
-      "id": "63ded9e2cc0e",
-      "title": "央行连续5个月上调购金量",
-      "summary": "8月7日，外汇储备、黄金储备数据如期披露。据国家外汇管理局发布，截至2026年7月末，我国外汇储备规模为34188亿美元，较6月末上升25亿美元，升幅为0.07%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674970.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:57:18.000Z"
-    },
-    {
-      "id": "fb4c1d79fa26",
-      "title": "台风“白海豚”两次登陆浙江 浙沪苏皖鄂豫等地有强降雨",
-      "summary": "中新网8月10日电 据中央气象台网站消息，台风“白海豚”的中心于昨天下午5点30分前后在浙江省台州玉环市坎门街道沿海登陆，登陆时中心附近最大风力有14级(42米/秒，强台风级)；并于下午6点40分前后在浙江省温州乐清市翁垟街道沿海再次登陆，登陆时中心附近最大风力有13级(38米/秒，台风级)；登陆后“白海豚”向西偏南方向移动，强度逐渐减弱，今天早晨5点钟…",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674939.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:51:52.000Z"
-    },
-    {
-      "id": "bff17bdfdddf",
-      "title": "“APEC合作将结出更加丰硕的成果”——访亚太经合组织政策支持小组主任栗山",
-      "summary": "“APEC合作将结出更加丰硕的成果”(APEC中国年：开放 创新 合作)",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674963.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:50:56.000Z"
-    },
-    {
-      "id": "671f8bbe9780",
-      "title": "8月10日央行开展180亿元7天期逆回购操作",
-      "summary": "中新网8月10日电 据央行网站消息，2026年8月10日中国人民银行以固定利率、数量招标方式开展了180亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674951.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:49:04.000Z"
-    },
-    {
-      "id": "d394e414af8a",
-      "title": "广东省运会暨残运会开幕 30名听障学生用手语“唱”国歌",
-      "summary": "中新网茂名8月10日电 (梁盛 梁天宇)主题为“南粤竞秀，茂盛新篇”的广东省第十七届运动会暨第十届残疾人运动会开幕式，9日晚在茂名奥体中心体育馆举行，冼东妹、陈伟强、孙淑伟、杨维、罗微、易思玲、雷声、罗玉通、王芊懿等奥运会冠军亲临现场，与大家共同见证这场体育盛宴。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-10/10674944.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:48:30.000Z"
-    },
-    {
-      "id": "bce94cd678da",
-      "title": "陕西携近300个高端岗位赴港揽才",
-      "summary": "中新网香港8月10日电 由西安人才集团主办、香港高才通人才服务协会等机构协办的“港通未来·才聚三秦”陕西—香港人才交流推介会8日于香港故宫文化博物馆举行，活动吸引逾百名香港高校学者、青年科学家、在港人才及学生代表到场参与。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674943.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:47:28.000Z"
-    },
-    {
-      "id": "2f3488cc2c6f",
-      "title": "街道城管协管员与摊主发生肢体冲突？武汉警方：3人被刑拘",
-      "summary": "中新网8月10日电 武汉市公安局武昌区分局8月10日在其官方微博发布警情通报称，8月9日晚9时35分，接群众报警称辖区一人行天桥上有人发生肢体冲突。该局立即派民警赶赴现场处置。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674945.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:46:28.000Z"
-    },
-    {
-      "id": "2d8e681a2305",
-      "title": "“不输世界任何地方！”中国动画电影何以底气十足",
-      "summary": "近年来，中国动画电影迎来高质量发展黄金期。依托深厚的中华文化底蕴、日趋成熟的工业化体系以及不断扩容的文化消费市场，中国动画电影已经具备比肩世界一流动画的综合实力，不少作品以鲜明的东方表达，形成独树一帜的竞争优势。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10674959.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:45:40.000Z"
-    },
-    {
-      "id": "e5ca3e676cbc",
-      "title": "品老爸茶、逛骑楼老街：华裔大学生在海口感受非遗魅力",
-      "summary": "中新网海口8月10日电 (记者 王晓斌 陈英清)8月9日，2026年“侨海逐梦”华裔大学生研习活动走进海南海口。海外华裔大学生通过品鉴省级非物质文化遗产“海南老爸茶习俗”、探访百年骑楼老街，沉浸式感受琼岛市井烟火与非遗魅力。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674942.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:45:32.000Z"
-    },
-    {
-      "id": "b15f418f2146",
-      "title": "港澳大学生海南寻“宝” 感知海上丝路千年脉动",
-      "summary": "中新网海南琼海8月10日电 (张月和)在海南琼海潭门渔港旁，融合了黎族船型屋建筑形态的中国(海南)南海博物馆静静矗立。8月9日，参加2026年海南自贸港“逐浪计划”暑期实习的港澳大学生们走进南海博物馆，了解中国人在南海这片“祖宗海”上耕海牧渔、扬帆远航的千年故事。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674938.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:44:05.000Z"
-    },
-    {
-      "id": "1f41a159935c",
-      "title": "打造引领未来发展的强劲引擎",
-      "summary": "【“突破瓶颈发展未来产业”热点问题探析⑧】打造引领未来发展的强劲引擎",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674958.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:43:45.000Z"
-    },
-    {
-      "id": "f40438cc608b",
-      "title": "台风“白海豚”登陆浙江 民警浑身泥泞被赞“狼狈却很帅”",
-      "summary": "中新网温州8月10日电(胡丰盛)今年第13号强台风“白海豚”登陆浙江沿海，狂风暴雨肆虐温州多地。危急关头，当地公安民警逆风而行，在滩涂淤泥中救出被困捕捞的老人，在封闭大桥上10分钟极速解救被困女子，还推出105辆“警车广播站”滚动喊话……风雨之中，一个个平凡而动人的瞬间，汇聚成最坚实的“藏蓝堤坝”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674940.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:42:01.000Z"
-    },
-    {
-      "id": "f7d82428ea64",
-      "title": "创新药企业上半年营收大增 海外商业化成未来业绩看点",
-      "summary": "8月7日，受创新药企业及相关产业公司发布2026年上半年业绩预增消息影响，创新药板块全面上涨。记者注意到，国际业务份额增长正成为创新药企业营收的重要增长点。业内人士指出，随着中国越来越多创新药进入国际市场，中国创新药企业业绩将有大幅增长。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674957.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T01:41:19.000Z"
     },
     {
       "id": "6d20ebd69fa6",
@@ -382,7 +392,7 @@
     {
       "id": "20c45a65aa54",
       "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-      "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Middle East crisis live – latest updates Israel’s p…",
+      "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Israel’s prime minister, Benjamin Netanyahu, has re…",
       "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
       "source": "The Guardian World",
       "category": "国际",
@@ -432,7 +442,7 @@
     {
       "id": "6c61fead8ba7",
       "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
-      "summary": "Drone strike comes after Riyadh signs defence pact and Tehran issues tough demands to reopen strait of Hormuz Middle East crisis live – latest updates Yemen’s Tehran-aligned Hout…",
+      "summary": "Drone strike comes after Riyadh signs defence pact and Tehran issues tough demands to reopen strait of Hormuz Yemen’s Tehran-aligned Houthis have claimed responsibility for an at…",
       "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
       "source": "The Guardian World",
       "category": "财经",
@@ -538,16 +548,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-09T04:27:09.000Z"
-    },
-    {
-      "id": "b7585e8a068f",
-      "title": "Labor open to ‘sensible amendments’ on gambling reforms, minister says – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Coalition demands NDIS changes focus on fraud, corruption Liberal frontbencher Tim Wilson als…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-09T04:21:03.000Z"
     },
     {
       "id": "542c8b5ee8f6",
@@ -698,16 +698,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-07T15:00:20.000Z"
-    },
-    {
-      "id": "33d94fce3221",
-      "title": "Thailand school shooting: eight killed including suspected attacker, police say",
-      "summary": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where more than 30 were wounded A Thai teenager killed his grandparents before opening fire at his s…",
-      "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-07T14:16:01.000Z"
     },
     {
       "id": "655262c61265",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-03T15:11:26.000Z"
+    },
+    {
+      "id": "7e978c1163ae",
+      "title": "不再「買買買」：為何中國消費者開始省錢過日子？",
+      "summary": "中國政府已推出一系列刺激消費措施，包括發放消費補貼，以及公佈擴大消費的五年規劃。然而，為何這些政策未能達到北京預期的效果？中國消費低迷究竟只是短期現象，還是反映出更深層的結構性問題？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yv09l9k9po/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-03T14:08:15.000Z"
     }
   ]
 }
