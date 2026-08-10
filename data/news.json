@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T17:29:38.979Z",
+  "updatedAt": "2026-08-10T18:27:04.589Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,23 +31,33 @@
   "articles": [
     {
       "id": "4f07762c2d95",
-      "title": "At least 47 dead and buildings collapsed after 7.4-magnitude earthquake shakes western Colombia – latest news",
+      "title": "More than 70 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
       "summary": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations People remain trapped in Cali, one of Colombia’s largest cities, ​after more…",
       "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-10T17:09:48.000Z"
+      "publishedAt": "2026-08-10T18:00:03.000Z"
+    },
+    {
+      "id": "62ab943427f9",
+      "title": "Benjamin Netanyahu’s rejection of US deal for Gaza is a risky gamble",
+      "summary": "Israeli prime minister’s unexpected move blindsided IDF commanders and risks alienating Trump, his main ally Benjamin Netanyahu’s public rejection of a US-backed deal for Gaza dr…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/benjamin-netanyahu-rejection-us-deal-gaza-risky-gamble",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-10T17:27:54.000Z"
     },
     {
       "id": "b9dbb3d48d00",
       "title": "More than 70 dead after powerful earthquake strikes western Colombia",
-      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates More than 70 people…",
+      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates More than 80 people…",
       "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-10T16:40:12.000Z"
+      "publishedAt": "2026-08-10T17:10:54.000Z"
     },
     {
       "id": "3fc6b4461f50",
@@ -710,6 +720,16 @@
       "publishedAt": "2026-08-09T13:37:25.000Z"
     },
     {
+      "id": "db7383ecee01",
+      "title": "AI push is putting banks at mercy of tech firms, warns Moody’s",
+      "summary": "Finance sector will gain from the tech but it will need substantial investment and create risks, says rating agency The rating agency Moody’s has said the race to adopt AI is put…",
+      "url": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-09T09:00:10.000Z"
+    },
+    {
       "id": "f978659ade5b",
       "title": "加拿大山火迅速蔓延並擴大一倍 當局宣布進入緊急狀態",
       "summary": "在不列顛哥倫比亞省的鮑德山脈，大火仍處於「失控」狀態，已蔓延超過 95 平方公里。",
@@ -738,16 +758,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-09T03:59:09.000Z"
-    },
-    {
-      "id": "c1aa1d85dec2",
-      "title": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach",
-      "summary": "Tehran urges US to ‘correct its behaviour’ as UAE says one of its ships targeted by Iranian missile Iran has issued tough new demands for reopening the strait of Hormuz, while th…",
-      "url": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-08T21:01:28.000Z"
     },
     {
       "id": "20c457a6c9f4",
@@ -888,16 +898,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-07T09:24:48.000Z"
-    },
-    {
-      "id": "8aa924fe288b",
-      "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
-      "summary": "Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producer Donald Trump has ordered a new 15% tariff on imported p…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
-      "source": "The Guardian Technology",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-07T09:11:36.000Z"
     },
     {
       "id": "2481ade3ed5f",
