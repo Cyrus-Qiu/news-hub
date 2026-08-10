@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T20:18:51.100Z",
+  "updatedAt": "2026-08-10T21:22:06.246Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "d3779fc92fed",
+      "title": "Australia politics live: parliament returns as Labor seeks deals on NDIS, gambling ads and news bargaining reforms",
+      "summary": "Labor looks to negotiate with the Coalition to get several pieces of legislation through parliament. Follow today’s news live Get our breaking news email , free app or daily news…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-10T21:07:38.000Z"
+    },
+    {
       "id": "4f07762c2d95",
       "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
       "summary": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations People remain trapped in Cali, one of Colombia’s largest cities, ​after more…",
@@ -37,7 +47,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-10T20:10:00.000Z"
+      "publishedAt": "2026-08-10T20:52:18.000Z"
+    },
+    {
+      "id": "56f469f39f91",
+      "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
+      "summary": "US president’s statement is latest sign that negotations to end war and reopen strait of Hormuz have stalled Donald Trump has said he will demand that Iran pay compensation for t…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-10T20:45:52.000Z"
     },
     {
       "id": "eb19d00e8bec",
@@ -191,8 +211,8 @@
     },
     {
       "id": "318d06acb8d1",
-      "title": "Australia’s falling house prices are actually a good thing for mortgage holders. Here’s why",
-      "summary": "The RBA’s governor, Michele Bullock, has made it clear that the ‘easing’ property market is on her mind Get our breaking news email , free app or daily news podcast It’s the silv…",
+      "title": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why",
+      "summary": "The RBA’s governor, Michele Bullock, has made it clear that the ‘easing’ property market is on her mind Get our breaking news email , free app or daily news podcast It is the sil…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/11/australias-falling-house-prices-are-actually-a-good-thing-for-mortgage-holders-heres-why",
       "source": "The Guardian World",
       "category": "财经",
@@ -570,16 +590,6 @@
       "publishedAt": "2026-08-10T07:46:52.000Z"
     },
     {
-      "id": "47f77686d0f4",
-      "title": "Victorian Liberals promise weekly red bin garbage collections for all, calling fortnightly system ‘disgusting’",
-      "summary": "If opposition wins November’s state election, leader Jess Wilson vows households will not pay more under the change Follow our Australia news live blog for latest updates Get our…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/10/victoria-weekly-red-bin-collection-rubbish-waste-liberal-party-promise",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-10T07:23:24.000Z"
-    },
-    {
       "id": "d8f8d7f96af2",
       "title": "想要開放霍爾木茲海峽 伊朗向特朗普提出的六個條件",
       "summary": "伊朗和阿曼都表示，關於重新開放霍爾木茲海峽的談判進展「積極」，但現在伊朗已向美國提出了一系列要求。",
@@ -698,16 +708,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-09T18:13:57.000Z"
-    },
-    {
-      "id": "6c61fead8ba7",
-      "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
-      "summary": "Drone strike comes after Riyadh signs defence pact and Tehran issues tough demands to reopen strait of Hormuz Yemen’s Tehran-aligned Houthis have claimed responsibility for an at…",
-      "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-09T15:11:28.000Z"
     },
     {
       "id": "548635189d66",
