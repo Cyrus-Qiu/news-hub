@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T19:35:08.598Z",
+  "updatedAt": "2026-08-10T20:18:51.100Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -37,7 +37,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-10T19:19:27.000Z"
+      "publishedAt": "2026-08-10T20:10:00.000Z"
+    },
+    {
+      "id": "eb19d00e8bec",
+      "title": "US judge drops criminal charges against Indian billionaire Gautam Adani",
+      "summary": "Justice department says it decided to abandon fraud and bribery case in which Adani Group has denied wrongdoing A US judge on ⁠Monday dismissed criminal charges against the India…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/gautam-adani-charges-dismissed-doj",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-10T19:54:30.000Z"
     },
     {
       "id": "b9dbb3d48d00",
@@ -428,6 +438,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-10T14:00:54.000Z"
+    },
+    {
+      "id": "7dd4039b4fc0",
+      "title": "Gen Z calls it ‘loud budgeting’ – small business owners have been doing it for decades | Gene Marks",
+      "summary": "The practice of openly proclaiming to the world what you can’t afford can lead to lower fees, reduced prices and better deals Ask any small business owner what has challenged the…",
+      "url": "https://www.theguardian.com/business/2026/aug/10/gen-z-loud-budgeting-small-business-owners",
+      "source": "The Guardian Business",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-10T14:00:45.000Z"
     },
     {
       "id": "f1d0aa1cbd3e",
@@ -1150,16 +1170,6 @@
       "publishedAt": "2026-08-05T00:02:37.000Z"
     },
     {
-      "id": "716f57d203a4",
-      "title": "US stock market hits record highs as AI profits pile and oil prices ease",
-      "summary": "S&P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago The US stock market rallied to records on Tuesday as profits…",
-      "url": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
-      "source": "The Guardian Business",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-04T20:56:59.000Z"
-    },
-    {
       "id": "055ebc75498e",
       "title": "BP boss urges Burnham to prioritise UK oil and gas even as firm exits North Sea",
       "summary": "Meg O’Neill says ‘where we generate jobs, we generate tax revenue’, as company’s profits more than double Revealed: major oil firms make $93bn profits amid war and climate crisis…",
@@ -1208,16 +1218,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-04T11:15:40.000Z"
-    },
-    {
-      "id": "30c103f7f8e5",
-      "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-      "summary": "Kevin Warsh would rather stay out of the fray – and thus devalue the Fed’s credibility as an economic steward It must feel strange to argue that government action is inevitably c…",
-      "url": "https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-04T11:00:48.000Z"
     },
     {
       "id": "e2b71464dbd9",
