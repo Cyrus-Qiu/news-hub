@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T12:25:35.908Z",
+  "updatedAt": "2026-08-10T13:59:34.084Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,94 +30,324 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "50d36ff11537",
-      "title": "警惕！我国境内发现多起“Sorry”勒索病毒攻击事件",
-      "summary": "近日，国家计算机病毒应急处理中心和计算机病毒防治技术国家工程实验室依托国家计算机病毒协同分析平台(https://virus.cverc.org.cn)在我国境内发现多起用户遭“Sorry”勒索病毒攻击事件。用户重要文件被加密后文件名被更改为原文件名+“.sorry”后缀字符串，攻击者还在用户主机上留下勒索信，要求用户下载加密通信工具与其联系。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675352.shtml",
+      "id": "bc652f17cfb5",
+      "title": "北京市民族传统体育运动会开赛两日 特色项目尽显文化魅力",
+      "summary": "中新网北京8月10日电 (记者 陈杭 徐婧 吕少威)8日，以“京彩与共·榴铸华章”为主题的北京市第十二届民族传统体育运动会正式开幕。截至10日，赛事已完成两个比赛日的比拼，整体运行平稳顺畅。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-10/10675410.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T12:19:00.000Z"
+      "publishedAt": "2026-08-10T13:57:35.000Z"
     },
     {
-      "id": "ff22598f7bdd",
-      "title": "述评：以全民健身托举健康中国",
-      "summary": "新华社北京8月8日电 题：述评：以全民健身托举健康中国",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675351.shtml",
+      "id": "6b8af6305505",
+      "title": "海南自贸港首单油田装备保税维修业务落地",
+      "summary": "中新网海口8月10日电 (刘驰 李权)海口海关10日介绍，海南龙盘油田科技有限公司承接的境外油田工业设备配套柴油发动机维修业务，在海口海关所属椰城海关完成保税维修手册设立及进口申报全流程手续。标志着海南自贸港首单油田装备保税维修业务正式落地，为封关后高端装备全球维修产业拓展注入新动能。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675418.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T12:11:35.000Z"
+      "publishedAt": "2026-08-10T13:57:31.000Z"
     },
     {
-      "id": "d4a84a6e4646",
-      "title": "云南尼珠河大峡谷迎暑期旅游热",
-      "summary": "8月10日，一名外国游客从520米高跳台跳伞。中新社记者 黄兴鸿 摄 8月10日，一名低空跳伞爱好者在峡谷中飞翔。中新社记者 黄兴鸿 摄 8月10日，一名游客在蹦极。中新社记者 黄兴鸿 摄 8月10日，游客在玻璃桥上眺望河对岸的贵州。中新社记者 黄兴鸿 摄 8月10日，游客在距离谷底200余米高的云端玻璃桥上行走。中新社记者 黄兴鸿 摄 8月10日，游客…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675350.shtml",
+      "id": "6632bac61fdd",
+      "title": "东西问丨宇树科技IPO，外媒“酸葡萄”里吃出“回甘”：这波中国智造黑不动",
+      "summary": "中新网北京8月10日电 题：宇树科技IPO，外媒“酸葡萄”里吃出“回甘”：这波中国智造黑不动",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675417.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T12:08:41.000Z"
+      "publishedAt": "2026-08-10T13:56:31.000Z"
+    },
+    {
+      "id": "cf67616b36b7",
+      "title": "郑丽文：台湾从来不是“国家”，也从未“独立过”",
+      "summary": "中新网8月10日电(燕新台)中国国民党主席郑丽文近日接受网络节目专访时直言，台湾从来没有“独立过”，也从来不是一个“国家”，并批评民进党当局宣称台湾已经“独立”是自欺欺人、胡说八道。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675419.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:54:49.000Z"
+    },
+    {
+      "id": "a7f364e8abd9",
+      "title": "第七届全国少数民族文艺会演将带来48台剧目 创历届之最",
+      "summary": "中新网北京8月10日电 (记者 张杨彬)第七届全国少数民族文艺会演媒体通气会10日在北京举行。据介绍，本届会演将带来48台剧目，数量创历届新高，总演出场次114场。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675406.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:54:01.000Z"
+    },
+    {
+      "id": "93eb5d09c296",
+      "title": "央行印发《中国人民银行“十五五”改革发展规划》",
+      "summary": "中新网北京8月10日电 (陶思阅)中国央行8月10日发布消息称，已印发《中国人民银行“十五五”改革发展规划》，就“十五五”时期中国人民银行改革发展重点任务作出部署。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675409.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:53:17.000Z"
+    },
+    {
+      "id": "cb186b27fc68",
+      "title": "第九届“广播之声”全国总展演搭建青少年语言美育展示平台",
+      "summary": "中新网北京8月10日电 当最后一组少年走下舞台，评委完成最后一轮面对面深度评析，为期十天的第九届“广播之声”全国总展演9日晚在中国传媒大学圆满落幕。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675404.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:52:51.000Z"
+    },
+    {
+      "id": "034528d301bf",
+      "title": "中国自动化与人工智能教育大会举办 启动自动化学科发展科技树平台",
+      "summary": "中新网北京8月10日电 (记者 孙自法)记者8月10日从中国自动化学会获悉，2026中国自动化与人工智能教育大会暨2025-2026学年全国青少年劳动技能与智能设计大赛——智能设计大赛全国总决赛，近日在浙江桐乡顺利举办。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675398.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:51:37.000Z"
+    },
+    {
+      "id": "5b8ede5248d1",
+      "title": "南昌综合保税区高新片区封关运行",
+      "summary": "中新网南昌8月10日电 (记者 吴鹏泉)南昌综合保税区高新片区10日正式封关运行，进入实质性运营阶段。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675416.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:50:03.000Z"
+    },
+    {
+      "id": "6e7ab8bcebf6",
+      "title": "广西发现植物新种金钟山蛇根草",
+      "summary": "中新网南宁8月10日电 (覃昌谊 覃永华)广西林业部门10日介绍，近日，科研人员在广西金钟山黑颈长尾雉国家级自然保护区开展综合科学考察时发现茜草科蛇根草属新物种——金钟山蛇根草，相关成果已发表在国际植物分类学期刊上。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675414.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:48:33.000Z"
+    },
+    {
+      "id": "cf6517f556ca",
+      "title": "英吉利海峡偷渡海上安全风险加剧",
+      "summary": "中新社伦敦8月10日电 (记者 欧阳开宇)当地时间8月10日凌晨，一艘小型船只搭载230人非法横渡英吉利海峡抵达英国多佛口岸，创下英国单次小船偷渡人数历史最高纪录，暴露人口走私团伙愈发激进危险的运作模式。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10675402.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:47:41.000Z"
+    },
+    {
+      "id": "87fc38f64ea8",
+      "title": "英国加码资金扶持零排放汽车技术研发",
+      "summary": "中新社伦敦8月10日电 （记者 欧阳开宇）当地时间8月10日，英国政府宣布推出新一轮专项资金扶持计划，集中加码零排放汽车技术研发，全面提速本土汽车产业绿色转型进程，巩固英国在新能源汽车领域的产业竞争力。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10675403.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:46:53.000Z"
+    },
+    {
+      "id": "df14ea1bb3af",
+      "title": "8月10日夜读",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-10/10675415.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:45:21.000Z"
+    },
+    {
+      "id": "b4f836c2b5ab",
+      "title": "第38届大众电影百花奖揭晓",
+      "summary": "第38届大众电影百花奖8月10日在北京揭晓。《哪吒之魔童闹海》获最佳影片奖，《惊蛰无声》获优秀影片奖，许渌洋、张珂、申奥凭借《南京照相馆》获最佳编剧奖，大鹏凭借《长安的荔枝》获最佳导演奖，易烊千玺获最佳男主角奖，卫诗雅获最佳女主角奖。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675412.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:43:45.000Z"
+    },
+    {
+      "id": "4147a8124247",
+      "title": "广西醒狮团在越南国际龙狮节夺魁",
+      "summary": "【东盟专线】广西醒狮团在越南国际龙狮节夺魁",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-10/10675395.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:41:53.000Z"
+    },
+    {
+      "id": "85ba351a081b",
+      "title": "公安部深化扫黑除恶专项斗争第一轮集中收网 抓获犯罪嫌疑人8200余名",
+      "summary": "中新网8月10日电 据公安部微信公众号消息，为深入贯彻落实党中央关于开展深化扫黑除恶专项斗争的决策部署和全国扫黑除恶专项斗争视频会议要求，近日，公安部指挥全国公安机关同步开展深化扫黑除恶专项斗争第一轮集中收网行动，成功打掉各类犯罪团伙1000余个，抓获犯罪嫌疑人8200余名，破获各类刑事案件5400余起。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675407.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:37:12.000Z"
+    },
+    {
+      "id": "d6bef7747f85",
+      "title": "Oil prices rise as Iran tempers optimism around strait of Hormuz reopening - business live",
+      "summary": "European shares mixed; UK employment market shows ‘rays of light’ for jobseekers with upturn in pay, study says More retail news: The John Lewis Partnership , Britain’s biggest e…",
+      "url": "https://www.theguardian.com/business/live/2026/aug/10/uk-employment-market-shows-rays-of-light-for-jobseekers-with-upturn-in-pay-study-shows-business-live",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-10T13:34:34.000Z"
+    },
+    {
+      "id": "10c8211f7c39",
+      "title": "从“湘”遇到“湘”知 港澳台青年书写在湘创业就业故事",
+      "summary": "中新网长沙8月10日电(张雪盈 刘曼)“湖南的发展成果早已融入港澳台青年的生活与工作。”正在参与2026港澳台青年湖湘实践活动的香港青年林兆彦，这样形容自己对湖南的感受。在他眼中，越来越多的港澳台青年选择来湖南求学、就业、创业，参与文创研发、内容创作和产业发展，成为湖南高质量发展的“参与者”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675400.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:34:20.000Z"
     },
     {
       "id": "434a42e42d19",
-      "title": "Ukraine launches drone attack on Russian oil refining facilities – Europe live",
+      "title": "Ukraine confirms strikes on oil refinery in Russia’s Tatarstan – Europe live",
       "summary": "Volodymyr Zelenskyy says that strikes on such facilities were directly linked with putting more pressure on Moscow A fire ⁠broke ⁠out ​at an ⁠industrial facility in ⁠Russia’s ​Ty…",
       "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
       "source": "The Guardian World",
       "category": "财经",
       "language": "en",
-      "publishedAt": "2026-08-10T12:08:36.000Z"
+      "publishedAt": "2026-08-10T13:33:21.000Z"
     },
     {
-      "id": "09baa447e05c",
-      "title": "台风天，浙江多地为老年人筑牢“避风港”",
-      "summary": "中新网杭州8月10日电 题：台风天，浙江多地为老年人筑牢“避风港”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675347.shtml",
+      "id": "7ecfe952b3c5",
+      "title": "台风天“白海豚”携风雨持续暴击，这份“就医防病提醒”请查收",
+      "summary": "今天(8月10日)上午9时许，申城风雨交加。从地铁顾戴路站走出来的李女士，一手撑着几乎要被风吹翻的雨伞，一手紧紧搂着3岁的女儿小雨。小雨需要去复旦大学附属儿科医院复查支气管炎，可看到漫天大雨，李女士心里直发愁。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675401.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T12:06:35.000Z"
+      "publishedAt": "2026-08-10T13:25:48.000Z"
     },
     {
-      "id": "121b31f0b8e7",
-      "title": "斯诺克中国公开赛：斯佳辉零封对手晋级 常冰玉翻盘未果",
-      "summary": "8月10日，2026世界斯诺克中国公开赛在山西太原进入第三个比赛日，中国选手斯佳辉以6比0横扫同胞江俊，晋级16强。图为斯佳辉在比赛中。李瑞鑫 摄 8月10日，2026世界斯诺克中国公开赛在山西太原进入第三个比赛日，中国选手斯佳辉以6比0横扫同胞江俊，晋级16强。图为斯佳辉在比赛中。李瑞鑫 摄 8月10日，2026世界斯诺克中国公开赛在山西太原进入第三个…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675348.shtml",
+      "id": "1e08769943aa",
+      "title": "People flocking to Spain to view solar eclipse could spark more ‘devastating’ wildfires",
+      "summary": "Northern Spain will be one of the best places in world to view phenomenon with 460,000 extra visitors expected Authorities in Spain have warned of an increased risk of fires when…",
+      "url": "https://www.theguardian.com/science/2026/aug/10/spain-tourists-solar-eclipse-increased-wildfires-risk",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-10T13:21:07.000Z"
+    },
+    {
+      "id": "8811a94f11c6",
+      "title": "调查指台湾上半年雇员经常性薪资低于平均数比例首次突破七成",
+      "summary": "中新社台北8月10日电 台当局“主计总处”10日公布最新薪资统计显示，今年1月至6月，台湾受雇员工经常性薪资低于平均数的比例首次突破七成，达70.03%，创历年新高。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675389.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T12:06:31.000Z"
+      "publishedAt": "2026-08-10T13:20:21.000Z"
     },
     {
-      "id": "d6185c0c80e8",
-      "title": "国家级大众射箭赛事首次落地天津",
-      "summary": "中新网天津8月10日电 (孙翼飞)日前，2026年中国射箭协会大众运动水平等级达级赛暨天津宁河射箭精英赛在宁河体育场开幕。这是今年北方地区唯一一场射箭大众达级赛，也是天津首次承办国家级大众射箭赛事。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-10/10675340.shtml",
+      "id": "227f2f1a5f4e",
+      "title": "云南贡山70年蝶变 多民族互嵌共富",
+      "summary": "中新网昆明8月10日电 (时文枝)“今年是贡山县成立70周年。70年前，这里刀耕火种、溜索过江；70年后，独龙族整族脱贫实现‘一步跨千年’，独龙江公路隧道贯通终结大雪封山困局，德贡公路、G219国道相继通车让天堑变通途。”云南省怒江州贡山独龙族怒族自治县县长张文芳10日如是说。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-10/10675396.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T12:06:07.000Z"
+      "publishedAt": "2026-08-10T13:19:39.000Z"
     },
     {
-      "id": "0b6a86011fc3",
-      "title": "台风影响持续 浙江金华：清障保通路 安置护民生",
-      "summary": "中新网金华8月10日电(董易鑫 金燕晓 胡敏霞)有人在风雨中抢通回家的路，也有人在安置点里上一堂手机摄影课、吃一顿热乎饭……8月10日，受今年第13号台风“白海豚”影响，浙江金华风雨未歇，守护仍在。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675341.shtml",
+      "id": "67a5545b8369",
+      "title": "58名港澳青少年登上广东省第十七届运动会开幕式舞台",
+      "summary": "中新网茂名8月10日电 (郭军 梁盛)广东省第十七届运动会暨第十届残疾人运动会(下称“省运会暨省残运会”)9日晚在茂名奥林匹克体育中心启幕。在这场广东省规格最高、规模最大的综合性体育盛典上，58名来自广州暨大港澳子弟学校、佛山暨大港澳子弟学校、广州市维港青藤中学(原广州市英东中学)的港澳学生惊艳亮相。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-10/10675399.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T12:05:11.000Z"
+      "publishedAt": "2026-08-10T13:19:09.000Z"
     },
     {
-      "id": "af45b7833f4d",
-      "title": "城市更新记",
-      "summary": "全面践行人民城市理念 高质量推进城市更新",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675349.shtml",
+      "id": "a7d0e16ad7e4",
+      "title": "边塞非遗接续传承 山西代县挠羊赛打造全民“村跤”IP",
+      "summary": "中新网忻州8月10日电 题：边塞非遗接续传承 山西代县挠羊赛打造全民“村跤”IP",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675392.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-10T12:02:31.000Z"
+      "publishedAt": "2026-08-10T13:18:17.000Z"
+    },
+    {
+      "id": "e9573cc572ac",
+      "title": "（乡村行·看振兴）广西贵港：声声鸽鸣奏响乡村振兴曲",
+      "summary": "中新网贵港8月10日电 题：广西贵港：声声鸽鸣奏响乡村振兴曲",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675388.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:17:59.000Z"
+    },
+    {
+      "id": "5d7f5154d65d",
+      "title": "西藏那曲赛马节上演“马背上的角逐”",
+      "summary": "图为当日，赛马节现场的马术表演。中新社记者 江飞波 摄 图为当日，那曲市恰青赛马节现场的马术表演。中新社记者 江飞波 摄 图为当日赛马节现场，一位少年驰骋赛马场。中新社记者 江飞波 摄 图为当日赛马节现场的马术表演。中新社记者 江飞波 摄 图为当日，那曲市恰青赛马节现场，一万米场内速跑项目第一名即将冲线。中新社记者 江飞波 摄 图为当日，那曲市恰青赛马节…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675369.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:15:59.000Z"
+    },
+    {
+      "id": "dc511795947f",
+      "title": "中国规划到2030年建成煤炭产能储备每年1亿吨以上",
+      "summary": "中新社北京8月10日电 中国国家发改委、国家能源局10日公布的《煤炭工业发展“十五五”规划》(《规划》)提出，扎实推进产能储备制度实施，推动大型煤矿积极建设产能储备，持续扩大储备规模，加强储备煤矿调度监管，逐步形成规模适度、调控有效、保障有力的产能储备格局，到2030年建成煤炭产能储备每年1亿吨以上。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675393.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:14:59.000Z"
+    },
+    {
+      "id": "5c93ed5d02e3",
+      "title": "泰安肥城桃进入丰收期 电商赋能“甜蜜”销往全国",
+      "summary": "图为电商主播在直播销售桃子。中新社发 孙倩 摄 图为果农正在采摘鲜桃。中新社发 孙倩 摄 图为工作人员打包肥城桃发往全国各地。中新社发 陈阳 摄 图为肥城市刘台村肥城桃种植区。(无人机照片)中新社发 孙倩 摄 图为果农展示刚刚摘下的鲜桃。中新社发 陈阳 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675384.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:14:27.000Z"
+    },
+    {
+      "id": "6569ddd8a5c0",
+      "title": "多国学员广西南宁研修传统医药 本草搭建对外纽带",
+      "summary": "中新网南宁8月10日电 (杨陈 张阳蕾 白丹宇)广西药用植物园10日介绍，由中国科技部国际合作司主办、该园承办的2026年面向东盟药用资源保护利用与传统医药发展国际培训班日前在南宁结业。来自阿尔及利亚、柬埔寨、老挝、马来西亚、尼泊尔、菲律宾、泰国、越南等8个国家的27名学员，完成为期14天的研修课程，满载收获踏上归程。",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-10/10675385.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:13:55.000Z"
+    },
+    {
+      "id": "9e8a6077d1a0",
+      "title": "以恐龙题材为突破口 “赵闯和杨杨科学艺术展”发布60年创作计划",
+      "summary": "中新网北京8月10日电 (记者 应妮)“212行动志：赵闯和杨杨科学艺术展”世界探索计划座谈会日前在京举行，两位艺术家在发布创作计划之余还和大小观众分享了创作心得。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675383.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:11:55.000Z"
+    },
+    {
+      "id": "05b0a1f20f9c",
+      "title": "中方：印方公布所谓“标准名称”改变不了藏南地区属于中国的事实",
+      "summary": "中新社北京8月10日电 中国外交部发言人郭嘉昆10日在答记者问时表示，印方公布所谓“标准名称”试图取代中国长期使用的地名，是非法的、无效的，更改变不了藏南地区属于中国的事实。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675377.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T13:10:59.000Z"
     },
     {
       "id": "25c29618f1b1",
@@ -138,236 +368,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-10T12:00:43.000Z"
-    },
-    {
-      "id": "9b47778503b6",
-      "title": "外交部：奉劝美方尽早解除对古巴的制裁封锁 不要一再向他人“泼脏水”",
-      "summary": "中新网8月10日电 据外交部网站消息，8月10日，外交部发言人郭嘉昆答记者问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675343.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T12:00:15.000Z"
-    },
-    {
-      "id": "6223960fdf3a",
-      "title": "外交部：藏南地区是中国领土 印方公布所谓“标准名称”非法无效",
-      "summary": "中新网8月10日电 据外交部网站消息，8月10日，外交部发言人郭嘉昆答记者问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675342.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:59:40.000Z"
-    },
-    {
-      "id": "c31517aaa331",
-      "title": "山西大同农产品上半年出口突破2.5亿元 “大同好粮”加速扬帆海外",
-      "summary": "中新网大同8月10日电 (马静波 宋佳烨)今年1至6月，山西省大同市农产品进出口总额突破2.5亿元，外贸发展实现量质齐升。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675339.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:59:02.000Z"
-    },
-    {
-      "id": "64c48acf8f6b",
-      "title": "“友谊之桥·味融中柬”文化交流活动在柬埔寨金边举行",
-      "summary": "中新网金边8月10日电 (杨强 黄远飞)以“友谊之桥·味融中柬”为主题的文化交流活动当地时间10日在柬埔寨国立理工学院举行。中柬双方以美食为纽带，辅以中华传统文化体验，多层次深化两国民间友好交流交往。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10675319.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:51:54.000Z"
-    },
-    {
-      "id": "d6bef7747f85",
-      "title": "Oil prices rise as Iran tempers optimism around strait of Hormuz reopening - business live",
-      "summary": "European shares mixed; UK employment market shows ‘rays of light’ for jobseekers with upturn in pay, study says More retail news: The John Lewis Partnership , Britain’s biggest e…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/10/uk-employment-market-shows-rays-of-light-for-jobseekers-with-upturn-in-pay-study-shows-business-live",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-10T11:46:54.000Z"
-    },
-    {
-      "id": "943a4ded0dc0",
-      "title": "外交部发言人就一些菲律宾籍人员涉嫌违法被查处答问",
-      "summary": "中新网8月10日电 据外交部网站消息，8月10日，外交部发言人郭嘉昆答记者问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675336.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:31:40.000Z"
-    },
-    {
-      "id": "e55f72e233c4",
-      "title": "东西问丨孙兆彬：气候变暖加剧 全球传染病传播风险大幅攀升",
-      "summary": "中新社北京8月10日电 题：气候变暖加剧 全球传染病传播风险大幅攀升",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-10/10675327.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:29:00.000Z"
-    },
-    {
-      "id": "5fab61fa4dda",
-      "title": "第四届“国话杯”剧本朗读大会在京启幕 课本剧成表演亮点",
-      "summary": "中新网北京8月10日电(记者 应妮)由中国国家话剧院、中国文化管理协会、中国儿童音乐学会联合主办的第四届“国话杯”剧本朗读大会10日在京启幕。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675321.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:24:52.000Z"
-    },
-    {
-      "id": "fb5a9115a242",
-      "title": "台风“白海豚”离开浙江 杭州航空铁路枢纽有序恢复运行",
-      "summary": "8月10日，杭州萧山国际机场，浙江长龙航空航班快速起飞。当日，今年第13号台风“白海豚”离开浙江，杭州萧山国际机场全面恢复航班运行，全天计划执行进出港航班814架次。中新社记者 王刚 摄 8月10日，一架飞机从杭州萧山国际机场起飞。当日，今年第13号台风“白海豚”离开浙江，杭州萧山国际机场全面恢复航班运行，全天计划执行进出港航班814架次。中新社记者 王…",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-10/1200713.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:23:54.000Z"
-    },
-    {
-      "id": "9818c88cc0de",
-      "title": "水利部滚动会商部署台风“白海豚”暴雨洪水防御工作",
-      "summary": "中新网8月10日电 据“中国水利”微信公众号消息，8月10日上午，国家防总副总指挥、水利部部长李国英主持专题会商，滚动分析研判今年第13号台风“白海豚”发展态势及影响，对台风暴雨洪水防御工作再部署、再落实。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675324.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:23:00.000Z"
-    },
-    {
-      "id": "0e1fce22727f",
-      "title": "国家发展改革委紧急安排2亿元中央预算内投资支持浙江台风灾害灾后应急恢复",
-      "summary": "中新网8月10日电 据国家发改委微信公众号消息，8月9日晚，今年第13号台风“白海豚”先后在浙江省台州玉环市、温州乐清市沿海登陆，对浙江省造成严重影响。8月10日，国家防减救灾委、应急管理部启动国家四级救灾应急响应。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675331.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:18:40.000Z"
-    },
-    {
-      "id": "c0a93fee948e",
-      "title": "【好评中国】外贸量稳质升，彰显我国经济强劲韧性",
-      "summary": "据海关统计，今年前7月，我国货物贸易进出口总值30.13万亿元，同比增长17.3%。其中，出口17.44万亿元，同比增长14%；进口12.69万亿元，同比增长22%。",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-10/10675329.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:16:40.000Z"
-    },
-    {
-      "id": "4e85544fdad5",
-      "title": "河南启动防汛四级应急响应 多举措应对台风“白海豚”",
-      "summary": "中新网郑州8月10日电 (记者 韩章云 范晓恒)当前，台风“白海豚”外围雨带已开始影响河南东南部、东部，信阳、驻马店、周口、商丘等地出现中到大雨。8月10日13时，河南省防汛抗旱指挥部启动防汛四级应急响应，该省多举措应对。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675305.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:15:56.000Z"
-    },
-    {
-      "id": "f360e2687c80",
-      "title": "以科学的思想方法推进管党治党——习近平党建思想理论品格系列述评之六",
-      "summary": "新华社北京8月10日电#8195;题：以科学的思想方法推进管党治党——习近平党建思想理论品格系列述评之六",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675328.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:12:57.000Z"
-    },
-    {
-      "id": "171d93607dee",
-      "title": "暑期跨境游热度飙升 拱北口岸现周末客流高峰",
-      "summary": "中新网珠海8月10日电 (邓媛雯 何志金)当前正值暑期旅游黄金期，珠澳跨境游、亲子短途游持续火爆。据拱北边检站10日公布的统计数据，8月8日至9日，拱北口岸迎来今年暑期以来客流量最高的周末，珠澳双向出入境客流大幅攀升，据统计，这两天该站累计查验出入境旅客近85万人次。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-10/10675304.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:12:45.000Z"
-    },
-    {
-      "id": "1e5ed2d30880",
-      "title": "2026国际摩联MotoMini中国站年度总决赛在广州收官",
-      "summary": "中新网广州8月10日电 (记者 张璐)2026国际摩联MotoMini中国站年度总决赛(简称“赛事”)9日在广州从化国际赛车场举行。本场赛事不仅吸引全国各地的优秀青少年车手参赛，还有海外优秀车手同场竞技。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-10/10675306.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:11:31.000Z"
-    },
-    {
-      "id": "484e9ea46012",
-      "title": "广西一学校在建工地发生火灾 一人受伤无生命危险",
-      "summary": "中新网南宁8月10日电(记者 黄艳梅)广西南宁市兴宁区应急管理局10日通报，8月10日12时许，广西动力技工学校一在建工地发生火灾，救援力量第一时间到场处置，于当日12时20分处置完毕。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675307.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:11:09.000Z"
-    },
-    {
-      "id": "0f3faaeabcc9",
-      "title": "未按规定履行安全保障统一管理责任，极兔速递被罚7万元",
-      "summary": "中新网8月10日电(吴家驹)国家邮政局网站显示，近日，极兔速递有限公司因未按规定履行安全保障统一管理责任，被国家邮政局罚款7万元。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675312.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:09:25.000Z"
-    },
-    {
-      "id": "84ee32f291c5",
-      "title": "北京多区发布暴雨红色预警！台风“白海豚”会重现“杜苏芮”强度吗？",
-      "summary": "中新网北京8月10日电(记者 邵萌)今年第13号台风“白海豚”持续向西北方向移动。受“白海豚”外围暖湿气流和冷空气共同影响，京津冀地区或将出现强降雨天气。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675317.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:06:25.000Z"
-    },
-    {
-      "id": "bf6b40230a2b",
-      "title": "运行时间缩减30%以上 全程时刻表中欧班列跑出“加速度”",
-      "summary": "中新网郑州8月10日电(记者 韩章云)8月10日9时40分，一列满载数码配件、机械设备、家居用品、家电等货物的中欧班列从河南郑州国际陆港经开片区鸣笛启程，途经哈萨克斯坦等国家，最终将抵达德国汉堡。",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-10/10675310.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:05:29.000Z"
-    },
-    {
-      "id": "39c76e321ad5",
-      "title": "引发热议后，费大厨正撤下全国小炒肉大王宣传语",
-      "summary": "中新网北京8月10日电(记者 刘星晨)近日，多个网友在社交媒体发文称，其就餐的费大厨门店的“全国小炒肉大王”宣传标语已经摘除。事件起因是，此前有网友发现，费大厨的“全国小炒肉大王”称号是在中国烹饪协会举办的一场线上网络投票比赛中，凭照片和视频赢得的。此事引发外界质疑。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675311.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:04:51.000Z"
-    },
-    {
-      "id": "002153ee0c9d",
-      "title": "7月份广东CPI同比温和上涨 PPI同比涨幅回落",
-      "summary": "中新网广州8月10日电 (记者 许青青)据国家统计局广东调查总队10日发布的数据，7月份广东居民消费价格指数(CPI)同比温和上涨，工业生产者出厂价格指数(PPI)同比涨幅回落。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675302.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:03:41.000Z"
-    },
-    {
-      "id": "13754924e562",
-      "title": "台风“白海豚”持续发力 湖北将迎强降雨天气",
-      "summary": "中新网武汉8月10日电 (记者 马芙蓉)据湖北省气象局10日消息，预计10日至11日，受台风“白海豚”西行影响，湖北将有强降雨天气，大部分地区伴有6级至9级偏北阵风，局地可达10级，需提高警惕，加强防范。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675301.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:03:09.000Z"
     },
     {
       "id": "450b9852681a",
@@ -468,6 +468,16 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-10T07:56:39.000Z"
+    },
+    {
+      "id": "3635e95127cf",
+      "title": "Harry Potter fans force relocation of £430m undersea cable to avoid Dobby’s ‘grave’",
+      "summary": "Power cable linking UK and Ireland now passes near Bronze Age human burial remains instead of fictional grave on Welsh beach Harry Potter fans have forced a new multimillion-poun…",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/harry-potter-fans-force-relocation-of-430m-undersea-cable-to-avoid-dobbys-grave",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-10T07:46:52.000Z"
     },
     {
       "id": "47f77686d0f4",
@@ -578,16 +588,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-10T04:00:35.000Z"
-    },
-    {
-      "id": "b2e9bd5ab672",
-      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
-      "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023 The world’s seas were hotter last month than in any July on re…",
-      "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-10T02:00:31.000Z"
     },
     {
       "id": "6d20ebd69fa6",
@@ -1200,16 +1200,6 @@
       "publishedAt": "2026-08-04T11:00:48.000Z"
     },
     {
-      "id": "53042f849068",
-      "title": "UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland",
-      "summary": "A Guardian investigation finds irrigation canals polluted with microplastics in Turkey, a major destination for UK waste • ‘Nobody cares’: Turkish farmers bear the burden of UK’s…",
-      "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-04T09:00:18.000Z"
-    },
-    {
       "id": "e2b71464dbd9",
       "title": "Price of olive oil expected to rise again as European crops feel the heat",
       "summary": "Farmers warn impact of high temperatures, drought and wildfires on range of foodstuffs means costs will increase Farmers across Europe are warning of a slump in food production a…",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-04T00:01:45.000Z"
+    },
+    {
+      "id": "7e978c1163ae",
+      "title": "不再「買買買」：為何中國消費者開始省錢過日子？",
+      "summary": "中國政府已推出一系列刺激消費措施，包括發放消費補貼，以及公佈擴大消費的五年規劃。然而，為何這些政策未能達到北京預期的效果？中國消費低迷究竟只是短期現象，還是反映出更深層的結構性問題？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yv09l9k9po/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-03T14:08:15.000Z"
     }
   ]
 }
