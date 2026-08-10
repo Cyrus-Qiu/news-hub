@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T11:16:01.126Z",
+  "updatedAt": "2026-08-10T12:25:35.908Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,246 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "50d36ff11537",
+      "title": "警惕！我国境内发现多起“Sorry”勒索病毒攻击事件",
+      "summary": "近日，国家计算机病毒应急处理中心和计算机病毒防治技术国家工程实验室依托国家计算机病毒协同分析平台(https://virus.cverc.org.cn)在我国境内发现多起用户遭“Sorry”勒索病毒攻击事件。用户重要文件被加密后文件名被更改为原文件名+“.sorry”后缀字符串，攻击者还在用户主机上留下勒索信，要求用户下载加密通信工具与其联系。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675352.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T12:19:00.000Z"
+    },
+    {
+      "id": "ff22598f7bdd",
+      "title": "述评：以全民健身托举健康中国",
+      "summary": "新华社北京8月8日电 题：述评：以全民健身托举健康中国",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675351.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T12:11:35.000Z"
+    },
+    {
+      "id": "d4a84a6e4646",
+      "title": "云南尼珠河大峡谷迎暑期旅游热",
+      "summary": "8月10日，一名外国游客从520米高跳台跳伞。中新社记者 黄兴鸿 摄 8月10日，一名低空跳伞爱好者在峡谷中飞翔。中新社记者 黄兴鸿 摄 8月10日，一名游客在蹦极。中新社记者 黄兴鸿 摄 8月10日，游客在玻璃桥上眺望河对岸的贵州。中新社记者 黄兴鸿 摄 8月10日，游客在距离谷底200余米高的云端玻璃桥上行走。中新社记者 黄兴鸿 摄 8月10日，游客…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675350.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T12:08:41.000Z"
+    },
+    {
+      "id": "434a42e42d19",
+      "title": "Ukraine launches drone attack on Russian oil refining facilities – Europe live",
+      "summary": "Volodymyr Zelenskyy says that strikes on such facilities were directly linked with putting more pressure on Moscow A fire ⁠broke ⁠out ​at an ⁠industrial facility in ⁠Russia’s ​Ty…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-10T12:08:36.000Z"
+    },
+    {
+      "id": "09baa447e05c",
+      "title": "台风天，浙江多地为老年人筑牢“避风港”",
+      "summary": "中新网杭州8月10日电 题：台风天，浙江多地为老年人筑牢“避风港”",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675347.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T12:06:35.000Z"
+    },
+    {
+      "id": "121b31f0b8e7",
+      "title": "斯诺克中国公开赛：斯佳辉零封对手晋级 常冰玉翻盘未果",
+      "summary": "8月10日，2026世界斯诺克中国公开赛在山西太原进入第三个比赛日，中国选手斯佳辉以6比0横扫同胞江俊，晋级16强。图为斯佳辉在比赛中。李瑞鑫 摄 8月10日，2026世界斯诺克中国公开赛在山西太原进入第三个比赛日，中国选手斯佳辉以6比0横扫同胞江俊，晋级16强。图为斯佳辉在比赛中。李瑞鑫 摄 8月10日，2026世界斯诺克中国公开赛在山西太原进入第三个…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675348.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T12:06:31.000Z"
+    },
+    {
+      "id": "d6185c0c80e8",
+      "title": "国家级大众射箭赛事首次落地天津",
+      "summary": "中新网天津8月10日电 (孙翼飞)日前，2026年中国射箭协会大众运动水平等级达级赛暨天津宁河射箭精英赛在宁河体育场开幕。这是今年北方地区唯一一场射箭大众达级赛，也是天津首次承办国家级大众射箭赛事。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-10/10675340.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T12:06:07.000Z"
+    },
+    {
+      "id": "0b6a86011fc3",
+      "title": "台风影响持续 浙江金华：清障保通路 安置护民生",
+      "summary": "中新网金华8月10日电(董易鑫 金燕晓 胡敏霞)有人在风雨中抢通回家的路，也有人在安置点里上一堂手机摄影课、吃一顿热乎饭……8月10日，受今年第13号台风“白海豚”影响，浙江金华风雨未歇，守护仍在。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675341.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T12:05:11.000Z"
+    },
+    {
+      "id": "af45b7833f4d",
+      "title": "城市更新记",
+      "summary": "全面践行人民城市理念 高质量推进城市更新",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675349.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T12:02:31.000Z"
+    },
+    {
+      "id": "25c29618f1b1",
+      "title": "What happens when medical students rely on AI – and never develop their own judgment? | Simar Bajaj and Joseph Sakran",
+      "summary": "AI’s danger isn’t just in experts losing the ability to reason. It’s that trainees may never learn how to do so in the first place In healthcare, there’s growing concern over doc…",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/ai-medical-students-judgment",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-10T12:00:44.000Z"
+    },
+    {
+      "id": "2bca2202fcfe",
+      "title": "Not your imagination: from backpacks to food, consumer goods are getting worse",
+      "summary": "Is it possible to avoid the continuing decline in quality of consumer products brought on by corporate greed? When Keyana Sapp, 31, went shopping for a new backpack, the brands h…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/consumed-consumer-goods-quality",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-10T12:00:43.000Z"
+    },
+    {
+      "id": "9b47778503b6",
+      "title": "外交部：奉劝美方尽早解除对古巴的制裁封锁 不要一再向他人“泼脏水”",
+      "summary": "中新网8月10日电 据外交部网站消息，8月10日，外交部发言人郭嘉昆答记者问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675343.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T12:00:15.000Z"
+    },
+    {
+      "id": "6223960fdf3a",
+      "title": "外交部：藏南地区是中国领土 印方公布所谓“标准名称”非法无效",
+      "summary": "中新网8月10日电 据外交部网站消息，8月10日，外交部发言人郭嘉昆答记者问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675342.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:59:40.000Z"
+    },
+    {
+      "id": "c31517aaa331",
+      "title": "山西大同农产品上半年出口突破2.5亿元 “大同好粮”加速扬帆海外",
+      "summary": "中新网大同8月10日电 (马静波 宋佳烨)今年1至6月，山西省大同市农产品进出口总额突破2.5亿元，外贸发展实现量质齐升。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675339.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:59:02.000Z"
+    },
+    {
+      "id": "64c48acf8f6b",
+      "title": "“友谊之桥·味融中柬”文化交流活动在柬埔寨金边举行",
+      "summary": "中新网金边8月10日电 (杨强 黄远飞)以“友谊之桥·味融中柬”为主题的文化交流活动当地时间10日在柬埔寨国立理工学院举行。中柬双方以美食为纽带，辅以中华传统文化体验，多层次深化两国民间友好交流交往。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10675319.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:51:54.000Z"
+    },
+    {
+      "id": "d6bef7747f85",
+      "title": "Oil prices rise as Iran tempers optimism around strait of Hormuz reopening - business live",
+      "summary": "European shares mixed; UK employment market shows ‘rays of light’ for jobseekers with upturn in pay, study says More retail news: The John Lewis Partnership , Britain’s biggest e…",
+      "url": "https://www.theguardian.com/business/live/2026/aug/10/uk-employment-market-shows-rays-of-light-for-jobseekers-with-upturn-in-pay-study-shows-business-live",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-10T11:46:54.000Z"
+    },
+    {
+      "id": "943a4ded0dc0",
+      "title": "外交部发言人就一些菲律宾籍人员涉嫌违法被查处答问",
+      "summary": "中新网8月10日电 据外交部网站消息，8月10日，外交部发言人郭嘉昆答记者问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675336.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:31:40.000Z"
+    },
+    {
+      "id": "e55f72e233c4",
+      "title": "东西问丨孙兆彬：气候变暖加剧 全球传染病传播风险大幅攀升",
+      "summary": "中新社北京8月10日电 题：气候变暖加剧 全球传染病传播风险大幅攀升",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-10/10675327.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:29:00.000Z"
+    },
+    {
+      "id": "5fab61fa4dda",
+      "title": "第四届“国话杯”剧本朗读大会在京启幕 课本剧成表演亮点",
+      "summary": "中新网北京8月10日电(记者 应妮)由中国国家话剧院、中国文化管理协会、中国儿童音乐学会联合主办的第四届“国话杯”剧本朗读大会10日在京启幕。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675321.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:24:52.000Z"
+    },
+    {
+      "id": "fb5a9115a242",
+      "title": "台风“白海豚”离开浙江 杭州航空铁路枢纽有序恢复运行",
+      "summary": "8月10日，杭州萧山国际机场，浙江长龙航空航班快速起飞。当日，今年第13号台风“白海豚”离开浙江，杭州萧山国际机场全面恢复航班运行，全天计划执行进出港航班814架次。中新社记者 王刚 摄 8月10日，一架飞机从杭州萧山国际机场起飞。当日，今年第13号台风“白海豚”离开浙江，杭州萧山国际机场全面恢复航班运行，全天计划执行进出港航班814架次。中新社记者 王…",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-10/1200713.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:23:54.000Z"
+    },
+    {
+      "id": "9818c88cc0de",
+      "title": "水利部滚动会商部署台风“白海豚”暴雨洪水防御工作",
+      "summary": "中新网8月10日电 据“中国水利”微信公众号消息，8月10日上午，国家防总副总指挥、水利部部长李国英主持专题会商，滚动分析研判今年第13号台风“白海豚”发展态势及影响，对台风暴雨洪水防御工作再部署、再落实。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675324.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:23:00.000Z"
+    },
+    {
+      "id": "0e1fce22727f",
+      "title": "国家发展改革委紧急安排2亿元中央预算内投资支持浙江台风灾害灾后应急恢复",
+      "summary": "中新网8月10日电 据国家发改委微信公众号消息，8月9日晚，今年第13号台风“白海豚”先后在浙江省台州玉环市、温州乐清市沿海登陆，对浙江省造成严重影响。8月10日，国家防减救灾委、应急管理部启动国家四级救灾应急响应。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675331.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:18:40.000Z"
+    },
+    {
+      "id": "c0a93fee948e",
+      "title": "【好评中国】外贸量稳质升，彰显我国经济强劲韧性",
+      "summary": "据海关统计，今年前7月，我国货物贸易进出口总值30.13万亿元，同比增长17.3%。其中，出口17.44万亿元，同比增长14%；进口12.69万亿元，同比增长22%。",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-10/10675329.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:16:40.000Z"
+    },
+    {
+      "id": "4e85544fdad5",
+      "title": "河南启动防汛四级应急响应 多举措应对台风“白海豚”",
+      "summary": "中新网郑州8月10日电 (记者 韩章云 范晓恒)当前，台风“白海豚”外围雨带已开始影响河南东南部、东部，信阳、驻马店、周口、商丘等地出现中到大雨。8月10日13时，河南省防汛抗旱指挥部启动防汛四级应急响应，该省多举措应对。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675305.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-10T11:15:56.000Z"
+    },
     {
       "id": "f360e2687c80",
       "title": "以科学的思想方法推进管党治党——习近平党建思想理论品格系列述评之六",
@@ -130,46 +370,6 @@
       "publishedAt": "2026-08-10T11:03:09.000Z"
     },
     {
-      "id": "6b54bf7585e3",
-      "title": "上海首次启动所有苏州河口应急翻排泵组 有效防范水位猛涨",
-      "summary": "中新网上海8月10日电 (记者 陈静)台风“白海豚”正在影响上海。10日11时30分起，所有苏州河口应急翻排泵组启动，排水能力达3万立方米/小时。这在上海历史上为首次。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675299.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:01:17.000Z"
-    },
-    {
-      "id": "3d5eb94085fa",
-      "title": "（长江十年行）湖北石首：从“化工围江”到“江豚逐浪” 绘就生态宜居新画卷",
-      "summary": "中新网荆州8月10日电 题：湖北石首：从“化工围江”到“江豚逐浪” 绘就生态宜居新画卷",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675297.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T11:00:19.000Z"
-    },
-    {
-      "id": "cda916daa32e",
-      "title": "北京市第十二届民族传统体育运动会举行自选表演项目比赛",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-10/1200708.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:58:21.000Z"
-    },
-    {
-      "id": "76bbeac9fce5",
-      "title": "多地兰州拉面馆改名为“青海拉面” ，好事还是坏事？",
-      "summary": "近日，天津72家青海籍拉面馆集中撤换原有“兰州拉面”招牌，统一更新为“青海拉面”门头。与此同时，南京、浙江、山东等多地也同步推进招牌更名工作，该事件迅速登上网络热搜，引发社会各界广泛讨论。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675308.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:57:42.000Z"
-    },
-    {
       "id": "450b9852681a",
       "title": "Record 230 people cross Channel to UK as smugglers turn to ‘mega-dinghies’",
       "summary": "Crossing in larger vessel highlights changing tactics despite increased enforcement on French coast UK politics live – latest updates Europe live – latest updates A dinghy carryi…",
@@ -180,46 +380,6 @@
       "publishedAt": "2026-08-10T10:55:55.000Z"
     },
     {
-      "id": "434a42e42d19",
-      "title": "Ukraine launches drone attack on Russian oil refining facilities – Europe live",
-      "summary": "Volodymyr Zelenskyy says that strikes on such facilities were directly linked with putting more pressure on Moscow The World Health Organization chief, Tedros Adhanom Ghebreyesus…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-10T10:53:05.000Z"
-    },
-    {
-      "id": "765efab2a40d",
-      "title": "80余家中外企业和机构拟在服贸会发布180余项创新成果",
-      "summary": "中新社北京8月10日电 (记者 吕少威)目前，阿里巴巴、施耐德、通用电气医疗、默沙东等80余家企业和机构，计划在2026年中国国际服务贸易交易会(简称“服贸会”)发布180余项创新成果，覆盖人工智能、医疗健康、文化出海、绿色低碳等多个领域。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675296.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:49:36.000Z"
-    },
-    {
-      "id": "a40541a6102e",
-      "title": "跨越山海寻根脉 26名华裔少年福建明溪开启“寻根育人”之旅",
-      "summary": "中新网福建明溪8月10日电 (张金玲 郭伊琳)近日，26名来自意大利、匈牙利的海外华裔青少年齐聚福建省明溪县，参加为期10天的亲情中华·中国寻根研学之旅夏令营。这场由中国侨联主办的活动，以“寻根育人”为主题，通过行走与体验，为生于异国、长于他乡的侨界新生代，打开一扇感知故土、寻脉中华的文化之门。",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-10/10675289.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:47:40.000Z"
-    },
-    {
-      "id": "ccc48bf11db8",
-      "title": "农业农村部和中国气象局继续发布农田渍涝风险预警",
-      "summary": "记者从农业农村部了解到，受今年第13号台风“白海豚”残余环流和北方降雨系统共同影响，10日夜间至15日，浙江北部和东部、上海、江苏大部、安徽、湖北中北部、河南、山东西部、河北中南部、山西东南部等地有暴雨到大暴雨，低洼农田渍涝风险高；河南西部和中北部等地的部分地区有特大暴雨，农田渍涝风险很高。建议上述地区及时清沟理渠，做好排涝机具物资准备，雨后及时排涝散墒…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675303.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:46:27.000Z"
-    },
-    {
       "id": "67e11c1f0672",
       "title": "Roman shipwreck with 500 amphorae found off coast of Sicily",
       "summary": "Discovery of 2,100-year-old vessel hailed as ‘one of the most important underwater archaeological discoveries of recent years’ A 2,100-year-old Roman shipwreck carrying about 500…",
@@ -228,126 +388,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-10T10:44:54.000Z"
-    },
-    {
-      "id": "e1ddde3d0711",
-      "title": "黑龙江年度首趟电影主题列车开行 千里铁道线展现光影文化",
-      "summary": "中新网哈尔滨8月10日电 (史轶夫 孙涛)8月10日13时，哈尔滨西站开往上海的Z174次列车缓缓驶出站台，三节经过精心布置的主题车厢，成为今年黑龙江首趟“悠享龙江”电影主题列车，将流动的光影文化带上千里铁道线。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675290.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:35:59.000Z"
-    },
-    {
-      "id": "e04624184697",
-      "title": "中法人士向重庆市档案馆捐赠日军侵华轰炸史料",
-      "summary": "中新网重庆8月10日电 (记者 钟旖)由法国友人马库斯·德雷特斯、白士杰与中国青年钟灏松搜集整理的一批日军侵华轰炸档案扫描件，10日正式移交给重庆市档案馆，作为馆藏档案永久收藏、研究利用。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675268.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:35:17.000Z"
-    },
-    {
-      "id": "75cdddbaaac0",
-      "title": "自然资源部对冀辽鲁启动海洋灾害四级应急响应",
-      "summary": "中新网8月10日电 据自然资源部微信公众号消息，今年第13号台风“白海豚”已经登陆，但仍将继续影响我国东部和北部海区。国家海洋预报台8月10日16时发布风暴潮黄色和海浪蓝色警报，根据《海洋灾害应急预案》规定，自然资源部针对河北、辽宁和山东启动海洋灾害四级应急响应，终止江苏、上海、浙江、福建海洋灾害应急响应。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675300.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:32:29.000Z"
-    },
-    {
-      "id": "59d42ea79b01",
-      "title": "两部门紧急预拨1.8亿元 支持浙江、内蒙古等7省（区）及新疆生产建设兵团做好自然灾害应急抢险救灾工作",
-      "summary": "中新网8月10日电 据财政部网站消息，近日，受今年第13号台风“白海豚”影响，我国华东地区多省份迎来新一轮强降雨，引发严重洪涝灾害；同时，西北地区降雨较少，旱情持续发展。8月10日，财政部、应急管理部紧急预拨1.8亿元中央自然灾害救灾资金，其中：一是预拨1.2亿元，支持江苏、浙江、安徽、福建、江西5省做好防汛防台风应急抢险救灾工作，重点做好搜救转移安置受…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675298.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:31:59.000Z"
-    },
-    {
-      "id": "f344960ddcfd",
-      "title": "中国一重集团原副总经理陆文俊一审获刑15年",
-      "summary": "中新社北京8月10日电 (记者 张素)记者从中国最高人民法院获悉，8月10日，湖南省湘潭市中级人民法院一审公开宣判中国一重集团有限公司原党委常委、副总经理陆文俊受贿案。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675292.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:30:05.000Z"
-    },
-    {
-      "id": "c55bf97dfa2f",
-      "title": "最新统计：台湾人口连续31个月下跌",
-      "summary": "中新社台北8月10日电 台当局内部事务主管部门10日公布最新数据，2026年7月台湾出生7906人，年减约11.56%，死亡逾1.7万人，各县市死亡人数皆超过出生人数。台湾总人口也连续31个月下跌至约2323.5万人。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675291.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:28:29.000Z"
-    },
-    {
-      "id": "3f1786754eb2",
-      "title": "前7个月广西对东盟进出口创历史同期新高",
-      "summary": "中新社南宁8月10日电 (韦佳秀 梁颖)南宁海关10日介绍，2026年前7个月，广西外贸进出口4942.8亿元人民币，同比增长8.9%。出口2683.6亿元；进口2259.2亿元，同比增长23.8%。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-10/10675293.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:25:32.000Z"
-    },
-    {
-      "id": "5045a6d4cf08",
-      "title": "商务部就对原产于墨西哥和美国的进口碧根果反倾销调查初裁答记者问",
-      "summary": "中新网8月10日电 据商务部网站消息，商务部新闻发言人就对原产于墨西哥和美国的进口碧根果反倾销调查初裁答记者问。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675294.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:24:02.000Z"
-    },
-    {
-      "id": "a90b0b7ea6ff",
-      "title": "能不出门咱就别出门！ 上海暴雨记者直播时险些摔倒",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-10/news1064924.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:22:48.000Z"
-    },
-    {
-      "id": "6ff7c42eb704",
-      "title": "应急管理部针对河北、河南、湖北启动国家地质灾害四级应急响应",
-      "summary": "中新网8月10日电 据应急管理部网站消息，据气象部门预测，受今年第13号台风“白海豚”影响，未来三天，河北中南部、河南、湖北中北部和西部等地有暴雨或大暴雨，局地有特大暴雨。经与自然资源部联合会商研判，河北南部、河南南部和北部、湖北西部等地部分地区发生地质灾害的风险较高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月10日针对河北、河南、湖北…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675287.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:15:26.000Z"
-    },
-    {
-      "id": "06a76d66f1e2",
-      "title": "银川开通经广州至新加坡国际航线 搭建西北连通东南亚空中走廊",
-      "summary": "中新网银川8月10日电 (记者 李佩珊)8月10日，银川=广州=新加坡国际航线在银川河东国际机场完成首航，首趟航班搭载185名旅客出发，宁夏新增一条通往东南亚的空中通道。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675274.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:12:38.000Z"
-    },
-    {
-      "id": "c7d18e6d9320",
-      "title": "广东持续高温酷热 全省最高气温超37℃",
-      "summary": "中新网广州8月10日电 (记者 王坚)广东大部市县10日出现超过35℃的高温天气。9日到10日早晨，惠州博罗录得全省最高气温达37.7℃。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675280.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-10T10:09:03.000Z"
     },
     {
       "id": "cf739f7a4f2d",
@@ -610,6 +650,16 @@
       "publishedAt": "2026-08-09T15:11:28.000Z"
     },
     {
+      "id": "548635189d66",
+      "title": "Sydney’s sugar rush: how the colony’s most powerful profited from Australia’s slave trade",
+      "summary": "Australia likes to think its history is untainted by slavery but a new book traces how a who’s who in the NSW capital profited from the capture and sale of ‘blackbirded’ Pacific…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/10/sydney-sugar-industry-slave-trade-pacific-islanders-ntwnfb",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-09T15:00:18.000Z"
+    },
+    {
       "id": "4851e70c338e",
       "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
       "summary": "Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UK Chinese electric car sales have risen across Europe to a record high dr…",
@@ -870,16 +920,6 @@
       "publishedAt": "2026-08-07T02:50:00.000Z"
     },
     {
-      "id": "75e0fe6a0af0",
-      "title": "Safety fears as scientists make first viruses designed by AI",
-      "summary": "Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questions Scientists have made the first viruses designed by artificial intelligence…",
-      "url": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-06T18:00:04.000Z"
-    },
-    {
       "id": "b9972a25a887",
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
       "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic…",
@@ -1100,26 +1140,6 @@
       "publishedAt": "2026-08-05T00:02:37.000Z"
     },
     {
-      "id": "c8c14ffe92f5",
-      "title": "SpaceX beats revenue expectations in first earnings report after IPO crash",
-      "summary": "Company posts $7.81bn in revenue, a jump of 92%, after share prices crashed following IPO debut For the first time since SpaceX went public, the world is getting a first-hand loo…",
-      "url": "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report",
-      "source": "The Guardian Business",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-04T23:34:17.000Z"
-    },
-    {
-      "id": "716f57d203a4",
-      "title": "US stock market hits record highs as AI profits pile and oil prices ease",
-      "summary": "S&P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago The US stock market rallied to records on Tuesday as profits…",
-      "url": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
-      "source": "The Guardian Business",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-04T20:56:59.000Z"
-    },
-    {
       "id": "055ebc75498e",
       "title": "BP boss urges Burnham to prioritise UK oil and gas even as firm exits North Sea",
       "summary": "Meg O’Neill says ‘where we generate jobs, we generate tax revenue’, as company’s profits more than double Revealed: major oil firms make $93bn profits amid war and climate crisis…",
@@ -1128,16 +1148,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-04T17:55:09.000Z"
-    },
-    {
-      "id": "76cbff6c9614",
-      "title": "David Ellison claims opposition to his mega-merger stems from potential CNN control",
-      "summary": "With $111bn deal to acquire cable network’s parent company stalled in courts, Ellison courts public Speaking out on the lawsuit against the big merger between Paramount Skydance…",
-      "url": "https://www.theguardian.com/business/2026/aug/04/cnn-mega-merger-david-ellison",
-      "source": "The Guardian Business",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-04T15:05:47.000Z"
     },
     {
       "id": "1376faa32511",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-04T00:01:45.000Z"
-    },
-    {
-      "id": "c90c0b6b843f",
-      "title": "Fresh US-Iran talks are ‘last chance’ for Tehran to avoid war escalating, Trump says",
-      "summary": "US president expects negotiations to begin in next day or two but Iran says it is not reviving talks with Washington New talks between Washington and Tehran are the “last chance”…",
-      "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-03T19:36:44.000Z"
     }
   ]
 }
