@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T20:57:19.604Z",
+  "updatedAt": "2026-08-11T21:57:32.176Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "b6ca34f0d7b8",
+      "title": "Australia politics live: Bragg to outline Coalition plans to heavily cut net migration and shred 96% of house construction code",
+      "summary": "Policy comes as debate continues over causes of and solutions to housing issues. Follow today’s news live Get our breaking news email , free app or daily news podcast ‘The Libera…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-11T21:44:49.000Z"
+    },
     {
       "id": "a748f2ecdb83",
       "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
@@ -132,7 +142,7 @@
     {
       "id": "855c2134a72e",
       "title": "Coalition to back One Nation policy barring overseas Australians with terrorist links from returning home",
-      "summary": "Angus Taylor and Matt Canavan will support Pauline Hanson’s migration bill despite vowing to fight her rightwing party Get our breaking news email , free app or daily news podcas…",
+      "summary": "Angus Taylor and Matt Canavan will support Pauline Hanson’s migration bill despite vowing to fight her rightwing party Follow our Australia news live blog for latest updates Get…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/12/coalition-to-back-one-nation-policy-barring-overseas-australians-with-terrorist-links-from-returning-home",
       "source": "The Guardian World",
       "category": "国际",
@@ -548,16 +558,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-11T08:25:41.000Z"
-    },
-    {
-      "id": "67ca4bb0158f",
-      "title": "Lobbyist defends ‘shit sheet’ on former Liberal MP despite admitting he knew ‘there was no affair’, Icac hears",
-      "summary": "Consultant Jeremy Greenwood gives evidence to Independent Commission Against Corruption as it investigates allegations linked to Christian Liberal group Follow our Australia news…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/christian-reformers-firm-fake-assistant-jessica-icac-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T08:20:27.000Z"
     },
     {
       "id": "a58f2bc78763",
