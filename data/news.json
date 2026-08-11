@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T17:32:06.233Z",
+  "updatedAt": "2026-08-11T18:28:27.076Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -357,16 +357,6 @@
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T14:11:51.000Z"
-    },
-    {
-      "id": "8d8acce3e466",
-      "title": "Oil prices hover near $90 a barrel and gold hits two-month high as Trump makes new demands on Iran – as it happened",
-      "summary": "US president demands compensation for damage incurred by US, complicating standoff with Tehran Oil prices have see-sawed: Brent crude jumped more than 2% to just over $90 a barre…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
       "publishedAt": "2026-08-11T14:11:51.000Z"
     },
     {
@@ -1188,6 +1178,16 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-05T21:12:07.000Z"
+    },
+    {
+      "id": "eadde26d404a",
+      "title": "Judge signals Trump’s defamation lawsuit against Wall Street Journal may be dismissed again",
+      "summary": "Obama-appointed judge seemed unmoved by Trump attorneys’ arguments in case also naming Murdoch A federal judge in Florida seemed skeptical of arguments from Donald Trump ’s legal…",
+      "url": "https://www.theguardian.com/media/2026/aug/05/trump-defamation-lawsuit-murdoch-dismissal",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-05T18:37:45.000Z"
     },
     {
       "id": "d81bcddc92bd",
