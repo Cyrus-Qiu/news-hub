@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T02:21:00.685Z",
+  "updatedAt": "2026-08-11T04:03:15.846Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,34 +30,74 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "dde5ff20f912",
-      "title": "央行8月11日7天期逆回购操作量为零",
-      "summary": "中新网8月11日电 据央行网站消息，根据公开市场业务一级交易商的需求，2026年8月11日7天期逆回购操作量为零。具体情况如下：",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675524.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T02:09:58.000Z"
-    },
-    {
       "id": "d3779fc92fed",
-      "title": "Australia politics live: bird flu vaccine to begin rolling out to ‘priority species’; Victoria’s new premier pauses right to work from home bill",
-      "summary": "H5 vaccine to be given to native birds in capacity as first step of bird flu countermeasures. Follow today’s news live Get our breaking news email , free app or daily news podcas…",
+      "title": "Australia news live: Taylor mounts parliamentary attack on Labor’s ‘wicked’ widow tax; RBA interest rates decision due today",
+      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Ted O’Brien says that just because the Japanese government has downplayed melon-gate, doesn’…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-11T02:07:50.000Z"
+      "publishedAt": "2026-08-11T03:59:44.000Z"
     },
     {
-      "id": "deb433fdee65",
-      "title": "英格兰旱情范围扩大 超七成区域进入突发性干旱",
-      "summary": "中新网伦敦8月11日电 (记者 欧阳开宇)英国国家干旱小组10日通报，在经历190年来最干旱的7月之后，英格兰新增多个地区被划入干旱范围，目前已有71.3%的区域处于突发性干旱状态，约4500万人受旱情影响。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675509.shtml",
+      "id": "05ae76a2630a",
+      "title": "国家防总、应急管理部针对北京、天津启动防汛四级应急响应",
+      "summary": "中新网8月11日电 据应急管理部官方微博消息，据气象部门预报，未来三天，受台风“白海豚”和冷空气共同影响，北京中南部、天津等地有暴雨或大暴雨。中央气象台8月11日6时继续发布暴雨橙色预警。根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于8月11日9时针对北京、天津启动防汛四级应急响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675671.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T02:06:16.000Z"
+      "publishedAt": "2026-08-11T03:59:08.000Z"
+    },
+    {
+      "id": "fcaae1c29d59",
+      "title": "划定经营边界、多部门联动共治 精品夜市激活消费新活力",
+      "summary": "城市夜间消费持续火热，流动摊点丰富了市民夜间生活、提振了市井烟火气，但也产生了占道通行、油烟扰民、噪声扰民、环境脏乱等一系列城市治理难题。如何兼顾民生需求与城市管理秩序？上个月，江苏南京出台了《关于进一步规范商业外摆和临时摊点管理的指导意见》，变“堵”为“疏”。管理成效究竟如何？跟随记者镜头，一探究竟。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675670.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:52:38.000Z"
+    },
+    {
+      "id": "3fda52b44e30",
+      "title": "纽约市长力挺配送用工法案 要求亚马逊直接聘用配送人员",
+      "summary": "中新网8月11日电 据美媒报道，当地时间10日，美国纽约市市长佐兰·马姆达尼表示，他支持一项名为《配送保护法案》的提案，旨在改革快递末端配送用工模式。亚马逊等配送量巨大的公司，普遍依靠外包服务商雇佣人员完成包裹的最后配送，而非直接聘用正式员工。该法案要求运营末端配送仓库的企业直接雇用配送人员。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675546.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:49:20.000Z"
+    },
+    {
+      "id": "6e197e74945e",
+      "title": "哥倫比亞多年來最大地震造成至少132人死亡",
+      "summary": "這場7.4級地震震央位於太平洋沿岸附近的喬科省（Chocó），但數百公里外的城市亦有震感。",
+      "url": "https://www.bbc.com/zhongwen/articles/cy9w1n5vgljo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:43:53.000Z"
+    },
+    {
+      "id": "7495da32722e",
+      "title": "A股午评：超3100只个股飘绿，沪指收跌，深指、创业板指收涨",
+      "summary": "；创新药概念走高，油气、电脑硬件板块上涨，贵金属高开低走，航天军工下跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675668.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:42:38.000Z"
+    },
+    {
+      "id": "ddae8e161482",
+      "title": "《客起汀水》闽西非遗风华秀在“客家首府”福建长汀首演",
+      "summary": "图为闽西汉剧展示。中新社记者 张斌 摄 图为闽西汉剧展示。中新社记者 张斌 摄 图为女子群舞采茶表演。中新社记者 张斌 摄 图为木偶写字表演。中新社记者 张斌 摄 图为客家集市展示。中新社记者 张斌 摄 图为打新婚民俗展示。中新社记者 张斌 摄 图为客家山歌丰收谣表演。中新社记者 张斌 摄 图为犁春牛展示。中新社记者 张斌 摄 图为主题歌舞客家回响。中新…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10675633.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:40:25.000Z"
     },
     {
       "id": "4f07762c2d95",
@@ -67,107 +107,267 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-11T02:05:57.000Z"
+      "publishedAt": "2026-08-11T03:36:33.000Z"
     },
     {
-      "id": "325264c56a03",
-      "title": "8月11日人民币对美元中间价报6.7900 下调16个基点",
-      "summary": "中新网8月11日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月11日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7900元，下调16个基点。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675517.shtml",
+      "id": "3b073a2524cb",
+      "title": "黄河水利委员会全力以赴做好台风“白海豚”暴雨洪水防御工作",
+      "summary": "中新网8月11日电 据水利部网站消息，8月10日，黄河水利委员会召开防汛专题会商会，分析研判第13号台风“白海豚”发展态势，针对性部署暴雨洪水防御工作。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675652.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T02:03:48.000Z"
+      "publishedAt": "2026-08-11T03:36:21.000Z"
     },
     {
-      "id": "f97a9eb7d056",
-      "title": "山西一医院实习护士晒患者隐私照？院方通报",
-      "summary": "中新网8月11日电 8月11日，山西医科大学第一医院在其官方微信发布情况说明称，针对媒体报道的“疑山西医科大学第一医院实习护士晒患者隐私照”事件，该院高度重视，立即成立专项调查组开展全面调查核实工作。经初步核查，涉事人员为在该院实习的护理学生，医院已和该学生所在学校进行沟通。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675513.shtml",
+      "id": "9a658e717930",
+      "title": "山西发布超龄劳动者用工协议参考文本 涵盖工伤、报酬等权益",
+      "summary": "中新网太原8月11日电 (记者 杨静)记者11日从山西省人社厅获悉，该厅近日正式发布《超龄劳动者用工协议参考文本》(以下简称《参考文本》)，为山西省内用人单位招用超龄劳动者提供规范化签约指引。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675667.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T02:00:56.000Z"
+      "publishedAt": "2026-08-11T03:32:57.000Z"
     },
     {
-      "id": "3ae50bc01707",
-      "title": "北京全市启动防汛二级应急响应",
-      "summary": "中新网8月11日电 据“北京应急”微信公众号消息，根据北京市气象台预报，8月11日傍晚至13日白天，北京市大部分地区将出现6小时累计雨量100毫米、24小时累计雨量150毫米以上的强降雨，其中通州、大兴、房山、门头沟、经开、怀柔、丰台等7区，6小时累计雨量可达150毫米以上，24小时累计雨量可达200毫米以上。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675558.shtml",
+      "id": "faf024e2c1c7",
+      "title": "山西一医院护士晒女患者隐私照？院方称为实习护理学生",
+      "summary": "中新网太原8月11日电 (记者 范丽芳)针对媒体报道的“疑山西医科大学第一医院实习护士晒患者隐私照”事件，山西医科大学第一医院11日凌晨发布情况说明称，涉事人员为在该院实习的护理学生，医院已和该学生所在学校沟通。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675666.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T01:59:35.000Z"
+      "publishedAt": "2026-08-11T03:31:35.000Z"
     },
     {
-      "id": "14f4db4b6bd6",
-      "title": "内蒙古科左中旗：“民族团结进步杯”“村BA”千场篮球联赛决赛举行",
-      "summary": "8月10日，内蒙古通辽市科左中旗，希伯花镇锦绣海棠队夺冠后庆祝。中新社记者 刘文华 摄 8月10日，内蒙古通辽市科左中旗，国际友人联队(白)与科左中旗队进行友谊赛。中新社记者 刘文华 摄 8月10日，内蒙古通辽市科左中旗，国际友人联队(白)与科左中旗队进行友谊赛。中新社记者 刘文华 摄 8月10日，内蒙古通辽市科左中旗，腰林毛都镇雄鹰队与希伯花镇锦绣海棠…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10675521.shtml",
+      "id": "0ba47c9763f5",
+      "title": "北京启动全市防汛二级应急响应 8月12日起倡导弹性工作或错峰上下班",
+      "summary": "中新网北京8月11日电 (记者 陈杭)根据北京市气象台预报，11日傍晚至13日白天，北京市大部分地区将出现6小时累计雨量100毫米、24小时累计雨量150毫米以上的强降雨，其中通州、大兴、房山、门头沟、经开、怀柔、丰台等7区，6小时累计雨量可达150毫米以上，24小时累计雨量可达200毫米以上。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675661.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T01:57:43.000Z"
+      "publishedAt": "2026-08-11T03:29:57.000Z"
     },
     {
-      "id": "c88616c3e8a4",
-      "title": "斯诺克中国公开赛：马克·塞尔比战胜庞俊旭晋级",
-      "summary": "8月10日晚，2026世界斯诺克中国公开赛在山西太原进入第三个比赛日，四届世锦赛冠军#8204;马克·塞尔比#8204;以#8204;6比3#8204;战胜中国选手#8204;庞俊旭#8204;，晋级16强。图为马克·塞尔比#8204;在比赛中。中新社记者 韦亮 摄 8月10日晚，2026世界斯诺克中国公开赛在山西太原进入第三个比赛日，四届世锦赛冠军#8…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10675519.shtml",
+      "id": "9189670dea85",
+      "title": "光伏上游价格战迎终局？多晶硅巨头集体叫停亏损销售",
+      "summary": "原标题：光伏上游“自杀式”价格战迎终局？多晶硅八巨头集体叫停亏损销售",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675662.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T01:56:49.000Z"
+      "publishedAt": "2026-08-11T03:25:55.000Z"
     },
     {
-      "id": "de7c0d47e5d0",
-      "title": "斯诺克中国公开赛：凯伦·威尔逊鏖战11局战胜亚伦·希尔",
-      "summary": "8月10日晚，2026世界斯诺克中国公开赛在山西太原进入第三个比赛日，世锦赛冠军#8204;凯伦·威尔逊#8204;与爱尔兰选手亚伦·希尔#8204;鏖战11局，最终以#8204;6比5战胜亚伦·希尔#8204;，晋级16强。图为凯伦·威尔逊#8204;在比赛中。中新社记者 韦亮 摄 8月10日晚，2026世界斯诺克中国公开赛在山西太原进入第三个比赛日，…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10675520.shtml",
+      "id": "d5c8d218520a",
+      "title": "江苏东台：深化蓝绿融合 描绘美丽城市建设新画卷",
+      "summary": "壮美海滩，万鸟翩跹。连日来，大批候鸟“先头部队”抵达江苏东台条子泥湿地停歇补给，珍稀鸟类云集黄海滩涂的生态盛景再度上演。据了解，作为东亚——澳大利西亚候鸟迁飞通道的核心枢纽与关键节点，条子泥湿地凭借得天独厚的地理区位、优质的滩涂湿地资源和持续向好的生态环境，成为全球候鸟迁徙途中不可或缺的能量补给站与栖息繁衍地，每年吸引数百万只候鸟在此驻足栖息、繁衍生息。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675630.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T01:56:11.000Z"
+      "publishedAt": "2026-08-11T03:21:48.000Z"
     },
     {
-      "id": "95fd37744eaf",
-      "title": "手机软件广告“乱跳转”屡禁不止 根治“数字牛皮癣”面临哪些挑战？",
-      "summary": "央广网北京8月11日消息(总台中国之声记者管昕)据中央广播电视总台中国之声《新闻纵横》报道，近日，安徽黄山一老人在拍照时遭遇多个弹窗广告的视频引发热议。视频显示，老人刚点开手机应用，一层层弹窗广告瞬间铺满屏幕，短短半分钟就跳转了20余次。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675554.shtml",
+      "id": "693de73c5256",
+      "title": "肌肉多、腹部脂肪少、患病风险低 携带这种基因突变的人“有福”了",
+      "summary": "本报讯 一项大规模基因组研究发现，一种特定基因的突变与肌肉比例上升、腹部脂肪与血糖水平下降，以及2型糖尿病、心脏病等疾病风险降低有关。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-11/10675656.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T01:55:21.000Z"
+      "publishedAt": "2026-08-11T03:19:26.000Z"
     },
     {
-      "id": "76d6b8b3f522",
-      "title": "锚定“两重”“两新” 央企划定下半年投资“路线图”",
-      "summary": "央企纷纷划定下半年投资“路线图”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675552.shtml",
+      "id": "b09cb421e3b7",
+      "title": "浙江发布台风“白海豚”评估报告：路径罕见、雨量破多项纪录",
+      "summary": "今天(8月11日)，浙江省气象局发布台风“白海豚”气象评估报告。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675649.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T01:54:03.000Z"
+      "publishedAt": "2026-08-11T03:12:36.000Z"
     },
     {
-      "id": "f2ea0cb47f61",
-      "title": "朝中社批日本新版《防卫白皮书》：企图披着防卫外衣掩盖侵略本质",
-      "summary": "中新网8月11日电 据朝中社11日报道，朝鲜国际安保问题评论家姜元哲发表文章称，日本2026年版《防卫白皮书》是“旨在将启动战争机器合法化的再侵略白皮书”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675533.shtml",
+      "id": "fe88a75da5ee",
+      "title": "特朗普：国际足联若动了更换主席因凡蒂诺的念头，将犯下严重错误",
+      "summary": "中新网8月11日电 据法新社报道，美国总统特朗普当地时间10日公开发文力挺国际足联主席因凡蒂诺。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675644.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T01:52:57.000Z"
+      "publishedAt": "2026-08-11T03:10:14.000Z"
     },
     {
-      "id": "6c96642948c8",
-      "title": "AI进药企，如何真正驱动创新药高质量发展？",
-      "summary": "近年来，我国创新药上市数量快速增长，医药创新硬实力持续提升。随着技术加速渗透，人工智能已深度融入药品研发、生产、质控、监管全链条，AI赋能创新药正站上产业发展新风口。在政策红利、资本加持和跨界合作的多重助推下，AI技术能否从单点试点迈向全产业应用，真正驱动创新药高质量发展？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675550.shtml",
+      "id": "8c086c64af47",
+      "title": "“中式生活”火遍全球，5个热词后劲很大！",
+      "summary": "China Travel、China Cool",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675559.shtml",
       "source": "中国新闻网",
-      "category": "AI",
+      "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T01:52:23.000Z"
+      "publishedAt": "2026-08-11T03:09:32.000Z"
+    },
+    {
+      "id": "d8c2f82b5b98",
+      "title": "北京市气象台发布雷电黄色预警信号",
+      "summary": "中新网8月11日电 据中央气象台网站消息，北京市气象台2026年08月11日10时10分发布雷电黄色预警信号：预计8月11日下午至13日白天，北京市有雷阵雨，短时雨强大，并伴有7级以上阵风，请注意防范。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675640.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:09:18.000Z"
+    },
+    {
+      "id": "79a1fd47bf7b",
+      "title": "“见证一个自信、活力、蓬勃向上的中国”（外媒记者看中国）",
+      "summary": "三名外国记者眼中的中国发展图景——",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675572.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:09:12.000Z"
+    },
+    {
+      "id": "e17adc1403b0",
+      "title": "排涝车、消防车、移动抽水泵齐上阵，直击上海多处积水抢排现场",
+      "summary": "防灾减灾救灾一线见闻丨排涝车、消防车、移动抽水泵齐上阵，直击上海多处积水抢排现场",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675618.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:08:52.000Z"
+    },
+    {
+      "id": "75463f7783a9",
+      "title": "台风“白海豚”逼近 安徽多地积极做好防御应对",
+      "summary": "面对台风“白海豚”逼近，安徽省多地迅速启动应急响应机制，全力保障人民群众生命财产安全。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675598.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:08:34.000Z"
+    },
+    {
+      "id": "fd93b9b7f655",
+      "title": "河南发布红色山洪灾害气象风险预警",
+      "summary": "河南省水利厅、河南省气象局8月11日8时联合发布红色山洪灾害气象风险预警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675643.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:08:30.000Z"
+    },
+    {
+      "id": "6a790122c306",
+      "title": "中国海军第49批护航编队将赴亚丁湾、索马里海域执行护航任务",
+      "summary": "中新社北京8月11日电 据中国国防部网站11日消息，8月中旬开始，由中国海军导弹驱逐舰昆明舰、导弹护卫舰岳阳舰、综合补给舰骆马湖舰组成的第49批护航编队，将赴亚丁湾、索马里海域接替第48批护航编队执行护航任务。中国海军是海洋命运共同体理念的坚定建设者、维护者，始终秉持和平、发展、合作、共赢理念，为保障国际海上通道安全、维护地区和平稳定贡献中国力量。(完)",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675641.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:08:08.000Z"
+    },
+    {
+      "id": "e00e88c905d5",
+      "title": "他在长江上开“垃圾船”｜人间事儿·长江十年行",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675591.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:07:58.000Z"
+    },
+    {
+      "id": "9681240f8936",
+      "title": "极端天气导致列车停运、航班取消 应该如何退改签？",
+      "summary": "极端天气影响下，列车停运、航班取消时有发生。不少旅客面对手中的火车票或者机票有这样的疑问：停运的车票是不是必须当天办理退票？联程票的一段行程受影响，后续行程该如何处理呢？",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675642.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:07:36.000Z"
+    },
+    {
+      "id": "a2eacc4d77ec",
+      "title": "探访两岸同名村镇：闽台两“梅山” 刘侯同一宗",
+      "summary": "中新网福建南安8月11日电 (记者 孙虹)“虽然我们姓侯，大陆这边的宗亲姓刘，但我们供奉的是同一位祖先。”台湾嘉义双溪口石马宫主委侯明尧道出两岸“刘侯同宗”的故事。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675624.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:07:24.000Z"
+    },
+    {
+      "id": "368e94d384bf",
+      "title": "谁的家乡这么“出圈”？丨活力中国调研行",
+      "summary": "作者：王玥 覃皓珺 谢瑶 李和风",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675581.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:06:32.000Z"
+    },
+    {
+      "id": "11266e8e2239",
+      "title": "“代步神车”遇冷 5万元以下微型车销量腰斩",
+      "summary": "8月10日，北京商报记者走访多家汽车品牌经销商门店发现，一些曾经的“国民代步神车”，终端热度正在降温。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675638.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:05:36.000Z"
+    },
+    {
+      "id": "c49a6410e122",
+      "title": "这个暑期一起解锁宝藏中国 探寻夏日出游新玩法",
+      "summary": "这个暑期，越来越多游客将目的地转向小城。各地县域立足自身特色，打造差异化的文旅体验。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675569.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:05:24.000Z"
+    },
+    {
+      "id": "cdfc7c11883e",
+      "title": "大银幕“续航力”持续满格 影院扩容‌成为“15分钟便民生活圈”新供给",
+      "summary": "央视网消息：据网络平台数据，2026年暑期档电影票房已超85亿元，全年票房已超242亿元。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675562.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:05:12.000Z"
+    },
+    {
+      "id": "051bd61acfc9",
+      "title": "从7月CPI看经济内生增长动力",
+      "summary": "8月9日，国家统计局发布数据显示，7月全国居民消费价格指数(CPI)环比下降0.1%，降幅比上月收窄0.2个百分点，同比上涨0.5%；扣除食品和能源价格的核心CPI环比上涨0.3%，同比上涨0.9%。与此同时，受输入性和季节性等因素影响，工业生产者出厂价格指数(PPI)环比下降0.7%，同比上涨3.5%，涨幅比上月回落0.6个百分点。业内人士表示，伴随科…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675560.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T03:04:50.000Z"
+    },
+    {
+      "id": "b9dbb3d48d00",
+      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates More than 100 people…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-11T02:14:32.000Z"
+    },
+    {
+      "id": "7b13269f44e4",
+      "title": "Native birds in captivity to be vaccinated against H5 bird flu as Australia prepares for more mass mortalities",
+      "summary": "Federal government also hopes to vaccinate some wild birds but admits catching them once, let alone twice for both doses, is ‘difficult’ Get our breaking news email , free app or…",
+      "url": "https://www.theguardian.com/world/2026/aug/11/bird-flu-h5-vaccine-native-birds-australia",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-11T02:13:01.000Z"
     },
     {
       "id": "ea6e06161b3b",
@@ -178,186 +378,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-11T01:51:46.000Z"
-    },
-    {
-      "id": "835a8b8f1211",
-      "title": "拍出48万元！从种牛“标王”看畜禽种业新突破",
-      "summary": "从种牛“标王”看畜禽种业新突破",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675547.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:51:04.000Z"
-    },
-    {
-      "id": "4d59521ea870",
-      "title": "A股开盘：超3400只个股飘绿，三大指数集体低开",
-      "summary": "；贵金属、油气、煤炭上涨，发电设备、航天军工、半导体下跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675538.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:51:00.000Z"
-    },
-    {
-      "id": "3c30056fb8c0",
-      "title": "哥伦比亚发生强震 救援人员在废墟中搜救幸存者",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200748.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:50:30.000Z"
-    },
-    {
-      "id": "119973e7d960",
-      "title": "特写：台风过境 悬渚村从积水淤泥中“新生”",
-      "summary": "中新网浙江台州8月11日电 题：特写：台风过境 悬渚村从积水淤泥中“新生”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675535.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:48:00.000Z"
-    },
-    {
-      "id": "7d5a9aa444e5",
-      "title": "英格兰多地区更新高温健康警报",
-      "summary": "中新网伦敦8月11日电 (记者 欧阳开宇)英国卫生安全局(UKHSA)10日更新英格兰全域高温健康预警机制，针对英格兰多个地区升级、续发高温警报，提示持续晴热天气将带来切实公共健康风险，呼吁民众及社会机构全面落实防暑应对措施。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675508.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:47:40.000Z"
-    },
-    {
-      "id": "34fd81c1d255",
-      "title": "学习新语·铸魂强党｜健全上下贯通执行有力的组织体系",
-      "summary": "习近平党建思想，是习近平新时代中国特色社会主义思想的重要组成部分，是加强新时代党的建设的根本遵循。要深刻理解和把握习近平党建思想的内涵要义，必须深刻领会“十四个坚持”。",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-11/10675512.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:47:00.000Z"
-    },
-    {
-      "id": "943c56f5528b",
-      "title": "浙江衢州：风雨“守夜人”筑牢防台风“安全堤”",
-      "summary": "中新网衢州8月11日电 (骆泽明)受今年第13号台风“白海豚”影响，浙江衢州连日来风雨交加。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675532.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:46:52.000Z"
-    },
-    {
-      "id": "15d15bf81724",
-      "title": "巴西总统卢拉：愿为哥伦比亚地震灾区提供援助",
-      "summary": "中新社圣保罗8月10日电 当地时间10日，哥伦比亚发生7.4级强震后，巴西总统卢拉通过社交媒体表示，对哥伦比亚人民致以慰问，巴西政府愿提供必要援助。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675492.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:46:46.000Z"
-    },
-    {
-      "id": "600de0edc6f6",
-      "title": "脑内“电子药”陪伴帕金森患者",
-      "summary": "在帕金森病治疗领域，脑深部电刺激术(DBS)常被称为“电子药物”。但在清华大学玉泉医院神经调控中心主任马羽团队看来，这套技术更本质的内涵，是一种与患者长期共存的“陪伴”。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-11/10675542.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:45:46.000Z"
-    },
-    {
-      "id": "8beee0c6e6c6",
-      "title": "携手构建亚太共同体",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675505.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:45:38.000Z"
-    },
-    {
-      "id": "5cb438028268",
-      "title": "英国超2800人因高温相关病症丧生",
-      "summary": "中新社伦敦8月10日电 (记者 欧阳开宇)英国近期持续遭遇极端高温天气，旱情范围不断扩大。据英国卫生安全局10日发布的评估数据，今年以来，超2800人因高温引发的相关病症丧生。酷暑给当地公共卫生安全带来严峻考验。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675491.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:45:00.000Z"
-    },
-    {
-      "id": "1dc8f1b1d065",
-      "title": "离境退税2.0催生“购在中国”新热潮",
-      "summary": "7月1日起，优化离境退税政策2.0版在全国推行——",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675536.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:43:12.000Z"
-    },
-    {
-      "id": "05928f5ed7a8",
-      "title": "哥伦比亚西部发生7.4级地震 已致111亡87伤",
-      "summary": "中新社北京8月11日电 波哥大消息：当地时间8月10日，哥伦比亚总统德拉埃斯普列亚在首都波哥大通报说，该国西部当天发生的7.4级地震已造成111人遇难、87人受伤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675490.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:42:36.000Z"
-    },
-    {
-      "id": "40d05e713fdc",
-      "title": "一诺千金 笃行致远",
-      "summary": "原标题：大道行天下｜一诺千金 笃行致远——中国元首外交的世界情怀与大国气派",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675528.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:41:14.000Z"
-    },
-    {
-      "id": "0a43bbc5217a",
-      "title": "为什么中国大模型便宜又好用？",
-      "summary": "(外国网友趣问中国⑩)",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675534.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:39:34.000Z"
-    },
-    {
-      "id": "9f76a43049f7",
-      "title": "香港将推出多项活动响应2026年全国生态日",
-      "summary": "《人民日报海外版》(2026年08月11日 第 04 版)",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-11/10675531.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:37:58.000Z"
-    },
-    {
-      "id": "e1937fc98c45",
-      "title": "澳门《社团法律制度》今起公开咨询",
-      "summary": "《人民日报海外版》(2026年08月11日 第 04 版)",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-11/10675530.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:37:02.000Z"
-    },
-    {
-      "id": "58e5746e6bdd",
-      "title": "香港中文大学发布新一份五年策略计划",
-      "summary": "本报香港8月10日电(记者陈然)香港中文大学近日公布新一份五年策略计划《中大2026—2030：腾跃新程，励行志远》，提出未来五年将围绕人才培育、知识创新、国际联系等重点领域持续发力，对接国家“十五五”规划和香港首个五年规划，进一步发挥背靠祖国、联通世界的独特优势，建设扎根香港、立足国家、放眼全球的世界一流研究型综合大学。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-11/10675529.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T01:36:02.000Z"
     },
     {
       "id": "b3d64b505b05",
@@ -398,16 +418,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-10T19:54:30.000Z"
-    },
-    {
-      "id": "b9dbb3d48d00",
-      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
-      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates More than 100 people…",
-      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-10T18:11:06.000Z"
     },
     {
       "id": "62ab943427f9",
@@ -538,16 +548,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-10T10:00:43.000Z"
-    },
-    {
-      "id": "fdbfe1ee4023",
-      "title": "New head of Australian trade union movement named after Sally McManus steps down",
-      "summary": "Melissa Donnelly, the national secretary of the Community and Public Sector Union, will replace the outgoing ACTU head Get our breaking news email , free app or daily news podcas…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/10/new-head-australian-trade-union-movement-melissa-donnelly-sally-mcmanus-steps-down",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-10T10:00:42.000Z"
     },
     {
       "id": "d04b13deae8e",
@@ -1170,16 +1170,6 @@
       "publishedAt": "2026-08-05T08:40:02.000Z"
     },
     {
-      "id": "ff91a026aa40",
-      "title": "BBC專訪金明日：「我雖然自由了，但實際上也有很大的負擔」",
-      "summary": "中國錫安教會創辦人及主任牧師獲釋一個月，接受了BBC中文的專訪。",
-      "url": "https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-05T00:02:37.000Z"
-    },
-    {
       "id": "055ebc75498e",
       "title": "BP boss urges Burnham to prioritise UK oil and gas even as firm exits North Sea",
       "summary": "Meg O’Neill says ‘where we generate jobs, we generate tax revenue’, as company’s profits more than double Revealed: major oil firms make $93bn profits amid war and climate crisis…",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-04T11:15:40.000Z"
+    },
+    {
+      "id": "e2b71464dbd9",
+      "title": "Price of olive oil expected to rise again as European crops feel the heat",
+      "summary": "Farmers warn impact of high temperatures, drought and wildfires on range of foodstuffs means costs will increase Farmers across Europe are warning of a slump in food production a…",
+      "url": "https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-04T04:00:13.000Z"
     }
   ]
 }
