@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T16:27:45.647Z",
+  "updatedAt": "2026-08-11T17:32:06.233Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -830,6 +830,16 @@
       "publishedAt": "2026-08-10T06:37:01.000Z"
     },
     {
+      "id": "8af78702a748",
+      "title": "Samsung Galaxy Z Fold 8 review: your passport to a folding phone future",
+      "summary": "Novel squat Android opens to an iPad-like screen for video or multitasking, with plenty of power and battery life Samsung’s latest folding phone breaks the mould with a squat, pa…",
+      "url": "https://www.theguardian.com/technology/2026/aug/10/samsung-galaxy-z-fold-8-review-folding-phone",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-10T06:00:37.000Z"
+    },
+    {
       "id": "82d731c95375",
       "title": "班克斯在英國法庭外作畫 至今花費公帑近15萬英鎊",
       "summary": "資訊自由（FOI）申請顯示，班克斯的藝術作品已花費英國納稅人近15萬英鎊，而且費用還在不斷上漲。",
@@ -1218,16 +1228,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-04T14:00:02.000Z"
-    },
-    {
-      "id": "a1f93a3e5620",
-      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
-      "summary": "中國公布新出入境管理規定引起廣泛討論，當中包括邊境人員「必要時可勸阻」公民前往高風險國家和地區，在海外「危害國安」的公民回國後會被禁止出境，科研技術人員亦被納入出境限制。",
-      "url": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-04T12:16:12.000Z"
     }
   ]
 }
