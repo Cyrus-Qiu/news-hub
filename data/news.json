@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T22:54:56.087Z",
+  "updatedAt": "2026-08-11T23:51:58.993Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,146 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "2d6d5bdfb0ed",
+      "title": "《广告引证内容执法指南》落地——广告引证，拒绝“文字陷阱”",
+      "summary": "“某某细分赛道销量第一”，广告中堆砌定语的“第一”常让人迷惑；大字抓眼球、小字藏限制，不少消费者为此吃亏……这些困扰消费者的广告问题将得到整治。",
+      "url": "https://www.chinanews.com.cn/fz/2026/08-12/10676094.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:49:08.000Z"
+    },
+    {
+      "id": "d9fcbfc908df",
+      "title": "从“中国制造”到“中国智造”：“新新三样”如何重塑全球竞争格局",
+      "summary": "中国外贸的“货单”正悄然发生变化。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676093.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:46:45.000Z"
+    },
+    {
+      "id": "bc737e4365b5",
+      "title": "国道旁的一盘鸡，如何“盘活”一座城？",
+      "summary": "新疆大盘鸡。张海 摄 312国道旁，一盘热气腾腾的大盘鸡，鸡肉鲜嫩、土豆软糯、皮带面筋道，汤汁浓香四溢。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676092.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:44:05.000Z"
+    },
+    {
+      "id": "cace347297ae",
+      "title": "暴雨、强对流天气预警齐发 河南安徽等地部分地区有大暴雨",
+      "summary": "中新网8月12日电 据中央气象台网站消息，中央气象台8月12日06时继续发布暴雨橙色预警和强对流天气蓝色预警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676091.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:39:31.000Z"
+    },
+    {
+      "id": "5eba449cdabe",
+      "title": "美国7月成屋销售量环比下降1.7% 同比增长0.7%",
+      "summary": "中新社华盛顿8月11日电 (记者 沙晗汀)美国全国房地产经纪商协会(National Association of Realtors)当地时间11日公布数据显示，今年7月美国成屋销售量按年率计算降至406万套，环比下降1.7%，同比增长0.7%，略好于市场预期。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676087.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:38:23.000Z"
+    },
+    {
+      "id": "eac253cb4e8e",
+      "title": "泰国总理下令制定新的枪支管制法案并冻结三类枪支许可证",
+      "summary": "中新社曼谷8月11日电 (记者 李映民)泰国总理阿努廷11日下令制定新的枪支管制法案并冻结三种类型的枪支许可证。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676086.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:36:19.000Z"
+    },
+    {
+      "id": "b6ca34f0d7b8",
+      "title": "Australia politics live: Tim Wilson questions energy efficiency standards for housing, saying ‘some people call it putting a jumper on’",
+      "summary": "Coalition promises to drastically cut net overseas migration and housing construction code. Follow today’s news live Get our breaking news email , free app or daily news podcast…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-11T23:34:26.000Z"
+    },
+    {
+      "id": "b0251e4881ce",
+      "title": "日本烟花大会突发事故：燃放烟花落入观众区致3人受伤",
+      "summary": "中新网8月12日电 据日本广播协会(NHK)报道，日本静冈县伊东市表示，当地时间10日晚该地举办的烟花大会上，部分燃放的烟花落入观众区域，造成包括儿童在内的3人受伤。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676090.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:31:33.000Z"
+    },
+    {
+      "id": "b76200b7704d",
+      "title": "汛期还能出去玩儿吗？遭遇极端天气这样避险",
+      "summary": "据气象部门预报，未来三天，受台风“白海豚”和冷空气共同影响，北京中南部、天津等地有暴雨或大暴雨。国家防总、应急管理部决定于8月11日9时针对北京、天津启动防汛四级应急响应。强降雨天气将至，还适合外出游玩吗？如果途中突遇山洪、泥石流险情，该如何自救避险？这份安全指南请收好。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676089.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:30:26.000Z"
+    },
+    {
+      "id": "bbf22128eb70",
+      "title": "斯诺克中国公开赛：赵心童遭“一轮游” 6名中国选手晋级16强",
+      "summary": "中新社太原8月12日电 (记者 胡健)2026世界斯诺克中国公开赛11日晚在山西太原结束首轮争夺，世锦赛冠军、中国选手赵心童在决胜局负于张安达，爆冷出局。另一场比赛中，英格兰名将韦克林以6:4战胜英格兰选手汤姆·福德，晋级16强。至此，中国军团共有6人晋级16强。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676088.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:22:22.000Z"
+    },
+    {
+      "id": "eeaf23f5e8f8",
+      "title": "上海交通大学队夺得第二届亚洲大学生篮球联赛冠军",
+      "summary": "中新社杭州8月11日电 (张煜欢)11日，第二届亚洲大学生篮球联赛(AUBL)在浙江杭州迎来决赛争夺。上海交通大学队下半场不断反扑，最终以72：69险胜台湾政治大学队，获得本届赛事冠军。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676085.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:21:32.000Z"
+    },
+    {
+      "id": "4e95bacdf8b5",
+      "title": "外媒称哥伦比亚强震已致超200人死亡 古特雷斯发声",
+      "summary": "中新网8月12日电 综合法新社、美国有线电视新闻网(CNN)等外媒报道，据最新统计，近日在哥伦比亚西部发生的7.4级强震已造成超200人死亡。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676084.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T23:05:27.000Z"
+    },
+    {
+      "id": "371a9f5b1494",
+      "title": "Male redback spiders invite cannibalism through a ‘self-sacrificial somersault’ during sex – but why?",
+      "summary": "New research sheds light on the genetic basis of the venomous insect’s ‘weird mating behaviour’ Follow our Australia news live blog for latest updates Get our breaking news email…",
+      "url": "https://www.theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-11T23:01:12.000Z"
+    },
+    {
+      "id": "8ebf2c8fdb08",
+      "title": "8月12日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-12/10676083.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T22:57:36.000Z"
+    },
+    {
       "id": "ad53380a13be",
       "title": "“人民艺术家”郭兰英逝世 享年97岁",
       "summary": "中国歌剧舞剧院发布讣告，中国共产党优秀党员，“人民艺术家”国家荣誉称号获得者，“最美奋斗者”荣誉称号获得者，“中国文联终身成就戏剧家”荣誉称号获得者，第一、二、三、五、六届全国人民代表大会代表，中国歌剧舞剧院一级演员，著名歌剧表演艺术家郭兰英同志，因病于2026年8月11日17时14分在广州逝世，享年97岁。",
@@ -38,16 +178,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-11T22:46:42.000Z"
-    },
-    {
-      "id": "b6ca34f0d7b8",
-      "title": "Australia politics live: Coalition to heavily cut net migration and shred 96% of house construction code; CBA posts bumper $11bn profit",
-      "summary": "Policy comes as debate continues over causes of and solutions to housing issues. Follow today’s news live Get our breaking news email , free app or daily news podcast Education m…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T22:43:08.000Z"
     },
     {
       "id": "402791c1e823",
@@ -201,8 +331,8 @@
     },
     {
       "id": "855c2134a72e",
-      "title": "Coalition to back One Nation policy barring overseas Australians with terrorist links from returning home",
-      "summary": "Angus Taylor and Matt Canavan will support Pauline Hanson’s migration bill despite vowing to fight her rightwing party Follow our Australia news live blog for latest updates Get…",
+      "title": "Coalition to back Hanson’s migration policy despite pledging to fight One Nation",
+      "summary": "Angus Taylor and Matt Canavan to support bill barring overseas Australians with terrorist links from returning home Follow our Australia news live blog for latest updates Get our…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/12/coalition-to-back-one-nation-policy-barring-overseas-australians-with-terrorist-links-from-returning-home",
       "source": "The Guardian World",
       "category": "国际",
@@ -258,126 +388,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-11T14:36:19.000Z"
-    },
-    {
-      "id": "313add129204",
-      "title": "千年雄关通“双动脉” 广西友谊关口岸双电源工程投运",
-      "summary": "中新网广西崇左8月11日电(涂丽莎 韦露 胡仁艳)近日，随着最后一条调度指令执行完毕，广西友谊关口岸双电源升级改造工程正式投运，这座千年雄关就此走上供电“双车道”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676059.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:24:50.000Z"
-    },
-    {
-      "id": "a51196f4e5f8",
-      "title": "北京“冰丝带”上演机器人“全自主”足球赛",
-      "summary": "中新社北京8月11日电 (记者 陈杭)11日的北京国家速滑馆“冰丝带”3号赛训基地内，红队机器人球员走到足球前“左顾右盼”，蓝队球员趁机大步上前一脚射门。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10676062.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:22:40.000Z"
-    },
-    {
-      "id": "7e67af1890d8",
-      "title": "广西防城港借力国际医学开放平台 推动中医药“出海”",
-      "summary": "中新社南宁8月11日电 (记者 黄艳梅)记者11日从广西壮族自治区中医药管理局获悉，广西防城港市加快集聚中医药及相关产业资源，深化拓展与上海合作组织成员国、东盟国家的交流合作，积极推动中医药服务、产业和文化走向国际。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-11/10676058.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:18:30.000Z"
-    },
-    {
-      "id": "36d2f896f643",
-      "title": "成都489米超高层项目建设高度超越当地已建成最高建筑",
-      "summary": "8月11日，航拍建设中的中海成都天府新区超高层项目，这座成都在建最高楼高度已超越当地已建成的最高建筑“339电视塔”。该项目设计总高489米，坐落于天府总部商务区，集写字楼、商业、酒店等业态于一体。目前工程稳步向上推进，建成后将成为成都城市新地标。(无人机照片)中新社记者 张浪 摄 8月11日，航拍建设中的中海成都天府新区超高层项目，这座成都在建最高楼高…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10676032.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:17:40.000Z"
-    },
-    {
-      "id": "6564a0e2240a",
-      "title": "烟火著文：浙江“新大众文艺”群像扫描",
-      "summary": "中新网杭州8月11日电(林波)文艺从不止于书斋笔墨，人间烟火同样是厚重的创作底稿。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-11/10676057.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:17:10.000Z"
-    },
-    {
-      "id": "55eb18d585d4",
-      "title": "第六届藏博会将于2026年9月1日至2日在拉萨举办",
-      "summary": "中新网拉萨8月11日电(拉巴卓玛)第六届中国西藏旅游文化国际博览会(以下简称“藏博会”)第一场新闻发布会11日在拉萨举行。西藏自治区副主席、第六届藏博会组委会副主任、办公室常务副主任徐志涛在会上宣布，以“文旅富民·产业兴藏”为主题的第六届藏博会将于2026年9月1日至2日在拉萨举办。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676055.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:16:42.000Z"
-    },
-    {
-      "id": "74c958094f2b",
-      "title": "云菌“鲜”行海外 今年前7个月出口量增逾两成",
-      "summary": "中新网昆明8月11日电 (段淑敏)昆明海关11日消息，今年前7个月，云南出口至日本、德国、越南等26个国家和地区的新鲜和冷藏食用菌达1857.1吨，同比增长24.7%。曾藏于深山的时令山珍，如今已成为撬动县域经济发展、带动民众增收的“金疙瘩”。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676053.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:16:40.000Z"
-    },
-    {
-      "id": "31f0cc7ecdc6",
-      "title": "成龙哈尔滨寄语青年电影人：走出去，认识自身的文化与创作优势",
-      "summary": "中新网哈尔滨8月11日电 (刘锡菊 赵宇航)11日，“成龙电影A计划·全球青年影像行动”启动仪式在哈尔滨举行。香港功夫电影标志性人物、国际功夫电影明星成龙出席活动，鼓励青年电影人“走出去”。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-11/10676018.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:15:28.000Z"
-    },
-    {
-      "id": "63ce6e1bc869",
-      "title": "华侨大学国际新能源学院在厦门揭牌",
-      "summary": "中新网厦门8月11日电 (吴冠标)8月11日，华侨大学国际新能源学院揭牌仪式在厦门举行。作为聚焦新能源、新材料领域的研究生层次中外合作办学机构，该学院由华侨大学与泰国朱拉隆功大学共建，将于本月正式启动线下教学。",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-11/10676026.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:15:12.000Z"
-    },
-    {
-      "id": "74dd9afde997",
-      "title": "中国三地检察机关线上“聊”生态",
-      "summary": "中新网包头8月11日电 (记者 李爱平)《中华人民共和国生态环境法典》将于8月15日正式施行。11日，北京、内蒙古、青海三地检察机关在线上举行了一场别开生面的活动，相关检察系统负责人在发言中，几乎三句话不离法律、绿色、环保。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10676019.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:14:32.000Z"
-    },
-    {
-      "id": "a13cbbb728fa",
-      "title": "内蒙古寨子塔石城址出土一组“龙、凤”形象泥塑",
-      "summary": "中新网呼和浩特8月11日电 (记者 李爱平)内蒙古自治区文物考古研究院11日发布消息称，近日，考古部门在内蒙古寨子塔石城址出土一组造型生动、保存较好的“龙、凤”形象泥塑。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676015.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:14:14.000Z"
-    },
-    {
-      "id": "47ecba850257",
-      "title": "泰国政府宣布暂停发放购枪许可证",
-      "summary": "据泰国政府网站11日消息，泰国政府当天发布公告，宣布暂停发放购枪许可证，并在全国范围内核查尚未完成枪支交易的许可证。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10676056.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:13:28.000Z"
     },
     {
       "id": "de1df69891bf",
@@ -554,7 +564,7 @@
       "title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
       "summary": "Fair Work Commission issues a new minimum standards order for gig workers to come into effect 17 August Get our breaking news email , free app or daily news podcast Delivery driv…",
       "url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
-      "source": "The Guardian World",
+      "source": "The Guardian Business",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-11T08:25:41.000Z"
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-05T08:40:02.000Z"
-    },
-    {
-      "id": "1376faa32511",
-      "title": "The best microwaves in the UK for every kitchen and budget – tested",
-      "summary": "They’re perfect for time-poor cooks, but which deserves your counter space? From combi models to smart designs, here’s what our expert recommends • The best air fryers If you’re…",
-      "url": "https://www.theguardian.com/thefilter/2026/aug/04/best-microwaves-uk-tested",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-04T14:00:02.000Z"
     }
   ]
 }
