@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T10:27:06.061Z",
+  "updatedAt": "2026-08-11T11:24:01.751Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,344 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "e144a338452c",
-      "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
-      "summary": "中新网8月11日电 据“中国水利”微信公众号消息，水利部和中国气象局8月11日18时联合发布红色山洪灾害气象预警：",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675889.shtml",
+      "id": "4029a94c72c6",
+      "title": "武汉公安7月找回899名迷失人员 守护老人归家路",
+      "summary": "中新网武汉8月11日电(陈善文 余哲)高温天气下，老人独自在外走失，中暑、脱水风险成倍增加。7月以来，武汉公安已帮助899名迷失人员平安归家，用速度和温度守护群众安全。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675914.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-11T10:17:21.000Z"
+      "publishedAt": "2026-08-11T11:18:08.000Z"
+    },
+    {
+      "id": "da457460bce1",
+      "title": "中国印尼海军舰艇将位台岛以东海域开展通航演练",
+      "summary": "中新社北京8月11日电 据中国国防部网站11日消息，8月中旬，中国海军红河舰将与印度尼西亚海军“莱”号护卫舰位台岛以东海域举行通航演练，重点开展通信操演、海上补给等科目演练，旨在提升两国海军联合行动能力，深化双方务实合作，共同维护地区和平稳定。(完)",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675929.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:18:00.000Z"
+    },
+    {
+      "id": "35788a41f434",
+      "title": "云南出台实施意见 “旅居云南”综合消费规模将破千亿元",
+      "summary": "中新网昆明8月11日电 (时文枝)日前，云南省人民政府办公厅公布《关于学习运用“千万工程”经验一体推进农村人居环境改善、“旅居云南”发展和健康县城建设的实施意见》(以下简称《意见》)，明确到2030年，“旅居云南”成为大IP、大生态、大产业，旅居综合消费规模突破1000亿元。同时，稳步提升全省农村卫生户厕覆盖率，生活污水治理率、生活垃圾处理设施覆盖率分别…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675913.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:16:30.000Z"
+    },
+    {
+      "id": "af613b60218d",
+      "title": "黑龙江东宁口岸：上半年进出口贸易总值60.3亿元",
+      "summary": "中新网牡丹江8月11日电 (姜辉 王万鑫)记者11日从东宁口岸获悉，今年1月至6月，东宁口岸累计实现进出口贸易总值60.3亿元，同比增长1.8%。口岸通关繁忙程度、流转效率持续攀升，车辆、货物日均通关量两项核心指标均超越历史平均水平。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675912.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:15:02.000Z"
+    },
+    {
+      "id": "1bf4b58ce158",
+      "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
+      "summary": "Russian attacks on the Ukrainian city of Zaporizhzhia killed at least six people and injured 20, officials said Spanish foreign minister José Manuel Albares visited Ceuta earlier…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-11T11:14:54.000Z"
+    },
+    {
+      "id": "8e8f0b55785d",
+      "title": "上半年海关总署审核通过知识产权海关保护备案1.5万件",
+      "summary": "记者从海关总署获悉，今年上半年，全国海关共查扣侵权嫌疑货物1.3万批次、3609万件，海关总署审核通过知识产权海关保护备案1.5万件，办理知识产权海关保护总担保165件。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675927.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:13:44.000Z"
+    },
+    {
+      "id": "c6dd1e877fb0",
+      "title": "安徽发布预警：皖西多地发生地质灾害可能性大",
+      "summary": "中新网合肥8月11日电 (记者 张强)安徽多部门11日联合发布地质灾害气象预警预报：8月11日20时至12日20时，六安市金寨县东南部、霍山县西南部，安庆市岳西县西北部发生地质灾害可能性大(地质灾害橙色预警)。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675911.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:13:26.000Z"
+    },
+    {
+      "id": "8e3462382f13",
+      "title": "体旅融合赋能乡村振兴 福泉天生桥开园三月迎避暑热潮",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675908.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:12:38.000Z"
+    },
+    {
+      "id": "5cdc1358d1b1",
+      "title": "广东省运会手球甲组完赛 广州男队、深圳女队登顶",
+      "summary": "中新网茂名8月11日电(梁盛 高干 杨嘉丽)广东省第十七届运动会竞技体育组手球项目甲组比赛，10日在茂名信宜市赛场先后进行了女子甲组、男子甲组决赛，赛后赛事竞赛委员会举行了颁奖仪式。至此，本届广东省运会手球甲组全部赛程圆满落幕。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10675897.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:11:54.000Z"
+    },
+    {
+      "id": "ed9bb3cb77b5",
+      "title": "台风影响减弱 浙江四种作业专项捕捞渔船启动出海生产",
+      "summary": "中新网温州8月11日电(周健 文志浩 尤川川)受今年第13号台风“白海豚”影响，浙江原定于8月5日启动的四种作业专项捕捞渔船出海生产时间推迟。随着台风影响减弱，经研判，浙江全省8000余艘桁杆拖虾、笼壶类、刺网、灯光围(敷)网作业渔船，于8月11日14时集中出海生产，梭子蟹、红虾、红鱿等时令海鲜即将上市。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675895.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:11:28.000Z"
+    },
+    {
+      "id": "3b8dfaa3f216",
+      "title": "揭惠铁路全线槽箱组合混凝土梁浇筑完成",
+      "summary": "中新网揭阳8月11日电 (记者 蔡敏婕)揭惠铁路全线槽箱组合混凝土梁11日浇筑完成，为下一步跨梅汕高铁转体作业奠定基础。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675894.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:11:06.000Z"
+    },
+    {
+      "id": "68f4d5394340",
+      "title": "昆明机场口岸今年以来出入境外籍旅客突破80万人次",
+      "summary": "中新网昆明8月11日电 (陈志蓉)据昆明出入境边防检查站统计，截至8月11日16时，昆明长水国际机场口岸今年以来出入境外国籍旅客突破80万人次，同比增长21%，较去年提前48天达成这一数据。其中享受免签政策入境的外籍旅客27.8万人次，占入境外籍旅客总量的70%。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675893.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:09:50.000Z"
+    },
+    {
+      "id": "baf068738897",
+      "title": "恭王府2026年金鱼特展移步换景中融合赏鱼与非遗",
+      "summary": "中新网北京8月11日电 (记者 应妮)“府苑抒趣——恭王府2026年金鱼特展”于11日在恭王府东二区和多福轩院落开展。展览立足恭王府深厚园林文脉，集中展出二十余个传统观赏金鱼品种，并串联版画、剪纸、鱼灯、风筝、刺绣等非遗技艺，为观众带来移步换景、赏鱼与非遗融合的独特观赏体验。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-11/10675886.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:08:10.000Z"
+    },
+    {
+      "id": "623e8d7d1275",
+      "title": "跨境电商迈入品牌化新阶段 华北地区产业带加速集群式出海",
+      "summary": "中新网青岛8月11日电 (王禹)“跨境电商已经成为推动外贸高质量发展的新引擎，2025年山东省有2.2万家企业通过主流跨境电商平台实现出口新增量，销售额位居全国前列。”山东省商务厅副厅长王红11日在山东青岛说。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675884.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:07:50.000Z"
+    },
+    {
+      "id": "0b5b2867f68b",
+      "title": "应急管理部针对北京启动国家地质灾害四级应急响应",
+      "summary": "中新网8月11日电 据应急管理部官方微博消息，据气象部门预测，受台风“白海豚”和西风槽共同影响，未来三天，北京部分地区有暴雨或大暴雨，局地特大暴雨。经与自然资源部联合会商研判，北京西南部和东北部部分地区发生地质灾害的风险较高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月11日针对北京启动国家地质灾害四级应急响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675915.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:06:56.000Z"
+    },
+    {
+      "id": "787f7e36b9ff",
+      "title": "五预警齐发，注意防范！多个区域将有大暴雨、特大暴雨",
+      "summary": "中新网8月11日电 据中央气象台网站消息，8月11日18时，暴雨橙色预警、红色山洪灾害气象预警、渍涝风险气象警报、橙色地质灾害气象风险预警、强对流天气蓝色预警五预警齐发。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675909.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:03:48.000Z"
+    },
+    {
+      "id": "99826c8c603b",
+      "title": "幼童吃糖果被卡喉 乘警用海姆立克急救法成功施救",
+      "summary": "中新网广州8月11日电 (郭军 梁海棠 吴穗莹)据广州铁路警方11日通报，近日，在信阳东开往广州的高铁上，一名幼童被糖果卡喉，家长自行施救无效。情势紧急，正在巡视车厢的乘警发现情况后，凭借海姆立克急救法及时施救，最终让幼童转危为安。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675898.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:02:56.000Z"
+    },
+    {
+      "id": "c289b5a4d64f",
+      "title": "从就业到食堂：山西大同“十五五”的民生温度",
+      "summary": "中新网太原8月11日电 (胡健 高天瑜)中共山西省委宣传部、山西省政府新闻办公室11日在山西太原举行“开局起步‘十五五’”系列主题新闻发布会，大同市市长刘俊义围绕就业、教育、医疗、养老等多个方面，勾勒出大同未来五年的民生底色。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675910.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:02:24.000Z"
+    },
+    {
+      "id": "5333dddcfbcf",
+      "title": "叙利亚法院缺席判处前总统巴沙尔死刑 其弟及多名前官员同获死刑",
+      "summary": "中新网8月11日电 据法新社报道，当地时间11日，叙利亚一法院缺席判处前总统巴沙尔·阿萨德死刑。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675919.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:00:59.000Z"
+    },
+    {
+      "id": "a3de87b8019c",
+      "title": "台灣首度演練「斷網半小時」：戰時通訊中斷，民眾準備好了嗎？",
+      "summary": "台灣2026年「城鎮韌性演習」首次加入「斷網場景」，BBC中文記者前往台中現場直擊，了解民眾對網路降速措施的看法。",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:00:58.000Z"
+    },
+    {
+      "id": "677e594f400a",
+      "title": "金融监管总局：保险业对近期重大自然灾害累计已赔付76亿元",
+      "summary": "记者今天(11日)从金融监管总局了解到，今年第13号台风“白海豚”在浙江登陆后，金融监管总局指导浙江等金融监管局，组织保险业开通绿色通道，开展预警救援和保险理赔等服务工作。截至8月11日12时，浙江、上海、江苏、江西、宁波等5地区辖内保险机构共接报案近10万件，估损12亿元，已赔付(含预赔付)3409万元。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675917.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:00:35.000Z"
+    },
+    {
+      "id": "a242f86ef9ae",
+      "title": "广西五年内将打造面向东盟教育交流合作创新高地",
+      "summary": "【东盟专线】广西五年内将打造面向东盟教育交流合作创新高地",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-11/10675880.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T10:58:41.000Z"
+    },
+    {
+      "id": "590b0a1ef633",
+      "title": "第十五届中国创新创业大赛山东赛区决赛启幕 释放赛事“乘数效应”",
+      "summary": "中新网济南8月11日电 (陈宛婷)以“因创而聚 向新同行”为主题的第十五届中国创新创业大赛山东赛区决赛11日在济南启动，旨在搭建多向对接交流平台，发掘优质科创项目，促进科技成果转化，推动科技创新与产业创新深度融合，释放“以赛选企、以赛促研、以赛引资”的乘数效应。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675872.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T10:55:11.000Z"
+    },
+    {
+      "id": "6a1a0f83fed7",
+      "title": "合肥两名男子编造传播台风灾情谣言吸粉 被警方依法处罚",
+      "summary": "中新网合肥8月11日电 (记者 赵强)记者11日从合肥市警方获悉，两名男子为博取流量、吸粉引流，恶意编造、传播涉汛涉灾网络谣言，造成不良社会影响。合肥公安网安部门依托“净网”专项行动，依法对两名违法行为人作出行政处罚。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675906.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T10:53:17.000Z"
+    },
+    {
+      "id": "35cfc719775d",
+      "title": "手机涨价潮背后：AI算力抢占内存 行业转向价值竞争",
+      "summary": "中新网北京8月11日电(记者 谢艺观)2026年的手机行业，正经历着一场前所未有的“量价背离”。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675900.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-11T10:52:42.000Z"
+    },
+    {
+      "id": "431c90ddb227",
+      "title": "告别“一煤独大”发展瓶颈 山西大同“动真格”转型",
+      "summary": "中新网太原8月11日电 (记者 胡健)昔日的“煤都”大同，正在告别“一煤独大”的发展瓶颈。山西省大同市市长刘俊义用一组数据佐证：2025年，大同煤炭与非煤工业产值比为48.7:51.3。到2030年，大同将力争实现基本转型。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675866.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T10:52:10.000Z"
+    },
+    {
+      "id": "d988d5985ebf",
+      "title": "Hotel prices in Europe jump before total solar eclipse",
+      "summary": "Rooms in Icelandic capital Reykjavík cost double usual rate and Spain also enjoying strong bookings Europe’s total solar eclipse: the best place to see it Hotel prices have surge…",
+      "url": "https://www.theguardian.com/travel/2026/aug/11/hotel-prices-europe-total-solar-eclipse-iceland-spain-bookings",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-11T10:50:12.000Z"
+    },
+    {
+      "id": "1723c9ceb2bb",
+      "title": "韩国今年迎来史上最热8月上旬 平均气温29.1℃",
+      "summary": "中新网8月11日电 据韩联社援引韩国气象厅11日消息，8月上旬(1—10日)韩国全国平均气温为29.1℃，创下近54年来同期最高纪录。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675907.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T10:48:56.000Z"
+    },
+    {
+      "id": "7426b3cd27b6",
+      "title": "中菲执法部门合作遣返绑架犯罪嫌疑人樊某某",
+      "summary": "中新网8月11日电 据中国驻菲律宾大使馆微信公众号消息，8月8日，中国和菲律宾两国执法部门合作遣返了涉嫌在菲绑架中国公民的犯罪嫌疑人樊某某。樊某某来菲多年，曾从事网络赌博，后加入臭名昭著的施某某团伙，多次参与实施绑架犯罪。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675905.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T10:43:44.000Z"
+    },
+    {
+      "id": "6f590f0d76c5",
+      "title": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes",
+      "summary": "Verdict relates to atrocities committed during the country’s 14-year civil war in which about 500,000 people died A Syrian court has sentenced the country’s former president Bash…",
+      "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-11T10:40:45.000Z"
+    },
+    {
+      "id": "784d256bc34a",
+      "title": "交通运输部：14个地区连续降雨，公路交通存在高风险",
+      "summary": "中新网8月11日电 据交通运输部微信公众号消息，根据交通运输部与中国气象局会商研判，结合气象部门降雨数据，截至8月11日，湖北、安徽2个省份的2个县区出现了降水天数15天以上、累计降雨量600毫米以上或累计降雨量300毫米以上且超过常年同期水平3倍的情况，安徽、广东、广西12个县区出现了降水天数15天以上、累计降雨量300毫米以上且超过常年同期水平2倍的…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675896.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T10:39:16.000Z"
+    },
+    {
+      "id": "8148f448c4ba",
+      "title": "Meta glasses banned from courts in England and Wales",
+      "summary": "Exclusive: Court service says anyone trying to enter buildings with glasses will have them confiscated and returned when they leave Courts in England and Wales have joined a numb…",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-11T10:29:29.000Z"
+    },
+    {
+      "id": "39e7475cf24a",
+      "title": "外交部回应“日企高管在华涉案被拘留”：依法查处违法犯罪案件",
+      "summary": "中新网8月11日电 据外交部网站消息，2026年8月11日外交部发言人郭嘉昆答记者问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675887.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T10:23:35.000Z"
+    },
+    {
+      "id": "edd9a57553de",
+      "title": "外交部：敦促太平洋岛国论坛秘书处恪守一个中国原则",
+      "summary": "中新网8月11日电 据外交部网站消息，2026年8月11日外交部发言人郭嘉昆答记者问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675882.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T10:22:43.000Z"
     },
     {
       "id": "b9dbb3d48d00",
@@ -50,304 +380,14 @@
       "publishedAt": "2026-08-11T10:14:01.000Z"
     },
     {
-      "id": "69f89a78d3e8",
-      "title": "外交部：敦促太平洋岛国论坛秘书处恪守一个中国原则",
-      "summary": "2026年8月11日外交部发言人郭嘉昆答记者问",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675881.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T10:07:36.000Z"
-    },
-    {
-      "id": "1bf4b58ce158",
-      "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-      "summary": "Russian attacks on the Ukrainian city of Zaporizhzhia killed at least six people and injured 20, officials said Latvia said on Tuesday a tunnel had been discovered under the bord…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T10:05:26.000Z"
-    },
-    {
-      "id": "c439a243f4e4",
-      "title": "江苏省南京市人大常委会原主任龙翔一审被判死缓",
-      "summary": "中新社北京8月11日电 (记者 张素)记者从中国最高人民法院获悉，8月11日，湖北省荆州市中级人民法院一审公开宣判江苏省南京市人大常委会原党组书记、主任龙翔受贿、贪污、滥用职权、内幕交易一案。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675879.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T10:02:42.000Z"
-    },
-    {
-      "id": "9afff407b1ec",
-      "title": "把战争粉饰成童话，把野心包装成未来| 新漫评",
-      "summary": "近日，日本防卫省发布2026年版《防卫白皮书》。作为高市早苗政府上台后的首份《防卫白皮书》，这份598页的文件，篇幅创下历年之最。然而，篇幅的增长并非源于对和平的思考，而是通篇翻炒所谓“周边安全威胁”，新增“新型作战方式”“强化防卫生产与技术基础”等独立章节。文件字里行间透出的，已非战后日本标榜的“专守防卫”原则，而是一颗被军国主义余毒已久的野心。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675838.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:59:01.000Z"
-    },
-    {
-      "id": "693db24b5851",
-      "title": "英国就业市场结束长期下行 岗位招聘与薪资增速回暖",
-      "summary": "中新网伦敦8月11日电 (记者 欧阳开宇))英国招聘与就业联合会(REC)联合毕马威(KPMG)日前发布最新就业监测报告显示，英国就业市场在今年7月出现企稳信号，持续长达45个月的全职岗位招聘下行周期正式终结，同时新入职岗位薪资增速显著回升，劳动力市场韧性持续修复。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675875.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:58:21.000Z"
-    },
-    {
-      "id": "52f39b19f162",
-      "title": "全方位培养、引进、用好人才！“十五五”时期，这些利好政策速看→",
-      "summary": "近日，人力资源社会保障部印发《人力资源和社会保障事业发展“十五五”规划》。《规划》深入贯彻党的二十届四中全会精神，细化落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》中关于人社领域的战略任务，是“十五五”时期推动人社事业高质量发展的重要指导性文件。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675878.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:58:01.000Z"
-    },
-    {
-      "id": "9f218deab515",
-      "title": "英国7月食品酒吧消费显著回暖",
-      "summary": "中新网伦敦8月11日电 (记者 欧阳开宇)最新行业调查数据显示，受英格兰队世界杯佳绩与持续极端高温天气双重提振，英国7月食品消费、线下酒吧业态支出明显增长，零售消费呈现结构性复苏态势，但民众大额消费意愿仍偏谨慎。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675874.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:57:55.000Z"
-    },
-    {
-      "id": "a95e7374935a",
-      "title": "哈萨克斯坦科学家研发出“雪花羊肉”生产技术",
-      "summary": "中新网阿斯塔纳8月11日电 (记者 单璐)哈萨克斯坦农业部11日发布消息称，该国国家农业科研教育中心所属科研机构的科学家研发出一套羔羊饲养和育肥技术，可促进羔羊肌内脂肪均匀形成，使羊肉呈现大理石般的“雪花纹”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675848.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:57:33.000Z"
-    },
-    {
-      "id": "b973dd86e0a6",
-      "title": "多瑙河水位回升 匈牙利保克什核电站开始恢复供电",
-      "summary": "中新网北京8月11日电 布达佩斯消息：匈牙利保克什核电站当地时间10日发表声明说，随着近期多瑙河水位缓慢回升，该核电站2号机组于当天18时开始逐步提高功率。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675802.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:57:05.000Z"
-    },
-    {
-      "id": "6fbf2c2686c5",
-      "title": "南美是否进入了强震活跃期？专家：并非",
-      "summary": "中新网圣保罗8月11日电 (记者 林春茵)委内瑞拉和哥伦比亚相继发生强震，是否意味着南美洲进入了新的强震活跃期？",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675793.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:56:35.000Z"
-    },
-    {
-      "id": "cb7156f9fc94",
-      "title": "哈萨克斯坦今年前七个月GDP同比增4.1%",
-      "summary": "中新社阿斯塔纳8月11日电 (记者 单璐)哈萨克斯坦国民经济部11日发布消息称，据哈国家统计局初步数据，2026年1月至7月，该国国内生产总值(GDP)同比增长4.1%，增速与上半年持平。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675779.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:56:09.000Z"
-    },
-    {
-      "id": "c777889c02e3",
-      "title": "编造传播涉“白海豚”台风谣言 上海警方查处12名违法人员",
-      "summary": "“白海豚”台风影响上海期间，有网民为博取流量、吸引关注，故意发布涉台风虚假信息，干扰抗台防汛工作，造成不良社会影响。近日，上海警方查处11起虚构事实扰乱公共秩序案件，12名违法行为人均被依法予以行政处罚。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675877.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:53:19.000Z"
-    },
-    {
-      "id": "9621c7ac7491",
-      "title": "“白海豚”影响持续 这三个区域仍需关注山洪灾害风险",
-      "summary": "受“白海豚”及其残余环流影响，我国多地迎来持续性强降雨过程，短时雨强大，山洪灾害风险持续攀升。跟随总台记者一起了解最新情况。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675873.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:39:14.000Z"
-    },
-    {
-      "id": "9f007fddef4d",
-      "title": "古都大同以文塑旅 打造国际知名文化旅游城市",
-      "summary": "中新网太原8月11日电 (胡健 高天瑜)云冈石窟、恒山悬空寺、大同古城持续“出圈”，避暑游、研学游、康养游热度攀升。如何把游客“引进来”变成“留下来”，把文旅流量转化为产业增量，成为山西大同“十五五”时期转型发展的重要课题。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675870.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:37:16.000Z"
-    },
-    {
-      "id": "db1fe2329c0b",
-      "title": "国际锐评丨日本防卫预算创新高凸显扩军备武野心",
-      "summary": "8月6日和9日分别是日本广岛、长崎遭原子弹轰炸81周年的日子。在本该深刻反省侵略历史、吸取战争教训之际，日媒曝出的一则消息让人不寒而栗：日本防卫省拟提交的2027财年防卫预算申请高达8.9万亿日元，再创历史新高；由于防卫预算中存在大量未标明具体金额的项目，最终规模可能达到10万亿日元。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675855.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:36:56.000Z"
-    },
-    {
-      "id": "85e2b850de89",
-      "title": "砂归河，树归林，人归岸——“长江大保护”十年，上游守护的三个切片丨长江十年行",
-      "summary": "砂、树、鱼，听起来都是小事。但平通河底1.8万吨砂被偷走，河里的生态不会自己恢复回来；洪雅山中一棵国家级保护树木被砍掉，再没人认得它原来的样子；白龙江里一条鱼消失，赔不起的人两手空空。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675854.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:36:14.000Z"
-    },
-    {
-      "id": "8aba1b294bc4",
-      "title": "河南本轮强降雨持续多久？雨势有多强？气象部门权威解读",
-      "summary": "中新网郑州8月11日电(记者 韩章云)受台风“白海豚”影响，8月11日，河南大部分地区风雨交加。河南省气象台于11日11时30分继续发布暴雨黄色预警。河南本轮强降雨还要持续多久？雨势有多强？记者就此采访河南气象部门。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675867.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:36:00.000Z"
-    },
-    {
-      "id": "0aba98c180fa",
-      "title": "山西大同定调“十五五”农业方向：打造国家级冷凉蔬菜产业基地",
-      "summary": "中新网太原8月11日电 (胡健 高天瑜)黄花、小米、苦荞……近年来，一批带有鲜明地域特色的农产品，正成为山西大同推进乡村振兴、带动农民增收的重要抓手。进入“十五五”，大同将进一步深耕农业赛道，把“土特产”做成富民大产业。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675864.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:35:20.000Z"
-    },
-    {
-      "id": "400ca4b375e8",
-      "title": "菲律宾国调局对莎拉·杜特尔特提出严重威胁指控",
-      "summary": "总台记者11日获悉，菲律宾司法部确认，菲律宾国调局对副总统莎拉·杜特尔特提出严重威胁指控，该指控已经于当天13时30分左右提交至奎松市地区审判法院。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675856.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:34:04.000Z"
-    },
-    {
-      "id": "98b005f26988",
-      "title": "大连金融监管局：上半年累计为85个重点项目授信775.4亿元",
-      "summary": "中新网大连8月11日电 (记者 杨毅)记者11日从国家金融监督管理总局大连监管局(下称“大连金融监管局”)召开的新闻发布会上获悉，今年以来，大连金融监管局聚焦重点领域发力，激活实体经济发展动能。据统计，上半年累计为85个重点项目授信775.4亿元，为38个重大项目发放贷款110亿元。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675863.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:33:42.000Z"
-    },
-    {
-      "id": "68a292f039c4",
-      "title": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电",
-      "summary": "新华社北京8月11日电#8195;8月11日，国家主席习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675871.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:27:43.000Z"
-    },
-    {
-      "id": "7ed16e4bab89",
-      "title": "中央气象台对台风“白海豚”停止编号",
-      "summary": "中新网8月11日电 据中央气象台网站消息，台风“白海豚”今天上午在湖北省境内减弱为热带低压，目前其风力进一步减弱，已很难确定其环流中心，中央气象台17时对其停止编号。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675868.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:26:15.000Z"
-    },
-    {
-      "id": "0d2d587391a7",
-      "title": "直播：台风“白海豚”影响河南 直击晚高峰交通保障一线",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-11/10675869.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:24:03.000Z"
-    },
-    {
-      "id": "6558e1fa4258",
-      "title": "德隆·威廉姆斯：NBA速度变快，若年轻十岁能场均送十几次助攻",
-      "summary": "中新网8月11日电 记者获悉，美职篮(NBA)3X区域赛广州站于近日收官。探博体育队、火花队分获女子组、男子组冠军。NBA名宿德隆·威廉姆斯来到现场，与球迷互动并为获奖队伍颁奖。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10675849.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:18:17.000Z"
-    },
-    {
-      "id": "e40b6e6d05db",
-      "title": "叙利亚一法院缺席判处前总统巴沙尔死刑",
-      "summary": "卡塔尔半岛电视台直播画面显示，大马士革第四刑事法院11日缺席判处叙利亚前总统巴沙尔·阿萨德死刑。其表亲、德拉省前政治安全部门负责人阿提夫·纳吉布也被判处死刑。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675865.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:16:41.000Z"
-    },
-    {
       "id": "44677a03eac5",
       "title": "AI’s potential climate benefits outweighed by role in boosting fossil fuels, study finds",
-      "summary": "Modelling finds AI-driven productivity gains in coal, oil and gas enable more emissions than applications in renewable energy avoid AI-driven productivity gains enable more plane…",
+      "summary": "Modelling finds AI-driven productivity gains in coal, oil and gas enable more emissions than applications in renewables avoid AI-driven productivity gains enable more planet-heat…",
       "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
       "source": "The Guardian Technology",
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-11T09:15:45.000Z"
-    },
-    {
-      "id": "3b901c7582ee",
-      "title": "白山跑出高质量发展加速度",
-      "summary": "提到长白山，几乎人人耳熟能详。但说起白山，不少人会一脸茫然。很多游客奔着天池而来，路过这座城市，歇一脚就匆匆离开。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675850.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:14:39.000Z"
-    },
-    {
-      "id": "bda0ed6c7512",
-      "title": "中国印尼海军舰艇将位台岛以东海域开展通航演练",
-      "summary": "中新网8月11日电 据“国防部发布”微信公众号消息，8月中旬，中国海军红河舰将与印度尼西亚海军“莱”号护卫舰位台岛以东海域举行通航演练，重点开展通信操演、海上补给等科目演练，旨在提升两国海军联合行动能力，深化双方务实合作，共同维护地区和平稳定。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675861.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:12:04.000Z"
-    },
-    {
-      "id": "b50db79567ea",
-      "title": "湖北襄阳全力应对台风 已安全转移9705人",
-      "summary": "中新网襄阳8月11日电 (张倩龙 周胤伍)受台风“白海豚”外围环流影响，湖北襄阳11日9时57分升级暴雨预警信号为橙色，各地各部门全力做好防御应对工作。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675859.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:11:26.000Z"
-    },
-    {
-      "id": "5ccbe58ed4dd",
-      "title": "近、快、凉、绿、稳——解码大同算力产业“五字诀”",
-      "summary": "中新网太原8月11日电 (记者 胡健)“大同和北京直线距离300公里，是距离北京很近的算力腹地；网络延时3毫秒以内——我们眨一下眼是300毫秒，3毫秒就能完成大同到北京的数据传输。”在中共山西省委宣传部、山西省人民政府新闻办公室11日举行的“开局起步‘十五五’”系列主题新闻发布会上，山西省大同市委常委、常务副市长翟永清用一组直观的对比，道出了大同发展算力…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675852.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T09:07:46.000Z"
     },
     {
       "id": "41dec0da0007",
@@ -590,16 +630,6 @@
       "publishedAt": "2026-08-10T16:25:30.000Z"
     },
     {
-      "id": "c24532aeeac1",
-      "title": "US intelligence ‘believes Russia was behind Leipzig airport drone bomb’",
-      "summary": "German government talks of a ‘new level of danger’ but declines to say who it thinks was responsible for device American intelligence experts believe Russia was behind an attack…",
-      "url": "https://www.theguardian.com/world/2026/aug/10/us-intelligence-russia-leipzig-airport-drone-bomb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-10T15:55:26.000Z"
-    },
-    {
       "id": "592b93a021f4",
       "title": "‘People in Japan thought we made footy up’: Pro Jank Footy, the video game taking Australian rules to the world",
       "summary": "Game developer David Ashby and Aunty Donna’s Broden Kelly talk about their chaotic and silly sport game – involving meat pies with legs and Ford Falcons on the oval Try explainin…",
@@ -618,16 +648,6 @@
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-08-10T14:00:45.000Z"
-    },
-    {
-      "id": "25c29618f1b1",
-      "title": "What happens when medical students rely on AI – and never develop their own judgment? | Simar Bajaj and Joseph Sakran",
-      "summary": "AI’s danger isn’t just in experts losing the ability to reason. It’s that trainees may never learn how to do so in the first place In healthcare, there’s growing concern over doc…",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/ai-medical-students-judgment",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-10T12:00:44.000Z"
     },
     {
       "id": "2bca2202fcfe",
@@ -748,16 +768,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-10T05:54:01.000Z"
-    },
-    {
-      "id": "d754b55eb3e4",
-      "title": "Monday briefing: How the new phase of confrontation at al-Aqsa signals a challenge to the status quo",
-      "summary": "In today’s newsletter: ​Jerusalem’s most volatile site has again become a flashpoint, with Arab states and former Israeli officials sounding the alarm over Benjamin Netanyahu’s c…",
-      "url": "https://www.theguardian.com/world/2026/aug/10/monday-briefing-how-the-new-phase-of-confrontation-at-al-aqsa-signals-a-challenge-to-the-status-quo",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-10T05:45:18.000Z"
     },
     {
       "id": "52bb96c46f30",
@@ -1208,16 +1218,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-04T12:16:12.000Z"
-    },
-    {
-      "id": "8a3abffd587c",
-      "title": "陸委會主委專訪：北京每年「已讀不回」3000封信 民進黨執政十年兩岸溝通未斷",
-      "summary": "民進黨自2016年上台後，已連續執政十年，台海局勢持續緊張。台灣大陸委員會主委邱垂正接受BBC中文專訪表示，目前兩岸關係風險高，中國對台施壓已擴及軍事、經濟、法律及認知領域。但他指出，兩岸溝通管道並未完全中斷，台灣仍透過官方聯絡、既有協議及民間交流維持互動與風險管控。",
-      "url": "https://www.bbc.com/zhongwen/articles/cn5n1le445ro/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-04T11:17:07.000Z"
     },
     {
       "id": "ebe235e422ff",
