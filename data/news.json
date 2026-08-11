@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:03:15.846Z",
+  "updatedAt": "2026-08-11T05:17:07.860Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,164 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "d3779fc92fed",
-      "title": "Australia news live: Taylor mounts parliamentary attack on Labor’s ‘wicked’ widow tax; RBA interest rates decision due today",
-      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Ted O’Brien says that just because the Japanese government has downplayed melon-gate, doesn’…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
+      "id": "4f07762c2d95",
+      "title": "Colombia quakes leaves more than 110 dead – as it happened",
+      "summary": "This blog is now closed – a full report is here People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-11T03:59:44.000Z"
+      "publishedAt": "2026-08-11T05:14:28.000Z"
+    },
+    {
+      "id": "d3779fc92fed",
+      "title": "Australia news live: RBA holds cash rate at 4.35%; PM defends Japan relationship after Coalition question over ‘classless’ melon comment",
+      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Ted O’Brien says that just because the Japanese government has downplayed melon-gate, doesn’…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-11T05:14:10.000Z"
+    },
+    {
+      "id": "270519b56e04",
+      "title": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed",
+      "summary": "In a widely expected decision, the Reserve Bank of Australia holds interest rate after three hikes earlier this year Follow our Australia news live blog for latest updates Get ou…",
+      "url": "https://www.theguardian.com/business/2026/aug/11/rba-interest-rate-announcement-decision-cash-rates-economy",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-11T05:10:41.000Z"
+    },
+    {
+      "id": "b5a013943953",
+      "title": "内蒙古一警车被指擅自更换车标 警方通报：全面开展调查",
+      "summary": "中新网8月11日电 8月11日，内蒙古鄂尔多斯市达拉特旗公安局在其官方微信发布情况通报称，近日，有媒体报道该局“一辆警车存在擅自更换车标”一事，引发关注。对此，该局高度重视，立即成立调查组，全面开展调查。调查结果将第一时间公布。同时，对涉事责任人依规依纪依法予以严肃处理。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675636.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T05:10:27.000Z"
+    },
+    {
+      "id": "7b3a14bd112a",
+      "title": "假病例、假测评、假功效……私域直播如何精准收割老年人的钱包？",
+      "summary": "近年来，私域直播成了众多商家营销新手段。然而一些直播间利用私域隐蔽性，采用虚假宣传套路诱导消费者下单的情况也时有发生。近日，上海市市场监管局就集中曝光了一批私域直播违法典型案例。记者注意到，私域直播非法营销中有不少打着养生等旗号，对老年群体进行精准围猎，高价售卖本不具备医疗功效的廉价商品，从中牟取暴利。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675683.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T05:06:05.000Z"
+    },
+    {
+      "id": "816e5e4edd94",
+      "title": "重庆官方：网传“九龙坡区抢银行事件”系谣言",
+      "summary": "中新网8月11日电 据重庆九龙坡区网信办官方微信消息，近日，有网民在互联网平台发布“九龙坡区抢银行事件”的相关帖文，引发网民关注。经核实，网传信息系谣言。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675681.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T05:03:03.000Z"
+    },
+    {
+      "id": "7d1b22fab66a",
+      "title": "天热没食欲，可以用水果当晚餐吗？",
+      "summary": "天热没食欲，可以吃西瓜当晚餐……是真是假？| 谣言终结站",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-11/10675682.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T04:55:52.000Z"
+    },
+    {
+      "id": "a1792171982d",
+      "title": "《给阿嬷的情书》勾起乡愁 印尼年轻一代华人寻觅文化根脉",
+      "summary": "中新社雅加达8月11日电 (记者 李志全)电影《给阿嬷的情书》7日起在印度尼西亚公映，连日来观影热度不减，引发华人群体共鸣。受访者认为，影片不仅勾起华人乡愁，也让年轻一代重新关注祖辈走过的历史。",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-11/10675675.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T04:55:34.000Z"
+    },
+    {
+      "id": "eeab54664e68",
+      "title": "（走进中国乡村）新老村民投身艺术乡建 重庆古村千年漆艺焕新",
+      "summary": "中新社重庆8月11日电(张旭)当下正是割漆的季节，在位于大巴山腹地的重庆市城口县北屏镇松柏村，从70岁的割漆人，到“00后”漆艺师，不少人在为漆而忙碌。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675680.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T04:55:08.000Z"
+    },
+    {
+      "id": "06004906192b",
+      "title": "中新网直播：安徽雨情持续 直击佛子岭水库泄洪",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-11/10675678.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T04:47:34.000Z"
+    },
+    {
+      "id": "fc2ea6a5a78b",
+      "title": "女孩每天“拼豆”眼轴成倍增长 医生：不只是伤眼睛",
+      "summary": "近日，一则“10岁女孩每天‘拼豆’三四小时，眼轴成倍增长”的消息，引发关注。“拼豆”又称“熔融豆”或“像素画”，是一种将彩色塑料小豆子按图案排列在单孔模板上，再用熨斗加热定型的手工活动。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675677.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T04:45:36.000Z"
+    },
+    {
+      "id": "8a71a39cdf65",
+      "title": "直播海报：安徽雨情持续 直击佛子岭水库泄洪",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675676.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T04:43:09.000Z"
+    },
+    {
+      "id": "1305d090e016",
+      "title": "（活力中国调研行）长沙从“微”处破题 激发城市消费活力",
+      "summary": "中新社长沙8月11日电 题：长沙从“微”处破题 激发城市消费活力",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675674.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T04:36:53.000Z"
+    },
+    {
+      "id": "7c40c2a9cf2e",
+      "title": "Alan Jones trial: alleged victim told brother indecent assaults weren’t ‘too bad’ but involved broadcaster grabbing his penis, court hears",
+      "summary": "Former 2GB and 2UE radio host, now 85, has pleaded not guilty to 22 charges of indecent assault and sexual touching Follow our Australia news live blog for latest updates Get our…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/11/alan-jones-trial-sydney-indecent-assault-sexual-touching-court-case-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-11T04:32:40.000Z"
+    },
+    {
+      "id": "465d98997c07",
+      "title": "Clover Moore unveils 4,500 sq metre Sydney plaza design after more than 40 years of planning",
+      "summary": "Lord mayor says Town Hall square will be ‘fantastic’ – but business advocate says project’s scale of demolition presents ‘unwanted disruption’ Follow our Australia news live blog…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/11/clover-moore-unveils-4500-sq-metre-sydney-plaza-design-after-more-than-40-years-of-planning",
+      "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-11T04:17:50.000Z"
+    },
+    {
+      "id": "3eb11d61ed6d",
+      "title": "研究：21世纪末全球高温日极端高温时长或增4小时",
+      "summary": "中新社北京8月11日电 (记者 孙自法)施普林格·自然旗下专业学术期刊《自然-气候变化》北京时间10日夜间上线发表中国学者领衔的一项研究发现，在高排放场景下，到21世纪末，全球平均每个高温日的极端高温时长可能额外增加4小时。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675672.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T04:17:16.000Z"
     },
     {
       "id": "05ae76a2630a",
@@ -98,16 +248,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-11T03:40:25.000Z"
-    },
-    {
-      "id": "4f07762c2d95",
-      "title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
-      "summary": "Search teams and civilians sift though debris after at least 1,500 buildings damaged and dozens collapse in country’s most powerful quake this century Scores dead in Colombia aft…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T03:36:33.000Z"
     },
     {
       "id": "3b073a2524cb",
@@ -240,116 +380,6 @@
       "publishedAt": "2026-08-11T03:08:52.000Z"
     },
     {
-      "id": "75463f7783a9",
-      "title": "台风“白海豚”逼近 安徽多地积极做好防御应对",
-      "summary": "面对台风“白海豚”逼近，安徽省多地迅速启动应急响应机制，全力保障人民群众生命财产安全。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675598.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:08:34.000Z"
-    },
-    {
-      "id": "fd93b9b7f655",
-      "title": "河南发布红色山洪灾害气象风险预警",
-      "summary": "河南省水利厅、河南省气象局8月11日8时联合发布红色山洪灾害气象风险预警。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675643.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:08:30.000Z"
-    },
-    {
-      "id": "6a790122c306",
-      "title": "中国海军第49批护航编队将赴亚丁湾、索马里海域执行护航任务",
-      "summary": "中新社北京8月11日电 据中国国防部网站11日消息，8月中旬开始，由中国海军导弹驱逐舰昆明舰、导弹护卫舰岳阳舰、综合补给舰骆马湖舰组成的第49批护航编队，将赴亚丁湾、索马里海域接替第48批护航编队执行护航任务。中国海军是海洋命运共同体理念的坚定建设者、维护者，始终秉持和平、发展、合作、共赢理念，为保障国际海上通道安全、维护地区和平稳定贡献中国力量。(完)",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675641.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:08:08.000Z"
-    },
-    {
-      "id": "e00e88c905d5",
-      "title": "他在长江上开“垃圾船”｜人间事儿·长江十年行",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675591.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:07:58.000Z"
-    },
-    {
-      "id": "9681240f8936",
-      "title": "极端天气导致列车停运、航班取消 应该如何退改签？",
-      "summary": "极端天气影响下，列车停运、航班取消时有发生。不少旅客面对手中的火车票或者机票有这样的疑问：停运的车票是不是必须当天办理退票？联程票的一段行程受影响，后续行程该如何处理呢？",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675642.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:07:36.000Z"
-    },
-    {
-      "id": "a2eacc4d77ec",
-      "title": "探访两岸同名村镇：闽台两“梅山” 刘侯同一宗",
-      "summary": "中新网福建南安8月11日电 (记者 孙虹)“虽然我们姓侯，大陆这边的宗亲姓刘，但我们供奉的是同一位祖先。”台湾嘉义双溪口石马宫主委侯明尧道出两岸“刘侯同宗”的故事。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675624.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:07:24.000Z"
-    },
-    {
-      "id": "368e94d384bf",
-      "title": "谁的家乡这么“出圈”？丨活力中国调研行",
-      "summary": "作者：王玥 覃皓珺 谢瑶 李和风",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675581.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:06:32.000Z"
-    },
-    {
-      "id": "11266e8e2239",
-      "title": "“代步神车”遇冷 5万元以下微型车销量腰斩",
-      "summary": "8月10日，北京商报记者走访多家汽车品牌经销商门店发现，一些曾经的“国民代步神车”，终端热度正在降温。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675638.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:05:36.000Z"
-    },
-    {
-      "id": "c49a6410e122",
-      "title": "这个暑期一起解锁宝藏中国 探寻夏日出游新玩法",
-      "summary": "这个暑期，越来越多游客将目的地转向小城。各地县域立足自身特色，打造差异化的文旅体验。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675569.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:05:24.000Z"
-    },
-    {
-      "id": "cdfc7c11883e",
-      "title": "大银幕“续航力”持续满格 影院扩容‌成为“15分钟便民生活圈”新供给",
-      "summary": "央视网消息：据网络平台数据，2026年暑期档电影票房已超85亿元，全年票房已超242亿元。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675562.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:05:12.000Z"
-    },
-    {
-      "id": "051bd61acfc9",
-      "title": "从7月CPI看经济内生增长动力",
-      "summary": "8月9日，国家统计局发布数据显示，7月全国居民消费价格指数(CPI)环比下降0.1%，降幅比上月收窄0.2个百分点，同比上涨0.5%；扣除食品和能源价格的核心CPI环比上涨0.3%，同比上涨0.9%。与此同时，受输入性和季节性等因素影响，工业生产者出厂价格指数(PPI)环比下降0.7%，同比上涨3.5%，涨幅比上月回落0.6个百分点。业内人士表示，伴随科…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675560.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T03:04:50.000Z"
-    },
-    {
       "id": "b9dbb3d48d00",
       "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
       "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates More than 100 people…",
@@ -368,16 +398,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-11T02:13:01.000Z"
-    },
-    {
-      "id": "ea6e06161b3b",
-      "title": "Victoria to ban suppression orders for rapists following Ralph Carr, Tom Silvagni convictions under new pledge",
-      "summary": "Premier Ben Carroll promises if re-elected to ‘close every loophole’ used by high-profile accused and convicted criminals to hide their identities in the courts Follow our Austra…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-to-ban-suppression-orders-for-rapists-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T01:51:46.000Z"
     },
     {
       "id": "b3d64b505b05",
@@ -450,16 +470,6 @@
       "publishedAt": "2026-08-10T15:55:26.000Z"
     },
     {
-      "id": "318d06acb8d1",
-      "title": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why",
-      "summary": "The RBA’s governor, Michele Bullock, has made it clear that the ‘easing’ property market is on her mind Get our breaking news email , free app or daily news podcast It is the sil…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/australias-falling-house-prices-are-actually-a-good-thing-for-mortgage-holders-heres-why",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-10T15:00:48.000Z"
-    },
-    {
       "id": "2f9d83e2d059",
       "title": "Dogs can distinguish between fearful and angry or sad human faces, brain scans suggest",
       "summary": "Researchers analysed activity in regions of brain when dogs were shown images of different facial expressions While dogs are known to turn the puppy eyes on their owners , it see…",
@@ -488,16 +498,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-10T14:32:18.000Z"
-    },
-    {
-      "id": "20fd0b3bf7cf",
-      "title": "Car owners should challenge insurers on steep price hikes and ‘call their bluff’, Asic says",
-      "summary": "Regulator finds many insurers raising premiums faster than inflation and advises customers to ask for better deals Get our breaking news email , free app or daily news podcast Ca…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/car-insurance-prices-asic",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-10T14:01:45.000Z"
     },
     {
       "id": "7dd4039b4fc0",
