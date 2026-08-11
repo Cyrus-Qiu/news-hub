@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T15:08:53.283Z",
+  "updatedAt": "2026-08-11T16:27:45.647Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,24 +30,114 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "a748f2ecdb83",
+      "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
+      "summary": "伊朗最高领袖顾问穆赫贝尔11日在社交媒体上说，在伊朗的条件得到满足之前，霍尔木兹海峡不会开放。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10676076.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T15:54:38.000Z"
+    },
+    {
+      "id": "2dbfa8ea294a",
+      "title": "俄伊外交部就伊朗核计划问题举行司长级磋商",
+      "summary": "中新社莫斯科8月11日电 俄罗斯外交部11日发布消息说，俄罗斯与伊朗外交部门在莫斯科就伊朗核计划解决前景等议题进行了磋商。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10676075.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T15:51:41.000Z"
+    },
+    {
+      "id": "7507b239677b",
+      "title": "共赴统战文化之约 把团结故事讲给更多人听",
+      "summary": "近年来，统战文化建设成为全国多地统战部门的重要工作内容。丰富多彩的统战文化周、文化月、文化博览汇等活动，不仅广泛汇聚起统一战线“同心”力量，更推动统战文化“出圈”，让“团结”故事走入大众视野。《中国新闻》报近日专访上海市委统战部副部长房剑森、重庆市委统战部副部长赖顺材、湖北省委统战部副部长邵志祥，解读三地释放统战文化活力、推动统战文化建设的创新“密码”。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-11/10676071.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T15:51:13.000Z"
+    },
+    {
+      "id": "12937c327967",
+      "title": "西藏：“数字拉萨”建设成果丰硕 数字赋能雪域高质量发展",
+      "summary": "中新网拉萨8月11日电 (贡嘎来松)11日，西藏拉萨作为全球数字经济大会中国国内唯一永久分会场，2026全球数字经济大会拉萨高层论坛新闻发布会在拉萨举行。记者从发布会上获悉，以“数聚拉萨·能创未来”为主题的拉萨高层论坛，将于8月18日在拉萨市群众文化体育中心篮球主场馆启幕，拉萨已连续五年与北京主会场双向联动，打造京拉数字协作标杆与高原数字经济发展样板。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676070.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T15:49:59.000Z"
+    },
+    {
       "id": "1bf4b58ce158",
-      "title": "Former judge Baka elected new Hungarian president in another break from Orbán era – Europe live",
+      "title": "Former judge Baka elected new Hungarian president in another break from Orbán era – as it happened",
       "summary": "The new president is a former judge on the European Court of Human Rights Spanish foreign minister José Manuel Albares visited Ceuta earlier today, as he insisted that Madrid had…",
       "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-11T14:45:09.000Z"
+      "publishedAt": "2026-08-11T15:21:05.000Z"
+    },
+    {
+      "id": "3f4e4d26bebb",
+      "title": "国家体育总局体操中心发表抵制“饭圈”声明",
+      "summary": "8月11日，中国体操协会发表声明。声明全文如下：",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10676074.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T15:20:16.000Z"
     },
     {
       "id": "78b87888e2c8",
       "title": "Human rights groups sue Trump administration over ‘crippling’ ICC sanctions",
-      "summary": "Lawsuit challenges Trump’s executive order targeting the ICC for its investigation of Israeli crimes in Palestine Four prominent US human rights organizations have accused the Tr…",
+      "summary": "Lawsuit challenges executive order targeting international criminal court for investigating Israeli crimes in Palestine Four prominent US human rights organizations have accused…",
       "url": "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-11T14:40:03.000Z"
+      "publishedAt": "2026-08-11T15:10:16.000Z"
+    },
+    {
+      "id": "9375bbf79784",
+      "title": "亚洲首个！我国柔直海上风电项目发电量破百亿千瓦时",
+      "summary": "8月11日，亚洲首个采用柔性直流输电技术送出的海上风电项目——三峡新能源江苏如东800兆瓦海上风电项目累计发电量突破100亿千瓦时，为我国大容量、远距离海上风电柔性直流输电技术的规模化应用提供了实践验证。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676073.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T15:08:15.000Z"
+    },
+    {
+      "id": "e9540f491c91",
+      "title": "水利部针对北京天津启动洪水防御Ⅳ级应急响应",
+      "summary": "记者从水利部了解到，据预报，8月11日夜间至13日，北京西南部、天津北部局地有暴雨到大暴雨；北京永定河、琉璃河、小清河，天津蓟运河将出现涨水过程，暴雨区内山洪灾害和中小河流洪水风险高。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676072.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-11T15:01:31.000Z"
+    },
+    {
+      "id": "09e1c4059e35",
+      "title": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud",
+      "summary": "When it comes to the Reserve Bank, there’s a whiff of a parent making a threat they have no intention of carrying out Get our breaking news email , free app or daily news podcast…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/reserve-bank-australia-rba-interest-rates-hike-warning-threat",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-11T15:00:04.000Z"
+    },
+    {
+      "id": "855c2134a72e",
+      "title": "Coalition to back One Nation policy barring overseas Australians with terrorist links from returning home",
+      "summary": "Angus Taylor and Matt Canavan will support Pauline Hanson’s migration bill despite vowing to fight her rightwing party Get our breaking news email , free app or daily news podcas…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/coalition-to-back-one-nation-policy-barring-overseas-australians-with-terrorist-links-from-returning-home",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-11T15:00:02.000Z"
     },
     {
       "id": "90f5cb9c94b1",
@@ -290,76 +380,6 @@
       "publishedAt": "2026-08-11T14:10:41.000Z"
     },
     {
-      "id": "d84597d70271",
-      "title": "27国好物齐聚拉萨 环球优品展览会助力雪顿节",
-      "summary": "图为市民在选购商品。中新社记者 贡嘎来松 摄 图为市民在选购商品。中新社记者 贡嘎来松 摄 图为市民在选购商品。中新社记者 贡嘎来松 摄 图为市民在选购毛毯。中新社记者 贡嘎来松 摄 图为市民在选购毛毯。中新社记者 贡嘎来松 摄 图为市民在选购藏装。中新社记者 贡嘎来松 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10676038.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:10:01.000Z"
-    },
-    {
-      "id": "d7200f755aec",
-      "title": "香港驻吉隆坡经贸办开幕 加码东盟市场布局",
-      "summary": "中新社香港8月11日电 据香港特区政府新闻处11日消息，特区政府商务及经济发展局局长丘应桦当日在马来西亚访问，并主持香港驻吉隆坡经济贸易办事处(简称“香港驻吉隆坡经贸办”)开幕典礼。该办事处开幕标志着香港深化与马来西亚乃至整个东盟的伙伴关系。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-11/10676039.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:09:47.000Z"
-    },
-    {
-      "id": "624e1ad69831",
-      "title": "活力中国调研行｜长沙：老厂区里长出新艺术",
-      "summary": "新华社长沙8月10日电 题：长沙：老厂区里长出新艺术",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676054.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:08:35.000Z"
-    },
-    {
-      "id": "07e3dc13cdd4",
-      "title": "广东大雾岭林场探索盘活林地资源",
-      "summary": "图为8月11日，航拍大雾岭林场。中新社记者 陈骥旻 摄 图为8月11日，航拍高山茶园“高黄酮茶叶生产基地”。中新社记者 陈骥旻 摄 图为8月11日，工作人员在高黄酮茶园采摘茶叶。中新社记者 陈骥旻 摄 图为8月11日，游客登上大田顶观光。中新社记者 陈骥旻 摄 图为8月11日，大雾岭林场周边村民在林下种植菌菇。中新社记者 陈骥旻 摄 图为8月11日，大雾…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10676033.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:07:51.000Z"
-    },
-    {
-      "id": "e31afff70d1f",
-      "title": "看舞狮、跳竹竿舞 中国非遗民俗“圈粉”世界",
-      "summary": "暑期以来，湖南张家界天门山景区开启暑期“宠客”模式，推出系列沉浸式非遗民俗活动。山水为景、民俗为趣，精彩纷呈的特色表演、趣味互动体验，吸引了很多海外游客。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676052.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:07:27.000Z"
-    },
-    {
-      "id": "d9ce54680729",
-      "title": "多地推进中考改革，普高“愿读尽读”是趋势吗？",
-      "summary": "中新网北京8月11日电(记者 袁秀月)最近，来自海南的家长彭莉(化名)收到了孩子带回来的一份确认书。",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-11/10676046.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:04:53.000Z"
-    },
-    {
-      "id": "cc99eb14cc7b",
-      "title": "台风过后防蚊别大意，健康防护要牢记",
-      "summary": "上海健康播报｜台风过后防蚊别大意，健康防护要牢记",
-      "url": "https://www.chinanews.com.cn/life/2026/08-11/10676050.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-11T14:04:35.000Z"
-    },
-    {
       "id": "de1df69891bf",
       "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
       "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto…",
@@ -371,7 +391,7 @@
     },
     {
       "id": "16e2ba45fe86",
-      "title": "Spotify to distinguish AI artists from real people and block them from some playlists",
+      "title": "Spotify to distinguish AI artists from real people – and stop recommending them",
       "summary": "Music streaming platform creates ‘AI persona’ label that will appear on profiles and track listings in crackdown on fake performers Spotify is to label AI artists and exclude the…",
       "url": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
       "source": "The Guardian Technology",
@@ -551,11 +571,11 @@
     },
     {
       "id": "a58f2bc78763",
-      "title": "Heathrow says need for expansion ‘clear’ as it loses title of Europe’s busiest airport",
-      "summary": "West London airport reports 7.86 million passengers in July, compared with 8.15 million for Istanbul Business live – latest updates Heathrow airport said “the case for expansion…",
+      "title": "Heathrow says need for expansion clear as it loses title of Europe’s busiest airport",
+      "summary": "Air transport hub in west London reports 7.86m passengers in July, compared with 8.15m for Istanbul’s new airport away from the city Istanbul airport has overtaken Heathrow as Eu…",
       "url": "https://www.theguardian.com/uk-news/2026/aug/11/heathrow-expansion-not-europe-busiest-airport-istanbul",
       "source": "The Guardian World",
-      "category": "商业",
+      "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-11T08:02:59.000Z"
     },
@@ -568,26 +588,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-11T07:58:58.000Z"
-    },
-    {
-      "id": "d3779fc92fed",
-      "title": "Bullock warns more hikes possible after RBA holds cash rate at 4.35% – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Ted O’Brien says that just because the Japanese government has downplayed melon-gate, doesn’t…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-11T07:56:48.000Z"
-    },
-    {
-      "id": "270519b56e04",
-      "title": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed",
-      "summary": "In a widely expected decision, the Reserve Bank of Australia holds interest rate after three hikes earlier this year Follow our Australia news live blog for latest updates Get ou…",
-      "url": "https://www.theguardian.com/business/2026/aug/11/rba-interest-rate-announcement-decision-cash-rates-economy",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-11T07:50:09.000Z"
     },
     {
       "id": "3909f9e6e0ef",
