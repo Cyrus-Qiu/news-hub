@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T17:07:33.279Z",
+  "updatedAt": "2026-08-12T18:29:21.360Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -37,7 +37,7 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-12T16:56:00.000Z"
+      "publishedAt": "2026-08-12T18:11:05.000Z"
     },
     {
       "id": "93a2529732e1",
@@ -81,8 +81,8 @@
     },
     {
       "id": "0f441c207d96",
-      "title": "朱鎔基逝世：中國改革開放時期的「鐵腕總理」是誰？",
-      "summary": "中國前總理朱鎔基週一在北京逝世。在1990至2000年代擔任副總理和總理期間，他主導中國經濟改革逾十年，被外界稱為中國「經濟沙皇」。",
+      "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
+      "summary": "中國前總理朱鎔基週三在北京逝世。在1990至2000年代擔任副總理和總理期間，他主導中國經濟改革逾十年，被外界稱為中國「經濟沙皇」。",
       "url": "https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC 中文",
       "category": "国际",
@@ -148,6 +148,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-12T15:00:32.000Z"
+    },
+    {
+      "id": "4c8fdb5a3d72",
+      "title": "US credit card debt climbs to $1.26tn, nearing last year’s record high",
+      "summary": "Mortgage and student loan balances saw ‘small decline’ with increases elsewhere, says post alongside Fed report Credit card debt in the United States is growing close to a record…",
+      "url": "https://www.theguardian.com/business/2026/aug/12/credit-card-debt-increase-fed-report",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-12T14:58:36.000Z"
     },
     {
       "id": "1a863d5dcfce",
@@ -460,16 +470,6 @@
       "publishedAt": "2026-08-12T14:00:30.000Z"
     },
     {
-      "id": "d4da0316c9b5",
-      "title": "Global energy watchdog warns oil stockpiles ‘rapidly depleting’ – as it happened",
-      "summary": "The International Energy Agency calls for urgent reopening of the strait of Homuz amid ongoing pressure on global oil supplies Opec has lowered its full-year forecast for world o…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-12T13:54:16.000Z"
-    },
-    {
       "id": "a6c6e59f5822",
       "title": "Massive bailout for Australia’s largest aluminium smelter to be announced by PM and NSW premier",
       "summary": "Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract Follow our Australia news live blog for l…",
@@ -562,7 +562,7 @@
     {
       "id": "992d25fb7f83",
       "title": "AI was supposed to destroy jobs. Where’s the carnage?",
-      "summary": "The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to come. The prediction was stark: artificial intelligence advancements would wipe out…",
+      "summary": "The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to come The prediction was stark: artificial intelligence advancements would wipe out…",
       "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
       "source": "The Guardian Technology",
       "category": "AI",
