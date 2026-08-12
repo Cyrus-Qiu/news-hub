@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T20:56:24.980Z",
+  "updatedAt": "2026-08-12T21:55:47.365Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,23 +31,33 @@
   "articles": [
     {
       "id": "9a6cc2ec1044",
-      "title": "Australia politics live: tech giants face law to pay for news content; Australia joins call for Iran to end death penalty",
-      "summary": "News bargaining bill expected to pass parliament after Labor and Coalition agree on terms that will force tech companies to contribute to media outlets. Follow today’s news live…",
+      "title": "Australia politics live: Rio Tinto given $2.5bn bailout for Australia’s largest aluminium smelter; tech giants face law to pay for news content",
+      "summary": "Tim Ayres says bailout means the facility will remain operational until 2039. Follow today’s news live Get our breaking news email , free app or daily news podcast Bragg was shar…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
       "source": "The Guardian World",
       "category": "科技",
       "language": "en",
-      "publishedAt": "2026-08-12T20:36:19.000Z"
+      "publishedAt": "2026-08-12T21:40:17.000Z"
+    },
+    {
+      "id": "f6ff8e5d9d6f",
+      "title": "Israeli militants besiege two Palestinian families in their West Bank homes",
+      "summary": "Settlers and soldiers cut off water and electricity to homes, and block medical care in campaign of terror Israeli militants have besieged two Palestinian families in their homes…",
+      "url": "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-12T21:29:10.000Z"
     },
     {
       "id": "8600667e5f23",
-      "title": "Europe solar eclipse live: millions watch rare spectacle across Spain, UK and Iceland",
-      "summary": "Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality Solar eclipse 2026 across Europe: in pictures in Land’s End, Cornwall The…",
+      "title": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
+      "summary": "Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality Solar eclipse 2026 across Europe: in pictures Cruise ships, quiet towns a…",
       "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-12T20:33:51.000Z"
+      "publishedAt": "2026-08-12T21:00:02.000Z"
     },
     {
       "id": "3977c9756dfd",
@@ -182,7 +192,7 @@
     {
       "id": "6a8ab125bfdc",
       "title": "What’s behind Sydney airport’s heavy delays and near-miss incident?",
-      "summary": "Air traffic controllers are short-staffed and exhausted – and new recruits face a difficult aptitude test and must train in Melbourne Get our breaking news email , free app or da…",
+      "summary": "Air traffic controllers are short-staffed and exhausted – and new recruits face a difficult aptitude test and must train in Melbourne Follow our Australia news live blog for late…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/13/whats-behind-sydney-airports-heavy-delays-and-near-miss-incident",
       "source": "The Guardian World",
       "category": "国际",
@@ -191,8 +201,8 @@
     },
     {
       "id": "13f076c63c6d",
-      "title": "ABC changing editorial policy after Rinehart furore prompts concerns of overreach from academics and advocates",
-      "summary": "Managing director says guidelines will ensure no individual will ‘be the subject of comedy that is violent in its description in our programming’ Get our breaking news email , fr…",
+      "title": "ABC changing editorial policy after Rinehart furore prompts fears of overreach from academics and advocates",
+      "summary": "Managing director says guidelines will ensure no individual will ‘be the subject of comedy that is violent in its description in our programming’ Follow our Australia news live b…",
       "url": "https://www.theguardian.com/media/2026/aug/13/abc-changing-editorial-policy-after-rinehart-furore-prompts-concerns-of-overreach-from-academics-and-advocates",
       "source": "The Guardian World",
       "category": "国际",
@@ -202,7 +212,7 @@
     {
       "id": "564509dccc6e",
       "title": "Victorian police investigate allegation a car drove deliberately at speed towards anti-racism protester",
-      "summary": "Exclusive: ‘Peaceful community rally’ of more than 150 people was walking in Broadmeadows when car travelling in same direction allegedly approached Get our breaking news email ,…",
+      "summary": "Exclusive: ‘Peaceful community rally’ of more than 150 people was walking in Broadmeadows when car travelling in same direction allegedly approached Follow our Australia news liv…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/13/anti-racism-protest-melbourne-car-police-response-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -938,16 +948,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-11T06:55:06.000Z"
-    },
-    {
-      "id": "965561c723dd",
-      "title": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
-      "summary": "Elaborate ruse was used to transport president to military flight from Air Force One in July Donald Trump departed on a secret military flight from Turkey to Britain last month w…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T06:46:56.000Z"
     },
     {
       "id": "4f07762c2d95",
