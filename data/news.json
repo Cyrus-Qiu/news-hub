@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T13:35:52.469Z",
+  "updatedAt": "2026-08-12T14:40:39.012Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,244 +30,344 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "306d7b92e3fa",
+      "title": "央行将开展隔夜逆回购操作 每日不超过6000亿元",
+      "summary": "记者从中国人民银行了解到，为更好匹配银行体系短期流动性需求，中国人民银行将在8月14日、8月17日至8月19日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过6000亿元。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676680.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T14:34:49.000Z"
+    },
+    {
+      "id": "d055d4700977",
+      "title": "光伏项目纠纷“府院联动”巧化解 湖南以司法之力守护“天空蓝”",
+      "summary": "中新网长沙8月12日电(傅煜 杨勤煊)在一起某新能源公司与三家企业光伏项目合同纠纷案中，面对被告企业阶段性经营困难但双方仍有合作意愿的复杂局面，湖南益阳市赫山区人民法院并未简单一判了之，而是启动“府院联动”多元解纷机制，主动对接属地政府和行业主管部门，经多方协调最终促成双方达成调解协议。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676673.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T14:30:11.000Z"
+    },
+    {
       "id": "8600667e5f23",
       "title": "Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland",
-      "summary": "Eclipse to be witnessed by tens of millions across western Europe as enthusiasts gather along path of totality The online forums are abuzz as people debate potential cloud cover…",
+      "summary": "Eclipse to be witnessed by tens of millions across western Europe as enthusiasts gather along path of totality in Land’s End, Cornwall The roads and car parks of west and north C…",
       "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-12T13:28:47.000Z"
+      "publishedAt": "2026-08-12T14:30:04.000Z"
     },
     {
-      "id": "6463832bcbcc",
-      "title": "8月12日夜读",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-12/10676605.shtml",
+      "id": "b6c0800b8a72",
+      "title": "2026兰州书展将启幕：一城书香“读”此不同",
+      "summary": "中新网兰州8月12日电 (田羽芷瑄 王子予)“本届书展打造集精品图书展销、名家思想交流、本土创作发布、跨界文化体验于一体的复合型文化空间。”甘肃省新华书店副总经理韩波这样定义2026兰州书展。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676670.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:27:07.000Z"
+      "publishedAt": "2026-08-12T14:29:53.000Z"
     },
     {
-      "id": "102e13db08e6",
-      "title": "华裔师生漫步西安城墙 感悟古城历史底蕴",
-      "summary": "图为华裔师生漫步西安城墙。 胡捷 摄 图为华裔青少年漫步西安城墙。 胡捷 摄 图为华裔青少年驻足西安城墙，了解古城历史。 胡捷 摄 图为华裔青少年漫步西安城墙。 胡捷 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676594.shtml",
+      "id": "606c20eb956b",
+      "title": "广西大桂山保护区野外放归子三代、子四代人工繁育鳄蜥",
+      "summary": "中新网贺州8月12日电 (罗树毅 陈萍)广西大桂山鳄蜥国家级自然保护区12日介绍，该保护区近日开展第五次鳄蜥野外放归，共放归20只子三代、子四代人工繁育鳄蜥。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676669.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:25:47.000Z"
+      "publishedAt": "2026-08-12T14:26:05.000Z"
     },
     {
-      "id": "e4f333aed1a0",
-      "title": "赖清德当局搞“断网演练”，是提升“韧性”还是“任性”？",
-      "summary": "正在进行中的台军“汉光42号演习”长达十天九夜。演习尚未收兵，民众正常生活却接连被“误伤”。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676602.shtml",
+      "id": "cc2704b19321",
+      "title": "全国近800名青少年棒球选手齐聚佛山挥棒争锋",
+      "summary": "中新网佛山8月12日电 (程景伟 谢丽巧)为期五天的2025-2026 MLB CUP青少年棒球系列赛总决赛12日在广东佛山开幕。来自全国30余座城市的62支队伍、近800名青少年棒球选手齐聚佛山南海文翰湖畔，向赛事冠军荣耀发起冲击。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676668.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:25:29.000Z"
+      "publishedAt": "2026-08-12T14:25:45.000Z"
     },
     {
-      "id": "d57d6eaedcca",
-      "title": "对口支援推进边疆治理现代化的三重逻辑",
-      "summary": "对口支援作为一项具有鲜明中国特色的重大制度设计与治理实践，历经数十年发展，已超越一般意义上的区域帮扶，成为我国系统推进边疆治理现代化、深刻践行中华民族共同体建设的关键战略路径。它以强大的资源动员与整合能力，通过目标设定、机制运行以及价值塑造，形成了一套逻辑严密、相互支撑的实践体系。从宏观战略层面看，它服务于国家均衡发展与安全稳定的整体目标；从中观治理层面…",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-12/10676589.shtml",
+      "id": "c686cd5b13a6",
+      "title": "AI生成视频拼接虚假场景 这些涉台风信息都是谣言！",
+      "summary": "在受“白海豚”影响期间，有网民为博取流量、吸引关注，故意发布涉台风虚假信息。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676671.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-12T14:25:43.000Z"
+    },
+    {
+      "id": "b1e622d4bb59",
+      "title": "陕西面食手艺人深耕传统制面技艺 传承地道“老陕味”",
+      "summary": "中新网西安8月12日电 (梅镱泷 张煜晨)油泼面、裤带面、臊子面……各式风味面食构成了陕西人一日三餐的主力。“我们店一到饭点，吃面都得排队叫号，一天下来平均能卖1500碗面。这一口面一口蒜就是咱最地道的‘老陕’生活味。”西安市尚寨油泼面制作技艺代表性传承人朱涛向记者表示。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676667.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:24:45.000Z"
+      "publishedAt": "2026-08-12T14:24:45.000Z"
     },
     {
-      "id": "2c33d6364932",
-      "title": "新科世锦赛冠军吴宜泽止步斯诺克中国公开赛16强",
-      "summary": "图为吴宜泽在比赛中。中新社记者 韦亮 摄 图为吴宜泽在比赛中。中新社记者 韦亮 摄 图为吴宜泽在比赛中。中新社记者 韦亮 摄 图为大卫·吉尔伯特在比赛中。中新社记者 韦亮 摄 图为大卫·吉尔伯特(右)与吴宜泽赛后握手致意。中新社记者 韦亮 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676593.shtml",
+      "id": "d137b8eaac45",
+      "title": "“观化·当代茶生活艺术展”于国家大剧院启幕",
+      "summary": "中新网北京8月12日电 (记者 高凯)“观化——当代茶生活艺术展”日前在国家大剧院艺术馆西展厅正式启幕。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676666.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:24:33.000Z"
+      "publishedAt": "2026-08-12T14:24:29.000Z"
     },
     {
-      "id": "b1d504195aac",
-      "title": "斯诺克中国公开赛：周跃龙战胜刘宏宇晋级8强",
-      "summary": "图为周跃龙在比赛中。中新社记者 韦亮 摄 图为周跃龙在比赛中。中新社记者 韦亮 摄 图为周跃龙在比赛中。中新社记者 韦亮 摄 图为刘宏宇在比赛中。中新社记者 韦亮 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676592.shtml",
+      "id": "e68fd3bcb260",
+      "title": "津巴布韦船只倾覆已致44人死亡",
+      "summary": "津巴布韦警方12日表示，该国北部卡里巴湖11日下午发生的船只倾覆事故已造成44人死亡。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676665.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:23:25.000Z"
+      "publishedAt": "2026-08-12T14:19:11.000Z"
     },
     {
-      "id": "cc9778bc615b",
-      "title": "河南迎大范围降雨 郑州铁路护航旅客出行",
-      "summary": "图为郑州车辆段库检车间检车员在雨中对旅客列车转向架进行检查。吕少渊 摄 图为郑州车辆段库检车间检车员在雨中对旅客列车转向架摇枕旁承进行检查。刘雨 摄 图为郑州车辆段库检车间检车员在雨中对旅客列车转向架进行检查。刘雨 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676591.shtml",
+      "id": "0ad82870ae31",
+      "title": "In Venice, it’s not politics as usual as film-makers aim to recapture our attention",
+      "summary": "As social media shrinks and distorts the EU’s crises, the Venice film festival is delivering politically forthright epics from directors such as Sergei Loznitsa and Alex Gibney •…",
+      "url": "https://www.theguardian.com/world/2026/aug/12/this-is-europe-venice-film-festival-politics-alex-gibney-sergei-loznitsa",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-12T14:15:57.000Z"
+    },
+    {
+      "id": "206e482c48bf",
+      "title": "联合国官员：中国重视青年发展为发展中国家提供重要借鉴",
+      "summary": "中新社北京8月12日电 (记者 官逸伦)8月12日是国际青年日。联合国驻华发展系统青年主题小组主席、联合国人口基金驻华代表那迪娅当日在北京参加相关纪念活动时表示，中国高度重视青年发展，为发展中国家及其青年提供了重要借鉴。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676658.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:22:11.000Z"
+      "publishedAt": "2026-08-12T14:15:16.000Z"
     },
     {
-      "id": "803eb31b5a7c",
-      "title": "台湾首辆张雪机车被下狠手，民进党当局究竟在怕什么？",
-      "summary": "“张雪机车”在台湾近日被盯上了。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676599.shtml",
+      "id": "6bd214805a68",
+      "title": "青海科学技术奖励大会在西宁召开",
+      "summary": "中新网西宁8月12日电 (祁增蓓)12日，青海省科学技术奖励大会在西宁召开，对推进全省创新发展作出突出贡献的科技工作者和创新实践者进行表彰，引导企业创新和战略性新兴产业发展。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676661.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:21:19.000Z"
+      "publishedAt": "2026-08-12T14:14:26.000Z"
     },
     {
-      "id": "29f42ea2a0e9",
-      "title": "云南芒市：石斛产业向新闯出发展路",
-      "summary": "中新网德宏8月12日电 (张崇喜 曾麻干 刘燕)从种苗依赖外购，到优质种苗走向省外；从传统种植，到林下仿野生栽培……近年来，云南省德宏傣族景颇族自治州芒市推动石斛产业向科技、生态和精深加工进一步发展，让一株石斛闯出产业发展新路。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676584.shtml",
+      "id": "5ad674c36a4b",
+      "title": "“十五五”时期 青海将推动中（藏）医药走向国际",
+      "summary": "中新网西宁8月12日电 (记者 孙睿)记者12日从青海省政府新闻办公室召开的“开局起步‘十五五’”主题系列新闻发布会国民健康专场上获悉，“十五五”时期，青海将依托独有高原资源，打造全国特色中(藏)医药服务体系，推动中(藏)医药走向国际。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676662.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:17:15.000Z"
+      "publishedAt": "2026-08-12T14:13:56.000Z"
     },
     {
-      "id": "5747c5752a8c",
-      "title": "张家口民众追忆“人民艺术家”郭兰英：永远怀念 “老大姐”",
-      "summary": "中新网张家口8月12日电(记者 陈林)“人民艺术家”国家荣誉称号获得者、著名歌剧表演艺术家郭兰英逝世的消息受到海内外关注，她生前与河北张家口的渊源也再次被提及。12日，多名张家口人在接受中新网记者采访时，表达了对郭兰英的追忆和悼念。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676588.shtml",
+      "id": "cbfe43a310bb",
+      "title": "香港商经局局长：香港已准备好作为连接中国内地与马来西亚的理想跳板",
+      "summary": "中新社香港8月12日电 “香港一直发挥‘超级联系人’和‘超级增值人’角色，并汇聚资金和机遇。凭借战略角色及其他众多优势，香港已准备好作为连接中国内地与马来西亚的理想跳板。”香港特区政府商务及经济发展局局长丘应桦12日表示。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-12/10676623.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:16:29.000Z"
+      "publishedAt": "2026-08-12T14:13:44.000Z"
     },
     {
-      "id": "4d5bc9674de7",
-      "title": "台风“白海豚”影响消退 宁波舟山港避险船舶返港",
-      "summary": "中新网宁波8月12日电 (张斌 许桃 俞斯晨)8月12日，满载近29万吨原油，沙特籍油轮“优可贝”轮顺利停靠浙江宁波舟山港大榭港区。这是台风“白海豚”过境后，该港区迎来的首艘大型原油运输船舶。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676570.shtml",
+      "id": "9570d9074111",
+      "title": "今年以来中欧班列“中通道”通行量突破3000列",
+      "summary": "中新网呼和浩特8月12日电 (记者 李爱平)中国铁路呼和浩特局集团有限公司12日对外发布消息称，当日，1295次中欧班列从内蒙古自治区二连浩特铁路口岸驶出，标志着该口岸今年以来通行中欧班列数量突破3000列。",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-12/10676648.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:15:23.000Z"
+      "publishedAt": "2026-08-12T14:12:58.000Z"
     },
     {
-      "id": "41f2e985bb0c",
-      "title": "浙江铁路警方斩断横跨三省境外涉诈洗钱链条 涉案超千万元",
-      "summary": "中新网杭州8月12日电 (钱晨菲)12日，记者从杭州铁路公安处获悉，浙江铁路警方近日成功侦破一起横跨三省、勾结境外诈骗团伙的新型涉诈洗钱案件，一举抓获犯罪嫌疑人8名，捣毁犯罪窝点2个，彻底斩断涉案金额超千万元的黑色资金链条，严厉打击了不法分子利用火车票代购洗白涉诈资金的新型违法犯罪行为。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676576.shtml",
+      "id": "75ec672668a0",
+      "title": "辽宁省挂牌督办朝阳市3人中毒死亡事故",
+      "summary": "辽宁省安全生产委员会发布的《较大生产安全事故查处挂牌督办通知书》披露，2026年8月5日19时3分许，位于辽宁朝阳市建平县万寿街道老西店村的建平县鑫隆泰牧业有限公司，在操作化粪池附近的积液池阀门时，发生一起中毒事故，造成3人死亡。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676664.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:14:13.000Z"
+      "publishedAt": "2026-08-12T14:12:42.000Z"
     },
     {
-      "id": "e50bfe14fcb3",
-      "title": "中方敦促有关国家停止滥用多边军控机制",
-      "summary": "中新社北京8月12日电 关于美国等国家在日内瓦裁军谈判会议搞所谓共同发言，中国外交部发言人郭嘉昆12日在答记者问时表示，中方敦促有关国家停止滥用多边军控机制，以真诚对话取代无理对抗，为加强军控领域对话交流创造必要条件。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676578.shtml",
+      "id": "a22b15e5dc2b",
+      "title": "“羊妞”过生日，象粪变文创 云南西双版纳野象谷玩出新花样",
+      "summary": "图为“与象同学”科普互动现场。胡铮 摄 图为小朋友现场体验象粪制陶。胡铮 摄 图为亚洲象现场品尝水果宴。胡铮 摄 图为志愿者现场给亚洲象投喂水果。胡铮 摄 图为网红亚洲象“羊妞 ”享用特制生日蛋糕。白晨玥 摄 图为游客观看“亚洲象与我们”主题展。胡铮 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676654.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:13:08.000Z"
+      "publishedAt": "2026-08-12T14:12:38.000Z"
     },
     {
-      "id": "04446c4db01b",
-      "title": "马绍尔群岛籍40万吨超大型矿砂船靠泊广东湛江港",
-      "summary": "中新网广东湛江8月12日电 (梁盛 谢晓琳 吴国铭)12日，马绍尔群岛籍40万吨级超大型矿砂船“撒哈姆”轮在广东湛江海事部门的护航下，满载铁矿石平稳靠泊湛江港。此举有力支撑了湛江钢铁产业链的稳定发展，也标志着海事部门在提升超大型船舶通航服务水平上迈出了新步伐。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676569.shtml",
+      "id": "272c506a1140",
+      "title": "中国香港海关与巴基斯坦海关签订海关合作安排",
+      "summary": "中新社香港8月12日电 据香港特区政府新闻处12日消息，香港海关关长陈子达当日在香港海关总部大楼，以线上线下模式签订香港海关与巴基斯坦海关的海关合作安排。巴基斯坦海关关长Syed Shakeel Shah(赛义德·沙克尔·沙哈)及其代表团在线上见证整个过程，巴基斯坦驻香港总领事谢赫(Riaz Ahmed Shaikh)在线下出席签署仪式。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-12/10676618.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:11:54.000Z"
+      "publishedAt": "2026-08-12T14:12:22.000Z"
     },
     {
-      "id": "04cb0082de13",
-      "title": "水域面积20余年最大 敦煌月牙泉景观全面复原",
-      "summary": "中新社敦煌8月12日电 题：水域面积20余年最大 敦煌月牙泉景观全面复原",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676566.shtml",
+      "id": "b52b71ce5fd3",
+      "title": "“东升西降”重塑台海博弈 两岸专家指新格局凸显时势在大陆",
+      "summary": "中新社北京8月12日电 (记者 李百加 刘大炜)第十一届京台学者共研会12日在北京举办。与会两岸专家表示，在百年变局深入演进、“东升西降”大势持续深化的时代背景下，台海新格局加速成形，凸显时势在大陆。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676643.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:07:32.000Z"
+      "publishedAt": "2026-08-12T14:12:02.000Z"
     },
     {
-      "id": "95e8f2892aa8",
-      "title": "外交部：当前中印边境局势总体稳定",
-      "summary": "中新网8月12日电 据外交部网站消息，2026年8月12日外交部发言人郭嘉昆答记者问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676587.shtml",
+      "id": "c3f29e7012de",
+      "title": "浙江绍兴：窗帘布艺吸引客商",
+      "summary": "图为两名参展商整理展出的地毯。中新社记者 项菁 摄 图为展会现场。中新社记者 项菁 摄 图为展会现场。中新社记者 项菁 摄 图为展会现场。中新社记者 项菁 摄 图为客商挑选窗帘款式。中新社记者 项菁 摄 图为展会现场。中新社记者 项菁 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676653.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:07:24.000Z"
+      "publishedAt": "2026-08-12T14:11:44.000Z"
     },
     {
-      "id": "f1e2f9abb100",
-      "title": "飞抵乌兰巴托机场！国产大飞机正式执飞国际商业航线",
-      "summary": "中新网北京8月12日电(记者 张尼)记者从中国国际航空股份有限公司(以下简称“国航”)了解到，北京时间8月12日16时58分，由国航C919机型执飞的CA723航班平稳降落在乌兰巴托机场，这标志着国产大飞机正式开启国际定期商业航线运营。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676574.shtml",
+      "id": "32ed8127726c",
+      "title": "无人机“坠箭”系非法狩猎 湖南打击新型环境犯罪",
+      "summary": "中新社长沙8月12日电 (记者 傅煜)湖南省高级人民法院12日对外发布一起利用无人机“坠箭”非法狩猎的新型环境犯罪案件，两名被告人获刑并承担生态修复赔偿责任。目前该判决已生效。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676616.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:04:18.000Z"
+      "publishedAt": "2026-08-12T14:11:18.000Z"
     },
     {
-      "id": "fb3df086877c",
-      "title": "外交部：希望柬泰双方相向而行 通过友好协商和平解决边境争端",
-      "summary": "中新网8月12日电 据外交部网站消息，2026年8月12日外交部发言人郭嘉昆答记者问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676559.shtml",
+      "id": "dd8a491e303e",
+      "title": "广西三江侗乡：金色稻浪映丰年",
+      "summary": "图为当地稻田风光。龚普康 摄 图为收割机在田间作业。龚普康 摄 图为收割机在田间作业。龚普康 摄 图为收割机在田间作业。龚普康 摄 图为稻田里一簇簇饱满的稻穗。龚普康 摄 图为当地稻田风光。龚普康 摄 图为当地稻田风光。龚普康 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676652.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:02:46.000Z"
+      "publishedAt": "2026-08-12T14:10:48.000Z"
     },
     {
-      "id": "0b5a6f9c1651",
-      "title": "（台海观澜）台农深耕宁德霞浦沃土共兴现代农业",
-      "summary": "中新社福建宁德8月12日电 题：台农深耕宁德霞浦沃土共兴现代农业",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676564.shtml",
+      "id": "2a3e1b080c7a",
+      "title": "（粤港澳大湾区）广深港高铁运送跨境旅客提前11天突破2000万人次",
+      "summary": "中新社深圳8月12日电 (索有为 马鑫宇)据深圳铁路部门12日发布的统计数据，截至8月10日，广深港高铁今年累计运送跨境旅客达2005.4万人次，比去年提前11天突破2000万人次大关。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-12/10676621.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:02:36.000Z"
+      "publishedAt": "2026-08-12T14:10:38.000Z"
     },
     {
-      "id": "4daded2820c3",
-      "title": "外交部回应中国车企在西班牙建厂：愿继续深化两国务实合作",
-      "summary": "中新网8月12日电 据外交部网站消息，2026年8月12日，外交部发言人郭嘉昆答记者问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676558.shtml",
+      "id": "4f1b81ecb4bb",
+      "title": "初秋时节景正好 长春百年梨园引客来",
+      "summary": "8月12日，长春莲花山百年梨园内，游客在小憩。中新社记者 张瑶 摄 8月12日，长春莲花山百年梨园内，小朋友在荡秋千。中新社记者 张瑶 摄 8月12日，长春莲花山百年梨园内，游客在打卡拍照。中新社记者 张瑶 摄 8月12日，长春莲花山百年梨园内，游客在散步。中新社记者 张瑶 摄 8月12日，长春莲花山百年梨园内，游客在荡秋千。中新社记者 张瑶 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676650.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:02:20.000Z"
+      "publishedAt": "2026-08-12T14:10:06.000Z"
     },
     {
-      "id": "06ea6b4984bd",
-      "title": "中老铁路中国段Ⅱ级防洪地点见闻：山高路险渡风雨",
-      "summary": "中新网玉溪8月12日电 题：中老铁路中国段Ⅱ级防洪地点见闻：山高路险渡风雨",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676568.shtml",
+      "id": "8f83150e237e",
+      "title": "陕南地区宠物饲料首次出海",
+      "summary": "中新网西安8月12日电 (记者 张一辰)记者12日从西安海关获悉，经该关所属汉中海关查验放行，由陕西安康一企业生产的猫粮、犬粮顺利启运发往马来西亚。这是陕南地区宠物饲料产品首次走出国门。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676647.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:01:54.000Z"
+      "publishedAt": "2026-08-12T14:09:00.000Z"
     },
     {
-      "id": "32aa395a1b03",
-      "title": "13日全天北京公交专用道仍可借用 14日恢复常态",
-      "summary": "8月12日20时，北京市气象部门解除暴雨橙色预警，全市同步结束防汛二级应急响应。记者从北京市交通委获悉，随着暴雨预警解除，全市交通运行秩序有序恢复。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676581.shtml",
+      "id": "77ed67f5a54e",
+      "title": "上海清算所美国国债新发债券指数首次应用于存款类产品发行",
+      "summary": "中新社上海8月12日电 (记者 姜煜)记者12日从银行间市场清算所股份有限公司(“上海清算所”)获悉，上海浦东发展银行股份有限公司(“浦发银行”)近日成功落地中国金融市场首笔挂钩上海清算所美国国债新发债券指数的结构性存款。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676617.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T13:01:04.000Z"
+      "publishedAt": "2026-08-12T14:08:04.000Z"
     },
     {
-      "id": "d37cc93ec0ea",
-      "title": "新能源汽车月度新车销量占比首超60%",
-      "summary": "新华社北京8月12日电(记者唐诗凝)中国汽车工业协会12日发布数据显示，2026年7月份，新能源汽车月度新车销量占比首次超过60%、累计占比首次超过50%；月度出口量连续两个月突破100万辆，新能源汽车出口占比连续两个月超过50%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676573.shtml",
+      "id": "d709ae1c526f",
+      "title": "广西62支队伍角逐2026年“数据要素×”大赛广西分赛决赛",
+      "summary": "中新网南宁8月12日电(梁雨诗 韦佳秀)2026年“数据要素×”大赛广西分赛决赛近日在广西开展。62支从初赛中脱颖而出的队伍通过项目路演、技术答辩等环节，角逐全国总决赛推荐资格。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676646.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T12:59:15.000Z"
+      "publishedAt": "2026-08-12T14:07:42.000Z"
+    },
+    {
+      "id": "684445866bbb",
+      "title": "中国地震局：哥伦比亚7.5级地震发生于三大板块交汇区域 为逆冲兼走滑型破裂",
+      "summary": "中新网北京8月12日电 (记者 孙自法)中国地震局8月12日晚向媒体通报说，哥伦比亚8月10日7.5级地震发生在纳斯卡、加勒比与南美三大板块的交汇区域，是发生在俯冲板片内部的一次中源地震。其震源机制结果显示，此次地震为逆冲兼走滑型破裂。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676655.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T14:07:32.000Z"
+    },
+    {
+      "id": "91db8cff4df1",
+      "title": "8月13日24时起北京77条临时避险道路终止应急避险服务",
+      "summary": "中新网北京8月12日电 (记者 吕少威)8月12日20时，北京市气象部门解除暴雨橙色预警，全市同步结束防汛二级应急响应。记者当天从北京市交通委获悉，随着暴雨预警解除，全市交通运行秩序有序恢复。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676645.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T14:07:16.000Z"
+    },
+    {
+      "id": "8ec692deaf9d",
+      "title": "印度孟买郊区山体滑坡 至少7人死亡多人受伤",
+      "summary": "中新社北京8月12日电 新德里消息：据当地媒体12日报道，印度孟买郊区一处居民区当天凌晨遭遇山体滑坡，目前已造成至少7人死亡，另有多人受伤。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676659.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T14:06:38.000Z"
+    },
+    {
+      "id": "071cce037f8e",
+      "title": "海关AEO“金字招牌”拉动武汉自贸片区外贸猛增",
+      "summary": "中新网武汉8月12日电 (万宇 周静 郭俐)据武汉海关12日消息，2026年上半年，中国(湖北)自由贸易试验区武汉片区(简称“武汉自贸片区”)的企业数量保持快速增长，已达5371家；武汉自贸片区进出口货值1578.86亿元，同比增长55.57%，累计占湖北省外贸比重的36.75%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676644.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T14:06:38.000Z"
+    },
+    {
+      "id": "062fea7a9939",
+      "title": "Why we’re going back to the games of our youth",
+      "summary": "As millennials return to the games of their youth, remakes of Star Fox and Halo suggest there is still plenty to learn from the past • Don’t get Pushing Buttons delivered to your…",
+      "url": "https://www.theguardian.com/games/2026/aug/12/why-were-going-back-to-the-games-of-our-youth",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-12T14:00:30.000Z"
+    },
+    {
+      "id": "d4da0316c9b5",
+      "title": "Global energy watchdog warns oil stockpiles ‘rapidly depleting’ – as it happened",
+      "summary": "The International Energy Agency calls for urgent reopening of the strait of Homuz amid ongoing pressure on global oil supplies Opec has lowered its full-year forecast for world o…",
+      "url": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-12T13:54:16.000Z"
     },
     {
       "id": "a6c6e59f5822",
@@ -280,78 +380,8 @@
       "publishedAt": "2026-08-12T12:59:02.000Z"
     },
     {
-      "id": "02bfe24acac3",
-      "title": "强降雨持续影响多地 各地各部门以“雨”为令全力保通保畅保安全",
-      "summary": "央视网消息：入汛以来，北京降雨明显偏多，短时强降雨、冰雹等极端天气频发。针对严峻防汛形势，北京交通部门依托智慧调度、应急值守等多项举措，守护市民及游客出行安全。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676572.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T12:58:25.000Z"
-    },
-    {
-      "id": "aca46be4e3e2",
-      "title": "“白海豚”余威北上 山西连发暴雨山洪地质灾害预警",
-      "summary": "中新社太原8月12日电 (记者 李庭耀)受台风“白海豚”残余环流影响，山西多地迎来强降雨。该省气象台12日10时30分变更暴雨蓝色预警。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676565.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T12:55:19.000Z"
-    },
-    {
-      "id": "c1a295909f72",
-      "title": "四川省乐山市人民医院原党委副书记、院长庞波主动投案 接受纪律审查和监察调查",
-      "summary": "中新网成都8月12日电 (记者 张浪)四川省乐山市纪委监委12日消息：乐山市人民医院原党委副书记、院长庞波涉嫌严重违纪违法，主动投案，目前正接受乐山市纪委监委纪律审查和监察调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676563.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T12:54:11.000Z"
-    },
-    {
-      "id": "f44054870b5e",
-      "title": "装载650吨国产工程船的外轮从上海口岸出发驶向尼日利亚",
-      "summary": "中新网上海8月12日电 (陈静 陆璇璇)12日，在上海龙吴口岸关港码头，一艘装载了总重达650吨“巨无霸”国产工程船的荷兰籍“佩雷斯河”轮，在完成出境边防检查手续后，缓缓离泊，驶向尼日利亚。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676561.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T12:53:43.000Z"
-    },
-    {
-      "id": "bcf80da7e03c",
-      "title": "53个非洲建交国零关税落地3个月 广州海关关区进口享惠货值超7.3亿元",
-      "summary": "中新网广州8月12日电 (许青青 关悦)截至8月1日，我国对53个非洲建交国全面实施零关税举措落地满3个月。据广州海关12日发布的统计，5月1日至7月31日，广州海关关区自53个非洲建交国进口享惠货值超7.3亿元，企业享受税款减让超0.8亿元。其中，自20个不属于最不发达国家的非洲建交国进口享惠货值超4.7亿元，减让税款超0.5亿元。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676557.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T12:52:45.000Z"
-    },
-    {
-      "id": "681842c49a39",
-      "title": "湖北保康S468省道发生多处塌方 道路交通中断",
-      "summary": "中新网襄阳8月12日电 (张倩龙 陈泉霖 肖婕)受持续强降雨影响，8月12日13时30分左右，湖北省襄阳市保康县寺坪镇稻场坪路段发生山体垮塌，造成S468省道阻断。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676556.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T12:52:05.000Z"
-    },
-    {
-      "id": "d4da0316c9b5",
-      "title": "Global energy watchdog warns oil stockpiles ‘rapidly depleting’ – business live",
-      "summary": "The International Energy Agency calls for urgent reopening of the strait of Homuz amid ongoing pressure on global oil supplies Opec has lowered its full-year forecast for world o…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-12T12:46:25.000Z"
-    },
-    {
       "id": "fdf53419e429",
-      "title": "US inflation cooled slightly to 3.4% in July, according to latest data",
+      "title": "US inflation cooled slightly to 3.4% in July but prices still elevated",
       "summary": "Energy is cheaper than at its peak in late April, but gas is still nearly $1 a gallon more expensive than before the Iran war US consumer prices cooled slightly in July as the an…",
       "url": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july",
       "source": "The Guardian Business",
@@ -391,7 +421,7 @@
     },
     {
       "id": "a2f0732b894e",
-      "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
+      "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
       "summary": "South African scientist’s breakthrough research shows soil fungus could be used in fight against devastating crop pest Hearing about fields full of dead caterpillars enveloped in…",
       "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
       "source": "The Guardian World",
@@ -568,16 +598,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-12T04:00:20.000Z"
-    },
-    {
-      "id": "e00e47901c73",
-      "title": "British man with dementia told to leave Sweden after losing migration case",
-      "summary": "Exclusive: Horace Mason, 74, who has lived in Sweden for 25 years, faces being deported after court ruling A 74-year-old British man who has been living in Sweden for 25 years wh…",
-      "url": "https://www.theguardian.com/world/2026/aug/12/british-man-dementia-leave-sweden-brexit-migration-case",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T04:00:19.000Z"
     },
     {
       "id": "fc19637f7f8d",
@@ -970,16 +990,6 @@
       "publishedAt": "2026-08-10T09:16:11.000Z"
     },
     {
-      "id": "4dd277a710b3",
-      "title": "Convince an AI it’s not alive in psychological horror game Prove You’re Human",
-      "summary": "Sunset Visitor studio’s founder tells us about their new, unnerving Captcha-filled world which prompts players to ask what it means to have a ‘meat body’ Sunset Visitor is a stud…",
-      "url": "https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-10T09:00:39.000Z"
-    },
-    {
       "id": "8a4573f69b46",
       "title": "SA premier announces royal commission into AI – as it happened",
       "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Police say the remains found in a suitcase near Goulburn are not human. Supt Linda Bradbury w…",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-06T00:35:37.000Z"
-    },
-    {
-      "id": "d81bcddc92bd",
-      "title": "Why I'll never be convinced by Meta's ‘pervert’ glasses | Opinion",
-      "summary": "'Most people don’t want pervert glasses that can film us without our consent,' said a spokesperson from activist group Everyone Hates Elon. The group has launched a series of gue…",
-      "url": "https://www.theguardian.com/technology/video/2026/aug/05/meta-pervert-glasses-opinion-video",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-05T14:13:33.000Z"
     }
   ]
 }
