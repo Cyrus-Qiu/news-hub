@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T19:41:30.214Z",
+  "updatedAt": "2026-08-12T20:56:24.980Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,34 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "9a6cc2ec1044",
+      "title": "Australia politics live: tech giants face law to pay for news content; Australia joins call for Iran to end death penalty",
+      "summary": "News bargaining bill expected to pass parliament after Labor and Coalition agree on terms that will force tech companies to contribute to media outlets. Follow today’s news live…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+      "source": "The Guardian World",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-12T20:36:19.000Z"
+    },
+    {
       "id": "8600667e5f23",
       "title": "Europe solar eclipse live: millions watch rare spectacle across Spain, UK and Iceland",
-      "summary": "Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality in Land’s End, Cornwall The roads and car parks of west and north Cornwal…",
+      "summary": "Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality Solar eclipse 2026 across Europe: in pictures in Land’s End, Cornwall The…",
       "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-12T19:18:56.000Z"
+      "publishedAt": "2026-08-12T20:33:51.000Z"
+    },
+    {
+      "id": "3977c9756dfd",
+      "title": "Cruise ships, quiet towns and an all-day festival: millions flock to eclipse viewing spots across Europe",
+      "summary": "Beginning in Russia’s remote Arctic north, the eclipse traced an arc over much of western Europe – with the best views in Spain, Iceland and Greenland It was a moment of awe shar…",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/aug/12/cruise-ships-quiet-towns-and-an-all-day-festival-millions-flock-to-eclipse-viewing-spots-across-europe",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-12T19:56:41.000Z"
     },
     {
       "id": "d3815b8c1794",
@@ -68,6 +88,16 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-12T18:00:41.000Z"
+    },
+    {
+      "id": "d8c6736115f6",
+      "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
+      "summary": "A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are useful Japan’s yen has slid back towards 160 to the dollar, de…",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/the-guardian-view-on-japans-yen-trump-wants-to-keep-the-easy-money-machine-running",
+      "source": "The Guardian Business",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-12T17:39:46.000Z"
     },
     {
       "id": "eb14045dfcf6",
@@ -178,16 +208,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-12T15:00:33.000Z"
-    },
-    {
-      "id": "8b9a03a825ab",
-      "title": "Coalition plan to scrap energy rules for new houses condemned as ‘cost-of-living timebomb’",
-      "summary": "Proposal to cut building costs by scrapping the construction code would increase bills for the poorest households, critics say Get our breaking news email , free app or daily new…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/coalition-housing-energy-standards-national-construction-code-new-homes",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T15:00:32.000Z"
     },
     {
       "id": "4c8fdb5a3d72",
@@ -670,16 +690,6 @@
       "publishedAt": "2026-08-12T04:43:19.000Z"
     },
     {
-      "id": "197b91df65e0",
-      "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
-      "summary": "Verdant thinktank says cost could top £25bn a year by 2030 and calls for maximum temperature for working and urban redesign to cool down cities Repeated debilitating heatwaves th…",
-      "url": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T04:00:20.000Z"
-    },
-    {
       "id": "fc19637f7f8d",
       "title": "Passenger jet billed as China’s answer to Boeing and Airbus prepares to make first international flight",
       "summary": "The Comac C919 will fly from Beijing to Ulaanbaatar in Mongolia, although experts say it could take generations for it to challenge the west’s dominance of the industry China hop…",
@@ -1158,16 +1168,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-07T13:00:18.000Z"
-    },
-    {
-      "id": "9481d4288275",
-      "title": "Bari Weiss’s overhaul of CBS News has been rocky. But her 60 Minutes revamp will be the ultimate test",
-      "summary": "Ten months into her tenure as editor in chief, Weiss’s biggest – and riskiest – bet is getting closer to taking flight Bari Weiss is 10 months into her tenure as editor-in-chief…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/bari-weiss-cbs-news-60-minutes",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-07T11:00:17.000Z"
     },
     {
       "id": "06cbc6a8a7f5",
