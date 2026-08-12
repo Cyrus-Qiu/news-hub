@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:55:47.365Z",
+  "updatedAt": "2026-08-12T22:53:11.649Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,84 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "38159f9ea96b",
+      "title": "已致刚果（金）两千余人死亡 世卫：或为有记录以来最致命埃博拉疫情",
+      "summary": "世界卫生组织总干事谭德塞8月12日警告，如果刚果(金)埃博拉疫情维持当前传播速度，其规模可能超过2014年至2016年西非埃博拉疫情，成为有记录以来最致命的埃博拉疫情。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676694.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T22:46:42.000Z"
+    },
+    {
+      "id": "aa37fef28792",
+      "title": "美国国务院成立特别工作组遏止“生育旅游”",
+      "summary": "中新社华盛顿8月12日电 美国国务院当地时间12日发表声明说，国务院已成立特别工作组，以打击针对赴美生育从而使新生儿获得美国公民身份的“生育旅游”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676693.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T22:44:50.000Z"
+    },
+    {
       "id": "9a6cc2ec1044",
-      "title": "Australia politics live: Rio Tinto given $2.5bn bailout for Australia’s largest aluminium smelter; tech giants face law to pay for news content",
-      "summary": "Tim Ayres says bailout means the facility will remain operational until 2039. Follow today’s news live Get our breaking news email , free app or daily news podcast Bragg was shar…",
+      "title": "Australia politics live: Andrew Bragg says low-income earners should accept they will live in substandard housing; Rio Tinto given $2.5bn bailout",
+      "summary": "Shadow housing minister defends speech after criticism move would lock disadvantaged into skyrocketing power bills. Follow today’s news live Get our breaking news email , free ap…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-12T22:44:44.000Z"
+    },
+    {
+      "id": "a7202bf245b6",
+      "title": "中国智能网联汽车为何发展快",
+      "summary": "今年以来，L2级组合驾驶辅助功能乘用车渗透率达到70.5%——",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676692.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T22:38:22.000Z"
+    },
+    {
+      "id": "3610d0e3d657",
+      "title": "Pay with a glance at a screen as biometric technology company begins push into Australian retail",
+      "summary": "Customers will be able to pay using face and palm scans, potentially speeding up transactions – but rollout of the technology is likely to be slow Get our breaking news email , f…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/pay-with-a-glance-at-a-screen-as-biometric-technology-company-begins-push-into-australian-retail",
       "source": "The Guardian World",
       "category": "科技",
       "language": "en",
-      "publishedAt": "2026-08-12T21:40:17.000Z"
+      "publishedAt": "2026-08-12T22:30:41.000Z"
+    },
+    {
+      "id": "f3427f911bd2",
+      "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
+      "summary": "当地时间12日，伊朗“波斯湾海峡管理局”表示，美国官员反复声称霍尔木兹海峡已重新开放，但这并不能改变事实。霍尔木兹海峡仍然关闭，除非美国接受伊朗提出的条件，否则该海峡不会重新开放。(总台记者 李健南)",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676691.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T22:26:17.000Z"
+    },
+    {
+      "id": "8ad9491e1afd",
+      "title": "Ignore the doomsdayers – property investing in Australia is far from broken",
+      "summary": "Investor loan applications may have fallen since the start of the year, but the slump already appears to be turning around Get our breaking news email , free app or daily news po…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/property-investors-australia-tax-negative-gearing-rba-interest-rates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-12T22:24:28.000Z"
+    },
+    {
+      "id": "54f083eedae6",
+      "title": "卡内余额不能买折扣商品？警惕预付卡变“闹心卡”！",
+      "summary": "商家未提前告知充值卡只能买正价商品，并称“顾客没有问，所以没有说”",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676690.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-12T22:18:55.000Z"
     },
     {
       "id": "f6ff8e5d9d6f",
@@ -182,7 +252,7 @@
     {
       "id": "13b3ce189ea7",
       "title": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?",
-      "summary": "Following Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their bot…",
+      "summary": "After Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their bots Fo…",
       "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
       "source": "The Guardian Technology",
       "category": "AI",
@@ -194,26 +264,6 @@
       "title": "What’s behind Sydney airport’s heavy delays and near-miss incident?",
       "summary": "Air traffic controllers are short-staffed and exhausted – and new recruits face a difficult aptitude test and must train in Melbourne Follow our Australia news live blog for late…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/13/whats-behind-sydney-airports-heavy-delays-and-near-miss-incident",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T15:00:33.000Z"
-    },
-    {
-      "id": "13f076c63c6d",
-      "title": "ABC changing editorial policy after Rinehart furore prompts fears of overreach from academics and advocates",
-      "summary": "Managing director says guidelines will ensure no individual will ‘be the subject of comedy that is violent in its description in our programming’ Follow our Australia news live b…",
-      "url": "https://www.theguardian.com/media/2026/aug/13/abc-changing-editorial-policy-after-rinehart-furore-prompts-concerns-of-overreach-from-academics-and-advocates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T15:00:33.000Z"
-    },
-    {
-      "id": "564509dccc6e",
-      "title": "Victorian police investigate allegation a car drove deliberately at speed towards anti-racism protester",
-      "summary": "Exclusive: ‘Peaceful community rally’ of more than 150 people was walking in Broadmeadows when car travelling in same direction allegedly approached Follow our Australia news liv…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/anti-racism-protest-melbourne-car-police-response-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
@@ -478,56 +528,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-12T14:13:44.000Z"
-    },
-    {
-      "id": "9570d9074111",
-      "title": "今年以来中欧班列“中通道”通行量突破3000列",
-      "summary": "中新网呼和浩特8月12日电 (记者 李爱平)中国铁路呼和浩特局集团有限公司12日对外发布消息称，当日，1295次中欧班列从内蒙古自治区二连浩特铁路口岸驶出，标志着该口岸今年以来通行中欧班列数量突破3000列。",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-12/10676648.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:12:58.000Z"
-    },
-    {
-      "id": "75ec672668a0",
-      "title": "辽宁省挂牌督办朝阳市3人中毒死亡事故",
-      "summary": "辽宁省安全生产委员会发布的《较大生产安全事故查处挂牌督办通知书》披露，2026年8月5日19时3分许，位于辽宁朝阳市建平县万寿街道老西店村的建平县鑫隆泰牧业有限公司，在操作化粪池附近的积液池阀门时，发生一起中毒事故，造成3人死亡。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676664.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:12:42.000Z"
-    },
-    {
-      "id": "a22b15e5dc2b",
-      "title": "“羊妞”过生日，象粪变文创 云南西双版纳野象谷玩出新花样",
-      "summary": "图为“与象同学”科普互动现场。胡铮 摄 图为小朋友现场体验象粪制陶。胡铮 摄 图为亚洲象现场品尝水果宴。胡铮 摄 图为志愿者现场给亚洲象投喂水果。胡铮 摄 图为网红亚洲象“羊妞 ”享用特制生日蛋糕。白晨玥 摄 图为游客观看“亚洲象与我们”主题展。胡铮 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676654.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:12:38.000Z"
-    },
-    {
-      "id": "272c506a1140",
-      "title": "中国香港海关与巴基斯坦海关签订海关合作安排",
-      "summary": "中新社香港8月12日电 据香港特区政府新闻处12日消息，香港海关关长陈子达当日在香港海关总部大楼，以线上线下模式签订香港海关与巴基斯坦海关的海关合作安排。巴基斯坦海关关长Syed Shakeel Shah(赛义德·沙克尔·沙哈)及其代表团在线上见证整个过程，巴基斯坦驻香港总领事谢赫(Riaz Ahmed Shaikh)在线下出席签署仪式。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-12/10676618.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:12:22.000Z"
-    },
-    {
-      "id": "b52b71ce5fd3",
-      "title": "“东升西降”重塑台海博弈 两岸专家指新格局凸显时势在大陆",
-      "summary": "中新社北京8月12日电 (记者 李百加 刘大炜)第十一届京台学者共研会12日在北京举办。与会两岸专家表示，在百年变局深入演进、“东升西降”大势持续深化的时代背景下，台海新格局加速成形，凸显时势在大陆。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676643.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:12:02.000Z"
     },
     {
       "id": "062fea7a9939",
