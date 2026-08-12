@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T18:29:21.360Z",
+  "updatedAt": "2026-08-12T19:41:30.214Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,13 +31,53 @@
   "articles": [
     {
       "id": "8600667e5f23",
-      "title": "Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland",
-      "summary": "Eclipse to be witnessed by tens of millions across western Europe as enthusiasts gather along path of totality in Land’s End, Cornwall The roads and car parks of west and north C…",
+      "title": "Europe solar eclipse live: millions watch rare spectacle across Spain, UK and Iceland",
+      "summary": "Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality in Land’s End, Cornwall The roads and car parks of west and north Cornwal…",
       "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-12T18:11:05.000Z"
+      "publishedAt": "2026-08-12T19:18:56.000Z"
+    },
+    {
+      "id": "d3815b8c1794",
+      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+      "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over h…",
+      "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-12T18:46:30.000Z"
+    },
+    {
+      "id": "85862172dc3e",
+      "title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
+      "summary": "Organisers says new rule will ensure contest provides ‘safe and welcoming environment’ for participants Broadcasters will no longer be eligible to host the Eurovision song contes…",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-12T18:20:55.000Z"
+    },
+    {
+      "id": "1641420a44ae",
+      "title": "Greenland forces Trump-linked US oil firm to delay drilling",
+      "summary": "US envoy had claimed Americans could be extracting crude by as early as next year Greenland authorities have forced a US oil company connected to Donald Trump to postpone drillin…",
+      "url": "https://www.theguardian.com/world/2026/aug/12/trump-greenland-oil",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-12T18:00:41.000Z"
+    },
+    {
+      "id": "eb14045dfcf6",
+      "title": "Trump sued over $100,000-a-month early-access offer to Truth Social posts",
+      "summary": "Suit alleges subscription offer aims to sell privileged access to information generated in president’s official capacity Donald Trump has been sued after a subscription service c…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-12T17:30:21.000Z"
     },
     {
       "id": "93a2529732e1",
@@ -468,16 +508,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-12T14:00:30.000Z"
-    },
-    {
-      "id": "a6c6e59f5822",
-      "title": "Massive bailout for Australia’s largest aluminium smelter to be announced by PM and NSW premier",
-      "summary": "Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract Follow our Australia news live blog for l…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T12:59:02.000Z"
     },
     {
       "id": "fdf53419e429",
@@ -990,16 +1020,6 @@
       "publishedAt": "2026-08-10T12:00:43.000Z"
     },
     {
-      "id": "cf739f7a4f2d",
-      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
-      "summary": "Gabar Choli tells of how, for months, he was shackled, pinned and forcibly fed – and the physical and emotional scars the ordeal has left In June 2025, a sluggish and thin Gabar…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-10T10:00:43.000Z"
-    },
-    {
       "id": "1e68297ffe92",
       "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
       "summary": "Drought and wildfires intensify across continent, while tropical storms bring heavy rain and disruption to east Asia High pressure has dominated central and eastern Europe in ear…",
@@ -1058,16 +1078,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-10T05:00:36.000Z"
-    },
-    {
-      "id": "548635189d66",
-      "title": "Sydney’s sugar rush: how the colony’s most powerful profited from Australia’s slave trade",
-      "summary": "Australia likes to think its history is untainted by slavery but a new book traces how a who’s who in the NSW capital profited from the capture and sale of ‘blackbirded’ Pacific…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/10/sydney-sugar-industry-slave-trade-pacific-islanders-ntwnfb",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-09T15:00:18.000Z"
     },
     {
       "id": "4851e70c338e",
@@ -1198,16 +1208,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-06T13:34:05.000Z"
-    },
-    {
-      "id": "c80fc8414f49",
-      "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
-      "summary": "When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial security Americans may seem increasingly divided on beliefs and…",
-      "url": "https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-06T11:00:50.000Z"
     },
     {
       "id": "e3cf2a4563c0",
