@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T02:38:06.926Z",
+  "updatedAt": "2026-08-13T04:59:15.119Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,74 +30,374 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "a5d22793d23d",
-      "title": "运动干预新方案从源头减少老人跌倒概率",
-      "summary": "科技日报哈尔滨8月12日电 (记者朱虹 通讯员衣晓峰)记者12日从哈尔滨医科大学获悉，该校田懋一教授团队依托发表于《美国医学会杂志》的全国农村老人跌倒预防(FAMILY)大型试验，针对1706名患有高血压、心脏病的农村高龄老人，完成二次分析，为基层推出低成本、易落地的老年防跌倒运动干预方案。相关研究12日在线刊发于国际期刊《年龄和老龄化》。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-13/10676810.shtml",
+      "id": "27e6bc688286",
+      "title": "三峡枢纽2026年通过量已达1亿吨",
+      "summary": "中新社湖北宜昌8月13日电 (杨博钧 蒋艳玲)长江三峡通航管理局最新统计数据显示，截至8月13日0时40分，三峡枢纽2026年通过量已达1亿吨。其中，三峡船闸通过船舶21562艘次，通过量9727.6万吨；三峡升船机通过船舶2590艘次、旅客44.6万人次，通过量272.4万吨。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676905.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-13T02:30:12.000Z"
+      "publishedAt": "2026-08-13T04:51:11.000Z"
     },
     {
-      "id": "1a3d7d916b1c",
-      "title": "一男子在商业区偷拍女性 太原警方：违法人员已被行拘",
-      "summary": "中新网8月13日电 太原市公安局迎泽分局8月12日在其官方微博发布警情通报称，近日，该局在工作中发现网民反映“一男子在柳巷商业区偷拍女性”的情况后，迅速组织警力开展调查处置。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676794.shtml",
+      "id": "7f26c5869787",
+      "title": "水利部：全国58条河流仍维持超警",
+      "summary": "今天上午，水利部举行会商，分析研判全国的防汛形势，今天全国58条河流仍维持超警，长江、淮河流域部分主要河流将出现明显涨水过程。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676906.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-13T02:28:56.000Z"
+      "publishedAt": "2026-08-13T04:50:33.000Z"
     },
     {
-      "id": "b3e05bfb50cf",
-      "title": "泽连斯基通报乌军夜间行动：俄海军基地、粮食出口码头遭突袭",
-      "summary": "中新网8月13日电 综合外媒报道，乌克兰总统泽连斯基当地时间12日表示，乌军对黑海沿岸的俄罗斯海军基地、港口基础设施等实施了夜间突袭。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676803.shtml",
+      "id": "614a4f1f15ae",
+      "title": "（走进中国乡村）平陆运河起点古村焕新生 水运复苏催生新业态",
+      "summary": "中新社南宁8月13日电 题：平陆运河起点古村焕新生 水运复苏催生新业态",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676892.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-13T02:24:58.000Z"
+      "publishedAt": "2026-08-13T04:47:59.000Z"
     },
     {
-      "id": "2215e6b0114d",
-      "title": "山东“铅衣卫士”负重前行 以先进技术护佑儿童健康",
-      "summary": "中新网济南8月13日电 题：山东“铅衣卫士”负重前行 以先进技术护佑儿童健康",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-13/10676796.shtml",
+      "id": "12f1430b80bc",
+      "title": "“两弹一星功勋奖章”获得者王希季逝世 享年105岁",
+      "summary": "沉痛悼念王希季院士｜牧星耕宇一生报国，丹心昭昭永耀星河",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676902.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-13T02:22:58.000Z"
+      "publishedAt": "2026-08-13T04:44:01.000Z"
     },
     {
-      "id": "886cce630eb7",
-      "title": "滁河、沙颍河发生2026年第1号洪水",
-      "summary": "受降雨影响，长江下游支流滁河、淮河中游支流沙颍河分别发生2026年第1号洪水。",
-      "url": "https://www.chinanews.com.cn/kong/2026/08-13/10676805.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:22:32.000Z"
+      "id": "9a6cc2ec1044",
+      "title": "Australia politics live: Taylor’s staffer berates journalist for asking about Icac; Coalition again targets Albanese over melon comments in question time",
+      "summary": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email , free app or dail…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-13T04:42:29.000Z"
     },
     {
-      "id": "082560a22392",
-      "title": "支持“国家项目”坐享380万元红利？ 17人犯诈骗罪被判刑",
-      "summary": "假借爱国名义 伪造红头文件 虚构巨额福利",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676802.shtml",
+      "id": "c4f91b418248",
+      "title": "持续降雨影响交通出行 三省市12个路段封闭管控",
+      "summary": "连日来，全国范围内多地持续降雨，对交通出行带来了不小影响。截至今天9时，北京、山西、湖北的12个路段封闭管控。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676899.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-13T02:20:18.000Z"
+      "publishedAt": "2026-08-13T04:32:16.000Z"
     },
     {
-      "id": "07efde77591d",
-      "title": "专访李亚鹏、王林海：一茶一世界，茶席“开明堂”",
-      "summary": "中新网北京8月13日电 题：专访李亚鹏、王林海：一茶一世界，茶席“开明堂”",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-13/10676793.shtml",
+      "id": "16cc1ca9d67e",
+      "title": "生态环境部：“十五五”时期 应对气候变化将聚焦“五个重点”",
+      "summary": "中新网8月13日电 国务院新闻办公室8月13日举行“开局起步‘十五五’”系列主题新闻发布会，介绍全面推进美丽中国建设有关情况。生态环境部副部长李高介绍，“十五五”时期是实现碳达峰的决胜期，也是落实2035年国家自主贡献的关键期，将聚焦“五个重点”，统筹推进应对气候变化和碳达峰碳中和工作。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676875.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-13T02:20:14.000Z"
+      "publishedAt": "2026-08-13T04:31:04.000Z"
+    },
+    {
+      "id": "57f09b5a23eb",
+      "title": "勇立潮头大湾区丨港铁上的“超级耳朵”！让世界听见大湾区创新脉搏",
+      "summary": "视频：勇立潮头大湾区丨港铁上的“超级耳朵”！让世界听见大湾区创新脉搏来源：大湾区之声",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-13/10676872.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T04:22:32.000Z"
+    },
+    {
+      "id": "9d0b6411ed2a",
+      "title": "将学习教育成果固化为制度机制（树立和践行正确政绩观）",
+      "summary": "各地区各部门各单位持续深入开展树立和践行正确政绩观学习教育——",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676891.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T04:09:27.000Z"
+    },
+    {
+      "id": "e08f57beb621",
+      "title": "探索“红灯停表”等 京沪共治外卖平台“内卷式”竞争",
+      "summary": "今天(13日)，记者从北京市市场监督管理局获悉，平台经济“破卷向善”第二次协商对话在京召开。京沪两地市场监管部门围绕外卖骑手算法优化，组织三家外卖平台与骑手共商共治，同时邀请专家学者、人大代表等多方协商优化举措，进一步保护外卖骑手合法权益，推动行业从“速度竞赛”转向“质量竞争”，围绕算法评估优化、加强管理引导、常态化协商共治等三方面推出一系列措施。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676890.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T04:02:27.000Z"
+    },
+    {
+      "id": "f5b2d8613014",
+      "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
+      "summary": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls, the ghost of the current p…",
+      "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-13T04:00:49.000Z"
+    },
+    {
+      "id": "8e4d0b5c5df8",
+      "title": "A股午评：超3000只个股飘绿，三大指数集体收涨",
+      "summary": "；创新药、CPO概念爆发，生物科技、通信设备、半导体上涨；贵金属领跌，油气、房地产下跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676881.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:57:10.000Z"
+    },
+    {
+      "id": "66cb3d562379",
+      "title": "李世民为何要开凿彬州大佛寺石窟？",
+      "summary": "中新社记者 阿琳娜",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-13/10676889.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:55:42.000Z"
+    },
+    {
+      "id": "00ff52094db2",
+      "title": "今年三峡枢纽通过量已达1亿吨",
+      "summary": "记者从长江三峡通航管理局了解到，截至2026年8月13日0时40分，三峡枢纽通过量达1亿吨。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676885.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:41:43.000Z"
+    },
+    {
+      "id": "b7dc5131bf0b",
+      "title": "美国7月CPI数据出炉 美媒：通胀仍处高位民众继续承压",
+      "summary": "中新网8月13日电 综合报道，当地时间12日，美国劳工部发布的数据显示，美国7月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.1%，6月出现的环比下降未能持续。美媒指出，美国通胀仍处高位，民众在多个方面继续承压。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676874.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:39:57.000Z"
+    },
+    {
+      "id": "d9b87e584346",
+      "title": "（长江十年行）碧水入赣，十年实践何以写就“江”来答卷？",
+      "summary": "中新网南昌8月13日电 题：碧水入赣，十年实践何以写就“江”来答卷？",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676879.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:36:45.000Z"
+    },
+    {
+      "id": "c04e4d60fce4",
+      "title": "生态环境部：确保到2030年全国森林覆盖率达到25.8%",
+      "summary": "中新网8月13日电 国务院新闻办公室8月13日举行“开局起步‘十五五’”系列主题新闻发布会，介绍全面推进美丽中国建设有关情况。生态环境部部长黄润秋介绍，《美丽中国建设“十五五”规划》明确提出，强化生态保护与修复统一监管，加强重要生态空间定期遥感监测，开展生态保护修复成效评估，持续推进“绿盾”行动，并围绕生态系统保护与修复部署一批重大工程项目。确保到203…",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676861.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:32:54.000Z"
+    },
+    {
+      "id": "8be1f0732d94",
+      "title": "企业如何智能化转型？“5A框架”发布",
+      "summary": "人民网廊坊8月12日电 (记者李君强、张腾扬)2026数智经济论坛8月12日在河北廊坊市举行。论坛上，主办方人民日报文化科技有限公司发布了企业智能化转型“5A框架”，助力企业在人工智能时代业务模式、组织形态和服务体系的全面创新。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676873.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:30:30.000Z"
+    },
+    {
+      "id": "629b8ae7a54b",
+      "title": "山东产业援疆助喀什民众就地就近就业增收",
+      "summary": "中新网新疆喀什8月13日电 (贾志鹏)当前，走进新疆喀什地区各援疆产业园，纺纱车间的机杼声此起彼伏；数据标注工作室里，青年员工指尖飞速敲击键盘；牛仔服饰生产线上，工人有序完成成衣缝制……",
+      "url": "https://www.chinanews.com.cn/mz/2026/08-13/10676865.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:27:50.000Z"
+    },
+    {
+      "id": "55eff34078a0",
+      "title": "小伙改喝“0糖”“无糖”饮料一年多 体重不减反增，血脂升高",
+      "summary": "27岁小伙改喝“0糖”“无糖”饮料一年多 体重不减反增，血脂也升高了",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-13/10676870.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:25:48.000Z"
+    },
+    {
+      "id": "89b23201b1da",
+      "title": "（投资中国）DHL高管：中国市场的重要性正发生结构性升级",
+      "summary": "中新社上海8月13日电 (高志苗)DHL全球货运大中华区首席执行官艾若馨(Aditi Rasquinha)近日线上接受中新社采访时表示，中国市场在DHL全球布局中的重要性正发生结构性升级。“中国是全球供应链的关键环节，并持续向新能源、高端制造、科技电子、AI基础设施、生命科学等更高附加值的产业链环节上移。”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676864.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:25:38.000Z"
+    },
+    {
+      "id": "1b262ad88dc3",
+      "title": "将面食冷冻或冷藏，口感天差地别？",
+      "summary": "“冷冻囤包”风行网络，被称为“懒人早餐天花板”",
+      "url": "https://www.chinanews.com.cn/life/2026/08-13/10676869.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:24:02.000Z"
+    },
+    {
+      "id": "3b2a598c340a",
+      "title": "外国人在非遗体验中感受更鲜活有趣的中国",
+      "summary": "视频：外国人在非遗体验中感受更鲜活有趣的中国来源：新华网客户端",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676801.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:21:58.000Z"
+    },
+    {
+      "id": "f14c01dd2bc7",
+      "title": "美国战略石油储备跌破3亿桶 降至1983年以来最低",
+      "summary": "中新网8月13日电 据美国能源信息局12日发布的周度石油库存数据显示，截至8月7日当周，美国战略石油储备规模降至2.987亿桶，较前一周减少610万桶，跌破3亿桶。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676867.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:20:36.000Z"
+    },
+    {
+      "id": "c3d1cff95a28",
+      "title": "一图速览｜防范台风需要注意什么？遇到城市内涝怎么办？",
+      "summary": "台风季来袭，强风暴雨考验之下，如何科学防范、有效避险成为公众关注焦点。从关注预报、加固门窗，到科学避险、应对内涝，每一步都关乎生命财产安全。了解应对要点，增强防范意识，提前做好准备，学会在极端天气中保护好自己和家人。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676799.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:20:34.000Z"
+    },
+    {
+      "id": "b44df12d5fc0",
+      "title": "731部队原队员证实日军曾在中国埋藏毒气弹",
+      "summary": "侵华日军第七三一部队罪证陈列馆8月12日披露了新整理的罪证史料。原731部队海拉尔支队(满洲第543部队)卫生兵谷崎等的口述证言长达70分钟，证实日军战败前夕曾在中国埋藏大量毒气弹。这为进一步研究日本遗弃化学武器问题提供了加害者的口述证据。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676804.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:20:14.000Z"
+    },
+    {
+      "id": "07a45ab2a44a",
+      "title": "近30年最壯觀日食登場 數百萬英歐民眾抬頭見證",
+      "summary": "在英格蘭康沃爾郡，超過95%的太陽被月球遮蔽；而西班牙部分地區的民眾則有幸見證日全食帶來的震撼景象。",
+      "url": "https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:19:02.000Z"
+    },
+    {
+      "id": "45e1866ad8d8",
+      "title": "文汇时评|经风历雨，读书仍是这么好的事",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676837.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:18:18.000Z"
+    },
+    {
+      "id": "0c0e08953fd2",
+      "title": "中泰警方联合侦破一起跨国信用卡盗刷案",
+      "summary": "中新网8月13日电 据公安部微信公众号消息，近日，公安部与泰国皇家警察总署密切协作，同步对一起专门针对中国公民的重大跨国信用卡盗刷案开展收网行动，摧毁多个犯罪窝点，分别抓获4名中国籍犯罪嫌疑人和5名泰国籍犯罪嫌疑人，取得重大战果。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676863.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:18:06.000Z"
+    },
+    {
+      "id": "5cc7b295dd5d",
+      "title": "好评中国丨6亿观影人次！影院“八仙过海”拓展光影消费新体验",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676841.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:17:44.000Z"
+    },
+    {
+      "id": "0cc2107c50df",
+      "title": "专解难题！“办不成事”窗口是如何“办成事”的？",
+      "summary": "在浙江杭州的政务服务中心，一个名为“办不成事”的窗口，正成为群众和企业解决难题的绿色通道。以往那些部门说不清、材料理不顺、不知该找谁的“疑难杂症”，在这里有了专门受理、协同会商、兜底办结的出口。这个窗口是如何把事办成的？",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676835.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:16:58.000Z"
+    },
+    {
+      "id": "b3ad111a6291",
+      "title": "翠竹新生、电池逐绿：长江上游，两个产业的十年“变形记”",
+      "summary": "丨长江十年行",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676825.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:15:39.000Z"
+    },
+    {
+      "id": "120657ee5201",
+      "title": "把防线筑在狂风暴雨之前——河南防汛一线观察",
+      "summary": "新华社郑州8月12日电 题：把防线筑在狂风暴雨之前——河南防汛一线观察",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676815.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:15:15.000Z"
+    },
+    {
+      "id": "e8e661064c8e",
+      "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
+      "summary": "台灣今年的「城鎮韌性」演習，首度模擬戰時的「斷網」情境，測試海底通訊電纜等關鍵通訊設施受損後的應變能力。對於距離台灣本島約200公里的馬祖居民來說，類似情境曾真實發生，當時「斷網」長達50天。",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:13:24.000Z"
+    },
+    {
+      "id": "fe1014817ea4",
+      "title": "想提高做決定的能力？問問螞蟻吧",
+      "summary": "從很會下決策的螞蟻到有自我意識的果蠅，我們可以從這些令人毛骨悚然的小蟲子身上學到很多關於如何做出更好決定的知識。",
+      "url": "https://www.bbc.com/zhongwen/articles/c39e20rkmnyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-13T03:04:18.000Z"
+    },
+    {
+      "id": "97a39b080c90",
+      "title": "為了安全旅行，女性付出了什麼代價？",
+      "summary": "女性專用房間需求旺盛，而且有時價格更高。這反映出人們為了獲得安全感需要付出怎樣的代價？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckgep55q2ldo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-13T02:58:16.000Z"
+    },
+    {
+      "id": "2d963a119e4a",
+      "title": "Ibac charges police officer accused of repeatedly hitting Indigenous man with Taser during Melbourne arrest",
+      "summary": "Victorian corruption watchdog alleges weapon was used to hit man’s head, with another officer accused of kneeing him in same incident last year Two Victorian police officers have…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/ibac-victoria-police-officers-charged-indigenous-man-taser-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-13T02:40:40.000Z"
     },
     {
       "id": "6b2bd9e14e21",
@@ -110,76 +410,6 @@
       "publishedAt": "2026-08-13T02:16:47.000Z"
     },
     {
-      "id": "1be2e7574a05",
-      "title": "调查显示短视频和网游成中小学生暑期消时“两件套”",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-13/10676798.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:14:40.000Z"
-    },
-    {
-      "id": "b054c9d057a8",
-      "title": "游客因未骑马遭辱骂：涉事人员书面道歉，服务暂停",
-      "summary": "中新网乌兰察布8月13日电 (记者 张林虎)近日，一则游客在内蒙古自治区乌兰察布黄花沟附近游玩时遭马场工作人员辱骂威胁的视频引发关注。事发后，当地文旅部门联合公安机关及属地乡镇迅速介入。目前，涉事人员已向游客书面道歉并取得游客谅解，其牵马服务被暂停。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676789.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:13:20.000Z"
-    },
-    {
-      "id": "64c184e7b963",
-      "title": "宁夏滩羊种质保护实现重大突破 优异种羊拥有永久基因备份",
-      "summary": "中新网银川8月13日电 (记者 于晶)8月12日，7只体细胞克隆滩羊羔羊在宁夏盐池滩羊产业集团朔牧繁育有限公司育种基地健康生长，全部顺利渡过初生、二毛、断奶关键阶段，各项生理指标稳定正常。此举标志宁夏成功建成克隆滩羊群体，滩羊优异种质资源实现“细胞永生、永久备份”，当地特色畜禽种源保护工作迈入全新阶段。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676786.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:12:13.000Z"
-    },
-    {
-      "id": "9a6cc2ec1044",
-      "title": "Australia politics live: Angus Taylor rebukes Andrew Bragg for expressing ‘personal views’ on migration numbers; Chris Minns steps in to deflect melon-gate question to PM",
-      "summary": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email , free app or dail…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-13T02:10:44.000Z"
-    },
-    {
-      "id": "3514fc1aa676",
-      "title": "哥伦比亚强震已致265人死亡",
-      "summary": "中新社北京8月13日电 波哥大消息：哥伦比亚总统德拉埃斯普列亚当地时间12日晚表示，该国10日发生的强震已造成265人死亡、3494人受伤，另有496人失踪。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676776.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:09:43.000Z"
-    },
-    {
-      "id": "9d585d1e2390",
-      "title": "委内瑞拉7月通胀率升至近20%",
-      "summary": "中新社北京8月13日电 加拉加斯消息：委内瑞拉中央银行当地时间12日发表声明称，该国7月通胀率升至19.9%，高于6月的13.8%。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676775.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:09:27.000Z"
-    },
-    {
-      "id": "02919545c5f3",
-      "title": "白宫新闻秘书莱维特将于8月底离任",
-      "summary": "中新社华盛顿8月12日电 (记者 陈孟统)美国总统特朗普12日宣布，白宫新闻秘书莱维特将于8月底离任。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676763.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:09:03.000Z"
-    },
-    {
       "id": "70ddf64fd722",
       "title": "Reformers were ‘spectacularly unsuccessful’ in taking over NSW Liberals, Catholic schools boss says",
       "summary": "Catholic Schools NSW chief executive Dallas McInerney tells Icac corruption inquiry that Christain factional group driven by ‘a calling … a duty’ Follow our Australia news live b…",
@@ -188,186 +418,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-13T02:08:57.000Z"
-    },
-    {
-      "id": "f5e7f24f51df",
-      "title": "58所高校学子在京研学 以智能技术赋能乡村振兴",
-      "summary": "中新网北京8月13日电 由中国乡村发展基金会发起的2026公益未来大学生公益社团集训营日前在北京收官。来自全国58所高校的69名公益社团代表在研学与实践中，把智能技术应用从日常学习延伸到乡村振兴。",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-13/10676783.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:07:11.000Z"
-    },
-    {
-      "id": "d4b0528065a8",
-      "title": "抗过敏药容易形成药物依赖，能不用就不用？丨中新真探",
-      "summary": "中新网8月13日电 抗过敏药(主要指抗组胺药)并无生理成瘾性，临床常用的第二代抗组胺药(如氯雷他定、西替利嗪)安全性极高，不具备阿片类药物或镇静安眠药的成瘾机制。当然，任何药物都应在医生指导下按照疗程和剂量使用，如果需要长期服药，也建议定期复诊评估治疗方案。(来源：@科学辟谣 中国新闻网微博)",
-      "url": "https://www.chinanews.com.cn/life/2026/08-13/10676784.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:05:59.000Z"
-    },
-    {
-      "id": "55ecc874a803",
-      "title": "跳出二元对立窠臼 学者：中国民族事务治理贡献新范式",
-      "summary": "中新社北京8月13日电(记者 杜雅楠)全球200多个国家和地区大多为多民族国家和地区，民族事务治理是共性问题与难题。中央民族大学教授王伟近日接受中新社记者采访时指出，中国推进民族团结进步立法，为多民族国家的民族事务治理贡献独具特色的新范式。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676781.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:03:31.000Z"
-    },
-    {
-      "id": "3d46c152d3a1",
-      "title": "分蓄超额洪水削减洪峰 这张防洪“底牌”你了解多少？",
-      "summary": "记者今早从水利部了解到，根据沙颍河水系来水情况，河南省今天凌晨2时启用漯河舞阳泥河洼蓄滞洪区。泥河洼蓄滞洪区设计蓄洪容积2.38亿立方米。此次启用前，蓄滞洪区内需转移群众已提前全部安全转移。蓄滞洪区是确保流域防洪安全的最后一招“底牌”，什么是蓄滞洪区？一起来了解↓",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676788.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:02:33.000Z"
-    },
-    {
-      "id": "918090d8c613",
-      "title": "美国7月消费者价格指数环比上涨 通胀仍处高位",
-      "summary": "美国劳工部12日发布的数据显示，美国7月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.1%，6月出现的环比下降未能持续。扣除食品和能源，美国7月核心CPI同比上涨2.5%，环比上涨0.2%，而6月为环比持平。多家美国媒体12日指出，美以伊战事引发的能源价格上涨是当前美国通胀难以降低的主要原因。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676787.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T02:01:07.000Z"
-    },
-    {
-      "id": "32d8aeda6cdc",
-      "title": "广东省运会首设铁人三项赛事 开赛首日深圳队包揽四金",
-      "summary": "中新网茂名8月13日电(梁盛 杨珮珮)广东省第十七届运动会铁人三项比赛12日在茂名露天矿生态公园开赛，深圳队表现亮眼，四个组别赛事夺得4金1银2铜。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10676780.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:54:10.000Z"
-    },
-    {
-      "id": "8036449030b4",
-      "title": "日本两条私人饲养的蟒蛇“出逃” 警方紧急搜寻",
-      "summary": "中新网8月13日电 据日本《读卖新闻》报道，当地时间13日5时左右，日本神奈川县川崎市一男子报警称，自己饲养的两条蟒蛇“出逃”，当地警方已展开搜寻。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676777.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:53:40.000Z"
-    },
-    {
-      "id": "80088adb6d59",
-      "title": "中国香水从“被看见”到“被选择”还有多远？",
-      "summary": "证券日报记者 梁傲男",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676779.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:52:28.000Z"
-    },
-    {
-      "id": "a62cc3cf7a5a",
-      "title": "大湾区城市协同激活外贸增长新动能",
-      "summary": "李雯珊",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-13/10676778.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:51:18.000Z"
-    },
-    {
-      "id": "df2d5500e4b7",
-      "title": "侵扰民众生活的“公害” AI外呼乱象亟待治理",
-      "summary": "AI外呼乱象亟待治理",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676774.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:47:22.000Z"
-    },
-    {
-      "id": "09ff8e88ff91",
-      "title": "央行8月13日7天期逆回购操作量为零",
-      "summary": "中新网8月13日电 据央行网站消息，根据公开市场业务一级交易商的需求，2026年8月13日7天期逆回购操作量为零。具体情况如下：",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676772.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:46:20.000Z"
-    },
-    {
-      "id": "35eae040e661",
-      "title": "煤电发电量占比跌破半数是重要里程碑 更是新起点",
-      "summary": "【能源广角】煤电发电量占比跌破半数不是终点",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676773.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:44:35.000Z"
-    },
-    {
-      "id": "f1eee062d9d1",
-      "title": "豆包推出学生优惠 大学生享2.5倍免费额度及专业版特惠价",
-      "summary": "近日，豆包正式上线学生特惠活动，面向在校大学生提供更多使用额度和专业版特惠价，辅助学生应对科研分析、内容创作等复杂学习任务。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676766.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:44:33.000Z"
-    },
-    {
-      "id": "9b48219df7ff",
-      "title": "A股开盘：超2800只个股飘红，三大指数集体高开",
-      "summary": "；通信设备、半导体板块上涨，教育、生物科技、油气下跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676770.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:44:15.000Z"
-    },
-    {
-      "id": "ea945fcf8d9c",
-      "title": "2000多家布商齐聚浙江柯桥 家用纺织品吸引中外客商",
-      "summary": "中新网绍兴8月13日电(项菁)“柯桥窗帘面料种类齐全，可挑选的空间大。比如中东国家客户喜欢遮光性能好、白色系的窗帘，我在这里都能找到。”迪拜采购商曼德(Mohmand)长期在浙江绍兴柯桥经营纺织贸易，展会首日便敲定一笔大额窗帘订单。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676759.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:43:59.000Z"
-    },
-    {
-      "id": "cca48f20b135",
-      "title": "贵州省多式联运企业联盟抓住平陆运河通航机遇深化融合发展",
-      "summary": "中新网贵阳8月13日电 (记者 杨茜 刘美伶)平陆运河是连接西江航运干线与北部湾港(钦州港)的江海联运通道，可通航5000吨级船舶。2026年6月3日，平陆运河实现全线通水，进入有水调试阶段，预计2026年9月正式通航。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676764.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:39:07.000Z"
-    },
-    {
-      "id": "1e7f1f1a917a",
-      "title": "良法善治·回响｜习近平“典”论生态环境保护",
-      "summary": "大美中国，江山如画。五千多年来，先人借景生情、托物言志，留下了“湖阔数千里，湖光摇碧山”“红红白白花临水，碧碧黄黄麦际天”等无数传世佳句，也积淀了“取之有度，用之有节”“草木植成，国之富也”等丰富生态智慧。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676761.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:39:03.000Z"
-    },
-    {
-      "id": "5006635885c1",
-      "title": "AI代理新案例：黑進健身中心系統替「主人」預約課堂",
-      "summary": "此事件被視為人工智慧工具為完成任務而不擇手段的最新例證。",
-      "url": "https://www.bbc.com/zhongwen/articles/cddjp613mvdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-13T01:34:37.000Z"
     },
     {
       "id": "60f9baebcf95",
@@ -380,16 +430,6 @@
       "publishedAt": "2026-08-13T01:08:05.000Z"
     },
     {
-      "id": "89e66c748668",
-      "title": "「大學指控我用AI寫論文，但明明都是我自己寫的」",
-      "summary": "英國大學這位醫學生必須向學術小組答辯他的研究成果。",
-      "url": "https://www.bbc.com/zhongwen/articles/cg5lp79nd00o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-13T00:03:47.000Z"
-    },
-    {
       "id": "17bb54ba12ff",
       "title": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
       "summary": "New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate race A luxury Lake Como-inspired estate in the San Francisco Bay Ar…",
@@ -398,16 +438,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-12T23:22:48.000Z"
-    },
-    {
-      "id": "3610d0e3d657",
-      "title": "Pay with a glance at a screen as biometric technology company begins push into Australian retail",
-      "summary": "Customers will be able to pay using face and palm scans, potentially speeding up transactions – but rollout of the technology is likely to be slow Follow our Australia news live…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/pay-with-a-glance-at-a-screen-as-biometric-technology-company-begins-push-into-australian-retail",
-      "source": "The Guardian World",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-12T22:30:41.000Z"
     },
     {
       "id": "f6ff8e5d9d6f",
@@ -488,16 +518,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-12T16:17:55.000Z"
-    },
-    {
-      "id": "e725f62f089f",
-      "title": "BBC核實特朗普撤回部分推薦疫苗的言論",
-      "summary": "美國總統多次質疑兒童疫苗的安全性，並發表許多誤導性言論。",
-      "url": "https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-12T16:00:21.000Z"
     },
     {
       "id": "0f441c207d96",
@@ -920,16 +940,6 @@
       "publishedAt": "2026-08-11T09:00:09.000Z"
     },
     {
-      "id": "596b11b81360",
-      "title": "芬蘭海底天然氣管道受損，案件為何在香港審理？",
-      "summary": "多名熟悉國際法的學者解釋船舶管轄權機制，在一般情況下，在公海或專屬經濟區的船舶受船旗國專屬管轄；若非領海範圍，即使面對海底電纜或管道受損，沿岸國原則上無法攔截船舶或拘捕船員。",
-      "url": "https://www.bbc.com/zhongwen/articles/c330jjn6xmeo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-11T08:39:30.000Z"
-    },
-    {
       "id": "2773e7abed42",
       "title": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
       "summary": "科技公司並未以自身實踐證明這項技術能為人們帶來更多閒暇時間。",
@@ -1198,16 +1208,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-07T04:00:08.000Z"
-    },
-    {
-      "id": "b9972a25a887",
-      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
-      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-06T16:18:46.000Z"
     },
     {
       "id": "778a5a0a74ef",
