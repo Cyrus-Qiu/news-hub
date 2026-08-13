@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:37:53.411Z",
+  "updatedAt": "2026-08-13T20:54:53.563Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "405388ae86e1",
+      "title": "Australia news live: KPMG apologises to whistleblower as firm fronts inquiry over ethical failures",
+      "summary": "Parliamentary committee continues investigation into KPMG audit leaks. Follow today’s news live Get our breaking news email , free app or daily news podcast NSW Police have decla…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-13T20:32:51.000Z"
+    },
+    {
+      "id": "2313cda96d5a",
+      "title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+      "summary": "Donald Tusk says it is first time ‘someone on the order of Russia’ has sought to attack US citizen in Nato country A Russian plan to kill a Ukrainian American citizen in Warsaw w…",
+      "url": "https://www.theguardian.com/world/2026/aug/13/russian-plot-kill-ukrainian-american-thwarted-poland-says-polish-pm",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-13T19:32:39.000Z"
+    },
     {
       "id": "40a7b54ef224",
       "title": "UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles wildfires after gale force winds – as it happened",
@@ -178,16 +198,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-13T15:21:23.000Z"
-    },
-    {
-      "id": "bd73bf085703",
-      "title": "‘The colander worked best!’ Guardian readers share their experience of the solar eclipse",
-      "summary": "Readers recall the breathtaking sight and community spirit of the rare celestial treat – and the handmade contraptions they saw it through On Wednesday evening, millions of peopl…",
-      "url": "https://www.theguardian.com/science/2026/aug/13/guardian-readers-share-solar-eclipse-experience",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-13T15:19:13.000Z"
     },
     {
       "id": "bdd550553755",
@@ -411,8 +421,8 @@
     },
     {
       "id": "f68e92419443",
-      "title": "Are teens on ebikes the ‘new Hells Angels’? Not so fast, boomers",
-      "summary": "Experts say better regulation is needed but that bad press about ‘motorized menaces’ puts the ebike revolution at risk Beware, Americans: there’s a battery-powered threat cruisin…",
+      "title": "Are teens on e-motorbikes the ‘new Hells Angels’? Not so fast, boomers",
+      "summary": "Experts say better regulation is needed but that bad press about ‘motorized menaces’ puts the wider ebike revolution at risk Beware, Americans: there’s a battery-powered threat c…",
       "url": "https://www.theguardian.com/us-news/2026/aug/13/ebikes-e-motorcycles-teenagers",
       "source": "The Guardian Technology",
       "category": "科技",
@@ -491,7 +501,7 @@
     },
     {
       "id": "83c252f91def",
-      "title": "Transport watchdog investigates third near miss at Sydney airport",
+      "title": "Transport watchdog investigates third near-miss at Sydney airport",
       "summary": "Two planes came close to collision on the runway on Sunday – hours after another near miss – making a total of three in recent weeks Get our breaking news email , free app or dai…",
       "url": "https://www.theguardian.com/world/2026/aug/13/transport-watchdog-investigates-another-near-miss-at-sydney-airport",
       "source": "The Guardian World",
@@ -520,6 +530,16 @@
       "publishedAt": "2026-08-13T11:00:57.000Z"
     },
     {
+      "id": "0a5155643512",
+      "title": "Schools across the US banned phones. Teens are demanding more offline support",
+      "summary": "More students are advocating for their own digital wellbeing and developing programs to thrive in tech-free learning environments As students across the country return to school…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/us-school-phone-bans",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-13T10:00:56.000Z"
+    },
+    {
       "id": "dbf6c3dd3b1c",
       "title": "Trump administration accused of ‘bullying’ union leader at consumer protection agency",
       "summary": "Critic of Consumer Financial Protection Bureau leadership was put under investigation and suspended from job The Trump administration has been accused of “bullying and intimidati…",
@@ -538,16 +558,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-13T09:58:02.000Z"
-    },
-    {
-      "id": "e7f9d5ba85b7",
-      "title": "‘Lauf’ and ‘minceur’: the words that made a 13-year-old from Melbourne a world Scrabble champion",
-      "summary": "Dineth Fernando – who moved to Australia with his family in February – says he just needed to ‘find the word and play – that’s all’ Get our breaking news email , free app or dail…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/lauf-and-minceur-the-words-that-made-a-13-year-old-from-melbourne-a-world-scrabble-champion",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-13T09:55:09.000Z"
     },
     {
       "id": "554731e45bf1",
@@ -578,16 +588,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-13T09:04:01.000Z"
-    },
-    {
-      "id": "a3c1dd43b90a",
-      "title": "‘I feel like I’m at war’: are we losing the battle against machine-made music?",
-      "summary": "Despite outcry from musicians, AI slop is creeping into the charts as record labels scramble to adapt to a new normal where hits can be made at the click of a button This year, t…",
-      "url": "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-13T09:00:55.000Z"
     },
     {
       "id": "f6ff8e5d9d6f",
