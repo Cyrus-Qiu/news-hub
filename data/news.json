@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:55:40.443Z",
+  "updatedAt": "2026-08-13T22:53:54.079Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,54 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "169fde16088a",
+      "title": "驳斥特朗普的说法 伊朗称霍尔木兹海峡在伊朗控制和管理之下",
+      "summary": "中新网8月14日电 据卡塔尔半岛电视台14日报道，伊朗方面驳斥了美国总统特朗普此前关于霍尔木兹海峡控制权的说法，伊朗民兵武装组织负责人侯赛因·塔伊布称，霍尔木兹海峡“在伊朗的控制和管理之下”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677342.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T22:42:55.000Z"
+    },
+    {
+      "id": "e662811c2fef",
+      "title": "斯诺克中国公开赛八强出炉 中国选手占两席",
+      "summary": "中新社太原8月14日电 (记者 胡健)2026世界斯诺克中国公开赛13日晚在山西太原决出最后两个八强席位，四届世锦赛冠军、英格兰选手马克·塞尔比和中国选手张安达晋级八强。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-14/10677341.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T22:41:16.000Z"
+    },
+    {
+      "id": "098a259d0327",
+      "title": "外卖不等于垃圾食品，关键在于如何点",
+      "summary": "如今，外卖已融入现代生活，成为很多人日常饮食不可或缺的一部分。然而，“方便”与“健康”之间，横亘着一条需要主动跨越的鸿沟。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-14/10677340.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T22:34:02.000Z"
+    },
+    {
       "id": "405388ae86e1",
-      "title": "Australia news live: Albanese and Trump speak overnight; KPMG apologises to whistleblower ahead of inquiry",
-      "summary": "The prime minister is expected to say more about the call on Friday morning. Follow today’s news live Get our breaking news email , free app or daily news podcast Cherry-Evans co…",
+      "title": "Australia news live: Albanese says he argued for tariff exemption in ‘substantial’ call with Trump",
+      "summary": "PM says he also spoke with the US president about Aukus, which ‘remains full steam ahead’. Follow today’s news live Get our breaking news email , free app or daily news podcast A…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
       "source": "The Guardian World",
-      "category": "国际",
+      "category": "财经",
       "language": "en",
-      "publishedAt": "2026-08-13T21:39:10.000Z"
+      "publishedAt": "2026-08-13T22:28:59.000Z"
+    },
+    {
+      "id": "299c7dbf7226",
+      "title": "高达100% 美国将对进口无人机及零部件征收关税",
+      "summary": "当地时间8月13日，美国白宫发表声明称，美国总统特朗普当日签署公告，以应对国家安全威胁为由对进口无人机及零部件征收10%至100%的从价关税。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677339.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T22:28:46.000Z"
     },
     {
       "id": "2313cda96d5a",
@@ -438,46 +478,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-13T13:59:30.000Z"
-    },
-    {
-      "id": "06118853694c",
-      "title": "东南亚水果经中老铁路输华今年已超20万吨",
-      "summary": "【东盟专线】东南亚水果经中老铁路输华今年已超20万吨",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-13/10677304.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T13:58:50.000Z"
-    },
-    {
-      "id": "d4f0128d1c4b",
-      "title": "追忆“两弹一星”元勋王希季：转行拓荒，铺就中国航天路",
-      "summary": "中新社北京8月13日电 题：追忆“两弹一星”元勋王希季：转行拓荒，铺就中国航天路",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10677303.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T13:58:04.000Z"
-    },
-    {
-      "id": "66b58ea0f490",
-      "title": "中国汽车生产重镇重庆车企出海动作不断",
-      "summary": "中新社重庆8月13日电 (张旭 陈媛)重庆海关13日公布，据该关统计，2026年前7个月，重庆出口汽车353.3亿元人民币，同比增长57.1%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677295.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T13:56:01.000Z"
-    },
-    {
-      "id": "237e1700386c",
-      "title": "两岸传媒学子采风河北长城文化和冬奥遗产",
-      "summary": "中新社唐山8月13日电 (陈林 李鹏 安麒静)为期11天的“青春相约·逐梦燕赵”——第八届两岸未来媒体人河北长城文化采风暨台湾传媒学子河北实习营活动13日落幕，来自冀台两地10余所高校新闻、影视、视觉传达类专业的近40名大学生在唐山作别，各自踏上返程。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10677300.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-13T13:53:25.000Z"
     },
     {
       "id": "ae2b82d62226",
