@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T23:52:13.765Z",
+  "updatedAt": "2026-08-13T02:38:06.926Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,134 +30,364 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "8dbe964a57fa",
-      "title": "身体不适问AI？过度依赖AI咨询健康问题存在哪些隐患？",
-      "summary": "身体不适问AI？超九成受访者用AI获取过医疗建议",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676711.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-12T23:44:06.000Z"
-    },
-    {
-      "id": "5604697bc484",
-      "title": "南非启用电子旅行许可 首批面向中国等客源国",
-      "summary": "中新社约翰内斯堡8月12日电 (记者 孙翔)南非12日正式推出电子旅行许可(简称“ETA”)系统，来自中国、印度、印度尼西亚和墨西哥四国的旅客可通过该系统在线申请入境许可。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676706.shtml",
+      "id": "a5d22793d23d",
+      "title": "运动干预新方案从源头减少老人跌倒概率",
+      "summary": "科技日报哈尔滨8月12日电 (记者朱虹 通讯员衣晓峰)记者12日从哈尔滨医科大学获悉，该校田懋一教授团队依托发表于《美国医学会杂志》的全国农村老人跌倒预防(FAMILY)大型试验，针对1706名患有高血压、心脏病的农村高龄老人，完成二次分析，为基层推出低成本、易落地的老年防跌倒运动干预方案。相关研究12日在线刊发于国际期刊《年龄和老龄化》。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-13/10676810.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:44:04.000Z"
+      "publishedAt": "2026-08-13T02:30:12.000Z"
     },
     {
-      "id": "ddae1a0ddf09",
-      "title": "欧盟紧急援助210万欧元应对哥伦比亚强震",
-      "summary": "中新社布鲁塞尔8月12日电 (记者 德永健)在哥伦比亚西部地区发生7.4级强震后，欧盟12日宣布向哥伦比亚提供210万欧元紧急援助，帮助当地受灾民众渡过难关。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676708.shtml",
+      "id": "1a3d7d916b1c",
+      "title": "一男子在商业区偷拍女性 太原警方：违法人员已被行拘",
+      "summary": "中新网8月13日电 太原市公安局迎泽分局8月12日在其官方微博发布警情通报称，近日，该局在工作中发现网民反映“一男子在柳巷商业区偷拍女性”的情况后，迅速组织警力开展调查处置。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676794.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:43:44.000Z"
+      "publishedAt": "2026-08-13T02:28:56.000Z"
+    },
+    {
+      "id": "b3e05bfb50cf",
+      "title": "泽连斯基通报乌军夜间行动：俄海军基地、粮食出口码头遭突袭",
+      "summary": "中新网8月13日电 综合外媒报道，乌克兰总统泽连斯基当地时间12日表示，乌军对黑海沿岸的俄罗斯海军基地、港口基础设施等实施了夜间突袭。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676803.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T02:24:58.000Z"
+    },
+    {
+      "id": "2215e6b0114d",
+      "title": "山东“铅衣卫士”负重前行 以先进技术护佑儿童健康",
+      "summary": "中新网济南8月13日电 题：山东“铅衣卫士”负重前行 以先进技术护佑儿童健康",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-13/10676796.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T02:22:58.000Z"
+    },
+    {
+      "id": "886cce630eb7",
+      "title": "滁河、沙颍河发生2026年第1号洪水",
+      "summary": "受降雨影响，长江下游支流滁河、淮河中游支流沙颍河分别发生2026年第1号洪水。",
+      "url": "https://www.chinanews.com.cn/kong/2026/08-13/10676805.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T02:22:32.000Z"
+    },
+    {
+      "id": "082560a22392",
+      "title": "支持“国家项目”坐享380万元红利？ 17人犯诈骗罪被判刑",
+      "summary": "假借爱国名义 伪造红头文件 虚构巨额福利",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676802.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T02:20:18.000Z"
+    },
+    {
+      "id": "07efde77591d",
+      "title": "专访李亚鹏、王林海：一茶一世界，茶席“开明堂”",
+      "summary": "中新网北京8月13日电 题：专访李亚鹏、王林海：一茶一世界，茶席“开明堂”",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-13/10676793.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T02:20:14.000Z"
+    },
+    {
+      "id": "6b2bd9e14e21",
+      "title": "Telstra CEO gets $700,000 pay rise to $6.8m despite Australia-wide outage",
+      "summary": "Telco board cuts senior executive bonuses by total $1.3m after tech fail that affected millions Follow our Australia news live blog for latest updates Get our breaking news email…",
+      "url": "https://www.theguardian.com/business/2026/aug/13/telstra-ceo-pay-rise-vicki-brady",
+      "source": "The Guardian World",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-13T02:16:47.000Z"
+    },
+    {
+      "id": "1be2e7574a05",
+      "title": "调查显示短视频和网游成中小学生暑期消时“两件套”",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-13/10676798.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T02:14:40.000Z"
+    },
+    {
+      "id": "b054c9d057a8",
+      "title": "游客因未骑马遭辱骂：涉事人员书面道歉，服务暂停",
+      "summary": "中新网乌兰察布8月13日电 (记者 张林虎)近日，一则游客在内蒙古自治区乌兰察布黄花沟附近游玩时遭马场工作人员辱骂威胁的视频引发关注。事发后，当地文旅部门联合公安机关及属地乡镇迅速介入。目前，涉事人员已向游客书面道歉并取得游客谅解，其牵马服务被暂停。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676789.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T02:13:20.000Z"
+    },
+    {
+      "id": "64c184e7b963",
+      "title": "宁夏滩羊种质保护实现重大突破 优异种羊拥有永久基因备份",
+      "summary": "中新网银川8月13日电 (记者 于晶)8月12日，7只体细胞克隆滩羊羔羊在宁夏盐池滩羊产业集团朔牧繁育有限公司育种基地健康生长，全部顺利渡过初生、二毛、断奶关键阶段，各项生理指标稳定正常。此举标志宁夏成功建成克隆滩羊群体，滩羊优异种质资源实现“细胞永生、永久备份”，当地特色畜禽种源保护工作迈入全新阶段。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676786.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T02:12:13.000Z"
     },
     {
       "id": "9a6cc2ec1044",
-      "title": "Australia politics live: Andrew Bragg says low-income earners should accept they will live in substandard housing; whistleblower David McBride granted parole",
-      "summary": "Shadow housing minister defends speech after criticism move would lock disadvantaged into skyrocketing power bills. Follow today’s news live Get our breaking news email , free ap…",
+      "title": "Australia politics live: Angus Taylor rebukes Andrew Bragg for expressing ‘personal views’ on migration numbers; Chris Minns steps in to deflect melon-gate question to PM",
+      "summary": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email , free app or dail…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-12T23:43:22.000Z"
+      "publishedAt": "2026-08-13T02:10:44.000Z"
     },
     {
-      "id": "d31f28add86f",
-      "title": "留好你的高铁车票，暑期游玩隐藏福利都靠它！",
-      "summary": "暑期出游福利集中上新",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676710.shtml",
+      "id": "3514fc1aa676",
+      "title": "哥伦比亚强震已致265人死亡",
+      "summary": "中新社北京8月13日电 波哥大消息：哥伦比亚总统德拉埃斯普列亚当地时间12日晚表示，该国10日发生的强震已造成265人死亡、3494人受伤，另有496人失踪。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676776.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:41:04.000Z"
+      "publishedAt": "2026-08-13T02:09:43.000Z"
     },
     {
-      "id": "7cea174856f7",
-      "title": "被骗1.6亿元后，这些老年人把骗子送上法庭",
-      "summary": "调查",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676709.shtml",
+      "id": "9d585d1e2390",
+      "title": "委内瑞拉7月通胀率升至近20%",
+      "summary": "中新社北京8月13日电 加拉加斯消息：委内瑞拉中央银行当地时间12日发表声明称，该国7月通胀率升至19.9%，高于6月的13.8%。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676775.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:29:33.000Z"
+      "publishedAt": "2026-08-13T02:09:27.000Z"
     },
     {
-      "id": "2b875c34464d",
-      "title": "“张雪机车”车手瓦伦丁·德比斯开启中国行 首站亮相南昌",
-      "summary": "中新社南昌8月13日电 (朱莹)“张雪机车”车手瓦伦丁·德比斯12日抵达江西南昌，开启其职业生涯首次中国行。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676701.shtml",
+      "id": "02919545c5f3",
+      "title": "白宫新闻秘书莱维特将于8月底离任",
+      "summary": "中新社华盛顿8月12日电 (记者 陈孟统)美国总统特朗普12日宣布，白宫新闻秘书莱维特将于8月底离任。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676763.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:25:51.000Z"
+      "publishedAt": "2026-08-13T02:09:03.000Z"
     },
     {
-      "id": "f9db6f494c15",
-      "title": "斯诺克中国公开赛：“火箭”奥沙利文遭泰国黑马淘汰 肖国栋止步16强",
-      "summary": "中新社太原8月13日电 (记者 胡健)2026世界斯诺克中国公开赛12日晚在山西太原迎来两场16进8焦点战，英格兰名将“火箭”罗尼·奥沙利文在3:1领先的情况下被泰国选手诺鹏·桑卡姆6:4逆转，止步16强。中国选手肖国栋以2:6不敌英格兰选手肖恩·墨菲，止步16强。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10676702.shtml",
+      "id": "70ddf64fd722",
+      "title": "Reformers were ‘spectacularly unsuccessful’ in taking over NSW Liberals, Catholic schools boss says",
+      "summary": "Catholic Schools NSW chief executive Dallas McInerney tells Icac corruption inquiry that Christain factional group driven by ‘a calling … a duty’ Follow our Australia news live b…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-13T02:08:57.000Z"
+    },
+    {
+      "id": "f5e7f24f51df",
+      "title": "58所高校学子在京研学 以智能技术赋能乡村振兴",
+      "summary": "中新网北京8月13日电 由中国乡村发展基金会发起的2026公益未来大学生公益社团集训营日前在北京收官。来自全国58所高校的69名公益社团代表在研学与实践中，把智能技术应用从日常学习延伸到乡村振兴。",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-13/10676783.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:24:45.000Z"
+      "publishedAt": "2026-08-13T02:07:11.000Z"
     },
     {
-      "id": "64b6351ecf88",
-      "title": "德国政府通过情报机构改革草案",
-      "summary": "中新社柏林8月12日电 德国联邦政府12日通过情报机构改革草案，计划大幅扩大德国联邦情报局和联邦宪法保卫局的权限。德国政府称，这是对两家联邦情报机构法律基础所进行的范围最广、最根本性的一次改革。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676703.shtml",
+      "id": "d4b0528065a8",
+      "title": "抗过敏药容易形成药物依赖，能不用就不用？丨中新真探",
+      "summary": "中新网8月13日电 抗过敏药(主要指抗组胺药)并无生理成瘾性，临床常用的第二代抗组胺药(如氯雷他定、西替利嗪)安全性极高，不具备阿片类药物或镇静安眠药的成瘾机制。当然，任何药物都应在医生指导下按照疗程和剂量使用，如果需要长期服药，也建议定期复诊评估治疗方案。(来源：@科学辟谣 中国新闻网微博)",
+      "url": "https://www.chinanews.com.cn/life/2026/08-13/10676784.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:24:35.000Z"
+      "publishedAt": "2026-08-13T02:05:59.000Z"
     },
     {
-      "id": "af6c29f802a4",
-      "title": "英国财政部：中东局势或致英国明年经济增长近乎停滞",
-      "summary": "中新社伦敦8月12日电 (记者 欧阳开宇)英国财政部12日公布一份经济推演报告显示，若中东局势持续扰动霍尔木兹海峡航运，英国2027年经济增长或将大幅回落至0.3%，近乎陷入停滞。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676700.shtml",
+      "id": "55ecc874a803",
+      "title": "跳出二元对立窠臼 学者：中国民族事务治理贡献新范式",
+      "summary": "中新社北京8月13日电(记者 杜雅楠)全球200多个国家和地区大多为多民族国家和地区，民族事务治理是共性问题与难题。中央民族大学教授王伟近日接受中新社记者采访时指出，中国推进民族团结进步立法，为多民族国家的民族事务治理贡献独具特色的新范式。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676781.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:24:13.000Z"
+      "publishedAt": "2026-08-13T02:03:31.000Z"
     },
     {
-      "id": "58a9031206bb",
-      "title": "韩国前总统尹锡悦面临新指控",
-      "summary": "中新社首尔8月13日电 (记者 金旭)当地时间12日，韩国第二综合特别检察组以传播“紧急戒严正当化信息”为由，起诉前总统尹锡悦和前国家安保室长申源湜。这是该特检组首次起诉尹锡悦。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676699.shtml",
+      "id": "3d46c152d3a1",
+      "title": "分蓄超额洪水削减洪峰 这张防洪“底牌”你了解多少？",
+      "summary": "记者今早从水利部了解到，根据沙颍河水系来水情况，河南省今天凌晨2时启用漯河舞阳泥河洼蓄滞洪区。泥河洼蓄滞洪区设计蓄洪容积2.38亿立方米。此次启用前，蓄滞洪区内需转移群众已提前全部安全转移。蓄滞洪区是确保流域防洪安全的最后一招“底牌”，什么是蓄滞洪区？一起来了解↓",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676788.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:23:53.000Z"
+      "publishedAt": "2026-08-13T02:02:33.000Z"
     },
     {
-      "id": "c57a0f19ca4e",
-      "title": "中国女篮不敌尼日利亚女篮 热身赛两胜一负",
-      "summary": "中新社佛山8月12日电 (记者 张璐)12日晚在广东佛山举行的一场热身赛中，中国女篮以77:88不敌尼日利亚女篮，热身赛两胜一负。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10676697.shtml",
+      "id": "918090d8c613",
+      "title": "美国7月消费者价格指数环比上涨 通胀仍处高位",
+      "summary": "美国劳工部12日发布的数据显示，美国7月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.1%，6月出现的环比下降未能持续。扣除食品和能源，美国7月核心CPI同比上涨2.5%，环比上涨0.2%，而6月为环比持平。多家美国媒体12日指出，美以伊战事引发的能源价格上涨是当前美国通胀难以降低的主要原因。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676787.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:23:41.000Z"
+      "publishedAt": "2026-08-13T02:01:07.000Z"
     },
     {
-      "id": "5c9424e7c891",
-      "title": "手机壳成偷拍工具，“懂的都懂”包藏多少恶意？",
-      "summary": "据8月11日中央广播电视总台报道，最近，一款名为“折射手机壳”的产品在电商平台上热销，外观与普通手机壳无异，售价却要300元到800元，卖点是在手机摄像头位置加装了一块棱镜，利用光线折射原理，让手机在平放的状态下仍能够拍摄到侧面的画面。再配合相关设置，屏幕熄屏后，录像也能继续。耐人寻味的是，面对这项功能，一些商家并不把话说明白，而是暗示“懂的都懂”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676707.shtml",
+      "id": "32d8aeda6cdc",
+      "title": "广东省运会首设铁人三项赛事 开赛首日深圳队包揽四金",
+      "summary": "中新网茂名8月13日电(梁盛 杨珮珮)广东省第十七届运动会铁人三项比赛12日在茂名露天矿生态公园开赛，深圳队表现亮眼，四个组别赛事夺得4金1银2铜。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10676780.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-12T23:23:37.000Z"
+      "publishedAt": "2026-08-13T01:54:10.000Z"
+    },
+    {
+      "id": "8036449030b4",
+      "title": "日本两条私人饲养的蟒蛇“出逃” 警方紧急搜寻",
+      "summary": "中新网8月13日电 据日本《读卖新闻》报道，当地时间13日5时左右，日本神奈川县川崎市一男子报警称，自己饲养的两条蟒蛇“出逃”，当地警方已展开搜寻。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676777.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:53:40.000Z"
+    },
+    {
+      "id": "80088adb6d59",
+      "title": "中国香水从“被看见”到“被选择”还有多远？",
+      "summary": "证券日报记者 梁傲男",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676779.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:52:28.000Z"
+    },
+    {
+      "id": "a62cc3cf7a5a",
+      "title": "大湾区城市协同激活外贸增长新动能",
+      "summary": "李雯珊",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-13/10676778.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:51:18.000Z"
+    },
+    {
+      "id": "df2d5500e4b7",
+      "title": "侵扰民众生活的“公害” AI外呼乱象亟待治理",
+      "summary": "AI外呼乱象亟待治理",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676774.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:47:22.000Z"
+    },
+    {
+      "id": "09ff8e88ff91",
+      "title": "央行8月13日7天期逆回购操作量为零",
+      "summary": "中新网8月13日电 据央行网站消息，根据公开市场业务一级交易商的需求，2026年8月13日7天期逆回购操作量为零。具体情况如下：",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676772.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:46:20.000Z"
+    },
+    {
+      "id": "35eae040e661",
+      "title": "煤电发电量占比跌破半数是重要里程碑 更是新起点",
+      "summary": "【能源广角】煤电发电量占比跌破半数不是终点",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676773.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:44:35.000Z"
+    },
+    {
+      "id": "f1eee062d9d1",
+      "title": "豆包推出学生优惠 大学生享2.5倍免费额度及专业版特惠价",
+      "summary": "近日，豆包正式上线学生特惠活动，面向在校大学生提供更多使用额度和专业版特惠价，辅助学生应对科研分析、内容创作等复杂学习任务。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676766.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:44:33.000Z"
+    },
+    {
+      "id": "9b48219df7ff",
+      "title": "A股开盘：超2800只个股飘红，三大指数集体高开",
+      "summary": "；通信设备、半导体板块上涨，教育、生物科技、油气下跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676770.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:44:15.000Z"
+    },
+    {
+      "id": "ea945fcf8d9c",
+      "title": "2000多家布商齐聚浙江柯桥 家用纺织品吸引中外客商",
+      "summary": "中新网绍兴8月13日电(项菁)“柯桥窗帘面料种类齐全，可挑选的空间大。比如中东国家客户喜欢遮光性能好、白色系的窗帘，我在这里都能找到。”迪拜采购商曼德(Mohmand)长期在浙江绍兴柯桥经营纺织贸易，展会首日便敲定一笔大额窗帘订单。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676759.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:43:59.000Z"
+    },
+    {
+      "id": "cca48f20b135",
+      "title": "贵州省多式联运企业联盟抓住平陆运河通航机遇深化融合发展",
+      "summary": "中新网贵阳8月13日电 (记者 杨茜 刘美伶)平陆运河是连接西江航运干线与北部湾港(钦州港)的江海联运通道，可通航5000吨级船舶。2026年6月3日，平陆运河实现全线通水，进入有水调试阶段，预计2026年9月正式通航。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676764.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:39:07.000Z"
+    },
+    {
+      "id": "1e7f1f1a917a",
+      "title": "良法善治·回响｜习近平“典”论生态环境保护",
+      "summary": "大美中国，江山如画。五千多年来，先人借景生情、托物言志，留下了“湖阔数千里，湖光摇碧山”“红红白白花临水，碧碧黄黄麦际天”等无数传世佳句，也积淀了“取之有度，用之有节”“草木植成，国之富也”等丰富生态智慧。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676761.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:39:03.000Z"
+    },
+    {
+      "id": "5006635885c1",
+      "title": "AI代理新案例：黑進健身中心系統替「主人」預約課堂",
+      "summary": "此事件被視為人工智慧工具為完成任務而不擇手段的最新例證。",
+      "url": "https://www.bbc.com/zhongwen/articles/cddjp613mvdo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-13T01:34:37.000Z"
+    },
+    {
+      "id": "60f9baebcf95",
+      "title": "David McBride leaves prison on parole after being jailed for leaking Afghanistan war documents",
+      "summary": "Attorney general grants former army lawyer’s release after 27 months in jail Follow our Australia news live blog for latest updates Get our breaking news email , free app or dail…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/david-mcbride-released-jail-prison-parole",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-13T01:08:05.000Z"
+    },
+    {
+      "id": "89e66c748668",
+      "title": "「大學指控我用AI寫論文，但明明都是我自己寫的」",
+      "summary": "英國大學這位醫學生必須向學術小組答辯他的研究成果。",
+      "url": "https://www.bbc.com/zhongwen/articles/cg5lp79nd00o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-13T00:03:47.000Z"
     },
     {
       "id": "17bb54ba12ff",
@@ -170,86 +400,6 @@
       "publishedAt": "2026-08-12T23:22:48.000Z"
     },
     {
-      "id": "790f9f9ff206",
-      "title": "特朗普称白宫新闻秘书莱维特将离职",
-      "summary": "中新网8月13日电 据英国广播公司(BBC)报道，当地时间8月13日，美国总统唐纳德·特朗普宣布，白宫新闻秘书卡罗琳·莱维特将于8月底卸任。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676705.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T23:21:11.000Z"
-    },
-    {
-      "id": "7d360364adaf",
-      "title": "沙颍河泥河洼蓄滞洪区启用",
-      "summary": "根据沙颍河水系来水情况，河南省决定8月13日2时启用泥河洼蓄滞洪区。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676704.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T23:21:07.000Z"
-    },
-    {
-      "id": "7ae6a4ecd72c",
-      "title": "美军称已使59艘商船改变航线，特朗普：伊朗无能为力",
-      "summary": "中新网8月13日电 据外媒报道，当地时间8月13日，美国中央司令部(CENTCOM)表示，作为对伊朗实施封锁行动的一部分，美军已改变59艘商船的航向，使其中3艘失去动力，并登船检查了另外2艘。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676698.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T23:12:28.000Z"
-    },
-    {
-      "id": "bc65f0620ca4",
-      "title": "美国佐治亚州一所高中卫生间内发生枪击，一人受伤",
-      "summary": "中新网8月13日电 据美国哥伦比亚广播公司(CBS)报道，据当地警方消息，美国佐治亚州一所高中12日发生一起枪击事件，造成一名学生受伤，嫌疑人已被拘留。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676696.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T22:56:11.000Z"
-    },
-    {
-      "id": "4ce65076e964",
-      "title": "8月13日新闻早报",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-13/10676695.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T22:54:21.000Z"
-    },
-    {
-      "id": "38159f9ea96b",
-      "title": "已致刚果（金）两千余人死亡 世卫：或为有记录以来最致命埃博拉疫情",
-      "summary": "世界卫生组织总干事谭德塞8月12日警告，如果刚果(金)埃博拉疫情维持当前传播速度，其规模可能超过2014年至2016年西非埃博拉疫情，成为有记录以来最致命的埃博拉疫情。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676694.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T22:46:42.000Z"
-    },
-    {
-      "id": "aa37fef28792",
-      "title": "美国国务院成立特别工作组遏止“生育旅游”",
-      "summary": "中新社华盛顿8月12日电 美国国务院当地时间12日发表声明说，国务院已成立特别工作组，以打击针对赴美生育从而使新生儿获得美国公民身份的“生育旅游”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676693.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T22:44:50.000Z"
-    },
-    {
-      "id": "a7202bf245b6",
-      "title": "中国智能网联汽车为何发展快",
-      "summary": "今年以来，L2级组合驾驶辅助功能乘用车渗透率达到70.5%——",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676692.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T22:38:22.000Z"
-    },
-    {
       "id": "3610d0e3d657",
       "title": "Pay with a glance at a screen as biometric technology company begins push into Australian retail",
       "summary": "Customers will be able to pay using face and palm scans, potentially speeding up transactions – but rollout of the technology is likely to be slow Follow our Australia news live…",
@@ -258,36 +408,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-12T22:30:41.000Z"
-    },
-    {
-      "id": "f3427f911bd2",
-      "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
-      "summary": "当地时间12日，伊朗“波斯湾海峡管理局”表示，美国官员反复声称霍尔木兹海峡已重新开放，但这并不能改变事实。霍尔木兹海峡仍然关闭，除非美国接受伊朗提出的条件，否则该海峡不会重新开放。(总台记者 李健南)",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676691.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T22:26:17.000Z"
-    },
-    {
-      "id": "8ad9491e1afd",
-      "title": "Ignore the doomsdayers – property investing in Australia is far from broken",
-      "summary": "Investor loan applications may have fallen since the start of the year, but the slump already appears to be turning around Get our breaking news email , free app or daily news po…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/property-investors-australia-tax-negative-gearing-rba-interest-rates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T22:24:28.000Z"
-    },
-    {
-      "id": "54f083eedae6",
-      "title": "卡内余额不能买折扣商品？警惕预付卡变“闹心卡”！",
-      "summary": "商家未提前告知充值卡只能买正价商品，并称“顾客没有问，所以没有说”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676690.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T22:18:55.000Z"
     },
     {
       "id": "f6ff8e5d9d6f",
@@ -328,16 +448,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-12T18:46:30.000Z"
-    },
-    {
-      "id": "85862172dc3e",
-      "title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
-      "summary": "Organisers says new rule will ensure contest provides ‘safe and welcoming environment’ for participants Broadcasters will no longer be eligible to host the Eurovision song contes…",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T18:20:55.000Z"
     },
     {
       "id": "1641420a44ae",
@@ -390,26 +500,6 @@
       "publishedAt": "2026-08-12T16:00:21.000Z"
     },
     {
-      "id": "e06abdbb1f87",
-      "title": "海内外足球小将聚沈阳 11天鏖战千余场比赛",
-      "summary": "中新社沈阳8月12日电 (记者 李晛)2026沈阳第十二届“和平杯”国际青少年足球邀请赛12日开幕。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676689.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T15:52:24.000Z"
-    },
-    {
-      "id": "944c6d626c1c",
-      "title": "云南华宁南盘江一民船侧翻致6人落水 目前1人获救",
-      "summary": "8月12日18时许，云南省华宁县盘溪镇水头寨南盘江水域发生一起村民自用小船侧翻事件，船上6人落水。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676688.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T15:49:28.000Z"
-    },
-    {
       "id": "0f441c207d96",
       "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
       "summary": "中國前總理朱鎔基週三在北京逝世。在1990至2000年代擔任副總理和總理期間，他主導中國經濟改革逾十年，被外界稱為中國「經濟沙皇」。",
@@ -440,16 +530,6 @@
       "publishedAt": "2026-08-12T15:00:34.000Z"
     },
     {
-      "id": "6a8ab125bfdc",
-      "title": "What’s behind Sydney airport’s heavy delays and near-miss incident?",
-      "summary": "Air traffic controllers are short-staffed and exhausted – and new recruits face a difficult aptitude test and must train in Melbourne Follow our Australia news live blog for late…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/whats-behind-sydney-airports-heavy-delays-and-near-miss-incident",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T15:00:33.000Z"
-    },
-    {
       "id": "4c8fdb5a3d72",
       "title": "US credit card debt climbs to $1.26tn, nearing last year’s record high",
       "summary": "Mortgage and student loan balances saw ‘small decline’ with increases elsewhere, says post alongside Fed report Credit card debt in the United States is growing close to a record…",
@@ -458,66 +538,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-12T14:58:36.000Z"
-    },
-    {
-      "id": "1a863d5dcfce",
-      "title": "特朗普宣称“美国完全控制着霍尔木兹海峡”",
-      "summary": "美国总统特朗普12日在社交媒体上发文宣称，“美国完全控制着霍尔木兹海峡……伊朗对此束手无策”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676687.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:53:38.000Z"
-    },
-    {
-      "id": "9ba1508825d7",
-      "title": "综艺《不想睡的星期五》定档 聚焦城市夜间消费新图景",
-      "summary": "中新网长沙8月12日电 (记者 邓霞)当工作日的秩序退场，周五夜晚应当如何度过？湖南卫视与芒果TV联合打造的新奇夜生活探访真人秀《不想睡的星期五》正式定档，郭京飞、黄明昊、李小冉、孙怡、唐艺昕、周翊然六位常驻嘉宾，将以“夜务员”身份探访全国多座城市，沉浸式记录夜间消费新场景与青年文化表达。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676686.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:50:12.000Z"
-    },
-    {
-      "id": "e24513436d50",
-      "title": "三部门调拨2万件中央救灾物资 支持河北、河南做好安置救助工作",
-      "summary": "8月12日，国家防灾减灾救灾委员会办公室、应急管理部针对今年第13号台风“白海豚”残余环流带来的强降雨影响，根据河北、河南等地受灾群众安置救助需要，会同国家粮食和物资储备局调拨折叠床、褥子、毛毯、家庭应急包等2万件中央救灾物资，支持灾区做好受灾群众安置救助和生活保障工作。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676685.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:44:58.000Z"
-    },
-    {
-      "id": "566beba3bb79",
-      "title": "ICU医生薄世宁：40岁，每个人都应该做一次防癌筛查",
-      "summary": "中新网广州8月12日电 (记者 蔡敏婕)“40岁以后，每个人都应该进行癌症筛查。”长期活跃于医学科普领域的北京大学第三医院危重医学科主任医师薄世宁12日在广州称，人体在40岁以后，患癌风险会呈现指数级上升，因此这一年龄段是防癌筛查的关键节点，“40岁，每个人都应该做一次防癌筛查”。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-12/10676682.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:42:32.000Z"
-    },
-    {
-      "id": "501e93493766",
-      "title": "平陆运河开启通航前“大考” 实船试验攻坚四大核心难点",
-      "summary": "中新网南宁8月12日电(记者 杨陈)8月12日上午，随着首艘5000吨级试验船舶从广西南宁新福水上综合服务区起航，平陆运河实船试验正式启动。这也是平陆运河9月通航前最后一项大型现场实测。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676681.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:41:42.000Z"
-    },
-    {
-      "id": "7c883df952f1",
-      "title": "《江泽民》 第3集 《临危受命》",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/gn/shipin/2026/08-12/news1065206.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-12T14:41:36.000Z"
     },
     {
       "id": "0d416c63a585",
@@ -572,7 +592,7 @@
     {
       "id": "90dde508223f",
       "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
-      "summary": "朱鎔基在副總理及總理任上，前後12年主導中國經濟發展，在中國經濟的幾乎所有領域都推行改革。改革過程中，朱鎔基也因為造成大量國企工人下崗而受民間批評。但此後，中國整體上往市場經濟的方向邁了一大步，也由此開啟了中國歷史上發展速度最高的二十年。",
+      "summary": "朱鎔基前後12年主導中國經濟發展，改革過程中因為造成大量國企工人下崗而受民間批評。但中國整體上往市場經濟的方向邁了一大步，也由此開啟了歷史上發展速度最高的20年。",
       "url": "https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC 中文",
       "category": "国际",
@@ -1180,16 +1200,6 @@
       "publishedAt": "2026-08-07T04:00:08.000Z"
     },
     {
-      "id": "1586686edc9e",
-      "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
-      "summary": "美國總統特朗普（川普）簽署行政命令，禁止生育旅遊，並擴大了對不符合美國出生公民權資格的兒童的定義。",
-      "url": "https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-07T02:50:00.000Z"
-    },
-    {
       "id": "b9972a25a887",
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
       "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic…",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-06T09:13:11.000Z"
-    },
-    {
-      "id": "b729903efdce",
-      "title": "在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚",
-      "summary": "這支受到國際足協（FIFA）認可的女子隊隊員表示，足球給予她們自由和獨立。",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-06T05:59:42.000Z"
     }
   ]
 }
