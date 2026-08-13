@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T17:07:16.812Z",
+  "updatedAt": "2026-08-13T18:29:27.541Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "9ca933b97de2",
+      "title": "Nearly 100 children detained as adults under UK-France migration deal",
+      "summary": "Figures emerge in critical letter to Home Office from organisation appointed to scrutinise detention facilities Nearly 100 children have been wrongly identified and detained as a…",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-13T18:13:49.000Z"
+    },
+    {
       "id": "40a7b54ef224",
       "title": "Europe heatwave live: UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles wildfires after gale force winds",
       "summary": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to come Met Office has just offered an update on temperatures across the UK, with…",
@@ -37,7 +47,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-13T16:41:04.000Z"
+      "publishedAt": "2026-08-13T17:47:14.000Z"
+    },
+    {
+      "id": "fd9c0ced9837",
+      "title": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’",
+      "summary": "Kyiv reportedly suggested mutual agreement in attempt to reopen crucial grain corridor Ukraine has proposed a deal with Russia for both sides to halt their attacks on civilian sh…",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-13T17:13:33.000Z"
     },
     {
       "id": "7b91e8f0e188",
@@ -91,8 +111,8 @@
     },
     {
       "id": "52acc99641b8",
-      "title": "UK records hottest day of the year as fifth summer heatwave reaches peak",
-      "summary": "Kew Gardens in London hits 38.1C and 40C-plus expected in parts of Europe with continent trapped under heat dome Europe heatwave – latest updates The UK has recorded its hottest…",
+      "title": "UK records hottest day of year as fifth summer heatwave reaches peak",
+      "summary": "Kew Gardens in London hits 38.1C and 40C-plus recorded in parts of Europe with continent trapped under heat dome Europe heatwave – latest updates The UK has recorded its hottest…",
       "url": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
       "source": "The Guardian World",
       "category": "国际",
@@ -440,16 +460,6 @@
       "publishedAt": "2026-08-13T13:53:25.000Z"
     },
     {
-      "id": "e7a03c499452",
-      "title": "Italian businessman admits organising bomb attack ‘to boost friend’s security’",
-      "summary": "Valter Lavitola has confessed to masterminding bombing at home of investigative reporter Sigfrido Ranucci An Italian businessman has admitted to masterminding a bomb attack at th…",
-      "url": "https://www.theguardian.com/world/2026/aug/13/italian-businessman-valter-lavitola-bomb-attack-journalist-friend-sigfrido-ranucci",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-13T13:26:52.000Z"
-    },
-    {
       "id": "ae2b82d62226",
       "title": "Agent 64: Spies Never Die review – licence to kill time like the 90s never ended",
       "summary": "PC; Replicant D6 This GoldenEye 007-styled retro shooter is an agreeable set of straightahead shooting missions that hark back to a simpler time, with simpler controls With 007 F…",
@@ -568,16 +578,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-13T09:00:55.000Z"
-    },
-    {
-      "id": "3db36d48c6c7",
-      "title": "How to keep babies and children safe in heatwaves",
-      "summary": "Biological factors mean a child’s core temperature rises faster than an adult’s – and that can result in a medical emergency Children and babies are more vulnerable in heatwaves…",
-      "url": "https://www.theguardian.com/environment/2026/aug/13/how-to-keep-babies-and-children-safe-in-heatwaves",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-13T08:13:10.000Z"
     },
     {
       "id": "f6ff8e5d9d6f",
