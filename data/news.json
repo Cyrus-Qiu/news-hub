@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T17:58:31.515Z",
+  "updatedAt": "2026-08-14T19:06:00.621Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -78,16 +78,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-14T16:21:39.000Z"
-    },
-    {
-      "id": "64c5b4e5fc2d",
-      "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres",
-      "summary": "‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says Police in Scotland have issued a stark public warning about the need for “ro…",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-14T16:05:31.000Z"
     },
     {
       "id": "a75fd1d3bd51",
@@ -1168,6 +1158,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-11T10:29:29.000Z"
+    },
+    {
+      "id": "44677a03eac5",
+      "title": "AI’s potential climate benefits outweighed by role in boosting fossil fuels, study finds",
+      "summary": "Modelling finds AI-driven productivity gains in coal, oil and gas enable more emissions than applications in renewables avoid AI-driven productivity gains enable more planet-heat…",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-11T09:15:45.000Z"
     },
     {
       "id": "f1a3f8ecbd4f",
