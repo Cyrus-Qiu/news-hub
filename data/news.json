@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T02:35:47.016Z",
+  "updatedAt": "2026-08-14T04:25:38.382Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,304 +30,354 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "9905da5c031b",
-      "title": "用好“种草”机制，激活消费动能",
-      "summary": "一段时期以来，各类促消费、扩投资举措密集落地，多措并举持续发力提振国内有效需求。",
-      "url": "https://www.chinanews.com.cn/gsztc/2026/08-14/10677469.shtml",
+      "id": "be998c96d471",
+      "title": "湖南涟源市杨梅山煤矿发生一起瓦斯突出事故 7人失联",
+      "summary": "2026年8月14日5时08分，湖南涟源市杨梅山煤矿发生一起瓦斯突出事故。初步查明，当班入井作业人员52人，安全出井44人，失联7人，1人正在抢救。目前，市县两级已组织应急、卫健等相关部门现场开展应急救援处置工作，事故原因正在进一步调查。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677540.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:33:39.000Z"
-    },
-    {
-      "id": "06de1c1e2457",
-      "title": "岁岁耕耘结硕果 石榴花开别样红——沈阳市沈河区以“五项行动”构筑中华民族共有精神家园",
-      "summary": "沈河区作为沈阳市中心城区，承载着千年古城文脉，汇聚着各族儿女烟火，现有汉族、满族、回族等46个民族81.1万名群众在此互嵌融居。近年来，沈河区深入贯彻落实习近平总书记关于加强和改进民族工作的重要思想，始终以铸牢中华民族共同体意识为主线，实施思想铸魂、文化引领、聚力发展、依法治理、品牌提升“五项行动”，真抓实干、守正创新。2023年，沈河区获评“辽宁省民族…",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-14/10677449.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-14T02:30:03.000Z"
-    },
-    {
-      "id": "c88730b027e7",
-      "title": "中东连发四件大事，都因美国保护伞被伊朗导弹戳破？",
-      "summary": "中新网8月14日电（记者 刁炜）近期，围绕中东安全格局发生一系列值得关注的事件：伊朗军政高层密集调整、俄叙达成军事基地重组方案、也门胡塞武装突然大动干戈，以及沙特、土耳其、巴基斯坦签署共同防御协议。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677453.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-14T02:29:19.000Z"
-    },
-    {
-      "id": "736b9e1464c1",
-      "title": "荷兰鹿特丹港发生爆炸 造成至少1死6伤",
-      "summary": "中新网海牙8月14日电 欧洲第一大港荷兰鹿特丹港13日发生爆炸，造成至少1人死亡，6人受伤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677408.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-14T02:26:53.000Z"
-    },
-    {
-      "id": "2e59f935ea0c",
-      "title": "党建领航聚合力 产业文旅双驱动——沈阳市大辛屯村绘就民族乡村和美新图景",
-      "summary": "沈阳市康平县西关屯蒙古族满族乡大辛屯村，地处科尔沁沙地南缘，自古满蒙汉多民族融居，民风淳厚。近年来，大辛屯村坚持以铸牢中华民族共同体意识为主线，把党的政策优势、组织优势转化为发展优势、治理优势，在基层党建、产业兴农、文旅融合、生态宜居、基层治理五大维度协同发力，蹚出一条民族乡村高质量发展的务实路径。一幅“组织强、产业旺、文化兴、生态美、治理优”的和美乡村…",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-14/10677447.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-14T02:26:51.000Z"
-    },
-    {
-      "id": "98c5ef98011e",
-      "title": "报告：持续高温严重影响德国谷物收成",
-      "summary": "中新网柏林8月14日电 (记者 马秀秀)德国农业合作社莱夫艾森协会(DRV)13日发布的评估报告显示，持续高温严重影响2026年德国谷物收成。该协会测算，自6月中旬以来，高温天气已导致德国谷物和油菜籽减产约300万吨。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677403.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-14T02:25:41.000Z"
-    },
-    {
-      "id": "7e317381ff84",
-      "title": "南非6月矿业产出同比下降4.0%",
-      "summary": "中新网约翰内斯堡8月14日电 (记者 孙翔)南非统计局(Stats SA)13日公布的数据显示，南非矿业产出6月同比下降4.0%，降幅超出市场预期；6月矿产品销售额同比增长27.2%。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677392.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-14T02:24:11.000Z"
+      "publishedAt": "2026-08-14T04:16:26.000Z"
     },
     {
       "id": "405388ae86e1",
-      "title": "Australia news live: Jacinta Allan to quit politics; Sydney airport near-miss distance was ‘substantial’ 1.3km, Airservices says",
+      "title": "Australia news live: Jacinta Allan to quit politics; sacked KPMG partner faces leaks scandal inquiry",
       "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Albanese says gambling inducements are ‘over the top’ Albanese said gambling inducements are…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-14T02:23:40.000Z"
+      "publishedAt": "2026-08-14T04:08:51.000Z"
     },
     {
-      "id": "f7723c4cac4e",
-      "title": "英国录得今年最高气温 极端高温加剧医疗压力",
-      "summary": "中新网伦敦8月14日电 (记者 欧阳开宇)英国气象局最新监测数据显示，伦敦邱园花园13日测得38.1摄氏度的临时最高温，刷新英国2026年年内气温纪录，同时跻身英国有记录以来第五高温日。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677395.shtml",
+      "id": "6b8a79257efd",
+      "title": "中吉联合考古队完成首年度舒拉巴夏特古城遗址考古工作",
+      "summary": "近日，中吉联合考古队舒拉巴夏特古城遗址首年度考古工作完成。联合考古队由丝绸之路考古合作研究中心与吉尔吉斯斯坦国家科学院历史、考古与民族学研究所等相关机构的15名专家学者组成。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677535.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:23:03.000Z"
+      "publishedAt": "2026-08-14T04:08:31.000Z"
     },
     {
-      "id": "a8554097f328",
-      "title": "朝鲜外务省：美韩8月联合军演本质是“侵略战争预演”",
-      "summary": "中新社北京8月14日电 平壤消息：据朝中社当地时间14日报道，朝鲜外务省发言人13日发表谈话称，美国和韩国宣布将于8月17日开始进行2026“乙支自由之盾”大规模联合军演，此次军演本质是“侵略战争预演”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677373.shtml",
+      "id": "44bf372d6fa0",
+      "title": "江西非遗新干剪纸：一把剪刀守匠心 方寸红纸传文脉",
+      "summary": "中新网吉安8月14日电 (付丽玲 熊锦阳)“咔嚓、咔嚓……”剪刀裁过红纸的轻响，在江西省吉安市新干县民间剪纸匠艺坊内格外清晰。细碎的朱红纸屑顺着刀锋簌簌落下，不过片刻，缠枝花卉与吉祥纹样便缓缓出现在纸上，质朴鲜活的作品轮廓渐显。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677533.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:22:01.000Z"
+      "publishedAt": "2026-08-14T04:03:05.000Z"
     },
     {
-      "id": "88f1619e3e4d",
-      "title": "古巴强烈反对多米尼加驱逐多名古巴外交官",
-      "summary": "中新社北京8月14日电 哈瓦那消息：古巴外交部当地时间13日强烈反对多米尼加政府驱逐10名古巴外交官员及其家人的决定。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677374.shtml",
+      "id": "074fbacc35ce",
+      "title": "Morrison-era GST deal with WA a multi-billion dollar mistake that should be reversed, Productivity Commission finds",
+      "summary": "Interim report calls for carve-up deal that has only benefited Western Australia to be ‘reshaped’ as it has achieved almost none of its objectives Follow our Australia news live…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/14/morrison-era-gst-deal-western-australia-23bn-mistake-productivity-commission",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-14T04:00:19.000Z"
+    },
+    {
+      "id": "f5067bbd8252",
+      "title": "Indonesia wildfires threaten orangutans rescued from animal traffickers",
+      "summary": "Blaze fuelled by hot, dry and windy conditions comes within metres of West Kalimantan rehabilitation centre Orangutans rescued from wildlife traffickers face a new threat from th…",
+      "url": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-14T04:00:16.000Z"
+    },
+    {
+      "id": "db866c9858c7",
+      "title": "经济政策一线微观察｜流水线变风景线，暑期“工厂游”火了",
+      "summary": "视频：经济政策一线微观察｜流水线变风景线，暑期“工厂游”火了来源：新华社",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677530.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:21:21.000Z"
+      "publishedAt": "2026-08-14T03:53:50.000Z"
     },
     {
-      "id": "c20ebd3f0b84",
-      "title": "英国东萨塞克斯郡发生列车脱轨事故",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-14/1201020.shtml",
+      "id": "193864dfffee",
+      "title": "中使馆发布关于中国企业和公民来泰国投资经商的提醒",
+      "summary": "中新网8月14日电 据中国驻泰国大使馆微信公众号消息，随着中泰经贸投资合作不断深化，越来越多中国企业和公民赴泰投资兴业，为泰经济社会发展和中泰务实合作作出积极贡献。为推动在泰投资经营依法合规、健康有序、可持续发展，中国驻泰国使馆提醒广大中资企业和中国公民注意以下事项：",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-14/10677529.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:18:45.000Z"
+      "publishedAt": "2026-08-14T03:48:44.000Z"
     },
     {
-      "id": "58cf8fc7dc78",
-      "title": "广东9月1日起调整最低工资标准",
-      "summary": "中新网广州8月14日电 (记者 程景伟)广东省人民政府网站13日发布广东省人民政府关于调整该省最低工资标准的通知。从2026年9月1日起，广东对该省全日制就业劳动者月最低工资标准和非全日制小时最低工资标准进行调整。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-14/10677455.shtml",
+      "id": "f143a1662f3c",
+      "title": "直击河南郏县北汝河段民堤溃口抢险",
+      "summary": "中新社河南平顶山8月14日电 (记者 王宇 韩章云)中新社记者14日上午在河南平顶山郏县长桥镇北汝河段民堤溃口现场看到，经大量抢险人员“水陆空”昼夜不间断作业，溃口正持续缩小。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677526.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:16:02.000Z"
+      "publishedAt": "2026-08-14T03:46:26.000Z"
     },
     {
-      "id": "1474af6585cb",
-      "title": "中宣部等部门联合部署开展《中华人民共和国生态环境法典》学习宣传工作",
-      "summary": "近日，中宣部等19家部门和单位联合部署开展《中华人民共和国生态环境法典》学习宣传工作，要求各地充分利用8月15日全国生态日和生态环境法典正式施行这一时间节点，广泛开展社会宣传和主题活动，教育引导广大干部群众不断提升生态文明法治素养，自觉践行绿水青山就是金山银山的理念，积极投身人与自然和谐共生的现代化建设实践。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677451.shtml",
+      "id": "2a98bc0aaac8",
+      "title": "“鱼在积水路上游”“玉米地成河”？别信！均为涉汛谣言",
+      "summary": "近日，受台风“白海豚”影响，河南省多地迎来大范围强降雨天气。正值防汛工作紧要关头，网络上却出现“鱼在积水道路上游”“玉米地里都成河了”“南乐成大海了”“孟州遭遇暴雨”等涉灾信息。经属地核实，这些内容均系谣言。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677532.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:10:54.000Z"
+      "publishedAt": "2026-08-14T03:45:32.000Z"
     },
     {
-      "id": "c013b89737ce",
-      "title": "河南省开封市政府党组副书记张红伟接受审查调查",
-      "summary": "中新网8月14日电 据河南省纪委监委消息：河南省开封市委常委，市政府党组副书记、常务副市长张红伟涉嫌严重违纪违法，目前正接受河南省纪委监委纪律审查和监察调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677444.shtml",
+      "id": "02cee06f1540",
+      "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
+      "summary": "2026年度中國高校畢業生達1,270萬人，創歷史新高，加上往屆未就業與回流的海外留學生，求職人數突破1,500萬人。面對「降本增效」的職場新常態，年輕一代應如何調整定位？",
+      "url": "https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-14T03:41:21.000Z"
+    },
+    {
+      "id": "7cd4e71ec738",
+      "title": "A股午评：超3400只个股飘绿，沪指收跌，深指、创业板指收涨",
+      "summary": "；稀土概念走强，通信设备、能源设备板块上涨；文化传媒、医药、房地产下跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677524.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:10:38.000Z"
+      "publishedAt": "2026-08-14T03:39:17.000Z"
     },
     {
-      "id": "c2ffd07ee836",
-      "title": "前7个月千亿元专项债券助力盘活存量土地",
-      "summary": "证券日报记者 张芗逸",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677450.shtml",
+      "id": "c6fa8b75a0fb",
+      "title": "【“十五五”开好局起好步】我国全面推进美丽中国建设",
+      "summary": "央视网消息(新闻联播)：国务院新闻办公室8月13日举行“开局起步‘十五五’”系列主题新闻发布会。生态环境部相关负责人介绍全面推进美丽中国建设有关情况。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677507.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:09:02.000Z"
+      "publishedAt": "2026-08-14T03:38:01.000Z"
     },
     {
-      "id": "fd0754e5662d",
-      "title": "九旬马来西亚归侨肖思明：亲历南洋日寇暴行 跨海归国投笔从戎",
-      "summary": "中新网上海8月14日电 题：九旬马来西亚归侨肖思明：亲历南洋日寇暴行 跨海归国投笔从戎",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-14/10677436.shtml",
+      "id": "ae9a71ad3c03",
+      "title": "“林肯”号官兵处境引不满，美参院民主党领袖吁立即罢免防长",
+      "summary": "中新网8月14日电 综合报道，美国参议院民主党领袖查克·舒默当地时间13日在社交媒体发文，要求立即解除国防部长皮特·赫格塞思的职务。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677525.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:05:46.000Z"
+      "publishedAt": "2026-08-14T03:37:43.000Z"
     },
     {
-      "id": "8eea6634e887",
-      "title": "美军称将组建多国攻击无人机部队 美民众表达担忧",
-      "summary": "中新网8月14日电 当地时间13日，美军中央司令部在社交媒体发布消息称，将组建首支多国攻击无人机部队。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677434.shtml",
+      "id": "8fd53c72a0a1",
+      "title": "2026暑期档电影票房超92亿 “电影+”带动消费新活力",
+      "summary": "截至目前，2026暑期档电影票房已突破92亿元。今年暑期档影片类型丰富、题材多元，超120部中外影片陆续上映，连续34天单日票房过亿。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677520.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:05:28.000Z"
+      "publishedAt": "2026-08-14T03:32:55.000Z"
     },
     {
-      "id": "8fe690172f5c",
-      "title": "年内熊猫债发行规模超2000亿元创历史新高",
-      "summary": "证券日报记者 韩 昱",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677446.shtml",
+      "id": "9dca193d863a",
+      "title": "中国车在欧洲“跑”得有多快？欧洲对华电动汽车认知逆转的背后",
+      "summary": "零时差丨中国车在欧洲“跑”得有多快？欧洲对华电动汽车认知逆转的背后",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677458.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:05:14.000Z"
+      "publishedAt": "2026-08-14T03:32:41.000Z"
     },
     {
-      "id": "b8ecab34baa5",
-      "title": "23岁消防员池坷杰在福安船厂灭火中英勇牺牲",
-      "summary": "中新网福州8月14日电 (记者 龙敏)福建省消防救援总队14日通报，年仅23岁的宁德市消防救援支队福安市工业路消防救援站政府专职消防队员池坷杰在福安船厂灭火中英勇牺牲。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677430.shtml",
+      "id": "f902f69cb9b1",
+      "title": "突破底线，日本“新型军国主义”成势为患",
+      "summary": "(寰宇平)",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677506.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:04:24.000Z"
+      "publishedAt": "2026-08-14T03:32:31.000Z"
     },
     {
-      "id": "522adf5b2b1c",
-      "title": "二季度货币政策执行报告释放了哪些新信号？",
-      "summary": "证券日报记者 刘 琪",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677443.shtml",
+      "id": "8b7ad604510a",
+      "title": "Sydney airport incident involving Virgin and Qantas flights didn’t have to be reported, Airservices Australia says",
+      "summary": "Airservices boss says planes remained 1km apart so runway incursion ‘didn’t meet mandatory reporting requirements’ but safety bureau is ‘concerned’ Follow our Australia news live…",
+      "url": "https://www.theguardian.com/world/2026/aug/14/sydney-airport-virgin-qantas-flights-runway-saftey-incident-report",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-14T03:32:16.000Z"
+    },
+    {
+      "id": "663717692a65",
+      "title": "防卫预算申请额创新高 日本加速“再军事化”",
+      "summary": "日本2027财年防卫预算申请额再创历史新高，最终规模或达10万亿日元之巨。不仅如此，日方近日发布的2026版《防卫白皮书》，将军工产业扩张包装为经济增长点，引发各方警惕。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677477.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:04:00.000Z"
+      "publishedAt": "2026-08-14T03:31:55.000Z"
     },
     {
-      "id": "7c5ffa356438",
-      "title": "生态环境法典明起实施 最高法发布六件海洋生态环境司法保护典型案例",
-      "summary": "《中华人民共和国生态环境法典》将于今年8月15日起实施。在生态环境法典即将施行之际，最高人民法院今天发布六件海洋生态环境司法保护典型案例，集中展示海事审判在维护国家海洋权益、保护海洋生态环境、推动绿色低碳发展的独特作用与专业担当，充分发挥典型案例以案释法、以案普法的示范引导作用，加大生态环境法典学习宣传力度，促进和深化生态环境法典的全面准确贯彻实施。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677441.shtml",
+      "id": "992ca3ff5484",
+      "title": "斯里兰卡籍学者参观天山胜利隧道：新疆导游说的话我信服！",
+      "summary": "海外高校教师看新疆丨斯里兰卡籍学者参观天山胜利隧道：新疆导游说的话我信服！",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677501.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:01:48.000Z"
+      "publishedAt": "2026-08-14T03:31:19.000Z"
     },
     {
-      "id": "46783f5a4f3c",
-      "title": "台湾青年苏恒：新疆少数民族的爱国情怀让我触动",
-      "summary": "中新网8月14日电(燕新台)去年10月，台湾中华海峡经贸交流协会理事长苏恒首次踏上新疆这片她心生向往的土地。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-14/10677423.shtml",
+      "id": "7ec3a35a9cd6",
+      "title": "“上下楼即上下游” 北京中关村具身智能产业加速布局",
+      "summary": "中新网北京8月14日电 (牛琳 杜思凝 李在阳 李立卓)作为全国首家以“具身智能”命名的特色产业园，2025年2月挂牌的中关村(海淀)具身智能创新产业园，快速构建起“上下楼即上下游”的具身智能产业生态，入驻的具身智能和人工智能企业覆盖具身智能产业上下游核心环节，可实现“零距离”技术协同与创新协作。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677519.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:01:38.000Z"
+      "publishedAt": "2026-08-14T03:30:35.000Z"
     },
     {
-      "id": "d846737f7110",
-      "title": "壹视界·任平文章解读丨从三对关系，读懂总书记的牵挂",
-      "summary": "“老百姓想什么，共产党就干什么。”",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677406.shtml",
+      "id": "f680cbc1fe63",
+      "title": "勇立潮头大湾区丨河套深港科创协同跑出“加速度”",
+      "summary": "一片不到4平方公里的土地",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-14/10677494.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T02:00:11.000Z"
+      "publishedAt": "2026-08-14T03:30:05.000Z"
     },
     {
-      "id": "cd432364140e",
-      "title": "房贷利率已降至“2字头”？ 理性看待市场化差异",
-      "summary": "理性看待房贷利率市场化差异",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677437.shtml",
+      "id": "bbd419fc23d6",
+      "title": "我的新疆日记·第二天：吐鲁番，热浪的馈赠",
+      "summary": "编者按",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677492.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T01:59:37.000Z"
+      "publishedAt": "2026-08-14T03:29:49.000Z"
     },
     {
-      "id": "22e1f7391cd0",
-      "title": "AI短剧试水运营新路径 商业化落地仍待验证",
-      "summary": "日前，AI短剧《被裁掉的女孩》热度持续走高，其主角“方桃子”进军广告市场、承接品牌商单，引发业内广泛关注。业内专家指出，AI短剧行业正加速探索IP长效运营的商业新路径，试图开辟内容增收的“第二曲线”。然而，其首条品牌植入视频因合规争议最终下架，新兴商业化路径的可行性与合规性仍有待验证。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677435.shtml",
+      "id": "4861402426bb",
+      "title": "牛津能源研究所专家：中国新能源发展持续“超额”完成目标",
+      "summary": "近日，英国牛津能源研究所高级研究员安德斯·霍夫在接受加拿大能源媒体采访时表示，中国的新能源发展速度持续超越规划目标，展现出强劲势头。随着新能源技术成本持续下降、系统融合难题逐步解决，中国能源转型不断提速。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677479.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-14T03:28:11.000Z"
+    },
+    {
+      "id": "359e5265b8e8",
+      "title": "日本政府加速推进“再军事化”动向引发各界广泛担忧和强烈批评",
+      "summary": "——",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677471.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-14T03:27:51.000Z"
+    },
+    {
+      "id": "ca4e0434b488",
+      "title": "AI破圈好物持续“上新” 中国智造圈粉世界",
+      "summary": "消费是推动经济增长和经济发展的基础性力量。《扩大消费“十五五”规划》提出，将“培育打造消费新业态新模式新场景”作为贯穿各领域的主线，并明确提出深入推进“人工智能+消费”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677464.shtml",
       "source": "中国新闻网",
       "category": "AI",
       "language": "zh",
-      "publishedAt": "2026-08-14T01:57:53.000Z"
+      "publishedAt": "2026-08-14T03:27:25.000Z"
     },
     {
-      "id": "5d445f860eee",
-      "title": "日本千叶县破纪录强降雨已致4人死 成田机场约7000人滞留",
-      "summary": "中新网8月14日电 据路透社报道，日本千叶县遭遇破纪录强降雨，引发洪水并严重扰乱交通。截至14日上午，灾害已造成至少4人死亡，东京成田机场约7000名旅客因周边交通受阻而滞留。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677433.shtml",
+      "id": "43bc78843f00",
+      "title": "杂技剧《等雨来》在广西南宁上演 油纸伞串起两岸三代情",
+      "summary": "中新网南宁8月14日电(张广权 肖景凤)第十三届全国杂技展演大型原创杂技剧《等雨来》近日在广西南宁上演。该剧由福建省杂技团创作演出。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677516.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T01:56:47.000Z"
+      "publishedAt": "2026-08-14T03:23:36.000Z"
     },
     {
-      "id": "1489b56e5cb2",
-      "title": "一批哲学社会科学领域重要出版项目在沪签约",
-      "summary": "中新网上海8月14日电 (记者 王笈)作为2026上海书展重点活动之一，“推动哲学社会科学高质量发展”主题出版研讨会暨重点出版项目签约仪式13日在上海举行。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677413.shtml",
+      "id": "6f9d6d3acead",
+      "title": "中国对所有非洲建交国全面实施零关税，埃及鲜橙打开更广阔市场—— 一颗鲜橙“两头甜”",
+      "summary": "得益于充足的光照和适宜的温差，埃及鲜橙饱满多汁、清甜可口。埃及多年居全球鲜橙出口量首位，也是中国进口鲜橙的重要来源地。埃方数据显示，2025年，埃及鲜橙对中国出口额约为2600万美元。自今年5月1日起，中国对所有非洲建交国全面实施零关税举措，为埃及鲜橙打开更广阔的市场，为中埃经贸合作注入更强信心与动力。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677456.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T01:56:25.000Z"
+      "publishedAt": "2026-08-14T03:23:26.000Z"
     },
     {
-      "id": "2f1e584693b6",
-      "title": "山西公安曝光两起“舆情敲诈”典型案例 共6名嫌犯被抓",
-      "summary": "中新网太原8月14日电 (记者 李庭耀)13日晚，山西公安机关集中曝光两起“舆情敲诈”典型案件。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677431.shtml",
+      "id": "b441a3f4154a",
+      "title": "暑期以来皇岗边检站查验免签入境外国人次同比增长43.2%",
+      "summary": "中新网深圳8月14日电 (索有为 黄俊生 王彧恬)据深圳出入境边防检查总站14日发布的统计数据，7月1日至8月13日，皇岗边检站共查验经皇岗、福田口岸和福田保税区一号通道出入境人员逾958万人次，查验出入境车辆40万辆次，同比分别增长1.1%、6.7%。其中，免签入境外国人2.8万人次，同比增长43.2%。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-14/10677514.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T01:56:03.000Z"
+      "publishedAt": "2026-08-14T03:23:18.000Z"
     },
     {
-      "id": "46a1f8309d9c",
-      "title": "三十余份半年报“交卷” 北交所企业成长活力凸显",
-      "summary": "截至8月13日记者发稿时止，已有30余家北交所上市公司披露2026年半年报，企业成长成色初现。总体来看，已披露半年报的公司业绩表现抢眼，约三分之一企业上半年归母净利润同比增长超80%。算力服务、新能源、半导体等高景气赛道成为拉动业绩增长的核心引擎，凸显北交所“专精特新”企业的成长活力。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677432.shtml",
+      "id": "90f9b1f723de",
+      "title": "汽车私改“移动泳池” 涉事驾驶人被罚款记分",
+      "summary": "近日，青海西宁街头出现了惊险一幕，一辆行驶中的皮卡车，后货箱竟然被改造成了一个迷你“移动泳池”，这种违法行为很快被警方查处。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677521.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-14T01:55:33.000Z"
+      "publishedAt": "2026-08-14T03:23:08.000Z"
+    },
+    {
+      "id": "e53d89e53ae1",
+      "title": "一批侵华日军“慰安妇”制度受害者珍贵资料入藏",
+      "summary": "今天(8月14日)，侵华日军南京大屠杀遇难同胞纪念馆获捐一批“慰安妇”制度受害幸存者调查走访影像资料。捐赠人为原浙江省新闻出版局干部李晓方和孝感日报主任编辑晏美华，二人长期致力于日军侵华“慰安妇”制度史料搜集、调查取证与历史研究工作。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677518.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-14T03:21:32.000Z"
+    },
+    {
+      "id": "27e1c8df6b4e",
+      "title": "好评中国·“经”彩开局｜知识产权保护和运用，如何破题？",
+      "summary": "近期，关于“知识产权”最火的话题莫过于“路易威登(LV)诉茉莉奶白商标侵权案”了。虽然尊重知识产权早已成为社会共识，但是由版权、商标乃至AI生成内容引发的相关讨论越来越多，说明了一件事，关于如何更好保护和运用知识产权，深刻融入到我们现在社会生活方方面面。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677442.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-14T03:20:52.000Z"
+    },
+    {
+      "id": "00b5c76bb738",
+      "title": "【光明时评】科技体验成为“中国游”新热点",
+      "summary": "【光明时评】",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677448.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-14T03:20:32.000Z"
+    },
+    {
+      "id": "d21028e5c5e8",
+      "title": "今年前7月国开行发放养老产业贷款同比增长超50%",
+      "summary": "中新网北京8月14日电 (记者 王恩博)记者14日自国家开发银行获悉，今年前7个月，国开行发放养老产业贷款超100亿元，同比增长超50%，支持了一批普惠可及的“小而美”项目落地实施。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677511.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-14T03:20:24.000Z"
+    },
+    {
+      "id": "b26f820e06fe",
+      "title": "深刻领悟习近平党建思想的理论品格",
+      "summary": "作者：蔡文成(甘肃省中国特色社会主义理论体系研究中心研究员、兰州大学马克思主义学院院长)",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-14/10677452.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-14T03:19:42.000Z"
     },
     {
       "id": "d06b1516ea75",
@@ -338,16 +388,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-14T01:54:13.000Z"
-    },
-    {
-      "id": "3a0ed2643b5e",
-      "title": "“跟着电影去旅游”成暑期新时尚 影旅融合激活消费新动能",
-      "summary": "中新网石嘴山8月14日电 题：“跟着电影去旅游”成暑期新时尚 影旅融合激活消费新动能",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677426.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-14T01:50:00.000Z"
     },
     {
       "id": "2666fa4c8cda",
@@ -458,26 +498,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-13T15:17:13.000Z"
-    },
-    {
-      "id": "2e5f51535a82",
-      "title": "One Nation staffer accused of posing as leftwing content creator in ‘undercover’ videos",
-      "summary": "Exclusive: The videos, filmed at anti-One Nation rallies, were posted to party’s social pages and appear to be endorsed by Pauline Hanson Follow our Australia news live blog for…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/14/one-nation-staffer-accused-of-posing-as-leftwing-content-creator-in-undercover-videos-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-13T15:00:04.000Z"
-    },
-    {
-      "id": "29db1204fd97",
-      "title": "Is Australia’s buy now, pay later boom at an end?",
-      "summary": "Several firms promised to disrupt the consumer credit market by offering consumers their purchases instantly and the bill later. Did it work? Get our breaking news email , free a…",
-      "url": "https://www.theguardian.com/business/2026/aug/14/is-australias-buy-now-pay-later-boom-at-an-end",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-13T15:00:03.000Z"
     },
     {
       "id": "f44e6f85be0f",
@@ -860,16 +880,6 @@
       "publishedAt": "2026-08-12T11:00:27.000Z"
     },
     {
-      "id": "d736b40753d8",
-      "title": "中國單身漢為何陷「閃婚」騙局？",
-      "summary": "BBC駐中國記者碧嘉蘭（Laura Bicker）走訪「閃婚」婚介市場，了解部分婚介機構如何在短短幾天內安排男女結婚，並採訪多名聲稱因騙婚而蒙受損失的男性，其中有人因此損失畢生積蓄。",
-      "url": "https://www.bbc.com/zhongwen/articles/cz7d2e0j5veo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-12T10:31:56.000Z"
-    },
-    {
       "id": "992d25fb7f83",
       "title": "AI was supposed to destroy jobs. Where’s the carnage?",
       "summary": "The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to come The prediction was stark: artificial intelligence advancements would wipe out…",
@@ -948,16 +958,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-12T04:43:19.000Z"
-    },
-    {
-      "id": "fc19637f7f8d",
-      "title": "Passenger jet billed as China’s answer to Boeing and Airbus prepares to make first international flight",
-      "summary": "The Comac C919 will fly from Beijing to Ulaanbaatar in Mongolia, although experts say it could take generations for it to challenge the west’s dominance of the industry China hop…",
-      "url": "https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T02:02:04.000Z"
     },
     {
       "id": "d3d2c0a51d98",
