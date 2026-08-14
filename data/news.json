@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:53:25.901Z",
+  "updatedAt": "2026-08-14T22:32:40.203Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "e7134b137c5a",
+      "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+      "summary": "当地时间8月14日，美国总统特朗普在接受媒体采访时表示，美国将在经济上对伊朗实施严厉打击。此外，特朗普在谈及伊朗时表示，他“很快将宣布霍尔木兹海峡成为美国领土”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678012.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-14T22:18:36.000Z"
+    },
     {
       "id": "def668b7e9dc",
       "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
@@ -128,16 +138,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-14T15:52:31.000Z"
-    },
-    {
-      "id": "6fe80a0f886f",
-      "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
-      "summary": "Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001 Andy Burnham looks to cut new EV sales targets Insurer Aviva sai…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-14T15:41:04.000Z"
     },
     {
       "id": "0fbfd4de8356",
@@ -458,16 +458,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-14T14:22:18.000Z"
-    },
-    {
-      "id": "9bc8036679a8",
-      "title": "零时差｜侵略者家书，就是日本军国主义的自供状",
-      "summary": "今年8月15日，是日本宣布无条件投降81周年。在这个理应正视历史、反省罪责的重要节点，一批尘封80余年的侵华日军“军事邮便”重回公众视野。这些经战时日军严格审查、从中国战场寄回日本本土的战地家书，不仅是侵略者亲笔写下的自供状，更是军国主义思想渗透驯化的鲜活标本。字里行间的冷血与傲慢清晰昭示：军国主义的幽灵从未真正远去，历史的警示始终振聋发聩。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677979.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-14T14:21:26.000Z"
     },
     {
       "id": "e0473062e0bc",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-10T09:16:11.000Z"
+    },
+    {
+      "id": "8af78702a748",
+      "title": "Samsung Galaxy Z Fold 8 review: your passport to a folding phone future",
+      "summary": "Novel squat Android opens to an iPad-like screen for video or multitasking, with plenty of power and battery life Samsung’s latest folding phone breaks the mould with a squat, pa…",
+      "url": "https://www.theguardian.com/technology/2026/aug/10/samsung-galaxy-z-fold-8-review-folding-phone",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-10T06:00:37.000Z"
     }
   ]
 }
