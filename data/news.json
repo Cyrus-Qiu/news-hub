@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T17:02:19.705Z",
+  "updatedAt": "2026-08-14T17:58:31.515Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,36 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "c56a140b572c",
+      "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+      "summary": "Palestine’s vice-president calls plan ‘flagrant violation of international law’ and a step towards full Israeli annexation Israel’s defence minister wants to transfer law enforce…",
+      "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-14T17:52:51.000Z"
+    },
+    {
+      "id": "f07a42efe83b",
+      "title": "French court blocks Macron’s social media ban for under-15s",
+      "summary": "Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislation France’s top court has blocked a ban on social media access f…",
+      "url": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-14T17:12:14.000Z"
+    },
+    {
+      "id": "f5f20ab5b68a",
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France…",
+      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-14T16:58:04.000Z"
+    },
+    {
       "id": "c88f94fe7531",
       "title": "中国人民银行将发行江泽民诞辰100周年纪念币",
       "summary": "新华社北京8月14日电 中国人民银行8月14日发布公告称，定于2026年8月17日起陆续发行江泽民诞辰100周年纪念币。江泽民诞辰100周年纪念币共4枚，其中普通纪念币1枚，金质纪念币2枚，银质纪念币1枚，均为中华人民共和国法定货币。",
@@ -40,42 +70,22 @@
       "publishedAt": "2026-08-14T16:56:07.000Z"
     },
     {
-      "id": "f07a42efe83b",
-      "title": "French court blocks Macron’s social media ban for under-15s",
-      "summary": "Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislation France’s top court has blocked a ban on social media access f…",
-      "url": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-14T16:51:59.000Z"
-    },
-    {
-      "id": "f5f20ab5b68a",
-      "title": "Hundreds arrested over suspected arson in France as wildfires rage across Europe",
-      "summary": "One person killed and hundreds evacuated in Croatia with Germany, Spain and Greece also affected Almost 500 people have been arrested on suspicion of starting wildfires in France…",
-      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-14T16:44:07.000Z"
-    },
-    {
       "id": "6c9831afbdfb",
       "title": "Canadian plasma clinics pause collections after deaths of two donors",
-      "summary": "Government launches investigation into potential unsafe practices at Spanish healthcare company Grifols A chain of private plasma donation clinics in Canada has said it is pausin…",
+      "summary": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has sai…",
       "url": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
       "source": "The Guardian World",
-      "category": "商业",
+      "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-14T16:21:39.000Z"
     },
     {
       "id": "64c5b4e5fc2d",
-      "title": "Scottish police expect ‘great deal of public opposition’ to planned Larbert datacentre",
-      "summary": "Planning consultation told ‘robust security measures’ will be needed amid growing resistance to such developments Scottish police have warned that a proposed datacentre will requ…",
+      "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres",
+      "summary": "‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says Police in Scotland have issued a stark public warning about the need for “ro…",
       "url": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
       "source": "The Guardian Technology",
-      "category": "科技",
+      "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-14T16:05:31.000Z"
     },
@@ -1098,16 +1108,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-12T00:07:28.000Z"
-    },
-    {
-      "id": "78b87888e2c8",
-      "title": "Human rights groups sue Trump administration over ‘crippling’ ICC sanctions",
-      "summary": "Lawsuit challenges executive order targeting international criminal court for investigating Israeli crimes in Palestine Four prominent US human rights organizations have accused…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T15:10:16.000Z"
     },
     {
       "id": "de1df69891bf",
