@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:38:09.000Z",
+  "updatedAt": "2026-08-14T21:33:46.443Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "def668b7e9dc",
+      "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
+      "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clear Donald Trump has threatened to declare the strait of Hormuz as “a territ…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-14T21:14:55.000Z"
+    },
+    {
+      "id": "b8ee5b69ef0a",
+      "title": "BBC seeks to subpoena Trump’s eldest children and son-in-law over defamation lawsuit",
+      "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it…",
+      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-14T21:05:47.000Z"
+    },
+    {
+      "id": "e7a67c959b18",
+      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
+      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its b…",
+      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-14T21:03:43.000Z"
+    },
     {
       "id": "c56a140b572c",
       "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
@@ -448,16 +478,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-14T14:04:49.000Z"
-    },
-    {
-      "id": "be559af2ab15",
-      "title": "Italian police recover paintings by Cézanne, Renoir and Matisse after heist",
-      "summary": "Artworks valued at total of more than $10m were stolen from Magnani Rocca Foundation near Parma in March Italian police have recovered three paintings by the French masters Paul…",
-      "url": "https://www.theguardian.com/world/2026/aug/14/italian-police-recover-stolen-paintings-cezanne-renoir-matisse",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-14T13:32:31.000Z"
     },
     {
       "id": "95d71d336c3e",
@@ -910,16 +930,6 @@
       "publishedAt": "2026-08-12T17:30:21.000Z"
     },
     {
-      "id": "93a2529732e1",
-      "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
-      "summary": "Emergency services, residents and environmental groups say military dropping flares to destroy forests and crops Firefighters and residents of south Lebanon have accused the Isra…",
-      "url": "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T16:17:55.000Z"
-    },
-    {
       "id": "0f441c207d96",
       "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
       "summary": "中國前總理朱鎔基週三在北京逝世。在1990至2000年代擔任副總理和總理期間，他主導中國經濟改革逾十年，被外界稱為中國「經濟沙皇」。",
@@ -1098,16 +1108,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-12T00:07:28.000Z"
-    },
-    {
-      "id": "de1df69891bf",
-      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
-      "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto…",
-      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T14:03:28.000Z"
     },
     {
       "id": "16e2ba45fe86",
