@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T13:55:52.239Z",
+  "updatedAt": "2026-08-15T14:31:52.290Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,106 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "afbad0b55ac1",
+      "title": "莫言刷短剧拒绝“套路” 谈AI有体会",
+      "summary": "中新社上海8月15日电 (记者 王笈)著名作家莫言时隔6年推出的全新小说集《人呐》，用短的篇幅写出深的人心。15日下午，他在2026上海书展的新书分享会上表示，“我这81篇短小说，人物是有性格的，故事是不重复的，情节既合理又奇特；如果改编成短剧，肯定比现在的那些‘爽剧’更有文学性、更能让人思考。”",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678432.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-15T14:15:16.000Z"
+    },
+    {
+      "id": "020a398cf94d",
+      "title": "日本民众游行反对政客参拜靖国神社",
+      "summary": "中新社东京8月15日电 (记者 朱晨曦)百余名日本民众15日冒雨在东京举行抗议游行，反对政客向供奉有二战甲级战犯的靖国神社供奉祭祀费或参拜。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678425.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T14:10:56.000Z"
+    },
+    {
+      "id": "5758990e5d4b",
+      "title": "印尼7.7级地震已致47人死亡 3名中国游客受轻伤",
+      "summary": "中新社雅加达8月15日电 (记者 李志全)印度尼西亚国家抗灾署15日通报，截至当地时间18时48分，弗洛勒斯岛附近海域7.7级地震已造成47人死亡。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678422.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T14:09:18.000Z"
+    },
+    {
+      "id": "d6e91ebdfdc8",
+      "title": "毛乌素的雨，落在世界青年的肩头",
+      "summary": "毛乌素，蒙古语意为“坏水”。千百年来，这片沙地以干旱、贫瘠、荒凉闻名于世。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678429.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T14:07:54.000Z"
+    },
+    {
+      "id": "415eeab89b1c",
+      "title": "Powerful earthquake kills dozens in eastern Indonesia",
+      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T14:03:09.000Z"
+    },
+    {
+      "id": "505c7ab472ec",
+      "title": "2026海峡两岸（南昌）青年棒垒球交流活动开幕",
+      "summary": "中新社南昌8月15日电 (朱莹 吴思瑜)2026海峡两岸(南昌)青年棒垒球交流活动15日在江西南昌启幕，赣台两地近130名运动员参赛。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678423.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T14:01:29.000Z"
+    },
+    {
+      "id": "a8fe81d8cbe2",
+      "title": "中国官方发布推动生态环境损害赔偿制度改革进程十大案例",
+      "summary": "中新社北京8月15日电 (记者 阮煜琳)今年8月15日是中国第四个全国生态日，也是《中华人民共和国生态环境法典》施行之日。当日，中国生态环境部与最高人民法院、最高人民检察院联合发布“推动生态环境损害赔偿制度改革进程的十大案例”。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678424.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T14:01:09.000Z"
+    },
+    {
+      "id": "bd963ed3a98c",
+      "title": "Naidoc awards honour ‘fearless, brilliant’ promoter of First Nations culture Rhoda Roberts",
+      "summary": "Proud Widjabul Wieybal woman of the Bundjalung nation recognised posthumously with the lifetime achievement award Get our breaking news email , free app or daily news podcast One…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/16/naidoc-awards-2026-rhoda-roberts-first-nations-honour-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T14:01:01.000Z"
+    },
+    {
+      "id": "94bd72a5875b",
+      "title": "2026两岸青年企业家菁英论坛暨两岸青年研学交流活动在江苏昆山举办",
+      "summary": "中新社江苏昆山8月15日电 (记者 钟升)2026两岸青年企业家菁英论坛暨两岸青年研学交流活动15日在江苏省昆山市开幕。此次活动由两岸企业家峰会主办，主题是“青创成就梦想 AI赋能未来”，约450名两岸青年企业家代表、青年学生等参加活动。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678421.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:59:29.000Z"
+    },
+    {
+      "id": "be0547c48ba1",
+      "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+      "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured i…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T13:55:28.000Z"
+    },
+    {
       "id": "dd801dda5bb4",
       "title": "调查显示：柬埔寨青年对中柬人文交流认知大幅正向提升",
       "summary": "中新社金边8月15日电 (记者 杨强)《面向新时代全天候中柬命运共同体建设：2025年度柬埔寨青年对中柬人文交流认知调查报告》14日在金边发布。报告深度描绘柬埔寨青年对中柬人文交流认知现状，为深化新时代中柬命运共同体建设提供翔实的第一手数据。",
@@ -58,6 +158,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-15T13:39:00.000Z"
+    },
+    {
+      "id": "377915a1958e",
+      "title": "【活力中国调研行】张家界“文化名片”发力 欧美游客大涨",
+      "summary": "近日，中新社记者跟随“活力中国调研行”主题采访活动走进湖南张家界，随处可见境外旅行团和自由行的游客。",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-15/news1065537.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:38:47.000Z"
     },
     {
       "id": "50d54e415dba",
@@ -110,14 +220,14 @@
       "publishedAt": "2026-08-15T13:34:31.000Z"
     },
     {
-      "id": "415eeab89b1c",
-      "title": "Powerful earthquake kills dozens in eastern Indonesia",
-      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia, has killed…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T13:33:35.000Z"
+      "id": "36da884f7fd1",
+      "title": "日本民众冒雨游行 抗议右翼政客“拜鬼”",
+      "summary": "当地时间8月15日，日本首相高市早苗向靖国神社供奉“玉串料”(祭祀费)，并在出席“全国战殁者追悼仪式”前，遥拜靖国神社。当日，日本民众在东京淡路公园附近举行抗议游行，高喊“靖国神社是侵略战争的象征”“不要赞美战争的神社”等口号，反对日本政要向靖国神社供奉祭祀费或参拜。(朱晨曦 制作 王雪茵)",
+      "url": "http://www.chinanews.com.cn/gj/shipin/cns-d/2026/08-15/news1065536.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:31:59.000Z"
     },
     {
       "id": "b79d74143e08",
@@ -260,96 +370,6 @@
       "publishedAt": "2026-08-15T12:57:13.000Z"
     },
     {
-      "id": "1c4257a0e2d7",
-      "title": "2026海峡两岸（南昌）青年棒垒球交流活动开幕 以赛为媒建立友谊",
-      "summary": "中新网南昌8月15日电 (朱莹 吴思瑜)挥棒、跑垒、投球……15日，“同‘棒’青春梦·共筑赣台情”2026海峡两岸(南昌)青年棒垒球交流活动在江西南昌启幕，赣台两地近130名运动员以赛为媒，在竞技中增进了解、建立友谊。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678390.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:54:19.000Z"
-    },
-    {
-      "id": "a0ed3ec0c2ea",
-      "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-      "summary": "当地时间8月15日，伊朗外交部发言人巴加埃表示，尽管美国从中阻挠，伊朗和阿曼之间的会谈仍在积极推进，双方已就霍尔木兹海峡航道通行方案达成协议。(总台记者 王政)",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678388.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:52:01.000Z"
-    },
-    {
-      "id": "bcef946e4be8",
-      "title": "全景式记录长江流域重大工程与文明演进互动 《大江润国》新书首发",
-      "summary": "中新网北京8月15日电 (记者 孙自法)记者8月15日从科学出版社获悉，作为一部着眼于长江流域重大工程与文明演进互动的全景式记录，由该出版社出版的《大江润国》新书当天在上海书展首发。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678387.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:50:25.000Z"
-    },
-    {
-      "id": "06e82bf0582a",
-      "title": "现场视频！河南贾鲁河溃口成功合龙 救援人员挥舞旗帜庆祝",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-15/news1065527.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:48:48.000Z"
-    },
-    {
-      "id": "d648524e855a",
-      "title": "南海开渔在即 广东闸坡渔港千帆待发",
-      "summary": "8月15日，南海开渔前夕，渔船有序停靠在广东阳江闸坡国家级中心渔港内。2026年南海伏季休渔期将于8月16日正式结束，届时闸坡国家级中心渔港内的渔船将奔赴远洋，开启耕海牧渔的生活。（无人机照片）中新社记者 陈骥旻 摄 8月15日，南海开渔前夕，广东阳江闸坡国家级中心渔港内，船员搬运生活物资乘船前往渔船。2026年南海伏季休渔期将于8月16日正式结束，届时…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678381.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:46:58.000Z"
-    },
-    {
-      "id": "322266372add",
-      "title": "从理论到实践 传统药香制作技艺传承面向大众开班授课",
-      "summary": "中新网北京8月15日电 (记者 应妮)在北京大观园蘅芜苑内，一缕源自古籍与自然的草木清香正悠然弥散，串联起古典文学、非遗技艺与现代生活。位于这里的红楼药香体验馆，以《红楼梦》“蘅芷清芬”香草意境为底色，是一处专门传播国家级非物质文化遗产传统香制作技艺(药香制作技艺)的特色空间。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678385.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:46:52.000Z"
-    },
-    {
-      "id": "8e9445b4a75f",
-      "title": "云南百岁老兵忆峥嵘 一堂特殊党课赓续抗战精神",
-      "summary": "中新网昆明8月15日电 (罗婕 黄兴鸿)“我一直忘不了81年前的今天，昆明市锣鼓鞭炮声震天，全民庆祝抗战胜利。”15日，云南百岁抗战老兵杨毓骧现身一堂特殊的主题党课，回望峥嵘岁月。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678384.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:45:42.000Z"
-    },
-    {
-      "id": "b49d1d5f4290",
-      "title": "9国青年相聚塞上 2026宁夏国际青年友谊营银川启幕",
-      "summary": "8月15日，以“青春汇丝路·携手向未来”为主题的2026宁夏国际青年友谊营在银川正式开营。来自加拿大、中国、格鲁吉亚、印度尼西亚、日本、吉尔吉斯斯坦、马来西亚、韩国、斯里兰卡等9个国家13个地区的青年代表齐聚宁夏，开启跨文化交流之旅。图为国际青年友谊营的青年代表正在制作面塑。中新社记者 于晶 摄 8月15日，以“青春汇丝路·携手向未来”为主题的2026宁…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678383.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:45:28.000Z"
-    },
-    {
-      "id": "5fa6f1caa1c5",
-      "title": "福建沙县：两百萌童开笔破蒙，古街飘起“文化宴”",
-      "summary": "中新网福建沙县8月15日电 (吴伟 张凌欣)起立正衣冠、行拜师礼，开笔破蒙写“人”字，齐声诵读《三字经》……8月15日，七夕传统节日前夕，一场以“传承文脉启迪未来”为主题的七夕蒙学亲子嘉年华，在福建省三明市沙县区拉开帷幕。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678382.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:44:36.000Z"
-    },
-    {
       "id": "3bb636151863",
       "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
       "summary": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on Kimolos The death of an Irish teenager, electrocuted while taking a shower in a holiday home i…",
@@ -358,16 +378,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-15T12:34:02.000Z"
-    },
-    {
-      "id": "be0547c48ba1",
-      "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
-      "summary": "Two airstrikes reportedly hit homes in Ansar and Deir al-Zahrani with rescue services trying to find survivors Nine people have been killed, including three children, and 11 inju…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T10:48:33.000Z"
     },
     {
       "id": "4d583e25e4ce",
@@ -498,16 +508,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-14T17:52:51.000Z"
-    },
-    {
-      "id": "f07a42efe83b",
-      "title": "French court blocks Macron’s social media ban for under-15s",
-      "summary": "Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislation France’s top court has blocked a ban on social media access f…",
-      "url": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-14T17:12:14.000Z"
     },
     {
       "id": "6c9831afbdfb",
