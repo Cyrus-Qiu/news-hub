@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T15:29:16.340Z",
+  "updatedAt": "2026-08-15T15:49:42.227Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,46 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "415eeab89b1c",
+      "title": "Powerful earthquake kills dozens in eastern Indonesia",
+      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T15:34:38.000Z"
+    },
+    {
+      "id": "f5f20ab5b68a",
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France…",
+      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T15:32:38.000Z"
+    },
+    {
+      "id": "daf75d818446",
+      "title": "中国使馆：日政要参拜靖国神社严重挑战战后国际秩序",
+      "summary": "中国驻日本大使馆发言人15日就日本首相高市早苗向靖国神社供奉祭祀费、部分内阁成员和国会议员参拜靖国神社答记者问时表示，日方有关行径严重挑战二战胜利成果和战后国际秩序。中方对此表示强烈愤慨、严厉谴责，已向日方提出严正交涉、强烈抗议。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678435.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T15:30:57.000Z"
+    },
+    {
+      "id": "b4cb372db4f9",
+      "title": "2026海峡两岸（福州）青少年科技教育交流会在福州开幕",
+      "summary": "中新社福州8月15日电 (叶秋云)2026海峡两岸(福州)青少年科技教育交流会15日在福州开幕。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678434.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T15:30:01.000Z"
+    },
+    {
       "id": "9226a133eaf2",
       "title": "洪秀柱：大海是连接两岸同胞的天然纽带",
       "summary": "中新社广东阳江8月15日电 (记者 孙秋霞)中国国民党前主席、中华青雁和平教育基金会董事长洪秀柱15日在广东阳江表示，大海从来不是阻隔，而是连接两岸同胞的天然纽带。",
@@ -38,16 +78,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-15T15:02:55.000Z"
-    },
-    {
-      "id": "415eeab89b1c",
-      "title": "Powerful earthquake kills dozens in eastern Indonesia",
-      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T14:43:05.000Z"
     },
     {
       "id": "3bb636151863",
@@ -360,26 +390,6 @@
       "publishedAt": "2026-08-15T13:00:49.000Z"
     },
     {
-      "id": "813511be69bb",
-      "title": "近思录·到2035年建成健康中国，为什么关键在走对路？",
-      "summary": "到2035年建成健康中国，是中共中央作出的一项战略决策。在《求是》杂志发表的重要文章《加快建设健康中国》中，习近平总书记为新征程上卫生与健康工作把脉定向，强调要坚定不移走中国特色卫生与健康发展道路，推动“十五五”时期健康中国建设取得决定性进展。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678380.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T13:00:28.000Z"
-    },
-    {
-      "id": "c54ac1f89991",
-      "title": "学习新语｜绿色承诺一以贯之",
-      "summary": "今年8月15日是第四个全国生态日，也是生态环境法典正式实施的日子。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678378.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:58:11.000Z"
-    },
-    {
       "id": "4d583e25e4ce",
       "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
       "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill…",
@@ -484,8 +494,8 @@
       "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
       "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it…",
       "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
-      "source": "The Guardian World",
-      "category": "国际",
+      "source": "The Guardian Business",
+      "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-14T21:05:47.000Z"
     },
@@ -1218,16 +1228,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-10T12:00:43.000Z"
-    },
-    {
-      "id": "3aa8c8d2ebc5",
-      "title": "為什麼航空公司對鋰電池日趨警惕",
-      "summary": "航空公司希望乘客在攜帶鋰離子電池旅行時要格外小心。",
-      "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-10T09:16:11.000Z"
     }
   ]
 }
