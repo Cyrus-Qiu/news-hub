@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:34:32.334Z",
+  "updatedAt": "2026-08-15T09:54:13.283Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,46 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "4755c9f40963",
+      "title": "国防部新闻发言人蒋斌就日本政要参拜靖国神社答记者问",
+      "summary": "中新网8月15日电 据“国防部发布”微信公众号消息，国防部新闻发言人蒋斌就日本政要参拜靖国神社答记者问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678280.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T09:40:49.000Z"
+    },
+    {
+      "id": "fa907994ac09",
+      "title": "立秋≠入秋 立秋后仍需警惕三类气象风险",
+      "summary": "当前已进入立秋节气，北方干冷空气日渐活跃，人们能明显察觉到风吹时体感的变化，尤其是早晚时段，盛夏湿热蒸腾的暑气缓缓收敛。但不少华南地区的公众觉得立秋后反而更热了，各地气温到底有哪些变化？",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678278.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T09:35:33.000Z"
+    },
+    {
+      "id": "0edf0bc1f34e",
+      "title": "一习话·和谐共生丨跟着总书记瞰大美中国",
+      "summary": "青山就是美丽，蓝天也是幸福。党的十八大以来，从持续打好蓝天、碧水、净土保卫战，到统筹推进生态系统保护与修复，在习近平生态文明思想的引领下，我国经济社会发展实现全面绿色转型，美丽中国建设不断取得新成效。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678274.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T09:35:17.000Z"
+    },
+    {
+      "id": "bbe85f0a2da2",
+      "title": "良法善治·回响｜人与青山两不负",
+      "summary": "行至山野，哪里应当止步；生态受损，伤痕怎样修复；城市灯火，又该在何时暗下来。与自然共生，同万物相融，皆有其度。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678270.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T09:33:22.000Z"
+    },
     {
       "id": "9f43e7e7839c",
       "title": "直播：河南周口贾鲁河溃口合龙在即 直击封堵现场",
@@ -298,46 +338,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-15T08:18:52.000Z"
-    },
-    {
-      "id": "ef83749b07ff",
-      "title": "新西兰又在炒作“中国干预” 中使馆：不实指控、坚决反对！",
-      "summary": "中新网8月15日电 作为“五眼联盟”成员国的新西兰，近来又搬出老套路，上演了一出抹黑中国的戏码。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678237.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:16:38.000Z"
-    },
-    {
-      "id": "2b5f98d26756",
-      "title": "国家超算互联网AI社区已汇聚1700余款开源大模型",
-      "summary": "中新网北京8月15日电 (记者 张素)截至目前，国家超算互联网AI(人工智能)社区已汇聚1700余款国内外热门开源大模型，覆盖 DeepSeek、Qwen、MiniMax、Kimi系列等国产大模型。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678236.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:16:24.000Z"
-    },
-    {
-      "id": "9479e6070989",
-      "title": "“世界最小鸭子”现身衡水湖",
-      "summary": "中新网衡水8月15日电 (邢璐 王天祥)河北衡水滨湖新区资源保护局15日透露，有“世界最小鸭子”之称的棉凫近日首次现身衡水湖国家级自然保护区。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678235.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:14:20.000Z"
-    },
-    {
-      "id": "32eb2e5263d8",
-      "title": "张怀存画展闭幕式暨青海文旅推介会在伦敦举行",
-      "summary": "中新网伦敦8月15日电 (记者 欧阳开宇)当地时间8月14日，英国皇家艺术学会终身院士张怀存“家，温暖的家”主题画展闭幕式暨青海文化和旅游推介会在伦敦市中心毗邻白金汉宫的摩尔画廊圆满举办。",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-15/10678226.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:13:54.000Z"
     },
     {
       "id": "6ee5b33e4ec8",
