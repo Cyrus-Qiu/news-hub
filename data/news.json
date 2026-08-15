@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:52:31.568Z",
+  "updatedAt": "2026-08-15T15:29:16.340Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "9226a133eaf2",
+      "title": "洪秀柱：大海是连接两岸同胞的天然纽带",
+      "summary": "中新社广东阳江8月15日电 (记者 孙秋霞)中国国民党前主席、中华青雁和平教育基金会董事长洪秀柱15日在广东阳江表示，大海从来不是阻隔，而是连接两岸同胞的天然纽带。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678433.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T15:02:55.000Z"
+    },
+    {
+      "id": "415eeab89b1c",
+      "title": "Powerful earthquake kills dozens in eastern Indonesia",
+      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T14:43:05.000Z"
+    },
     {
       "id": "3bb636151863",
       "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
@@ -78,16 +98,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-15T14:07:54.000Z"
-    },
-    {
-      "id": "415eeab89b1c",
-      "title": "Powerful earthquake kills dozens in eastern Indonesia",
-      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T14:03:09.000Z"
     },
     {
       "id": "505c7ab472ec",
@@ -368,16 +378,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-15T12:58:11.000Z"
-    },
-    {
-      "id": "d6ca8721f987",
-      "title": "嘱托为笔，绘天地国色",
-      "summary": "策划：朱基钗、许晟",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678377.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:57:13.000Z"
     },
     {
       "id": "4d583e25e4ce",
