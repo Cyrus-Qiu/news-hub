@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:54:13.283Z",
+  "updatedAt": "2026-08-15T10:31:37.408Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -24,11 +24,131 @@
     },
     {
       "name": "The Guardian Business",
-      "count": 19
+      "count": 20
     }
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "7159c1723607",
+      "title": "2026年全球发明大会（中国）总决赛暨国际赛在河南郑州启幕",
+      "summary": "8月15日，河南郑州，2025-2026学年全球发明大会(中国)竞赛活动全国总决赛暨国际赛在郑州国际会展中心启幕，本次活动汇聚近万名中外青少年同台竞技。图为中国澳门队选手向评委介绍作品。赵梦阳 摄 8月15日，河南郑州，2025-2026学年全球发明大会(中国)竞赛活动全国总决赛暨国际赛在郑州国际会展中心启幕，本次活动汇聚近万名中外青少年同台竞技。图为参…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678290.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T10:23:22.000Z"
+    },
+    {
+      "id": "f4d34698a1c1",
+      "title": "广州“绿色处方”上线 为市民定制专属山林康养路线",
+      "summary": "中新网广州8月15日电 (记者 程景伟)2026年8月15日是第四个全国生态日，广州市“绿色处方·助您健康——全国生态日森林康养行动”主题活动在白云山云溪植物园举行。活动现场正式上线“绿色处方”康养服务平台小程序，探索“生态+医疗”融合发展新模式，以数字化创新方式激活森林康养价值。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-15/10678291.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T10:20:21.000Z"
+    },
+    {
+      "id": "42e1acb7c33c",
+      "title": "浙江绍兴：绍剧折子戏暑期开演",
+      "summary": "8月14日至16日，“好戏消夏”2026绍剧暑期展演月·绍剧折子戏专场在浙江绍兴六龄童大戏院开演。本次专场演出剧目多元，包括《摇钱树》《宇宙锋》《吕布试马》《水漫金山》等十多个折子戏，其中不乏新编折子戏。舞台上，一批中青年演员协力参演，新生代演员占比约一半以上。绍剧高亢激昂、风格粗犷，距今已有400多年历史，被列入国家级非物质文化遗产代表性项目名录。图为…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678289.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T10:16:45.000Z"
+    },
+    {
+      "id": "0878ce95d898",
+      "title": "印尼7.7级地震死亡人数增至38人 仍有人员被困废墟",
+      "summary": "中新网雅加达8月15日电 (记者 李志全)印度尼西亚国家抗灾署负责人苏哈里扬托15日通报，截至当地时间15时，发生在弗洛勒斯岛附近海域的7.7级地震已造成38人死亡。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678284.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T10:13:45.000Z"
+    },
+    {
+      "id": "88492b921f34",
+      "title": "《正义审判——新中国审判日本战犯史实特展》全国巡展江苏站开展",
+      "summary": "图为观众在展厅内参观展览。中新社记者 泱波 摄 图为观众在展厅内参观展览。中新社记者 泱波 摄 图为讲解员向观众介绍展览。中新社记者 泱波 摄 图为参加展览开幕式的观众走进南京抗日航空烈士公墓，缅怀抗日航空英烈。中新社记者 泱波 摄 图为参加展览开幕式的观众走进南京抗日航空烈士公墓，缅怀抗日航空英烈。中新社记者 泱波 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678287.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T10:12:53.000Z"
+    },
+    {
+      "id": "1ac2fdc2bbb0",
+      "title": "歌唱家刘和刚：生活是一首歌，看你怎么唱",
+      "summary": "中新网鄂尔多斯8月15日电 题：歌唱家刘和刚：生活是一首歌，看你怎么唱",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678281.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T10:02:16.000Z"
+    },
+    {
+      "id": "4d583e25e4ce",
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill…",
+      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T10:00:54.000Z"
+    },
+    {
+      "id": "c8f5f33cebd3",
+      "title": "敦煌印象：14万余份“暖心早餐”与一年四季“循环接力”",
+      "summary": "中新网兰州8月15日电 (记者 冯志军 高莹)“不管逢年过节或是节假日，一年四季一天没落下，餐餐都没重样过。”8月中旬7时30分许，低头忙碌了两个小时城市保洁工作的刘富贵和十几位工友在短暂歇息的片刻，围坐在一起共享甘肃敦煌官方一年来持续免费派送的“暖心早餐”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678282.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T10:00:36.000Z"
+    },
+    {
+      "id": "584c982d05b6",
+      "title": "湖南发布首批国土空间生态修复成果 聚焦矿山土壤河湖治理难题",
+      "summary": "中新网长沙8月15日电(陶利 江涛)2026年8月15日是第4个全国生态日，湖南省自然资源厅正式发布湖南省国土空间生态保护修复科研成果名录(第一批)，31项覆盖理论研究、适用技术、经验做法的科研成果集中亮相，为山水林田湖草沙一体化保护和系统治理提供方案。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678288.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T09:59:32.000Z"
+    },
+    {
+      "id": "bf307576f513",
+      "title": "广西内燃机车“心血管诊疗师”50℃高温下坚守保障暑运",
+      "summary": "中新网柳州8月15日电 题：广西内燃机车“心血管诊疗师”50℃高温下坚守保障暑运",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678285.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T09:57:02.000Z"
+    },
+    {
+      "id": "8383847888b4",
+      "title": "从“沙进人退”到“绿进沙退”：祁连山下的绿色接力",
+      "summary": "中新网兰州8月15日电 (王牧雨)8月15日，《中华人民共和国生态环境法典》正式施行，当日，由甘肃省人大环资委牵头组织的2026年“陇原环保世纪行”祁连山生态保护专题采访活动也告一段落。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678286.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T09:55:50.000Z"
+    },
+    {
+      "id": "0d325074e591",
+      "title": "广西柳州各公园开展暑期科普研学活动 解锁自然课堂",
+      "summary": "中新网柳州8月15日电(林馨 张荣兴)正值暑假，广西柳州市各公园开展系列科普研学活动，将“探索互动”与“自然教育”深度融合，打造多元化的沉浸式体验场景，引导广大少年儿童走出家门、走进自然、亲近科学。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678283.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T09:53:40.000Z"
+    },
     {
       "id": "4755c9f40963",
       "title": "国防部新闻发言人蒋斌就日本政要参拜靖国神社答记者问",
@@ -78,6 +198,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-15T09:23:00.000Z"
+    },
+    {
+      "id": "0624dd46ea73",
+      "title": "海南大熊猫兄弟“贡贡”“舜舜”庆十三岁生日",
+      "summary": "8月15日，海南海口，大熊猫“舜舜”与“猫粉”赠送的玩偶互动。当日，大熊猫兄弟“贡贡”“舜舜”十三岁生日庆典暨第八届海野国际猫粉节在海南热带野生动植物园举行。大熊猫“贡贡”“舜舜”享用特色生日庆典大餐，与“猫粉”和市民游客共享生日喜悦。中新社记者 骆云飞 摄 8月15日，海南海口，大熊猫“舜舜”享用“生日蛋糕”。当日，大熊猫兄弟“贡贡”“舜舜”十三岁生日…",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-15/1201159.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T09:12:48.000Z"
     },
     {
       "id": "e09a2044eb8d",
@@ -210,26 +340,6 @@
       "publishedAt": "2026-08-15T09:03:57.000Z"
     },
     {
-      "id": "6fcceab192a7",
-      "title": "超长三伏天催热“清凉经济” 河北多元场景解锁纳凉新体验",
-      "summary": "中新社石家庄8月15日电 (赵丹媚 李玉素)当为期40天的超长三伏天撞上暑期出游高峰，“去哪里寻凉”成为不少家庭的出行议题。今年暑期，游客的目光不再局限于传统清凉目的地，反季室内滑雪、工厂研学“纳凉”、小众山野游等新体验持续走热。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678255.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T09:03:33.000Z"
-    },
-    {
-      "id": "f7ded5cbf42e",
-      "title": "澳门特区政府就施政报告与立法会座谈 强化行政立法良性互动",
-      "summary": "中新社澳门8月15日电 澳门特区政府2027年《施政报告》座谈会——立法会专场14日在中国与葡语国家商贸合作服务平台综合体举行，澳门特区行政长官岑浩辉就编制明年施政报告听取立法会议员的意见建议。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-15/10678258.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T09:01:15.000Z"
-    },
-    {
       "id": "9cb18e859129",
       "title": "Post-Brexit rights for British citizens are being undermined in Sweden",
       "summary": "Apparent high level of removal orders suggests Sweden is rejecting ‘reasonable grounds’ for failing to apply to stay Back in October 2020, the UK immigration minister stood up in…",
@@ -238,106 +348,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-15T09:00:53.000Z"
-    },
-    {
-      "id": "5961553abb8e",
-      "title": "沪台同下一盘棋 2026“双城杯”围棋交流赛在沪开枰",
-      "summary": "中新社上海8月15日电 (记者 缪璐)黑白纵横连两岸，纹枰往来续新篇。2026“双城杯”围棋交流赛(决赛)15日在上海开枰。这项创办七载的赛事，不仅持续锤炼沪台青少年棋手棋艺，更以一方纹枰搭建起两岸同胞心意相通、文脉相融的纽带。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678246.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:54:12.000Z"
-    },
-    {
-      "id": "8d779d6b3af0",
-      "title": "在妈祖故里探访“妈祖”方案文化根脉",
-      "summary": "中新社福建湄洲岛8月15日电 题：在妈祖故里探访“妈祖”方案文化根脉",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678245.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:53:26.000Z"
-    },
-    {
-      "id": "4dc1e494a607",
-      "title": "台商魏嘉均：在大陆小城“慢”烘面包事业",
-      "summary": "中新社山东聊城8月15日电 题：台商魏嘉均：在大陆小城“慢”烘面包事业",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678247.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:52:04.000Z"
-    },
-    {
-      "id": "3991cd006cce",
-      "title": "近500名中外赛艇选手逐浪江西南昌",
-      "summary": "中新社南昌8月15日电 (朱莹 卢梦梦)2026第十届南昌赛艇大师赛暨赣粤城际联赛·名校邀请赛15日在江西南昌青山湖水域开赛。来自剑桥大学、牛津大学、韩国延世大学、马来西亚敦胡先翁大学、北京大学、清华大学等中外名校选手振桨逐浪。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678249.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:51:22.000Z"
-    },
-    {
-      "id": "f48dfb65b2a7",
-      "title": "从制鞋到无人机实训 台商乘“风”迈入新赛道",
-      "summary": "中新社南宁8月15日电 题：从制鞋到无人机实训 台商乘“风”迈入新赛道",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678243.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:43:09.000Z"
-    },
-    {
-      "id": "963478a12c5f",
-      "title": "印尼7.7级地震死亡人数升至14人 约2000人撤离",
-      "summary": "中新网雅加达8月15日电 (记者 李志全)印度尼西亚国家抗灾署15日通报，截至当地时间12时30分，发生在弗洛勒斯岛附近海域的7.7级地震已造成14人死亡、2人重伤、11人轻伤。相关伤亡数据仍在进一步统计、核实和确认。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678225.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:37:35.000Z"
-    },
-    {
-      "id": "93809cdb0452",
-      "title": "数智赋能合武高铁加速延伸",
-      "summary": "中新网武汉8月15日电 (卢琪 张启山)作为国家“八纵八横”高速铁路网沿江通道的重要组成部分，合武高铁串联鄂皖两省，对畅通沿江经济走廊具有重要意义。而今，从勘察、设计到建造，数智技术正成为这条钢铁大动脉加速延伸的重要引擎。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678240.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:31:34.000Z"
-    },
-    {
-      "id": "f003d29aa077",
-      "title": "缅怀英烈 香港举行纪念抗日英烈谒碑仪式",
-      "summary": "中新网香港8月15日电 (张语洽)为缅怀保卫香港而捐躯的抗日英烈，由原东江纵队港九独立大队老游击战士联谊会主办的“纪念抗日英烈谒碑典礼”15日在香港西贡斩竹湾烈士碑园举行。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-15/10678241.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:31:18.000Z"
-    },
-    {
-      "id": "76c85e91c8d9",
-      "title": "暴雨天生存指南！看懂预警，学会自救→",
-      "summary": "极端天气里，最可怕的往往不是雨急风大，而是你觉得“应该没事”——恰恰就是这种侥幸心理，最容易导致严重后果。",
-      "url": "https://www.chinanews.com.cn/life/2026/08-15/10678238.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:25:26.000Z"
-    },
-    {
-      "id": "ce45fd237f88",
-      "title": "伪满皇宫博物院举行纪念东北光复81周年活动",
-      "summary": "8月15日，吉林长春，民众在参观东北沦陷史陈列馆。当天，伪满皇宫博物院在东北沦陷史陈列馆举行“薪火赓续 浩气长存”——纪念东北光复81周年主题活动。中新社记者 张瑶 摄 8月15日，吉林长春，小学生在东北著名抗日英烈名录纪念墙前敬献鲜花。当天，伪满皇宫博物院在东北沦陷史陈列馆举行“薪火赓续 浩气长存”——纪念东北光复81周年主题活动。中新社记者 张瑶 摄…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678233.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T08:18:52.000Z"
     },
     {
       "id": "6ee5b33e4ec8",
@@ -401,7 +411,7 @@
     },
     {
       "id": "415eeab89b1c",
-      "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20",
+      "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 38",
       "summary": "Shallow quake hit Indonesia’s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday…",
       "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
       "source": "The Guardian World",
@@ -1218,16 +1228,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-10T12:00:43.000Z"
-    },
-    {
-      "id": "3aa8c8d2ebc5",
-      "title": "為什麼航空公司對鋰電池日趨警惕",
-      "summary": "航空公司希望乘客在攜帶鋰離子電池旅行時要格外小心。",
-      "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-10T09:16:11.000Z"
     }
   ]
 }
