@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T17:50:26.510Z",
+  "updatedAt": "2026-08-15T18:40:46.827Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "e5ae694f21ff",
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to e…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T18:08:21.000Z"
+    },
     {
       "id": "e24936833755",
       "title": "Body found in Romania believed to be missing British hiker George Smyth",
@@ -1048,16 +1058,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-12T12:22:31.000Z"
-    },
-    {
-      "id": "ee459cb714aa",
-      "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-      "summary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died after an overcrowded ferry capsized on…",
-      "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-12T12:21:08.000Z"
     },
     {
       "id": "90dde508223f",
