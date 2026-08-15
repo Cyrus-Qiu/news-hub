@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T13:37:06.066Z",
+  "updatedAt": "2026-08-15T13:55:52.239Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,96 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "dd801dda5bb4",
+      "title": "调查显示：柬埔寨青年对中柬人文交流认知大幅正向提升",
+      "summary": "中新社金边8月15日电 (记者 杨强)《面向新时代全天候中柬命运共同体建设：2025年度柬埔寨青年对中柬人文交流认知调查报告》14日在金边发布。报告深度描绘柬埔寨青年对中柬人文交流认知现状，为深化新时代中柬命运共同体建设提供翔实的第一手数据。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678420.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:50:22.000Z"
+    },
+    {
+      "id": "1d8a353c3776",
+      "title": "韩国朝野抨击日本政要参拜靖国神社",
+      "summary": "中新社首尔8月15日电 (记者 金旭)8月15日是韩国的光复节，纪念朝鲜半岛从日本殖民统治下获得解放。韩国政府及朝野政党15日抨击日本政要当天向靖国神社供奉祭品及参拜之举，敦促日本领导人正视历史、真诚反省。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678419.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:49:40.000Z"
+    },
+    {
+      "id": "b88cd1d71f29",
+      "title": "台气象部门：台湾东部海域发生5.2级地震",
+      "summary": "中新社台北8月15日电 据台湾气象部门消息，台湾东部海域15日19时30分发生5.2级地震。宜兰、花莲及新北等多地有明显震感。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678415.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:39:00.000Z"
+    },
+    {
+      "id": "50d54e415dba",
+      "title": "中国生态日主场活动展示绿色发展新图景",
+      "summary": "中新社内蒙古呼伦贝尔8月15日电 (记者 张玮)沙漠变身巨型发电场，光伏板在戈壁滩铺展成“蓝色海洋”，风力发电机林立于草原山巅……2026年全国生态日主场活动15日在内蒙古自治区呼伦贝尔市举办，现场展示了中国依托风、光、水等自然资源，赋能绿色能源发展的图景。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678414.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:36:16.000Z"
+    },
+    {
+      "id": "519d93617b8b",
+      "title": "台湾民间举行纪念活动缅怀抗日先贤",
+      "summary": "中新社台北8月15日电 (记者 朱贺)今年8月15日是日本宣布无条件投降81周年。连日来，台北、台中等地举行纪念活动，缅怀牺牲先贤，呼吁两岸同胞铭记历史，携手开创和平未来。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678413.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:35:54.000Z"
+    },
+    {
+      "id": "b59d9eb23739",
+      "title": "中国地震局：印尼7.7级地震区域板块汇聚作用强烈",
+      "summary": "中新社北京8月15日电 (记者 孙自法)中国地震局15日向媒体发布震情信息说，根据地震专家分析，印度尼西亚弗洛勒斯岛附近海域当天凌晨的7.7级地震，是发生在澳大利亚板块与巽他板块交汇区域的逆冲型破裂，该区域构造体系复杂、板块汇聚作用强烈。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678412.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:35:22.000Z"
+    },
+    {
+      "id": "e943f2855541",
+      "title": "斯诺克中国公开赛：周跃龙憾负泰国“黑马”无缘决赛",
+      "summary": "中新社太原8月15日电 (记者 胡健)2026世界斯诺克巡回赛中国公开赛15日在山西太原展开首场半决赛争夺，中国选手周跃龙在决胜局遭遇对手单杆134分清台，以5:6憾负泰国选手诺鹏·桑卡姆，无缘决赛。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678411.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:34:53.000Z"
+    },
+    {
+      "id": "a8d45082d56a",
+      "title": "“生态统计智能体”在江西发布",
+      "summary": "中新社南昌8月15日电 (记者 吴鹏泉)“加大绿色金融项目支持 助力江西‘十五五’良好开局”座谈会15日下午在南昌举行。座谈会上，江西财经大学与用友集团联合发布了“生态统计智能体”。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678410.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T13:34:31.000Z"
+    },
+    {
+      "id": "415eeab89b1c",
+      "title": "Powerful earthquake kills dozens in eastern Indonesia",
+      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia, has killed…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T13:33:35.000Z"
+    },
     {
       "id": "b79d74143e08",
       "title": "（活力中国调研行）当一座内陆小城建设国际港",
@@ -260,46 +350,6 @@
       "publishedAt": "2026-08-15T12:44:36.000Z"
     },
     {
-      "id": "74290817a9cb",
-      "title": "“俄罗斯制造”节庆集市首登天津 主打“达恰”田园风情",
-      "summary": "中新网天津8月15日电 (记者 周亚强)由俄罗斯出口中心主办的“俄罗斯制造”节庆集市15日在天津和平路金街开幕，为期5天。这是该系列活动首次在天津举办。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678365.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:42:48.000Z"
-    },
-    {
-      "id": "21cfc39743a8",
-      "title": "中消协提出50条行动建议 引导绿色消费行为",
-      "summary": "中新网北京8月15日电 (记者 刘亮)中国消费者协会15日在北京发布《中国消费者绿色消费指南(2026版)》(以下简称《指南》)。中消协、生态环境部宣传教育中心、中国社会科学院社会学研究所相关人围绕《指南》编制背景、核心内容、发布意义进行了介绍，引导广大消费者践行绿色低碳理念。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678375.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:42:06.000Z"
-    },
-    {
-      "id": "d795b9146b7a",
-      "title": "32支龙舟队竞速广州白云湖",
-      "summary": "中新网广州8月15日电 (记者 王坚)以“百舸争流全城争渡”为口号的2026年广州龙舟超级联赛第二站赛事15日在广州市白云区白云湖东湖开赛，广州龙威组500米直道竞速激战上演。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678379.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:40:02.000Z"
-    },
-    {
-      "id": "a2af3c866436",
-      "title": "广州启动2027年高考“三侨生”身份确认工作",
-      "summary": "中新网广州8月15日电 (记者 蔡敏婕)广州市报考2027年普通高校入学考试“三侨生”身份确认办理工作正式开启，受理时间为2026年8月15日至11月10日法定工作日，逾期将不再受理相关申请。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678376.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:39:40.000Z"
-    },
-    {
       "id": "3bb636151863",
       "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
       "summary": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on Kimolos The death of an Irish teenager, electrocuted while taking a shower in a holiday home i…",
@@ -310,46 +360,6 @@
       "publishedAt": "2026-08-15T12:34:02.000Z"
     },
     {
-      "id": "816e3e1d6497",
-      "title": "河南周口川汇区贾鲁河东岸堤防溃口成功合龙",
-      "summary": "记者了解到，经过多方应急抢险力量昼夜不停努力，8月15日晚上8时29分，河南省周口市川汇区贾鲁河东岸堤防117米溃口成功合龙。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678373.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:30:56.000Z"
-    },
-    {
-      "id": "124fac7006fc",
-      "title": "合龙倒计时！河南周口贾鲁河溃口封堵现场：钢丝笼固定石块抛入，加快进度",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-15/news1065524.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:28:06.000Z"
-    },
-    {
-      "id": "248e02387528",
-      "title": "2026中国大学生飞行器设计创新大赛东部区赛开赛 1200余名选手集结南京空天争锋",
-      "summary": "图为飞行器在开赛仪式上进行飞行展示。中新社记者 泱波 摄 图为参赛选手带着飞行器走向赛场。中新社记者 泱波 摄 图为飞行器比赛现场。中新社记者 泱波 摄 图为飞行器在开赛仪式上进行飞行展示。中新社记者 泱波 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678371.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:27:17.000Z"
-    },
-    {
-      "id": "ba81b5e7f1b6",
-      "title": "山珍遇海味 第七届昆台美食文化系列活动在昆明启动",
-      "summary": "8月15日，市民购买台湾小吃“蚵仔煎”。当日，“山海同云·明月同乡”2026年第七届昆台美食文化系列活动在云南省昆明市启动，活动以美食为媒，汇聚昆台特色风味，融合民俗展示、特色市集等内容，搭建两岸民间交流平台。中新社记者 李嘉娴 摄 8月15日，市民品尝台湾小吃“甜不辣”。当日，“山海同云·明月同乡”2026年第七届昆台美食文化系列活动在云南省昆明市启动…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678370.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T12:26:27.000Z"
-    },
-    {
       "id": "be0547c48ba1",
       "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
       "summary": "Two airstrikes reportedly hit homes in Ansar and Deir al-Zahrani with rescue services trying to find survivors Nine people have been killed, including three children, and 11 inju…",
@@ -358,16 +368,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-15T10:48:33.000Z"
-    },
-    {
-      "id": "415eeab89b1c",
-      "title": "Powerful earthquake kills at least 38 in eastern Indonesia",
-      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake struck eastern Indonesia early on Saturda…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T10:24:36.000Z"
     },
     {
       "id": "4d583e25e4ce",
