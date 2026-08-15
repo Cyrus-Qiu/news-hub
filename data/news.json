@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:55:19.589Z",
+  "updatedAt": "2026-08-15T17:28:59.514Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "e24936833755",
+      "title": "Body found in Romania believed to be missing British hiker George Smyth",
+      "summary": "Family paid tribute to Bristol University geology student, 18, after being notified by Avon and Somerset police A body has been found in the search for an 18-year-old British man…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T17:14:38.000Z"
+    },
     {
       "id": "ba7baa5a5bfe",
       "title": "河南清潩河鄢陵县仓头村段溃口实现成功合龙",
@@ -428,16 +438,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-15T07:01:50.000Z"
-    },
-    {
-      "id": "dba6fd3171be",
-      "title": "Concerns grow over increased global ties with Taliban in Afghanistan",
-      "summary": "Campaigners fear deeper diplomatic contacts are undermining demands for improvements in human rights The Taliban in Afghanistan have launched a diplomatic effort to end their iso…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T05:00:49.000Z"
     },
     {
       "id": "ad598e03ec24",
