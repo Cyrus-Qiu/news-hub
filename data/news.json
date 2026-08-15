@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T19:28:08.921Z",
+  "updatedAt": "2026-08-15T19:49:26.306Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "7039a21130e9",
+      "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+      "summary": "Death toll now stands at 68, with 18 children being among the killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimba…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T19:39:07.000Z"
+    },
     {
       "id": "e5ae694f21ff",
       "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
@@ -908,16 +918,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-13T05:02:28.000Z"
-    },
-    {
-      "id": "f5b2d8613014",
-      "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-      "summary": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls on Thursday, the ghost of t…",
-      "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-13T04:00:49.000Z"
     },
     {
       "id": "07a45ab2a44a",
