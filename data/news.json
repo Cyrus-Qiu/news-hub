@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T22:51:55.734Z",
+  "updatedAt": "2026-08-15T23:28:30.981Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "941d65cb38cc",
+      "title": "Australia news live: Pauline Hanson opposes major gun buyback agreed in wake of Bondi terror attack",
+      "summary": "Legislation for plan passed parliament earlier this year and is set to commence in NSW from November. Follow live updates Get our breaking news email , free app or daily news pod…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T23:08:57.000Z"
+    },
+    {
+      "id": "b27ca9a5631c",
+      "title": "8月16日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-16/10678444.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-15T23:03:52.000Z"
+    },
     {
       "id": "d1b5f91b2ff5",
       "title": "以色列空袭黎巴嫩 造成11人死亡",
@@ -60,16 +80,6 @@
       "publishedAt": "2026-08-15T22:34:34.000Z"
     },
     {
-      "id": "941d65cb38cc",
-      "title": "Australia news live: Pauline Hanson opposes major gun buyback agreed in wake of Bondi terror attack",
-      "summary": "Legislation for plan passed parliament earlier this year and is set to commence in NSW from November. Follow live updates Get our breaking news email , free app or daily news pod…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T22:34:21.000Z"
-    },
-    {
       "id": "ff30bb541638",
       "title": "厄瓜多尔总统诺沃亚抵达北京 开启访华行程",
       "summary": "今天(16日)早晨，厄瓜多尔共和国总统丹尼尔·罗伊－希尔克里斯特·诺沃亚·阿辛抵达北京，开始为期8天的访华行程。此访是诺沃亚总统首次对中国进行国事访问。",
@@ -82,7 +92,7 @@
     {
       "id": "711092954015",
       "title": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
-      "summary": "‘There’s male, there’s female, and then there’s mental illness,’ Tyron Whitten says on YouTube show Get our breaking news email , free app or daily news podcast One Nation senato…",
+      "summary": "‘There’s male, there’s female, and then there’s mental illness,’ Tyron Whitten says on YouTube show Follow our Australia news live blog for latest updates Get our breaking news e…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/16/one-nation-tyron-whitten-comments-parents-trans-children-abuse-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -282,7 +292,7 @@
     {
       "id": "bd963ed3a98c",
       "title": "Naidoc awards honour ‘fearless, brilliant’ promoter of First Nations culture Rhoda Roberts",
-      "summary": "Proud Widjabul Wieybal woman of the Bundjalung nation recognised posthumously with the lifetime achievement award Get our breaking news email , free app or daily news podcast One…",
+      "summary": "Proud Widjabul Wiyebal woman of the Bundjalung nation recognised posthumously with the lifetime achievement award Follow our Australia news live blog for latest updates Get our b…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/16/naidoc-awards-2026-rhoda-roberts-first-nations-honour-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -418,16 +428,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-15T13:15:32.000Z"
-    },
-    {
-      "id": "6f9270ff4fa4",
-      "title": "中国20家行业协会发布绿色低碳行动倡议",
-      "summary": "中新社北京8月15日电 (记者 阮煜琳)今年8月15日是中国第四个全国生态日。当日，中国商业联合会、中国钢铁工业协会等20家行业协会，共同发出绿色低碳行动倡议并承诺，引导会员企业积极开展能源结构转型，逐步提高可再生能源利用比例，不断降低碳排放强度。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678394.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-15T13:13:10.000Z"
     },
     {
       "id": "3e59e0f4f4a7",
