@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:31:52.290Z",
+  "updatedAt": "2026-08-15T14:52:31.568Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "3bb636151863",
+      "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
+      "summary": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on Kimolos The death of an Irish teenager, electrocuted while taking a shower in a holiday home i…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T14:26:46.000Z"
+    },
     {
       "id": "afbad0b55ac1",
       "title": "莫言刷短剧拒绝“套路” 谈AI有体会",
@@ -368,16 +378,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-15T12:57:13.000Z"
-    },
-    {
-      "id": "3bb636151863",
-      "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
-      "summary": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on Kimolos The death of an Irish teenager, electrocuted while taking a shower in a holiday home i…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T12:34:02.000Z"
     },
     {
       "id": "4d583e25e4ce",
