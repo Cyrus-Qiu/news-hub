@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T22:51:10.004Z",
+  "updatedAt": "2026-08-16T23:28:35.111Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,56 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "074b9edfa1ee",
+      "title": "Australia politics live: NSW to fast-track datacentre approvals; ANU announces Julie Bishop replacement",
+      "summary": "Gordon de Brouwer appointed chancellor of Australian National University. Follow today’s news live Get our breaking news email , free app or daily news podcast Hume says housing…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T23:08:48.000Z"
+    },
+    {
+      "id": "e921db6b1961",
+      "title": "巴西里约热内卢州一大巴翻覆致10人遇难",
+      "summary": "中新社里约热内卢8月16日电 (记者 林春茵)当地时间16日晨，巴西东南部里约热内卢州彼得罗波利斯市(Petrópolis)发生大巴翻覆事故，造成10人遇难。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678807.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T23:01:24.000Z"
+    },
+    {
+      "id": "e9970ba1b1c6",
+      "title": "塞尔比“表白”斯诺克：我依旧热爱",
+      "summary": "中新社太原8月17日电 题：塞尔比“表白”斯诺克：我依旧热爱",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10678806.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T23:00:40.000Z"
+    },
+    {
+      "id": "74f2859967ed",
+      "title": "英格兰选手马克·塞尔比加冕中国公开赛首位四冠王",
+      "summary": "中新社太原8月17日电 (记者 胡健)2026世界斯诺克巡回赛中国公开赛16日晚在山西太原落幕。四届世锦赛冠军、英格兰选手马克·塞尔比以10比6击败泰国“黑马”诺鹏·桑卡姆，成为该项赛事历史上首位四次夺冠的球员。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10678805.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T23:00:04.000Z"
+    },
+    {
+      "id": "72adc377aa64",
+      "title": "8月17日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-17/10678804.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T22:55:59.000Z"
+    },
+    {
       "id": "f340670abfe7",
       "title": "特朗普：非常高兴看到沙土巴三国签署共同防务协议",
       "summary": "中新网8月17日电 美国总统特朗普16日在其社交媒体平台“真实社交”上发文，对沙特阿拉伯、土耳其和巴基斯坦近期签署共同防务协议表示欢迎。",
@@ -38,16 +88,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-16T22:49:49.000Z"
-    },
-    {
-      "id": "074b9edfa1ee",
-      "title": "Australia politics live: Nationals argue gun buyback is against constitutional clause featured in The Castle",
-      "summary": "Scheme will give NSW gun licence holders a fixed compensation fee based on type of firearm. Follow today’s news live Get our breaking news email , free app or daily news podcast…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-16T22:39:11.000Z"
     },
     {
       "id": "18a136bdfd96",
@@ -121,7 +161,7 @@
     },
     {
       "id": "6bf3ff018085",
-      "title": "Five teenagers killed after car driven on wrong side of motorway in Ireland",
+      "title": "Five teenagers killed after car driven on wrong side of Irish motorway",
       "summary": "Head-on collision between two vehicles on M9 in County Kildare also injured four other people, say police Five teenagers have died and four other people have been seriously injur…",
       "url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
       "source": "The Guardian World",
@@ -428,46 +468,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-08-16T13:00:32.000Z"
-    },
-    {
-      "id": "8cfb9b14c047",
-      "title": "【好评中国】东湖评论丨防灾前置，方能从容应对",
-      "summary": "8月16日出版的第16期《求是》杂志发表习近平总书记的重要文章《提高防灾减灾救灾能力》。文章指出，要提升大灾巨灾应对处置能力。树牢底线思维、极限思维，深入研判大灾巨灾风险，不断完善应急预案，把困难和挑战估计得更充分一些，把工作举措考虑得更周全一些。近期，受极端天气影响，陕西、甘肃、四川、黑龙江、湖北、河南等省份部分地区遭遇强降雨，多地发生洪涝灾害，江河水…",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678778.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T13:00:08.000Z"
-    },
-    {
-      "id": "c24ee672402b",
-      "title": "【好评中国】秦平 | 解码外资看好中国的多重“硬核”底气",
-      "summary": "近期，外资在中国高端制造领域投资动作频频，一批重大项目接连落地、开工或投产，主要集中于汽车核心零部件再制造、动力电池、化工新材料及半导体等高新技术产业领域。受访专家认为，外资加码中国高端制造的背后，是中国产业升级红利与全球供应链重构的双重驱动，跨国公司正以实际行动为“投资中国”投下信任票。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678774.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T12:59:00.000Z"
-    },
-    {
-      "id": "b14e140d290a",
-      "title": "印尼强震已致53人死亡 5000余人疏散避难",
-      "summary": "中新社雅加达8月16日电 (记者 李志全)印度尼西亚国家抗灾署16日通报，弗洛勒斯岛附近海域7.7级地震已造成53人死亡、135人受伤。目前，救援人员仍在继续搜寻幸存者。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678762.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T12:57:34.000Z"
-    },
-    {
-      "id": "7f0251dcc30b",
-      "title": "伊朗称美军已被驱逐 不得进入霍尔木兹海峡",
-      "summary": "当地时间16日，伊朗陆军总司令阿米尔·哈塔米表示，美军已被驱逐，不再获准进入波斯湾、阿曼湾及霍尔木兹海峡。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678770.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T12:52:45.000Z"
     },
     {
       "id": "af099ca7bfad",
