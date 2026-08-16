@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:40:34.018Z",
+  "updatedAt": "2026-08-16T19:27:56.928Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,9 +30,19 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "adc8c29dd4e4",
+      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+      "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has laun…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T18:44:41.000Z"
+    },
+    {
       "id": "29f1946eee7f",
       "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
-      "summary": "Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuate An elderly couple died in fires on the Greek island of Salamis o…",
+      "summary": "Couple die in Salamis and Belgium battling its biggest fire in more than a century near German border An elderly couple died in fires on the Greek island of Salamis on Sunday and…",
       "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
       "source": "The Guardian World",
       "category": "国际",
@@ -1118,16 +1128,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-12T15:00:34.000Z"
-    },
-    {
-      "id": "0d416c63a585",
-      "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
-      "summary": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to…",
-      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
-      "source": "The Guardian World",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-12T14:40:36.000Z"
     },
     {
       "id": "062fea7a9939",
