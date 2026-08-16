@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T10:52:23.360Z",
+  "updatedAt": "2026-08-16T11:28:17.950Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "07717c420512",
+      "title": "福建8000余艘渔船开渔出海",
+      "summary": "中新社福建泉州8月16日电 (记者 闫旭)16日12时，福建省北纬26度30分以南海域正式结束三个半月的海洋伏季休渔。8000余艘渔船拔锚启航、开启新一轮耕海牧渔。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678696.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T11:24:14.000Z"
+    },
+    {
+      "id": "99cfc0312133",
+      "title": "Bus carrying Polish pilgrims crashes in Hungary, leaving 12 dead",
+      "summary": "Another 10 people in serious condition after bus veers off motorway and overturns Twelve people have died after a bus carrying a group of Polish tourists overturned on the M3 mot…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T11:07:55.000Z"
+    },
+    {
+      "id": "5467f9af8d64",
+      "title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow",
+      "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T11:04:00.000Z"
+    },
     {
       "id": "af099ca7bfad",
       "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
@@ -340,16 +370,6 @@
       "publishedAt": "2026-08-16T09:27:49.000Z"
     },
     {
-      "id": "d0bcbccb834c",
-      "title": "2026暑期档票房破百亿！IMAX等特效影厅迎观影热潮",
-      "summary": "据网络平台数据",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678654.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T09:21:40.000Z"
-    },
-    {
       "id": "c0b5a4e22f7c",
       "title": "為何Z世代女性比母親一代更了解月經？",
       "summary": "從多囊性卵巢症候群到「生理週期同步」，愈來愈多年輕女性表示，她們正把新學到的月經知識分享給母親一代。",
@@ -508,26 +528,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-15T15:34:38.000Z"
-    },
-    {
-      "id": "f5f20ab5b68a",
-      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
-      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France…",
-      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T15:32:38.000Z"
-    },
-    {
-      "id": "3bb636151863",
-      "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
-      "summary": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on Kimolos The death of an Irish teenager, electrocuted while taking a shower in a holiday home i…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T14:26:46.000Z"
     },
     {
       "id": "bd963ed3a98c",
