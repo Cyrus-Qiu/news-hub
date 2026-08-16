@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T10:32:07.002Z",
+  "updatedAt": "2026-08-16T10:52:23.360Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,56 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "af099ca7bfad",
+      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
+      "summary": "高市早苗今年選擇不親自參拜靖國，卻以奉納玉串料及「遙拜」表達敬意，而靖國所供奉的甲級戰犯、戰爭記憶與日本日益強化的安全政策，仍讓這座神社成為中日韓外交爭議的焦點。",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-16T10:44:03.000Z"
+    },
+    {
+      "id": "ac9bdafe77a9",
+      "title": "直播：行走美丽画卷｜俄罗斯女孩闯入南京“画中仙山”：曾经的矿坑逆袭成零碳景区",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-16/10678695.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T10:39:51.000Z"
+    },
+    {
+      "id": "2ad4a68befb6",
+      "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
+      "summary": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking water For centuries, the rock was seen as a warning. When it…",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T10:37:30.000Z"
+    },
+    {
+      "id": "e7bde6da1804",
+      "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+      "summary": "中新网8月16日电 据“中国水利”微信公众号消息，水利部和中国气象局8月16日18时联合发布橙色山洪灾害气象预警：预计，8月16日20时至8月17日20时，广东东南部、四川中部、甘肃中部等地部分地区发生山洪灾害可能性较大(黄色预警)，其中，四川中部局地发生山洪灾害可能性大(橙色预警)，预警区域涉及的县(市、区)见下表。其他地区也可能因局地短历时强降水引发…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678692.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T10:35:49.000Z"
+    },
+    {
+      "id": "5236ac70e1d4",
+      "title": "特朗普再促参议院通过全年采用夏令时法案",
+      "summary": "美国总统特朗普15日在社交媒体再度发文，敦促国会参议院尽快表决通过全年采用夏令时的相关法案。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678694.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T10:35:07.000Z"
+    },
     {
       "id": "9830b2f77a02",
       "title": "第二届世界人形机器人运动会场景赛开赛",
@@ -300,36 +350,6 @@
       "publishedAt": "2026-08-16T09:21:40.000Z"
     },
     {
-      "id": "3f3702999fbc",
-      "title": "印尼发生7.7级地震 民众撤入临时避难所",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201241.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T09:15:55.000Z"
-    },
-    {
-      "id": "fff436af05e3",
-      "title": "2026内蒙古自治区非遗那达慕开幕",
-      "summary": "中新网赤峰8月16日电 (记者 奥蓝)16日，2026内蒙古自治区非遗那达慕暨巴林右旗第25届那达慕在赤峰市巴林右旗开幕，约16.5万人在现场参与开幕式活动。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678652.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T09:13:16.000Z"
-    },
-    {
-      "id": "48f12a49a128",
-      "title": "吉林开启“反季铁三” 选手上演冰火对决",
-      "summary": "中新网吉林8月16日电 (记者 石洪宇)伴随着发令汽笛鸣响，300余名选手分批从吉林北山四季越野滑雪场的出发通道鱼贯而出。场馆内恒温零下6℃，选手们迎着寒气踏雪疾行，雪板划过雪面发出沙沙声。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678651.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T09:12:42.000Z"
-    },
-    {
       "id": "c0b5a4e22f7c",
       "title": "為何Z世代女性比母親一代更了解月經？",
       "summary": "從多囊性卵巢症候群到「生理週期同步」，愈來愈多年輕女性表示，她們正把新學到的月經知識分享給母親一代。",
@@ -398,16 +418,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-16T04:33:35.000Z"
-    },
-    {
-      "id": "2ad4a68befb6",
-      "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
-      "summary": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking water For centuries, the rock was seen as a warning. When it…",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-16T04:00:15.000Z"
     },
     {
       "id": "66eb2a37ed51",
@@ -1198,16 +1208,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-12T00:07:28.000Z"
-    },
-    {
-      "id": "3eff2d6904d2",
-      "title": "「我根本沒想過要停下來」：美國物理學家講述長崎原爆內幕",
-      "summary": "1945年8月9日，一枚鈽彈被投向日本長崎市，為第二次世界大戰畫上句號。30年後接受BBC訪問時，一名參與組裝該炸彈的美國物理學家披露了為何當時無法阻止這次爆炸，以及後續更多核攻擊的計劃。",
-      "url": "https://www.bbc.com/zhongwen/articles/c9347v9np5xo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-11T11:46:20.000Z"
     },
     {
       "id": "a3de87b8019c",
