@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T22:30:54.301Z",
+  "updatedAt": "2026-08-16T22:51:10.004Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "f340670abfe7",
+      "title": "特朗普：非常高兴看到沙土巴三国签署共同防务协议",
+      "summary": "中新网8月17日电 美国总统特朗普16日在其社交媒体平台“真实社交”上发文，对沙特阿拉伯、土耳其和巴基斯坦近期签署共同防务协议表示欢迎。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678803.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T22:49:49.000Z"
+    },
+    {
       "id": "074b9edfa1ee",
       "title": "Australia politics live: Nationals argue gun buyback is against constitutional clause featured in The Castle",
       "summary": "Scheme will give NSW gun licence holders a fixed compensation fee based on type of firearm. Follow today’s news live Get our breaking news email , free app or daily news podcast…",
@@ -37,7 +47,37 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-16T22:24:41.000Z"
+      "publishedAt": "2026-08-16T22:39:11.000Z"
+    },
+    {
+      "id": "18a136bdfd96",
+      "title": "时薪最高百元，“临时妈妈”靠谱吗？",
+      "summary": "在线接单、线下服务、按单结算，儿童照护需求催生新职业——",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678802.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T22:29:18.000Z"
+    },
+    {
+      "id": "c315875b9a18",
+      "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
+      "summary": "中新网8月17日电 美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678801.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T22:28:06.000Z"
+    },
+    {
+      "id": "5f61a9644f71",
+      "title": "以军袭击已致黎巴嫩4346人死亡",
+      "summary": "据黎巴嫩公共卫生部紧急行动中心16日消息，3月2日至8月16日期间，以色列在黎巴嫩发动的持续不断的空袭和袭击已造成4346人死亡，12301人受伤。(总台记者 杨渊)",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678800.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T22:26:04.000Z"
     },
     {
       "id": "e15aebcff4c1",
@@ -81,8 +121,8 @@
     },
     {
       "id": "6bf3ff018085",
-      "title": "Five teenagers killed and four other people injured in Ireland car crash",
-      "summary": "Police say one of the two vehicles involved was driving in the wrong direction on the M9 motorway in County Kildare Five teenagers have died and four other people have been serio…",
+      "title": "Five teenagers killed after car driven on wrong side of motorway in Ireland",
+      "summary": "Head-on collision between two vehicles on M9 in County Kildare also injured four other people, say police Five teenagers have died and four other people have been seriously injur…",
       "url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
       "source": "The Guardian World",
       "category": "国际",
@@ -428,46 +468,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-16T12:52:45.000Z"
-    },
-    {
-      "id": "8567e15898d0",
-      "title": "长江十年行|“工业岸线”变身“生态画廊” 十里江湾见证长江芜湖段绿色重生",
-      "summary": "大皖新闻讯 一江碧水东流，两岸绿意铺展。十里江湾人民公园，是长江芜湖段生态修复、绿色转型的标杆工程。曾经，这里码头林立、厂房密布、尘土喧嚣，是粗放发展的沿江工业岸线；如今，这里水清岸绿、风光旖旎、游人如织，成为精致开放的城市生态会客厅。十里江湾的沧桑蝶变，是芜湖市深入践行长江大保护战略，推动长江岸线从“生产功能”向“生态功能、民生功能、文旅功能”迭代升级…",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678769.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T12:51:13.000Z"
-    },
-    {
-      "id": "4ad66f53bda5",
-      "title": "广西三江农民画家丹青布上绘侗乡",
-      "summary": "图为农民画家在进行创作。龚普康 摄 图为农民画家在进行创作。龚普康 摄 图为画作局部。龚普康 摄 图为画作局部。龚普康 摄 图为画作局部。龚普康 摄 图为农民画家在进行创作。龚普康 摄 图为农民画家在进行创作。龚普康 摄 图为画作局部。龚普康 摄 图为画作局部。龚普康 摄 图为画作局部。龚普康 摄 图为画作局部。龚普康 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-16/10678755.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T12:50:15.000Z"
-    },
-    {
-      "id": "235df4518869",
-      "title": "青藏高原上的“生命接力”：一家两代人与马鹿的半世纪之约",
-      "summary": "青藏高原，世界海拔最高的高原，长江与众多河流的发源地。在这片严酷而壮美的江源之地，人与动物之间的动人故事，在这片天地间悄然生长。在西藏类乌齐县的长毛岭马鹿自然保护区，一场跨越半个世纪的生命守护接力，仍在继续。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678767.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T12:48:13.000Z"
-    },
-    {
-      "id": "48aea19abac4",
-      "title": "活力中国调研行丨从造梦到造物！博士生用新材料造出消防“铠甲”",
-      "summary": "今天的《活力中国调研行》，一起走进安徽一个特殊的实验室。这是全国乃至全球首个以人工智能全链条驱动的科研创新实验室。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678765.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T12:46:55.000Z"
     },
     {
       "id": "af099ca7bfad",
