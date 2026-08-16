@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:28:29.704Z",
+  "updatedAt": "2026-08-16T21:48:45.538Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -32,12 +32,22 @@
     {
       "id": "074b9edfa1ee",
       "title": "Australia politics live: Labor warned against changing work rights for visa holders amid ‘scapegoating’ of immigrants",
-      "summary": "Dozens of non-profit groups urge Labor not to limit work rights for temporary migrants. Follow today’s news live Get our breaking news email , free app or daily news podcast Joyc…",
+      "summary": "Dozens of non-profit groups urge Labor not to limit work rights for temporary migrants. Follow today’s news live Get our breaking news email , free app or daily news podcast Nati…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-16T21:17:01.000Z"
+      "publishedAt": "2026-08-16T21:36:37.000Z"
+    },
+    {
+      "id": "29f1946eee7f",
+      "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
+      "summary": "Couple die in Salamis and Belgium battling its biggest fire in more than a century near German border An elderly couple died in fires on the Greek island of Salamis on Sunday and…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T21:27:03.000Z"
     },
     {
       "id": "adc8c29dd4e4",
@@ -48,16 +58,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-16T18:44:41.000Z"
-    },
-    {
-      "id": "29f1946eee7f",
-      "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
-      "summary": "Couple die in Salamis and Belgium battling its biggest fire in more than a century near German border An elderly couple died in fires on the Greek island of Salamis on Sunday and…",
-      "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-16T18:23:26.000Z"
     },
     {
       "id": "5467f9af8d64",
