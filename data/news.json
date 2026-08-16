@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T14:52:38.790Z",
+  "updatedAt": "2026-08-16T15:30:04.379Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,66 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "29f1946eee7f",
+      "title": "Greek island wildfire kills two people as helicopters called in to tackle Belgium forest blaze",
+      "summary": "Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuate Two people have died in fires on the Greek island of Salamis as…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T15:16:45.000Z"
+    },
+    {
+      "id": "4a38ea4308ed",
+      "title": "Nazi artefacts still being sold online years after trade outlawed across Australia",
+      "summary": "One seller says second world war memorabilia containing banned Nazi symbols is legal under exemptions to the laws Get our breaking news email , free app or daily news podcast Naz…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/nazi-artefacts-prohibited-symbols-still-being-sold-online-australia-ntwnfb",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-16T15:00:30.000Z"
+    },
+    {
+      "id": "1bf304865275",
+      "title": "Australian health experts fear US vaccine scepticism is catching on as ‘anything Trump says filters through’",
+      "summary": "Australia records 3% fall in one-year-olds fully immunised against hepatitis B as downward trend continues, expert says Get our breaking news email , free app or daily news podca…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-health-fears-us-vaccine-scepticism-trump-hepatitis-b-measles-mumps-rubella",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T15:00:29.000Z"
+    },
+    {
+      "id": "22fc43c52d66",
+      "title": "‘The kids were right’: 30 years of Pokémon, from school-wide bans to multimillion-dollar trading cards",
+      "summary": "Pokémon outlived the moral panic of its early days in Australia and its staying power has proved that simple joy can cross borders There’s a generation of Australians for whom Ch…",
+      "url": "https://www.theguardian.com/games/2026/aug/17/pokemon-30th-anniversary-japan-australia",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-16T15:00:29.000Z"
+    },
+    {
+      "id": "feecbf4e9476",
+      "title": "The PM called Sally McManus a giant of the Labor movement. Now she just wants to go birding",
+      "summary": "After securing wage rises for low-paid workers, weathering death threats and working with three PMs – the ACTU secretary is ready for a break Get our breaking news email , free a…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T15:00:28.000Z"
+    },
+    {
+      "id": "da17868bda0d",
+      "title": "Europe’s tallest Virgin Mary statue unveiled in small Polish village",
+      "summary": "Hundreds watched the 56-metre monument’s consecration, including anti-communist leader Lech Wałęsa An enormous statue of the Virgin Mary that is believed to be Europe’s tallest w…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T15:00:04.000Z"
+    },
     {
       "id": "75a3ce177988",
       "title": "低价团曝出“转卖游客、赌团”内幕 总台曝光暑期游乱象",
@@ -72,7 +132,7 @@
     {
       "id": "225208899d3f",
       "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-      "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by Cézanne, Renoir and Matisse Four of the most important works of art by the 15th-c…",
+      "summary": "Theft of four works on national holiday described as wound to historical memory and cultural identity of city of Messina Four of the most important works of art by the 15th-centu…",
       "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
       "source": "The Guardian World",
       "category": "国际",
@@ -390,16 +450,6 @@
       "publishedAt": "2026-08-16T10:44:03.000Z"
     },
     {
-      "id": "2ad4a68befb6",
-      "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
-      "summary": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking water For centuries, the rock was seen as a warning. When it…",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-16T10:37:30.000Z"
-    },
-    {
       "id": "c0b5a4e22f7c",
       "title": "為何Z世代女性比母親一代更了解月經？",
       "summary": "從多囊性卵巢症候群到「生理週期同步」，愈來愈多年輕女性表示，她們正把新學到的月經知識分享給母親一代。",
@@ -412,7 +462,7 @@
     {
       "id": "7c3a6c80a5bd",
       "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’",
-      "summary": "Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI An activist who blocked the entrance to one of the world’s biggest…",
+      "summary": "Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI An activist who blocked the entrance to one of the world’s biggest…",
       "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
       "source": "The Guardian Technology",
       "category": "AI",
@@ -444,7 +494,7 @@
       "title": "‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos",
       "summary": "Fraudsters use pictures posted on Instagram or Facebook to create emails seeking bank account details You are on a short break in Porto and post some pictures of your family on I…",
       "url": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
-      "source": "The Guardian World",
+      "source": "The Guardian Technology",
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-16T06:00:17.000Z"
@@ -460,19 +510,9 @@
       "publishedAt": "2026-08-16T04:44:30.000Z"
     },
     {
-      "id": "941d65cb38cc",
-      "title": "Chalmers rejects Hanson’s call for more super access saying One Nation ‘wants to destroy’ scheme – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Anthony Albanese has just been speaking alongside the New South Wales premier, Chris Minns ,…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-16T04:33:35.000Z"
-    },
-    {
       "id": "66eb2a37ed51",
       "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
-      "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in east…",
+      "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 53 people Rescue crews dug through collapsed buildings and landslide debris in east…",
       "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
       "source": "The Guardian World",
       "category": "国际",
@@ -510,16 +550,6 @@
       "publishedAt": "2026-08-16T02:29:29.000Z"
     },
     {
-      "id": "711092954015",
-      "title": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
-      "summary": "‘There’s male, there’s female, and then there’s mental illness,’ Tyron Whitten says on YouTube show Follow our Australia news live blog for latest updates Get our breaking news e…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/16/one-nation-tyron-whitten-comments-parents-trans-children-abuse-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T20:00:06.000Z"
-    },
-    {
       "id": "7039a21130e9",
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
       "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll…",
@@ -548,16 +578,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-15T15:34:38.000Z"
-    },
-    {
-      "id": "bd963ed3a98c",
-      "title": "Naidoc awards honour ‘fearless, brilliant’ promoter of First Nations culture Rhoda Roberts",
-      "summary": "Proud Widjabul Wiyebal woman of the Bundjalung nation recognised posthumously with the lifetime achievement award Follow our Australia news live blog for latest updates Get our b…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/16/naidoc-awards-2026-rhoda-roberts-first-nations-honour-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T14:01:01.000Z"
     },
     {
       "id": "bf3ad6270a8d",
@@ -1180,16 +1200,6 @@
       "publishedAt": "2026-08-12T09:00:24.000Z"
     },
     {
-      "id": "4981c88985b5",
-      "title": "Marvel Tōkon: Fighting Souls review – an anime-style rumble that’s rooting for you",
-      "summary": "PlayStation 5, PC; Arc System Works/Sony Interactive Entertainment With tremendous visuals and accessible controls, this superhero-themed fighter has the chops to inspire a new g…",
-      "url": "https://www.theguardian.com/games/2026/aug/12/marvel-tokon-fighting-souls-review",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-12T09:00:23.000Z"
-    },
-    {
       "id": "fecf6c3d93f2",
       "title": "太陽前所未有的清晰：迄今最詳細的觀測影像曝光",
       "summary": "最新影像和影片顯示到了太陽活動形成的「漩渦」，呈現出過去無法觀測到的景象。",
@@ -1218,16 +1228,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-11T10:50:12.000Z"
-    },
-    {
-      "id": "f1a3f8ecbd4f",
-      "title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
-      "summary": "Fair Work Commission issues a new minimum standards order for gig workers to come into effect 17 August Get our breaking news email , free app or daily news podcast Delivery driv…",
-      "url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T08:25:41.000Z"
     }
   ]
 }
