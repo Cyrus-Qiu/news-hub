@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:40:09.755Z",
+  "updatedAt": "2026-08-16T09:35:51.848Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,306 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "c31a09b8b7a3",
+      "title": "南海开渔，海南约2.7万艘渔船陆续出海",
+      "summary": "中新网海南琼海8月16日电 (记者 王晓斌 李宇凡)历经三个半月伏季休渔，南海海域于8月16日12时正式全面开渔。海南约2.7万艘渔船陆续出海，开启新一轮生产作业。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678660.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:29:59.000Z"
+    },
+    {
+      "id": "9ca00faafd33",
+      "title": "福建连江开渔：千帆竞发“耕海”忙",
+      "summary": "中新网福州8月16日电 (叶秋云)历时三个半月的伏季休渔于16日正式结束，福州海域全面开渔。在福州连江县黄岐国家中心渔港，数百艘渔船整装待发，与苔菉国家中心渔港同步拔锚，双港并启，场面壮观。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678659.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:29:17.000Z"
+    },
+    {
+      "id": "51a161a9cde8",
+      "title": "广西天峨“蓝刀鱼风暴”成文旅新热点 “奔县游”激活县域经济",
+      "summary": "中新网河池8月16日电(记者 黄艳梅)碧水幽幽，鱼影灵动，桨板泛波……今年暑期，广西西北小城天峨县凭借“蓝刀鱼风暴”火爆出圈，数万尾蓝刀鱼在清澈见底的红水河中翻涌如银鳞流动，吸引大批游客慕名前来体验这场“奔县游”的清凉之约。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678658.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:28:39.000Z"
+    },
+    {
+      "id": "3da00c50a0b9",
+      "title": "AI与算法成为“流量入口” 专家建言电商领域科学应对",
+      "summary": "中新网北京8月16日电 题：AI与算法成为“流量入口” 专家建言电商领域科学应对",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678656.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:27:49.000Z"
+    },
+    {
+      "id": "d0bcbccb834c",
+      "title": "2026暑期档票房破百亿！IMAX等特效影厅迎观影热潮",
+      "summary": "据网络平台数据",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678654.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:21:40.000Z"
+    },
+    {
+      "id": "3f3702999fbc",
+      "title": "印尼发生7.7级地震 民众撤入临时避难所",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201241.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:15:55.000Z"
+    },
+    {
+      "id": "fff436af05e3",
+      "title": "2026内蒙古自治区非遗那达慕开幕",
+      "summary": "中新网赤峰8月16日电 (记者 奥蓝)16日，2026内蒙古自治区非遗那达慕暨巴林右旗第25届那达慕在赤峰市巴林右旗开幕，约16.5万人在现场参与开幕式活动。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678652.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:13:16.000Z"
+    },
+    {
+      "id": "48f12a49a128",
+      "title": "吉林开启“反季铁三” 选手上演冰火对决",
+      "summary": "中新网吉林8月16日电 (记者 石洪宇)伴随着发令汽笛鸣响，300余名选手分批从吉林北山四季越野滑雪场的出发通道鱼贯而出。场馆内恒温零下6℃，选手们迎着寒气踏雪疾行，雪板划过雪面发出沙沙声。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678651.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:12:42.000Z"
+    },
+    {
+      "id": "1da198d0a786",
+      "title": "从技术出海到联合攻关 中国菌物科研拓展国际合作新版图",
+      "summary": "中新网长春8月16日电 (李彦国 高龙安)中国食用菌产业在保障国内供给的同时，一方面向外输出种植技术助力非洲粮食安全，另一方面搭建国际平台开展菌物前沿科研合作。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678650.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:12:14.000Z"
+    },
+    {
+      "id": "ae70588e17e7",
+      "title": "湖北巴东：野三关半马激活22℃凉经济",
+      "summary": "中新网恩施8月16日电(税浪 焦国斌 刘宇锋)2026湖北巴东野三关半程马拉松16日鸣枪开赛，来自全国各地的近4000名跑者齐聚“华中凉都”野三关镇，在平均气温22℃的高山森氧赛道奔跑竞技。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678649.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:11:34.000Z"
+    },
+    {
+      "id": "cb77b0a091a5",
+      "title": "古老盐阜变身平陆运河起点：一个没落乡村的“复活”",
+      "summary": "中新网南宁8月16日电 题：古老盐阜变身平陆运河起点：一个没落乡村的“复活”",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678648.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:10:56.000Z"
+    },
+    {
+      "id": "386606e71df1",
+      "title": "闽江河口湿地博物馆焕新启幕 沉浸式科普点亮全国生态日",
+      "summary": "中新网福州8月16日电 (记者 闫旭)8月15日是全国生态日，2026闽江河口湿地“全国生态日”暨湿地博物馆启新科普活动，在完成全面升级改造的闽江河口湿地博物馆举行。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678647.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:10:08.000Z"
+    },
+    {
+      "id": "51cb00c360d2",
+      "title": "梦想有舞台日子有滋味 湖南湘江新区这样“留”住年轻人",
+      "summary": "中新网长沙8月16日电 (刘曼 彭楚然)创业者有免费工位和创业导师“护航”，求职者有拎包入住的青年驿站，安家者有租金减免的人才公寓；闲暇时有看不完的演出、逛不完的市集和走几步就到的公园和球场……在湖南湘江新区，留住年轻人的，是一整套可感可及的青年发展生态。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678646.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:09:34.000Z"
+    },
+    {
+      "id": "943cf921ea79",
+      "title": "从“过客”到“归人” 云南昭通避暑经济催热返乡创业潮",
+      "summary": "中新网云南昭通8月16日电 题：从“过客”到“归人” 云南昭通避暑经济催热返乡创业潮",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678645.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:08:54.000Z"
+    },
+    {
+      "id": "16076894a237",
+      "title": "从“产业端”走向“生活端” 苏州打造AI科技公共体验空间",
+      "summary": "中新网苏州8月16日电(常慕城)由苏州国际科技园与苏州恒泰控股集团有限公司联合打造的AI科技公共体验空间——苏州工业园区智能终端体验店，16日上午在苏州中心广场正式对外开放。100余款前沿科技产品集中亮相，覆盖AI视觉、智能健康、绿色能源、数字文创等多个赛道。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678644.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:08:22.000Z"
+    },
+    {
+      "id": "645695ada64c",
+      "title": "宁夏银川：十二载沙地耕耘 毛乌素边缘绽放文旅“浪漫花”",
+      "summary": "中新网银川8月16日电 (记者 李佩珊)8月16日恰逢周末，位于黄河(银川段)东岸的宁夏薰衣草生态旅游区游人如织。紫色花海漫过金色沙丘，远眺黄河流水悠悠，花香伴着大漠清风扑面而来，不少游客驻足花间拍照留念，也有人驰骋沙丘，体验沙漠摩托的竞速乐趣。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678643.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:08:00.000Z"
+    },
+    {
+      "id": "421a636107cf",
+      "title": "（乡村行·看振兴）黑土地上的“花果山”：中国东北村庄巧借田园风光创富",
+      "summary": "中新网长春8月16日电 题：黑土地上的“花果山”：中国东北村庄巧借田园风光创富",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678642.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:07:11.000Z"
+    },
+    {
+      "id": "bd0626529d8c",
+      "title": "2026哲里木赛马大会开幕 近千名健儿驰骋科尔沁",
+      "summary": "中新网通辽8月16日电 (记者 刘文华)8月16日，2026哲里木赛马大会在内蒙古通辽市科尔沁那达慕文化体育中心开幕。来自全国的近千名运动员与数百匹草原骏马齐聚科尔沁草原，在3天的赛期内角逐传统体育竞技与现代马术的多项比赛。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678640.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:06:23.000Z"
+    },
+    {
+      "id": "0546fbbddcc3",
+      "title": "台湾美食亮相长春 烟火滋味搭建两岸文化纽带",
+      "summary": "中新网长春8月16日电 (李彦国 高龙安)从台南度小月担仔面到宜兰葱油饼，从台湾逢喜必吃的喜饼到《给阿嬷的情书》中的无米粿……吉林长春北京大街西历史文化街区首届台湾美食文创嘉年华正在举行，30余位台湾美食摊主带来各式手艺，现场奉上百种美食，吸引当地民众排起长队，争相品尝地道的台湾风味。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678639.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:05:37.000Z"
+    },
+    {
+      "id": "bb58568d3cfd",
+      "title": "全国杂技展演落幕 《花瓦俍兵》压轴演绎壮乡英雄故事",
+      "summary": "中新网南宁8月16日电 (林洁琪 张广权)8月15日晚，由文化和旅游部、广西壮族自治区人民政府主办的第十三届全国杂技展演，在广西南宁落幕。广西杂技团的新创杂技剧《花瓦俍兵》作为展演闭幕大戏精彩上演。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678638.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:05:01.000Z"
+    },
+    {
+      "id": "1d017b79c3d9",
+      "title": "南海开渔 海南海事等多部门联动护航",
+      "summary": "中新网海口8月16日电 (黄启炼 高磊)为期三个半月的南海伏季休渔期16日正式结束，渔民们迎来期盼已久的开渔时刻。为保障开渔期间海上交通安全，海南海事局联合多部门同步启动“2026护航开渔行动”。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678637.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:04:33.000Z"
+    },
+    {
+      "id": "6275ce00c2d1",
+      "title": "历史名街变身“会客厅” 吉林粮食品牌组团路演“香满街”",
+      "summary": "中新网长春8月16日电 (李钊 金乔)长春新民大街的夜晚，被一条排队的长龙“烫”出了热度。在吉林粮食品牌路演活动现场，洮南圣一金地生物农业有限公司摊位前挤满市民，空气中弥漫着香气——这家企业带到现场的大列巴、馒头和花卷，在活动尚未正式开始时便已接近售罄。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678635.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:04:05.000Z"
+    },
+    {
+      "id": "1411e2654460",
+      "title": "王祖贤首度回应AI形象授权：新世界必须有新的东西",
+      "summary": "中新网广州8月16日电 (蔡敏婕 谢妍)15日在广州举行的游戏IP《天下》18周年玩家生态大会上，王祖贤现身圆桌交流，与杨迪、《天下》IP制作人星一等人共同谈起AI数字影像短片《倩影》的幕后故事。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678634.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:03:41.000Z"
+    },
+    {
+      "id": "ce92feab2523",
+      "title": "中国成功发射卫星互联网低轨24组卫星",
+      "summary": "8月16日12时10分，中国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨24组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。图为长征十二号运载火箭发射升空。中新社记者 骆云飞 摄 8月16日12时10分，中国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨24组卫星发射升空，卫星顺利进入预定轨道，发射任务获…",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201244.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T09:03:22.000Z"
+    },
+    {
+      "id": "fee754e3fd29",
+      "title": "高端访谈丨经济账怎么算？联合国副秘书长：“绿水青山”才是最稳的投资",
+      "summary": "经济账怎么算？靠透支自然资源换来的GDP，可能连治污的零头都不够？联合国副秘书长福阿德近日接受总台《高端访谈》栏目专访时表示，“绿水青山”才是最稳的投资。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678632.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T08:53:30.000Z"
+    },
+    {
+      "id": "951133b27aa2",
+      "title": "勇立潮头大湾区丨绿美看湾区 山海协同“点绿成金”",
+      "summary": "在广东河源紫金县",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-16/10678633.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T08:53:08.000Z"
+    },
+    {
+      "id": "65a99317a7da",
+      "title": "陈茂波：今年前7个月访港旅客达3122万人次 同比升12%",
+      "summary": "中新社香港8月16日电 香港特区政府财政司司长陈茂波16日发表网志指出，目前约有140家航空公司提供往来香港与全球超过225个航点的航班，高效便捷的国际联系与接连举行的盛事活动吸引更多商务及观光旅客访港。今年前7个月访港旅客达3122万人次，同比上升12%。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-16/10678629.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T08:46:04.000Z"
+    },
+    {
+      "id": "4274864ab3e7",
+      "title": "南海休渔结束 华南多地开启新一轮“耕海牧渔”作业",
+      "summary": "中新社北京8月16日电 (孙秋霞 翟李强 王晓斌 李宇凡)8月16日12时，历时三个半月的南海伏季休渔结束，广东阳江和广西北海、钦州、防城港，以及海南等地渔船陆续出海，开启新一轮“耕海牧渔”作业。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678628.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T08:44:58.000Z"
+    },
+    {
+      "id": "cd8922263db5",
+      "title": "CBA选秀“状元”宋昕澔：“打球就是为在最高舞台上前进”",
+      "summary": "中新社广东佛山8月16日电 (黄欣欣 张璐 谢妍)“我们的新成员，‘状元’小宋”，当广州龙狮队队长日前对着镜头介绍宋昕澔时，后者低头露出腼腆的笑容。这是刚拿下中国男子篮球职业联赛(CBA)选秀大会“状元”的他到大陆参训的第一天。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678622.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T08:44:24.000Z"
+    },
+    {
+      "id": "d86ca486022c",
+      "title": "中国和东盟青少年以匹克球开启体育文化交流",
+      "summary": "中新社南宁8月16日电 (黄令妍)2026年中国—东盟匹克球训练营16日在广西南宁开营，来自中国各地和越南、泰国等东盟国家的青少年运动员开启一场体育文化交流之旅。",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-16/10678623.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T08:43:42.000Z"
+    },
+    {
       "id": "c0b5a4e22f7c",
       "title": "為何Z世代女性比母親一代更了解月經？",
       "summary": "從多囊性卵巢症候群到「生理週期同步」，愈來愈多年輕女性表示，她們正把新學到的月經知識分享給母親一代。",
@@ -40,214 +340,14 @@
       "publishedAt": "2026-08-16T08:34:23.000Z"
     },
     {
-      "id": "1f483817fcef",
-      "title": "范志忠：从流量追逐走向长期价值，精品微短剧讲好中国故事",
-      "summary": "微短剧持续升温，内容品质也在不断提升。从关注现实生活，到展现时代新气象；从挖掘地域文化，到讲好中国故事，微短剧精品化正在成为行业发展的新命题。近日，由河南省广播电视局主办，红果短剧、大象新闻承办的“微短剧精品创作传播交流活动”在郑州举行。在微短剧创作专题交流环节。浙江大学国际影视发展研究院院长范志忠认为，微短剧精品化的核心，是从过去追求流量和短期传播效果…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678621.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:29:53.000Z"
-    },
-    {
-      "id": "5cce95909ea0",
-      "title": "多地新发现一批日军侵华史料实物",
-      "summary": "1945年8月15日，日本战败，宣布无条件投降。近日，多地多家纪念馆、档案馆公布了一批新发现和收集的日军侵华证据，涵盖侵华日军士兵私人信件、口述证言，战时新闻报道集，有关部队官方文书，幸存“慰安妇”实物、照片、视频史料等，来源广泛、相互印证，进一步充实了相关历史研究的证据链条。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678620.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:28:05.000Z"
-    },
-    {
-      "id": "e8f88af18127",
-      "title": "日本侵略历史不容翻案 重蹈覆辙必遭彻底清算",
-      "summary": "新华社北京8月16日电（记者许苏培）8月15日，日本战败投降日。然而，在这本该是日本深刻反省、认罪赎罪的日子，日本执政当局却再次上演了令人愤慨的一幕——首相高市早苗向供奉有二战甲级战犯的靖国神社供奉了“玉串料”（祭祀费），还在场外向靖国神社方向进行遥拜；包括防卫大臣小泉进次郎在内的多名政要更是亲自前去“拜鬼”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678618.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:26:45.000Z"
-    },
-    {
-      "id": "fee14f3b2717",
-      "title": "全球媒体聚焦 | 美媒：中国实践表明人工智能发展与治理能够并行不悖",
-      "summary": "美国《巴伦周刊》近日刊文称，中国近年来一方面持续推动人工智能技术创新和规模化应用，另一方面不断完善相关治理体系。与此同时，中国人工智能产业也保持了较强的竞争力。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678617.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:25:37.000Z"
-    },
-    {
-      "id": "a3e3995b46fd",
-      "title": "“进货式游中国”火了 没有老外能空手走出义乌",
-      "summary": "这个夏天，依托全球最大小商品集散中心的优势，浙江义乌国际商贸城人气持续火爆，大批海外客商与游客慕名前来淘选好物。这座商贸城市正成为全世界观察、读懂中国的一扇窗口。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678616.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:24:31.000Z"
-    },
-    {
-      "id": "7170d93b3bbd",
-      "title": "寻找于敏",
-      "summary": "他隐姓埋名28年，却因一声又一声巨响，震惊了世界。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678615.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:22:21.000Z"
-    },
-    {
-      "id": "9acffdc2cdc2",
-      "title": "（长江十年行）一江青绿润钢城",
-      "summary": "中新网马鞍山8月16日电 题：一江青绿润钢城",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678609.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:21:33.000Z"
-    },
-    {
-      "id": "f4bb0abe77bb",
-      "title": "白天看山，晚上看戏——外国游客如何看懂“魅力湘西”",
-      "summary": "【活力中国调研行】白天看山，晚上看戏——外国游客如何看懂“魅力湘西”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678614.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:20:46.000Z"
-    },
-    {
-      "id": "9506154562a7",
-      "title": "长江十年行丨一江碧水向东流，江西十年生态答卷",
-      "summary": "2016年，长江“共抓大保护、不搞大开发”的发展理念正式提出。2026年是长江大保护战略实施十周年。十年间，江西锚定152公里长江岸线深耕生态治理，以实打实的整治成效，书写出一份水清岸绿的生态答卷。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678613.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:17:26.000Z"
-    },
-    {
-      "id": "fe8c553d4e51",
-      "title": "前7月全国铁路发送旅客28亿人次",
-      "summary": "经济日报北京8月15日讯（记者齐慧）记者从中国国家铁路集团有限公司获悉，今年前7个月，全国铁路发送旅客28亿人次，同比增长4.1%，再创历史同期新高。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678612.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:16:06.000Z"
-    },
-    {
-      "id": "565851dc808c",
-      "title": "财经聚焦丨总量合理、结构向优——透视7月金融数据",
-      "summary": "新华社北京8月14日电 题：总量合理、结构向优——透视7月金融数据",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678611.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:14:48.000Z"
-    },
-    {
-      "id": "8b6b3cfd2e71",
-      "title": "“含绿量”不断上升 一组数据看中国经济的澎湃动能",
-      "summary": "本周",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678610.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:13:10.000Z"
-    },
-    {
-      "id": "7afc4a57fca0",
-      "title": "河南周口、许昌、漯河三市防汛应急响应调整为四级",
-      "summary": "记者从河南省防汛抗旱指挥部了解到，台风“白海豚”对河南省的影响已结束，大范围降雨过程已停止，河道、水库水位明显下降，各地险情得到有效控制。经会商研判，按照《河南省防汛应急预案》有关规定，河南省防指决定自8月16日11时将针对许昌市、漯河市、周口市的防汛应急响应等级调整为四级，其他省辖市(区)终止防汛应急响应。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678608.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:09:48.000Z"
-    },
-    {
-      "id": "79293fd0815c",
-      "title": "航行警告！渤海海峡黄海北部执行军事任务 禁止驶入",
-      "summary": "据中国海事局网站消息，大连海事局发布航行警告，8月16日16时至30日16时，渤海海峡黄海北部部分海域执行军事任务，禁止驶入。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678607.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:08:58.000Z"
-    },
-    {
-      "id": "78285a54abc1",
-      "title": "损毁严重未入名录 总台记者调查明代古城墙“拆旧建新”",
-      "summary": "近日，山西吕梁市中阳县一段明代古城墙被“拆旧建新”，并挂上了“凤凰山风景区”的牌匾，受到广泛关注。特别是拆下来的古城墙地基条石和城墙砖，被“按照废弃物倾倒”引发热议。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678606.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T08:07:42.000Z"
-    },
-    {
-      "id": "fcffefc8dc91",
-      "title": "浙江在科技前沿领域加快突破（活力中国调研行）",
-      "summary": "8月的之江大地，处处生机勃勃、创新活力奔涌——",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678605.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T07:53:08.000Z"
-    },
-    {
-      "id": "c442c346ab1b",
-      "title": "这些地方，大变样！",
-      "summary": "“为什么我的眼里常含泪水？因为我对这土地爱得深沉……”土地是人类生存繁衍、社会向前发展的根本基石。我国打响净土保卫战，很多身边的土地从“生态痛点”蝶变为“生活亮点”……让我们一同凝望这片深爱的土地，一起感受它，一起守护它。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678604.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T07:45:52.000Z"
-    },
-    {
-      "id": "bf09470b6f40",
-      "title": "“特别要更好地关心呵护‘一老一小’”",
-      "summary": "老有所养和幼有所育，关系千家万户。2022年7月13日，走进新疆乌鲁木齐市天山区固原巷社区，习近平总书记看望银发耄耋老人，祝福他们“幸福生活日久天长”。一个多月后，到辽宁沈阳市皇姑区三台子街道牡丹社区，习近平总书记再次重点询问老人孩子的情况，强调“对老年人的服务要跟上”“对孩子们的养育和培养等工作要加强”。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678602.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T07:31:09.000Z"
-    },
-    {
-      "id": "0f0c81db4c46",
-      "title": "机票买错为何不给退？商家小字隐藏退款规则逃避责任",
-      "summary": "眼下正值暑期出行高峰期，国内和出入境航线预订量持续攀升。然而，随着客流量增加，机票退票难，退款金额过低的问题再次引发社会关注。实际上，机票退票难并不是一个新问题，那么究竟难在哪呢？",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678598.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T07:08:08.000Z"
-    },
-    {
-      "id": "94bb090b0767",
-      "title": "门票“秒空”黄牛手里却一大把？当心非法代抢“票财两空”",
-      "summary": "每到旅游旺季",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678597.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T07:03:42.000Z"
-    },
-    {
-      "id": "eedf95a6dd19",
-      "title": "战争将满半年 美伊互撕升级",
-      "summary": "战争将满半年，油价飞涨，美伊互撕升级：特朗普呼吁美国人多花点汽油钱，伊朗副外长硬怼：海峡过去是伊朗的，现在也是，将来永远是！",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678596.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T07:02:14.000Z"
+      "id": "7c3a6c80a5bd",
+      "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’",
+      "summary": "Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI An activist who blocked the entrance to one of the world’s biggest…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-16T08:00:20.000Z"
     },
     {
       "id": "0340769e555b",
@@ -270,66 +370,6 @@
       "publishedAt": "2026-08-16T07:00:19.000Z"
     },
     {
-      "id": "59ab0737b1ce",
-      "title": "快自查！这种手机壳可能在伤害你的健康",
-      "summary": "近日，话题",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678595.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T06:43:22.000Z"
-    },
-    {
-      "id": "a0bd9317f7fd",
-      "title": "云南约谈通报投诉量排名前50旅行社：将实施重点监管",
-      "summary": "近日，云南省文化和旅游厅召开全省投诉较多旅行社负责人视频约谈通报会，对昆明康辉旅行社有限公司、云南中青国际旅行社(集团)有限公司、西双版纳怡程国际旅行社有限公司等全省投诉量排名前50的旅行社进行通报。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678594.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T06:41:38.000Z"
-    },
-    {
-      "id": "c6421d8c802c",
-      "title": "民生调查局｜“心机商标”盯上药品，多款非原研药印“原研一致”商标",
-      "summary": "编者按： 这里是民生调查局，见人所未见，调查民生之变。关注你想关注的、你没关注的，调查你想看的、未看到的。 中新网北京8月16日电(钟余 李萍)“原研一致”是商标，还用到了药品上？",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-16/10678590.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T06:38:10.000Z"
-    },
-    {
-      "id": "1d493901d87a",
-      "title": "内蒙古多地公布乡镇街道、部门“一把手”微信二维码",
-      "summary": "“本次公示的所有微信二维码均为统一规范制作，群众可直接扫码添加对应单位负责人微信，留言反映相关诉求，无需繁琐流程，实现诉求直达、快速对接。”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678592.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T06:31:06.000Z"
-    },
-    {
-      "id": "378fc83d0649",
-      "title": "《生态环境法典的中国创新与世界贡献》智库报告发布",
-      "summary": "原标题：新华社国家高端智库发布《生态环境法典的中国创新与世界贡献》智库报告",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678591.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T06:25:17.000Z"
-    },
-    {
-      "id": "3968d766be1e",
-      "title": "朱镕基同志遗体18日火化 天安门等地将下半旗志哀",
-      "summary": "新华社北京8月16日电 中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届、十五届中央政治局常委，国务院原总理朱镕基同志的遗体，将于18日在北京火化。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678588.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T06:01:38.000Z"
-    },
-    {
       "id": "75b4c7b09c40",
       "title": "‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos",
       "summary": "Fraudsters use pictures posted on Instagram or Facebook to create emails seeking bank account details You are on a short break in Porto and post some pictures of your family on I…",
@@ -338,26 +378,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-16T06:00:17.000Z"
-    },
-    {
-      "id": "24bf51e91e37",
-      "title": "我国成功发射卫星互联网低轨24组卫星",
-      "summary": "中新网北京8月16日电 (记者 马帅莎 骆云飞)北京时间8月16日12时10分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨24组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。(完）",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678587.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T05:55:05.000Z"
-    },
-    {
-      "id": "321bcc3d38e1",
-      "title": "苹果找长鑫合作，醉翁之意不在“芯”",
-      "summary": "苹果最近正在主动接触长鑫存储。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678585.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T05:46:23.000Z"
     },
     {
       "id": "f24eea844477",
@@ -830,16 +850,6 @@
       "publishedAt": "2026-08-13T23:01:10.000Z"
     },
     {
-      "id": "37cbea41ec9d",
-      "title": "Massachusetts teen accused of killing mother and brother used ChatGPT",
-      "summary": "District attorney says Arjun Aravind, 17, used internet and AI to search for fantasy stories regarding killing of his family A Massachusetts teenager accused of killing his mothe…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/massachusetts-teen-killing-chatgpt",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-13T21:34:58.000Z"
-    },
-    {
       "id": "e9965b741b42",
       "title": "Flock Safety tries to curb police abuse of its surveillance cameras after scandals",
       "summary": "CEO announces steps after reports that system is used to target immigrants or people seeking out-of-state abortions For nearly a decade, the company Flock Safety has gradually bu…",
@@ -1218,16 +1228,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-11T10:50:12.000Z"
-    },
-    {
-      "id": "f1a3f8ecbd4f",
-      "title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
-      "summary": "Fair Work Commission issues a new minimum standards order for gig workers to come into effect 17 August Get our breaking news email , free app or daily news podcast Delivery driv…",
-      "url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T08:25:41.000Z"
     }
   ]
 }
