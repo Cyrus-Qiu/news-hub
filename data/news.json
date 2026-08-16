@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T20:51:29.587Z",
+  "updatedAt": "2026-08-16T21:28:29.704Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "074b9edfa1ee",
+      "title": "Australia politics live: Labor warned against changing work rights for visa holders amid ‘scapegoating’ of immigrants",
+      "summary": "Dozens of non-profit groups urge Labor not to limit work rights for temporary migrants. Follow today’s news live Get our breaking news email , free app or daily news podcast Joyc…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T21:17:01.000Z"
+    },
     {
       "id": "adc8c29dd4e4",
       "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
@@ -72,7 +82,7 @@
     {
       "id": "4a38ea4308ed",
       "title": "Nazi artefacts still being sold online years after trade outlawed across Australia",
-      "summary": "One seller says second world war memorabilia containing banned Nazi symbols is legal under exemptions to the laws Get our breaking news email , free app or daily news podcast Naz…",
+      "summary": "One seller says second world war memorabilia containing banned Nazi symbols is legal under exemptions to the laws Follow our Australia news live blog for latest updates Get our b…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/17/nazi-artefacts-prohibited-symbols-still-being-sold-online-australia-ntwnfb",
       "source": "The Guardian World",
       "category": "财经",
@@ -82,7 +92,7 @@
     {
       "id": "1bf304865275",
       "title": "Australian health experts fear US vaccine scepticism is catching on as ‘anything Trump says filters through’",
-      "summary": "Australia records 3% fall in one-year-olds fully immunised against hepatitis B as downward trend continues, expert says Get our breaking news email , free app or daily news podca…",
+      "summary": "Australia records 3% fall in one-year-olds fully immunised against hepatitis B as downward trend continues, expert says Follow our Australia news live blog for latest updates Get…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-health-fears-us-vaccine-scepticism-trump-hepatitis-b-measles-mumps-rubella",
       "source": "The Guardian World",
       "category": "国际",
@@ -102,7 +112,7 @@
     {
       "id": "feecbf4e9476",
       "title": "The PM called Sally McManus a giant of the Labor movement. Now she just wants to go birding",
-      "summary": "After securing wage rises for low-paid workers, weathering death threats and working with three PMs – the ACTU secretary is ready for a break Get our breaking news email , free a…",
+      "summary": "After securing wage rises for low-paid workers, weathering death threats and working with three PMs – the ACTU secretary is ready for a break Follow our Australia news live blog…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding",
       "source": "The Guardian World",
       "category": "国际",
@@ -152,10 +162,10 @@
     {
       "id": "cf55d8893740",
       "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
-      "summary": "Australia’s corporate watchdog says PM is the figure most commonly used in deepfakes to promote phony investment opportunities Get our breaking news email , free app or daily new…",
+      "summary": "Australia’s corporate watchdog says PM is the figure most commonly used in deepfakes to promote phoney investment opportunities Follow our Australia news live blog for latest upd…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
-      "source": "The Guardian World",
-      "category": "国际",
+      "source": "The Guardian Technology",
+      "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-16T14:01:27.000Z"
     },
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-11T11:00:58.000Z"
-    },
-    {
-      "id": "d988d5985ebf",
-      "title": "Hotel prices in Europe jump before total solar eclipse",
-      "summary": "Rooms in Icelandic capital Reykjavík cost double usual rate and Spain also enjoying strong bookings Europe’s total solar eclipse: the best place to see it Hotel prices have surge…",
-      "url": "https://www.theguardian.com/travel/2026/aug/11/hotel-prices-europe-total-solar-eclipse-iceland-spain-bookings",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-11T10:50:12.000Z"
     }
   ]
 }
