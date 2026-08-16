@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T23:28:35.111Z",
+  "updatedAt": "2026-08-16T23:48:54.965Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,16 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "e584229a379c",
+      "title": "强震已致289死，哥伦比亚总统：请特朗普暂停关税纾困震后经济",
+      "summary": "中新网8月17日电 据哥伦比亚媒体16日报道，哥伦比亚10日发生的强震已造成289人死亡、143人失踪、4187人受伤，受灾人口超过18万。此外，根据最新灾情报告，目前已有超2800所教育机构受损。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678809.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T23:40:24.000Z"
+    },
+    {
       "id": "074b9edfa1ee",
       "title": "Australia politics live: NSW to fast-track datacentre approvals; ANU announces Julie Bishop replacement",
       "summary": "Gordon de Brouwer appointed chancellor of Australian National University. Follow today’s news live Get our breaking news email , free app or daily news podcast Hume says housing…",
@@ -37,7 +47,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-16T23:08:48.000Z"
+      "publishedAt": "2026-08-16T23:36:49.000Z"
+    },
+    {
+      "id": "d80fe14c61c8",
+      "title": "半夜口干舌燥可能不是缺水 这6种情况一定要警惕",
+      "summary": "你是否有过这样的体验：半夜时，总觉得口干舌燥。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-17/10678808.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T23:32:08.000Z"
     },
     {
       "id": "e921db6b1961",
@@ -448,26 +468,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-16T13:01:44.000Z"
-    },
-    {
-      "id": "13bbc194d5a9",
-      "title": "巴西里约州举行“中国友好日”庆祝活动",
-      "summary": "中新网里约热内卢8月16日电 (记者 林春茵)品潮汕佳肴，叙中巴友谊。巴西里约热内卢日前举行庆祝“中国友好日”活动。",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-16/10678772.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T13:01:22.000Z"
-    },
-    {
-      "id": "a55377be5256",
-      "title": "学者：AI革命的下半场将是技术对个人赋能",
-      "summary": "中新网上海8月16日电 (记者 陈静)15日正在举行的2026上海书展上，《微弱烛光：PA时代与人类沉浮》新书发布会举行。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678759.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-16T13:00:32.000Z"
     },
     {
       "id": "af099ca7bfad",
