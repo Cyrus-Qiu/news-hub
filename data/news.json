@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T04:10:24.336Z",
+  "updatedAt": "2026-08-16T05:02:28.061Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,104 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "6f1b4583ac24",
+      "title": "印尼7.7级地震致5000余人疏散避难 多县应急响应",
+      "summary": "当地时间8月16日，印尼国家抗灾署发布消息称，东努沙登加拉省7.7级地震已致5000余人疏散避难。目前，应急救援工作的重点之一是保障安置点灾民的基本生活需求和救灾物资供应。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678553.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T04:59:39.000Z"
+    },
+    {
+      "id": "f24eea844477",
+      "title": "Japan’s defence minister heads to Australia to meet Marles in wake of melon-gate controversy",
+      "summary": "Discussions to focus on Australia’s acquisition of Mogami-class frigates as Japan plays down Albanese’s podcast comments Japan’s defence minister will visit Canberra this week, t…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy",
+      "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-16T04:44:30.000Z"
+    },
+    {
       "id": "941d65cb38cc",
-      "title": "Australia news live: Chalmers rejects Hanson’s call for more super access saying One Nation ‘wants to destroy’ scheme",
-      "summary": "Liberals, Nationals and One Nation ‘all a threat to the retirement incomes and economic security of Australian workers,’ treasurer says. Follow live updates Get our breaking news…",
+      "title": "Chalmers rejects Hanson’s call for more super access saying One Nation ‘wants to destroy’ scheme – as it happened",
+      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Anthony Albanese has just been speaking alongside the New South Wales premier, Chris Minns ,…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-16T03:54:44.000Z"
+      "publishedAt": "2026-08-16T04:33:35.000Z"
+    },
+    {
+      "id": "f851c1c95e8b",
+      "title": "东西问丨刘诗昆：琴键上的中俄对话",
+      "summary": "中新社莫斯科8月16日电 题：琴键上的中俄对话",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-16/10678547.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T04:25:12.000Z"
+    },
+    {
+      "id": "407fec5a9d89",
+      "title": "（走进中国乡村）桑树育绿链 广西山村引来东盟取经客",
+      "summary": "中新社广西百色8月16日电 题：桑树育绿链 广西山村引来东盟取经客",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678548.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T04:15:51.000Z"
+    },
+    {
+      "id": "c403de3a05c8",
+      "title": "香江观澜：外籍人才纷至沓来 彰显香港由治及兴吸引力",
+      "summary": "中新社香港8月16日电 题：外籍人才纷至沓来 彰显香港由治及兴吸引力",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-16/10678549.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T04:14:25.000Z"
+    },
+    {
+      "id": "89d12a9753b7",
+      "title": "开渔季到来 刚买的海鲜可以带上高铁吗？",
+      "summary": "开渔在即，各地渔港即将迎来千帆竞渡的壮观景象。铁路部门对此有哪些运力方面的出行保障，旅客采购完海鲜乘坐高铁，又有哪些规定。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678546.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T04:08:33.000Z"
+    },
+    {
+      "id": "24056931628a",
+      "title": "千帆竞发！开渔时刻即将到来",
+      "summary": "今天(16日)，对于海南、广东、广西、福建四省区的渔民朋友来说，是一个期盼已久的日子。今天12时，我国南海海域和东海部分海域为期3个多月的伏季休渔期正式结束，沉寂许久的渔港即将迎来千帆竞发的开渔时刻。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678545.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T04:06:17.000Z"
+    },
+    {
+      "id": "2ad4a68befb6",
+      "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
+      "summary": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking water For centuries, the rock was seen as a warning. When it…",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T04:00:15.000Z"
+    },
+    {
+      "id": "66eb2a37ed51",
+      "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
+      "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 47 people Rescue crews dug through collapsed buildings and landslide debris in east…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-16T03:57:34.000Z"
     },
     {
       "id": "d38ec7f0cb30",
@@ -48,6 +138,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-16T03:50:04.000Z"
+    },
+    {
+      "id": "76a080e156d4",
+      "title": "洪秀柱：大海是联结两岸的天然纽带 民俗根脉是任何政治力量割裂不了的",
+      "summary": "8月15日晚，中国国民党前主席洪秀柱在广东阳江出席第二届海峡两岸民俗文体汇南海(阳江)开渔季民俗文化交流活动欢迎仪式时强调，大海从不是阻隔，而是连接两岸的天然纽带，两岸共享相同的海洋民俗文化基因。洪秀柱公开批评岛内部分势力推行“去中国化”，试图篡改节日、割裂民俗以淡化民族认同，但“现实不会说谎”，流淌在海风里、围绕在烟火中的民俗根脉是任何政治力量都无法割…",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-16/news1065556.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T03:46:26.000Z"
     },
     {
       "id": "4b15d01ccb86",
@@ -290,76 +390,6 @@
       "publishedAt": "2026-08-16T02:47:05.000Z"
     },
     {
-      "id": "d05473c1d140",
-      "title": "华裔大学生海南研习行：从“种子到杯子”领略侨乡咖啡文化",
-      "summary": "中新网海南万宁8月16日电 题：华裔大学生海南研习行：从“种子到杯子”领略侨乡咖啡文化",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-16/10678505.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:46:23.000Z"
-    },
-    {
-      "id": "ed19a3a488a7",
-      "title": "从“边疆煤都”到“宝藏小城” 黑龙江鹤岗焕发绿色新生",
-      "summary": "中新网鹤岗8月16日电 题：从“边疆煤都”到“宝藏小城”黑龙江鹤岗焕发绿色新生",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678515.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:45:49.000Z"
-    },
-    {
-      "id": "2f0a8598dc2f",
-      "title": "台湾餐饮业师生学做正宗川菜 立体感受“山城烟火”",
-      "summary": "中新社重庆8月16日电 (记者 钟旖)渝台青年职业教育交流暨渝菜培训活动8月11日至16日在重庆开展，40余名台湾餐饮专业师生带着一份份“心愿清单”赴渝，在研习中式烹饪技艺之余，用脚步丈量城市。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678517.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:45:09.000Z"
-    },
-    {
-      "id": "5d01708a5e6b",
-      "title": "（长征胜利90周年）广西资源县苗乡火塘边的红色故事",
-      "summary": "中新网桂林8月15日电 题：广西资源县苗乡火塘边的红色故事",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678494.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:44:09.000Z"
-    },
-    {
-      "id": "fd3f0466d985",
-      "title": "纪念红军长征胜利90周年暨弘扬长征精神作品巡展在广州启幕",
-      "summary": "中新网广州8月16日电 (记者 许青青)今年是红军长征胜利90周年。2026年度国家艺术基金传播交流推广资助项目，“信仰长歌：纪念红军长征胜利90周年暨弘扬长征精神作品巡展(广州站)”15日在岭南画派纪念馆启幕。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678495.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:44:07.000Z"
-    },
-    {
-      "id": "b6883d9813c9",
-      "title": "香港举行“纪念抗日英烈谒碑典礼” 缅怀抗日英烈",
-      "summary": "新华社香港8月15日电（许淑敏）为缅怀保卫香港而捐躯的抗日英烈，由原东江纵队港九独立大队老游击战士联谊会主办的“纪念抗日英烈谒碑典礼”，15日在西贡斩竹湾烈士碑园举行，150多位社会各界人士出席。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678519.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:42:21.000Z"
-    },
-    {
-      "id": "4760e5e112f9",
-      "title": "广纳真知 共绘蓝图——香港各界积极为香港首个五年规划建言献策",
-      "summary": "新华社香港8月15日电 题：广纳真知 共绘蓝图——香港各界积极为香港首个五年规划建言献策",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678518.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:41:53.000Z"
-    },
-    {
       "id": "e7476ac8d58c",
       "title": "「他送給我一個長得像他的洋娃娃」：卡斯特羅之女回顧那個她從不想認的父親",
       "summary": "在她成長過程中有記憶以來的每一段時間，阿麗娜·費爾南德斯經常獲得菲德爾·卡斯特羅探訪，卻不知道這位古巴革命領袖正是她的父親。",
@@ -478,16 +508,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-15T10:00:54.000Z"
-    },
-    {
-      "id": "9cb18e859129",
-      "title": "Post-Brexit rights for British citizens are being undermined in Sweden",
-      "summary": "Apparent high level of removal orders suggests Sweden is rejecting ‘reasonable grounds’ for failing to apply to stay Back in October 2020, the UK immigration minister stood up in…",
-      "url": "https://www.theguardian.com/politics/2026/aug/15/post-brexit-rights-british-citizens-sweden-removal-orders-analysis",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T09:00:53.000Z"
     },
     {
       "id": "51fff4798aea",
@@ -870,16 +890,6 @@
       "publishedAt": "2026-08-13T13:00:01.000Z"
     },
     {
-      "id": "a05441fed96b",
-      "title": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
-      "summary": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international law The Japanese government has reacted angrily to Vladimir Putin’…",
-      "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-13T12:56:57.000Z"
-    },
-    {
       "id": "f39851f6f388",
       "title": "「白海豚」中國暴雨持續：為何颱風災情愈來愈深入內陸地區？",
       "summary": "今年目前為止吹襲中國的最強颱風「白海豚」，於8月9日登陸後持續帶來災情，至本週仍為中國東部、中北部帶來廣泛暴雨和水災，影響範圍甚至波及內陸地區。",
@@ -914,7 +924,7 @@
       "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
       "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea’s Incheon airport has become the world’s busiest…",
       "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
-      "source": "The Guardian World",
+      "source": "The Guardian Business",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-13T09:45:56.000Z"
@@ -1218,16 +1228,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-11T10:29:29.000Z"
-    },
-    {
-      "id": "f1a3f8ecbd4f",
-      "title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
-      "summary": "Fair Work Commission issues a new minimum standards order for gig workers to come into effect 17 August Get our breaking news email , free app or daily news podcast Delivery driv…",
-      "url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-11T08:25:41.000Z"
     }
   ]
 }
