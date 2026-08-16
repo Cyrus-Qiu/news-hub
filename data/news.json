@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:02:28.061Z",
+  "updatedAt": "2026-08-16T05:36:28.618Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,66 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "da0a774d0eff",
+      "title": "3个月，8亿人次，乡村文旅靠什么吸引游客？",
+      "summary": "多年前，说起乡村旅游，很多人脑子里浮现的画面是：土灶台、大铁锅，一桌农家饭，临走再捎上两筐土鸡蛋。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678577.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T05:30:02.000Z"
+    },
+    {
+      "id": "5d8ea7d5dc66",
+      "title": "香港是“文化沙漠”？",
+      "summary": "中新社记者 曾平",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-16/10678573.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T05:24:49.000Z"
+    },
+    {
+      "id": "a4ed1c23e21e",
+      "title": "甲状腺最讨厌的5件事 一个比一个伤身 你中招了吗→",
+      "summary": "甲状腺，这个身体里的小小器官",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-16/10678557.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T05:12:27.000Z"
+    },
+    {
+      "id": "fa93cd712e98",
+      "title": "暴雨、大暴雨！接下来雨会下在哪？",
+      "summary": "昨天(8月15日)，随着台风残涡东移出海，华东、华南一带的降雨有所减弱。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678556.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T05:07:44.000Z"
+    },
+    {
+      "id": "24ffd8a15628",
+      "title": "日本在野党痛批高市：“一个不知反省的国家，无法获得信任”",
+      "summary": "中新网8月16日电 2026年8月15日是日本宣布无条件投降81周年的日子。当天，日本首相高市早苗不仅向供奉14名甲级战犯的靖国神社供奉祭祀费，在当天的纪念仪式致辞中也丝毫未提“反省”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678555.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T05:02:18.000Z"
+    },
+    {
+      "id": "4a9ff682ac92",
+      "title": "从田间到餐桌 上半年冷链“热”起来了",
+      "summary": "中国物流与采购联合会16日发布上半年冷链物流运行数据。在宏观经济回升向好、物流运行韧性增长的背景下，上半年冷链物流保持稳步发展态势，冷链消费需求温和回升，绿色低碳转型加速推进。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678554.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-16T05:02:02.000Z"
+    },
     {
       "id": "6f1b4583ac24",
       "title": "印尼7.7级地震致5000余人疏散避难 多县应急响应",
@@ -328,66 +388,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-16T02:54:36.000Z"
-    },
-    {
-      "id": "54f0ff7f2552",
-      "title": "气田、大飞机、算力……本周一批重大工程迎来“高光时刻”",
-      "summary": "从算力到气田",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678525.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:52:44.000Z"
-    },
-    {
-      "id": "51ff190c11e2",
-      "title": "《英汉大词典》App版亮相 传统书籍如何拥抱数智时代？",
-      "summary": "2026上海书展暨“书香中国”上海周近日开幕，本届书展以“最是书香能致远”为主题，来自全国各地的出版人与爱书人再度相聚，共赴文化盛会，开启“阅读时间”。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678523.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:50:47.000Z"
-    },
-    {
-      "id": "b2f8cdab160f",
-      "title": "印尼7.7级地震死亡人数升至48人 另有64人受伤",
-      "summary": "据印尼救援部门消息，截至当地时间16日8时30分，印尼7.7级地震死亡人数升至48人，另有64人受伤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678522.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:48:57.000Z"
-    },
-    {
-      "id": "ddf1748b01be",
-      "title": "广东工会百场义诊进县镇 服务职工超万人次",
-      "summary": "中新网广州8月16日电(张璐 余冰冰)记者16日从广东省总工会获悉，“关爱职工健康助力‘百千万工程’”百场县镇职工健康服务活动(以下简称“活动”)持续在广东各地偏远山区县镇推进。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678507.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:47:41.000Z"
-    },
-    {
-      "id": "5ac66d3c30b5",
-      "title": "机型“大换小”却不能全额退款 旅客权益怎样维护？",
-      "summary": "眼下正值暑期出游高峰期，很多旅客在出游时出于飞行舒适度、座位宽敞度等考虑，特意购买了大型机航班，结果出发前却发现自己乘坐的机型被换成了中小型机。想退票？可以，但航司说，退改签的手续费得自己掏。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678521.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:47:39.000Z"
-    },
-    {
-      "id": "a394c03096ca",
-      "title": "粤港澳青少年三人篮球公开赛在广州举行",
-      "summary": "中新网广州8月16日电 (张璐 陈楚红 余冰冰)第四届“日新杯”暨粤港澳青少年三人篮球公开赛(简称“赛事”)15日至17日在广州举行。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-16/10678506.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-16T02:47:05.000Z"
     },
     {
       "id": "e7476ac8d58c",
