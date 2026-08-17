@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:54:34.290Z",
+  "updatedAt": "2026-08-17T23:30:51.932Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,46 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "4d3c4e97e696",
+      "title": "Australia politics live: independent Sophie Scamps delivers scathing criticism of ‘weak, piecemeal, pathetic’ gambling reforms as deal looms",
+      "summary": "Deal on gambling bill between Labor and Coalition expected after party rooms meet today. Follow today’s news live Get our breaking news email , free app or daily news podcast Cha…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T23:22:12.000Z"
+    },
+    {
+      "id": "e7c14eb53587",
+      "title": "8月18日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-18/10679358.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T23:14:38.000Z"
+    },
+    {
+      "id": "7580c488b449",
+      "title": "民调：特朗普支持率创第二任期内新低",
+      "summary": "中新网8月18日电 据路透社报道，当地时间8月17日，路透社与益普索集团发布的一项民意调查结果显示，美国总统特朗普的支持率从本月早些时候的35%跌至33%，创下其第二任期内新低。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679357.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T22:56:20.000Z"
+    },
+    {
+      "id": "d9da46fcdec1",
+      "title": "Sydney Swans coach ‘extremely disappointed’ as club faces call on standing down players over alleged sexual assault",
+      "summary": "Victoria police investigating allegation of sexual assault in the early hours of Monday morning at a Melbourne hotel Follow our Australia news live blog for latest updates Get ou…",
+      "url": "https://www.theguardian.com/sport/2026/aug/18/sydney-swans-coach-extremely-disappointed-as-club-faces-call-on-standing-down-players-over-alleged-sexual-assault-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T22:56:20.000Z"
+    },
+    {
       "id": "959e149677d5",
       "title": "特朗普称金正恩已回应其“对话”请求",
       "summary": "中新网8月18日电 综合外媒报道，美国总统特朗普17日在白宫对媒体称，朝鲜领导人金正恩已回应他提出的“对话”请求，但他没有透露回应的内容。",
@@ -38,16 +78,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-17T22:43:43.000Z"
-    },
-    {
-      "id": "4d3c4e97e696",
-      "title": "Australia politics live: federal police to investigate leaked melon memo; Labor wants nation to adopt AI ‘everywhere we can’",
-      "summary": "Labor minister Andrew Charlton says Australia should do more to produce new AI models. Follow today’s news live Get our breaking news email , free app or daily news podcast Chalm…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian World",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-17T22:38:01.000Z"
     },
     {
       "id": "381a78546195",
@@ -350,16 +380,6 @@
       "publishedAt": "2026-08-17T15:00:01.000Z"
     },
     {
-      "id": "a91278b8555b",
-      "title": "Alarm raised over ‘privacy dilemma’ of facial recognition technology at Coles and Woolworths",
-      "summary": "Supermarkets say they are exploring ways to keep people safe, but experts claim the tech is ‘normalising surveillance’ Get our breaking news email , free app or daily news podcas…",
-      "url": "https://www.theguardian.com/business/2026/aug/18/concerns-security-privacy-facial-recognition-technology-coles-woolworths",
-      "source": "The Guardian World",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-17T15:00:00.000Z"
-    },
-    {
       "id": "d670677fbe2b",
       "title": "香港特区廉政专员率团赴大连参加APEC反腐败会议",
       "summary": "中新网香港8月17日电 据香港廉政公署(简称“香港廉署”)消息，香港特区廉政专员胡英明17日率领香港廉署代表团在辽宁大连出席亚太经合组织(APEC)第43届反贪腐倡透明专家工作小组会议，持续推动《北京反腐败宣言》加强国际反腐败合作。",
@@ -508,26 +528,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-08-17T13:50:48.000Z"
-    },
-    {
-      "id": "af6f0979d9b7",
-      "title": "北魏平城时期嵌玻璃釉陶器可见中外文化交流因素",
-      "summary": "中新社太原8月17日电 (记者 李庭耀 杨静)山西省考古研究院17日对外发布，通过对北魏平城时期墓葬出土嵌玻璃釉陶器的系统分析研究，其工艺和成分可见中外文化交流因素。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-17/10679312.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:50:24.000Z"
-    },
-    {
-      "id": "83bb0b972d83",
-      "title": "天津邮轮口岸暑期出入境人员同比增长近两成",
-      "summary": "中新社天津8月17日电 (记者 周亚强)记者17日从天津边检总站东疆边检站获悉，今年暑期以来，天津邮轮口岸累计验放出入境人员9万余人次，其中出入境旅客近6.6万人次，同比均增长近20%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679311.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:49:50.000Z"
     },
     {
       "id": "3aff43276d05",
