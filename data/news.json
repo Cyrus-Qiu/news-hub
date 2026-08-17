@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:59:52.161Z",
+  "updatedAt": "2026-08-17T18:51:54.359Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "d4ca08041bea",
+      "title": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
+      "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat says US politics live – latest updates Donald Trum…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T17:43:53.000Z"
+    },
     {
       "id": "bc5db0eb6d86",
       "title": "Claude to start watermarking AI-generated text – but will it make quality worse?",
@@ -828,16 +838,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-15T18:08:21.000Z"
-    },
-    {
-      "id": "415eeab89b1c",
-      "title": "Powerful earthquake kills dozens in eastern Indonesia",
-      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T15:34:38.000Z"
     },
     {
       "id": "bf3ad6270a8d",
