@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T04:21:16.396Z",
+  "updatedAt": "2026-08-17T05:17:43.964Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,184 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "5e16eb3e4c49",
+      "title": "美丽新疆丨戈壁矿山“解渴”记",
+      "summary": "石榴云/新疆日报记者 张婷 通讯员 常轶茹",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678961.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T05:12:52.000Z"
+    },
+    {
+      "id": "5e49d7fd3a66",
+      "title": "输液比吃药好得快是真是假？这些风险要当心",
+      "summary": "“孩子发烧咳嗽，赶紧去输液！作用直接，比吃药好得快。”“输液既能治病还能预防，一举两得。”这些说法常能听到。很多人把输液当成治病“万能符”，甚至主动要求输液。殊不知，输液不是“加速药”，更不是“万能药”，盲目输液可能带来健康风险。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-17/10678968.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T05:09:09.000Z"
+    },
+    {
+      "id": "9f9b16ffe844",
+      "title": "交流互鉴，助力中非携手迈向现代化（“留学中国”故事）",
+      "summary": "今年是中国与非洲国家开启外交关系70周年，也是“中非人文交流年”。中非携手推进现代化，需要深入开展人文交流、文明互鉴。青年是文明对话的使者，是传承友谊的纽带。许多非洲青年到中国求学深造，汲取中国发展经验，吸纳先进技术成果，促进了中非交流互鉴，助力双方携手迈向现代化。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678960.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T05:08:53.000Z"
+    },
+    {
+      "id": "4e49c969d97d",
+      "title": "八国外长谴责以色列拒绝加沙和平路线图",
+      "summary": "中新社北京8月17日电 综合消息：卡塔尔、约旦、阿联酋、印度尼西亚、巴基斯坦、土耳其、沙特阿拉伯和埃及8个国家外长当地时间16日发表联合声明，谴责以色列公开拒绝旨在落实美国总统特朗普加沙和平计划的路线图，并谴责其拒绝承认巴勒斯坦国。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678963.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T05:08:47.000Z"
+    },
+    {
       "id": "074b9edfa1ee",
-      "title": "Australia politics live: Hill says using super to buy a home gets ‘gold medal for stupidest policy’ after Hanson reignites debate",
-      "summary": "Pauline Hanson said on Sunday that Australians should be able to access superannuation early to cope with cost-of-living pressures. Follow today’s news live Get our breaking news…",
+      "title": "Australian politics live: Labor pledges new ‘opt-out register’ for gambling ads; Tehan booted from question time after telling Bowen to ‘cut the crap’ on renewable scheme",
+      "summary": "Anika Wells confirms clampdown on inducements and inducement advertising. Follow today’s news live Get our breaking news email , free app or daily news podcast Hume says housing…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
       "source": "The Guardian World",
-      "category": "财经",
+      "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-17T04:09:22.000Z"
+      "publishedAt": "2026-08-17T05:08:03.000Z"
+    },
+    {
+      "id": "7ff8b93335dc",
+      "title": "中国汽车芯片五项认证认可行业标准发布",
+      "summary": "中新社北京8月17日电 (记者 刘亮)中国国家市场监管总局(国家认监委)17日公布，其近日批准立项的《汽车芯片机构认证审查 通用评价要求》等五项认证认可行业标准发布。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10678964.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:36:21.000Z"
+    },
+    {
+      "id": "855cb173c6d6",
+      "title": "日本政坛“拜鬼”闹剧出现危险动向，专家：照妖镜下，“新型军国主义”已无所遁形",
+      "summary": "【环球时报驻日本特约记者 初欣 环球时报记者 邢晓婧 张婉诗】日本自民党政务调查会长小林鹰之16日参拜靖国神社。这是刚刚过去的这个周末，日本政坛靖国神社“拜鬼”闹剧的最新剧情。在日本宣布无条件投降81周年的日子，日本首相高市早苗不仅向靖国神社供奉“玉串料”(祭祀费)，还在距离靖国神社不远的地方朝其方向“遥拜”，她本人在当天的致辞中也没有提及“反省”。此外…",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678957.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:35:57.000Z"
+    },
+    {
+      "id": "0d6ffda4b218",
+      "title": "今年前7个月上海市船舶出口额同比增长超六成",
+      "summary": "中新社上海8月17日电 (记者 姜煜)据上海海关17日发布的统计数据，今年前7个月，上海市船舶出口额400.9亿元人民币，同比增长64.1%，其中液货船、大型集装箱船等高端船舶占比达83.9%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10678962.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:35:41.000Z"
+    },
+    {
+      "id": "c24e64ef3628",
+      "title": "全球媒体聚焦丨日媒：日本必须正视历史、坚守和平",
+      "summary": "今年8月15日是日本宣布无条件投降81周年。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678953.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:33:55.000Z"
+    },
+    {
+      "id": "c70641144f7c",
+      "title": "中企承建安哥拉最大水电站—— “国家发展的关键基础设施”",
+      "summary": "从安哥拉首都罗安达驱车向东行驶约4个小时，便抵达北宽扎省栋多市的宽扎河中游。河谷间机器轰鸣，施工车辆往来穿梭，河道上一座混凝土大坝已经初具规模，这里便是由中国能建葛洲坝集团承建的凯凯水电站施工现场。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678945.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:32:15.000Z"
+    },
+    {
+      "id": "c1df43385acf",
+      "title": "老外被中式美学“硬控”的N个瞬间：“这是我想象中的天堂”",
+      "summary": "近日，一位网友在海外社交平台上传了一张大白兔奶糖包装纸的照片，并配文“这绝对是平面设计的杰作”。这条帖文迅速走红，短短数天浏览量突破600万，评论区更是被海外网友的花式夸赞和“二创”刷屏。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678937.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:30:13.000Z"
+    },
+    {
+      "id": "dc9d03c9d737",
+      "title": "凡人叙事何以打动人心",
+      "summary": "2026年暑期档，《八仙！》《功夫女足》热度走高，《年会不能停！2》引发讨论。一众作品题材迥异，却有着共同特质：把镜头对准普通人的悲欢沉浮与执着坚守。创作者避免空泛叙事，立足真实生活描摹小人物的命运百态，这种接地气的表达，收获了观众认可。",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-17/10678933.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:27:35.000Z"
+    },
+    {
+      "id": "43b9f694cd94",
+      "title": "从生态文明建设看时间观",
+      "summary": "(人民论坛)",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-17/10678928.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:26:14.000Z"
+    },
+    {
+      "id": "6ce704b9d78a",
+      "title": "【“筑基”高质量·系列评论之十】攀登！向着高水平科技自立自强",
+      "summary": "【“筑基”高质量·系列评论之十】",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-17/10678927.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:24:12.000Z"
+    },
+    {
+      "id": "b784a7588f78",
+      "title": "奔腾中国·质胜未来丨部署实施国家重大发展战略",
+      "summary": "来源：中国经济网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10678924.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:21:58.000Z"
+    },
+    {
+      "id": "be836181a38e",
+      "title": "长江十年行丨江西湖口：退渔民上岸改造捕长江江豚成“常客”",
+      "summary": "鄱阳湖入长江口，水面蒸腾冒着暑气。舒银安把巡护船靠稳，抹了把汗，“现在每天一出去就能看到江豚，下午两点最热的时候都见过”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678922.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:20:40.000Z"
+    },
+    {
+      "id": "6dc85dd9564c",
+      "title": "《花瓦俍兵》亮相第十三届全国杂技展演闭幕演出",
+      "summary": "图为杂技剧《花瓦俍兵》演出现场。广西壮族自治区文化和旅游厅 供图 图为杂技剧《花瓦俍兵》演出现场。广西壮族自治区文化和旅游厅 供图 图为杂技剧《花瓦俍兵》演出现场。广西壮族自治区文化和旅游厅 供图 图为杂技剧《花瓦俍兵》演出现场。广西壮族自治区文化和旅游厅 供图 图为杂技剧《花瓦俍兵》演出现场。广西壮族自治区文化和旅游厅 供图",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-17/10678949.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:16:46.000Z"
+    },
+    {
+      "id": "337533d1084e",
+      "title": "【文化中国行】琢石续千秋 凝灰岩文保破解世界难题",
+      "summary": "央视新闻客户端消息(新闻联播)：石质文物以碑刻、造像等留存文字与历史，是记述中华文脉的载体。今天(8月16日)的《文化中国行》，我们走进世界遗产地河北承德避暑山庄，昔日热河行宫、御苑胜景里淬炼出的文保智慧，正为世界石质文物保护提供新经验。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-17/10678913.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T04:16:38.000Z"
     },
     {
       "id": "64948dba06dc",
@@ -180,26 +350,6 @@
       "publishedAt": "2026-08-17T03:41:22.000Z"
     },
     {
-      "id": "757b89a6ad2c",
-      "title": "韩国多地遭遇强降雨 降雨量创纪录",
-      "summary": "中新网8月17日电 据韩联社报道，韩国庆尚南道地区17日出现强降雨天气，巨济市和统营市累计降雨量均创历史新高。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678825.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T03:39:09.000Z"
-    },
-    {
-      "id": "91a3e4ebee10",
-      "title": "文旅新探丨打卡“龙餐馆” 读懂一座西北矿区的光影新生",
-      "summary": "近期，电影《欢迎来龙餐馆》热映，一个“隐藏彩蛋”被观众发现，片中大量场景，竟然是在我国大西北的宁夏石嘴山市石炭井取景拍摄的。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678904.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T03:38:55.000Z"
-    },
-    {
       "id": "59743cedc332",
       "title": "Ralph Carr in ‘living hell’ after being convicted of rape, Victorian court hears",
       "summary": "Lawyer for the entertainment industry and AFL figure says his career is ‘destroyed’ following conviction Follow our Australia news live blog for latest updates Get our breaking n…",
@@ -208,56 +358,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-17T03:36:15.000Z"
-    },
-    {
-      "id": "cd6d70653894",
-      "title": "高温催热了纳凉消费",
-      "summary": "8月以来，持续高温笼罩东北多地，“东北夏天不热”的印象被改写。酷暑之下，纳凉消费随之加速升温。山里玩雪、清凉戏水、馆里研学、商场延时……极端天气下，辽宁纳凉消费串起暑期消费主线。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10678916.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T03:32:55.000Z"
-    },
-    {
-      "id": "8612269b5d67",
-      "title": "活力中国调研行丨水润莲城“新”意足",
-      "summary": "湘江滔滔，一路向北。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678912.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T03:31:49.000Z"
-    },
-    {
-      "id": "6209900e2b6a",
-      "title": "全球客户“反向出差”到中国",
-      "summary": "在央视财经《对话》节目中，主持人陈伟鸿与几位中国科技企业的创始人聊起了一个有趣的变化：",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10678909.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T03:28:33.000Z"
-    },
-    {
-      "id": "55ed728ae203",
-      "title": "陕西吉林四川云南广东福建等地将有强对流天气",
-      "summary": "中新网8月17日电 据中央气象台网站消息，中央气象台8月17日10时发布强对流天气预报。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678920.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T03:26:15.000Z"
-    },
-    {
-      "id": "2027b69d11e1",
-      "title": "1至7月全国铁路完成固定资产投资4406亿元",
-      "summary": "中新网8月17日电 据“中国铁路”微信公众号消息，今年以来，铁路建设优质高效推进，1至7月全国铁路完成固定资产投资4406亿元，同比增长1.8%，现代化铁路基础设施体系加快构建，铁路建设投资拉动效应显著，为区域经济社会发展注入了强劲动能。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10678926.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T03:24:35.000Z"
     },
     {
       "id": "1d2bee06b5bc",
@@ -270,36 +370,6 @@
       "publishedAt": "2026-08-17T03:24:21.000Z"
     },
     {
-      "id": "240aa9b2f07f",
-      "title": "遵义市仁怀市委原常委、茅台镇党委原书记王远强被“双开”",
-      "summary": "中新网8月17日电 据遵义市纪委监委消息：经遵义市委批准，遵义市纪委监委对遵义市仁怀市委原常委、茅台镇党委原书记王远强严重违纪违法问题进行了立案审查调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10678931.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T03:22:02.000Z"
-    },
-    {
-      "id": "90875f1899a1",
-      "title": "我国在稀土检测关键技术领域取得重要进展",
-      "summary": "记者今天了解到，近日，我国在稀土检测关键技术领域取得重要进展。长期以来，高纯稀土中稀土杂质含量准确测定面临基体干扰的难题，并严重制约稀土产品质量的精准把控。为突破这一技术瓶颈，依托江西理工大学建立的国家市场监督管理总局重点实验室(稀土产品检测与溯源)开展专项技术攻关，经过研究团队的不懈努力，检测技术取得突破，整体技术能力迈上新台阶。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10678932.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T03:20:14.000Z"
-    },
-    {
-      "id": "f2570e8a7996",
-      "title": "孙中山当年每次出海为何必经澳门？",
-      "summary": "作者 杨程晨 李百加",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-17/10678929.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T03:14:16.000Z"
-    },
-    {
       "id": "159b18c41326",
       "title": "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
       "summary": "Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Aust…",
@@ -310,16 +380,6 @@
       "publishedAt": "2026-08-17T02:58:05.000Z"
     },
     {
-      "id": "600fb073c138",
-      "title": "希腊萨拉米斯岛突发野火已致2死 593人被紧急疏散",
-      "summary": "中新社北京8月17日电 雅典消息：希腊萨拉米斯岛当地时间16日突发野火，已造成2人死亡，当地593人被紧急疏散。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678910.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T02:57:25.000Z"
-    },
-    {
       "id": "ce6b7d5cbb8e",
       "title": "美軍指揮官許諾「優先」應對林肯號航母人員精神健康",
       "summary": "庫珀海軍上將在登上這艘軍艦後承認，長時間在海上服役是「充滿獨特挑戰」。",
@@ -328,56 +388,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-17T02:56:37.000Z"
-    },
-    {
-      "id": "347b69338ebd",
-      "title": "我国汽车芯片五项认证认可行业标准发布",
-      "summary": "中新网8月17日电 据“市说新语”微信公众号消息，近日，市场监管总局(国家认监委)批准立项的《汽车芯片机构认证审查 通用评价要求》等五项认证认可行业标准发布。该五项标准构建了全球首个针对汽车芯片全产业链相关机构的国家层面能力评价标准体系，标志着我国在构建自主可控的汽车芯片质量保障体系方面取得重大制度突破。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10678908.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T02:52:18.000Z"
-    },
-    {
-      "id": "eafad274e729",
-      "title": "纪念江泽民同志诞辰100周年大会隆重举行 习近平出席大会并发表重要讲话",
-      "summary": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10678914.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T02:51:28.000Z"
-    },
-    {
-      "id": "d2630c635b6d",
-      "title": "聊啥推啥，是不是手机在“偷听”？",
-      "summary": "(融观中国)",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678885.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T02:49:32.000Z"
-    },
-    {
-      "id": "48faea324a6e",
-      "title": "黑龙江发生2026年第2号洪水",
-      "summary": "中新网8月17日电 据水利部网站消息，受上游来水影响，8月17日8时，黑龙江漠河水文站(黑龙江省漠河市)水位涨至警戒水位(293.69米)，依据主要江河洪水编号规定，此次洪水编号为“黑龙江2026年第2号洪水”。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10678906.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T02:49:04.000Z"
-    },
-    {
-      "id": "1a7acfa88abc",
-      "title": "80岁成首位安徒生插画奖中国获奖者 蔡皋：童年是最好的摇篮",
-      "summary": "80岁获安徒生奖，成为插画奖设立60年首位中国获奖者。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-17/10678896.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T02:46:38.000Z"
     },
     {
       "id": "48e3870dc9f7",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-12T08:31:43.000Z"
-    },
-    {
-      "id": "a3de87b8019c",
-      "title": "台灣首度演練「斷網半小時」：戰時通訊中斷，民眾準備好了嗎？",
-      "summary": "台灣2026年「城鎮韌性演習」首次加入「斷網場景」，BBC中文記者前往台中現場直擊，了解民眾對網路降速措施的看法。",
-      "url": "https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-11T11:00:58.000Z"
     }
   ]
 }
