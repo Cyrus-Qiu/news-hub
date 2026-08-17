@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T10:06:40.445Z",
+  "updatedAt": "2026-08-17T10:45:56.260Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,146 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "26d3727256f3",
+      "title": "大疆诉美国国防部案取得实质性进展",
+      "summary": "中新网北京8月17日电 美国当地时间8月14日，大疆创新诉美国国防部案取得实质性进展。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679193.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T10:38:32.000Z"
+    },
+    {
+      "id": "d8d09c5c3629",
+      "title": "中国人民银行发行江泽民诞辰100周年纪念币",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201357.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T10:36:45.000Z"
+    },
+    {
+      "id": "28f9e88cb7d6",
+      "title": "日媒：高市早苗前往医院接受手部等检查 停留超6个小时",
+      "summary": "中新网8月17日电 据日本广播协会(NHK)报道，当地时间17日上午，日本首相高市早苗前往东京都内的一家医院接受诊疗，停留时间近6个半小时。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679201.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T10:31:21.000Z"
+    },
+    {
+      "id": "e3d7c0ac2a93",
+      "title": "Kushner meets Netanyahu in Jerusalem following Hamas talks – Middle East crisis live",
+      "summary": "Trump’s envoy and son-in-law meets Israeli leader in effort to push Gaza peace plan Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza US President ⁠Donald Trum…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T10:30:55.000Z"
+    },
+    {
+      "id": "0192304df033",
+      "title": "Senior Russian banker fired after warning over wartime economy",
+      "summary": "Andrei Klepach of VEB said Russia’s economy was falling behind China, US and ‘in some respects Ukraine’ Europe live – latest updates The chief economist at Russia’s second larges…",
+      "url": "https://www.theguardian.com/world/2026/aug/17/andrei-klepach-russian-banker-fired-warning-economy",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T10:29:58.000Z"
+    },
+    {
+      "id": "892207943b6d",
+      "title": "中国邮政发行《纪念江泽民同志诞辰100周年》纪念邮票",
+      "summary": "新华社北京8月17日电 中国邮政8月17日发行《纪念江泽民同志诞辰100周年》纪念邮票1套2枚、小型张1枚。邮票表现内容分别为：江泽民同志在上海、江泽民同志在中国共产党第十五次全国代表大会上。小型张表现内容为：江泽民同志在天安门城楼上向群众游行队伍挥手致意。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679200.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T10:27:45.000Z"
+    },
+    {
+      "id": "03200e52a47d",
+      "title": "广西南丹一施工点山体滑坡致1人遇难 仍有4人被困",
+      "summary": "今天，广西河池南丹县应急管理局发布情况通报，内容如下：",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679191.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T10:24:19.000Z"
+    },
+    {
+      "id": "03a983e80766",
+      "title": "Angus Taylor links support for NDIS reform to removal of ‘widow tax’ loophole",
+      "summary": "Coalition leader tells Anthony Albanese that delaying repeal of ‘cruel’ measure is ‘unconscionable’ Get our breaking news email , free app or daily news podcast Angus Taylor says…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/angus-taylor-links-support-for-ndis-reform-to-removal-of-widow-tax-loophole",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T10:19:23.000Z"
+    },
+    {
+      "id": "d6a91a797fc5",
+      "title": "“十四五”期间全国查处滥用行政权力排除、限制竞争案件290件",
+      "summary": "中新网8月17日电 据“市说新语”微信公众号消息，“十四五”时期，市场监管部门持续加大反垄断执法力度，连续4年部署开展滥用行政权力排除、限制竞争执法相关专项行动，依法查处案件290件，有力制止行政机关违法干预市场竞争行为，促进优化营商环境，服务全国统一大市场建设。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679188.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T10:15:00.000Z"
+    },
+    {
+      "id": "005a63a1f2bf",
+      "title": "French PM booed on visit to wildfire-affected region as Belgium tackles enormous blaze – Europe live",
+      "summary": "Wildfire thought to be largest in Belgium’s history creeps closer to German border prompting evacuations We are now getting a bit more detail on Sébastien Lecornu’s visit to the…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T10:12:29.000Z"
+    },
+    {
+      "id": "c77ef471719f",
+      "title": "西安碑林海峡两岸临书展吸引游客参观",
+      "summary": "8月17日，陕西西安，游客参观临书展。中新社记者 张远 摄 8月17日，陕西西安，游客参观临书展。中新社记者 张远 摄 8月17日，陕西西安，游客参观临书展。中新社记者 张远 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-17/10679176.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T10:06:32.000Z"
+    },
+    {
+      "id": "98a4e18cc738",
+      "title": "金民锡当选韩国执政党共同民主党党首",
+      "summary": "中新网8月17日电 据韩联社报道，当地时间17日，韩国执政党共同民主党在大田市举行全国党员大会，前国务总理金民锡当选新一任党首。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679187.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T10:04:22.000Z"
+    },
+    {
+      "id": "0324945497bc",
+      "title": "宁夏平罗县通报：不存在养殖场粪水直排情况",
+      "summary": "中新网8月17日电 据“平罗县陶乐镇”微信公众号消息，宁夏平罗县陶乐镇17日发布情况通报称，8月16日，网民反映陶乐镇施家台子村黄河岸边存在“养殖场粪水直排，污染地下水”问题，陶乐镇高度重视，第一时间组织力量开展核查处置工作。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679184.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T10:04:08.000Z"
+    },
+    {
+      "id": "26d7ee862e84",
+      "title": "侨乡海南文昌打造国际一流航天科技城",
+      "summary": "中新社海口8月17日电 (记者 符宇群)海南省文昌市市长曹树育17日在海南省新闻办公室于海口举行的新闻发布会上透露，“十五五”时期，文昌将坚持“向天图强”，全力保障“百箭千星”“梦舟揽月”“长九问天”三大国家级航天战略工程落地，打造国际一流航天科技城，形成具有全球影响力的航天产业集群。",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-17/10679183.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T09:59:51.000Z"
+    },
     {
       "id": "abc825cce1bd",
       "title": "金民锡当选韩国执政党共同民主党新任党首",
@@ -70,16 +210,6 @@
       "publishedAt": "2026-08-17T09:51:25.000Z"
     },
     {
-      "id": "e3d7c0ac2a93",
-      "title": "Kushner meets Netanyahu in Jerusalem following Hamas talks – Middle East crisis live",
-      "summary": "Trump’s envoy and son-in-law meets Israeli leader in effort to push Gaza peace plan Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza US President Donald Trump…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T09:51:23.000Z"
-    },
-    {
       "id": "25c655b892e8",
       "title": "中国农业发展银行原副行长徐一丁被“双开”",
       "summary": "中新社北京8月17日电 中央纪委国家监委17日通报，中国农业发展银行原党委委员、副行长徐一丁严重违纪违法被开除党籍和公职。",
@@ -98,16 +228,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-17T09:49:47.000Z"
-    },
-    {
-      "id": "005a63a1f2bf",
-      "title": "Belgium tackles enormous wildfire as French PM booed on visit to affected region – Europe live",
-      "summary": "Wildfire thought to be largest in Belgium’s history creeps closer to German border prompting evacuations Meanwhile, the head of the Belgian firefighters, Marc Gilbert, told Belgi…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T09:48:04.000Z"
     },
     {
       "id": "6cba72b525e0",
@@ -280,96 +400,6 @@
       "publishedAt": "2026-08-17T09:29:07.000Z"
     },
     {
-      "id": "22f89e009eba",
-      "title": "这个暑假，深圳各民族青少年的“朋友圈”又扩大了",
-      "summary": "滚烫盛夏，山海赴约，一场场跨越千里的青春同心之约接连上演。这个暑假，深圳搭建起各民族青少年交往交流交融的广阔平台，让天南海北的各民族青少年在沉浸式互动中相知相交。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-17/10679158.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T09:28:45.000Z"
-    },
-    {
-      "id": "156f5d43e32a",
-      "title": "浙江台州：千年岐黄智慧跨越山海 以侨为桥助中医药出海",
-      "summary": "中新网台州8月17日电(张煜欢)以中医药为纽带，以侨界力量为桥，8月14日至16日，2026中医药适宜技术推广交流台州行暨“侨心·博爱”中医药文化出海推动活动在浙江台州路桥举行。活动现场集中揭牌多个海外合作机构站点，进一步畅通中医药文化出海通道，做实、做细海外侨胞健康服务工作。",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-17/10679170.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T09:28:21.000Z"
-    },
-    {
-      "id": "59c7aa568727",
-      "title": "华裔大学生海南研习行：“在这里看见了国际化教育的全新模样”",
-      "summary": "中新网海南陵水8月17日电 题：华裔大学生海南研习行：“在这里看见了国际化教育的全新模样”",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-17/10679163.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T09:26:27.000Z"
-    },
-    {
-      "id": "4cc29fe3fc81",
-      "title": "印尼庆祝独立81周年 雅万高铁列车登上巨幅海报",
-      "summary": "中新社雅加达8月17日电 (记者 李志全)印度尼西亚17日在雅加达独立宫举行仪式，庆祝印度尼西亚共和国独立81周年。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679144.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T09:21:51.000Z"
-    },
-    {
-      "id": "d4d92729f5f5",
-      "title": "司法部发布规范涉企行政执法专项行动第五批典型案例",
-      "summary": "中新网8月17日电 据司法部网站消息，为持续深化规范涉企行政执法专项行动成效，推动执法监管与便民利企深度融合，近日，司法部发布规范涉企行政执法为民办实事典型案例(第五批)。本批6个案例涵盖海南、浙江、山东、江苏、山西等地，涉及权责边界规范、执法模式创新、服务供给优化等多个维度，集中展现了各地以行政执法协调监督为抓手，推动执法理念从“被动监管”向“主动服务…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679142.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T09:21:47.000Z"
-    },
-    {
-      "id": "8d69de214c5b",
-      "title": "马来西亚7月通胀率降至1.8%",
-      "summary": "中新社吉隆坡8月17日电 (记者 刘育英)马来西亚统计局17日发布的数据显示，该国2026年7月整体通胀率(价格同比涨幅)为1.8%，较6月的1.9%小幅回落；居民消费价格指数(CPI)由去年同期的134.7点升至137.1点。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679138.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T09:21:03.000Z"
-    },
-    {
-      "id": "6b37ca8053bb",
-      "title": "邓亚萍点赞武汉研发乒乓球机器人：学习能力远超预期",
-      "summary": "邓亚萍点赞其学习能力远超预期",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10679133.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T09:20:13.000Z"
-    },
-    {
-      "id": "40352b15ff0c",
-      "title": "淮河防总、淮委调整淮河流域应急响应",
-      "summary": "中新网8月17日电 据淮河水利网消息，根据《淮河防汛抗旱总指挥部防汛抗旱应急预案》《淮河水利委员会水旱灾害防御应急预案》，经综合研判，淮河防总、淮委于8月17日12时将河南省沙颍河水系防汛应急响应调整为三级、洪水防御应急响应调整为III级，维持对安徽省沙颍河水系的防汛四级应急响应、洪水防御Ⅳ级应急响应，终止对其他地区的防汛应急响应、洪水防御应急响应。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679160.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T09:17:31.000Z"
-    },
-    {
-      "id": "47e896062784",
-      "title": "特朗普称指示缩减韩美联合军演 韩国总统府回应",
-      "summary": "中新网8月17日电 据韩联社报道，韩国总统府青瓦台17日表示，韩美两国一直就维持“牢固的联合防卫态势”以及联合军演、训练事宜保持密切协调，今后也将就相关具体事项继续开展协作。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679161.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T09:17:03.000Z"
-    },
-    {
       "id": "1fb2569ef7eb",
       "title": "Virgin Trains gets go ahead to run services to Europe in new blow to Eurostar monopoly",
       "summary": "Operator wins track access approval for up to 20 daily return trains through tunnel to Paris, Brussels and Amsterdam in 2030 Business live – latest updates Virgin Trains has been…",
@@ -378,16 +408,6 @@
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-08-17T09:15:03.000Z"
-    },
-    {
-      "id": "774bb91a0c3e",
-      "title": "国家统计局：综合整治内卷式竞争的成效在继续显现",
-      "summary": "中新网8月17日电 国务院新闻办公室于8月17日举行新闻发布会，介绍2026年7月份国民经济运行情况。会上，国家统计局新闻发言人、国民经济综合统计司副司长王冠华介绍，综合整治“内卷式”竞争成效继续显现。随着重点行业产能治理和综合整治“内卷式”竞争持续显效，部分行业供求关系改善。7月份，锂离子电池制造、光伏设备及元器件制造价格同比分别上涨8.9%和2.8%…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679155.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T09:14:55.000Z"
     },
     {
       "id": "c5e1e17987ea",
@@ -460,16 +480,6 @@
       "publishedAt": "2026-08-17T07:12:59.000Z"
     },
     {
-      "id": "d1c2c5e2a821",
-      "title": "Victorian teachers are to be the best paid in Australia. A union rebellion helped seal the deal",
-      "summary": "Salaries will rise 28.3% to 32.4% over four years, an outcome partly shaped by a rank-and-file revolt within the Australian Education Union Follow our Australia news live blog fo…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-victoria-teachers-union-vote-pay-deal",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T07:10:55.000Z"
-    },
-    {
       "id": "1a6ba9061561",
       "title": "Monday briefing: What can Andy Burnham learn from Spain’s Pedro Sánchez?",
       "summary": "In today’s newsletter: The Spanish prime minister has remade himself as Europe’s leading leftwing standard-bearer. Could his success offer the UK’s PM a route forward? Good morni…",
@@ -538,16 +548,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-16T22:07:32.000Z"
-    },
-    {
-      "id": "6bf3ff018085",
-      "title": "Five teenagers killed after car driven on wrong side of Irish motorway",
-      "summary": "Head-on collision between two vehicles on M9 in County Kildare also injured four other people, say police Five teenagers have died and four other people have been seriously injur…",
-      "url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-16T21:50:56.000Z"
     },
     {
       "id": "adc8c29dd4e4",
