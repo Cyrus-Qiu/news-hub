@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T16:37:45.260Z",
+  "updatedAt": "2026-08-17T17:36:05.154Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,46 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "bc5db0eb6d86",
+      "title": "Claude to start watermarking AI-generated text – but will it make quality worse?",
+      "summary": "Anthropic says it will change way chatbot makes small, random choices, to comply with EU regulation The world is familiar by now with the usual tropes of machine-generated text:…",
+      "url": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-17T16:52:04.000Z"
+    },
+    {
+      "id": "e3d7c0ac2a93",
+      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – as it happened",
+      "summary": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace plan Trump threatens to bomb Oman if it ‘g…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T16:48:26.000Z"
+    },
+    {
+      "id": "06df00086e0c",
+      "title": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
+      "summary": "Israeli PM again insists troops will not withdraw from strip until Hamas first disarms, but calls meeting constructive Benjamin Netanyahu has told Donald Trump’s son-in-law and e…",
+      "url": "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T16:42:04.000Z"
+    },
+    {
+      "id": "1fb2569ef7eb",
+      "title": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
+      "summary": "Operator granted UK track access for as many as 20 daily return trains to Paris, Brussels and Amsterdam from 2030 Business live – latest updates Virgin Trains has been granted tr…",
+      "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
+      "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-17T16:41:07.000Z"
+    },
     {
       "id": "01f936d7ed56",
       "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
@@ -88,16 +128,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-17T15:50:47.000Z"
-    },
-    {
-      "id": "e3d7c0ac2a93",
-      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – Middle East crisis live",
-      "summary": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace plan Jared Kushner meets with Hamas ahead…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T15:50:34.000Z"
     },
     {
       "id": "76399377178d",
@@ -208,16 +238,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-17T15:00:00.000Z"
-    },
-    {
-      "id": "1fb2569ef7eb",
-      "title": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
-      "summary": "Operator granted UK track access for as many as 20 daily return trains to Paris, Brussels and Amsterdam from 2030 Business live – latest updates Virgin Trains has been granted tr…",
-      "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
-      "source": "The Guardian World",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-17T14:59:49.000Z"
     },
     {
       "id": "d670677fbe2b",
@@ -880,16 +900,6 @@
       "publishedAt": "2026-08-15T08:01:11.000Z"
     },
     {
-      "id": "51fff4798aea",
-      "title": "Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders",
-      "summary": "Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’ Secondhand booksellers in the UK and Ireland are reporting a flurry of…",
-      "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-15T08:00:51.000Z"
-    },
-    {
       "id": "85450aab3fb3",
       "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
       "summary": "台灣前總統陳水扁的女兒陳幸妤，近日因離婚一事曝光，時隔多年再次成為了台灣輿論焦點，也引起社會反思20年前媒體追訪她的倫理問題。",
@@ -898,16 +908,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-15T03:19:46.000Z"
-    },
-    {
-      "id": "def668b7e9dc",
-      "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
-      "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clear Donald Trump has threatened to declare the strait of Hormuz as “a territ…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-14T21:38:17.000Z"
     },
     {
       "id": "b8ee5b69ef0a",
