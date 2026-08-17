@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T20:36:08.499Z",
+  "updatedAt": "2026-08-17T20:58:46.594Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "4d3c4e97e696",
+      "title": "Australia politics live: Greens say Labor and Coalition deal on gambling ad laws a ‘smokescreen’",
+      "summary": "Greens spokeswoman Sarah Hanson-Young says opt-out system doesn’t acknowledge ‘how the internet actually works. Follow today’s news live Get our breaking news email , free app or…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T20:33:37.000Z"
+    },
     {
       "id": "0a84c0d5511c",
       "title": "Netanyahu party campaign billboard likens Mamdani to leaders of Iran and Hezbollah",
@@ -608,16 +618,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-17T09:10:24.000Z"
-    },
-    {
-      "id": "f62231395f0b",
-      "title": "Labor pledges opt-out register for online gambling ads as Pocock calls out shortfalls in government’s bill",
-      "summary": "The new measure falls short of calls for gambling ads to move to an opt-in model, or for an outright ban Follow our Australia news live blog for latest updates Get our breaking n…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/labor-pledges-opt-out-register-for-online-gambling-ads-australia",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T09:10:05.000Z"
     },
     {
       "id": "9339385e5bd9",
