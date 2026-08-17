@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T14:36:34.562Z",
+  "updatedAt": "2026-08-17T14:57:37.742Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,36 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "5cf8c69e0884",
+      "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
+      "summary": "這意味著，此次由中共中央舉辦江澤民誕辰百年紀念大會，按照中共既有的紀念規格，江澤民在官方已故領導人的紀念序列中，待遇與周恩來、劉少奇、朱德、鄧小平、陳雲等同屬一個級別，僅次於毛澤東。",
+      "url": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-17T14:43:54.000Z"
+    },
+    {
+      "id": "e3d7c0ac2a93",
+      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – Middle East crisis live",
+      "summary": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace plan Jared Kushner meets with Hamas ahead…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T14:32:45.000Z"
+    },
+    {
+      "id": "8f5e6ba4bc3e",
+      "title": "Government borrowing costs hit multi-year highs as markets fear inflation, and oil and gas prices rise – as it happened",
+      "summary": "British house prices expected to fall this year, despite ‘Burnham bounce’, Rightmove reports Asking prices for newly listed homes in UK’s richest borough fall by £100k in one mon…",
+      "url": "https://www.theguardian.com/business/live/2026/aug/17/british-house-prices-fall-burnham-interest-rates-oil-bank-taxes-stock-markets-live-updates",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-17T14:31:59.000Z"
+    },
+    {
       "id": "005a63a1f2bf",
       "title": "French PM booed on visit to wildfire-affected region as EU sends assistance to Belgium and Spain – Europe live",
       "summary": "Belgium wildfire creeps closer to German border, as 104 firefighters and 36 vehicles from France help with Spain wildfire effort As flagged earlier, Belgium’s King Philippe is no…",
@@ -38,16 +68,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-17T14:21:02.000Z"
-    },
-    {
-      "id": "8f5e6ba4bc3e",
-      "title": "Government borrowing costs hit multi-year highs as markets fear inflation, and oil and gas prices rise – business live",
-      "summary": "British house prices expected to fall this year, despite ‘Burnham bounce’, Rightmove reports Asking prices for newly listed homes in UK’s richest borough fall by £100k in one mon…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/17/british-house-prices-fall-burnham-interest-rates-oil-bank-taxes-stock-markets-live-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-17T14:09:31.000Z"
     },
     {
       "id": "37782a0d7ce5",
@@ -98,16 +118,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-17T14:04:25.000Z"
-    },
-    {
-      "id": "e3d7c0ac2a93",
-      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – Middle East crisis live",
-      "summary": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace plan Jared Kushner meets with Hamas ahead…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T14:03:13.000Z"
     },
     {
       "id": "5b174e696fd0",
@@ -598,16 +608,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-17T00:05:40.000Z"
-    },
-    {
-      "id": "b3b6545da212",
-      "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
-      "summary": "女性可以獲得更高的回報，但英國只有約四分之一的女性擁有投資，相比之下，男性的比例約為40%。",
-      "url": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-17T00:05:37.000Z"
     },
     {
       "id": "adc8c29dd4e4",
