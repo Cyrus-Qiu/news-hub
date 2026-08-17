@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:33:45.501Z",
+  "updatedAt": "2026-08-17T22:54:34.290Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "959e149677d5",
+      "title": "特朗普称金正恩已回应其“对话”请求",
+      "summary": "中新网8月18日电 综合外媒报道，美国总统特朗普17日在白宫对媒体称，朝鲜领导人金正恩已回应他提出的“对话”请求，但他没有透露回应的内容。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679356.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T22:43:43.000Z"
+    },
+    {
+      "id": "4d3c4e97e696",
+      "title": "Australia politics live: federal police to investigate leaked melon memo; Labor wants nation to adopt AI ‘everywhere we can’",
+      "summary": "Labor minister Andrew Charlton says Australia should do more to produce new AI models. Follow today’s news live Get our breaking news email , free app or daily news podcast Chalm…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian World",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-17T22:38:01.000Z"
+    },
+    {
+      "id": "381a78546195",
+      "title": "委内瑞拉强震已致6438人死亡",
+      "summary": "当地时间8月17日，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯在社交媒体发文称，在6月24日地震中遇难的人数已升至6438人。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679355.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T22:32:41.000Z"
+    },
     {
       "id": "d70961605637",
       "title": "小心这种大蜗牛可能传染脑膜炎",
@@ -78,16 +108,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-17T22:23:42.000Z"
-    },
-    {
-      "id": "4d3c4e97e696",
-      "title": "Australia politics live: federal police to investigate leaked melon memo; Labor wants nation to adopt AI ‘everywhere we can’",
-      "summary": "Labor minister Andrew Charlton says Australia should do more to produce new AI models. Follow today’s news live Get our breaking news email , free app or daily news podcast Chalm…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian World",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-17T22:20:36.000Z"
     },
     {
       "id": "3f039218c826",
@@ -302,7 +322,7 @@
     {
       "id": "545be4a5edbb",
       "title": "3M knew for more than 50 years that its products could harm humans, Australian government alleges in court documents",
-      "summary": "Exclusive: federal government court filings claim internal company documents included warnings about products being toxic Get our breaking news email , free app or daily news pod…",
+      "summary": "Exclusive: Federal government court filings claim internal company documents included warnings about products being toxic Get our breaking news email , free app or daily news pod…",
       "url": "https://www.theguardian.com/environment/2026/aug/18/3m-knew-for-more-than-50-years-that-its-products-could-harm-humans-australian-government-alleges-in-court-documents",
       "source": "The Guardian World",
       "category": "商业",
@@ -508,26 +528,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-17T13:49:50.000Z"
-    },
-    {
-      "id": "0ddad8b7bcb9",
-      "title": "中国提出2030年国内油气供应量目标为4.4亿吨油当量",
-      "summary": "中新社北京8月17日电 (记者 王梦瑶)中国国家发改委、国家能源局17日公布《石油天然气发展“十五五”规划》。规划提出，2030年，中国国内油气供应量4.4亿吨油当量等目标。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679310.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:49:28.000Z"
-    },
-    {
-      "id": "0a13d9b47dc9",
-      "title": "青海行政执法、检察公益诉讼、环境审判合力保护江源生态",
-      "summary": "中新网西宁8月17日电 (潘雨洁)17日，青海省生态环境厅会同青海省高级人民法院、青海省人民检察院共同发布12起生态环境典型案例，以实例展现行政监管督促整改、环境损害依法担责、检察机关公益监督、法院司法裁判兜底的全链条生态治理模式。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679309.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:48:08.000Z"
     },
     {
       "id": "3aff43276d05",
