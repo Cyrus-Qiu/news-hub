@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T18:51:54.359Z",
+  "updatedAt": "2026-08-17T19:34:50.103Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -37,7 +37,7 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-17T17:43:53.000Z"
+      "publishedAt": "2026-08-17T19:11:26.000Z"
     },
     {
       "id": "bc5db0eb6d86",
@@ -592,7 +592,7 @@
     {
       "id": "c5e1e17987ea",
       "title": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
-      "summary": "President says he ‘gets along great’ with dictator but US officials say Ukraine war is boosting North’s capabilities Donald Trump has said he is scaling back joint US military dr…",
+      "summary": "President says he ‘gets along great’ with dictator but officials say Ukraine war is boosting North’s capabilities Donald Trump has said he is scaling back joint US military drill…",
       "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
       "source": "The Guardian World",
       "category": "国际",
@@ -1050,16 +1050,6 @@
       "publishedAt": "2026-08-13T23:01:10.000Z"
     },
     {
-      "id": "e0e51b0e92d0",
-      "title": "Top Forbes editor reportedly fired after receiving $6m from business associate",
-      "summary": "Randall Lane left his job last month after accepting money from founder of firm that does business with magazine The top editor of Forbes left his job last month and was reported…",
-      "url": "https://www.theguardian.com/media/2026/aug/13/forbes-editor-fired",
-      "source": "The Guardian Business",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-13T18:16:42.000Z"
-    },
-    {
       "id": "7b91e8f0e188",
       "title": "A timely warning on the rise of the ‘tech bros’ from the author of The Nerd Reich | Letter",
       "summary": "Gil Durán is right, writes Catherine Austin Fitts – we must reject the limited vision of Silicon Valley with a revolution in consciousness Thank you for your interview with Gil D…",
@@ -1118,16 +1108,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-13T10:00:55.000Z"
-    },
-    {
-      "id": "554731e45bf1",
-      "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
-      "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea’s Incheon airport has become the world’s busiest…",
-      "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-13T09:45:56.000Z"
     },
     {
       "id": "65094e37f9de",
@@ -1228,6 +1208,26 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-12T15:12:05.000Z"
+    },
+    {
+      "id": "90dde508223f",
+      "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
+      "summary": "朱鎔基前後12年主導中國經濟發展，改革過程中因為造成大量國企工人下崗而受民間批評。但中國整體上往市場經濟的方向邁了一大步，也由此開啟了歷史上發展速度最高的20年。",
+      "url": "https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-12T12:00:14.000Z"
+    },
+    {
+      "id": "dd2a9925b3ee",
+      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
+      "summary": "長崎與廣島對台灣出席原爆紀念活動的待遇明顯不同。長崎將台灣安排在使節區外，引發抗議與「中國壓力」爭議。",
+      "url": "https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-12T08:31:43.000Z"
     }
   ]
 }
