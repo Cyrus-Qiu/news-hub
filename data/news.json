@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T23:30:51.932Z",
+  "updatedAt": "2026-08-17T23:51:08.002Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,26 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "aff209cbf800",
+      "title": "两道门4元钱！成都一小区居民回家竟要先交“开门费”",
+      "summary": "原标题：院门到点落锁，早出晚归需给门卫辛苦费",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679365.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T23:45:05.000Z"
+    },
+    {
+      "id": "a7164f909dc0",
+      "title": "河南溃口合龙后，如何应对新考验？",
+      "summary": "原标题：新闻1+1丨河南溃口合龙后，如何应对新考验？",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679364.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T23:41:23.000Z"
+    },
+    {
       "id": "4d3c4e97e696",
       "title": "Australia politics live: independent Sophie Scamps delivers scathing criticism of ‘weak, piecemeal, pathetic’ gambling reforms as deal looms",
       "summary": "Deal on gambling bill between Labor and Coalition expected after party rooms meet today. Follow today’s news live Get our breaking news email , free app or daily news podcast Cha…",
@@ -37,7 +57,57 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-17T23:22:12.000Z"
+      "publishedAt": "2026-08-17T23:39:22.000Z"
+    },
+    {
+      "id": "d4238520e15d",
+      "title": "海外热梗刷屏掀起来华热潮！老外为啥爱“中国游”？",
+      "summary": "最近，海外社交平台上：主打纳凉度假的China Cool、开启囤货模式的China购、寻觅烟火滋味的China Taste，还有沉浸式体验中式日常的Chinamaxxing，各类热梗接连走红。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679363.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T23:37:05.000Z"
+    },
+    {
+      "id": "c8a1db26e89b",
+      "title": "特朗普：伊朗不会达成我认为必要的那种协议",
+      "summary": "中新网8月18日电 综合外媒报道，美国总统特朗普17日在白宫对媒体称，伊朗不会达成他认为结束美伊战事所必需的协议，并且“应当投降”，而两国间的谈判仍处于停滞状态。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679362.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T23:34:23.000Z"
+    },
+    {
+      "id": "5525469a232f",
+      "title": "世界最长海底高铁隧道完成带压盾构换刀",
+      "summary": "新华社杭州8月17日电(记者樊曦、魏一骏)记者从中铁十四局集团有限公司了解到，17日，在甬舟铁路金塘海底隧道宁波侧80米深处，建设者在7.8巴水压下历时21天完成104把盾构刀具检查和更换，标志着我国自主研发的饱和带压进仓技术成功完成长时间、超高压实战检验，我国深埋跨海隧道施工能力再提升。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679361.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T23:33:11.000Z"
+    },
+    {
+      "id": "f55a12d575a7",
+      "title": "医保支付改革让“家门口”就医“治得好、负担小”",
+      "summary": "“以前有点头疼脑热，总想着往大医院跑。现在不一样了，社区医院不仅报销得多，开药检查也很方便！”在安徽合肥蜀山区笔架山街道社区卫生服务中心，前来看病的王先生说。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679360.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T23:30:38.000Z"
+    },
+    {
+      "id": "13a5e4a0b4a4",
+      "title": "秋季补水≠猛灌水 这几种“喝水法”正在悄悄伤身体",
+      "summary": "有人觉得白开水最健康",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-18/10679359.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T23:25:28.000Z"
     },
     {
       "id": "e7c14eb53587",
@@ -458,76 +528,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-17T13:56:24.000Z"
-    },
-    {
-      "id": "f80853623975",
-      "title": "广州提出至2028年服务贸易年进出口总额超1000亿美元",
-      "summary": "中新社广州8月17日电 (王华 秦小雅)广州市商务局17日晚发布有关建设方案，明确“三步走”发展目标，至2028年全市服务贸易年进出口总额超1000亿美元，当中还明确了20项与港澳服务贸易融合发展任务。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679325.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:55:26.000Z"
-    },
-    {
-      "id": "d9f11ce5f8ec",
-      "title": "海峡两岸（福建）大学生舞龙舞狮争霸赛在泉州开幕",
-      "summary": "中新社泉州8月17日电 (记者 孙虹)2026年海峡两岸(福建)大学生舞龙舞狮争霸赛17日晚在福建泉州开幕。两岸16支代表队将展开传统南狮、北狮、舞龙三大项目对决。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679324.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:53:54.000Z"
-    },
-    {
-      "id": "7296156292cd",
-      "title": "广东高院出台15条举措护航绿色低碳发展",
-      "summary": "中新网广州8月17日电 (方伟彬 马卓尔 王骁)广东省高级人民法院17日出台《关于司法服务保障绿色低碳发展的工作意见》(下称《意见》)，围绕理念引领、审判履职、产业护航、机制建设四个维度推出15条举措，将生态环境法典精神融入司法实践，为经济社会发展全面绿色转型提供全链条司法保障。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679322.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:53:08.000Z"
-    },
-    {
-      "id": "1bd431124bb0",
-      "title": "马来西亚每年车祸造成约300亿林吉特社会经济损失",
-      "summary": "中新社吉隆坡8月17日电 (记者 刘育英)马来西亚道路交通事故每年造成的社会经济损失高达约300亿林吉特(约合498亿元人民币)。2025年全国共有6537人死于道路交通事故，相当于平均每天约18人死亡。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679327.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:51:50.000Z"
-    },
-    {
-      "id": "f8f4899ff5f0",
-      "title": "暨南大学开展建校120周年办学地寻访调研活动",
-      "summary": "中新网广州8月17日电 (郭军 周会谦)“寻根铸魂 再启新程”暨南大学建校120周年办学地寻访调研团近日在该校党委书记孙彧、校长邢锋带领下，先后赴江苏南京、上海以及福建建阳、厦门四地，寻访学校办学旧址、开展校史教学、深化校地合作、交流办学经验。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679320.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:51:40.000Z"
-    },
-    {
-      "id": "a5cd2e7633d0",
-      "title": "“老腔新调”燃秋夜 华阴非遗点亮夜经济",
-      "summary": "中新网陕西华阴8月17日电 (杨英琦 王会军 张夏利)暮色四合，陕西华山脚下的华阴市却刚刚苏醒。河岸沿线，灯光渐次亮起，街边摆满凉粉、饸饹、油糕等特色小吃摊位，不少省外游客慕名而来，沉浸式体验华阴夜色文旅风情。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679315.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:51:12.000Z"
-    },
-    {
-      "id": "c47b48a7b7d4",
-      "title": "中法青年向云南移交抗战史料 借力AI守护历史真相",
-      "summary": "中新社昆明8月17日电 (罗婕)法国青年白士杰(Bastien Ratat)与马库斯(Marcus Détrez)、中国青年钟灏松17日在昆明向云南抗战胜利纪念堂博物馆移交一批抗日战争时期云南相关史料扫描件，共6份16页档案。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679313.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:50:48.000Z"
     },
     {
       "id": "3aff43276d05",
