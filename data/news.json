@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:54:08.851Z",
+  "updatedAt": "2026-08-17T22:33:45.501Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,74 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "d70961605637",
+      "title": "小心这种大蜗牛可能传染脑膜炎",
+      "summary": "(服务窗)",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679354.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T22:30:23.000Z"
+    },
+    {
+      "id": "6832f7040665",
+      "title": "英国与黎巴嫩签署谅解备忘录 强化安全合作",
+      "summary": "中新社伦敦8月17日电 (记者 欧阳开宇)英国政府17日消息称，英国已与黎巴嫩签署一份安全合作谅解备忘录，进一步深化双方在安全领域的伙伴关系，助力黎巴嫩维护国内安全与稳定。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679350.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T22:28:33.000Z"
+    },
+    {
+      "id": "eeb654c95939",
+      "title": "曾公开批评因凡蒂诺 国际足联首席运营官已离任",
+      "summary": "总台记者获悉，当地时间8月17日，国际足联确认与其首席运营官凯文·拉穆尔之间的工作关系已于当天结束。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679353.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T22:27:57.000Z"
+    },
+    {
+      "id": "6ebbab46f1d2",
+      "title": "关爱户外劳动者 高温天，这些举措送清凉",
+      "summary": "关爱户外劳动者",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679352.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T22:27:14.000Z"
+    },
+    {
+      "id": "b1a472a7ee18",
+      "title": "特朗普称不寻求延长与伊朗的谅解备忘录",
+      "summary": "当地时间8月17日，美国总统特朗普表示，美国不寻求延长与伊朗的谅解备忘录。此外他还表示，伊朗想要达成协议，但“不会达成我认为必要的那种协议”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679351.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-17T22:23:42.000Z"
+    },
+    {
       "id": "4d3c4e97e696",
-      "title": "Australia politics live: Labor and Coalition party rooms to consider deal on gambling ads; Labor wants to adopt AI ‘everywhere we can’",
-      "summary": "Sarah Hanson-Young says opt-out system for gambling ads doesn’t acknowledge ‘how the internet actually works. Follow today’s news live Get our breaking news email , free app or d…",
+      "title": "Australia politics live: federal police to investigate leaked melon memo; Labor wants nation to adopt AI ‘everywhere we can’",
+      "summary": "Labor minister Andrew Charlton says Australia should do more to produce new AI models. Follow today’s news live Get our breaking news email , free app or daily news podcast Chalm…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
       "source": "The Guardian World",
       "category": "AI",
       "language": "en",
-      "publishedAt": "2026-08-17T21:38:42.000Z"
+      "publishedAt": "2026-08-17T22:20:36.000Z"
+    },
+    {
+      "id": "3f039218c826",
+      "title": "Melbourne’s Armenian-Lebanese eatery Zareh named Gourmet Traveller’s restaurant of the year",
+      "summary": "Previous winners of the award have included Saint Peter, Attica, Orana by the late Jock Zonfrillo, and Quay Armenian-Lebanese eatery Zareh has been named Gourmet Traveller’s rest…",
+      "url": "https://www.theguardian.com/food/2026/aug/18/melbournes-armenian-lebanese-eatery-zareh-named-gourmet-travellers-restaurant-of-the-year",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T21:40:46.000Z"
     },
     {
       "id": "0a84c0d5511c",
@@ -251,7 +311,7 @@
     },
     {
       "id": "cb3348c881be",
-      "title": "Why rightwing critics are wrong to say the Australian super system is broken",
+      "title": "Rightwing critics argue we might as well scrap super. Here’s why that could spell disaster for Australia’s finances",
       "summary": "Spending on aged pension will be stable for decades to come, experts argue, despite claims by Bragg and Hanson Get our breaking news email , free app or daily news podcast Is Aus…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/18/why-rightwing-critics-are-wrong-to-say-the-australian-super-system-is-broken",
       "source": "The Guardian World",
@@ -470,56 +530,6 @@
       "publishedAt": "2026-08-17T13:48:08.000Z"
     },
     {
-      "id": "5cd896914d3b",
-      "title": "湖北地方戏曲艺术展演在武汉启幕",
-      "summary": "中新网武汉8月17日电 (记者 梁婷)湖北地方戏曲艺术展演17日晚在武汉启幕，集中呈现近年来湖北地方戏曲在剧目创作、剧种保护和人才培养方面的新成果。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-17/10679308.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:47:30.000Z"
-    },
-    {
-      "id": "daa568c10f38",
-      "title": "（经济观察）7月数据揭示中国经济结构之变",
-      "summary": "中新社北京8月17日电(记者 王恩博)中国国家统计局最新公布的7月经济数据显现三大趋势，揭示中国经济结构正发生深刻变化。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679323.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:46:43.000Z"
-    },
-    {
-      "id": "2a97ad883224",
-      "title": "全国首批：淘宝闪购青岛率先上线“等灯不计时”，骑士等灯时间不计入考核",
-      "summary": "送外卖等红灯不计时来了。8月17日“城市骑士日”，青岛联合淘宝闪购正式上线“等灯不计时”功能，成为全国首批落地城市之一。在青岛，首期将覆盖即墨区全部淘宝闪购骑士，接下来将进一步推广。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679307.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:45:41.000Z"
-    },
-    {
-      "id": "50ed8044b03b",
-      "title": "具身智能浪潮下，浙江产业如何“枝繁叶茂”？",
-      "summary": "中新网杭州8月17日电 题：具身智能浪潮下，浙江产业如何“枝繁叶茂”？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679302.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:45:15.000Z"
-    },
-    {
-      "id": "804252476aab",
-      "title": "第168次中老缅泰湄公河联合巡逻执法行动启动",
-      "summary": "中新社昆明8月17日电 (记者 缪超)据云南省公安厅消息，8月17日9时，第168次中老缅泰湄公河联合巡逻执法行动启动。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-17/10679300.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-17T13:41:39.000Z"
-    },
-    {
       "id": "3aff43276d05",
       "title": "Sainsbury’s store pauses AI scanning after false shoplifting accusation",
       "summary": "Supermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customer Sainsbury’s has paused the use of AI face scanning in one of its stores after…",
@@ -578,16 +588,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-17T11:00:53.000Z"
-    },
-    {
-      "id": "03a983e80766",
-      "title": "Taylor demands Albanese repeal ‘cruel tax’ in return for NDIS bill support",
-      "summary": "Coalition leader tells Anthony Albanese that delaying change to budget measure is ‘unconscionable’ Get our breaking news email , free app or daily news podcast Angus Taylor says…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/angus-taylor-links-support-for-ndis-reform-to-removal-of-widow-tax-loophole",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T10:51:40.000Z"
     },
     {
       "id": "68cad9a0850d",
