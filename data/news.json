@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:36:05.154Z",
+  "updatedAt": "2026-08-17T17:59:52.161Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -118,6 +118,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-17T15:52:51.000Z"
+    },
+    {
+      "id": "2abc22f34bca",
+      "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
+      "summary": "Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blocked US gas prices this month are so far the highest ever recorded for August…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T15:51:46.000Z"
     },
     {
       "id": "ce6c8cf21958",
@@ -258,16 +268,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-17T14:43:54.000Z"
-    },
-    {
-      "id": "8f5e6ba4bc3e",
-      "title": "Government borrowing costs hit multi-year highs as markets fear inflation, and oil and gas prices rise – as it happened",
-      "summary": "British house prices expected to fall this year, despite ‘Burnham bounce’, Rightmove reports Asking prices for newly listed homes in UK’s richest borough fall by £100k in one mon…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/17/british-house-prices-fall-burnham-interest-rates-oil-bank-taxes-stock-markets-live-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-17T14:31:59.000Z"
     },
     {
       "id": "37782a0d7ce5",
