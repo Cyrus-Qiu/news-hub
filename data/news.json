@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T15:33:06.269Z",
+  "updatedAt": "2026-08-17T15:53:51.605Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "cc4c9a150c81",
+      "title": "China’s economy showing signs that slowdown may be extending",
+      "summary": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever China’s economy is showing signs of extending a slowdown with a sl…",
+      "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
+      "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-17T15:36:25.000Z"
+    },
+    {
+      "id": "e3d7c0ac2a93",
+      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – Middle East crisis live",
+      "summary": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace plan Jared Kushner meets with Hamas ahead…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-17T15:31:55.000Z"
+    },
     {
       "id": "bedbb7b750e3",
       "title": "伊朗官员：已为美国履行谅解备忘录设定最后期限",
@@ -68,16 +88,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-17T15:01:39.000Z"
-    },
-    {
-      "id": "e3d7c0ac2a93",
-      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – Middle East crisis live",
-      "summary": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace plan Jared Kushner meets with Hamas ahead…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T15:01:00.000Z"
     },
     {
       "id": "97a6ed6c319e",
@@ -958,16 +968,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-14T14:04:49.000Z"
-    },
-    {
-      "id": "95d71d336c3e",
-      "title": "‘Unprecedented’ rain kills five in Japan as thousands stranded at airport",
-      "summary": "Evacuation orders issued for 400,000 after flooding, landslide warnings and power outages in Chiba prefecture At least five people have died in eastern Japan after “unprecedented…",
-      "url": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-14T13:11:48.000Z"
     },
     {
       "id": "6edd88bf8baf",
