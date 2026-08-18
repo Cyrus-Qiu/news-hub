@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:31:50.675Z",
+  "updatedAt": "2026-08-18T21:51:10.078Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,19 +30,29 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "83b9c7057391",
+      "title": "青海海西州直辖区附近发生5.6级左右地震",
+      "summary": "中国地震台网自动测定：8月19日5时36分，在青海海西州直辖区附近(北纬37.79度，东经95.60度)发生5.6级左右地震。最终结果以正式速报为准。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679977.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T21:45:10.000Z"
+    },
+    {
       "id": "3e28eb1a4b87",
       "title": "Australia politics live: NDIS reforms to pass parliament today after 63 amendments get Coalition on side",
-      "summary": "Bill passed Senate on Wednesday evening and is due back in lower house today. Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Up to them…",
+      "summary": "Bill passed Senate on Wednesday evening and is due back in lower house today. Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Collapsing…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-18T21:24:22.000Z"
+      "publishedAt": "2026-08-18T21:44:00.000Z"
     },
     {
       "id": "f35197fb903d",
       "title": "OpenAI announces slowing pace of development after hack by rogue agent",
-      "summary": "Firm said it was overhauling its research and training and will require greater safety parameters of AI after hack OpenAI on ⁠Tuesday said it had slowed down the ⁠pace of ⁠its ​A…",
+      "summary": "Amid heated race with Anthropic, firm says it’s overhauling research and training and will require greater safety parameters of AI after hack OpenAI on ⁠Tuesday said it had slowe…",
       "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
       "source": "The Guardian Technology",
       "category": "AI",
@@ -430,16 +440,6 @@
       "publishedAt": "2026-08-18T13:55:12.000Z"
     },
     {
-      "id": "70ba1025ad87",
-      "title": "DeepSeek想要土木人才",
-      "summary": "中新网8月18日电(吴家驹)近日，DeepSeek官网出现一则IDC数据中心团队的招聘信息，招聘方向(全职)为：数据中心基础设施运营方向、数据中心规划设计方向、数据中心现场方向。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679941.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:54:20.000Z"
-    },
-    {
       "id": "34820ffa3677",
       "title": "ABC sues Trump’s media regulator over demand for TV license renewals",
       "summary": "Network alleges FCC is trying to send ‘chilling message’ in retaliation for content the administration disapproves of ABC has sued the Federal Communications Commission (FCC), ar…",
@@ -512,7 +512,7 @@
     {
       "id": "7d7f4b179a12",
       "title": "Sydney Swans will sanction players for ‘serious breach’ over sexual assault allegations",
-      "summary": "Club’s board meets on Tuesday night to decide penalties after league boss calls reports ‘deeply concerning’ The Sydney Swans AFL club will decide on sanctions for players for “se…",
+      "summary": "AFL club’s board meets on Tuesday night to decide penalties after league boss calls reports ‘deeply concerning’ The Sydney Swans AFL club will decide on sanctions for players for…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
