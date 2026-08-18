@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T14:43:28.986Z",
+  "updatedAt": "2026-08-18T15:39:35.644Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,136 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "4e323bc20345",
+      "title": "Belgian firefighters push to encircle ‘largest wildfire in a century’ – Europe live",
+      "summary": "The blaze charring peatland, pine trees and hiking trails grew over the weekend to half the size of Manhattan Some first pictures from this morning’s earthquakes in Granada are e…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T15:29:25.000Z"
+    },
+    {
+      "id": "c390b00cd2ef",
+      "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
+      "summary": "Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats OpenAI is launching a version of ChatGPT designed for teenagers…",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-18T15:28:57.000Z"
+    },
+    {
+      "id": "e1f0d11488cf",
+      "title": "香港黄金交易所交易系统有限公司成立 将打造国际化黄金交易平台",
+      "summary": "中新社香港8月18日电 由香港黄金交易所与金链通技术有限公司共同组建的香港黄金交易所交易系统有限公司(Hong Kong Gold Exchange Trading System Limited，简称“HKGXTS”)18日在港正式成立。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679959.shtml",
+      "source": "中国新闻网",
+      "category": "财经",
+      "language": "zh",
+      "publishedAt": "2026-08-18T15:25:48.000Z"
+    },
+    {
+      "id": "3584ed967400",
+      "title": "首届电竞世界杯推迟至2027年举行",
+      "summary": "总部位于沙特阿拉伯利雅得的电竞发展基金会18日宣布，首届电竞世界杯将推迟至2027年11月举行。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679968.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T15:24:54.000Z"
+    },
+    {
+      "id": "e238b669cf8f",
+      "title": "俄对英涉乌行动发警告 英首相表示坚定支持乌克兰",
+      "summary": "中新社伦敦8月18日电 (记者 欧阳开宇)针对俄方就英国涉乌相关行动发出警告，英国首相伯纳姆当地时间18日公开表态，英国将坚定支持乌克兰，始终在关键时刻与乌方站在一起，对乌支持立场不会发生改变。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679960.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T15:22:24.000Z"
+    },
+    {
+      "id": "9e019c3140eb",
+      "title": "特朗普：未与伊朗进行任何会谈 未来也无相关计划",
+      "summary": "当地时间8月18日，美国总统特朗普在社交媒体平台“真实社交”上发文表示，目前并未与伊朗进行任何会谈或对话，未来也无相关计划。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679966.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T15:03:43.000Z"
+    },
+    {
+      "id": "a1ed4b966e1d",
+      "title": "满足多样化、高品质出行需求正成为行业共识",
+      "summary": "中新网北京8月18日电(记者 查志远)近年来，多样化、高品质出行需求越来越受到关注。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679955.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T15:02:39.000Z"
+    },
+    {
+      "id": "481b053264f8",
+      "title": "这才是《欢迎来龙餐馆》的彩蛋",
+      "summary": "中新网北京8月18日电(记者 任思雨)上映一周，票房突破10亿元，豆瓣评分涨至8.6分，《欢迎来龙餐馆》成为这个暑期档后半程口碑最高、也是最让人揪心的电影。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679956.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T15:01:37.000Z"
+    },
+    {
+      "id": "91ea52faa035",
+      "title": "PBS should fund drug to treat breast cancer, endometriosis and gender dysphoria, experts recommend",
+      "summary": "Triptorelin, already listed for prostate cancer, should have unrestricted use, the Pharmaceutical Benefits Advisory Committee says Get our breaking news email , free app or daily…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/pbs-breast-cancer-endometriosis-gender-dysphoria-puberty-blocker-drug-triptorelin-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T15:00:50.000Z"
+    },
+    {
+      "id": "2ed10c06c0d5",
+      "title": "伊朗最高领袖据称将在德黑兰主持活动",
+      "summary": "据伊朗方面18日消息，伊朗最高领袖即将在德黑兰主持一场宗教活动。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679965.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T15:00:33.000Z"
+    },
+    {
+      "id": "cf4a1e0a1e15",
+      "title": "全国少数民族文艺会演北京开启 首场话剧重现津商传奇",
+      "summary": "中新社北京8月18日电 (记者 黄欣欣 孙玲玲)第七届全国少数民族文艺会演18日在北京开启。由天津人民艺术剧院创编的话剧《赶大营》作为首场剧目，于梅兰芳大剧院重现津商传奇故事。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679958.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T14:59:32.000Z"
+    },
+    {
+      "id": "6970da3d1136",
+      "title": "美国30年期国债收益率创19年新高",
+      "summary": "当地时间18日，美国财政部公布的最新数据显示，美国30年期国债收益率17日达5.31%，创下2007年6月以来新高。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679964.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T14:58:40.000Z"
+    },
+    {
+      "id": "298fa898a323",
+      "title": "欧盟提议将以色列国家安全部长列入制裁名单",
+      "summary": "欧盟外交与安全政策首席发言人阿妮塔·希佩尔18日在布鲁塞尔举行的新闻发布会上表示，已向各成员国提交提案，建议将以色列国家安全部长本-格维尔列入制裁名单。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679962.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T14:56:06.000Z"
+    },
+    {
       "id": "8aa5c8e5cc22",
       "title": "浑身困重提不起精神？没有胃口又不能不吃？体内湿气排不出去？长夏时节这样做！",
       "summary": "你有没有觉得稍微活动就是满身大汗，可不活动又感觉浑身困重、提不起精神？",
@@ -38,16 +168,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-18T14:35:35.000Z"
-    },
-    {
-      "id": "4e323bc20345",
-      "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
-      "summary": "Estonia’s foreign minister Margus Tsahkna condemned the overnight Russian attacks on Ukraine Some first pictures from this morning’s earthquakes in Granada are emerging on social…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T14:27:47.000Z"
     },
     {
       "id": "0bc9f4476f99",
@@ -250,106 +370,6 @@
       "publishedAt": "2026-08-18T13:45:52.000Z"
     },
     {
-      "id": "95803a0ecfa3",
-      "title": "全国首次电力行业“应急救援员”专业职业技能竞赛在云南开远开幕",
-      "summary": "中新网云南开远8月18日电 (高小雅 展宁)2026年电力行业职业技能竞赛(应急救援员)18日在云南省开远市开幕，来自26家参赛单位共37支队伍的185名精英选手同台竞技。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679933.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:45:14.000Z"
-    },
-    {
-      "id": "08bd431c020a",
-      "title": "两岸青商福建宁德共话数字新生态",
-      "summary": "中新社福建宁德8月18日电 (记者 叶茂)第十八届海峡论坛·第十三届海峡两岸商会发展论坛——“智联两岸·创享数字新生态”海峡青商交流会18日在福建省宁德市举办。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679926.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:45:06.000Z"
-    },
-    {
-      "id": "0ae930a5168c",
-      "title": "四川震灾防减救一体化智能大模型“磐御”正式发布",
-      "summary": "中新网成都8月18日电 (记者 刘忠俊)8月18日，四川省地震局、四川省测绘地理信息局、雅安市人民政府在蓉联合举行“震灾防减救一体化智能大模型‘磐御’”发布活动，省、市、县政府相关部门负责人、高校代表及行业专家参加。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679934.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:44:54.000Z"
-    },
-    {
-      "id": "bbe80af64fa6",
-      "title": "黑龙江广东工商联系统携手深化对口合作 南北赋能共促民营经济协同发展",
-      "summary": "中新网哈尔滨8月18日电(韩雪)今日，黑龙江省工商联与广东省工商联系统工作交流会召开。会议以“龙商粤商携手南北双向赋能”为主题，深入落实国家区域协调发展战略，精准对接东北全面振兴与粤港澳大湾区建设两大国家战略，搭建两省工商联、商协会、民营企业多层次、全方位协作对接平台。黑龙江省委统战部副部长、省工商联党组书记夏天，广东省委统战部副部长、省工商联党组书记陈…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679925.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:43:49.000Z"
-    },
-    {
-      "id": "0a6d47b4b919",
-      "title": "AI赋能文化出海 多方探索文化产业新路径",
-      "summary": "中新网香港8月18日电 “AI赋能、文化出海”访谈交流活动暨战略合作签约仪式日前在第36届香港书展内地出版展区举行。来自出版、通信、文旅等领域的嘉宾围绕人工智能与文化产业融合发展展开交流，由中国新闻出版传媒集团战略投资的南宁峰值文化传播有限公司分别与中国大百科全书出版社、中国移动国际有限公司、桂林旅游股份有限公司相关企业签署战略合作协议。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679924.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:43:21.000Z"
-    },
-    {
-      "id": "e73aa23176e8",
-      "title": "上海侨界聚力助进博会越办越好 华商侨企共享开放机遇",
-      "summary": "中新网上海8月18日电(范宇斌)第九届中国国际进口博览会将于11月在上海举办，上海市侨联18日举办“侨助进博会越办越好”专题调研座谈会，邀请进博局、组展机构、华侨华人参展商代表等深度交流对接，凝聚侨界力量，共促高水平开放。",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-18/10679922.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:42:23.000Z"
-    },
-    {
-      "id": "74b4429b6d7b",
-      "title": "第二十一届两岸林博会聚焦“以竹代塑” 200余家企业共拓绿色产业新机",
-      "summary": "中新网福建永安8月18日电 (雷朝良)第二十一届海峡两岸(三明)林业博览会暨2026年永安竹博会18日在福建三明永安开幕。本届展会以“以竹代塑 让生活更美好”为主题，立足三明竹木产业特色优势，集中展示林业改革发展丰硕成果。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679921.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:41:43.000Z"
-    },
-    {
-      "id": "32f87d5dbdec",
-      "title": "首趟新疆南部“疆果外运”冷鲜快线班列开行",
-      "summary": "中新网乌鲁木齐8月18日电 (吴奇 银曼菲)当前正值新疆南部瓜果成熟上市季，一列装载着200余吨新梅的班列，17日从新疆阿克苏站启程，开往浙江嘉兴，标志着首趟新疆南部“疆果外运”冷鲜快线班列开行。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679910.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:41:19.000Z"
-    },
-    {
-      "id": "042e31415b03",
-      "title": "东西问丨张怀存：为何说“家”是东西方共情密码？",
-      "summary": "中新社伦敦8月18日电 题：为何说“家”是东西方共情密码？",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-18/10679931.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:40:49.000Z"
-    },
-    {
-      "id": "1b31f9a331ca",
-      "title": "今年1—7月浙江绿电交易成交量超80亿千瓦时",
-      "summary": "中新网杭州8月18日电(鲍梦妮 张悦)据国网浙江电力8月18日消息，截至7月底，今年浙江全省绿色电力交易累计成交电量约80.5亿千瓦时，同比增长6.2%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679909.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:40:47.000Z"
-    },
-    {
       "id": "34820ffa3677",
       "title": "ABC sues Trump’s media regulator over demand for TV license renewals",
       "summary": "Network alleges FCC is trying to send ‘chilling message’ in retaliation for content the administration disapproves of ABC has sued the Federal Communications Commission (FCC), ar…",
@@ -528,16 +548,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-18T09:00:19.000Z"
-    },
-    {
-      "id": "4d3c4e97e696",
-      "title": "Severe weather warning for northern Victoria – as it happened",
-      "summary": "All the days news as it unfolded Get our breaking news email , free app or daily news podcast Chalmers calls gambling amendments ‘very substantial changes’ Treasurer Jim Chalmers…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T07:55:43.000Z"
     },
     {
       "id": "80e2d954a5ba",
@@ -898,16 +908,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-16T10:44:03.000Z"
-    },
-    {
-      "id": "7c3a6c80a5bd",
-      "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’",
-      "summary": "Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI An activist who blocked the entrance to one of the world’s biggest…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-16T08:00:20.000Z"
     },
     {
       "id": "0340769e555b",
