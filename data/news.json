@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T15:39:35.644Z",
+  "updatedAt": "2026-08-18T16:41:18.716Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,44 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "6cc53a5174b0",
+      "title": "Death and alleged torture of man in detention sparks protests in Syria",
+      "summary": "Picture showing White Helmets volunteer unconscious and with bruises on his body went viral Syrians have protested over the death of a man who was arrested and allegedly beaten b…",
+      "url": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T16:03:24.000Z"
+    },
+    {
+      "id": "9044cafd8a60",
+      "title": "中越举行海上搜救应急通信演练",
+      "summary": "中新社南宁8月18日电 (黄艳梅 莫卫华)18日，中国广西海上搜救中心与越南航海搜救协调中心一区举行海上搜救应急通信演练。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679971.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T15:55:10.000Z"
+    },
+    {
+      "id": "436c22ba4a7b",
+      "title": "泰国前7个月吸引外资额同比增长37%",
+      "summary": "中新社曼谷8月18日电 (记者 李映民)泰国商业部商业发展厅18日公布的最新数据显示，2026年前7个月，共有736家外资企业获准落户泰国，同比增长26%；投资总额达2192.08亿泰铢，较去年同期增加597.48亿泰铢，增幅达37%。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679970.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T15:54:48.000Z"
+    },
+    {
       "id": "4e323bc20345",
-      "title": "Belgian firefighters push to encircle ‘largest wildfire in a century’ – Europe live",
+      "title": "Belgian firefighters push to encircle ‘largest wildfire in a century’ – as it happened",
       "summary": "The blaze charring peatland, pine trees and hiking trails grew over the weekend to half the size of Manhattan Some first pictures from this morning’s earthquakes in Granada are e…",
       "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-18T15:29:25.000Z"
+      "publishedAt": "2026-08-18T15:45:00.000Z"
     },
     {
       "id": "c390b00cd2ef",
@@ -350,26 +380,6 @@
       "publishedAt": "2026-08-18T13:46:46.000Z"
     },
     {
-      "id": "3e6a8f0c0d13",
-      "title": "北京亦庄发布“AI人才八条” 为原生创业者打开新通道",
-      "summary": "中新网北京8月18日电 (记者 杜燕)在今天举行的2026北京亦庄人才发展大会上，北京经济技术开发区(简称“北京经开区”，又称“北京亦庄”)发布《北京经济技术开发区关于支持人工智能原生人才发展的若干措施》(以下简称“AI人才八条”)。该政策聚焦人工智能人才创业、青年就业、生态培育三个核心维度，推出8条务实举措，构建起覆盖在校实习生到顶尖科学家的全链条人才…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679928.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:46:04.000Z"
-    },
-    {
-      "id": "089c57409074",
-      "title": "2026上海书展闭幕 “图书盲盒”成人气“黑马”",
-      "summary": "中新社上海8月18日电 (记者 王笈)2026上海书展暨“书香中国”上海周18日落下帷幕，实现图书销售总码洋7220.5万元(人民币，下同)，同比增长11.5%；文创产品销售收入1299.7万元，同比增长27.8%。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679930.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:45:52.000Z"
-    },
-    {
       "id": "34820ffa3677",
       "title": "ABC sues Trump’s media regulator over demand for TV license renewals",
       "summary": "Network alleges FCC is trying to send ‘chilling message’ in retaliation for content the administration disapproves of ABC has sued the Federal Communications Commission (FCC), ar…",
@@ -678,16 +688,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-17T16:01:47.000Z"
-    },
-    {
-      "id": "96ba44425024",
-      "title": "Can Trump’s peace plan for Gaza be saved? – The Latest",
-      "summary": "Donald Trump’s son-in-law Jared Kushner is on a diplomatic mission in the Middle East to meet Hamas officials and the Israeli prime minister, Benjamin Netanyahu, in an attempt to…",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/17/can-trumps-peace-plan-for-gaza-be-saved-the-latest",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T15:56:48.000Z"
     },
     {
       "id": "cc4c9a150c81",
