@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:57:54.138Z",
+  "updatedAt": "2026-08-18T18:50:22.789Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "a17afd982358",
+      "title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
+      "summary": "Migration minister asked how he intends to stop deportations of people ‘who had lived in Sweden for decades’ The deportation and removal of British citizens from Sweden over Brex…",
+      "url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T18:44:06.000Z"
+    },
+    {
+      "id": "98f88226d08d",
+      "title": "Social media on trial as $200bn case against Facebook and Instagram begins",
+      "summary": "Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful i…",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-18T18:27:09.000Z"
+    },
+    {
+      "id": "4d8a4f32db64",
+      "title": "朱鎔基火化：從民間悼念到八寶山，中國領導人「身後事」的政治邏輯",
+      "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
+      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-18T18:00:44.000Z"
+    },
     {
       "id": "92acefcca02f",
       "title": "‘Can’t enjoy your pint’: Wetherspoons customers welcome ban on loud phones",
@@ -420,16 +450,6 @@
       "publishedAt": "2026-08-18T13:00:47.000Z"
     },
     {
-      "id": "4d8a4f32db64",
-      "title": "朱鎔基在京火化：從民間悼念到八寶山公墓，中國領導人「身後事」的政治邏輯",
-      "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
-      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-18T12:56:25.000Z"
-    },
-    {
       "id": "df211699b763",
       "title": "Moscow threat of ‘consequences’ will not alter UK support for Ukraine, says Burnham",
       "summary": "Prime minister responds to Russian anger over Kyiv’s use of British-made drones in ‘deep strike’ campaign UK politics live – latest updates Europe live – latest updates Andy Burn…",
@@ -488,16 +508,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-18T11:04:25.000Z"
-    },
-    {
-      "id": "1339f27b3b7a",
-      "title": "‘Migration has been weaponised’: Italy’s security law criticised after death of Moroccan man in police restraint",
-      "summary": "Case of Abderrahim Fakir is first in which legal shield giving police greater protection from prosecution has been invoked If, before 19 July, few people in Italy beyond his fami…",
-      "url": "https://www.theguardian.com/world/2026/aug/18/italy-security-law-death-moroccan-man-police-custody-abderrahim-fakir",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T10:55:44.000Z"
     },
     {
       "id": "d36e0c391795",
@@ -928,16 +938,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-16T07:00:20.000Z"
-    },
-    {
-      "id": "fb1102f26db2",
-      "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
-      "summary": "Student unrest sweeps India, Portugal and Mexico as grievances and pressure for good grades in tough job market collide Families with teenagers in education know the private, hid…",
-      "url": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-16T07:00:19.000Z"
     },
     {
       "id": "d38ec7f0cb30",
