@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T11:33:28.776Z",
+  "updatedAt": "2026-08-18T11:55:09.577Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,86 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "cde07273f012",
+      "title": "云南通报低价团调查结果：涉事旅行社和导游被立案调查",
+      "summary": "中新网8月18日电 云南省文化和旅游厅8月18日在其官网发布情况通报称，在云南省文化和旅游厅统筹督导下，昆明、大理、丽江、西双版纳等4个州市文化和旅游部门依法依规对央视财经报道云南“低价团”相关问题涉事旅行社和导游立案调查。现通报如下。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679861.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T11:50:00.000Z"
+    },
+    {
+      "id": "807f30dc1546",
+      "title": "‘Our task is to laugh at these enemies’: the Ukrainian unit posting drone videos of Russian soldiers’ last moments",
+      "summary": "Creators of chase compilations reject any moral qualms and say they show ‘death is waiting’ for those who join war To many observers they will appear dehumanising and offensive.…",
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraine-drone-chase-videos-russian-soldiers",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T11:43:23.000Z"
+    },
+    {
+      "id": "3742ec7b6ffb",
+      "title": "中国海油盐城“绿能港”LNG接卸量突破1000万吨",
+      "summary": "中新网盐城8月18日电(谷华 肖春成)18日，马绍尔群岛籍“马里布”轮在中国海油盐城“绿能港”完成接卸作业后缓缓驶离码头，6.6万吨LNG通过卸料臂输送至储罐。至此，中国海油盐城“绿能港”累计接卸LNG总量突破1000万吨。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679858.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T11:39:50.000Z"
+    },
+    {
+      "id": "0bc9f4476f99",
+      "title": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
+      "summary": "Marie Ebert, Alexander Cromie and their pilot died when their aircraft crashed on island of Sifnos Greek police believe a mechanical fault may have caused a helicopter to crash m…",
+      "url": "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T11:37:52.000Z"
+    },
+    {
+      "id": "244c0e657439",
+      "title": "上海：2030年将建成国内领先、国际一流韧性安全城市",
+      "summary": "中新网上海8月18日电 (记者 李姝徵)8月18日下午，上海市政府新闻办举行“开局起步‘十五五’”系列主题新闻发布会，对外介绍《上海市韧性安全城市建设“十五五”规划》(以下简称《规划》)相关内容。据悉，该《规划》为上海首次专门编制的韧性安全城市专项五年规划。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679856.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T11:36:56.000Z"
+    },
+    {
+      "id": "a4eb4849b4ec",
+      "title": "香港最新人口临时数字为751.83万人 同比增0.3%",
+      "summary": "中新社香港8月18日电 香港特区政府统计处18日公布，2026年年中香港人口的临时数字为751.83万人，同比增加1.94万人，升幅约0.3%。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679854.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T11:34:39.000Z"
+    },
+    {
+      "id": "04113947b757",
+      "title": "2024年至今 全国市场监管部门共查办侵犯商业秘密案件383件",
+      "summary": "记者今天从市场监管总局了解到，近年来，我国商业秘密保护工作取得显著成效。商业秘密是指不为公众所知悉、具有商业价值并经权利人采取相应保密措施的技术信息、经营信息等商业信息。其本质上是知识产权的特殊形态，并因其特殊性而极易成为不正当竞争行为的侵害对象。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679855.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T11:31:51.000Z"
+    },
+    {
+      "id": "86e42dbc7465",
+      "title": "‘The ultimate gamers’ mascot’: Sonic the Hedgehog at 35 – from 2D to 3D to a billion-dollar film franchise",
+      "summary": "Sonic’s creators explain how the speedy scamp has kept on running through generations as an enduring avatar of ‘attitude in the face of adversity’ One day in the early 1990s, I c…",
+      "url": "https://www.theguardian.com/games/2026/aug/18/sonic-the-hedgehog-at-35",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-18T11:30:44.000Z"
+    },
     {
       "id": "64d5fcd60938",
       "title": "陆海新通道数智一体化平台等六大产品在渝发布",
@@ -290,66 +370,6 @@
       "publishedAt": "2026-08-18T11:11:52.000Z"
     },
     {
-      "id": "614dff3e2dc7",
-      "title": "哈萨克斯坦祖孙的乒乓接力",
-      "summary": "中新网新疆阿拉山口8月18日电 (张家伟)12岁的纳伊尔·杜马罗夫个子不高，站在乒乓球台前却充满热情。每赢一分，他都会握拳呐喊，然后转头看一眼场边的爷爷。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679829.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T11:10:28.000Z"
-    },
-    {
-      "id": "8cffa1bdf8ee",
-      "title": "第七届全国辐射物理学术交流会在赣召开 专家学者共议核科技应用创新",
-      "summary": "中新网江西九江8月18日电 (卢梦梦)18日，第七届全国辐射物理学术交流会在江西九江瑞昌市开幕。来自全国辐射物理领域的专家学者聚焦人工智能与辐射物理的交叉创新、辐射效应机制与模拟仿真等主题进行学术研讨与成果交流。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679825.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T11:09:40.000Z"
-    },
-    {
-      "id": "c1bee600620b",
-      "title": "杭州市调查处置组就一起不法侵害事件发布情况通报",
-      "summary": "中新网杭州8月18日电 (钱晨菲)18日，杭州市调查处置组就一起不法侵害事件发布情况通报，内容如下：近日，杭州市公安机关接群众报警称遭受不法侵害。因案件涉公职人员违纪违法，市委市政府高度重视，立即成立调查处置组，开展调查处置。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679824.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T11:08:56.000Z"
-    },
-    {
-      "id": "5d0b26511163",
-      "title": "辽宁港口集团开辟福建至东北铜精矿海铁联运新通道",
-      "summary": "中新网大连8月18日电 (记者 杨毅)辽宁港口集团18日发布消息称，辽港集团近日成功打通福建至东北铜精矿海铁联运物流新通道，首批280标箱、总重约8000吨铜精矿顺利完成“公路+海运+铁路”接力发运，为东南沿海与东北腹地产业链供应链协同发展注入新动能。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679823.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T11:08:14.000Z"
-    },
-    {
-      "id": "82cb7f6e380b",
-      "title": "中国商务部：促进同品同款商品城乡“同质同享”",
-      "summary": "中新社北京8月18日电 (记者 尹倩芸)中国商务部流通发展司司长李佳路18日在北京表示，商务部将会同有关部门促进同品同款商品城乡“同质同享”，坚决打击假冒伪劣商品和服务，有效保护消费者权益。引导平台企业自觉规范价格和补贴行为，促进线上线下公平竞争。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679821.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T11:07:52.000Z"
-    },
-    {
-      "id": "8249279fe0a3",
-      "title": "中老铁路货物运输突破9000万吨",
-      "summary": "中新社昆明8月18日电 (刘晗飞 周涛 纳建博)中国铁路昆明局集团有限公司18日消息，中老铁路自2021年12月3日开通运营以来，全线累计运输货物突破9000万吨，其中跨境货物运输超2100万吨。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-18/10679820.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T11:06:54.000Z"
-    },
-    {
       "id": "b3035b5a495f",
       "title": "Controversial NDIS bill passes Senate with ‘substantial’ amendments as Labor and Coalition strike deal",
       "summary": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting thousands of participants but will pass lower house on Wednesday Get our breaking news email , free ap…",
@@ -370,6 +390,16 @@
       "publishedAt": "2026-08-18T10:55:44.000Z"
     },
     {
+      "id": "d36e0c391795",
+      "title": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
+      "summary": "Bond yields in US, UK, Germany France and Japan rise after ceasefire ends and Trump threatens to bomb Oman Business live – latest updates Government borrowing costs continued to…",
+      "url": "https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-18T10:54:43.000Z"
+    },
+    {
       "id": "9a65e99c1693",
       "title": "Z世代為何要用抗焦慮藥物取代酒精？從一位中國女孩講起",
       "summary": "隨著世界各地年輕人社交焦慮症的上升，許多人開始使用各種藥物進行自我治療以緩解症狀。",
@@ -378,16 +408,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-18T10:51:28.000Z"
-    },
-    {
-      "id": "0bc9f4476f99",
-      "title": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
-      "summary": "Marie Ebert, Alexander Cromie and their pilot died when their aircraft crashed on island of Sifnos Greek police believe a mechanical fault may have caused a helicopter to crash m…",
-      "url": "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T10:36:42.000Z"
     },
     {
       "id": "1779acda6fe0",
@@ -468,6 +488,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-18T07:34:24.000Z"
+    },
+    {
+      "id": "bd269aa88549",
+      "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
+      "summary": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live – latest updates Oil prices have risen again afte…",
+      "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-18T07:04:12.000Z"
     },
     {
       "id": "06d4f3205e13",
@@ -600,16 +630,6 @@
       "publishedAt": "2026-08-17T16:42:04.000Z"
     },
     {
-      "id": "1fb2569ef7eb",
-      "title": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
-      "summary": "Operator granted UK track access for as many as 20 daily return trains to Paris, Brussels and Amsterdam from 2030 Business live – latest updates Virgin Trains has been granted tr…",
-      "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
-      "source": "The Guardian World",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-17T16:41:07.000Z"
-    },
-    {
       "id": "01f936d7ed56",
       "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
       "summary": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, cont…",
@@ -628,16 +648,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-17T15:56:48.000Z"
-    },
-    {
-      "id": "2abc22f34bca",
-      "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
-      "summary": "Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blocked US gas prices this month are so far the highest ever recorded for August…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T15:51:46.000Z"
     },
     {
       "id": "cc4c9a150c81",
@@ -1030,16 +1040,6 @@
       "publishedAt": "2026-08-14T14:04:49.000Z"
     },
     {
-      "id": "6edd88bf8baf",
-      "title": "Alien: Isolation 2 – another strong female protagonist stalked in a terrifying new world",
-      "summary": "Creative Assembly could strike gold again with this follow-up to their fan-favourite, film-inspired game … if you’re brave enough to venture outdoors A lien: Isolation redefined…",
-      "url": "https://www.theguardian.com/games/2026/aug/14/alien-isolation-2",
-      "source": "The Guardian Technology",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-14T12:00:27.000Z"
-    },
-    {
       "id": "ff7afd8f9241",
       "title": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
       "summary": "Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’t Conservative backlash was supposed to put an end to…",
@@ -1140,16 +1140,6 @@
       "publishedAt": "2026-08-13T12:32:18.000Z"
     },
     {
-      "id": "dbf6c3dd3b1c",
-      "title": "Trump administration accused of ‘bullying’ union leader at consumer protection agency",
-      "summary": "Critic of Consumer Financial Protection Bureau leadership was put under investigation and suspended from job The Trump administration has been accused of “bullying and intimidati…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/consumer-financial-protection-trump-administration",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-13T10:00:55.000Z"
-    },
-    {
       "id": "65094e37f9de",
       "title": "I spent 18 months testing the best video doorbells – here are my favourites",
       "summary": "Whether you want to improve your home’s security or simply know who’s at the door, the latest generation of smart doorbells will help put your mind at ease • The best robot vacuu…",
@@ -1228,6 +1218,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-12T17:39:46.000Z"
+    },
+    {
+      "id": "0f441c207d96",
+      "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
+      "summary": "中國前總理朱鎔基週三在北京逝世。在1990至2000年代擔任副總理和總理期間，他主導中國經濟改革逾十年，被外界稱為中國「經濟沙皇」。",
+      "url": "https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-12T15:24:03.000Z"
     }
   ]
 }
