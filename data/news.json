@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T09:42:30.484Z",
+  "updatedAt": "2026-08-18T10:38:09.661Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,184 +30,344 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "d40c067cc421",
-      "title": "东湖评论丨脚下的路走得稳，前方的景自然新",
-      "summary": "【好评中国】东湖评论丨脚下的路走得稳，前方的景自然新",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-18/10679725.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:41:00.000Z"
+      "id": "4e323bc20345",
+      "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
+      "summary": "Ukraine launched over 600 drones at Moscow and surrounding areas overnight Some first pictures from this morning’s earthquakes in Granada are emerging on social media… Andalusian…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T10:21:20.000Z"
     },
     {
-      "id": "1a8e61d5fbf4",
-      "title": "山东威海：七夕“流动照相馆”定格岁月",
-      "summary": "8月17日，七夕前夕，山东威海高新区初村镇，摄影志愿者为当地老人拍摄合影。这项拍照服务已持续开展5年，将“流动照相馆”开到乡村，用影像定格老人相濡以沫的岁月。张蕃 摄 8月17日，七夕前夕，山东威海高新区初村镇，摄影志愿者为当地老人拍摄合影。这项拍照服务已持续开展5年，将“流动照相馆”开到乡村，用影像定格老人相濡以沫的岁月。张蕃 摄 8月17日，七夕前夕…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-18/10679776.shtml",
+      "id": "36e2f1141148",
+      "title": "二连浩特口岸将境外来华人员纳入政府促消费政策覆盖范围",
+      "summary": "中新网二连浩特8月18日电 (记者 李爱平)记者18日从内蒙古自治区二连浩特市政府获悉，二连浩特口岸日前正式推出涉外消费补贴，将境外来华人员纳入政府促消费政策覆盖范围。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679807.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:39:22.000Z"
+      "publishedAt": "2026-08-18T10:18:29.000Z"
     },
     {
-      "id": "946642678f38",
-      "title": "在地下400米 为瓦斯修一条“高速路”",
-      "summary": "中新网济南8月18日电 题：在地下400米 为瓦斯修一条“高速路”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679766.shtml",
+      "id": "dfe88199e792",
+      "title": "绿醇绿氨接连出海 吉林拓展全球绿色航运燃料新供给",
+      "summary": "中新网长春8月18日电 (记者 郭佳)记者18日从吉林省洮南市相关部门获悉，依托“洮南生产—大连中转—上海加注”的“北醇南运”物流通道，吉林西部绿色燃料已迈入国际市场批量化交付新阶段。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679806.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:38:38.000Z"
+      "publishedAt": "2026-08-18T10:17:35.000Z"
     },
     {
-      "id": "2ac6c976065e",
-      "title": "直播海报：长江十年行｜绿染长江岸 高质看江苏",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679785.shtml",
+      "id": "289fdf7e0457",
+      "title": "聚焦AI技术在医疗等维度应用 健康产业生态大会探讨重构路径",
+      "summary": "中新网博鳌8月18日电 8月11日至16日，第十九届健康产业生态大会(西普会)在海南博鳌举行。本届大会以“走进AI时代——健康产业的范式革命与路径选择”为年度主题，聚焦AI(人工智能)技术在科研、制造、医疗等维度的深度应用，旨在重构健康产业增长新路径。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679805.shtml",
       "source": "中国新闻网",
-      "category": "国内",
+      "category": "AI",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:38:32.000Z"
+      "publishedAt": "2026-08-18T10:17:09.000Z"
     },
     {
-      "id": "74a345e51126",
-      "title": "新疆7月外送电量创历史新高",
-      "summary": "中新网乌鲁木齐8月18日电 (闫文陆 朱劲波)记者18日从新疆电力交易中心有限公司获悉，今年7月，新疆外送电量达179.3亿千瓦时，同比增长15.07%。其中，新能源外送电量85.27亿千瓦时，同比增长66.81%、环比增长15.56%，单月总外送电量、新能源外送电量双双刷新历史纪录。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679765.shtml",
+      "id": "be325765c589",
+      "title": "中联油脂等4家涉台湾“毒油案”企业遭起诉",
+      "summary": "中新社台北8月18日电 台湾中联油脂公司油品致癌物超标案18日侦查终结。台中地检署依违反“食安法”等罪，起诉中联油脂等4家企业以及中联油脂董事长蔡清松等15人，并声请没收及追征相关犯罪所得合计约8.8亿元(新台币，下同)。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679803.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:36:56.000Z"
+      "publishedAt": "2026-08-18T10:16:11.000Z"
     },
     {
-      "id": "8e19a2b62002",
-      "title": "日学者：日本防卫政策正加速向进攻型转变",
-      "summary": "据日本方面17日消息，相关人士透露，日本防卫省已开始研究将美国企业的人工智能系统引入自卫队的指挥控制体系，目的是通过人工智能系统辅助指挥官分析战况、选择目标，甚至向部队下达命令，从而加快决策速度。日本相关专家指出，日本安保防卫政策持续向进攻方向转变，不断突破日本战后和平安全政策的框架，值得警惕。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679741.shtml",
+      "id": "da8cd713c7f3",
+      "title": "开局起步“十五五”：海南自贸港建设促就业",
+      "summary": "中新网海口8月18日电 (记者 王晓斌)“‘十五五’时期是高标准建设海南自由贸易港的关键阶段，自贸港建设蕴含重大战略机遇，为我省就业扩容提质注入了强劲动力。”海南省人力资源开发局(省就业局)党组成员、副局长周运诗如是说。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679802.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:36:32.000Z"
+      "publishedAt": "2026-08-18T10:15:35.000Z"
     },
     {
-      "id": "3b99ccb17d49",
-      "title": "厄瓜多尔上半年出口额创新高 对华出口保持快速增长",
-      "summary": "厄瓜多尔中央银行近日发布的外贸统计报告显示，该国今年上半年商品出口总额达195.71亿美元，同比增长4%，创历史同期新高，贸易顺差23.39亿美元。近年来，厄瓜多尔出口保持稳健增势，2025年全年出口额达371.52亿美元，同比增长7.9%，为历史最高水平。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679726.shtml",
+      "id": "5e8049e9465f",
+      "title": "宁夏开展景区多灾种综合应急演练 筑牢文旅安全防线",
+      "summary": "中新网银川8月18日电 (记者 李佩珊)8月18日，宁夏A级旅游景区防汛防灾与地质灾害和森林草原防灭火应急处置演练在宁夏贺兰山国家森林公园开展。演练聚焦贺兰山沿山区域灾害特征，实景模拟山洪、边坡滑坡、山林雷击火情等多重风险叠加场景，多部门联动完成险情上报、预警联动、游客疏散、抢险救护等整套实战科目。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679801.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:36:08.000Z"
+      "publishedAt": "2026-08-18T10:14:49.000Z"
     },
     {
-      "id": "c71010bf01f7",
-      "title": "甘肃数十件汉简展现汉代吏治文化",
-      "summary": "中新社兰州8月18日电 (冯志军 王牧雨)“简述廉洁—汉简中的廉洁文化”展18日在兰州开幕。本次展览展出的70余件汉代廉政精品文物，以甘肃简牍博物馆及甘肃省博物馆馆藏汉简为主，全方位彰显了汉代吏治文化，再现了汉代官吏选拔、考核、监察的严明制度，以及先贤修身齐家、勤政为民的廉洁风尚。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679756.shtml",
+      "id": "e57590331752",
+      "title": "宁夏“数字牧羊人”登场 智能算法破解滩羊养殖“糊涂账”",
+      "summary": "中新网银川8月18日电 题：宁夏“数字牧羊人”登场 智能算法破解滩羊养殖“糊涂账”",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679799.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:36:06.000Z"
+      "publishedAt": "2026-08-18T10:14:15.000Z"
     },
     {
-      "id": "2293fc9344d3",
-      "title": "开局起步“十五五”：建设人才荟萃之岛，海南如何招才引智？",
-      "summary": "中新网海口8月18日电 (记者 王晓斌)“十五五”期间，海南将持续在引人才、激活力、优服务上下功夫，助力建设人才荟萃之岛。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679780.shtml",
+      "id": "cd55fb1a847d",
+      "title": "我国自主研发设计新一代超大型油轮在大连交付",
+      "summary": "中新网大连8月18日电 (记者 杨毅)由中国船舶集团旗下大连造船联合中船贸易为挪威SEATANKERS建造的30.7万吨原油船“弗朗特 弗雷泽”轮，18日在辽宁大连正式交付。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679800.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:35:32.000Z"
+      "publishedAt": "2026-08-18T10:13:22.000Z"
     },
     {
-      "id": "8187f03b68be",
-      "title": "电影《追风》剧本专家研讨会在京举行",
-      "summary": "中新网北京8月18日电 (记者 高凯)以被誉为“中国车王”的台州籍赛车手韩魏为原型的电影《追风》剧本专家研讨会日前在北京举行。影视界专家学者、出品方及主创团队代表齐聚一堂，围绕剧本立意、叙事架构、人物塑造、艺术表达等多维度展开深度研讨，为影片创作把脉定向。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679755.shtml",
+      "id": "29363cddbaf1",
+      "title": "香港海关检获约5600万港元疑似大麻花毒品 拘捕10人",
+      "summary": "中新网香港8月18日电 (记者 刘玥晴)香港海关18日在海关总部大楼举行简报会介绍，今年7月13日至8月17日，香港海关针对不法分子企图利用香港作为中转站，从东南亚贩运大麻到欧洲、非洲地区，采取代号为“火网”的反跨国贩毒执法行动，拘捕10人，检获约240公斤疑似大麻花毒品，市值约5600万港元。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679797.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:34:56.000Z"
+      "publishedAt": "2026-08-18T10:12:58.000Z"
     },
     {
-      "id": "bc1b250b105a",
-      "title": "长江十年行 | 千年诗篇与一江碧水的“双向奔赴”",
-      "summary": "今年夏天，九江琵琶亭火了。日均接待游客超过1万人次，比往年翻了好几倍；抖音话题冲上热搜榜。一座1200多年历史的古亭，凭一座无弦琵琶雕塑和满江碧水，成了现象级打卡地。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679724.shtml",
+      "id": "0ebd073c95de",
+      "title": "“红色经典”汉译本系列丛书在上海发布",
+      "summary": "中新社上海8月18日电 (记者 王笈)“红色经典”汉译本系列丛书18日在上海举行新书发布会。丛书共三册，分别是两位美国记者撰写的《中国之未来》《人类的五分之一》和《明日中国》，从国际友人的第三方视角向读者展现中国。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679796.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:34:26.000Z"
+      "publishedAt": "2026-08-18T10:12:26.000Z"
     },
     {
-      "id": "7bbd5eb055e6",
-      "title": "2026上合组织数字经济论坛将于9月举办",
-      "summary": "中新社北京8月18日电 (记者 王梦瑶)记者18日从中国国家数据局获悉，2026上合组织数字经济论坛将于9月14日至16日在乌鲁木齐市举办。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679759.shtml",
+      "id": "8a680a69e8ab",
+      "title": "习近平同厄瓜多尔总统诺沃亚出席签字仪式",
+      "summary": "8月18日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的厄瓜多尔总统诺沃亚出席签字仪式。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679804.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:34:20.000Z"
+      "publishedAt": "2026-08-18T10:08:10.000Z"
     },
     {
-      "id": "fbb3a35c860c",
-      "title": "从“有啥种啥”到“种啥得啥”",
-      "summary": "【好评中国·敦煌风】从“有啥种啥”到“种啥得啥”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679721.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:33:16.000Z"
+      "id": "7d7f4b179a12",
+      "title": "AFL chief breaks silence over ‘deeply concerning’ Sydney Swans sexual assault allegations",
+      "summary": "Andrew Dillon says the AFL ‘will consider the broader conduct of the players as more information comes to light’ The AFL has declared it is prepared to act over “deeply concernin…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T10:07:31.000Z"
     },
     {
-      "id": "18c41af3588d",
-      "title": "文化和旅游部：提升供给品质 让县域文旅有看头",
-      "summary": "中新网8月18日电 国务院新闻办公室于8月18日举行新闻发布会，介绍激发下沉市场活力活跃县域消费有关情况。会上，文化和旅游部产业发展司负责人辜科伟表示，“奔县游”、乡村游成为下沉市场消费新热点。文化和旅游部将聚焦产品业态供给、场景、活动等三个方面推动县域文旅经济提质升级，促进文旅消费迸发更大活力。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679768.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:32:42.000Z"
+      "id": "1779acda6fe0",
+      "title": "WA police appeal for help to find 10-year-old girl missing from Perth suburbs",
+      "summary": "Lyndel Ningella was last seen leaving home in Butler on Saturday evening prompting concerns about her safety Get our breaking news email , free app or daily news podcast Western…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T10:03:03.000Z"
     },
     {
-      "id": "2b4067fbd7bd",
-      "title": "跨越四千公里，赴一场“石榴花开”的约定",
-      "summary": "山风从云贵高原的峰峦间启程，携着苗岭的晨雾与侗寨的烟火；牧歌从阿尔泰山的草原上升起，带着喀纳斯的波纹与伊犁河谷的绿意。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679748.shtml",
+      "id": "b23f577f53e7",
+      "title": "两岸青年福州罗源开启玉石文创和畲族文化体验之旅",
+      "summary": "中新社福州8月18日电 (闫旭 叶秋云)第二届海峡两岸(福州)青年创意(工艺)交流活动18日在福州市罗源县启幕，180多名两岸青年开启为期5天的玉石文创和畲族文化沉浸式交流研学之旅。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679789.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:30:16.000Z"
+      "publishedAt": "2026-08-18T10:00:34.000Z"
     },
     {
-      "id": "b44347a51663",
-      "title": "秦平丨“双抢”三变焕新颜，科技服务绘就粮安新答卷",
-      "summary": "【好评中国】秦平丨“双抢”三变焕新颜，科技服务绘就粮安新答卷",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-18/10679716.shtml",
+      "id": "4b432a97aa8c",
+      "title": "内蒙古电影高质量发展系列活动在京启动",
+      "summary": "中新网北京8月18日电 (记者 高凯)内蒙古电影高质量发展系列活动日前在中国电影博物馆正式启动。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679793.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:28:10.000Z"
+      "publishedAt": "2026-08-18T10:00:06.000Z"
     },
     {
-      "id": "fb1ca82b041b",
-      "title": "官方通报杭州酒局事件：赵某峰、郁某栋被刑拘",
-      "summary": "18日，杭州市调查处置组就杭州酒局事件发布情况通报，内容如下：",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679753.shtml",
+      "id": "0f5b9c647b49",
+      "title": "中国十地开展数据领域国际合作试点",
+      "summary": "中新社北京8月18日电 (记者 王梦瑶)记者18日从中国国家数据局在北京召开的新闻发布会上获悉，中国已有十地启动数据领域国际合作试点。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679788.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:25:17.000Z"
+      "publishedAt": "2026-08-18T09:58:55.000Z"
     },
     {
-      "id": "c6ec76f6d96b",
-      "title": "塔克拉玛干的年轻新农人",
-      "summary": "他们扎根沙漠边缘，科学种田，让沙海变粮仓——",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679717.shtml",
+      "id": "9b1dcf6c5cc9",
+      "title": "解锁城市时尚密码 《时尚细胞：街巷100+》亮相2026上海书展",
+      "summary": "中新网上海8月18日电 (赵月月)由东华大学出版社与上海杉达学院联合打造的《时尚细胞：街巷100+》在2026上海书展现场首次和广大读者见面。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679786.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T09:20:25.000Z"
+      "publishedAt": "2026-08-18T09:58:21.000Z"
+    },
+    {
+      "id": "59fd3130efa5",
+      "title": "U18男篮亚洲杯：中国队击败伊朗队晋级八强",
+      "summary": "中新社北京8月18日电 北京时间18日，2026年国际篮联U18男篮亚洲杯C组小组赛在印度艾哈迈达巴德结束最后一轮争夺。中国U18男篮以96:58击败伊朗队，以三战全胜战绩锁定小组第一，直接获得八强席位。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-18/10679787.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:58:03.000Z"
+    },
+    {
+      "id": "6ea93866ac1b",
+      "title": "辽宁：以体育为纽带深化跨区域文体旅交流联动",
+      "summary": "中新网沈阳8月18日电 (记者 韩宏)记者18日从辽宁省文体旅产业发展集团获悉，“大东副食号”专属球迷专列日前顺利发车，400余名来自各地的旅客搭乘专列奔赴长春，开启“客场观赛+春城深度游览”一体化特色行程，以体育为纽带深化辽吉文体旅交流联动。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-18/10679782.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:56:49.000Z"
+    },
+    {
+      "id": "890dda37483b",
+      "title": "呼伦贝尔实施草原生态保护政策 确保牧民备足“冬粮”",
+      "summary": "中新网呼伦贝尔8月18日电 (记者 张玮)“按照规定，今天是打草第一天，我们坚持做到科学打草，既要把过冬的饲草备足，也要保护好草原。”进入8月中旬，内蒙古草原上便迎来一年一度的丰收季，鄂温克草原牧民林光看着一个个紧实规整的草捆“新鲜出炉”，错落排布在青青草甸上，高兴得不行。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679779.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:55:41.000Z"
+    },
+    {
+      "id": "2770c4a71a9b",
+      "title": "从“铝水不落地”到“绿电烙印”：山西铝镓产业的链式突围",
+      "summary": "中新网太原8月18日电 (记者 李庭耀)“这个小瓶子里装着的银色金属叫金属镓，它是电子工业的脊梁，用手一握或放入30℃以上的水中，就能化为液体，我省镓产能占全国一半以上。”17日下午，山西华兴铝业有限公司、山西中润铝业有限公司科技创新部负责人杨桐手拿装着金属镓的小瓶子介绍道。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679777.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:54:57.000Z"
+    },
+    {
+      "id": "1a2d4929cfd1",
+      "title": "壹视界·任平文章解读 | 时间都去哪儿了？三个刻度里的中国答案",
+      "summary": "视频：壹视界·任平文章解读 | 时间都去哪儿了？三个刻度里的中国答案来源：人民日报客户端",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679795.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:54:35.000Z"
+    },
+    {
+      "id": "f14d96df1ab6",
+      "title": "服务全疆、辐射中亚 新疆兵团第十二师打造商贸物流产业发展高地",
+      "summary": "中新网乌鲁木齐8月18日电 (李国梁 高文涛)新疆生产建设兵团第十二师17日召开“坚定推进‘商贸强师’战略 打造商贸物流产业发展高地”主题新闻发布会。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679775.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:54:25.000Z"
+    },
+    {
+      "id": "7e5b871b05aa",
+      "title": "涨价重担背了、关税退款没着落 美媒批美关税退款机制“惠不及民”",
+      "summary": "【世界说】涨价重担背了、关税退款没着落 美媒批美关税退款机制“惠不及民”",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679749.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:54:11.000Z"
+    },
+    {
+      "id": "ee378f1bcf88",
+      "title": "内蒙古辽代文物首次大规模亮相新疆",
+      "summary": "中新网乌鲁木齐8月18日电 (苟继鹏)18日，由新疆博物馆、内蒙古博物院及内蒙古多家文博机构联合推出的“契丹印迹——内蒙古辽代文物精品展”在新疆博物馆开展。现场展出170余件(套)珍贵文物，是近年来内蒙古辽代文物在新疆最大规模的一次集中亮相。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679774.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:53:45.000Z"
+    },
+    {
+      "id": "e07905e13269",
+      "title": "中国电科承建世界精度最高百米级射电望远镜完成核心结构安装",
+      "summary": "中新网北京8月18日电 (记者 孙自法)记者8月18日从中国电子科技集团有限公司(中国电科)获悉，由中国电科第三十九研究所(39所)承建、位于新疆昌吉州奇台县的110米口径射电望远镜项目，其天线座架三层结构当天顺利完成合拢，标志着这一世界在建精度最高、频率最高的百米级全向可动射电望远镜已完成核心结构安装，项目全面进入俯仰架安装阶段。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679773.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:52:59.000Z"
+    },
+    {
+      "id": "5334ba31794b",
+      "title": "Family of missing 18-year-old hiker ‘absolutely devastated’ as search continues in rugged NSW terrain",
+      "summary": "Lily Hooper has not been seen since leaving for a hike in Nattai national park, south-west of Sydney, on 12 August Get our breaking news email , free app or daily news podcast Th…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/family-of-missing-18-year-old-hiker-absolutely-devastated-as-search-continues-in-rugged-nsw-terrain",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T09:51:17.000Z"
+    },
+    {
+      "id": "36ab9f3dce66",
+      "title": "汽车营销从“国内视角”转向“全球视角”——听三位海外达人说中国车",
+      "summary": "中国汽车工业协会最新发布的数据显示，今年7月份，汽车出口104.3万辆，同比增长81.3%。其中，新能源汽车出口55.3万辆，同比增长145.5%。中国汽车出口已连续两个月突破100万辆。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679733.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:50:49.000Z"
+    },
+    {
+      "id": "24ee2704c974",
+      "title": "日本防卫省计划大规模扩编，新设“防卫基盘局”等3个部门",
+      "summary": "警惕！日媒：“非常罕见”，日本防卫省计划大规模扩编，新设“防卫基盘局”等3个部门",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679738.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:49:19.000Z"
+    },
+    {
+      "id": "bb97a5670f20",
+      "title": "翻山越岭搭线送网进瑶寨 八桂大地数智铁塔护青绿",
+      "summary": "九十多年前，百色起义的烽火在右江大地燃起，红七军由此踏上革命征程，在八桂热土播下革命火种。随后，中央红军浴血奋战打响湘江战役，用血肉之躯突破第四道封锁线，铸就“勇于胜利、勇于突破、勇于牺牲”的湘江战役精神。在今天这片红色土地上，一座座通信铁塔屹立于喀斯特群山之间，将数字信号送进深山村寨，把智慧感知布设于山水林田之间。一个个铁塔人牢记“人民邮电为人民”的初…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679792.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:48:33.000Z"
+    },
+    {
+      "id": "74d280da7b03",
+      "title": "商务部：培育一批“康养+”“农业+”“历史经典+”等特色消费场景",
+      "summary": "中新网8月18日电 国务院新闻办公室于8月18日举行新闻发布会，介绍激发下沉市场活力活跃县域消费有关情况。商务部部长助理袁晓明表示，商贸流通直接关系居民日常生活的便利度，商品服务的丰富度和生活品质的获得感。特别是在线下消费为主的县域地区，进一步畅通流通渠道，更新流通载体更加重要。渠道畅则循环通，载体优则活力足。商务部把商品流通提档升级作为活跃线下消费、增…",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679783.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:47:09.000Z"
+    },
+    {
+      "id": "77f528a32f88",
+      "title": "中国商务部：每天有超过1亿件包裹进出农村",
+      "summary": "中新社北京8月18日电 (记者 尹倩芸)中国商务部部长助理袁晓明18日在于北京举行的国新办新闻发布会上说，2021年以来，中国深入推进县域商业体系建设，有力带动农民收入和农村消费双提升。累计支持升级改造县乡物流配送网点3600多个，每天有超过1亿件包裹进出农村。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679772.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:46:57.000Z"
+    },
+    {
+      "id": "ba49fd5484ae",
+      "title": "戈壁深处的“种树人”：一位基层林草干部的30载治沙路",
+      "summary": "中新网巴彦淖尔8月18日电 题：戈壁深处的“种树人”：一位基层林草干部的30载治沙路",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679771.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T09:45:40.000Z"
     },
     {
       "id": "b3035b5a495f",
@@ -217,137 +377,7 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-18T09:18:47.000Z"
-    },
-    {
-      "id": "3bce617774b2",
-      "title": "农业农村部：上半年乡村消费品零售额同比增长2.5%",
-      "summary": "中新网8月18日电 国务院新闻办公室于8月18日举行新闻发布会，介绍激发下沉市场活力活跃县域消费有关情况。会上，农业农村部市场与信息化司负责人宋丹阳表示，从今年上半年的数据看，乡村消费品零售额33216亿元、同比增长2.5%，增速快于城镇1.3个百分点。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679757.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:16:45.000Z"
-    },
-    {
-      "id": "4e323bc20345",
-      "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
-      "summary": "Ukraine launched over 600 drones at Moscow and surrounding areas overnight Meanwhile, the German interior minister, Alexander Dobrindt, opened a new centre for drone security in…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T09:15:19.000Z"
-    },
-    {
-      "id": "2f2f8e036299",
-      "title": "日澳扩大军事合作 日本计划在澳试射高超音速导弹",
-      "summary": "中新网8月18日电 据日本共同社报道，当地时间18日，日本防卫大臣小泉进次郎在澳大利亚首都堪培拉与澳副总理兼国防部长理查德·马尔斯举行会谈。双方就日本自卫队为所谓“强化反击能力(对敌基地攻击能力)”在澳境内试射远程导弹事宜达成一致。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679762.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:13:59.000Z"
-    },
-    {
-      "id": "ec9f466c7097",
-      "title": "受权发布丨中华人民共和国国务院令 第844号",
-      "summary": "新华社北京8月18日电",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679761.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:09:49.000Z"
-    },
-    {
-      "id": "6b26e963b572",
-      "title": "居家如何防暑降温？医师推荐这些小妙招",
-      "summary": "中新网8月18日电 国家中医药管理局18日召开健康中国中医药健康促进主题发布会之“长夏的中医药养生”专题发布会。北京市昌平区天通苑南社区卫生服务中心主任医师杜栩名指出，居家防暑降温，空调和冷饮是夏天降温非常有效的方式，关键在于怎么用。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-18/10679739.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:08:54.000Z"
-    },
-    {
-      "id": "b56fe6044eb2",
-      "title": "李强签署国务院令 公布《国务院关于修改〈住房公积金管理条例〉的决定》",
-      "summary": "新华社北京8月18日电 国务院总理李强日前签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》(以下简称《决定》)，自2026年9月20日起施行。《决定》共20条，主要规定了以下内容。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679760.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:06:38.000Z"
-    },
-    {
-      "id": "7224ba5a14d5",
-      "title": "商务部：要发展各具特色的县域商业，坚决不搞脱离实际的“一刀切”",
-      "summary": "中新网8月18日电 国务院新闻办公室于8月18日举行新闻发布会，介绍激发下沉市场活力活跃县域消费有关情况。会上，商务部流通发展司司长李佳路称，坚持因地制宜、分类施策、实事求是指导地方充分考虑人口分布、市场需求等实际情况，发展各具特色的县域商业，坚决不搞脱离实际的“一刀切”；顺应县域人口流动变化趋势，加强分析研判，坚决防止盲目建设、资源浪费；充分利用现有商…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679743.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:06:10.000Z"
-    },
-    {
-      "id": "1a399c5aba4e",
-      "title": "爱心冰箱检验素质：有人往里补，有人来“进货”",
-      "summary": "爱心冰箱检验素质：有人花钱往里补，有人推车来“进货”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679697.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:05:32.000Z"
-    },
-    {
-      "id": "8ced6d3cac83",
-      "title": "“辽台同频 文媒共声——两岸青年媒体人辽宁行”2026新闻交流活动启动",
-      "summary": "中新网沈阳8月18日电 (记者 李晛)“辽台同频 文媒共声——两岸青年媒体人辽宁行”2026新闻交流活动启动仪式18日在沈阳举行。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679751.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:05:22.000Z"
-    },
-    {
-      "id": "6e3f40d3d378",
-      "title": "活力中国调研行｜福州上下杭，非遗“指尖经济”",
-      "summary": "【大河财立方 记者 张克瑶 福州报道】在茉莉花美学馆内，非遗传承人严锦华现场演示筛花、窨制，指尖翻飞间花香与茶香交融，一项传承百年的国家级非遗技艺由此变得可触可感。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679715.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:04:34.000Z"
-    },
-    {
-      "id": "1a241f600bdb",
-      "title": "广西高校科研团队研发新材料 破解养殖水体微塑料治理难题",
-      "summary": "中新网南宁8月18日电 (陆姿宇)8月18日，桂林理工大学南宁分校介绍，该校科研团队历经3年时间攻关，研发出以农业废弃物甘蔗渣为原料的复合凝胶球材料，通过“磁性改性+三维交联”双重技术路径，实现对养殖水体中微塑料的高效吸附、快速回收与循环利用，为水产养殖污染治理提供了绿色经济新方案。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679750.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:03:56.000Z"
-    },
-    {
-      "id": "67e46eee1a84",
-      "title": "受权发布|国务院关于修改《住房公积金管理条例》的决定",
-      "summary": "新华社北京8月18日电#8195;国务院关于修改《住房公积金管理条例》的决定",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679752.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:03:06.000Z"
-    },
-    {
-      "id": "bc4b23adf592",
-      "title": "好评中国｜经济新图景：以县域微活力赋能经济大循环",
-      "summary": "消费是拉动经济增长的基础性力量，县域市场则是扩大内需、畅通城乡经济循环的关键蓝海。8月18日，商务部等九部门联合印发《关于进一步激发下沉市场活力 活跃县域消费的意见》，围绕设施升级、业态创新、制度赋能、要素保障等方面打出一套政策“组合拳”，精准破解县域消费供给不足、流通不畅、服务不优的突出短板，为激活广袤下沉市场、释放县域消费潜力、夯实经济回升向好基础提…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679713.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T09:01:58.000Z"
+      "publishedAt": "2026-08-18T09:33:05.000Z"
     },
     {
       "id": "e51557f8cdba",
@@ -380,16 +410,6 @@
       "publishedAt": "2026-08-18T09:00:19.000Z"
     },
     {
-      "id": "5334ba31794b",
-      "title": "Family of missing 18-year-old hiker ‘absolutely devastated’ as search continues in rugged NSW terrain",
-      "summary": "Lily Hooper has not been seen since leaving for a hike in Nattai national park, south-west of Sydney, on 12 August Get our breaking news email , free app or daily news podcast Th…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/family-of-missing-18-year-old-hiker-absolutely-devastated-as-search-continues-in-rugged-nsw-terrain",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T08:24:00.000Z"
-    },
-    {
       "id": "4d3c4e97e696",
       "title": "Severe weather warning for northern Victoria – as it happened",
       "summary": "All the days news as it unfolded Get our breaking news email , free app or daily news podcast Chalmers calls gambling amendments ‘very substantial changes’ Treasurer Jim Chalmers…",
@@ -418,26 +438,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-18T07:34:24.000Z"
-    },
-    {
-      "id": "028da7268515",
-      "title": "Victoria moves to expand definition of ‘corruption’ before state election",
-      "summary": "Former Ibac head welcomes potential change that could capture actions that currently cannot be used to make corrupt findings Get our breaking news email , free app or daily news…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/victoria-moves-to-expand-definition-of-corruption-before-state-election-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T07:25:26.000Z"
-    },
-    {
-      "id": "60724d989562",
-      "title": "David Pocock condemns Labor-Coalition deal on gambling bill as ‘betrayal of all Australians’",
-      "summary": "Labor’s legislation to restrict gambling ads is set to pass this week, with the Greens calling the agreement ‘cowardly’ Get our breaking news email , free app or daily news podca…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/gambling-reforms-betting-ads-labor-coalition-strike-deal",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T07:11:32.000Z"
     },
     {
       "id": "06d4f3205e13",
