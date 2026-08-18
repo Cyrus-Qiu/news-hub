@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:51:10.078Z",
+  "updatedAt": "2026-08-18T22:33:33.245Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,96 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "3e28eb1a4b87",
+      "title": "Australia politics live: Hastie says fight for his seat against One Nation is already ‘dirty and nasty’; NDIS reforms to pass parliament today",
+      "summary": "Bill passed Senate on Wednesday evening and is due back in lower house today. Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Collapsing…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T22:30:10.000Z"
+    },
+    {
+      "id": "90acd5bb0ed3",
+      "title": "医师节，听听医生的心愿",
+      "summary": "(民生一线·中国医师节特别策划)",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679984.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T22:26:39.000Z"
+    },
+    {
+      "id": "fefce0c2f2dd",
+      "title": "一个被低估的减肥小技巧，后悔没早点知道！",
+      "summary": "众所周知，当我们想关心一个人，却又不知道说点什么的时候，可以发一句万能的“多喝热水”。其实，多喝水还是一个实用的体重管理小技巧。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-19/10679983.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T22:22:08.000Z"
+    },
+    {
+      "id": "27636c6eddea",
+      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
+      "summary": "Mykhailo Fedorov’s appeal is most direct challenge to Volodymyr Zelenskyy since Russian invasion in 2022 Ukraine’s recently dismissed former defence minister Mykhailo Fedorov has…",
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-18T22:21:59.000Z"
+    },
+    {
+      "id": "e1520a2742cd",
+      "title": "更好满足多样化住房消费需求 住房公积金提取和使用范围拓宽",
+      "summary": "更好满足多样化住房消费需求",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679982.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T22:16:22.000Z"
+    },
+    {
+      "id": "2ecc5a355040",
+      "title": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
+      "summary": "阿联酋外交部19日凌晨宣布，鉴于地区局势持续升级破坏了地区和国际和平与安全，阿联酋决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679981.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T22:13:30.000Z"
+    },
+    {
+      "id": "6224e9a6b0ab",
+      "title": "定制客运何以“加速跑”",
+      "summary": "截至去年底，全国开通超1.1万条服务线路，同比增长约25%——",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679980.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T22:10:54.000Z"
+    },
+    {
+      "id": "c09125bda0ec",
+      "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
+      "summary": "据韩国方面消息，在美国总统特朗普要求大幅缩减韩美联合军演规模后，韩美军方18日举行紧急会晤，决定大幅压缩正在进行的“乙支自由护盾”联合军演日程，原计划持续至27日的演习将提前至本周结束，第二阶段反击演练被取消。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679979.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T22:02:53.000Z"
+    },
+    {
+      "id": "a26eba4be2e2",
+      "title": "青海海西州直辖区发生5.6级地震 震源深度10千米",
+      "summary": "中国地震台网正式测定：8月19日5时36分在青海海西州直辖区(北纬37.81度，东经95.63度)发生5.6级地震，震源深度10千米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679978.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T21:52:58.000Z"
+    },
+    {
       "id": "83b9c7057391",
       "title": "青海海西州直辖区附近发生5.6级左右地震",
       "summary": "中国地震台网自动测定：8月19日5时36分，在青海海西州直辖区附近(北纬37.79度，东经95.60度)发生5.6级左右地震。最终结果以正式速报为准。",
@@ -40,19 +130,9 @@
       "publishedAt": "2026-08-18T21:45:10.000Z"
     },
     {
-      "id": "3e28eb1a4b87",
-      "title": "Australia politics live: NDIS reforms to pass parliament today after 63 amendments get Coalition on side",
-      "summary": "Bill passed Senate on Wednesday evening and is due back in lower house today. Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Collapsing…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T21:44:00.000Z"
-    },
-    {
       "id": "f35197fb903d",
       "title": "OpenAI announces slowing pace of development after hack by rogue agent",
-      "summary": "Amid heated race with Anthropic, firm says it’s overhauling research and training and will require greater safety parameters of AI after hack OpenAI on ⁠Tuesday said it had slowe…",
+      "summary": "Amid race with Anthropic, firm plans to overhaul research and training and require more safety parameters after hack OpenAI on ⁠Tuesday said it had slowed down the ⁠pace of ⁠its…",
       "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
       "source": "The Guardian Technology",
       "category": "AI",
@@ -370,76 +450,6 @@
       "publishedAt": "2026-08-18T14:03:19.000Z"
     },
     {
-      "id": "72236370f030",
-      "title": "2026澳门青年创新创业大赛决赛举行 推动项目对接产业资源",
-      "summary": "中新网澳门8月18日电 (记者 郑嘉伟)2026澳门青年创新创业大赛总决赛及颁奖礼18日在澳门科学馆举行。澳门项目“下一代光子—电子—自旋磁混合自学习芯片”和中国内地项目“面向高频通讯的高性能钙钛矿超显芯片材料”分获初创团队组、企业公开组冠军。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679947.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T14:02:15.000Z"
-    },
-    {
-      "id": "52edf722cfbb",
-      "title": "广州把生态修复“种”进生活：让“生态欠账”变“满城青绿”",
-      "summary": "中新网广州8月18日电 题：广州把生态修复“种”进生活：让“生态欠账”变“满城青绿”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679946.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T14:01:21.000Z"
-    },
-    {
-      "id": "2b4c5eb37f7c",
-      "title": "广西“巧女”赛巧迎七夕 百年民俗焕新韵",
-      "summary": "中新社南宁8月18日电 (记者 黄艳梅)中国民间传统节日七夕将至，一年一度的“赛巧节”18日在广西南宁市邕宁区蒲庙镇孟连村那莲街举行。当地村民纷纷在家门口“摆花台”，一件件匠心独运的手工艺品令往来游客赞叹不已。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679944.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T14:00:47.000Z"
-    },
-    {
-      "id": "4f898bcb2ef6",
-      "title": "海南成立对外投资合作协同发展联盟 助企出海",
-      "summary": "中新网海口8月18日电 (记者 王子谦)海南对外投资合作协同发展联盟18日在海口成立，旨在打造企业出海“一站式”资源对接平台，为出海企业提供出口信用保险、融资、政策咨询、专业服务等全链条服务。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679943.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:59:52.000Z"
-    },
-    {
-      "id": "9684110c0e2d",
-      "title": "章子怡到手了3个亿，不是通过演戏",
-      "summary": "中新网8月18日电(吴家驹)4年间，章子怡投的几百万，变成了3个亿。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679939.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:57:48.000Z"
-    },
-    {
-      "id": "31ac986df2fb",
-      "title": "越南青少年首访海南：“现代、好客、超出预期”",
-      "summary": "中新网海口8月18日电 (张茜翼 张芷懿)“现代、好客、超出预期。”16岁的越南女孩阮琼娇(Nguyen Quynh Giao)用三个词，定格她对海南的第一印象。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679937.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:56:10.000Z"
-    },
-    {
-      "id": "30145a56c425",
-      "title": "两只股票“涨疯了”，公司：如进一步异常上涨或申请停牌核查",
-      "summary": "中新网8月18日电(吴家驹)8月18日，爱丽家居和一鸣食品相继发布公告，提示股票交易风险。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679942.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T13:55:12.000Z"
-    },
-    {
       "id": "34820ffa3677",
       "title": "ABC sues Trump’s media regulator over demand for TV license renewals",
       "summary": "Network alleges FCC is trying to send ‘chilling message’ in retaliation for content the administration disapproves of ABC has sued the Federal Communications Commission (FCC), ar…",
@@ -490,16 +500,6 @@
       "publishedAt": "2026-08-18T11:50:40.000Z"
     },
     {
-      "id": "807f30dc1546",
-      "title": "‘Our task is to laugh at these enemies’: the Ukrainian unit posting drone videos of Russian soldiers’ last moments",
-      "summary": "Creators of chase compilations reject any moral qualms and say they show ‘death is waiting’ for those who join war To many observers they will appear dehumanising and offensive.…",
-      "url": "https://www.theguardian.com/world/2026/aug/18/ukraine-drone-chase-videos-russian-soldiers",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T11:43:23.000Z"
-    },
-    {
       "id": "86e42dbc7465",
       "title": "‘The ultimate gamers’ mascot’: Sonic the Hedgehog at 35 – from 2D to 3D to a billion-dollar film franchise",
       "summary": "Sonic’s creators explain how the speedy scamp has kept on running through generations as an enduring avatar of ‘attitude in the face of adversity’ One day in the early 1990s, I c…",
@@ -511,8 +511,8 @@
     },
     {
       "id": "7d7f4b179a12",
-      "title": "Sydney Swans will sanction players for ‘serious breach’ over sexual assault allegations",
-      "summary": "AFL club’s board meets on Tuesday night to decide penalties after league boss calls reports ‘deeply concerning’ The Sydney Swans AFL club will decide on sanctions for players for…",
+      "title": "Sydney Swans will sanction players for ‘serious breach’ over incident that led to sexual assault allegations",
+      "summary": "AFL club’s board meets on Tuesday night to decide penalties after league boss calls reports ‘deeply concerning’ Follow our Australia news live blog for latest updates Get our bre…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
