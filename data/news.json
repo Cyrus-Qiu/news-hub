@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T22:54:38.436Z",
+  "updatedAt": "2026-08-18T23:30:20.096Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,24 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "f27d94381f2c",
-      "title": "8月19日新闻早报",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-19/10679985.shtml",
+      "id": "8e42cc81bcbc",
+      "title": "市场监管部门加强商业秘密保护 助力产业创新发展",
+      "summary": "新华社北京8月18日电(记者赵怡宁)记者18日从国家市场监督管理总局了解到，近年来，市场监管部门加强商业秘密保护，助力产业创新发展。2024年至今，全国市场监管部门共查办侵犯商业秘密案件383件。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10679989.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-18T22:48:16.000Z"
+      "publishedAt": "2026-08-18T23:18:26.000Z"
+    },
+    {
+      "id": "3f176e747fd1",
+      "title": "叙利亚发现“数吨”核材料 将接受国际原子能机构监督",
+      "summary": "中新网8月19日电 综合法新社等外媒报道，当地时间18日，国际原子能机构总干事格罗西在与叙利亚过渡政府外交部长希巴尼举行的联合新闻发布会上表示，在叙方近期向该机构报告的一处地点发现数吨核材料。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679988.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T23:12:48.000Z"
     },
     {
       "id": "3e28eb1a4b87",
@@ -47,7 +57,37 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-18T22:43:37.000Z"
+      "publishedAt": "2026-08-18T23:06:41.000Z"
+    },
+    {
+      "id": "ef513a8f8603",
+      "title": "我国执业医师达529万人 居民主要健康指标达历史最好水平",
+      "summary": "今天(8月19日)是第九个中国医师节，各地医疗机构和医务工作者举行了形式多样的纪念活动。记者今天从国家卫生健康委了解到，截至2025年底，全国执业(助理)医师达到529万人，超额完成“十四五”卫生健康人才发展规划设定目标。医师队伍中研究生学历占比、本科以上学历占比、高级技术职务占比等指标，较2012年均有提升。2025年，我国医疗卫生机构总诊疗人次超10…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679987.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T22:55:32.000Z"
+    },
+    {
+      "id": "a1f42972f5c2",
+      "title": "阿联酋宣布暂停与伊朗所有贸易及金融交易",
+      "summary": "中新网8月19日电 据“海湾新闻(Gulf News)”网站报道，阿联酋外交部19日凌晨宣布，即日起阿联酋决定暂停与伊朗的所有贸易、商业往来及金融交易，恢复时间直至另行通知。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679986.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T22:54:12.000Z"
+    },
+    {
+      "id": "f27d94381f2c",
+      "title": "8月19日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-19/10679985.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-18T22:48:16.000Z"
     },
     {
       "id": "c300f3bc4ccd",
@@ -400,16 +440,6 @@
       "publishedAt": "2026-08-18T14:56:06.000Z"
     },
     {
-      "id": "8aa5c8e5cc22",
-      "title": "浑身困重提不起精神？没有胃口又不能不吃？体内湿气排不出去？长夏时节这样做！",
-      "summary": "你有没有觉得稍微活动就是满身大汗，可不活动又感觉浑身困重、提不起精神？",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-18/10679957.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T14:35:35.000Z"
-    },
-    {
       "id": "0bc9f4476f99",
       "title": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
       "summary": "Marie Ebert, Alexander Cromie and their pilot died when their aircraft crashed on island of Sifnos Greek police believe a mechanical fault may have caused a helicopter to crash m…",
@@ -418,36 +448,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-18T14:24:50.000Z"
-    },
-    {
-      "id": "241e4143eec9",
-      "title": "三部门发文优化城乡社区岗位吸纳高校毕业生就业",
-      "summary": "中新网8月18日电 据人社部网站消息，为深入贯彻党中央关于稳就业、稳企业、稳市场、稳预期决策部署，进一步优化城乡社区岗位，吸纳更多高校毕业生到基层就业，日前，人力资源社会保障部、中央社会工作部、民政部联合印发《关于优化城乡社区岗位吸纳高校毕业生就业工作的通知》(以下简称《通知》)，提出系列政策举措，全力促进更多高校毕业生到城乡社区就业，为加强基层治理体系…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679954.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T14:16:32.000Z"
-    },
-    {
-      "id": "d1658f6e1c45",
-      "title": "（投资中国）德企阿玛松增资扩产天津二期项目 拟建北方总部",
-      "summary": "中新网天津8月18日电 (记者 周亚强)阿玛松农机装备制造增资扩产二期项目签约仪式18日在天津武清开发区举行。该项目将把原有仓储销售型工厂升级为集生产、仓储、销售于一体的综合性智能制造基地，全面达产后预计年产值超2亿元人民币。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679952.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T14:03:55.000Z"
-    },
-    {
-      "id": "676ce36f77c4",
-      "title": "开局起步“十五五”：“六个之城”描绘海口新愿景",
-      "summary": "中新网海口8月18日电 (张茜翼 张芷懿)未来五年，海口将呈现怎样的图景？“自由便利开放之城、产城融合创新之城、时尚消费活力之城、低碳绿色生态之城、全龄宜居幸福之城、魅力海岛人文之城”——这六个关键词，给出清晰答案。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679949.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-18T14:03:51.000Z"
     },
     {
       "id": "34820ffa3677",
