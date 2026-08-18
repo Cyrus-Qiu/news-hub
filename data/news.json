@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:54:08.871Z",
+  "updatedAt": "2026-08-18T21:31:50.675Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -32,12 +32,22 @@
     {
       "id": "3e28eb1a4b87",
       "title": "Australia politics live: NDIS reforms to pass parliament today after 63 amendments get Coalition on side",
-      "summary": "Bill passed Senate on Wednesday evening and is due back in lower house today. Follow today’s news live Follow our breaking news email , free app or daily news podcast Good mornin…",
+      "summary": "Bill passed Senate on Wednesday evening and is due back in lower house today. Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Up to them…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-18T20:33:58.000Z"
+      "publishedAt": "2026-08-18T21:24:22.000Z"
+    },
+    {
+      "id": "f35197fb903d",
+      "title": "OpenAI announces slowing pace of development after hack by rogue agent",
+      "summary": "Firm said it was overhauling its research and training and will require greater safety parameters of AI after hack OpenAI on ⁠Tuesday said it had slowed down the ⁠pace of ⁠its ​A…",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-18T20:47:17.000Z"
     },
     {
       "id": "a17afd982358",
@@ -232,7 +242,7 @@
     {
       "id": "91ea52faa035",
       "title": "PBS should fund drug to treat breast cancer, endometriosis and gender dysphoria, experts recommend",
-      "summary": "Triptorelin, already listed for prostate cancer, should have unrestricted use, the Pharmaceutical Benefits Advisory Committee says Get our breaking news email , free app or daily…",
+      "summary": "Triptorelin, already listed for prostate cancer, should have unrestricted use, the Pharmaceutical Benefits Advisory Committee says Follow our Australia news live blog for latest…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/18/pbs-breast-cancer-endometriosis-gender-dysphoria-puberty-blocker-drug-triptorelin-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -512,7 +522,7 @@
     {
       "id": "b3035b5a495f",
       "title": "Controversial NDIS bill passes Senate with ‘substantial’ amendments as Labor and Coalition strike deal",
-      "summary": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting thousands of participants but will pass lower house on Wednesday Get our breaking news email , free ap…",
+      "summary": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting thousands of participants but will pass lower house on Wednesday Follow our Australia news live blog f…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
       "source": "The Guardian World",
       "category": "国际",
@@ -898,16 +908,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-16T15:00:29.000Z"
-    },
-    {
-      "id": "cf55d8893740",
-      "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
-      "summary": "Australia’s corporate watchdog says PM is the figure most commonly used in deepfakes to promote phoney investment opportunities Follow our Australia news live blog for latest upd…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-16T14:01:27.000Z"
     },
     {
       "id": "872f31081085",
