@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:35:45.813Z",
+  "updatedAt": "2026-08-18T17:57:54.138Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "92acefcca02f",
+      "title": "‘Can’t enjoy your pint’: Wetherspoons customers welcome ban on loud phones",
+      "summary": "Patrons at two of the chain’s London pubs were all for Tim Martin’s ban on playing music or taking calls on speaker The terrace of the Moon Under Water Wetherspoons pub in Leices…",
+      "url": "https://www.theguardian.com/business/2026/aug/18/wetherspoons-customers-welcome-ban-music-phone-calls-speaker",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-18T17:32:31.000Z"
+    },
     {
       "id": "13e062127147",
       "title": "尼泊尔和印度将联合测绘“跨境占用”土地",
@@ -1218,16 +1228,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-12T17:39:46.000Z"
-    },
-    {
-      "id": "0f441c207d96",
-      "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
-      "summary": "中國前總理朱鎔基週三在北京逝世。在1990至2000年代擔任副總理和總理期間，他主導中國經濟改革逾十年，被外界稱為中國「經濟沙皇」。",
-      "url": "https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-12T15:24:03.000Z"
     }
   ]
 }
