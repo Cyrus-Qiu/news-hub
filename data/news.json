@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:53:25.973Z",
+  "updatedAt": "2026-08-19T20:37:50.537Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "258accd4b1b7",
+      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari heli…",
+      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T20:17:39.000Z"
+    },
     {
       "id": "865639c1ca4e",
       "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
@@ -1068,16 +1078,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-14T21:03:43.000Z"
-    },
-    {
-      "id": "58df9cd8c9e4",
-      "title": "American missionary kidnapped in Niger freed after nine months",
-      "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in Octobe…",
-      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-14T14:55:17.000Z"
     },
     {
       "id": "249d961d0e0d",
