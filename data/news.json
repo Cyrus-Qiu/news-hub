@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T04:45:33.524Z",
+  "updatedAt": "2026-08-19T05:38:17.929Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,126 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "3e28eb1a4b87",
+      "title": "Australia politics live: Coalition accuses Labor of treating veterans ‘with contempt’; Victorian Liberals pledge to ‘throw open doors to gas’",
+      "summary": "Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Collapsing confidence’ in housing market, Wilson says Tim Wilson has jumped on that repo…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-19T05:28:26.000Z"
+    },
+    {
+      "id": "7889f9596b90",
+      "title": "青海海西州发生5.6级地震 水利部迅即启动水利抗震救灾调度指挥机制",
+      "summary": "中新网8月19日电 据水利部微信公众号消息，2026年8月19日5时36分，青海海西州发生5.6级地震，震源深度10千米。水利部迅即启动水利抗震救灾调度指挥机制，组织专题会商，分析研判地震对水利工程和农村供水影响，研判震区雨水情形势，安排部署水利抗震救灾工作。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680234.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T05:27:19.000Z"
+    },
+    {
+      "id": "c64dcffd9328",
+      "title": "赵乐际会见厄瓜多尔总统诺沃亚",
+      "summary": "8月19日上午，全国人大常委会委员长赵乐际在北京会见厄瓜多尔总统诺沃亚。新华社记者 刘卫兵 摄 新华社北京8月19日电 全国人大常委会委员长赵乐际8月19日上午在北京会见厄瓜多尔总统诺沃亚。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680228.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T05:21:09.000Z"
+    },
+    {
+      "id": "11a0a1b204bc",
+      "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
+      "summary": "Victorian court of appeal to consider whether triple murder and attempted murder guilty verdicts should be quashed Erin Patterson argues mushroom murder convictions should be qua…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T05:17:45.000Z"
+    },
+    {
+      "id": "d46f5fe98bce",
+      "title": "（侨乡新貌）侨乡玉林香料产业迭代升级 “驶上”全球香料新赛道",
+      "summary": "中新社广西玉林8月19日电 题：侨乡玉林香料产业迭代升级 “驶上”全球香料新赛道",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-19/10680206.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T05:10:02.000Z"
+    },
+    {
+      "id": "58780b7e169a",
+      "title": "长三角首开至京津冀电商多式联运快速班列",
+      "summary": "中新社南京8月19日电 (记者 朱晓颖)一列载有日用百货、服装饰品等电商货物的多式联运快速班列19日从江苏铁路无锡南站驶出、驶往天津铁路周李庄站，标志着长三角首开至京津冀方向的电商多式联运快速班列开行。这是华东地区首次开行直达京津冀方向的电商多式联运快速班列。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680207.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T05:08:56.000Z"
+    },
+    {
+      "id": "126e634e51a6",
+      "title": "中文架起中厄民间友谊桥",
+      "summary": "中新社北京8月19日电 题：中文架起中厄民间友谊桥",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-19/10680205.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T05:07:22.000Z"
+    },
+    {
+      "id": "da967f045683",
+      "title": "以色列指责叙利亚允许土耳其在叙空军基地部署军队",
+      "summary": "中新社北京8月19日电 综合消息：以色列总理府当地时间18日通过社交媒体发表声明，指责叙利亚允许土耳其军队部署在叙利亚阿勒颇附近的一个空军基地。土耳其方面19日予以驳斥。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680201.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T05:06:36.000Z"
+    },
+    {
+      "id": "7f0500f118ba",
+      "title": "法国将驱逐两名伊朗外交人员",
+      "summary": "中新社北京8月19日电 综合消息：法国外交部长巴罗当地时间18日称，法国将驱逐两名伊朗驻法外交人员，以回应此前两名法国外交人员在伊朗遭扣留和审讯一事。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680200.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T05:06:02.000Z"
+    },
+    {
+      "id": "f49469d6df68",
+      "title": "UK relies on heat-stressed countries for fruit and veg it could grow itself – report",
+      "summary": "Food Foundation sounds alarm over supply risks and price shocks as about 40% of Britain’s food is imported The UK is vulnerable to food price shocks because of its dependence on…",
+      "url": "https://www.theguardian.com/environment/2026/aug/19/uk-heat-stressed-countries-fruit-veg-import",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T05:00:06.000Z"
+    },
+    {
+      "id": "be32eb479932",
+      "title": "NSW judge says anti-Israel graffiti case went ‘haywire’ when vandalism was labelled antisemitic",
+      "summary": "Mohommed Farhat spray-painted slogans and torched a car in Woollahra. He pleaded guilty but supreme court judge says case appears to be a ‘miscarriage of justice’ Get our breakin…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/justice-desmond-fagan-sydney-anti-israel-graffiti-incorrectly-labelled-antisemitic-supreme-court-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T04:54:53.000Z"
+    },
+    {
+      "id": "87b5b29b7ba4",
+      "title": "A股市场投资逻辑加速转向",
+      "summary": "今天的资本市场，目光都聚焦在一台“机器人”身上。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680203.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T04:46:18.000Z"
+    },
     {
       "id": "d45c5d6b2e61",
       "title": "中新健康｜别被药盒包装忽悠了！原研药和仿制药这么选",
@@ -60,16 +180,6 @@
       "publishedAt": "2026-08-19T04:30:01.000Z"
     },
     {
-      "id": "3e28eb1a4b87",
-      "title": "Australia politics live: Victorian Liberals pledge to scrap power link to NSW and instead ‘throw open the doors to gas’",
-      "summary": "Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Collapsing confidence’ in housing market, Wilson says Tim Wilson has jumped on that repo…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-19T04:29:12.000Z"
-    },
-    {
       "id": "fc246a62f67c",
       "title": "粤港澳大湾区首次推行“关铁协同”模式 中欧班列再提速",
       "summary": "中新网广州8月19日电 (郭军 梁海棠 蔡震)8月18日，满载日用电器、服装、家具等货物的X8426次中欧班列从广州增城西货场开出。这趟班列是粤港澳大湾区首次采用“关铁协同”模式开行的中欧班列。",
@@ -78,16 +188,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-19T04:22:45.000Z"
-    },
-    {
-      "id": "11a0a1b204bc",
-      "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
-      "summary": "Victorian court of appeal to consider whether triple murder and attempted murder guilty verdicts should be quashed Erin Patterson argues mushroom murder convictions should be qua…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T04:20:18.000Z"
     },
     {
       "id": "2b6d55d2d170",
@@ -290,56 +390,6 @@
       "publishedAt": "2026-08-19T03:47:12.000Z"
     },
     {
-      "id": "5c2db9058171",
-      "title": "暑期入境游火爆 “真实的中国”圈粉全球游客",
-      "summary": "新华视点｜暑期入境游火爆 “真实的中国”圈粉全球游客",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680136.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T03:45:38.000Z"
-    },
-    {
-      "id": "92148a0a0d3d",
-      "title": "西藏自治区城市更新专题培训班在拉萨开班",
-      "summary": "中新网拉萨8月19日电 (李林)17日，由住房和城乡建设部住房改革与发展司主办、全国市长研修学院承办的西藏自治区城市更新专题培训班在拉萨正式开班。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680161.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T03:43:08.000Z"
-    },
-    {
-      "id": "ae22dedaee98",
-      "title": "广西南丹山体滑坡致5人遇难",
-      "summary": "记者19日从广西南丹县相关部门获悉，17日在南丹县芒场镇拉麻村黄祥坡屯发生的山体滑坡，5名被困人员已全部找到，均已无生命体征。目前，善后处置等后续工作有序推进，山体滑坡原因正在进一步深入调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680191.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T03:40:54.000Z"
-    },
-    {
-      "id": "8d07a7e18ffd",
-      "title": "2026年陕西省红拳公开赛落幕 助力全民健身与文化传承",
-      "summary": "中新网陕西咸阳8月19日电 (记者 张一辰)2026年陕西省红拳公开赛18日在咸阳市三原县落幕。本届赛事以“传承红拳薪火 赓续非遗华章”为主题，汇聚全国各地的78支代表队、524名运动员同台竞技，全方位展现了红拳的深厚底蕴与时代活力。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-19/10680159.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T03:40:00.000Z"
-    },
-    {
-      "id": "e1fcde1f774e",
-      "title": "海南产经新观察：聚焦产业，海口塑造高质量发展新动能",
-      "summary": "中新网海口8月19日电 (张茜翼 张芷懿)步入“十五五”，海口将产业作为高质量发展的核心支撑。在18日举行的“开局起步‘十五五’”系列主题新闻发布会海口市专场上，海口亮出产业发展“施工图”，以“五型”产业锚定新赛道，用制造业升级和精准招商打开实体新空间。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680158.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T03:38:18.000Z"
-    },
-    {
       "id": "8c821688c4de",
       "title": "Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice",
       "summary": "Allowing jurors to stay in same hotel as police and prosecution denied Patterson a fair trial, lawyers tell Victorian court of appeal Lawyers for Erin Patterson have argued that…",
@@ -348,36 +398,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-19T03:37:34.000Z"
-    },
-    {
-      "id": "24c6378bbc0a",
-      "title": "评论：护佑万家灯火，健康浙江书写共富民生新答卷",
-      "summary": "中新网杭州8月19日电(张煜欢)又是一年中国医师节。急诊室常年不灭的灯光、手术室往复起落的器械、慢病门诊里一摞摞随访档案、海岛山村中穿梭往返的巡回诊疗车……细碎而坚定的日常，定格了万千医务工作者的坚守瞬间。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-19/10680154.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T03:36:46.000Z"
-    },
-    {
-      "id": "5a9ff90f1c9c",
-      "title": "张文宏：冷藏隔夜食物若无法重新加热宁可直接丢弃",
-      "summary": "中新网上海8月19日电 (陈静 瞿乃婴)饮食安全是每年夏秋必须守住的关键一关。国家传染病医学中心主任、复旦大学附属华山医院感染科主任、复旦大学感染与健康研究院院长张文宏教授17日晚间指出：“所有冷藏隔夜食物，再次食用前要彻底高温烧透；若无法重新加热，宁可直接丢弃，切勿因节约付出健康代价。”",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-19/10680153.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T03:34:06.000Z"
-    },
-    {
-      "id": "f711164dd898",
-      "title": "“张雪机车”遭台当局查扣 国台办：不得人心",
-      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问，台媒报道，有台湾业者将大陆“张雪机车”拆解成零组件，分批输台后组装成车，遭到台经济部门查缉扣押。请问对此有何评论？",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680189.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T03:33:20.000Z"
     },
     {
       "id": "8f8317250d05",
@@ -398,16 +418,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-19T02:18:25.000Z"
-    },
-    {
-      "id": "37a5b8fbe11d",
-      "title": "‘Prepare early’: bushfire authorities sound alarm for NT, NSW and Queensland",
-      "summary": "Effects of global heating in NT worsened by ‘dangerous and fire-promoting buffel grass’, expert says Follow our Australia news live blog for latest updates Get our breaking news…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/19/bushfire-danger-risk-heightened-fire-australia-nt-nsw-queensland",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T01:00:01.000Z"
     },
     {
       "id": "2e2f5e6b08cd",
@@ -518,16 +528,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-18T15:28:57.000Z"
-    },
-    {
-      "id": "0bc9f4476f99",
-      "title": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
-      "summary": "Marie Ebert, Alexander Cromie and their pilot died when their aircraft crashed on island of Sifnos Greek police believe a mechanical fault may have caused a helicopter to crash m…",
-      "url": "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T14:24:50.000Z"
     },
     {
       "id": "34820ffa3677",
