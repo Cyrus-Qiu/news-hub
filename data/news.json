@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:37:50.537Z",
+  "updatedAt": "2026-08-19T21:33:43.895Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "f7dc350976c5",
+      "title": "Australian politics live: Penny Wong says government ‘outraged’ and will call in Israel ambassador over IDF decision not to investigate Frankcom killing",
+      "summary": "Foreign affairs minister says timing of decision was ‘especially insulting’. Follow today’s news live Get our breaking news email , free app or daily news podcast Gaming platform…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T21:14:36.000Z"
+    },
+    {
+      "id": "2e127157abc3",
+      "title": "US gross national debt tops $40tn for first time",
+      "summary": "Rising costs of social safety-net programs, military and Trump’s tax cuts strain federal government budgets The US gross national debt pile has topped $40tn ⁠for the first time,…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T20:52:16.000Z"
+    },
     {
       "id": "258accd4b1b7",
       "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
@@ -182,7 +202,7 @@
     {
       "id": "fe9eee5c9c3f",
       "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
-      "summary": "Regulator says verifiable safety measures are ‘critical’ to the online service’s viability Get our breaking news email , free app or daily news podcast Roblox has committed to ma…",
+      "summary": "Regulator says verifiable safety measures are ‘critical’ to the online service’s viability Follow our Australia news live blog for latest updates Get our breaking news email , fr…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/20/roblox-esafety-commissioner-children-adults-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -192,7 +212,7 @@
     {
       "id": "9101d3070ac0",
       "title": "A ‘shiny, dangling carrot’ lured Jesse into gambling. He says Labor’s reform won’t stop others being sucked in",
-      "summary": "The government says it’s stopping ‘the most toxic’ gambling company strategies. Former addicts say it will do ‘absolutely nothing’ Get our breaking news email , free app or daily…",
+      "summary": "The government says it’s stopping ‘the most toxic’ gambling company strategies. Former addicts say it will do ‘absolutely nothing’ Follow our Australia news live blog for latest…",
       "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/aug/20/gambling-reforms-sports-betting-addiction-vip-managers-jesse-murphy-ntwnfb",
       "source": "The Guardian World",
       "category": "商业",
@@ -202,7 +222,7 @@
     {
       "id": "459d01e4dd23",
       "title": "A fifth of older Australians who contested AI-determined home support funding got more after human review",
-      "summary": "Exclusive: Greens say department of health’s integrated assessment tool is ‘under-assessing’ far more people who may not know how to contest Get our breaking news email , free ap…",
+      "summary": "Exclusive: Greens say department of health’s integrated assessment tool is ‘under-assessing’ far more people who may not know how to contest Follow our Australia news live blog f…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/19/aged-care-support-at-home-review-ai-integrated-assessment-tool",
       "source": "The Guardian World",
       "category": "AI",
@@ -598,16 +618,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-19T09:00:12.000Z"
-    },
-    {
-      "id": "745f9bc8e658",
-      "title": "Virgin Australia apologises to disability advocate removed from flight over wheelchair motor",
-      "summary": "Shane Hryhorec’s viral video showing the interaction with flight staff has already garnered 16m views Get our breaking news email , free app or daily news podcast Virgin Australi…",
-      "url": "https://www.theguardian.com/business/2026/aug/19/virgin-australia-apologises-to-disability-advocate-removed-from-flight-over-wheelchair-motor-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T08:33:03.000Z"
     },
     {
       "id": "9831b01c1855",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-12T08:31:43.000Z"
-    },
-    {
-      "id": "a3de87b8019c",
-      "title": "台灣首度演練「斷網半小時」：戰時通訊中斷，民眾準備好了嗎？",
-      "summary": "台灣2026年「城鎮韌性演習」首次加入「斷網場景」，BBC中文記者前往台中現場直擊，了解民眾對網路降速措施的看法。",
-      "url": "https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-11T11:00:58.000Z"
     }
   ]
 }
