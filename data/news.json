@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T16:40:17.144Z",
+  "updatedAt": "2026-08-19T17:34:23.931Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,56 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "50063425df92",
+      "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
+      "summary": "Military orders criminal investigation into the death of the five-year-old and six family members in Gaza in 2024 The Israeli military admitted on Wednesday its troops had opened…",
+      "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T17:21:14.000Z"
+    },
+    {
+      "id": "aff10ed42749",
+      "title": "Volodymyr Zelenskyy sacks senior aide amid Ukraine corruption crisis",
+      "summary": "Presidential deputy chief of staff Iryna Mudra dismissed day after former defence minister called for wartime election Ukraine’s president Volodymyr Zelenskyy has fired a senior…",
+      "url": "https://www.theguardian.com/world/2026/aug/19/volodymyr-zelenskyy-sacks-senior-aide-amid-ukraine-corruption-crisis",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T17:14:02.000Z"
+    },
+    {
+      "id": "102a2530d1ff",
+      "title": "金与正：对朝美领导人近期沟通事宜一无所知",
+      "summary": "据朝中社19日报道，朝鲜劳动党中央委员会部长金与正说，对华盛顿方面关于朝美两国领导人最近进行沟通的消息，“我一无所知”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680714.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T16:51:00.000Z"
+    },
+    {
+      "id": "e7fd2feadb00",
+      "title": "受南海热带低压影响 广西沿海多个海上项目停航",
+      "summary": "中新社北海8月19日电 (张广权)受南海热带低压影响，广西沿海多个海上客运及旅游项目将于8月20日实施停航。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680713.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T16:49:16.000Z"
+    },
+    {
+      "id": "650176a1a723",
+      "title": "Is the US actually too chicken to take on China for trade?",
+      "summary": "A weak yuan guarantees Beijing massive trade surplus even as the White House tries tamp down on Chinese imports Since China offered a truce in the trade war last October followin…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-19T16:42:08.000Z"
+    },
     {
       "id": "e9f782b7785b",
       "title": "特朗普称可能在“某个时候”恢复与伊朗的谈判",
@@ -450,26 +500,6 @@
       "publishedAt": "2026-08-19T13:44:57.000Z"
     },
     {
-      "id": "a84d821a9b66",
-      "title": "港澳博士生“逐梦”山东 探寻创新创业新机遇",
-      "summary": "8月19日，山东济南，港澳博士生与山东高校、科研院所、企业洽谈，探寻创新创业新机遇。中新社记者 孙婷婷 摄 8月19日，山东济南，港澳博士生与山东高校、科研院所、企业洽谈，探寻创新创业新机遇。中新社记者 孙婷婷 摄 8月19日，山东济南，港澳博士生与山东高校、科研院所、企业洽谈，探寻创新创业新机遇。中新社记者 孙婷婷 摄 8月19日，山东济南，港澳博士生…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680645.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T13:43:54.000Z"
-    },
-    {
-      "id": "c506c8d53d7d",
-      "title": "国家文物局发文加强全国博物馆陈列展览内容审核工作",
-      "summary": "国家文物局关于进一步加强全国博物馆",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680666.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T13:42:54.000Z"
-    },
-    {
       "id": "0d65cb831095",
       "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
       "summary": "全球最大人形機械人製造商的股票於上海科創板開始交易，首天股價漲幅數以倍計。",
@@ -488,16 +518,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-19T11:50:14.000Z"
-    },
-    {
-      "id": "f06c36f59c28",
-      "title": "France’s ‘aid in dying’ law comes into effect after constitutional approval",
-      "summary": "Right to assisted dying established for patients with conditions assessed as incurable and causing unbearable pain Legislation granting incurably ill adults the right to assisted…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/france-assisted-dying-law-comes-into-effect",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T11:14:25.000Z"
     },
     {
       "id": "a8027a9508d1",
@@ -690,16 +710,6 @@
       "publishedAt": "2026-08-18T15:28:57.000Z"
     },
     {
-      "id": "4cba86b70743",
-      "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
-      "summary": "Country’s second fatal school shooting in two months took place in southern city of ⁠Zamboanga A student livestreamed himself shooting and killing another pupil in a classroom in…",
-      "url": "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-18T13:21:43.000Z"
-    },
-    {
       "id": "bd269aa88549",
       "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
       "summary": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live – latest updates Oil prices have risen again afte…",
@@ -828,16 +838,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-17T16:48:26.000Z"
-    },
-    {
-      "id": "06df00086e0c",
-      "title": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-      "summary": "Israeli PM again insists troops will not withdraw from strip until Hamas first disarms, but calls meeting constructive Benjamin Netanyahu has told Donald Trump’s son-in-law and e…",
-      "url": "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T16:42:04.000Z"
     },
     {
       "id": "01f936d7ed56",
