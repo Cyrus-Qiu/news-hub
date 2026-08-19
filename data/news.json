@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:34:23.931Z",
+  "updatedAt": "2026-08-19T17:54:35.704Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "865639c1ca4e",
+      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
+      "summary": "超過200名女性指控法國文化部高級公務員克里斯蒂安·內格雷（Christian Nègre）在求職面試時給她們下藥，讓她們小便——其中兩名女性分享了她們的經歷。",
+      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-19T17:50:11.000Z"
+    },
+    {
+      "id": "34434e14ed56",
+      "title": "Kim Jong-un’s sister casts doubt on Trump’s claims of secret US-North Korea talks",
+      "summary": "President says he plans to meet dictator this year but Kim Yo-jong says Washington remains Pyongyang’s enemy Donald Trump has said he is planning to meet North Korea’s Kim Jong-u…",
+      "url": "https://www.theguardian.com/world/2026/aug/19/kim-jong-un-sister-doubt-trump-claims-secret-us-north-korea-talks",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T17:39:56.000Z"
+    },
     {
       "id": "50063425df92",
       "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
@@ -218,16 +238,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-19T14:41:04.000Z"
-    },
-    {
-      "id": "865639c1ca4e",
-      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
-      "summary": "超過200名女性指控法國文化部高級公務員克里斯蒂安·內格雷（Christian Nègre）在求職面試時給她們下藥，讓她們小便——其中兩名女性分享了她們的經歷。",
-      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-19T14:37:24.000Z"
     },
     {
       "id": "a4e33581209b",
@@ -618,16 +628,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-19T03:47:12.000Z"
-    },
-    {
-      "id": "91227f39db8a",
-      "title": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
-      "summary": "South Korea’s joint chiefs of staff said the Ulchi Freedom Shield exercise would end on 21 August at the request of the US Analysis: In cutting joint drills, Trump has given Sout…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T02:18:25.000Z"
     },
     {
       "id": "2e2f5e6b08cd",
