@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:33:43.895Z",
+  "updatedAt": "2026-08-19T21:54:48.827Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -32,22 +32,32 @@
     {
       "id": "f7dc350976c5",
       "title": "Australian politics live: Penny Wong says government ‘outraged’ and will call in Israel ambassador over IDF decision not to investigate Frankcom killing",
-      "summary": "Foreign affairs minister says timing of decision was ‘especially insulting’. Follow today’s news live Get our breaking news email , free app or daily news podcast Gaming platform…",
+      "summary": "Foreign affairs minister says timing of decision was ‘especially insulting’. Follow today’s news live Get our breaking news email , free app or daily news podcast Australia’s gro…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-19T21:14:36.000Z"
+      "publishedAt": "2026-08-19T21:37:25.000Z"
     },
     {
       "id": "2e127157abc3",
       "title": "US gross national debt tops $40tn for first time",
-      "summary": "Rising costs of social safety-net programs, military and Trump’s tax cuts strain federal government budgets The US gross national debt pile has topped $40tn ⁠for the first time,…",
+      "summary": "Milestone marks years of government spending that grew under both Donald Trump and Joe Biden US debt reached $40tn for the first time on Wednesday, the US treasury department sai…",
       "url": "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion",
       "source": "The Guardian Business",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-19T20:52:16.000Z"
+      "publishedAt": "2026-08-19T21:24:01.000Z"
+    },
+    {
+      "id": "5413e11a0d3b",
+      "title": "Penny Wong condemns ‘insulting’ decision to clear IDF over Gaza strikes that killed Australian aid worker Zomi Frankcom",
+      "summary": "Foreign minister says Australia is ‘outraged’ after Israeli government decided not to pursue criminal proceedings over 2024 triple drone strike on humanitarian convoy Follow our…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T21:17:19.000Z"
     },
     {
       "id": "258accd4b1b7",
@@ -221,11 +231,11 @@
     },
     {
       "id": "459d01e4dd23",
-      "title": "A fifth of older Australians who contested AI-determined home support funding got more after human review",
+      "title": "A fifth of older Australians who contested automated decision on home support funding got more after human review",
       "summary": "Exclusive: Greens say department of health’s integrated assessment tool is ‘under-assessing’ far more people who may not know how to contest Follow our Australia news live blog f…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/19/aged-care-support-at-home-review-ai-integrated-assessment-tool",
       "source": "The Guardian World",
-      "category": "AI",
+      "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-19T15:00:15.000Z"
     },
@@ -578,16 +588,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-19T10:33:54.000Z"
-    },
-    {
-      "id": "0b69d2fc5fa6",
-      "title": "Catholic schools chief denies wiping critical evidence after performing factory reset on phone, Icac hears",
-      "summary": "Dallas McInerney tells inquiry he wiped data from his devices over the weekend after receiving a security warning from his bank Follow our Australia news live blog for latest upd…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/19/catholic-schools-nsw-chief-wiped-phone-icac-evidence-ntwnfb",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-19T10:25:11.000Z"
     },
     {
       "id": "f9f4cb3d6eb1",
