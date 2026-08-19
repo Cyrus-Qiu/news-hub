@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T11:33:40.737Z",
+  "updatedAt": "2026-08-19T11:55:00.412Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,76 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "2f7c685cef23",
+      "title": "中国中车上半年营收、净利同比“双增”",
+      "summary": "中新社北京8月19日电 (记者 陈康亮)中国A股上市公司中国中车股份有限公司(下称“中国中车”)19日发布公告称，2026年上半年，公司实现营业收入约1316.82亿元(人民币，下同)，同比增长9.96%；实现归属于上市公司股东的净利润约79.91亿元，同比增长10.28%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680586.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T11:53:23.000Z"
+    },
+    {
+      "id": "d5641f56c81e",
+      "title": "第八届两岸关系天府论坛在四川南充举办",
+      "summary": "中新社四川南充8月19日电 (记者 岳依桐)以“共享机遇、共增福祉”为主题的第八届两岸关系天府论坛19日在四川南充举办。近百位两岸专家学者和有关人士参加，围绕“‘十五五’建设与增进同胞福祉”“弘扬中华文化与增进正确认同”“两岸交流融合与守护共同家园”等议题进行深入探讨。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680587.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T11:52:37.000Z"
+    },
+    {
+      "id": "8111f5311cc1",
+      "title": "乞巧民俗登上飞驰的列车 广九客运段打造七夕主题文化车厢",
+      "summary": "中新网东莞8月19日电 题：乞巧民俗登上飞驰的列车 广九客运段打造七夕主题文化车厢",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680585.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T11:51:39.000Z"
+    },
+    {
+      "id": "6fef06707020",
+      "title": "社会学家沈奕斐新作《亲密由我》：“匹配”的亲密关系最健康",
+      "summary": "中新网北京8月19日电 (记者 应妮)复旦大学社会发展与公共政策学院社会学系副教授、家庭发展研究中心主任沈奕斐的新书日前《亲密由我：给成年人的性教育课》由生活·读书·新知三联书店正式出版。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680584.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T11:49:15.000Z"
+    },
+    {
+      "id": "cc741f66572b",
+      "title": "广西“00后”女列车“电气守护者”用创新护航旅客出行",
+      "summary": "中新网柳州8月19日电 题：广西“00后”女列车“电气守护者”用创新护航旅客出行",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680581.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T11:45:37.000Z"
+    },
+    {
+      "id": "185fa269acfb",
+      "title": "广西“大机医生”暑运检修忙 为旅客“保驾护航”",
+      "summary": "图为作业工人如“大机医生”般给大机设备“问诊”检修。 梁翔雄 摄 图为作业工人“钻”进大机转向架里检修车轴。林馨 摄 图为作业工人给大机零部件焊接。林馨 摄 图为作业工人在检修大机上下导槽耐磨板。林馨 摄 图为作业工人调试大机设备。林馨 摄 图为作业工人进入狭小的大机车厢内检修，汗水浸湿衣服。林馨 摄 图为作业工人给大机零部件焊接。林馨 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680567.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T11:35:26.000Z"
+    },
+    {
+      "id": "e8320f7755e0",
+      "title": "直播：中国U17女足对阵曼城U17女足 冲击三连胜",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-19/10680520.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T11:35:02.000Z"
+    },
     {
       "id": "e759537e6340",
       "title": "东西问丨短评：宇树科技IPO，杭州收获“名”与“实”",
@@ -71,7 +141,7 @@
     },
     {
       "id": "d035da396637",
-      "title": "司法部发布关于欧盟外国补贴调查相关做法构成不当域外管辖的公告",
+      "title": "司法部发布公告 认定欧盟相关做法构成不当域外管辖",
       "summary": "8月19日，司法部发布关于欧盟外国补贴调查相关做法构成不当域外管辖的公告，内容如下：",
       "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680579.shtml",
       "source": "中国新闻网",
@@ -280,36 +350,6 @@
       "publishedAt": "2026-08-19T11:02:06.000Z"
     },
     {
-      "id": "4f3024cca1ac",
-      "title": "王毅将访问韩国、印尼 外交部介绍有关情况",
-      "summary": "中新社北京8月19日电 (记者 郭超凯 谢雁冰)中国外交部发言人19日宣布：应韩国外长赵显、印尼外长苏吉约诺邀请，中共中央政治局委员、外交部长王毅将于8月19日至22日访问韩国、印尼。访问印尼期间，王毅将主持中国印尼全面战略对话机制首次会议，与国防部长董军共同出席中印尼外长防长“2＋2”对话机制第二次部长级会议。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680546.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T11:01:46.000Z"
-    },
-    {
-      "id": "bfcf9cc509b1",
-      "title": "宇树上市：王兴兴身家超千亿，梁文锋也赚翻了",
-      "summary": "中新网北京8月19日电(左雨晴) 8月19日，A股“人形机器人第一股”宇树科技正式登陆科创板，发行价为150.8元/股，收盘报845元/股，涨幅460.34%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680543.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T11:01:08.000Z"
-    },
-    {
-      "id": "dbbf655add58",
-      "title": "柚家客服回应厨房纸巾致癌物超标：相关产品已下架",
-      "summary": "中新网北京8月19日电(左雨晴) 近日，上海市市场监管局发布公告称，上海柚家科技有限公司召回旗下1500件柚家厨房纸巾，因为该批次纸巾丙烯酰胺含量过高，可能对消费者的身体健康造成伤害，消费者应立即停止使用。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680541.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T11:00:26.000Z"
-    },
-    {
       "id": "a8027a9508d1",
       "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
       "summary": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of j…",
@@ -318,46 +358,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-19T11:00:13.000Z"
-    },
-    {
-      "id": "9a2113203d8c",
-      "title": "中泰科技馆科普合作共建“倾听科学空间”亮相泰国科技展",
-      "summary": "中新网北京8月19日电 (记者 孙自法)中国科技馆8月19日向媒体发布信息说，由中国科技馆与泰国国家科技馆共同建设的“倾听科学空间”(L.I.S.T.E.N Science Space)，8月18日在泰国国家科技展上正式亮相。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680540.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T10:59:56.000Z"
-    },
-    {
-      "id": "121e7ffbfe99",
-      "title": "广西举办2026“人工智能+金融”创新应用大赛",
-      "summary": "中新网南宁8月19日电(黄艳梅 梁雨诗)2026“人工智能+金融”创新应用大赛初赛19日在广西南宁举行。赛事以“AI赋能金融合作，AI助力安全治理”为主题，海内外金融机构、科技企业、高校、科研院所和东盟国家相关机构等178支队伍展开角逐。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-19/10680538.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-19T10:59:36.000Z"
-    },
-    {
-      "id": "b828b85d9625",
-      "title": "广东首条粤沪铁海联运外贸物流新通道落地运行",
-      "summary": "中新网广州8月19日电 (许青青 关悦)据广州海关19日消息，当日，一批广东生产制造的服装、小家电等轻工产品，在上海外高桥港区码头登上国际货轮，启程出口北美市场。该批货物经广州海关所属广州车站海关监管，通过铁海联运新模式，从广州国际港运抵上海芦潮港铁路集装箱中心站后衔接远洋货轮，是广东首条粤沪铁海联运外贸物流新通道落地运行后的首批出口货物。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680537.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T10:59:06.000Z"
-    },
-    {
-      "id": "19a68adddea1",
-      "title": "剖析“周易热”现象 2026易学研究报告会举行",
-      "summary": "中新网北京8月19日电 (万家轩 张素)2026易学研究报告会近日在北京举行。与会专家学者围绕《周易》文献研究、思想内涵与当代价值开展学术交流研讨。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680536.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T10:58:41.000Z"
     },
     {
       "id": "136eea7b269e",
