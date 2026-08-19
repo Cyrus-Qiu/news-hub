@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T14:43:55.842Z",
+  "updatedAt": "2026-08-19T15:39:14.231Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,96 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "2e1ce90836b7",
+      "title": "王毅同韩国外长赵显会谈",
+      "summary": "新华社首尔8月19日电(记者张粲)中共中央政治局委员、外交部长王毅19日在首尔同韩国外长赵显举行会谈。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680701.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T15:17:22.000Z"
+    },
+    {
+      "id": "a61e6b5ff017",
+      "title": "Jaecoo owner Chery takes ‘next step’ in UK push with R&D centre",
+      "summary": "Owner of firm behind ‘Temu Range Rover’ will open facility in Bedfordshire in autumn The Chinese carmaker behind the irreverently nicknamed “Temu Range Rover” is plotting further…",
+      "url": "https://www.theguardian.com/business/2026/aug/19/chinese-carmaker-chery-to-set-up-uk-research-centre",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T15:12:36.000Z"
+    },
+    {
+      "id": "fe9eee5c9c3f",
+      "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
+      "summary": "Regulator says verifiable safety measures are ‘critical’ to the online service’s viability Get our breaking news email , free app or daily news podcast Roblox has committed to ma…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/roblox-esafety-commissioner-children-adults-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T15:00:17.000Z"
+    },
+    {
+      "id": "9101d3070ac0",
+      "title": "A ‘shiny, dangling carrot’ lured Jesse into gambling. He says Labor’s reform won’t stop others being sucked in",
+      "summary": "The government says it’s stopping ‘the most toxic’ gambling company strategies. Former addicts say it will do ‘absolutely nothing’ Get our breaking news email , free app or daily…",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/aug/20/gambling-reforms-sports-betting-addiction-vip-managers-jesse-murphy-ntwnfb",
+      "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-19T15:00:16.000Z"
+    },
+    {
+      "id": "459d01e4dd23",
+      "title": "A fifth of older Australians who contested AI-determined home support funding got more after human review",
+      "summary": "Exclusive: Greens say department of health’s integrated assessment tool is ‘under-assessing’ far more people who may not know how to contest Get our breaking news email , free ap…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/aged-care-support-at-home-review-ai-integrated-assessment-tool",
+      "source": "The Guardian World",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-19T15:00:15.000Z"
+    },
+    {
+      "id": "adf85fafc406",
+      "title": "In Big Walk, players just walk and talk – and find joy along the way: ‘Some stories we’ve heard are punch-in-the-gut beautiful’",
+      "summary": "After their hit Untitled Goose Game, Australian studio House House is back with a new game where your only goal is to go exploring with friends – so we took them on a big walk in…",
+      "url": "https://www.theguardian.com/games/2026/aug/20/in-big-walk-players-just-walk-and-talk-and-find-joy-along-the-way-some-stories-weve-heard-are-punch-in-the-gut-beautiful",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-19T15:00:14.000Z"
+    },
+    {
+      "id": "3c95660cdefc",
+      "title": "US treasury doubles debt buyback to steady bond market amid inflation fears",
+      "summary": "Yields, at recent highs this week, dropped after treasury’s vow to ‘provide greater liquidity support’ to bond market The US treasury is doubling its buyback of government debt i…",
+      "url": "https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-19T14:57:21.000Z"
+    },
+    {
+      "id": "ae2c1c0dfe78",
+      "title": "Zelenskyy sacks deputy head of his office amid reported corruption investigation – as it happened",
+      "summary": "Ukrainian anti-corruption agencies said they uncovered group responsible for money laundering $3.35m but did not name individuals involved The rise in Germany’s ⁠borrowing costs…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T14:51:09.000Z"
+    },
+    {
+      "id": "36ef4a2e63aa",
+      "title": "从拼融资到比落地，具身智能面临数据“大考”",
+      "summary": "中新网北京8月19日电(左雨晴) 近年来，具身智能无疑是科技产业最炙手可热的赛道之一。北京物联网智能技术应用协会发布的《2026具身智能产业发展洞察报告》显示，中国具身智能广义市场规模在2025年已达到9150亿元，2026年预计突破1.09万亿元。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680697.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-19T14:41:04.000Z"
+    },
+    {
       "id": "865639c1ca4e",
       "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
       "summary": "超過200名女性指控法國文化部高級公務員克里斯蒂安·內格雷（Christian Nègre）在求職面試時給她們下藥，讓她們小便——其中兩名女性分享了她們的經歷。",
@@ -50,14 +140,24 @@
       "publishedAt": "2026-08-19T14:35:01.000Z"
     },
     {
-      "id": "ae2c1c0dfe78",
-      "title": "Zelenskyy sacks deputy head of his office amid reported corruption investigation – Europe live",
-      "summary": "Ukrainian anti-corruption agencies said they uncovered group responsible for money laundering $3.35m but did not name individuals involved The rise in Germany’s ⁠borrowing costs…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates",
+      "id": "8db8f69863af",
+      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+      "summary": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back Europe live – latest updates The Spanish government has U-turne…",
+      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-19T14:24:29.000Z"
+      "publishedAt": "2026-08-19T14:33:24.000Z"
+    },
+    {
+      "id": "d2c7a1635f1d",
+      "title": "Germany’s firewall was meant to hold the far right at bay. It may have done the reverse",
+      "summary": "An AfD win in ​next month’s state election in Saxony-Anhalt would shatter a decades-long political consensus and reverberate throughout the EU • Don’t get This Is Europe delivere…",
+      "url": "https://www.theguardian.com/world/2026/aug/19/germanys-firewall-was-meant-to-hold-the-far-right-at-bay-it-may-have-done-the-reverse",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-19T14:30:13.000Z"
     },
     {
       "id": "efb1a3b1ccee",
@@ -360,26 +460,6 @@
       "publishedAt": "2026-08-19T13:32:39.000Z"
     },
     {
-      "id": "124331bff081",
-      "title": "上海欲推进6G商用 构建国际数据加工枢纽",
-      "summary": "中新社上海8月19日电 (范宇斌)上海市人民政府办公厅19日发布《上海市“数字上海”建设“十五五”规划》。规划提出，“十五五”时期，上海将推进第六代移动通信技术(6G)试验网实现智能协同并部署商用。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680662.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T13:32:05.000Z"
-    },
-    {
-      "id": "16f402adae73",
-      "title": "国泰集团7月载客量约350万人次 同比升9%",
-      "summary": "中新社香港8月19日电 国泰集团19日公布数据，今年7月集团客货运量实现同比双增长，当月国泰航空与香港快运共接载约350万人次乘客，同比增长9%；国泰货运载货量约14.9万吨，同比上升6%。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-19/10680660.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-19T13:31:17.000Z"
-    },
-    {
       "id": "0d65cb831095",
       "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
       "summary": "全球最大人形機械人製造商的股票於上海科創板開始交易，首天股價漲幅數以倍計。",
@@ -388,16 +468,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-19T12:47:27.000Z"
-    },
-    {
-      "id": "a61e6b5ff017",
-      "title": "Chinese carmaker Chery to set up UK research centre",
-      "summary": "Manufacturer whose brands include Jaecoo and Omoda will open facility in Bedfordshire in autumn The Chinese carmaker behind the irreverently nicknamed “Temu Range Rover” is plott…",
-      "url": "https://www.theguardian.com/business/2026/aug/19/chinese-carmaker-chery-to-set-up-uk-research-centre",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T12:46:40.000Z"
     },
     {
       "id": "fa4cd0de9e79",
@@ -500,16 +570,6 @@
       "publishedAt": "2026-08-19T08:33:03.000Z"
     },
     {
-      "id": "3e28eb1a4b87",
-      "title": "Defence joins search for missing bushwalker – as it happened",
-      "summary": "This blog is now closed Follow our breaking news email , free app or daily news podcast ‘Collapsing confidence’ in housing market, Wilson says Tim Wilson has jumped on that repor…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-19T07:53:30.000Z"
-    },
-    {
       "id": "9831b01c1855",
       "title": "Shares in humanoid robot firm Unitree surge 600% on Chinese stock market debut",
       "summary": "Company’s robots have gained global fame via videos of them performing martial arts and as dancers for pop stars Unitree, the world’s biggest humanoid robot maker, has made a spe…",
@@ -520,26 +580,6 @@
       "publishedAt": "2026-08-19T07:49:58.000Z"
     },
     {
-      "id": "69d563a74ee2",
-      "title": "Peta Murphy called for gambling reform three years ago. Her husband says Labor’s changes fall ‘well short’",
-      "summary": "The government’s gambling ad changes are expected to pass the Senate on Wednesday night or Thursday morning with the Coalition’s support Follow our Australia news live blog for l…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/19/peta-murphy-called-for-gambling-reform-three-years-ago-her-husband-says-labors-changes-fall-well-short",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T07:49:22.000Z"
-    },
-    {
-      "id": "5fb5e0646d64",
-      "title": "Labor thinks it can win elections defending super. For Hanson, it’s just another way to deprive Taylor of political oxygen",
-      "summary": "Despite leading in the polls, Hanson is allowed to offer thought bubbles instead of actual policy Follow our Australia news live blog for latest updates Get our breaking news ema…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/19/labor-thinks-it-can-win-elections-defending-super-for-hanson-its-just-another-way-to-deprive-taylor-of-political-oxygen",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T07:21:44.000Z"
-    },
-    {
       "id": "e1efc8e84bdc",
       "title": "In cutting joint drills, Trump has given South Korea’s president what he wants. So why is Seoul so uneasy?",
       "summary": "Lee Jae Myung has long pushed for stronger homegrown defences, yet Donald Trump’s move has sparked alarm in some quarters At their first summit , in August last year, the South K…",
@@ -548,16 +588,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-19T05:40:29.000Z"
-    },
-    {
-      "id": "f49469d6df68",
-      "title": "UK relies on heat-stressed countries for fruit and veg it could grow itself – report",
-      "summary": "Food Foundation sounds alarm over supply risks and price shocks as about 40% of Britain’s food is imported The UK is vulnerable to food price shocks because of its dependence on…",
-      "url": "https://www.theguardian.com/environment/2026/aug/19/uk-heat-stressed-countries-fruit-veg-import",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T05:00:06.000Z"
     },
     {
       "id": "08c2d1d62808",
@@ -668,16 +698,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-18T13:21:43.000Z"
-    },
-    {
-      "id": "77be12604144",
-      "title": "Reel-ing it in: Meta is paying influencers to promote teen accounts",
-      "summary": "Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered p…",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-18T13:00:47.000Z"
     },
     {
       "id": "bd269aa88549",
@@ -840,16 +860,6 @@
       "publishedAt": "2026-08-17T15:36:25.000Z"
     },
     {
-      "id": "0b08b5711737",
-      "title": "The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
-      "summary": "PlayStation 5, Xbox Series S/X, PC; Frogwares Frogwares’ Lovecraftian action-horror is full of grim tenacity and pulp paperback charm, despite a few frayed edges I’m standing in…",
-      "url": "https://www.theguardian.com/games/2026/aug/17/the-sinking-city-2-review-ukrainian-playstation-5-xbox-series-pc-frogwares",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-17T15:00:01.000Z"
-    },
-    {
       "id": "5cf8c69e0884",
       "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
       "summary": "這意味著，此次由中共中央舉辦江澤民誕辰百年紀念大會，按照中共既有的紀念規格，江澤民在官方已故領導人的紀念序列中，待遇與周恩來、劉少奇、朱德、鄧小平、陳雲等同屬一個級別，僅次於毛澤東。",
@@ -880,16 +890,6 @@
       "publishedAt": "2026-08-17T12:16:16.000Z"
     },
     {
-      "id": "a48ea8208fea",
-      "title": "New Mexico’s attorney general pushes new social media safety laws after $900m court victory over Meta",
-      "summary": "Exclusive: Raúl Torrez is drafting two bills with state lawmakers to bolster consumer protections and child safety online, building on state’s landmark case against Meta New Mexi…",
-      "url": "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-17T11:00:53.000Z"
-    },
-    {
       "id": "68cad9a0850d",
       "title": "泰國槍枝問題規模有多大？1000萬把槍",
       "summary": "泰國近期發生的槍擊事件凸顯了該國違法擁有槍支的問題，而相關法律對遏制暴力行為收效甚微。",
@@ -914,7 +914,7 @@
       "title": "Are Microsoft’s AI plans being held back by a shortage of chips?",
       "summary": "Guardian investigation finds apparent discrepancy between what tech company has said about its AI capacity – and the number of advanced chips it has in operation The chips are qu…",
       "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-      "source": "The Guardian Business",
+      "source": "The Guardian Technology",
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-17T04:00:46.000Z"
@@ -988,16 +988,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-16T10:44:03.000Z"
-    },
-    {
-      "id": "7c3a6c80a5bd",
-      "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’",
-      "summary": "Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI An activist who blocked the entrance to one of the world’s biggest…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-16T08:00:20.000Z"
     },
     {
       "id": "d38ec7f0cb30",
@@ -1140,16 +1130,6 @@
       "publishedAt": "2026-08-13T16:38:48.000Z"
     },
     {
-      "id": "bdd550553755",
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has sp…",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-13T15:17:13.000Z"
-    },
-    {
       "id": "f39851f6f388",
       "title": "「白海豚」中國暴雨持續：為何颱風災情愈來愈深入內陸地區？",
       "summary": "今年目前為止吹襲中國的最強颱風「白海豚」，於8月9日登陸後持續帶來災情，至本週仍為中國東部、中北部帶來廣泛暴雨和水災，影響範圍甚至波及內陸地區。",
@@ -1228,6 +1208,26 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-12T15:24:03.000Z"
+    },
+    {
+      "id": "dd2a9925b3ee",
+      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
+      "summary": "長崎與廣島對台灣出席原爆紀念活動的待遇明顯不同。長崎將台灣安排在使節區外，引發抗議與「中國壓力」爭議。",
+      "url": "https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-12T08:31:43.000Z"
+    },
+    {
+      "id": "a3de87b8019c",
+      "title": "台灣首度演練「斷網半小時」：戰時通訊中斷，民眾準備好了嗎？",
+      "summary": "台灣2026年「城鎮韌性演習」首次加入「斷網場景」，BBC中文記者前往台中現場直擊，了解民眾對網路降速措施的看法。",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-11T11:00:58.000Z"
     }
   ]
 }
