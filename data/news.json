@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T13:04:31.243Z",
+  "updatedAt": "2026-08-20T13:54:20.984Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,316 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "8ae6171e9c06",
+      "title": "珠江流域启动防汛Ⅳ级应急响应",
+      "summary": "中新网广州8月20日电 (记者 王坚)水利部珠江水利委员会(下称“珠江委”)20日消息称，当前，珠江流域暴雨区内发生山洪灾害和中小河流洪水风险较大。鉴于当前防御形势，珠江防总于8月20日12时启动防汛Ⅳ级应急响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681360.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:52:37.000Z"
+    },
+    {
+      "id": "46839215fcbd",
+      "title": "第四届RCEP钢铁发展大会南宁启幕 共探产业链协同新机遇",
+      "summary": "中新网南宁8月20日电 (记者 杨陈)以“借鉴与践行 宏图与红利”为主题的2026第四届RCEP钢铁发展大会，20日在广西南宁召开。来自政府部门、行业协会、科研机构、钢铁企业及产业链上下游的百余名代表齐聚一堂，共商区域钢铁产业合作新路径，共绘开放发展新图景。",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681357.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:52:23.000Z"
+    },
+    {
+      "id": "c5a4eca58b90",
+      "title": "广西财政筹措资金超4亿元 支持受灾地区农业灾后恢复和水利工程修复",
+      "summary": "中新网南宁8月20日电(韦佳秀)广西壮族自治区财政厅20日介绍，今年以来，广西持续出现强降雨天气，南宁、贵港、钦州、防城港等地发生严重洪涝、地质灾害。对此，该厅加大资金统筹力度，累计筹措落实农业防灾减灾和水利救灾资金4.58亿元(人民币，下同)，有力保障农业、水利防灾减灾救灾工作顺利开展。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681356.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:51:39.000Z"
+    },
+    {
+      "id": "3c7700aed483",
+      "title": "广东省运会乒乓球赛事收官 31枚金牌有主",
+      "summary": "中新网茂名8月20日电 (梁盛 梁晶晶 赖绮航)20日，广东省第十七届运动会竞技体育组乒乓球比赛在茂名高州市收官，深圳队实力领跑，共斩获18枚金牌，珠海队收获5枚金牌，广州队拿下4枚金牌，佛山队斩获3枚金牌，中山队摘得1枚金牌。团体总分榜单同步揭晓，深圳队以531分高居榜首，广州队、佛山队位列第二、三名，东道主茂名队获得第七名，交出不俗答卷。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681358.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:51:21.000Z"
+    },
+    {
+      "id": "7139843e00eb",
+      "title": "华裔青少年在天津沉浸式体验侨批文化",
+      "summary": "中新社天津8月20日电 (记者 孙玲玲)“看着一页页泛黄信纸，我真切读懂了汉字背后沉甸甸的情感。”参观完“纸短情长——《给阿嬷的情书》观后展”，来自德国的14岁华裔青少年傅筱乐接受中新社记者采访时如是说。",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-20/10681354.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:51:01.000Z"
+    },
+    {
+      "id": "d69d952b0a92",
+      "title": "还原“平常人”孔繁森",
+      "summary": "中新网北京8月20日电 题：还原“平常人”孔繁森",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681359.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:50:53.000Z"
+    },
+    {
+      "id": "9facbd967537",
+      "title": "广西将办第四届职业技能大赛 搭建技能人才竞技选拔平台",
+      "summary": "中新网南宁8月20日电(黄艳梅 杨樯)记者20日从广西壮族自治区人力资源和社会保障厅获悉，广西壮族自治区第四届职业技能大赛(以下简称“大赛”)将于今年11月在南宁市举行，这是广西层级最高、覆盖领域最广的综合性职业技能赛事。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681353.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:50:35.000Z"
+    },
+    {
+      "id": "e88fd6fbb67d",
+      "title": "浙江横店：短剧热度延伸至线下 游客走进片场“当主角”",
+      "summary": "中新网金华8月20日电 (刘子琳)换上戏服、走进片场、面对镜头“当主角”……正值暑期，在浙江东阳横店影视城，不少游客把“拍一部短剧”加入旅行行程。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681351.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:50:19.000Z"
+    },
+    {
+      "id": "92c2bd9467ba",
+      "title": "世界青年花样滑冰大奖赛西安站开赛 百余选手聚古都",
+      "summary": "中新社西安8月20日电 (记者 张一辰)2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站20日正式开赛，来自30余个国家和地区的百余名青年花滑选手齐聚古城西安。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681352.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:49:37.000Z"
+    },
+    {
+      "id": "e473e1298f65",
+      "title": "Travelodge boss resigns amid criticism over handling of assaults; oil price tops $93 a barrel – business live",
+      "summary": "Joanna Boydell has quit as budget hotel chain scrambles to improve safety Meanwhile, the UK’s sports fashion retailer JD Sports has slashed its profit forecasts as cost-of-living…",
+      "url": "https://www.theguardian.com/business/live/2026/aug/20/rising-uk-consumer-confidence-economy-andy-burnham-latest-news-updates",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-20T13:49:26.000Z"
+    },
+    {
+      "id": "b7bc3a05c302",
+      "title": "六国棋手“云端”对弈 2026重庆武隆“白马山杯”东南亚围棋邀请赛开幕",
+      "summary": "中新网重庆8月20日电(肖江川 王佳杰)20日，2026重庆武隆“白马山杯”东南亚围棋邀请赛在武隆白马山古力围棋学苑开幕。来自中国、老挝、马来西亚、新加坡、泰国、越南六国的围棋高手齐聚云雾缭绕的白马山巅，以棋为媒、以艺会友，展开一场跨越国界的智力对决。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:49:09.000Z"
+    },
+    {
+      "id": "7e14ad4b2392",
+      "title": "武警青海某支队开展“萌娃进军营”夏令营活动",
+      "summary": "中新网西宁8月20日电(祁增蓓)8月20日，武警青海总队某支队组织“萌娃进军营”主题夏令营活动。二十多名少年儿童走进高原军营，近距离接触军旅生活、学习国防知识，在沉浸式体验中解锁别样暑假。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681350.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:48:51.000Z"
+    },
+    {
+      "id": "845c2dbd719a",
+      "title": "赵乐际同萨尔瓦多立法大会主席卡斯特罗举行会谈",
+      "summary": "中新社北京8月20日电 全国人大常委会委员长赵乐际20日在北京人民大会堂同萨尔瓦多立法大会主席卡斯特罗举行会谈。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681362.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:48:25.000Z"
+    },
+    {
+      "id": "bbb90cd85c9f",
+      "title": "宁夏“举杯贺兰山·青年艺术季”收官 文旅消费持续升温",
+      "summary": "中新网银川8月20日电 (记者 李佩珊)8月20日晚，2026“举杯贺兰山·青年艺术季”在位于宁夏银川市的漫葡·看见贺兰演艺小镇收官。为期40天的系列文艺文旅活动汇聚全国优质文艺资源，联动全城业态拉动暑期消费，持续丰富银川文旅业态、提升城市文旅影响力。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:47:53.000Z"
+    },
+    {
+      "id": "797dee724fb1",
+      "title": "“粤港养老通”落地 跨境养老金融迈入“双轮驱动”时代",
+      "summary": "中新网广州8月20日电 (记者 郭军)“粤港养老通”业务落地推广仪式20日在广州举行，标志着这项覆盖粤港两地的跨境养老惠民服务在广东正式全面落地。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681343.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:47:39.000Z"
+    },
+    {
+      "id": "5d3710cc8768",
+      "title": "广州知识产权法院2025年先行调解成功达三千余件",
+      "summary": "中新网广州8月20日电 (记者 方伟彬)广州知识产权法院20日召开调解工作座谈会，全面梳理知识产权纠纷调解工作成效。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681344.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:47:19.000Z"
+    },
+    {
+      "id": "e8a2bd08685a",
+      "title": "中法青年湖南芷江捐赠法国解密日本侵华档案",
+      "summary": "中新网怀化8月20日电 (付敬懿 杨若兰)8月20日，法国青年马库斯、白士杰与中国青年钟灏松一行来到位于湖南芷江侗族自治县的中国人民抗日战争胜利受降纪念馆，捐赠了一批法国官方解密抗战档案扫描件，以第三方国际视角丰富芷江抗战史料馆藏，补齐湖南抗战域外史证链条。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681339.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:46:59.000Z"
+    },
+    {
+      "id": "a6195c6d17f2",
+      "title": "华裔少年穿行三秦 邂逅千年文脉",
+      "summary": "中新网西安8月20日电 题：华裔少年穿行三秦 邂逅千年文脉",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-20/10681341.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:46:45.000Z"
+    },
+    {
+      "id": "4169d79ca76b",
+      "title": "汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
+      "summary": "北京时间8月20日晚，汽车之家(NYSE：ATHM；HKEX：2518)对外披露2026年第二季度未经审计的财务业绩。本季度，公司实现总营收12亿元人民币，归属于汽车之家的经调整净利润为2.77亿元人民币。流量层面，用户基盘稳固，据QuestMobile数据，6月移动端日均用户量达7,650万，同比稳中有升；业务层面，内容影响力持续领跑，AI智能产品实现…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681338.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:46:25.000Z"
+    },
+    {
+      "id": "b01df0a70948",
+      "title": "联合国开发计划署“康养旅居可持续发展会议”在重庆江津举行",
+      "summary": "中新网重庆8月20日电(陈媛)联合国开发计划署“康养旅居可持续发展会议”暨首届江津(四面山)康养旅居产业高质量发展大会20日在重庆市江津区举行。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681340.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:46:19.000Z"
+    },
+    {
+      "id": "bf201f0679d4",
+      "title": "徐州经开区：向“新”而行 破局争先",
+      "summary": "丙午初秋，金龙湖畔清风正好。走过34年砥砺征程，站在“二次创业”接续奋斗、“十五五”破局起势的关键节点，又一场大会如约而至。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681337.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:45:29.000Z"
+    },
+    {
+      "id": "0569843bc7b0",
+      "title": "APEC海关与商界对话会举行，菜鸟集团受邀分享国际物流与AI科技经验",
+      "summary": "菜鸟集团CEO万霖在2026年亚太经合组织海关与商界对话会发言 8月20日-21日，2026年亚太经合组织(APEC)海关与商界对话会在大连举行。菜鸟集团CEO万霖作为中方企业代表在会议中发言表示，跨境电商物流已成为覆盖广、效率高、科技新的全球产业基础设施，菜鸟将继续通过AI等智能技术提升跨境物流效率、合规水平和绿色能力，助力APEC各经济体电商高质量发…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681335.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:43:53.000Z"
+    },
+    {
+      "id": "8386834c4d3f",
+      "title": "洮南绿氢耦合生物质绿色醇油一体化项目启动，上海电气开启绿色燃料产业发展新征程",
+      "summary": "8月20日，由上海绿创纪元科技有限公司投资建设的洮南市绿氢耦合生物质绿色醇油一体化项目(以下简称“洮南二期项目”)正式启动，标志着上海电气绿色燃料产业迈向高质量发展新阶段。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681334.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:43:25.000Z"
+    },
+    {
+      "id": "fbd255237d71",
+      "title": "山西灵石：男子河边洗手突发眩晕落水 消防员涉水施救",
+      "summary": "中新网晋中8月20日电 (陆祁国 周洋)一名男子在河边洗手，起身时突发眩晕落水，被湍急水流冲至下游一处河心滩后被困。8月19日，山西灵石县消防救援人员涉水穿越激流，将被困男子营救上岸。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681329.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:42:51.000Z"
+    },
+    {
+      "id": "2e2aeb61b542",
+      "title": "【“十四五”西藏发展成就网络巡礼】从“断粮村”到“富裕村”，林芝巴吉村如何走出乡村振兴之路？",
+      "summary": "中新网林芝8月20日电 (记者 朱延静)初秋的西藏林芝，尼洋河畔绿意盎然。走进巴宜区八一镇巴吉村，藏式小楼错落有致，村道整洁平坦。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681327.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:42:47.000Z"
+    },
+    {
+      "id": "2fe01fe5a7da",
+      "title": "香港国际时尚汇展9月启幕 汇聚约270个品牌、超30场时装表演",
+      "summary": "中新网香港8月20日电 (赵静怡 周弈如)香港国际时尚汇展(CENTRESTAGE)20日在港宣布，展览将于9月2日至5日在香港会议展览中心举办，将汇聚来自24个国家和地区的约270个品牌，举办超30场时装表演。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681328.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:42:13.000Z"
+    },
+    {
+      "id": "731b0aabd6b5",
+      "title": "天津发布轻医美消费提示 合法项目须过“三关”",
+      "summary": "中新网天津8月20日电 (记者 周亚强)天津市卫生健康委20日召开“季节与健康”月度新闻发布会。该委医疗卫生执法处副处长姚斋潇在会上提示，注射玻尿酸、肉毒素以及光子嫩肤、热玛吉等轻医美项目，本质均属医疗行为，并非普通生活美容，消费者应注意辨别并选择合法机构。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681325.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:41:57.000Z"
+    },
+    {
+      "id": "804c594b7bcc",
+      "title": "福建发布“十五五”文旅发展规划 多措并举深化闽台融合",
+      "summary": "中新社福州8月20日电 (叶秋云)福建省人民政府官网20日发布福建省人民政府关于印发《福建省“十五五”文化和旅游发展规划》(以下简称“规划”)的通知及规划政策解读。规划提及“深化闽台交流，探索两岸文旅融合发展新路径”，提出鼓励台湾同胞申报国家级、省级、市级、县级非遗代表性传承人。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681323.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:41:35.000Z"
+    },
+    {
+      "id": "303477b96152",
+      "title": "2026世界机器人大会：机器人技术从展示走向实用赋能千行百业",
+      "summary": "中新网北京8月20日电 (记者 孙自法)以“人机共生，产需共融”为主题的2026世界机器人大会8月19日至23日在北京举办，超6万平方米的展览上，中外373家企业及3000件创新产品集中展现机器人整机、核心零部件、产业链协同创新和多场景应用成果，广受关注。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681324.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:41:33.000Z"
+    },
+    {
+      "id": "19949509519d",
+      "title": "浙江：到2030年数字贸易进出口总额达1.2万亿元",
+      "summary": "中新社杭州8月20日电(蓝伊旎)浙江省政府新闻办20日在杭州召开新闻发布会，介绍《浙江省“十五五”建设高能级开放强省规划》(下称“规划”)有关情况。",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-20/10681322.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:41:03.000Z"
+    },
+    {
+      "id": "98c41bd54dde",
+      "title": "台胞住房公积金跨境直付业务在江苏昆山落地",
+      "summary": "中新网昆山8月20日电 (记者 钟升)据江苏省昆山市台办20日消息，台胞住房公积金跨境直付业务已于近日在当地落地。在苏州市住房公积金管理中心昆山分中心“台胞台企服务专窗”，大陆住房公积金可直接划转至台湾地区个人银行账户。这一举措在大陆尚属首次。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681320.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T13:39:41.000Z"
+    },
+    {
       "id": "29c6fd446fce",
       "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
       "summary": "Device was near country’s Neptun Deep gas platform in the Black Sea Romania’s military has destroyed a marine drone spotted just “a few hundred meters” from the Neptun Deep platf…",
@@ -37,167 +347,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-20T12:54:48.000Z"
-    },
-    {
-      "id": "816e478334f4",
-      "title": "塞尔维亚向俄罗斯寻求帮助以扑灭山火",
-      "summary": "中新网8月20日电 据路透社20日报道，塞尔维亚内政部表示，由于欧盟缺乏可用的飞机，塞尔维亚已向俄罗斯寻求帮助以扑灭山火。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681314.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:42:25.000Z"
-    },
-    {
-      "id": "9d7e5dda2764",
-      "title": "澳门经财司司长谈“三五”规划：确保经济适度多元取得实质性新进展",
-      "summary": "中新社澳门8月20日电 题：澳门经财司司长谈“三五”规划：确保经济适度多元取得实质性新进展",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681302.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:35:51.000Z"
-    },
-    {
-      "id": "dcd2b9ede52d",
-      "title": "评论：三大亮点，开启澳门“三五”新航程",
-      "summary": "中新社北京8月20日电 题：三大亮点，开启澳门“三五”新航程",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681301.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:34:41.000Z"
-    },
-    {
-      "id": "bf4dc728da9b",
-      "title": "近万平方米“机器人消费街”亮相2026世界机器人大会",
-      "summary": "中新网北京8月20日电 (许淑芳)机械臂精准拉花制咖、AI煎饼机器人3分钟出炉热乎煎饼、全自动棉花糖机器人花式出糖、DIY拼豆机器人打造专属创意作品……2026世界机器人大会19日在北京经济技术开发区(简称北京经开区，也称北京亦庄)启幕，总面积近万平方米的“机器人消费街”同步亮相。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681310.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:34:27.000Z"
+      "publishedAt": "2026-08-20T13:27:05.000Z"
     },
     {
       "id": "e675145349dd",
       "title": "Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians",
-      "summary": "Far-right minister says those convicted in military courts of terror offences will be executed after passing of death penalty law that does not apply to Israelis Israel’s far-rig…",
+      "summary": "Far-right minister says those convicted in military courts of terror offences will be executed after passing of death penalty law that does not apply to Jewish extremists Israel’…",
       "url": "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-20T12:34:11.000Z"
-    },
-    {
-      "id": "3ba24e6cbd56",
-      "title": "AI时代为什么更需要艺术？学者：艺术让每个人独一无二",
-      "summary": "中新网上海8月20日电 “为什么我们越来越需要艺术了？——‘德国当代艺术丛书’新书发布会”日前在上海举行。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681311.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:33:38.000Z"
-    },
-    {
-      "id": "ce89cc573088",
-      "title": "2026年世界清洁日全球主场活动将启幕 重点关注食物浪费",
-      "summary": "中新网绍兴8月20日电(项菁)2026年世界清洁日全球主场活动新闻发布会20日在浙江绍兴召开。该活动将于9月19日至21日在绍兴举办，目前主办方已向全球50多个国家和地区、全国100多个城市发出参会邀约。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681298.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:33:18.000Z"
-    },
-    {
-      "id": "2081ccd344bc",
-      "title": "黄河干流海拔最高水电站累计发电量突破120亿千瓦时",
-      "summary": "中新网西宁8月20日电(祁增蓓 樊晓玥)中国国家能源集团青海公司玛尔挡水电站8月20日发布消息称，截至当日，玛尔挡水电站累计发电量达120.08亿千瓦时。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681313.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:33:00.000Z"
-    },
-    {
-      "id": "2d78a2626753",
-      "title": "广东近五年累计发放互助金21.05亿元",
-      "summary": "中新网广州8月20日电 (张璐 余冰冰)据广东省总工会20日消息，截至目前，广东省互助保障在保职工超1014万人次，近五年累计发放互助金21.05亿元，惠及84.24万人次。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681297.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:32:34.000Z"
-    },
-    {
-      "id": "20ed0bba6f66",
-      "title": "四川公安捣毁一制售伪假出入境证件窝点 抓获9名犯罪嫌疑人",
-      "summary": "中新网成都8月20日电 (记者 安源)记者20日从四川省公安厅获悉，四川省公安厅出入境管理总队近日根据北京出入境边防检查总站通报线索，联合四川出入境边防检查总站，带领自贡公安出入境管理部门循线深挖发现一个提供伪造、变造出入境证件的犯罪团伙，抓获9名犯罪嫌疑人。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681312.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:32:24.000Z"
-    },
-    {
-      "id": "b109ca6f1177",
-      "title": "民歌大观走进爱的火把节 以歌声点燃民族团结的篝火",
-      "summary": "中新网昆明8月20日电 (王薇娜)有人戏称，在云南，一年365天，只要你想，几乎天天都能过大节。20日，《民歌大观》第49期节目“走进爱的火把节”在中国新闻网海内外平台播出，为全球网友带来一场火焰与歌声交织、多民族文化交融的视听盛宴。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681308.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:31:40.000Z"
-    },
-    {
-      "id": "593a0655c0ee",
-      "title": "万株珍稀植物“重生” 高黎贡山17种极小种群物种实现规模化繁育",
-      "summary": "中新网昆明8月20日电 (王临梓)20日，记者从高黎贡山国家级自然保护区泸水管护分局了解到，经过近3年持续攻关，高黎贡山泸水段极小种群野生植物繁育基地实现17种珍稀濒危及极小种群野生植物规模化扩繁，累计培育成活苗木11590株。目前，部分苗木已移栽至原生野外生境。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681309.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:31:06.000Z"
-    },
-    {
-      "id": "538e469a5c70",
-      "title": "一习话丨“培育发展新质生产力的新动能”",
-      "summary": "视频：一习话丨“培育发展新质生产力的新动能”来源：央广网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681307.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:29:00.000Z"
-    },
-    {
-      "id": "8753e2e19d6d",
-      "title": "美国警用直升机与小飞机相撞，致1人死亡",
-      "summary": "中新网8月20日电 据美联社报道，当地时间19日，美国宾夕法尼亚州一架飞机与警用直升机在小型机场跑道附近发生猛烈碰撞，飞行员不幸身亡；但当局称，直升机上的两名州警幸存了下来。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681306.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:27:22.000Z"
-    },
-    {
-      "id": "87fb6476a45c",
-      "title": "越南外交部：欢迎中方将越南纳入过境免签政策范围",
-      "summary": "越南外交部发言人范秋姮20日在例行记者会上说，越方欢迎中方将越南纳入240小时过境免签和海南30天入境免签政策适用国家范围。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681304.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:26:06.000Z"
-    },
-    {
-      "id": "ca88a8a8c74d",
-      "title": "伊朗外长回应特朗普“毁灭性经济行动”：转移美国自身危机",
-      "summary": "中新网8月20日电 据美国广播公司(ABC)报道，伊朗外交部长阿拉格奇当地时间20日回应了美国总统特朗普对德黑兰发起的“毁灭性经济行动”的威胁，他暗示美国正面临自身的经济“危机”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681303.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:25:58.000Z"
     },
     {
       "id": "186057e22fbd",
@@ -210,156 +370,6 @@
       "publishedAt": "2026-08-20T12:21:52.000Z"
     },
     {
-      "id": "c83c55b2c53b",
-      "title": "【讲习所·中国与世界】习近平：中厄自贸协定释放红利、彰显潜力",
-      "summary": "【本期导读】",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681299.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:20:18.000Z"
-    },
-    {
-      "id": "12a149e4872a",
-      "title": "“十五五”时期上海将促进数智赋能教育变革",
-      "summary": "中新网上海8月20日电 (记者 陈静)上海市教委方面20日披露，“十五五”时期，上海将促进数智赋能教育变革，推动人工智能赋能学科和科研发展，使用智能技术促进学科跃升，根据产业结构的智能升级衍生新学科增长点，建设一批新兴学科、交叉学科，探索人工智能拔尖创新人才培养新模式。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681291.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:16:10.000Z"
-    },
-    {
-      "id": "52ba5b8bbfc6",
-      "title": "中船七〇四所新一代船用旋筒风帆完成极端天气实景测试",
-      "summary": "中新网上海8月20日电 (杨海燕 李秋莹 何宝新)近日，2026年第13号台风“白海豚”影响上海。中船七〇四所利用这一窗口期，在长兴岛园区对新一代船用旋筒风帆进行了实景综合性能测试验证，取得成功。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681293.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:15:53.000Z"
-    },
-    {
-      "id": "80d8f61628b2",
-      "title": "中飞租赁与港机集团将在香港设飞机发动机快修快返平台",
-      "summary": "中新社香港8月20日电 中国飞机租赁集团控股有限公司(简称“中飞租赁”)与香港飞机工程有限公司(简称“港机集团”)20日宣布，双方日前在香港签署合作备忘录，将于香港设立飞机发动机快修快返平台与航材交易中心，共同提升区域航空服务保障水平，进一步增强航空产业链和供应链发展韧性。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681294.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:14:51.000Z"
-    },
-    {
-      "id": "8d161eedb5ee",
-      "title": "“香港电脑通讯节2026”将于8月21日揭幕",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201653.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:14:50.000Z"
-    },
-    {
-      "id": "e3f5185a02c6",
-      "title": "上市次日宇树科技大幅收跌 王兴兴最新发声",
-      "summary": "上市次日，宇树科技大幅收跌，市值蒸发超1600亿元；王兴兴今日最新发声，研判人形机器人的下一个十年",
-      "url": "https://www.chinanews.com.cn/gsztc/2026/08-20/10681290.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:14:31.000Z"
-    },
-    {
-      "id": "e09fc305ffe3",
-      "title": "秦汉古礼演绎乞巧传情 轩辕故里解锁传统节日新表达",
-      "summary": "中新网甘肃天水8月20日电 (记者 李亚龙)8月20日，在甘肃省2026年“我们的节日·七夕”省级主场系列活动“果乡七夕·文明新风”分享会上，金婚果农夫妇讲述“苹果园里的爱情故事”，分享几十年来夫妻相守、共同劳作、经营家庭的婚姻故事。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681271.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:14:11.000Z"
-    },
-    {
-      "id": "bbae870e7b08",
-      "title": "一杯咖啡唤醒中国乡村“慢时光”",
-      "summary": "中新网长沙8月20日电 题：一杯咖啡唤醒中国乡村“慢时光”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681292.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:13:39.000Z"
-    },
-    {
-      "id": "e6b0eb7fb01f",
-      "title": "“开学经济”带动校服销售 浙江湖州童装小镇赶工忙",
-      "summary": "中新网湖州8月20日电(黄彦君 吴明宪)开学季将至，在浙江省湖州市吴兴区织里镇，一家服装企业的智能化生产线全线运转，同步生产夏、秋、冬各季校服。厂房内，上千件服装在吊挂流水线上来回传送，缝纫机声此起彼伏。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681266.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:13:35.000Z"
-    },
-    {
-      "id": "534aeb8a15b5",
-      "title": "纪念孙中山先生诞辰160周年两岸青年交流活动在齐齐哈尔举行",
-      "summary": "中新网哈尔滨8月20日电(记者 王妮娜)纪念孙中山先生诞辰160周年两岸青年交流活动20日在黑龙江省齐齐哈尔市举行。来自海峡两岸的70余名青年代表齐聚一堂，共同缅怀孙中山先生，共叙两岸同胞深厚情谊。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681289.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:13:01.000Z"
-    },
-    {
-      "id": "8019e9348b92",
-      "title": "赋能上海国际金融中心建设 上海金融法院出台司法保障意见",
-      "summary": "中新网上海8月20日电 (记者 李姝徵)上海金融法院20日召开新闻发布会，发布《关于增强上海国际金融中心竞争力和影响力的司法保障意见》(以下简称《意见》)。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681259.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:13:01.000Z"
-    },
-    {
-      "id": "f16dbbdbd319",
-      "title": "兰州牛肉拉面：从“一面融九省”到“面兴天下”",
-      "summary": "中新网兰州8月20日电 (戴文昌)从首届“一面融九省”到本届“面兴天下”，兰州牛肉面的故事正在续写。甘肃省人社厅副厅长何永强20日透露，第二届“兰州银行杯”沿黄九省区兰州牛肉拉面职业技能大赛将于9月15日至16日在兰州举办，持续擦亮“兰州牛肉拉面”金字招牌。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681284.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:12:27.000Z"
-    },
-    {
-      "id": "3223484136d9",
-      "title": "宁夏银川召开服务业大会 聚力推动服务业高质量发展",
-      "summary": "中新网银川8月20日电 (记者 李佩珊)8月20日，银川市召开全市服务业大会，锚定建设“一区两地五中心”(一区：国家人工智能创新应用先导区；两地：国际旅游目的地、区域创新创业高地；五中心：区域商贸物流、科技和金融、文化教育、医疗健康、总部会展五大中心)目标任务，系统部署服务业扩能提质各项工作。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681253.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:12:25.000Z"
-    },
-    {
-      "id": "b7c4c4c1486a",
-      "title": "合肥智算集群上线",
-      "summary": "中新社合肥8月20日电 (记者 张俊)合肥词元经济生态大会20日在安徽省合肥市举行。会上，合肥智算集群正式上线，国家先进计算产业创新中心(安徽)同步启用。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681286.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:12:03.000Z"
-    },
-    {
-      "id": "cdb4cebf815e",
-      "title": "开局起步“十五五”：海南“三个层面”提升综合运输服务效能",
-      "summary": "中新网海口8月20日电 (记者 王子谦)“十五五”时期，海南将从推进全岛同城化客运、促进物流降本增效、提升口岸通关能力等三个方面提升综合运输服务效能，让群众出行更便捷、物流更高效。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681250.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T12:11:53.000Z"
-    },
-    {
       "id": "8308a3749b90",
       "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
       "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest…",
@@ -368,16 +378,6 @@
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-08-20T12:03:39.000Z"
-    },
-    {
-      "id": "e473e1298f65",
-      "title": "Travelodge boss resigns amid criticism over handling of assaults; oil price tops $93 a barrel – business live",
-      "summary": "Joanna Boydell has quit as budget hotel chain scrambles to improve safety Meanwhile, the UK’s sports fashion retailer JD Sports has slashed its profit forecasts as cost-of-living…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/20/rising-uk-consumer-confidence-economy-andy-burnham-latest-news-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-20T11:48:23.000Z"
     },
     {
       "id": "ed4744077595",
@@ -558,6 +558,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-20T00:57:42.000Z"
+    },
+    {
+      "id": "2a12b72016c5",
+      "title": "UC Berkeley professor admits to using AI to edit op-ed on students’ math skills",
+      "summary": "Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind A math professor at the University of California , Be…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-20T00:35:11.000Z"
     },
     {
       "id": "61d1d5d04189",
@@ -1028,16 +1038,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-17T04:00:46.000Z"
-    },
-    {
-      "id": "159b18c41326",
-      "title": "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
-      "summary": "Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Aust…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-17T02:58:05.000Z"
     },
     {
       "id": "72b11875ae5c",
