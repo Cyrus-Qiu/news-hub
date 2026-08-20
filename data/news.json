@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T17:38:24.252Z",
+  "updatedAt": "2026-08-20T18:52:38.742Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,24 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "896bc56b4fa1",
+      "title": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
+      "summary": "Volodymyr Zhuravlev had been consulted on Snake Island, a dramatised reconstruction of incident Earlier this month locals in Zagreb noticed something odd outside an art deco buil…",
+      "url": "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T17:41:59.000Z"
+    },
+    {
       "id": "fddd07af1645",
       "title": "Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland",
-      "summary": "Meta chief executive paid roughly £20m for gothic-style mansion built in 1830 and its surroundings It stretches the definition of pied-à-terre but Mark Zuckerberg now has a pad i…",
+      "summary": "Meta chief executive paid roughly €20m for gothic-style mansion built in 1830 and its surroundings It stretches the definition of pied-à-terre but Mark Zuckerberg now has a pad i…",
       "url": "https://www.theguardian.com/world/2026/aug/20/mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ireland",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-20T17:27:40.000Z"
+      "publishedAt": "2026-08-20T17:39:44.000Z"
     },
     {
       "id": "70d14bb69d09",
@@ -498,16 +508,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-20T11:45:21.000Z"
-    },
-    {
-      "id": "4b163c61d073",
-      "title": "More than a dozen killed as Kyiv comes under intense Russian bombardment",
-      "summary": "Missile and drone attack one of heaviest since war began, with children’s hospital and residential areas hit A heavy Russian missile and drone bombardment has killed at least 15…",
-      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T11:33:44.000Z"
     },
     {
       "id": "1180ec95546f",
