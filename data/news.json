@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T19:37:53.752Z",
+  "updatedAt": "2026-08-20T20:38:34.260Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "d3f345001290",
+      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursda…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T19:57:59.000Z"
+    },
     {
       "id": "50063425df92",
       "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
@@ -128,16 +138,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-20T16:14:59.000Z"
-    },
-    {
-      "id": "d3f345001290",
-      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursd…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T15:42:39.000Z"
     },
     {
       "id": "040c6d5a9b5a",
