@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T21:58:23.282Z",
+  "updatedAt": "2026-08-20T22:36:49.863Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -37,7 +37,27 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-20T21:42:27.000Z"
+      "publishedAt": "2026-08-20T22:29:15.000Z"
+    },
+    {
+      "id": "25abd17bc5fa",
+      "title": "开学提醒！大学新生买学生票有新变化，购票乘车攻略→",
+      "summary": "开学临近",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T22:28:50.000Z"
+    },
+    {
+      "id": "4b163c61d073",
+      "title": "More than 16 killed as Kyiv comes under intense Russian bombardment",
+      "summary": "Missile and drone attack one of heaviest since war began, with children’s hospital and residential areas hit A heavy Russian missile and drone bombardment has killed at least 16…",
+      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T22:15:02.000Z"
     },
     {
       "id": "a7db7d9fde92",
@@ -470,16 +490,6 @@
       "publishedAt": "2026-08-20T13:49:37.000Z"
     },
     {
-      "id": "b7bc3a05c302",
-      "title": "六国棋手“云端”对弈 2026重庆武隆“白马山杯”东南亚围棋邀请赛开幕",
-      "summary": "中新网重庆8月20日电(肖江川 王佳杰)20日，2026重庆武隆“白马山杯”东南亚围棋邀请赛在武隆白马山古力围棋学苑开幕。来自中国、老挝、马来西亚、新加坡、泰国、越南六国的围棋高手齐聚云雾缭绕的白马山巅，以棋为媒、以艺会友，展开一场跨越国界的智力对决。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T13:49:09.000Z"
-    },
-    {
       "id": "aa28a6cc7483",
       "title": "Their cities dropped Flock surveillance cameras. They’re still being watched",
       "summary": "Despite policy victories over Flock, Americans are finding themselves under similar monitoring by a new company – or unable to remove the original cameras Activists in Colorado t…",
@@ -528,16 +538,6 @@
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-08-20T12:03:39.000Z"
-    },
-    {
-      "id": "ed4744077595",
-      "title": "Como mayor bans bikes in city centre after being hit ‘by one of these beasts’",
-      "summary": "Alessandro Rapinese denies he is waging personal vendetta against cyclists amid a public backlash The mayor of Como has set the wheels of controversy in motion for banning bikes…",
-      "url": "https://www.theguardian.com/world/2026/aug/20/lake-como-italy-mayor-bans-bikes-city-centre-after-being-hit",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T11:45:21.000Z"
     },
     {
       "id": "1180ec95546f",
