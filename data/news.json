@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T11:35:13.937Z",
+  "updatedAt": "2026-08-20T11:57:23.010Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,166 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "2099e16f2af0",
+      "title": "周瑜雕像被泼红油漆 官方通报称违法嫌疑人已到案",
+      "summary": "中新网合肥8月20日电 (记者 赵强)安徽省庐江县文化和旅游局20日发布情况通报称，关于网友反映该县“周瑜广场周瑜雕像被泼红色油漆”一事，经核查，情况属实。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681272.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:52:36.000Z"
+    },
+    {
+      "id": "2243e71afa75",
+      "title": "安徽开展扫黑除恶首轮集中收网行动 打掉48个犯罪团伙",
+      "summary": "中新网合肥8月20日电 (记者 赵强)记者20日从安徽省公安厅获悉，该省公安机关近日开展深化扫黑除恶专项斗争第一轮集中收网行动，成功打掉各类犯罪团伙48个、抓获犯罪嫌疑人300余名，破获各类刑事案件300余起。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681244.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:52:18.000Z"
+    },
+    {
+      "id": "ca63e0056bee",
+      "title": "“上海是观察中国的重要窗口” 韩国教授把大学课堂搬到上海",
+      "summary": "中新网上海8月20日电 (李秋莹 曾子琴)从复旦大学的专题课堂到上海企业一线，韩国知名学者、汉阳大学ERICA校区全球文化通商学院研究生院主任申锺浩将“中国的全球竞争力”课程搬到了中国上海。今年暑期，他带领该校28名本科生及2名博士助教，在复旦大学开启为期两周的全中文暑期研修。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681237.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:51:56.000Z"
+    },
+    {
+      "id": "2d590bf04b62",
+      "title": "王毅与韩国国家安保室长魏圣洛举行战略对话",
+      "summary": "中新社首尔8月20日电 中共中央政治局委员、中央外办主任王毅20日在首尔与韩国国家安保室长魏圣洛举行战略对话。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681232.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:51:26.000Z"
+    },
+    {
+      "id": "c504bcfcb70b",
+      "title": "中国工信部批复浙江一民企开展卫星物联网业务商用试验",
+      "summary": "中新社北京8月20日电 中国工信部20日公布，其近日批复浙江时空道宇科技有限公司(以下简称时空道宇)开展卫星物联网业务商用试验，试验期为两年。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681233.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:50:56.000Z"
+    },
+    {
+      "id": "a128a9c94b25",
+      "title": "南宁中山路夜“迎”四方客 市井烟火带动经济升温",
+      "summary": "图为南宁市中山路游人如织。滕忠 摄 图为南宁市江边夜景。滕忠 摄 图为南宁市中山路游人如织。滕忠 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681225.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:50:56.000Z"
+    },
+    {
+      "id": "301880b80e6c",
+      "title": "台湾地区基层公职人员“九合一”选举启动",
+      "summary": "中新社台北8月20日电 (记者 朱贺)台湾地区基层公职人员“九合一”选举20日正式启动，将于11月28日举行投票，选出11051位公职人员，候选人登记时间为8月31日至9月4日。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681231.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:50:24.000Z"
+    },
+    {
+      "id": "a31aaab825e7",
+      "title": "2026拉萨半程马拉松8月23日开赛 报名热度创历史新高",
+      "summary": "中新网拉萨8月20日电 (记者 贡桑拉姆)拉萨市20日召开2026拉萨半程马拉松新闻发布会。拉萨市体育局党组书记龙刚对外公布赛事筹备进展、赛道规划及系列创新亮点。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681242.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:49:06.000Z"
+    },
+    {
+      "id": "aa9a36ca7610",
+      "title": "中哈青少年新疆研学",
+      "summary": "中新网新疆博乐8月20日电 (张家伟)参加2026年第二届中哈地方间青少年体育交流周的青少年运动员，20日走进新疆博州博乐市开展研学活动。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681240.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:48:15.000Z"
+    },
+    {
+      "id": "05c26c47a20c",
+      "title": "故宫博物院古书画临摹复制技艺展在甘肃开展",
+      "summary": "中新社兰州8月20日电 (记者 冯志军 高莹)“临古见真——故宫博物院古书画临摹复制技艺展”20日在甘肃简牍博物馆开展。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681247.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:47:39.000Z"
+    },
+    {
+      "id": "e0b8099de6f4",
+      "title": "中国机器人企业“抢滩登陆”全球市场",
+      "summary": "中新社北京8月20日电 (记者 吕少威 谢龙飞 徐婧)“中国在物理AI领域已走在世界前列，机器人量产速度与品质远超预期，发展态势堪比当年的新能源汽车产业。”日本一家投资公司负责人菲利普·洛德在正于北京举行的2026世界机器人大会现场对中新社记者说。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681230.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:47:17.000Z"
+    },
+    {
+      "id": "4dd00b9da1a5",
+      "title": "今年前7个月北京地区出口值创历史同期新高",
+      "summary": "中新社北京8月20日电 (记者 徐婧)北京海关20日发布的统计数据显示，今年前7个月北京地区(含中央在京单位，下同)货物贸易进出口总值2.12万亿元(人民币，下同)，同比(下同)增长16.3%。其中，出口3704.3亿元，创历史同期新高，增长5.1%；进口1.75万亿元，增长19.0%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681228.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:46:45.000Z"
+    },
+    {
+      "id": "41747ba18ef5",
+      "title": "沪市公司“提质增效重回报”2.0专项行动首批示范性案例亮相",
+      "summary": "中新网上海8月20日电 (高志苗)记者20日从上海证券交易所获悉，沪市公司“提质增效重回报”2.0专项行动首批示范性案例近日集中亮相，中国中车、桂冠电力、宁波港、东鹏饮料、金石资源、赛分科技、安徽合力、海尔生物、宁沪高速、老百姓、九州通等十余家沪市公司围绕经营提质、股东回报、规范治理等核心维度，亮出一份份量化可测的具体方案。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681254.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:45:33.000Z"
+    },
+    {
+      "id": "d7150b339d0f",
+      "title": "激发下沉市场活力，活跃县域消费",
+      "summary": "下沉市场覆盖城乡、连接产销、服务民生，承载着全国最广泛的消费群体，也蕴藏着最具潜力的消费需求。据媒体报道，近日，商务部等9部门联合印发《关于进一步激发下沉市场活力 活跃县域消费的意见》(下称《意见》)。《意见》聚焦县域地区和线下消费，提出18条举措，系统部署激发下沉市场活力重点工作，指导各地因地制宜活跃县域消费。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681264.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:41:37.000Z"
+    },
+    {
+      "id": "8308a3749b90",
+      "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
+      "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest…",
+      "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+      "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-20T11:38:54.000Z"
+    },
+    {
+      "id": "46451a299f33",
+      "title": "阿拉姆吉尔当选孟加拉国第23任总统",
+      "summary": "当地时间20日，孟加拉国选举委员会宣布，执政党孟加拉国民族主义党候选人阿拉姆吉尔当选孟加拉国第23任总统。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681263.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:34:45.000Z"
+    },
+    {
       "id": "4b163c61d073",
       "title": "More than a dozen killed as Kyiv comes under intense Russian bombardment",
       "summary": "Missile and drone attack one of heaviest since war began, with children’s hospital and residential areas hit Europe live – latest updates A heavy Russian missile and drone bombar…",
@@ -37,7 +197,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-20T11:27:45.000Z"
+      "publishedAt": "2026-08-20T11:33:44.000Z"
+    },
+    {
+      "id": "0425cedc1ba6",
+      "title": "获颁航天功勋奖章，张陆、武飞、张洪章是谁？",
+      "summary": "中共中央、国务院、中央军委20日决定，给张陆颁发“二级航天功勋奖章”，授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681262.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:32:57.000Z"
     },
     {
       "id": "d0158ffa5314",
@@ -78,6 +248,26 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-20T11:24:10.000Z"
+    },
+    {
+      "id": "f8c3bdb99219",
+      "title": "青海兴海：光伏产业助力清洁供暖入户",
+      "summary": "8月20日，青海兴海，航拍大唐兴海县清洁供暖配套40万千瓦光伏项目。该项目通过源网荷储就地平衡模式，以光伏发电保障电供暖负荷，年节约标煤约 22 万吨，年减少二氧化碳约 36.3 万吨，是高原高寒地区 “光伏 + 清洁供暖” 示范项目。（无人机照片）中新社记者 张忠苹 摄 8月20日，青海兴海，航拍大唐兴海县清洁供暖配套40万千瓦光伏项目。该项目通过源网…",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201641.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:19:22.000Z"
+    },
+    {
+      "id": "d5b9a7b213bd",
+      "title": "敦煌授时台加速助力长波授时信号全国土覆盖",
+      "summary": "历时三年建设，中国科学院国家授时中心在甘肃敦煌建成高精度地基授时系统敦煌授时台和监测站，目前已进入试运行阶段，随着西藏那曲授时台和新疆库尔勒授时台的相继建成，将实现高精度长波授时信号的全国土覆盖。高精度地基授时系统项目在研制过程中硕果累累，科研人员突破了高精度发播控制和脉冲时间基准反馈调节技术，以及高稳定大功率脉冲信号产生技术，实现了20纳秒的兆瓦级长波…",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201645.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T11:18:04.000Z"
     },
     {
       "id": "29c6fd446fce",
@@ -170,46 +360,6 @@
       "publishedAt": "2026-08-20T10:38:59.000Z"
     },
     {
-      "id": "511e58ca7484",
-      "title": "珠海机场国际货运口岸临时对外开放一年国际货邮吞吐破1.5万吨",
-      "summary": "中新社广东珠海8月20日电 (记者 邓媛雯)珠海机场国际货运口岸运营方珠海交通控股集团有限公司20日公布，珠海机场国际货运口岸临时对外开放满一周年，累计国际货邮吞吐量突破1.5万吨，其中51%的货物来自东莞、佛山等地的电商及制造产业带。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681209.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:38:35.000Z"
-    },
-    {
-      "id": "07c8a7ed60ad",
-      "title": "青海：清洁能源和绿色算力产业发展实现“双提升”",
-      "summary": "中新网西宁8月20日电 (李隽)“我们立足高原资源能源优势，把产业‘四地’作为建设现代化产业体系的主战场，因地制宜发展新质生产力，特色优势产业势头强劲。”青海省发展和改革委员会党组成员、副主任吴密森20日在新闻发布会上表示，青海在清洁能源和绿色算力产业发展中，“含新量”“含绿量”实现“双提升”。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681208.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:37:31.000Z"
-    },
-    {
-      "id": "8521a1999296",
-      "title": "乌克兰防空武器短缺，基辅遭空袭致13人丧生",
-      "summary": "中新网8月20日电 据英国广播公司(BBC)当地时间20日报道，乌克兰方面表示，俄罗斯最近对乌克兰首都基辅的空袭已造成至少13人死亡，40人受伤，而基辅仍然面临防空导弹短缺的问题。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681214.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:32:49.000Z"
-    },
-    {
-      "id": "2a796fc22791",
-      "title": "全斗焕的非法所得将被追回？韩国国会通过犯罪收益没收法案",
-      "summary": "中新网8月20日电 据韩媒报道，韩国法务部当地时间20日宣布，以引入独立没收制度为核心的《关于隐瞒犯罪所得的规制和处罚法》修正案已获韩国国会全体会议通过。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681213.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:30:45.000Z"
-    },
-    {
       "id": "ac6b33f602a5",
       "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
       "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-rang…",
@@ -218,146 +368,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-20T10:25:29.000Z"
-    },
-    {
-      "id": "3d051460ebb4",
-      "title": "一元人民币，告诉你们什么叫多元",
-      "summary": "这些年，一些美西方政客和媒体给中国乱扣帽子，已经到了“见字就能做文章”的程度。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-20/10681210.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:20:42.000Z"
-    },
-    {
-      "id": "15ee0082aa45",
-      "title": "海南深化改革 推动交通高质量发展",
-      "summary": "中新网海口8月20日电 (记者 王子谦)作为新时代改革开放的“试验田”，海南自贸港正在多个领域进行深层次改革，促进高质量发展。海南省发展和改革委员会副主任江洪20日在此间举行的新闻发布会上表示，将把深化改革作为推动交通高质量发展的根本动力，聚焦重点领域和关键环节持续突破。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681207.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:18:30.000Z"
-    },
-    {
-      "id": "0f81d2bb4136",
-      "title": "“首来族”过半 台青山西古建中触摸中华文明根脉",
-      "summary": "中新网太原8月20日电 题：“首来族”过半 台青山西古建中触摸中华文明根脉",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681200.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:12:22.000Z"
-    },
-    {
-      "id": "b5824a4460cf",
-      "title": "14对新人在“神州北极”漠河举行集体中式婚礼",
-      "summary": "中新网漠河8月20日电 (田德雨 邵天李)8月20日，由大兴安岭地区妇联主办、漠河市妇联承办的“北极之恋 森爱良缘”集体婚礼活动在漠河市北极村举行。来自龙江森工集团、武警大兴安岭支队及辽宁朝阳、山西太原等地的14对新人，循着传统中式婚俗礼仪，在北极漠河演绎极致浪漫。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681199.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:11:52.000Z"
-    },
-    {
-      "id": "e5d063f6b747",
-      "title": "今年上半年，海南邮政行业多项指标高于全国行业平均水平",
-      "summary": "中新网海口8月20日电 (记者 王子谦)海南省邮政管理局纪检组组长、副局长陈振权20日在海南省新闻办公室举行的新闻发布会上说，今年上半年海南省邮政行业多项指标同比快速增长，均高于全国行业平均水平。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681198.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:11:24.000Z"
-    },
-    {
-      "id": "6fecf401907f",
-      "title": "海南产经新观察：“五网融合”，构建综合立体交通体系",
-      "summary": "中新网海口8月20日电 (记者 王子谦)步入“十五五”，海南将“基本建成现代化综合交通运输体系”作为交通运输的发展目标。在20日举行的“开局起步‘十五五’”系列主题新闻发布会——《海南省“十五五”综合交通运输规划》专场上，海南官方明确，未来五年统筹推进航空、铁路、公路、水运、低空“五网融合”，构建陆海空立体衔接、全域协同高效的现代化综合交通运输体系。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681197.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:10:24.000Z"
-    },
-    {
-      "id": "6e8649ed640b",
-      "title": "APEC能源智库论坛发布报告强调能源合作是可谋求最大共识领域",
-      "summary": "中新社大连8月20日电 (记者 王梦瑶)APEC能源智库论坛8月20日在大连举行。会上发布的《中国—APEC能源合作启新程：以能源合作携手共促亚太共同繁荣》报告称，能源安全是亚太经合组织(APEC)各经济体核心关切，且多数经济体面临能源结构转型压力，能源合作一直是各经济体可以谋求最大共识的领域。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681195.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:09:54.000Z"
-    },
-    {
-      "id": "166199440022",
-      "title": "北方小城的产业新路：田间连车间，丰产又丰收",
-      "summary": "中新网乌兰察布8月20日电 题：北方小城的产业新路：田间连车间，丰产又丰收",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681202.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:09:10.000Z"
-    },
-    {
-      "id": "0f8323e66f1b",
-      "title": "2026年中华文化大乐园—英国伦敦园开园",
-      "summary": "中新网南宁8月20日电 (林浩)8月20日，广西大学介绍，2026年中华文化大乐园—英国伦敦园近日在伦敦正式开园。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681203.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:08:09.000Z"
-    },
-    {
-      "id": "a354912bde34",
-      "title": "赏非遗、购特产、观球赛 湖南苗寨“七月八”热闹开演",
-      "summary": "中新网湘西8月20日电 (张棋铭 杨昊天 陈佩瑶 邓基焱)8月19日至21日，神秘湘西赶金秋——2026年坪坝镇苗族传统“七月八”非遗民俗文化活动在湖南湘西古丈县坪坝镇溪口村举行，八方游客齐聚苗乡，共赴一场集民俗展演、非遗传习、农产品展销、乡村体育于一体的民族文化盛会。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681205.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:05:57.000Z"
-    },
-    {
-      "id": "7bbd02258425",
-      "title": "“古音·方寸·合书”跨界玻璃艺术系列活动启幕",
-      "summary": "中新网江苏昆山8月20日电 “古音·方寸·合书——跨界玻璃艺术系列活动”日前在昆山启幕。活动依托上海工艺美术职业学院“玻璃艺术——重服务强贡献计划”，以校企共建的“匠门·坔艺术空间”为实践平台，由上海工艺美术学会当代玻璃艺术委员会提供学术支持。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681206.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:05:29.000Z"
-    },
-    {
-      "id": "043e8deb10ea",
-      "title": "暑期AI研学热度攀升 青少年沉浸式解锁科技新体验",
-      "summary": "中新网杭州8月20日电(蓝伊旎)在杭州AI之城科技体验中心，12岁的练方一头戴脑机接口头环，紧盯面前的爆米花机，屏幕上的数值随着他的专注度起伏——达到特定阈值，机器便开始加热。没过几分钟，爆米花的香气飘散开来，引得研学团小伙伴们一阵欢呼。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681189.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:04:53.000Z"
-    },
-    {
-      "id": "59723487cebc",
-      "title": "今年前7个月新疆进出口总值超3352亿元",
-      "summary": "中新社乌鲁木齐8月20日电 (胡嘉琛)据乌鲁木齐海关统计，今年前7个月，新疆进出口总值3352.2亿元(人民币，下同)，同比增长4.4%。7月当月进出口值686.8亿元，同比增长70.4%。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681184.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:04:33.000Z"
-    },
-    {
-      "id": "e990847f86ef",
-      "title": "香港最新失业率为3.7%",
-      "summary": "中新社香港8月20日电 香港特区政府统计处20日公布，2026年5月至7月经季节性调整的失业率为3.7%，与上一阶段(2026年4月至6月)相同；就业不足率则由上一阶段的1.6%上升为1.7%。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681204.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T10:03:29.000Z"
     },
     {
       "id": "481263ad2070",
@@ -510,16 +520,6 @@
       "publishedAt": "2026-08-20T00:57:42.000Z"
     },
     {
-      "id": "2a12b72016c5",
-      "title": "UC Berkeley professor admits to using AI to edit op-ed on students’ math skills",
-      "summary": "Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind A math professor at the University of California, Ber…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-20T00:35:11.000Z"
-    },
-    {
       "id": "61d1d5d04189",
       "title": "More than 100 dead after goldmine collapses in Central African Republic",
       "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal…",
@@ -620,16 +620,6 @@
       "publishedAt": "2026-08-19T16:42:08.000Z"
     },
     {
-      "id": "a61e6b5ff017",
-      "title": "Jaecoo owner Chery takes ‘next step’ in UK push with R&D centre",
-      "summary": "Owner of firm behind ‘Temu Range Rover’ will open facility in Bedfordshire in autumn The Chinese carmaker behind the irreverently nicknamed “Temu Range Rover” is plotting further…",
-      "url": "https://www.theguardian.com/business/2026/aug/19/chinese-carmaker-chery-to-set-up-uk-research-centre",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T15:12:36.000Z"
-    },
-    {
       "id": "fe9eee5c9c3f",
       "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
       "summary": "Regulator says verifiable safety measures are ‘critical’ to the online service’s viability Follow our Australia news live blog for latest updates Get our breaking news email , fr…",
@@ -714,7 +704,7 @@
       "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
       "summary": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of j…",
       "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
-      "source": "The Guardian Business",
+      "source": "The Guardian Technology",
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-19T11:00:13.000Z"
@@ -890,16 +880,6 @@
       "publishedAt": "2026-08-18T09:01:05.000Z"
     },
     {
-      "id": "37be1eccc87e",
-      "title": "Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape",
-      "summary": "There are many tech irritants that are a scourge of modern life, yet we have lacked the vocabulary to describe them ... until now The “dickover” is the scourge of the modern age.…",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-18T09:00:20.000Z"
-    },
-    {
       "id": "a2c4d792e931",
       "title": "Dressmaker – a canvas for the creativity of dream dress design",
       "summary": "Co-created by a developer and his sewing-obsessed partner, this design game is ‘the most technically challenging’ its lead programmer has ever made When Jonathan Hau-Yoon wanted…",
@@ -1048,6 +1028,16 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-17T04:00:46.000Z"
+    },
+    {
+      "id": "159b18c41326",
+      "title": "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
+      "summary": "Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Aust…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-17T02:58:05.000Z"
     },
     {
       "id": "72b11875ae5c",
@@ -1228,6 +1218,16 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-12T23:22:48.000Z"
+    },
+    {
+      "id": "1641420a44ae",
+      "title": "Greenland forces Trump-linked US oil firm to delay drilling",
+      "summary": "US envoy had claimed Americans could be extracting crude by as early as next year Greenland authorities have forced a US oil company connected to Donald Trump to postpone drillin…",
+      "url": "https://www.theguardian.com/world/2026/aug/12/trump-greenland-oil",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-12T18:00:41.000Z"
     }
   ]
 }
