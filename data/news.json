@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T08:50:21.944Z",
+  "updatedAt": "2026-08-20T09:43:39.281Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,64 +30,364 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "e6050589fae8",
-      "title": "江苏苏州：京杭大运河水位回落 再现输运繁忙景象",
+      "id": "19555fa26026",
+      "title": "商务部回应美炮制所谓“影子转运网络”虚假叙事",
+      "summary": "中新网8月20日电 商务部新闻发言人何亚东在20日举行的例行新闻发布会上表示，美方《大规模转运骗局：兴起、规模与成本》报告罔顾事实、颠倒黑白，将正常的国际贸易投资诬称为“骗局”，炮制所谓“影子转运网络”的虚假叙事，这是典型的单边主义和保护主义做法，旨在打压封堵中国产品。中方对此强烈不满、坚决反对。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681069.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:32:03.000Z"
+    },
+    {
+      "id": "617fe9301b75",
+      "title": "“蜀都赋——乡情、经略与遥想中的益州万象”特展在成都开展",
+      "summary": "图为观众参观展览。中新社记者 安源 摄 图为观众参观展览。中新社记者 安源 摄 图为展览展出的新都博物馆收藏的东汉“市集画像砖”。中新社记者 安源 摄 图为观众购买文创产品。中新社记者 安源 摄 图为观众参观展览。中新社记者 安源 摄 图为观众参观展览。中新社记者 安源 摄 图为观众体验智能蜀锦织造。中新社记者 安源 摄 图为观众参观展览。中新社记者 安…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681144.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:25:07.000Z"
+    },
+    {
+      "id": "9d3d99ea3165",
+      "title": "多彩民族有多彩丨把“出海口”搬到家门口，5万多吨“贵州造”搭乘中欧班列出山",
+      "summary": "视频：多彩民族有多彩丨把“出海口”搬到家门口，5万多吨“贵州造”搭乘中欧班列出山来源：动静新闻客户端",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-20/10681179.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:24:37.000Z"
+    },
+    {
+      "id": "3256a7fce435",
+      "title": "Drug-dealing, makeshift weapons and a ‘culture of fear’ at Villawood detention centre, report warns",
+      "summary": "Prolonged detention of children, insufficient staffing and hazardous damage to buildings are among the ombudsman’s concerns Follow our Australia news live blog for latest updates…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/villawood-detention-centre-conditions-report-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T09:23:42.000Z"
+    },
+    {
+      "id": "29c6fd446fce",
+      "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
+      "summary": "Zelenskyy says Russia had been preparing for a long time, combining different types of missiles Ukraine’s UK ambassador and former army chief Valerii Zaluzhnyi also called for Uk…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T09:23:42.000Z"
+    },
+    {
+      "id": "4f94725f03ee",
+      "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统",
+      "summary": "。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681178.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:22:54.000Z"
+    },
+    {
+      "id": "ecac360fab85",
+      "title": "韩国总统李在明会见王毅",
+      "summary": "中新社首尔8月20日电 韩国总统李在明20日在首尔青瓦台会见中共中央政治局委员、外交部长王毅。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681169.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:19:44.000Z"
+    },
+    {
+      "id": "ecb88bf4d442",
+      "title": "Missing teen hiker Lily Hooper found dead as NSW police apologise for miscommunication ‘born of elation’",
+      "summary": "Initial report from ‘thick and dense terrain’ where Hooper was located was she had been found alive but within 10 minutes a ‘more accurate account’ was relayed to police Follow o…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T09:17:45.000Z"
+    },
+    {
+      "id": "a50803e700ef",
+      "title": "抖音客服服务升级：从“聊天指引”到“卡片即办理”，让用户办事更省心",
+      "summary": "近日，抖音客服面向用户上线智能服务新能力，在涉及资料递交、升级办理的咨询场景中，将传统的聊天式文字指引升级为“办理卡片”。用户与客服沟通时，可直接收到一张办理卡片，一次性呈现办理流程、所需材料与审核进度，实现“卡片即办理”，降低服务理解成本与沟通成本，提升办事的确定性与透明度。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681163.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:15:18.000Z"
+    },
+    {
+      "id": "205b3536bbcd",
+      "title": "拼多多雄安公司员工规模突破4000人，加快落地更多业务场景",
+      "summary": "8月20日消息，拼多多雄安公司员工规模正式突破4000人，专项招聘计划已完成逾80%，全国数字产业人才加速奔赴雄安，持续为新区数字经济产业发展注入澎湃动能。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681160.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:13:30.000Z"
+    },
+    {
+      "id": "7dac30214746",
+      "title": "体验豆包技能上新：手机遥控，电脑干活",
+      "summary": "近日，豆包一批功能上新，围绕AI生产力，其“工作任务”新增支持本地电脑、云电脑双模式，技能和连接器功能让AI效率大大提升，本地电脑模式还支持手机远程操作，并在Windows系统独家推出虚拟桌面功能，和用户操作互不干扰。让我们率先体验一下看看怎么回事？",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681162.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:12:52.000Z"
+    },
+    {
+      "id": "c5ad00ef52ef",
+      "title": "南海热带低压持续影响 海南拉响多个预警",
+      "summary": "中新网海口8月20日电 (记者 王子谦)南海热带低压20日白天持续影响海南岛，海南省多部门接连发布多个预警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681159.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:10:06.000Z"
+    },
+    {
+      "id": "b7f219eab707",
+      "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
+      "summary": "新华社北京8月20日电",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681161.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:09:46.000Z"
+    },
+    {
+      "id": "b5e34aba70af",
+      "title": "广东打造全省网络客运聚合平台",
+      "summary": "中新网广州8月20日电 (记者 蔡敏婕)广东省交通运输厅20日发布消息称，广东省网络客运聚合平台当天上线运行，即日起城际出行“一键直达”。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681158.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:09:28.000Z"
+    },
+    {
+      "id": "ac53a5758245",
+      "title": "秦腔名家扬州艺术交流会：“水袖皇后”齐爱云亲授水袖绝技",
+      "summary": "中新网扬州8月20日电 (徐珊珊 崔佳明)8月20日下午，扬州运河大剧院多功能厅举行秦韵扬声·戏脉相融——戏曲名家艺术交流会暨《秦腔经典专场》巡演剧组见面会，活动以“秦腔绝技·‘主角’登场”为主题。中国戏剧梅花奖、白玉兰奖得主、秦腔四大名旦之一、“水袖皇后”齐爱云，与梅花奖获得者、秦腔名小生张涛，以及热播电视剧《主角》中“周师”饰演者、秦腔名家同超联袂亮…",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681153.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:08:32.000Z"
+    },
+    {
+      "id": "4310104a1eb6",
+      "title": "商务部：中国已成为厄瓜多尔第二大贸易伙伴",
+      "summary": "中新网8月20日电 商务部新闻发言人何亚东在20日举行的例行新闻发布会上表示，近年来，中国与厄瓜多尔政治互信日益巩固，务实合作成果丰硕。中厄自贸协定生效两年多来，双边贸易额快速增长，今年上半年达98.3亿美元，同比增速超过20%，中国已成为厄瓜多尔第二大贸易伙伴。双方还在基础设施、能矿领域开展了卓有成效的合作。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681053.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:08:28.000Z"
+    },
+    {
+      "id": "a217af9cfef5",
+      "title": "受热带低压影响 海口“三港”停运",
+      "summary": "中新网海口8月20日电 (记者 王子谦)海口市交通运输局20日16时发布通告称，受热带低压影响，海口新海港、秀英港和铁路南港已于当日16时停运，预计停运将持续至8月21日早上(具体复运时间视气象情况而定)。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681154.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T09:08:10.000Z"
+    },
+    {
+      "id": "7cec26ac598a",
+      "title": "2026世界机器人大赛总决赛赛况正酣",
       "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201621.shtml",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201630.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-20T08:41:46.000Z"
+      "publishedAt": "2026-08-20T09:07:46.000Z"
     },
     {
-      "id": "0e4a8265d23a",
-      "title": "陕西反强拆致人死亡案宣判，法不能向不法让步",
-      "summary": "备受关注的陕西咸阳张恒反强拆致人死亡案尘埃落定。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681134.shtml",
+      "id": "d1d871afc040",
+      "title": "上海地铁票价机制优化听证方案公布",
+      "summary": "地铁票价机制优化听证方案公布",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681156.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-20T08:40:04.000Z"
+      "publishedAt": "2026-08-20T09:07:04.000Z"
     },
     {
-      "id": "1024dbabeaf7",
-      "title": "山西晋中出台极端天气应对条例 10月1日起实施",
-      "summary": "图为新闻发布会现场。耿新洲 摄 中新网晋中8月20日电(高雨晴 杨杰英)“当前正值‘七下八上’防汛关键期，条例的出台恰逢其时，为晋中市科学有效防范处置极端天气、做好主汛期防汛减灾工作提供了有力法治支撑。”山西省晋中市人大常委会副主任李军19日表示。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681129.shtml",
+      "id": "a016bce24d84",
+      "title": "“中国新疆，我还会再来”——海外高校教师参访新疆侧记",
+      "summary": "外眼看新疆丨“中国新疆，我还会再来”——海外高校教师参访新疆侧记",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681152.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-20T08:38:34.000Z"
+      "publishedAt": "2026-08-20T09:04:42.000Z"
     },
     {
-      "id": "f9f08dbc4a02",
-      "title": "日本民众举行抗议集会 反对高市扩军修宪动向",
-      "summary": "近期日本媒体曝出2027财年日本防卫费预算申请方案中，防卫费相关总体预算预计将可能达到10万亿日元规模。19日，日本民众在日本国会议事堂前举行抗议集会，反对高市政权增加防卫支出。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681133.shtml",
+      "id": "e89eaa0c83ea",
+      "title": "商务部：今年前7个月我国进口增长22%，超大规模市场潜力持续释放",
+      "summary": "中新网8月20日电 商务部8月20日召开新闻发布会。会上，商务部新闻发言人何亚东表示，今年前7个月，我国进口增长22%，保持了良好增长势头，我国自150多个贸易伙伴的进口实现正增长。这些数字的背后，是中国超大规模市场潜力的持续释放，彰显中国市场的韧性和活力。具体表现在两方面：",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681050.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-20T08:38:08.000Z"
+      "publishedAt": "2026-08-20T09:02:31.000Z"
     },
     {
-      "id": "7f6a2bf8119b",
-      "title": "警惕毒誓营销陷阱 “5天根治神药”实为消字号产品",
-      "summary": "图：网购产品外包装标注“本品不能代替药品”。 “内痔外痔混合痔，5天彻底根治！”“痛风、风湿、类风湿，5天彻底根治！”……近日，此类宣称“5天根治”的“神药”直播密集出现在短视频平台。主播以“祖传秘方”“专利证书”为人设背书，以“毒誓”营销替代科学证据，辅以限时限量、倒计时、恢复原价等话术诱导消费者下单。《中国消费者报》记者调查发现，所谓“5天根治”的“…",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-20/10681132.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:36:31.000Z"
+      "id": "c797ced99cca",
+      "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
+      "summary": "Improvements in fire management however could mitigate increases by more than 70%, study shows Wildfires are projected to burn 39% more of Europe by the end of the century even i…",
+      "url": "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T09:01:47.000Z"
     },
     {
-      "id": "ae82e1b8569f",
-      "title": "南海热带低压影响广东 多地遭遇暴雨",
-      "summary": "中新网广州8月20日电 (记者 王坚)据广东省气象局20日消息，受南海热带低压影响，20日至22日，全省南部市县有大雨到暴雨局部大暴雨；海上作业和交通航行、海岛和滨海旅游注意做好安全防范措施，及时避风。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681128.shtml",
+      "id": "ea053be11c68",
+      "title": "多彩民族有多彩丨张骞“迟到”了？这粒种子“剧透”了中原与西域的民族交融",
+      "summary": "8月17日，伊犁哈萨克自治州博物馆。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-20/10681150.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-20T08:36:15.000Z"
+      "publishedAt": "2026-08-20T09:01:21.000Z"
+    },
+    {
+      "id": "9043d1ff0525",
+      "title": "台灣為何此刻提出「鞭刑入法」公投？",
+      "summary": "關於鞭刑的討論已在台灣醞釀了近十年，尤其在重大刑案發生後，民眾不滿刑罰不足，主張仿效新加坡制度。最新民調顯示約八成台灣人贊同政府評估鞭刑，人權團體與法律界則批評此舉違反國際人權標準。",
+      "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:57:23.000Z"
+    },
+    {
+      "id": "5351563a64a1",
+      "title": "千亩白莲兴产业 江西青原同心共绘振兴画卷",
+      "summary": "中新网江西吉安8月20日电(付丽玲 高先长 李鑫晨)八月时节，走进江西省吉安市青原区东固畲族乡螺坑村，千亩莲田碧波翻涌，粉白荷花次第绽放。一旁的白莲加工厂房内，畲汉村民围坐分工，指尖翻飞间分拣着新鲜莲子，笑语此起彼伏。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-20/10681147.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:57:21.000Z"
+    },
+    {
+      "id": "db1e00760a87",
+      "title": "从开幕式到免费观赛 读懂小城琼海“破界”之道",
+      "summary": "中新网琼海8月20日电 题：从开幕式到免费观赛 读懂小城琼海“破界”之道",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681149.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:55:47.000Z"
+    },
+    {
+      "id": "06c7cda5c887",
+      "title": "内蒙古自贸试验区激活口岸城市跨境往来及贸易",
+      "summary": "中新社内蒙古二连浩特8月20日电 (记者 李爱平)外国患者就医顺畅、外国游客支付便利、中外游客跨境旅游购物更方便……中国(内蒙古)自由贸易试验区(简称：内蒙古自贸试验区)揭牌以来，中国北方口岸城市二连浩特发生了不小的变化。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681142.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:53:24.000Z"
+    },
+    {
+      "id": "2af90a9ba2f7",
+      "title": "高市政府危险动向引多方担忧 上万日本民众举行抗议集会",
+      "summary": "中新网8月20日电 近期，高市政府加速扩军备武，持续大幅扩充军费、放宽杀伤性武器出口、推动修改和平宪法。与此同时，高市本人对日本未来是否继续坚持“无核三原则”一再含糊其辞，相关危险动向持续引发日本国内和平团体和民众担忧和抗议。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681148.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:53:14.000Z"
+    },
+    {
+      "id": "9941127328f1",
+      "title": "美炮制所谓“影子转运网络”虚假叙事 中国商务部回应",
+      "summary": "中新社北京8月20日电 (记者 尹倩芸)针对美炮制所谓“影子转运网络”虚假叙事，中国商务部新闻发言人何亚东20日在例行新闻发布会上表示，这是典型的单边主义和保护主义做法，旨在打压封堵中国产品。中方对此强烈不满、坚决反对。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681143.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:52:08.000Z"
+    },
+    {
+      "id": "9edd9509c0ab",
+      "title": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
+      "summary": "South Australian premier Peter Malinauskas says there have still been no detections in poultry or livestock and no mass deaths involving mammals Get our breaking news email , fre…",
+      "url": "https://www.theguardian.com/world/2026/aug/20/more-than-1000-birds-found-dead-in-three-mass-mortality-events-amid-significant-h5-escalation-in-australia",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T08:51:39.000Z"
+    },
+    {
+      "id": "44a8e2394d8f",
+      "title": "北京动物园大熊猫“白天”喜迎八岁生日",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201626.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:51:17.000Z"
+    },
+    {
+      "id": "24692a281681",
+      "title": "40万亿美元！狂飙的美债如何危害全球",
+      "summary": "新华社北京8月20日电(记者于荣)美国联邦政府债务规模再次突破历史性整数节点。美国财政部19日公布的数据显示，美债总额首次突破40万亿美元，比去年美国国内生产总值(GDP)还多出近10万亿美元，意味着每名美国人背负约11.6万美元债务。美债增长失控，不仅暴露美国财政深层次结构性问题，更通过美元霸权向外输出风险，对全球金融稳定与世界经济复苏构成持续威胁。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681145.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:50:58.000Z"
+    },
+    {
+      "id": "8beb988d1256",
+      "title": "广州市留学人员服务阵地“海归园”启动运营",
+      "summary": "中新网广州8月20日电 (记者 蔡敏婕)广州市委统战部20日发布消息称，广州市留学人员服务阵地“海归园”启动运营。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681139.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:50:56.000Z"
+    },
+    {
+      "id": "3e423b124bc4",
+      "title": "人机共生向新而行 2026世界机器人大会勾勒具身智能产业全景",
+      "summary": "中新网北京8月20日电 (记者 吕少威 谢龙飞)2026世界机器人大会正在北京进行中。本届大会以“人机共生 产需共融”为主题，集中展示全球机器人与人工智能领域的技术创新与应用落地成果。纵观本届大会，国内机器人产业正呈现出底层技术突破、整机场景渗透、产业生态完善、海外市场拓展同步发力的态势，具身智能正从概念逐步走向生产与生活的真实场景。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681138.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:50:34.000Z"
+    },
+    {
+      "id": "ccdf4b6cc1a3",
+      "title": "专家：高额预算和扩编并举 日本扩军野心难掩",
+      "summary": "19日，多家日媒曝光日本防卫省2027年度申请预算全貌。日本大幅提升防卫预算，大力发展进攻性力量。此外，据日本方面18日消息，日本防卫省计划于2027年实施大规模扩编，新设3个部门。而对外，日本与澳大利亚持续强化防务合作，此次双方将合作范围从护卫舰进一步拓展至远程导弹试射领域。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681140.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:47:56.000Z"
+    },
+    {
+      "id": "7f3f123b8271",
+      "title": "日本加速扩军备武 防卫预算申请额再创新高",
+      "summary": "总台记者连线丨日本加速扩军备武 防卫预算申请额再创新高",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681137.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:45:10.000Z"
     },
     {
       "id": "10fa9a34e0b3",
@@ -100,226 +400,6 @@
       "publishedAt": "2026-08-20T08:36:06.000Z"
     },
     {
-      "id": "052bb0edff32",
-      "title": "商务部回应美征收无人机关税：敦促美方立即撤销232相关关税措施",
-      "summary": "中新网8月20日电 商务部新闻发言人何亚东在20日举行的例行新闻发布会上回应有关美征收无人机关税的提问时说，我们注意到美方对无人机及零部件征收232关税的决定。中方一贯认为，美方232措施是以“国家安全”为名实施单边主义、保护主义。事实上，中国对美出口无人机主要应用于农业、设备巡检、影视娱乐等民用场景。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681056.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:35:53.000Z"
-    },
-    {
-      "id": "6a5a00b4b23f",
-      "title": "“咬人最凶”的蚊子有哪几种？看科研团队探索灭蚊新路径",
-      "summary": "今天是世界蚊子日，这个日子的设立跟公共卫生有关。人们从按蚊体内发现疟原虫卵囊，证实蚊子是疟疾传播的媒介，提醒大家，提高对蚊子传播疾病的防控意识。数据显示，全球已发现的蚊子接近4000种，这么多种类的蚊子，都“咬人”吗？怎么防蚊灭蚊？",
-      "url": "https://www.chinanews.com.cn/life/2026/08-20/10681131.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:35:13.000Z"
-    },
-    {
-      "id": "743a52c07156",
-      "title": "商务部：反对欧方滥用单边工具打压中国企业",
-      "summary": "中新网8月20日电 商务部8月20日召开新闻发布会。会上，有记者问：8月19日，中方就欧盟利用《外国补贴条例》对中国相关实体的跨境调查做法再次发布禁执令。请问商务部对此有何评论？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681072.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:34:27.000Z"
-    },
-    {
-      "id": "20e41eb6012d",
-      "title": "光伏技术助力乌兰巴托蒙古包区改善生态与民生",
-      "summary": "新华社乌兰巴托8月20日电#8195;通讯｜光伏技术助力乌兰巴托蒙古包区改善生态与民生",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681130.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:33:19.000Z"
-    },
-    {
-      "id": "c2d143974fa6",
-      "title": "特朗普挥舞经济大棒施压伊朗，能如愿吗？",
-      "summary": "中新网8月20日电(冯小妍)美伊谈判陷入停滞之际，美国总统特朗普19日再度挥舞施压大棒，宣布对伊朗实施“有史以来针对国家的最具毁灭性的经济行动”，并将其称为一场“前所未有的经济战和孤立行动”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681115.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:31:31.000Z"
-    },
-    {
-      "id": "f7940b93a5b9",
-      "title": "重庆将织密“两张网” 完善山城立体交通网络",
-      "summary": "中新网重庆8月20日电 (张旭 杨茗涵)重庆市住房和城乡建设委员会副主任席红20日在重庆市政府新闻办举行的新闻发布会上表示，“十五五”时期，重庆将继续结合山城立体交通特点，用心织密城市轨道与城市道路“两张网”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681123.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:30:49.000Z"
-    },
-    {
-      "id": "1cbdc3a1a348",
-      "title": "河南省政府副秘书长、办公厅主任何雄接受审查调查",
-      "summary": "中新网8月20日电 据河南省纪委监委消息：河南省政府副秘书长、办公厅主任何雄涉嫌严重违纪违法，目前正接受河南省纪委监委纪律审查和监察调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681093.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:30:01.000Z"
-    },
-    {
-      "id": "eef02ce17c0d",
-      "title": "2026中国—东盟创新创业大赛启动，面向双边团队开放三大前沿赛道",
-      "summary": "中新网南宁8月20日电 (陈曦)近日，第十五届中国创新创业大赛2026中国—东盟专业赛正式拉开帷幕。根据赛事安排，参赛项目报名时间为2026年8月15日至10月15日，参赛范围在企业组的基础上新增团队组，面向中国与东盟国家的高校、科研院所、企业及其他社会创业团队开放。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681124.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:29:41.000Z"
-    },
-    {
-      "id": "786644f4cf85",
-      "title": "中国240小时过境免签“朋友圈”扩展至57国",
-      "summary": "新华社北京8月20日电(记者孙鹏程)国家移民管理局8月20日发布公告，自2026年8月20日起，吉尔吉斯斯坦、越南公民可适用240小时过境免签政策和海南30天入境免签政策来华。至此，240小时过境免签政策适用国家增至57国，海南30天入境免签政策适用国家增至61国。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681126.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:28:57.000Z"
-    },
-    {
-      "id": "269b0e277cb6",
-      "title": "王毅与韩国国家安保室长魏圣洛举行战略对话",
-      "summary": "2026年8月20日，中共中央政治局委员、中央外办主任王毅在首尔与韩国国家安保室长魏圣洛举行战略对话。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681127.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:28:47.000Z"
-    },
-    {
-      "id": "b8dc3a969760",
-      "title": "童年动画来信火了，这是属于 “00 后”一场双向奔赴的成年告白",
-      "summary": "最近，童年动画写给00后的信火了。网友们不仅在评论区晒出一封封信，更被那些跨越十几年的问候戳中泪点：喜羊羊、灰太狼、猪猪侠…… 只要翻翻这些动画的评论区，大概率会看到一句话：我的童年回来了。曾经放学守在电视机前追动画的最后一批“00 后”明年也18岁了。动画教会我们的勇敢、善良与坚持，悄悄治愈了整个年少时代。一封封信件串联起懵懂童年与滚烫青春，这是属于…",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-20/news1066006.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:27:46.000Z"
-    },
-    {
-      "id": "bdcf4adab146",
-      "title": "2026广州国际汽车零部件及改装用品售后市场展览会吸引68个国家和地区观众入场",
-      "summary": "中新网广州8月20日电(王华 秦小雅)2026广州国际汽车零部件及改装用品售后市场展览会(AAG)于8月19至21日在广州保利世贸博览馆举行。本届展会展览面积、参展企业再扩容，登记入场观众覆盖68个国家和地区。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681117.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:26:51.000Z"
-    },
-    {
-      "id": "29c6fd446fce",
-      "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
-      "summary": "Zelenskyy says Russia had been preparing for a long time, combining different types of missiles The United Nations nuclear ⁠watchdog said on Thursday that Russian-held Zaporizhzh…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T08:26:22.000Z"
-    },
-    {
-      "id": "12b9b508c198",
-      "title": "A股生物医药相关板块周四表现亮眼",
-      "summary": "中新社北京8月20日电 (记者 陈康亮)中国A股20日(周四)缩量上涨，主要股指悉数飘红。板块方面，当天生物医药相关板块涨幅居前，表现亮眼。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681118.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:26:09.000Z"
-    },
-    {
-      "id": "599f48249513",
-      "title": "中共中央、国务院、中央军委决定，给张陆同志颁发“二级航天功勋奖章”，授予武飞、张洪章同志“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”",
-      "summary": "新华社快讯：中共中央、国务院、中央军委决定，给张陆同志颁发“二级航天功勋奖章”，授予武飞、张洪章同志“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681122.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:25:17.000Z"
-    },
-    {
-      "id": "3d4b208a4d0f",
-      "title": "海峡两岸客家山歌对唱交流晚会在广东梅州举行",
-      "summary": "中新网梅州8月20日电 (记者 王坚)“山歌唱响故乡情”海峡两岸客家山歌对唱交流晚会19日晚在位于广东梅州的世界客商中心上演。逾400位两岸民众相聚世界客都梅州，以客家山歌为纽带，共叙桑梓情谊。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681121.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:25:07.000Z"
-    },
-    {
-      "id": "046ba4155dbf",
-      "title": "中国华南迎持续强风雨",
-      "summary": "中新社北京8月20日电 (记者 陈溯)记者20日从中国气象局获悉，受多个热带系统和西南季风共同影响，中国华南现强风雨，部分地区累计雨量大。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681119.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:24:01.000Z"
-    },
-    {
-      "id": "7d4f2698b5ff",
-      "title": "百余件“下真迹一等”故宫古书画临摹作品亮相甘肃兰州",
-      "summary": "图为“临古见真——故宫博物院古书画临摹复制技艺展”陈展作品。高莹 摄 图为展览现场。高莹 摄 图为“临古见真——故宫博物院古书画临摹复制技艺展”陈展作品。高莹 摄 图为“临古见真——故宫博物院古书画临摹复制技艺展”陈展作品。高莹 摄 图为展览现场，观众欣赏陈展作品。高莹 摄 图为展览现场，观众拍摄陈展作品。高莹 摄 图为“临古见真——故宫博物院古书画临摹…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681089.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:22:43.000Z"
-    },
-    {
-      "id": "df140b6e3196",
-      "title": "河南安阳绘制“十五五”发展路线图 明确“六个突出”",
-      "summary": "中新网郑州8月20日电 (张楠)古都安阳在“十五五”时期有何规划？8月20日，河南省政府新闻办召开河南省“开局起步‘十五五’奋力谱写新篇章”安阳专场新闻发布会，安阳市市长胡军对该市“十五五”规划《纲要》(以下简称《纲要》)有关内容进行了介绍。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681113.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:22:13.000Z"
-    },
-    {
-      "id": "3e2b67798f8a",
-      "title": "按铃停车 成都推出149条“铃停巴士”线路",
-      "summary": "图为活动现场展示的“铃停巴士”，乘客可按铃告知司机停车实现非高峰时段“有需求才停”。中新社记者 张浪 摄 图为活动现场展示的“铃停巴士”，乘客可按铃告知司机停车实现非高峰时段“有需求才停”。中新社记者 张浪 摄 图为活动现场展示的“铃停巴士”，乘客可按铃告知司机停车实现非高峰时段“有需求才停”。中新社记者 张浪 摄 图为活动现场展示的“铃停巴士”，乘客可…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681091.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:21:13.000Z"
-    },
-    {
-      "id": "fc448aa79082",
-      "title": "来自尼泊尔的“铠甲巨兽”亚洲犀在广东亮相",
-      "summary": "中新网清远8月20日电(王华 邓泳怡)两头亚洲犀“艾文”与“美丽”19日在清远长隆森林王国(以下简称：清远长隆)与游客见面，这对来自尼泊尔的“铠甲巨兽”时而缓缓踱步，耳朵灵敏转动，捕捉四周的动静。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681104.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:19:01.000Z"
-    },
-    {
-      "id": "81d1aa2b3976",
-      "title": "甘肃定西：药香漫陇中 产值节节高",
-      "summary": "中新网兰州8月20日电 (戴文昌)甘肃省定西市副市长王建平20日在兰州表示，作为国家中医药传承创新发展试验区和该省中医药产业发展主阵地，定西“十五五”时期将锚定建设国家中医药传承创新发展样板区目标，从种业、加工、仓储、业态、品牌发力，力争2030年该市中医药全产业链规模突破800亿元。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681112.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:16:58.000Z"
-    },
-    {
       "id": "f7dc350976c5",
       "title": "NSW police commissioner says ‘I unreservedly apologise’ for miscommunication over 18-year-old bushwalker Lily Hooper’s death – as it happened",
       "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast ‘Outrageous’: Greens leader says sending Israeli ambassador home should be on the table Green…",
@@ -330,36 +410,6 @@
       "publishedAt": "2026-08-20T08:16:06.000Z"
     },
     {
-      "id": "9be2dcbe9629",
-      "title": "还是原班人马 国安靠什么11场不败？",
-      "summary": "赛季开局连续不胜 现积分榜追至第二",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681110.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:15:38.000Z"
-    },
-    {
-      "id": "828b0f15b40f",
-      "title": "哥伦比亚灾区空中交通逐步恢复",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/gj/shipin/2026/08-20/news1065981.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:13:50.000Z"
-    },
-    {
-      "id": "6a1b5b6e1b23",
-      "title": "工业和信息化部再次批复民营卫星物联网业务商用试验",
-      "summary": "工业和信息化部近日再次批复民营卫星物联网业务商用试验。本次批复的浙江时空道宇科技有限公司将开展为期两年的商用试验，这是卫星物联网业务进一步扩大向民营开放的重要举措。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681102.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T08:11:34.000Z"
-    },
-    {
       "id": "67e3b7545aa7",
       "title": "‘An insult’: Zomi Frankcom’s family issues strongly-worded statement as Israel rejects criminal investigation into her killing",
       "summary": "Penny Wong calls in Israeli ambassador as PM expresses ‘outrage’ over IDF decision Get our breaking news email , free app or daily news podcast The family of the slain Australian…",
@@ -368,26 +418,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-20T08:09:32.000Z"
-    },
-    {
-      "id": "fb82999fc7f6",
-      "title": "Alan Jones’s ‘yelling stopped’ when his ‘sexual behaviour’ began, alleged victim tells court",
-      "summary": "Sydney court hears complainant was more than 40 years younger and far less powerful than the shock jock when he started working as his driver Follow our Australia news live blog…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/alan-jones-trial-grooming-claim-adult-alleged-victim-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T07:47:06.000Z"
-    },
-    {
-      "id": "9edd9509c0ab",
-      "title": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
-      "summary": "South Australian premier Peter Malinauskas says there have still been no detections in poultry or livestock and no mass deaths involving mammals Get our breaking news email , fre…",
-      "url": "https://www.theguardian.com/world/2026/aug/20/more-than-1000-birds-found-dead-in-three-mass-mortality-events-amid-significant-h5-escalation-in-australia",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T07:29:30.000Z"
     },
     {
       "id": "4b163c61d073",
@@ -408,16 +438,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-20T07:00:45.000Z"
-    },
-    {
-      "id": "4b9652a54f91",
-      "title": "Erin Patterson appeal: prosecutors seek life in prison without parole for triple murderer – as it happened",
-      "summary": "This blog is now closed Case against Erin Patterson is ‘overwhelming’ and mushroom killer’s appeal should be dismissed, prosecutors say Get our breaking news email , free app or…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T06:48:56.000Z"
     },
     {
       "id": "aabec0a32b1e",
@@ -458,16 +478,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-20T04:00:42.000Z"
-    },
-    {
-      "id": "9043d1ff0525",
-      "title": "台灣為何此刻提出「鞭刑入法」公投？",
-      "summary": "關於鞭刑的討論已在台灣醞釀了近十年，尤其在重大刑案發生後，民眾不滿刑罰不足，主張仿效新加坡制度。最新民調顯示約八成台灣人贊同政府評估鞭刑，人權團體與法律界則批評此舉違反國際人權標準。",
-      "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-20T04:00:32.000Z"
     },
     {
       "id": "b0a7757ba7ae",
@@ -598,16 +608,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-19T16:42:08.000Z"
-    },
-    {
-      "id": "d376d9d3dfc4",
-      "title": "Sacking turns former Zelenskyy loyalist into potent political opponent",
-      "summary": "Mykhailo Fedorov’s blistering critique comes at a time of growing pressure for democratic renewal in Ukraine For more than a month, demonstrators have gathered in Ivan Franko Squ…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/mykhailo-fedorov-zelenskyy-loyalist-opponent-ukraine",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T15:52:04.000Z"
     },
     {
       "id": "a61e6b5ff017",
