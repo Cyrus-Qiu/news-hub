@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T16:44:57.971Z",
+  "updatedAt": "2026-08-20T17:38:24.252Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,86 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "fddd07af1645",
+      "title": "Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland",
+      "summary": "Meta chief executive paid roughly £20m for gothic-style mansion built in 1830 and its surroundings It stretches the definition of pied-à-terre but Mark Zuckerberg now has a pad i…",
+      "url": "https://www.theguardian.com/world/2026/aug/20/mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ireland",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T17:27:40.000Z"
+    },
+    {
+      "id": "70d14bb69d09",
+      "title": "特朗普称白宫立法事务主任布雷德将离职",
+      "summary": "美国总统特朗普20日在社交媒体发文，宣布白宫立法事务主任詹姆斯·布雷德将于9月离职。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681384.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T16:52:13.000Z"
+    },
+    {
+      "id": "99dd066366bd",
+      "title": "德国今年4月以来约有1.4万人因高温相关因素死亡",
+      "summary": "中新社柏林8月20日电 (记者 马秀秀)德国罗伯特·科赫研究所(RKI)20日发布的最新报告显示，今年4月6日至8月9日期间，德国约有1.4万人因高温相关因素死亡，相当于每10万人中约有17人因此死亡。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681383.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T16:51:23.000Z"
+    },
+    {
+      "id": "7f78cd9d5f2e",
+      "title": "餐饮黄牛高价倒卖排号是否涉嫌违法？律师解读来了",
+      "summary": "出门吃饭，遇到特别火爆的网红餐厅，您会选择默默排队几小时，还是无奈找“黄牛”加钱买“号”？如今，餐饮“黄牛”已经把免费的餐饮号变成了付费的商品，把等待变成了一门生意。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681382.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T16:49:42.000Z"
+    },
+    {
+      "id": "accfa476c677",
+      "title": "歌剧《卡门》中文版厦门上演 97岁指挥家郑小瑛执棒",
+      "summary": "中新社厦门8月20日电 (吴冠标)歌剧《卡门》中文版20日晚在厦门嘉庚剧院上演，97岁指挥家郑小瑛执棒指挥，再度刷新世界最高龄歌剧指挥纪录。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681380.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T16:44:28.000Z"
+    },
+    {
+      "id": "7621d7168465",
+      "title": "伊朗外交部谴责美国对伊实施新一轮经济制裁",
+      "summary": "当地时间20日，伊朗外交部就美国对伊朗实施新一轮经济制裁发表声明，谴责美方扩大针对伊朗的经济和贸易制裁。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681381.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T16:44:04.000Z"
+    },
+    {
+      "id": "6c592f36e3d2",
+      "title": "胡塞武装称对沙特发动无人机袭击",
+      "summary": "当地时间20日傍晚，也门胡塞武装表示，对沙特目标实施了两次无人机袭击行动，以回击沙特侵犯也门萨达省领空。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681379.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T16:42:44.000Z"
+    },
+    {
+      "id": "466ac6cd3d45",
+      "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
+      "summary": "As yields are dragged higher in the UK, Europe and Japan, the impact for consumers and businesses will be far-reaching ‘Starve the beast’? The $40tn cost of Republicans’ false pr…",
+      "url": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-20T16:14:59.000Z"
+    },
     {
       "id": "d3f345001290",
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -72,10 +152,10 @@
     {
       "id": "8321a7e7c9bc",
       "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
-      "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned You could pin the US’s staggering $40tn in government debt to Donald Tru…",
+      "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned Why is the Trump administration causing turmoil in the bond markets? You…",
       "url": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
       "source": "The Guardian Business",
-      "category": "国际",
+      "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-20T15:21:38.000Z"
     },
@@ -130,16 +210,6 @@
       "publishedAt": "2026-08-20T14:39:06.000Z"
     },
     {
-      "id": "e473e1298f65",
-      "title": "Travelodge boss resigns amid criticism over handling of assaults; oil price tops $93 a barrel – as it happened",
-      "summary": "Joanna Boydell has quit as budget hotel chain scrambles to improve safety Meanwhile, the UK’s sports fashion retailer JD Sports has slashed its profit forecasts as cost-of-living…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/20/rising-uk-consumer-confidence-economy-andy-burnham-latest-news-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-20T14:29:52.000Z"
-    },
-    {
       "id": "1e0da9be9211",
       "title": "医院通报“孕妇因医生疏忽误服液体”：涉事医生已暂停执业",
       "summary": "中新网8月20日电 据“辽阳市第三人民医院 妇幼保健院”微信公众号消息，辽阳市第三人民医院20日晚发布一则情况通报称，近日，媒体报道“孕妇产检因医生疏忽误服有毒液体”事件引发社会关注。8月7日，孕妇朱某某到辽阳市第三人民医院产科门诊进行糖耐量筛查产检，由于接诊医生将新柏氏细胞保存液与筛查所用的口服葡萄糖粉混放存放、现场核对不严、宣教指导流程落实不到位，院…",
@@ -158,6 +228,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-20T14:00:56.000Z"
+    },
+    {
+      "id": "3d17dad08ff3",
+      "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
+      "summary": "Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life. But Trump’s halt to funding threatens to scupper the research…",
+      "url": "https://www.theguardian.com/environment/2026/aug/20/environment-oceans-acidification-alkali-carbon-absorption-lobsters",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-20T14:00:52.000Z"
     },
     {
       "id": "d5e672592c75",
@@ -360,66 +440,6 @@
       "publishedAt": "2026-08-20T13:49:09.000Z"
     },
     {
-      "id": "7e14ad4b2392",
-      "title": "武警青海某支队开展“萌娃进军营”夏令营活动",
-      "summary": "中新网西宁8月20日电(祁增蓓)8月20日，武警青海总队某支队组织“萌娃进军营”主题夏令营活动。二十多名少年儿童走进高原军营，近距离接触军旅生活、学习国防知识，在沉浸式体验中解锁别样暑假。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681350.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T13:48:51.000Z"
-    },
-    {
-      "id": "845c2dbd719a",
-      "title": "赵乐际同萨尔瓦多立法大会主席卡斯特罗举行会谈",
-      "summary": "中新社北京8月20日电 全国人大常委会委员长赵乐际20日在北京人民大会堂同萨尔瓦多立法大会主席卡斯特罗举行会谈。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681362.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T13:48:25.000Z"
-    },
-    {
-      "id": "bbb90cd85c9f",
-      "title": "宁夏“举杯贺兰山·青年艺术季”收官 文旅消费持续升温",
-      "summary": "中新网银川8月20日电 (记者 李佩珊)8月20日晚，2026“举杯贺兰山·青年艺术季”在位于宁夏银川市的漫葡·看见贺兰演艺小镇收官。为期40天的系列文艺文旅活动汇聚全国优质文艺资源，联动全城业态拉动暑期消费，持续丰富银川文旅业态、提升城市文旅影响力。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T13:47:53.000Z"
-    },
-    {
-      "id": "797dee724fb1",
-      "title": "“粤港养老通”落地 跨境养老金融迈入“双轮驱动”时代",
-      "summary": "中新网广州8月20日电 (记者 郭军)“粤港养老通”业务落地推广仪式20日在广州举行，标志着这项覆盖粤港两地的跨境养老惠民服务在广东正式全面落地。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681343.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T13:47:39.000Z"
-    },
-    {
-      "id": "5d3710cc8768",
-      "title": "广州知识产权法院2025年先行调解成功达三千余件",
-      "summary": "中新网广州8月20日电 (记者 方伟彬)广州知识产权法院20日召开调解工作座谈会，全面梳理知识产权纠纷调解工作成效。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681344.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T13:47:19.000Z"
-    },
-    {
-      "id": "e8a2bd08685a",
-      "title": "中法青年湖南芷江捐赠法国解密日本侵华档案",
-      "summary": "中新网怀化8月20日电 (付敬懿 杨若兰)8月20日，法国青年马库斯、白士杰与中国青年钟灏松一行来到位于湖南芷江侗族自治县的中国人民抗日战争胜利受降纪念馆，捐赠了一批法国官方解密抗战档案扫描件，以第三方国际视角丰富芷江抗战史料馆藏，补齐湖南抗战域外史证链条。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681339.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T13:46:59.000Z"
-    },
-    {
       "id": "aa28a6cc7483",
       "title": "Their cities dropped Flock surveillance cameras. They’re still being watched",
       "summary": "Despite policy victories over Flock, Americans are finding themselves under similar monitoring by a new company – or unable to remove the original cameras Activists in Colorado t…",
@@ -548,16 +568,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-20T09:23:42.000Z"
-    },
-    {
-      "id": "c797ced99cca",
-      "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
-      "summary": "Improvements in fire management however could mitigate increases by more than 70%, study shows Wildfires are projected to burn 39% more of Europe by the end of the century even i…",
-      "url": "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T09:01:47.000Z"
     },
     {
       "id": "9043d1ff0525",
@@ -938,16 +948,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-18T15:28:57.000Z"
-    },
-    {
-      "id": "77be12604144",
-      "title": "Reel-ing it in: Meta is paying influencers to promote teen accounts",
-      "summary": "Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered p…",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-18T13:00:47.000Z"
     },
     {
       "id": "bd269aa88549",
