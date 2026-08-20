@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:52:38.742Z",
+  "updatedAt": "2026-08-20T19:37:53.752Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "50063425df92",
+      "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
+      "summary": "Military orders criminal investigation into deaths of five-year-old and six family members in Gaza in 2024 The Israeli military admitted on Wednesday its troops had opened fire o…",
+      "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T19:15:09.000Z"
+    },
     {
       "id": "896bc56b4fa1",
       "title": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
@@ -718,16 +728,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-19T17:39:56.000Z"
-    },
-    {
-      "id": "50063425df92",
-      "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-      "summary": "Military orders criminal investigation into deaths of five-year-old and six family members in Gaza in 2024 The Israeli military admitted on Wednesday its troops had opened fire o…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T17:21:14.000Z"
     },
     {
       "id": "650176a1a723",
