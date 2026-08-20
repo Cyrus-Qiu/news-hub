@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T15:42:05.278Z",
+  "updatedAt": "2026-08-20T16:44:57.971Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,8 +30,38 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "d3f345001290",
+      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursd…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T15:42:39.000Z"
+    },
+    {
+      "id": "040c6d5a9b5a",
+      "title": "Marvel’s Wolverine: Spider-Man developers turn to a more cutthroat character",
+      "summary": "Even film-makers have been inspired by Insomniac’s take on Spidey. But the studio’s tried and tested format might not fit a superhero with such sharp claws The recent Marvel’s Sp…",
+      "url": "https://www.theguardian.com/games/2026/aug/20/marvel-wolverine-spider-man-developers-turn-more-cutthroat-character",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-20T15:40:04.000Z"
+    },
+    {
+      "id": "e72641f35d91",
+      "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
+      "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has ca…",
+      "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T15:37:57.000Z"
+    },
+    {
       "id": "29c6fd446fce",
-      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
+      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – as it happened",
       "summary": "Device was near country’s Neptun Deep gas platform in the Black Sea Romania’s military has destroyed a marine drone spotted just “a few hundred meters” from the Neptun Deep platf…",
       "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
       "source": "The Guardian World",
@@ -78,6 +108,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-20T15:00:54.000Z"
+    },
+    {
+      "id": "a40a6718dfd9",
+      "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
+      "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology Cinemas across the UK are considering banning customers from wearing…",
+      "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-20T14:57:25.000Z"
     },
     {
       "id": "eadcfc637483",
@@ -442,7 +482,7 @@
     {
       "id": "4b163c61d073",
       "title": "More than a dozen killed as Kyiv comes under intense Russian bombardment",
-      "summary": "Missile and drone attack one of heaviest since war began, with children’s hospital and residential areas hit Europe live – latest updates A heavy Russian missile and drone bombar…",
+      "summary": "Missile and drone attack one of heaviest since war began, with children’s hospital and residential areas hit A heavy Russian missile and drone bombardment has killed at least 15…",
       "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
       "source": "The Guardian World",
       "category": "国际",
@@ -558,16 +598,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-20T06:43:47.000Z"
-    },
-    {
-      "id": "3da8b1e1bd3b",
-      "title": "Melancholy made in Hungary is fuelling bestsellers across the globe – and widely misunderstood",
-      "summary": "A ‘capacity for despair’ forged by political oppression has long been considered a Magyar national trait. But after Orbán, writers in the country remind us that melancholy must n…",
-      "url": "https://www.theguardian.com/books/2026/aug/20/melancholy-made-in-hungary-is-fuelling-bestsellers-across-the-globe-and-widely-misunderstood",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T06:00:44.000Z"
     },
     {
       "id": "f5d32a994e78",
@@ -930,16 +960,6 @@
       "publishedAt": "2026-08-18T11:50:40.000Z"
     },
     {
-      "id": "86e42dbc7465",
-      "title": "‘The ultimate gamers’ mascot’: Sonic the Hedgehog at 35 – from 2D to 3D to a billion-dollar film franchise",
-      "summary": "Sonic’s creators explain how the speedy scamp has kept on running through generations as an enduring avatar of ‘attitude in the face of adversity’ One day in the early 1990s, I c…",
-      "url": "https://www.theguardian.com/games/2026/aug/18/sonic-the-hedgehog-at-35",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-18T11:30:44.000Z"
-    },
-    {
       "id": "d36e0c391795",
       "title": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
       "summary": "Bond yields in US, UK, Germany France and Japan rise after ceasefire ends and Trump threatens to bomb Oman Business live – latest updates Government borrowing costs in several ad…",
@@ -1030,16 +1050,6 @@
       "publishedAt": "2026-08-17T14:07:31.000Z"
     },
     {
-      "id": "3aff43276d05",
-      "title": "Sainsbury’s store pauses AI scanning after false shoplifting accusation",
-      "summary": "Supermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customer Sainsbury’s has paused the use of AI face scanning in one of its stores after…",
-      "url": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-17T13:21:25.000Z"
-    },
-    {
       "id": "44f0665c2de2",
       "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
       "summary": "美國30個州已對Meta提起訴訟，要求徹底改革年輕用戶的社交平台。",
@@ -1108,16 +1118,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-16T03:50:04.000Z"
-    },
-    {
-      "id": "7039a21130e9",
-      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-      "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T19:39:07.000Z"
     },
     {
       "id": "39c4d24eaa29",
