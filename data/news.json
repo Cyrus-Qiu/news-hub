@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:46:07.419Z",
+  "updatedAt": "2026-08-20T15:42:05.278Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,56 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "29c6fd446fce",
+      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
+      "summary": "Device was near country’s Neptun Deep gas platform in the Black Sea Romania’s military has destroyed a marine drone spotted just “a few hundred meters” from the Neptun Deep platf…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T15:21:52.000Z"
+    },
+    {
+      "id": "8321a7e7c9bc",
+      "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
+      "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned You could pin the US’s staggering $40tn in government debt to Donald Tru…",
+      "url": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T15:21:38.000Z"
+    },
+    {
+      "id": "9a2b83535eef",
+      "title": "香港举办“东盟电影节2026” 逾30部佳片促文化交流合作",
+      "summary": "中新社香港8月20日电 “东盟电影节2026”开幕典礼20日在香港举行。本届电影节将在全香港多个场地免费放映逾30部影片，助力推动香港与东盟在电影和其他创意领域的文化交流与合作。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681376.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T15:06:26.000Z"
+    },
+    {
+      "id": "24313c4a96da",
+      "title": "美军中央司令部称“华盛顿”号航母已部署在中东",
+      "summary": "美军中央司令部20日在社交媒体发文称，“乔治·华盛顿”号航母打击群在19日抵达中央司令部辖区后，正按预定部署在中东地区执行任务。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681377.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T15:05:16.000Z"
+    },
+    {
+      "id": "0ec5468f83c9",
+      "title": "Sydney air traffic controllers have ‘grave concerns’ about collision risk after airspace redesign",
+      "summary": "Exclusive: Federal government notified after whistleblower says controllers have ‘minimal confidence in their ability to handle’ rule changes related to second airport Get our br…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/21/air-traffic-controllers-safety-risk-fears-sydney-airport",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T15:00:54.000Z"
+    },
+    {
       "id": "eadcfc637483",
       "title": "上市公司组织百人“抢公章”？ 海威华芯控制权纠纷升级",
       "summary": "中新网北京8月20日电(左雨晴) 8月20日，“抢公章”突然冲上了微博热搜。",
@@ -41,23 +91,13 @@
     },
     {
       "id": "e473e1298f65",
-      "title": "Travelodge boss resigns amid criticism over handling of assaults; oil price tops $93 a barrel – business live",
+      "title": "Travelodge boss resigns amid criticism over handling of assaults; oil price tops $93 a barrel – as it happened",
       "summary": "Joanna Boydell has quit as budget hotel chain scrambles to improve safety Meanwhile, the UK’s sports fashion retailer JD Sports has slashed its profit forecasts as cost-of-living…",
       "url": "https://www.theguardian.com/business/live/2026/aug/20/rising-uk-consumer-confidence-economy-andy-burnham-latest-news-updates",
       "source": "The Guardian Business",
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-20T14:29:52.000Z"
-    },
-    {
-      "id": "29c6fd446fce",
-      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
-      "summary": "Device was near country’s Neptun Deep gas platform in the Black Sea Romania’s military has destroyed a marine drone spotted just “a few hundred meters” from the Neptun Deep platf…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T14:04:14.000Z"
     },
     {
       "id": "1e0da9be9211",
@@ -340,26 +380,6 @@
       "publishedAt": "2026-08-20T13:46:59.000Z"
     },
     {
-      "id": "a6195c6d17f2",
-      "title": "华裔少年穿行三秦 邂逅千年文脉",
-      "summary": "中新网西安8月20日电 题：华裔少年穿行三秦 邂逅千年文脉",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-20/10681341.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T13:46:45.000Z"
-    },
-    {
-      "id": "4169d79ca76b",
-      "title": "汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
-      "summary": "北京时间8月20日晚，汽车之家(NYSE：ATHM；HKEX：2518)对外披露2026年第二季度未经审计的财务业绩。本季度，公司实现总营收12亿元人民币，归属于汽车之家的经调整净利润为2.77亿元人民币。流量层面，用户基盘稳固，据QuestMobile数据，6月移动端日均用户量达7,650万，同比稳中有升；业务层面，内容影响力持续领跑，AI智能产品实现…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681338.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-20T13:46:25.000Z"
-    },
-    {
       "id": "aa28a6cc7483",
       "title": "Their cities dropped Flock surveillance cameras. They’re still being watched",
       "summary": "Despite policy victories over Flock, Americans are finding themselves under similar monitoring by a new company – or unable to remove the original cameras Activists in Colorado t…",
@@ -510,16 +530,6 @@
       "publishedAt": "2026-08-20T08:57:23.000Z"
     },
     {
-      "id": "9edd9509c0ab",
-      "title": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
-      "summary": "South Australian premier Peter Malinauskas says there have still been no detections in poultry or livestock and no mass deaths involving mammals Get our breaking news email , fre…",
-      "url": "https://www.theguardian.com/world/2026/aug/20/more-than-1000-birds-found-dead-in-three-mass-mortality-events-amid-significant-h5-escalation-in-australia",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T08:51:39.000Z"
-    },
-    {
       "id": "10fa9a34e0b3",
       "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
       "summary": "台灣總統賴清德宣布明年普發每人1萬元現金，理由是經濟成長創39年新高。但K型經濟下的分配焦慮與年底選舉，成為此政策的激辯核心。",
@@ -638,16 +648,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-19T21:30:11.000Z"
-    },
-    {
-      "id": "2e127157abc3",
-      "title": "US gross national debt tops $40tn for first time",
-      "summary": "Milestone marks years of government spending that grew under both Donald Trump and Joe Biden US debt reached $40tn for the first time on Wednesday, the US treasury department sai…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T21:24:01.000Z"
     },
     {
       "id": "258accd4b1b7",
