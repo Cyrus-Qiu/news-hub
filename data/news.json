@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T20:38:34.260Z",
+  "updatedAt": "2026-08-20T21:36:38.670Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "36d02f88aa83",
+      "title": "Australia news live: PM says he shouldn’t have gone on Bush Deep podcast; home sales to overseas buyers plunge",
+      "summary": "Albanese said now-infamous interview, dubbed ‘melon-gate’, taught him he needs ‘to do better every day’. Follow today’s news live Get our breaking news email , free app or daily…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T21:21:01.000Z"
+    },
+    {
+      "id": "a7db7d9fde92",
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "summary": "美國和中國再次就巴拿馬運河問題交鋒。這條戰略水道約佔全球海運貿易量5%，而美國近40%的集裝箱運輸都經過這裏。",
+      "url": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-20T20:55:34.000Z"
+    },
     {
       "id": "d3f345001290",
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -202,7 +222,7 @@
     {
       "id": "0ec5468f83c9",
       "title": "Sydney air traffic controllers have ‘grave concerns’ about collision risk after airspace redesign",
-      "summary": "Exclusive: Federal government notified after whistleblower says controllers have ‘minimal confidence in their ability to handle’ rule changes related to second airport Get our br…",
+      "summary": "Exclusive: Federal government notified after whistleblower says controllers have ‘minimal confidence in their ability to handle’ rule changes related to second airport Follow our…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/21/air-traffic-controllers-safety-risk-fears-sydney-airport",
       "source": "The Guardian World",
       "category": "国际",
@@ -570,16 +590,6 @@
       "publishedAt": "2026-08-20T09:25:57.000Z"
     },
     {
-      "id": "3256a7fce435",
-      "title": "Drug-dealing, makeshift weapons and a ‘culture of fear’ at Villawood detention centre, report warns",
-      "summary": "Prolonged detention of children, insufficient staffing and hazardous damage to buildings are among the ombudsman’s concerns Follow our Australia news live blog for latest updates…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/villawood-detention-centre-conditions-report-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T09:23:42.000Z"
-    },
-    {
       "id": "9043d1ff0525",
       "title": "台灣為何此刻提出「鞭刑入法」公投？",
       "summary": "關於鞭刑的討論已在台灣醞釀了近十年，尤其在重大刑案發生後，民眾不滿刑罰不足，主張仿效新加坡制度。最新民調顯示約八成台灣人贊同政府評估鞭刑，人權團體與法律界則批評此舉違反國際人權標準。",
@@ -708,16 +718,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-19T20:17:39.000Z"
-    },
-    {
-      "id": "865639c1ca4e",
-      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
-      "summary": "超過200名女性指控法國文化部高級公務員克里斯蒂安·內格雷（Christian Nègre）在求職面試時給她們下藥，讓她們小便——其中兩名女性分享了她們的經歷。",
-      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-19T17:50:11.000Z"
     },
     {
       "id": "34434e14ed56",
