@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T07:49:44.542Z",
+  "updatedAt": "2026-08-20T08:50:21.944Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,104 +30,354 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "57efc8c7873d",
-      "title": "活力中国调研行丨湖南消费的“对味”密码",
-      "summary": "凌晨，长沙五一商圈，臭豆腐摊前还在排队；此刻，湘西芙蓉镇的吊脚楼亮着暖黄色的光，石板路上有人慢悠悠地走，风从瀑布那边吹过来。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681070.shtml",
+      "id": "e6050589fae8",
+      "title": "江苏苏州：京杭大运河水位回落 再现输运繁忙景象",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201621.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-20T07:43:20.000Z"
+      "publishedAt": "2026-08-20T08:41:46.000Z"
+    },
+    {
+      "id": "0e4a8265d23a",
+      "title": "陕西反强拆致人死亡案宣判，法不能向不法让步",
+      "summary": "备受关注的陕西咸阳张恒反强拆致人死亡案尘埃落定。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681134.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:40:04.000Z"
+    },
+    {
+      "id": "1024dbabeaf7",
+      "title": "山西晋中出台极端天气应对条例 10月1日起实施",
+      "summary": "图为新闻发布会现场。耿新洲 摄 中新网晋中8月20日电(高雨晴 杨杰英)“当前正值‘七下八上’防汛关键期，条例的出台恰逢其时，为晋中市科学有效防范处置极端天气、做好主汛期防汛减灾工作提供了有力法治支撑。”山西省晋中市人大常委会副主任李军19日表示。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681129.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:38:34.000Z"
+    },
+    {
+      "id": "f9f08dbc4a02",
+      "title": "日本民众举行抗议集会 反对高市扩军修宪动向",
+      "summary": "近期日本媒体曝出2027财年日本防卫费预算申请方案中，防卫费相关总体预算预计将可能达到10万亿日元规模。19日，日本民众在日本国会议事堂前举行抗议集会，反对高市政权增加防卫支出。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681133.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:38:08.000Z"
+    },
+    {
+      "id": "7f6a2bf8119b",
+      "title": "警惕毒誓营销陷阱 “5天根治神药”实为消字号产品",
+      "summary": "图：网购产品外包装标注“本品不能代替药品”。 “内痔外痔混合痔，5天彻底根治！”“痛风、风湿、类风湿，5天彻底根治！”……近日，此类宣称“5天根治”的“神药”直播密集出现在短视频平台。主播以“祖传秘方”“专利证书”为人设背书，以“毒誓”营销替代科学证据，辅以限时限量、倒计时、恢复原价等话术诱导消费者下单。《中国消费者报》记者调查发现，所谓“5天根治”的“…",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-20/10681132.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:36:31.000Z"
+    },
+    {
+      "id": "ae82e1b8569f",
+      "title": "南海热带低压影响广东 多地遭遇暴雨",
+      "summary": "中新网广州8月20日电 (记者 王坚)据广东省气象局20日消息，受南海热带低压影响，20日至22日，全省南部市县有大雨到暴雨局部大暴雨；海上作业和交通航行、海岛和滨海旅游注意做好安全防范措施，及时避风。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681128.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:36:15.000Z"
+    },
+    {
+      "id": "10fa9a34e0b3",
+      "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
+      "summary": "台灣總統賴清德宣布明年普發每人1萬元現金，理由是經濟成長創39年新高。但K型經濟下的分配焦慮與年底選舉，成為此政策的激辯核心。",
+      "url": "https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:36:06.000Z"
+    },
+    {
+      "id": "052bb0edff32",
+      "title": "商务部回应美征收无人机关税：敦促美方立即撤销232相关关税措施",
+      "summary": "中新网8月20日电 商务部新闻发言人何亚东在20日举行的例行新闻发布会上回应有关美征收无人机关税的提问时说，我们注意到美方对无人机及零部件征收232关税的决定。中方一贯认为，美方232措施是以“国家安全”为名实施单边主义、保护主义。事实上，中国对美出口无人机主要应用于农业、设备巡检、影视娱乐等民用场景。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681056.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:35:53.000Z"
+    },
+    {
+      "id": "6a5a00b4b23f",
+      "title": "“咬人最凶”的蚊子有哪几种？看科研团队探索灭蚊新路径",
+      "summary": "今天是世界蚊子日，这个日子的设立跟公共卫生有关。人们从按蚊体内发现疟原虫卵囊，证实蚊子是疟疾传播的媒介，提醒大家，提高对蚊子传播疾病的防控意识。数据显示，全球已发现的蚊子接近4000种，这么多种类的蚊子，都“咬人”吗？怎么防蚊灭蚊？",
+      "url": "https://www.chinanews.com.cn/life/2026/08-20/10681131.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:35:13.000Z"
+    },
+    {
+      "id": "743a52c07156",
+      "title": "商务部：反对欧方滥用单边工具打压中国企业",
+      "summary": "中新网8月20日电 商务部8月20日召开新闻发布会。会上，有记者问：8月19日，中方就欧盟利用《外国补贴条例》对中国相关实体的跨境调查做法再次发布禁执令。请问商务部对此有何评论？",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681072.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:34:27.000Z"
+    },
+    {
+      "id": "20e41eb6012d",
+      "title": "光伏技术助力乌兰巴托蒙古包区改善生态与民生",
+      "summary": "新华社乌兰巴托8月20日电#8195;通讯｜光伏技术助力乌兰巴托蒙古包区改善生态与民生",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681130.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:33:19.000Z"
+    },
+    {
+      "id": "c2d143974fa6",
+      "title": "特朗普挥舞经济大棒施压伊朗，能如愿吗？",
+      "summary": "中新网8月20日电(冯小妍)美伊谈判陷入停滞之际，美国总统特朗普19日再度挥舞施压大棒，宣布对伊朗实施“有史以来针对国家的最具毁灭性的经济行动”，并将其称为一场“前所未有的经济战和孤立行动”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681115.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:31:31.000Z"
+    },
+    {
+      "id": "f7940b93a5b9",
+      "title": "重庆将织密“两张网” 完善山城立体交通网络",
+      "summary": "中新网重庆8月20日电 (张旭 杨茗涵)重庆市住房和城乡建设委员会副主任席红20日在重庆市政府新闻办举行的新闻发布会上表示，“十五五”时期，重庆将继续结合山城立体交通特点，用心织密城市轨道与城市道路“两张网”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681123.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:30:49.000Z"
+    },
+    {
+      "id": "1cbdc3a1a348",
+      "title": "河南省政府副秘书长、办公厅主任何雄接受审查调查",
+      "summary": "中新网8月20日电 据河南省纪委监委消息：河南省政府副秘书长、办公厅主任何雄涉嫌严重违纪违法，目前正接受河南省纪委监委纪律审查和监察调查。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681093.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:30:01.000Z"
+    },
+    {
+      "id": "eef02ce17c0d",
+      "title": "2026中国—东盟创新创业大赛启动，面向双边团队开放三大前沿赛道",
+      "summary": "中新网南宁8月20日电 (陈曦)近日，第十五届中国创新创业大赛2026中国—东盟专业赛正式拉开帷幕。根据赛事安排，参赛项目报名时间为2026年8月15日至10月15日，参赛范围在企业组的基础上新增团队组，面向中国与东盟国家的高校、科研院所、企业及其他社会创业团队开放。",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681124.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:29:41.000Z"
+    },
+    {
+      "id": "786644f4cf85",
+      "title": "中国240小时过境免签“朋友圈”扩展至57国",
+      "summary": "新华社北京8月20日电(记者孙鹏程)国家移民管理局8月20日发布公告，自2026年8月20日起，吉尔吉斯斯坦、越南公民可适用240小时过境免签政策和海南30天入境免签政策来华。至此，240小时过境免签政策适用国家增至57国，海南30天入境免签政策适用国家增至61国。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681126.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:28:57.000Z"
+    },
+    {
+      "id": "269b0e277cb6",
+      "title": "王毅与韩国国家安保室长魏圣洛举行战略对话",
+      "summary": "2026年8月20日，中共中央政治局委员、中央外办主任王毅在首尔与韩国国家安保室长魏圣洛举行战略对话。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681127.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:28:47.000Z"
+    },
+    {
+      "id": "b8dc3a969760",
+      "title": "童年动画来信火了，这是属于 “00 后”一场双向奔赴的成年告白",
+      "summary": "最近，童年动画写给00后的信火了。网友们不仅在评论区晒出一封封信，更被那些跨越十几年的问候戳中泪点：喜羊羊、灰太狼、猪猪侠…… 只要翻翻这些动画的评论区，大概率会看到一句话：我的童年回来了。曾经放学守在电视机前追动画的最后一批“00 后”明年也18岁了。动画教会我们的勇敢、善良与坚持，悄悄治愈了整个年少时代。一封封信件串联起懵懂童年与滚烫青春，这是属于…",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-20/news1066006.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:27:46.000Z"
+    },
+    {
+      "id": "bdcf4adab146",
+      "title": "2026广州国际汽车零部件及改装用品售后市场展览会吸引68个国家和地区观众入场",
+      "summary": "中新网广州8月20日电(王华 秦小雅)2026广州国际汽车零部件及改装用品售后市场展览会(AAG)于8月19至21日在广州保利世贸博览馆举行。本届展会展览面积、参展企业再扩容，登记入场观众覆盖68个国家和地区。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681117.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:26:51.000Z"
     },
     {
       "id": "29c6fd446fce",
       "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
-      "summary": "Zelenskyy says Russia had been preparing for a long time, combining different types of missiles Kyiv mayor Vitali Klitschko said 18 people have been hospitalised after the overni…",
+      "summary": "Zelenskyy says Russia had been preparing for a long time, combining different types of missiles The United Nations nuclear ⁠watchdog said on Thursday that Russian-held Zaporizhzh…",
       "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-20T07:42:55.000Z"
+      "publishedAt": "2026-08-20T08:26:22.000Z"
+    },
+    {
+      "id": "12b9b508c198",
+      "title": "A股生物医药相关板块周四表现亮眼",
+      "summary": "中新社北京8月20日电 (记者 陈康亮)中国A股20日(周四)缩量上涨，主要股指悉数飘红。板块方面，当天生物医药相关板块涨幅居前，表现亮眼。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681118.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:26:09.000Z"
+    },
+    {
+      "id": "599f48249513",
+      "title": "中共中央、国务院、中央军委决定，给张陆同志颁发“二级航天功勋奖章”，授予武飞、张洪章同志“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”",
+      "summary": "新华社快讯：中共中央、国务院、中央军委决定，给张陆同志颁发“二级航天功勋奖章”，授予武飞、张洪章同志“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681122.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:25:17.000Z"
+    },
+    {
+      "id": "3d4b208a4d0f",
+      "title": "海峡两岸客家山歌对唱交流晚会在广东梅州举行",
+      "summary": "中新网梅州8月20日电 (记者 王坚)“山歌唱响故乡情”海峡两岸客家山歌对唱交流晚会19日晚在位于广东梅州的世界客商中心上演。逾400位两岸民众相聚世界客都梅州，以客家山歌为纽带，共叙桑梓情谊。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681121.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:25:07.000Z"
+    },
+    {
+      "id": "046ba4155dbf",
+      "title": "中国华南迎持续强风雨",
+      "summary": "中新社北京8月20日电 (记者 陈溯)记者20日从中国气象局获悉，受多个热带系统和西南季风共同影响，中国华南现强风雨，部分地区累计雨量大。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681119.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:24:01.000Z"
+    },
+    {
+      "id": "7d4f2698b5ff",
+      "title": "百余件“下真迹一等”故宫古书画临摹作品亮相甘肃兰州",
+      "summary": "图为“临古见真——故宫博物院古书画临摹复制技艺展”陈展作品。高莹 摄 图为展览现场。高莹 摄 图为“临古见真——故宫博物院古书画临摹复制技艺展”陈展作品。高莹 摄 图为“临古见真——故宫博物院古书画临摹复制技艺展”陈展作品。高莹 摄 图为展览现场，观众欣赏陈展作品。高莹 摄 图为展览现场，观众拍摄陈展作品。高莹 摄 图为“临古见真——故宫博物院古书画临摹…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681089.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:22:43.000Z"
+    },
+    {
+      "id": "df140b6e3196",
+      "title": "河南安阳绘制“十五五”发展路线图 明确“六个突出”",
+      "summary": "中新网郑州8月20日电 (张楠)古都安阳在“十五五”时期有何规划？8月20日，河南省政府新闻办召开河南省“开局起步‘十五五’奋力谱写新篇章”安阳专场新闻发布会，安阳市市长胡军对该市“十五五”规划《纲要》(以下简称《纲要》)有关内容进行了介绍。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681113.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:22:13.000Z"
+    },
+    {
+      "id": "3e2b67798f8a",
+      "title": "按铃停车 成都推出149条“铃停巴士”线路",
+      "summary": "图为活动现场展示的“铃停巴士”，乘客可按铃告知司机停车实现非高峰时段“有需求才停”。中新社记者 张浪 摄 图为活动现场展示的“铃停巴士”，乘客可按铃告知司机停车实现非高峰时段“有需求才停”。中新社记者 张浪 摄 图为活动现场展示的“铃停巴士”，乘客可按铃告知司机停车实现非高峰时段“有需求才停”。中新社记者 张浪 摄 图为活动现场展示的“铃停巴士”，乘客可…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681091.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:21:13.000Z"
+    },
+    {
+      "id": "fc448aa79082",
+      "title": "来自尼泊尔的“铠甲巨兽”亚洲犀在广东亮相",
+      "summary": "中新网清远8月20日电(王华 邓泳怡)两头亚洲犀“艾文”与“美丽”19日在清远长隆森林王国(以下简称：清远长隆)与游客见面，这对来自尼泊尔的“铠甲巨兽”时而缓缓踱步，耳朵灵敏转动，捕捉四周的动静。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681104.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:19:01.000Z"
+    },
+    {
+      "id": "81d1aa2b3976",
+      "title": "甘肃定西：药香漫陇中 产值节节高",
+      "summary": "中新网兰州8月20日电 (戴文昌)甘肃省定西市副市长王建平20日在兰州表示，作为国家中医药传承创新发展试验区和该省中医药产业发展主阵地，定西“十五五”时期将锚定建设国家中医药传承创新发展样板区目标，从种业、加工、仓储、业态、品牌发力，力争2030年该市中医药全产业链规模突破800亿元。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681112.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-20T08:16:58.000Z"
     },
     {
       "id": "f7dc350976c5",
-      "title": "Australia news live: NSW police commissioner says ‘I unreservedly apologise’ for miscommunication over 18-year-old bushwalker Lily Hooper’s death",
-      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Outrageous’: Greens leader says sending Israeli ambassador home should be on the table Gree…",
+      "title": "NSW police commissioner says ‘I unreservedly apologise’ for miscommunication over 18-year-old bushwalker Lily Hooper’s death – as it happened",
+      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast ‘Outrageous’: Greens leader says sending Israeli ambassador home should be on the table Green…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-20T07:42:07.000Z"
+      "publishedAt": "2026-08-20T08:16:06.000Z"
     },
     {
-      "id": "85252fe6ba3d",
-      "title": "A股收评：三大指数集体收涨，超4000只个股飘红",
-      "summary": "；医药概念股全天爆发；贵金属、通信设备上涨；发电设备、油气、酒类下跌；宇树科技大跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681063.shtml",
+      "id": "9be2dcbe9629",
+      "title": "还是原班人马 国安靠什么11场不败？",
+      "summary": "赛季开局连续不胜 现积分榜追至第二",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681110.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-20T07:42:04.000Z"
+      "publishedAt": "2026-08-20T08:15:38.000Z"
     },
     {
-      "id": "ccecfb4d897e",
-      "title": "公平正义的抵达——新时代新征程人民法庭建设纪实",
-      "summary": "原标题：公平正义的抵达",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681055.shtml",
+      "id": "828b0f15b40f",
+      "title": "哥伦比亚灾区空中交通逐步恢复",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/gj/shipin/2026/08-20/news1065981.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-20T07:36:30.000Z"
+      "publishedAt": "2026-08-20T08:13:50.000Z"
     },
     {
-      "id": "b31d3e290d89",
-      "title": "“露营+”跨界融合解锁花式玩法 你“pick”哪一款？",
-      "summary": "一块林间草坪，一张天幕，就能收获满满的松弛感。这个暑假，露营热度持续攀升，成为最受大众欢迎的户外运动之一。数据显示，2025年我国户外运动消费总人次超8亿，消费总额突破1万亿元，露营为第一大细分户外业态。",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-20/news1066002.shtml",
+      "id": "6a1b5b6e1b23",
+      "title": "工业和信息化部再次批复民营卫星物联网业务商用试验",
+      "summary": "工业和信息化部近日再次批复民营卫星物联网业务商用试验。本次批复的浙江时空道宇科技有限公司将开展为期两年的商用试验，这是卫星物联网业务进一步扩大向民营开放的重要举措。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681102.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-20T07:35:44.000Z"
+      "publishedAt": "2026-08-20T08:11:34.000Z"
     },
     {
-      "id": "8593002d3aa7",
-      "title": "香港零售市场展现新活力 线下消费热度不减",
-      "summary": "中新网香港8月20日电 (周弈如)香港特区政府统计处最新数据显示，2026年6月香港零售业总销货价值315亿港元，同比上升4.6%，连续14个月实现正增长。当月网上零售虽录得双位数增幅，但网购仅占零售总额约9.4%，凸显香港线下零售依旧占据市场主导地位。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681048.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:35:32.000Z"
+      "id": "67e3b7545aa7",
+      "title": "‘An insult’: Zomi Frankcom’s family issues strongly-worded statement as Israel rejects criminal investigation into her killing",
+      "summary": "Penny Wong calls in Israeli ambassador as PM expresses ‘outrage’ over IDF decision Get our breaking news email , free app or daily news podcast The family of the slain Australian…",
+      "url": "https://www.theguardian.com/world/2026/aug/20/zomi-frankcom-deserved-more-slain-aid-workers-family-says-after-israel-rejects-criminal-investigation-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T08:09:32.000Z"
     },
     {
-      "id": "0576040c4c6c",
-      "title": "2026年度票房超265亿！暑期档观影场次、人数再创新高",
-      "summary": "据网络平台数据",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681051.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:35:16.000Z"
-    },
-    {
-      "id": "287b39487993",
-      "title": "海南产经新观察：海南自贸港探路数据领域国际合作",
-      "summary": "中新网海口8月20日电 (记者 王晓斌)据中国国家数据局透露，中国已有十地启动数据领域国际合作试点，初步形成错位发展、优势互补的试点布局。其中，海南自贸港侧重数据跨境流动、国际数据服务等试点探索。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681047.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:32:28.000Z"
-    },
-    {
-      "id": "642408fc9b51",
-      "title": "平台出现“优惠券游戏”，“大数据杀熟”玩起新套路",
-      "summary": "有人被砸中“大额优惠券” 有人看不见一分钱折扣",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681049.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:31:59.000Z"
+      "id": "fb82999fc7f6",
+      "title": "Alan Jones’s ‘yelling stopped’ when his ‘sexual behaviour’ began, alleged victim tells court",
+      "summary": "Sydney court hears complainant was more than 40 years younger and far less powerful than the shock jock when he started working as his driver Follow our Australia news live blog…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/alan-jones-trial-grooming-claim-adult-alleged-victim-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-20T07:47:06.000Z"
     },
     {
       "id": "9edd9509c0ab",
@@ -140,229 +390,9 @@
       "publishedAt": "2026-08-20T07:29:30.000Z"
     },
     {
-      "id": "fba6fac5e195",
-      "title": "中国国家邮政局：全国多地投用超1.6万台无人快递车",
-      "summary": "中新社北京8月20日电 (记者 刘文文)中国国家邮政局政策法规司副司长徐华荣20日在北京透露，邮政业试点应用无人派送技术，在全国多个地区投用超1.6万台无人快递车。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681034.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:29:27.000Z"
-    },
-    {
-      "id": "31a67a57d99c",
-      "title": "产业发展开新局｜今天，中国工厂到底在生产什么？",
-      "summary": "视频：产业发展开新局｜今天，中国工厂到底在生产什么？来源：新华社",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681045.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:29:05.000Z"
-    },
-    {
-      "id": "388a095f9d68",
-      "title": "2026年两岸关系研讨会在武汉开幕",
-      "summary": "中新社武汉8月20日电 (记者 马芙蓉 张晓曦)以“坚守民族大义 共谋复兴伟业”为主题的2026年两岸关系研讨会20日在武汉开幕，两岸有关人士和专家学者160余人，围绕“坚定正确认同 守护共同家园”“深化交流融合 厚植亲情福祉”等议题展开为期两天的交流研讨。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681033.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:29:01.000Z"
-    },
-    {
-      "id": "6b4922945667",
-      "title": "外交部：中国发展带给世界的不是“冲击”而是机遇，不是“挤压”而是赋能",
-      "summary": "中新网北京8月20日电(记者 张蔚然 李京泽)中国外交部发言人林剑20日主持例行记者会。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681044.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:28:47.000Z"
-    },
-    {
-      "id": "48dc39dd1b22",
-      "title": "今年1至7月广东拱北口岸免税企业销售额超11亿元",
-      "summary": "中新社广东珠海8月20日电 (邓媛雯 蔡蒙蒙)拱北海关20日发布消息称，今年1至7月，广东珠海拱北口岸免税店销售量超420万件，免税企业销售额达11.4亿元(人民币，下同)，同比增长3.9%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681035.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:28:31.000Z"
-    },
-    {
-      "id": "b79412b43946",
-      "title": "韩方称中方积极考虑安排中韩领导人在APEC会议期间会晤 中方回应",
-      "summary": "中新网北京8月20日电 (记者 张蔚然 李京泽)中国外交部发言人林剑20日主持例行记者会。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681042.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:27:27.000Z"
-    },
-    {
-      "id": "5548cad38a48",
-      "title": "重庆将增线扩能西部陆海新通道",
-      "summary": "中新社重庆8月20日电 (张旭)重庆市交通运输委员会主任何庆20日在重庆市政府新闻办举行的新闻发布会上表示，重庆将增线扩能西部陆海新通道。“十五五”时期，该市将新开工多个高铁项目、新谋划多条对外开放通道。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681036.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:26:45.000Z"
-    },
-    {
-      "id": "a947cb0a4f36",
-      "title": "如何科学用药、什么是中药五味？听专家详解",
-      "summary": "中新网上海8月20日电 (陈静 瞿乃婴)在家庭用药中，药箱打理、药品储存、服药时间、漏服药物处置、多重慢病用药等问题困扰着许多居民。复旦大学附属华东医院药剂科专家高宁舟副主任药师19日对这些问题给出了落地可行的专业指导。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681031.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:26:45.000Z"
-    },
-    {
-      "id": "59fb0e362356",
-      "title": "敦煌授时台加速助力长波授时信号全国土覆盖",
-      "summary": "中新社兰州8月20日电 (记者 冯志军 高莹)历时三年建设，中国科学院国家授时中心在甘肃敦煌建成高精度地基授时系统敦煌授时台和监测站，目前已进入试运行阶段，随着西藏那曲授时台和新疆库尔勒授时台的相继建成，将实现高精度长波授时信号的全国土覆盖。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681038.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:25:45.000Z"
-    },
-    {
-      "id": "a161a943fab9",
-      "title": "“经”彩新图景丨动能向新结构向优 三大维度观察中国经济韧性",
-      "summary": "今年以来，我国经济呈现动能向新、结构向优的发展态势,在复杂严峻的国际环境下展现出强大的稳定性和确定性。7月份，经济稳中有进，新动能培育壮大，高质量发展的底色愈发清晰——",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681041.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:25:43.000Z"
-    },
-    {
-      "id": "e0a43dc375e6",
-      "title": "今年以来北京重点示范路口守法率达93.2%",
-      "summary": "中新网北京8月20日电 (记者 吕少威)记者从北京市公安局交通管理局获悉，今年以来，该局全面推进“五项工程”建设，截至目前，在机动车、非机动车保有量双增长的背景下，北京重点路段、路口高峰时段交通拥堵指数同比下降9.1%，重点示范路口守法率达93.2%，市民群众出行的安全感、顺畅感、获得感稳步提升。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681030.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:25:03.000Z"
-    },
-    {
-      "id": "d4e3a81ec2b5",
-      "title": "身处存储“超级周期” 佰维存储董事长：不把周期当捷径",
-      "summary": "中新社北京8月20日电 (陶思阅)存储行业正身处由人工智能(AI)算力需求引爆的一轮“超级周期”中。目前，韩国三星电子和SK海力士、美国美光科技三家国际存储巨头市值均攀升至1万亿美元附近。中国企业中，“存储双子星”之一的长鑫科技总市值一度突破4万亿元人民币。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681032.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:24:27.000Z"
-    },
-    {
-      "id": "3e220000c379",
-      "title": "闷热连轴转！中东部多地经历隐形高温 冷空气何时来降温？",
-      "summary": "中国天气网讯 今起三天(8月20日至22日)，中东部暑热持续，不少地方仍将遭遇隐形高温，闷热天气昼夜连轴转。热了这么久，冷空气到底何时来降温？",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681039.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:24:25.000Z"
-    },
-    {
-      "id": "b21b7afe810d",
-      "title": "郑州航空港区：工厂里“长出”向日葵花海",
-      "summary": "图为富士康郑州综保园区里盛放的向日葵花海。崔小燕 摄 图为富士康郑州综保园区里盛放的向日葵。崔小燕 摄 图为小朋友在向日葵花海里嬉戏。崔小燕 摄 图为市民在花海里打卡拍照。崔小燕 摄 图为摄影爱好者在拍摄花海。黄禄涵 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681026.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:23:29.000Z"
-    },
-    {
-      "id": "5b3c342ebc16",
-      "title": "曾林峰任北京市西城区代区长",
-      "summary": "中新网北京8月20日电 北京市西城区第十七届人民代表大会常务委员会第四十八次会议8月20日决定：接受郅海杰辞去西城区人民政府区长职务的请求，任命曾林峰为西城区人民政府副区长、代区长。(完)",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681027.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:23:09.000Z"
-    },
-    {
-      "id": "1db580ade2ed",
-      "title": "“千年药乡”甘肃布局中药工业“智造”突围",
-      "summary": "中新网兰州8月20日电 (戴文昌)作为全国重要道地中药材资源大省，甘肃规模以上中药工业企业数量、营业收入均占该省医药工业总量的60%左右。甘肃省工信厅副厅长黄宝荣20日对外透露，该省将抢抓国家《中药工业高质量发展实施方案(2026—2030年)》政策窗口期，推动中药工业“智造”突围。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681028.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:23:05.000Z"
-    },
-    {
-      "id": "3862dd110788",
-      "title": "（活力中国调研行）福建土楼吸引游客留影",
-      "summary": "8月20日，福建省漳州市南靖县的田螺坑土楼群吸引游客留影。中新社记者 陈小愿 摄 8月20日，福建省漳州市南靖县的土楼吸引外国游客留影。中新社记者 陈小愿 摄 8月20日，福建省漳州市南靖县云水谣景区，掌中戏吸引游客。中新社记者 陈小愿 摄 8月20日，游客在福建省漳州市南靖县云水谣景区参观。中新社记者 陈小愿 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681021.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:22:21.000Z"
-    },
-    {
-      "id": "4eee8f42fe9d",
-      "title": "南京建宁路长江隧道通车",
-      "summary": "中新网南京8月20日电 (记者 朱晓颖)20日，南京建宁路长江隧道通车。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681019.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:22:11.000Z"
-    },
-    {
-      "id": "f33bcf731128",
-      "title": "全总持续推进平台算法协商 今年内预计覆盖新就业形态劳动者2500万人",
-      "summary": "中新网北京8月20日电 (记者 余湛奕)中华全国总工会新闻中心20日在北京召开2026年第三季度新闻发布会。全国总工会权益保障部副部长王海龙会上介绍，今年年内拟推动18家重点平台(企业)召开全平台协商会议并签订协商协议或合同，预计覆盖新就业形态劳动者2500万人。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681023.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:21:23.000Z"
-    },
-    {
-      "id": "bdf259b0c8ea",
-      "title": "重庆将从三方面加力“千里轻舟”品牌打造",
-      "summary": "中新网重庆8月20日电 (张旭 杨茗涵)重庆市交通运输委员会副主任李灼20日在重庆市政府新闻办举行的新闻发布会表示，重庆将从三方面发力，将“千里轻舟”打造成为具有重庆辨识度的标志性品牌。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681016.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:20:59.000Z"
-    },
-    {
-      "id": "58e74396369d",
-      "title": "长江十年行│江苏南京：长江水里“捞”清凉，省地省钱更省心",
-      "summary": "虽已立秋，南京暑气还未消退。但在江北新区市民中心大厅里，却是凉意柔和的另一番感受。这份清凉不靠楼顶空调冷却塔，而是来自脚下的长江水。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681025.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:20:55.000Z"
-    },
-    {
-      "id": "520bbace5680",
-      "title": "外交部：对伊朗制裁施压无助于问题的解决 中方呼吁通过政治外交途径解决问题",
-      "summary": "据报道，美国总统特朗普19日宣布对伊朗实施“毁灭性经济行动”。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681024.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-20T07:20:47.000Z"
-    },
-    {
       "id": "4b163c61d073",
       "title": "Kyiv comes under heavy Russian missile attack, killing at least 13",
-      "summary": "Children’s hospital and residential areas hit in latest bombardment of capital and surrounding region A heavy Russian bombardment has killed at least 13 people in Ukraine’s capit…",
+      "summary": "Children’s hospital and residential areas hit in latest bombardment of capital and surrounding region Europe live – latest updates A heavy Russian bombardment has killed at least…",
       "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
       "source": "The Guardian World",
       "category": "国际",
@@ -390,16 +420,6 @@
       "publishedAt": "2026-08-20T06:48:56.000Z"
     },
     {
-      "id": "14637e0d35b4",
-      "title": "Erin Patterson’s mushroom murders sentence too lenient and she should die behind bars, prosecutors argue",
-      "summary": "Crown prosecutor tells Victorian court that all seven of Patterson’s grounds for appeal should fail while arguing for tougher sentence Get our breaking news email , free app or d…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/erin-patterson-appeal-mushroom-murders-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T06:44:17.000Z"
-    },
-    {
       "id": "aabec0a32b1e",
       "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
       "summary": "深圳法院裁定沒收許家印個人全部財產；已被頒令清盤的恆大集團與恆大地產合共被罰款158.2億元人民幣（23.52億美元；749.45億元新台幣）。",
@@ -410,19 +430,9 @@
       "publishedAt": "2026-08-20T06:43:47.000Z"
     },
     {
-      "id": "5413e11a0d3b",
-      "title": "Zomi Frankcom: Penny Wong condemns ‘insulting’ decision to clear IDF over Gaza strikes that killed Australian aid worker",
-      "summary": "Israeli government decides not to pursue criminal proceedings over 2024 triple drone strike that killed Australian aid worker and six others Follow our Australia news live blog f…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T06:11:31.000Z"
-    },
-    {
       "id": "3da8b1e1bd3b",
       "title": "Melancholy made in Hungary is fuelling bestsellers across the globe – and widely misunderstood",
-      "summary": "A ‘capacity for despair’ forged by political oppression has long been consider a Magyar national trait. But after Orbán, writers in the country remind us that melancholy must not…",
+      "summary": "A ‘capacity for despair’ forged by political oppression has long been considered a Magyar national trait. But after Orbán, writers in the country remind us that melancholy must n…",
       "url": "https://www.theguardian.com/books/2026/aug/20/melancholy-made-in-hungary-is-fuelling-bestsellers-across-the-globe-and-widely-misunderstood",
       "source": "The Guardian World",
       "category": "国际",
@@ -438,6 +448,16 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-20T04:53:44.000Z"
+    },
+    {
+      "id": "d0f3894d6f9a",
+      "title": "It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well",
+      "summary": "For most of modern history, technology sought to imitate humans. Humans increasingly seek to imitate technology Two faces that appeared on my Instagram feed in recent months gave…",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-20T04:00:42.000Z"
     },
     {
       "id": "9043d1ff0525",
@@ -498,6 +518,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-20T00:07:18.000Z"
+    },
+    {
+      "id": "f2ba5da40224",
+      "title": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
+      "summary": "Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it com…",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-19T21:30:11.000Z"
     },
     {
       "id": "2e127157abc3",
@@ -590,6 +620,16 @@
       "publishedAt": "2026-08-19T15:12:36.000Z"
     },
     {
+      "id": "fe9eee5c9c3f",
+      "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
+      "summary": "Regulator says verifiable safety measures are ‘critical’ to the online service’s viability Follow our Australia news live blog for latest updates Get our breaking news email , fr…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/roblox-esafety-commissioner-children-adults-ntwnfb",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-19T15:00:17.000Z"
+    },
+    {
       "id": "adf85fafc406",
       "title": "In Big Walk, players just walk and talk – and find joy along the way: ‘Some stories we’ve heard are punch-in-the-gut beautiful’",
       "summary": "After their hit Untitled Goose Game, Australian studio House House is back with a new game where your only goal is to go exploring with friends – so we took them on a big walk in…",
@@ -664,7 +704,7 @@
       "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
       "summary": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of j…",
       "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
-      "source": "The Guardian Technology",
+      "source": "The Guardian Business",
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-19T11:00:13.000Z"
@@ -728,16 +768,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-19T03:47:12.000Z"
-    },
-    {
-      "id": "2e2f5e6b08cd",
-      "title": "專門減肥藥能否提升運動員表現？",
-      "summary": "GLP-1減重藥物能夠減輕體重並改善健康，但它們是否也能提升運動表現？科學家表示目前證據尚不明確，但爭論正日益升溫。",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-19T00:07:17.000Z"
     },
     {
       "id": "0179c2e3c399",
@@ -810,6 +840,16 @@
       "publishedAt": "2026-08-18T15:28:57.000Z"
     },
     {
+      "id": "77be12604144",
+      "title": "Reel-ing it in: Meta is paying influencers to promote teen accounts",
+      "summary": "Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered p…",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-18T13:00:47.000Z"
+    },
+    {
       "id": "bd269aa88549",
       "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
       "summary": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live – latest updates Oil prices have risen again afte…",
@@ -850,6 +890,16 @@
       "publishedAt": "2026-08-18T09:01:05.000Z"
     },
     {
+      "id": "37be1eccc87e",
+      "title": "Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape",
+      "summary": "There are many tech irritants that are a scourge of modern life, yet we have lacked the vocabulary to describe them ... until now The “dickover” is the scourge of the modern age.…",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-18T09:00:20.000Z"
+    },
+    {
       "id": "a2c4d792e931",
       "title": "Dressmaker – a canvas for the creativity of dream dress design",
       "summary": "Co-created by a developer and his sewing-obsessed partner, this design game is ‘the most technically challenging’ its lead programmer has ever made When Jonathan Hau-Yoon wanted…",
@@ -858,16 +908,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-18T09:00:19.000Z"
-    },
-    {
-      "id": "8c8070590a15",
-      "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
-      "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen? One of the str…",
-      "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-18T04:00:13.000Z"
     },
     {
       "id": "89466f869588",
@@ -970,6 +1010,16 @@
       "publishedAt": "2026-08-17T14:07:31.000Z"
     },
     {
+      "id": "3aff43276d05",
+      "title": "Sainsbury’s store pauses AI scanning after false shoplifting accusation",
+      "summary": "Supermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customer Sainsbury’s has paused the use of AI face scanning in one of its stores after…",
+      "url": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-17T13:21:25.000Z"
+    },
+    {
       "id": "44f0665c2de2",
       "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
       "summary": "美國30個州已對Meta提起訴訟，要求徹底改革年輕用戶的社交平台。",
@@ -1000,16 +1050,6 @@
       "publishedAt": "2026-08-17T04:00:46.000Z"
     },
     {
-      "id": "159b18c41326",
-      "title": "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
-      "summary": "Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Aust…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-17T02:58:05.000Z"
-    },
-    {
       "id": "72b11875ae5c",
       "title": "After Hormuz, China looks to the promise – and peril – of the Arctic’s ‘ice silk road’",
       "summary": "China has established the first scheduled transit through the northern sea route, but questions remain over the environmental and political risks When Marco Rubio suggested that…",
@@ -1038,16 +1078,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-16T15:00:30.000Z"
-    },
-    {
-      "id": "872f31081085",
-      "title": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
-      "summary": "Amid fears for jobs, some film-makers say AI could enable them to bypass studio giants and take more creative risks Near the collonaded entrance to Sony Pictures’ historic Culver…",
-      "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-16T12:00:25.000Z"
     },
     {
       "id": "af099ca7bfad",
@@ -1198,36 +1228,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-12T23:22:48.000Z"
-    },
-    {
-      "id": "1641420a44ae",
-      "title": "Greenland forces Trump-linked US oil firm to delay drilling",
-      "summary": "US envoy had claimed Americans could be extracting crude by as early as next year Greenland authorities have forced a US oil company connected to Donald Trump to postpone drillin…",
-      "url": "https://www.theguardian.com/world/2026/aug/12/trump-greenland-oil",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-12T18:00:41.000Z"
-    },
-    {
-      "id": "d8c6736115f6",
-      "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
-      "summary": "A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are useful Japan’s yen has slid back towards 160 to the dollar, de…",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/the-guardian-view-on-japans-yen-trump-wants-to-keep-the-easy-money-machine-running",
-      "source": "The Guardian Business",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-12T17:39:46.000Z"
-    },
-    {
-      "id": "0f441c207d96",
-      "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
-      "summary": "中國前總理朱鎔基週三在北京逝世。在1990至2000年代擔任副總理和總理期間，他主導中國經濟改革逾十年，被外界稱為中國「經濟沙皇」。",
-      "url": "https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-12T15:24:03.000Z"
     }
   ]
 }
