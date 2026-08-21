@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T19:50:40.591Z",
+  "updatedAt": "2026-08-21T20:34:10.289Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "805e4625feeb",
+      "title": "Dutch regulator fines Uber $966m for automating driver suspensions",
+      "summary": "European regulators have imposed billions in penalties on US technology companies due to privacy, competition and digital market rules The Dutch data protection authority has fin…",
+      "url": "https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions",
+      "source": "The Guardian World",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-21T20:12:33.000Z"
+    },
     {
       "id": "12681a12c00a",
       "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
@@ -598,16 +608,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-21T04:54:01.000Z"
-    },
-    {
-      "id": "c1ad5b3fd432",
-      "title": "Anxiety over war, wildfires and cyber-attacks leads to growth in cash stocks in EU",
-      "summary": "Value of banknotes in circulation rises from €1tn in 2016 to €1.6tn in 2026 as people advised to keep stash of cash The number of banknotes in circulation in the EU is increasing…",
-      "url": "https://www.theguardian.com/world/2026/aug/21/anxiety-over-war-wildfires-and-cyber-attacks-leads-to-growth-in-cash-stocks-in-eu",
-      "source": "The Guardian World",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-21T04:00:24.000Z"
     },
     {
       "id": "a7a4ffbee761",
