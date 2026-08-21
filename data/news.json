@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T14:45:53.233Z",
+  "updatedAt": "2026-08-21T15:41:52.998Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,96 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "3a4115d38265",
+      "title": "美国政府紧急下场救市难解美债危局",
+      "summary": "美国的债务问题，已经到了连自己人都捂不住的地步了。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682122.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-21T15:35:11.000Z"
+    },
+    {
+      "id": "77d152c757e9",
+      "title": "超100家创科企业已签约河套香港园区",
+      "summary": "中新社香港8月21日电 香港特区政府政务司司长陈国基21日在社交媒体发文表示，河套深港科技创新合作区香港园区(简称“河套香港园区”)自2025年底开园以来，已有超过100家创科企业签订租约并陆续进驻，近2000名人员在园区工作，连同新田科技城协同发展，正逐步构建完整的产业生态圈，充分发挥“以产聚才”的作用。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-21/10682124.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-21T15:33:12.000Z"
+    },
+    {
+      "id": "01d260f23310",
+      "title": "旅德大熊猫双胞胎两岁生日记",
+      "summary": "中新社柏林8月21日电 题：旅德大熊猫双胞胎两岁生日记",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10682123.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-21T15:28:50.000Z"
+    },
+    {
+      "id": "1a9e609c3fd7",
+      "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
+      "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-p…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-21T15:22:48.000Z"
+    },
+    {
+      "id": "9541814ef5e4",
+      "title": "土耳其请求国际刑警组织对内塔尼亚胡发出红色通缉令",
+      "summary": "当地时间21日，土耳其司法部长居尔莱克表示，土耳其已请求国际刑警组织对以色列总理内塔尼亚胡发出红色通缉令，指控其袭击试图向加沙运送人道主义援助物资的活动人士。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10682120.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-21T15:06:11.000Z"
+    },
+    {
+      "id": "b52636cb9d14",
+      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
+      "summary": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have…",
+      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-21T15:03:34.000Z"
+    },
+    {
+      "id": "1aa205174881",
+      "title": "NSW ‘seeking urgent advice’ on controversial court ruling that found anti-Israel vandalism was not antisemitic",
+      "summary": "Attorney general considering appeal after justice Desmond Fagan knocks back terror order request for Mohommed Farhat who wrote ‘Fuk Israel’ on cars Get our breaking news email ,…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-21T15:00:39.000Z"
+    },
+    {
+      "id": "0dd052d936f8",
+      "title": "Cults, setups, and devastating rumours: years after their downfalls, these former NSW MPs are exacting their revenge",
+      "summary": "David Elliott and Eleni Petinos believe they were brought down by their own party. The Icac hearing has given them a chance to set the record straight Get our breaking news email…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/cults-setups-and-devastating-rumours-years-after-their-downfalls-these-former-nsw-mps-are-exacting-their-revenge-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-21T15:00:37.000Z"
+    },
+    {
+      "id": "1b70ee8605d7",
+      "title": "Gun stash in German forest believed to be linked to Russia, say reports",
+      "summary": "Germany seeking to extradite suspect from Romania over guns it is feared could have been used ⁠in assassinations Germany is seeking to extradite a suspect from Romania over the d…",
+      "url": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-21T14:51:05.000Z"
+    },
+    {
       "id": "49192ecd95c3",
       "title": "怕说错话？怕被人议论？控制不住思虑？别着急，两招教你缓解职场焦虑",
       "summary": "立秋已过，处暑将至，暑热渐消，天气渐凉，日常饮食起居宜从防暑湿逐步过渡为防秋燥、健脾胃。季节交替之际，如何更好保持健康？在国家卫生健康委员会8月21日的新闻发布会上，多位健康专家就相关问题给出了健康提示。",
@@ -48,16 +138,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-21T14:20:08.000Z"
-    },
-    {
-      "id": "b52636cb9d14",
-      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-      "summary": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have…",
-      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-21T14:17:17.000Z"
     },
     {
       "id": "e7c9f34b59ea",
@@ -330,46 +410,6 @@
       "publishedAt": "2026-08-21T13:35:35.000Z"
     },
     {
-      "id": "99bbc21daf57",
-      "title": "从一只被救助藏羚羊看西藏生态保护新变化",
-      "summary": "中新网拉萨8月21日电 题：从一只被救助藏羚羊看西藏生态保护新变化",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682081.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-21T13:35:05.000Z"
-    },
-    {
-      "id": "78d976d71851",
-      "title": "今年前7个月香港国际机场总客运量3840万人次 同比增11.2%",
-      "summary": "中新社香港8月21日电 香港机场管理局(简称“机管局”)21日公布，香港国际机场今年前7个月的总客运量为3840万人次，同比增长11.2%；飞机起降量同比上升4.0%至23.49万架次；总货运量同比增长3.2%至292万吨，其中，东南亚及欧洲市场货运量分别同比增长14%和11%。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-21/10682084.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-21T13:34:27.000Z"
-    },
-    {
-      "id": "a4c56a304822",
-      "title": "孟加拉国总统阿拉姆吉尔宣誓就职",
-      "summary": "当地时间21日19时30分，阿拉姆吉尔在总统府宣誓就任孟加拉国总统。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10682092.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-21T13:34:19.000Z"
-    },
-    {
-      "id": "a8f610f49edd",
-      "title": "宋庆龄少年儿童发明奖参赛者：创新源于生活",
-      "summary": "中新网北京8月21日电 (记者 刘大炜)多位第二十一届宋庆龄少年儿童发明奖参赛者21日在北京接受中新网采访时表示，创新来源于生活，他们的参赛作品灵感多来自日常观察与思考。关注身边问题，才能做出有温度、有价值的发明。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682085.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-21T13:33:27.000Z"
-    },
-    {
       "id": "2086df31c715",
       "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
       "summary": "法庭認為，支聯會雖未使用或鼓吹暴力手段，但中國《香港國安法》頒布後，三人仍堅持「結束一黨專政」行動綱領，屬於「顛覆國家政權」罪中的「其他非法手段」。",
@@ -378,16 +418,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-21T13:24:42.000Z"
-    },
-    {
-      "id": "1b70ee8605d7",
-      "title": "Gun stash discovered in German forest believed to be linked to Russia, say reports",
-      "summary": "Authorities believe handguns found in forest near Berlin were ⁠to be used ⁠to ​carry out assassinations for Russian intelligence Germany is seeking to extradite a suspect from Ro…",
-      "url": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-21T13:09:46.000Z"
     },
     {
       "id": "db833018a9de",
@@ -422,10 +452,10 @@
     {
       "id": "a51777a8bd32",
       "title": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
-      "summary": "Meat producer closes facilities in Utah and Iowa as beef prices rise for consumers amid historic cattle shortage Tyson Foods, the largest meatpacking company in the US, announced…",
+      "summary": "Meat producer closes facilities in Utah and Illinois as beef prices rise for consumers amid historic cattle shortage People in the US: how much do you spend on food per month? Ty…",
       "url": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
       "source": "The Guardian Business",
-      "category": "商业",
+      "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-21T11:00:34.000Z"
     },
@@ -471,8 +501,8 @@
     },
     {
       "id": "2326c840fa93",
-      "title": "Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York",
-      "summary": "Exclusive: Planning documents show datacentre in North Ockendon would be incompatible with UK net zero targets A “hyperscale” datacentre in outer London would generate more than…",
+      "title": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
+      "summary": "Exclusive: Planning documents show annual emissions from North Ockendon project would be equivalent to 8,480 flights to New York A “hyperscale” datacentre in outer London would g…",
       "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
       "source": "The Guardian Technology",
       "category": "科技",
@@ -540,16 +570,6 @@
       "publishedAt": "2026-08-21T07:11:46.000Z"
     },
     {
-      "id": "e637301398d3",
-      "title": "Former NSW Liberal minister tells Icac ‘cult took over the party’",
-      "summary": "David Elliott tells inquiry of branch stacking and death threats as Catholic Schools NSW sack boss after appearance Follow our Australia news live blog for latest updates Get our…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/21/catholic-schools-nsw-ceo-dallas-mcinerney-sacked-after-icac-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-21T06:06:54.000Z"
-    },
-    {
       "id": "a6be9f29c6e6",
       "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
       "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied We…",
@@ -558,16 +578,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-21T06:00:26.000Z"
-    },
-    {
-      "id": "24531d0c2d70",
-      "title": "Brethren church denies paying far-right activists to stage election stunts targeting Albanese and others",
-      "summary": "Church director tells parliamentary inquiry reporting by Nine newspapers a ‘complete lie’ Follow our Australia news live blog for latest updates Get our breaking news email , fre…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/21/brethren-church-denies-paying-far-right-activists-to-stage-election-stunts-targeting-albanese-and-others-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-21T05:02:52.000Z"
     },
     {
       "id": "518719794b7f",
@@ -1138,16 +1148,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-17T00:09:23.000Z"
-    },
-    {
-      "id": "adc8c29dd4e4",
-      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-      "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has laun…",
-      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-16T18:44:41.000Z"
     },
     {
       "id": "b89d41bf3b66",
