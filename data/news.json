@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T15:41:52.998Z",
+  "updatedAt": "2026-08-21T16:44:58.456Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "a51777a8bd32",
+      "title": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
+      "summary": "Meat producer closes facilities in Utah and Illinois as beef prices rise for consumers amid historic cattle shortage People in the US: how much do you spend on food per month? Ty…",
+      "url": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-21T16:01:43.000Z"
+    },
+    {
+      "id": "a2ca3a72be0f",
+      "title": "中国印尼外长防长“2+2”对话机制举行第二次部长级会议",
+      "summary": "中新社雅加达8月21日电 (记者 李志全)中国印尼外长防长“2+2”对话机制第二次部长级会议21日在雅加达举行，外交部长王毅、国防部长董军同印度尼西亚外长苏吉约诺、防长沙夫里共同主持，双方进行了深入战略沟通，达成一系列重要共识。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10682129.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-21T15:54:56.000Z"
+    },
     {
       "id": "3a4115d38265",
       "title": "美国政府紧急下场救市难解美债危局",
@@ -400,16 +420,6 @@
       "publishedAt": "2026-08-21T13:35:55.000Z"
     },
     {
-      "id": "410f5218b03d",
-      "title": "广东台山“黑暗料理”出圈 丑萌泥虫成食客打卡新宠",
-      "summary": "中新网江门8月21日电 题：广东台山“黑暗料理”出圈丑萌泥虫成食客打卡新宠",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682083.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-21T13:35:35.000Z"
-    },
-    {
       "id": "2086df31c715",
       "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
       "summary": "法庭認為，支聯會雖未使用或鼓吹暴力手段，但中國《香港國安法》頒布後，三人仍堅持「結束一黨專政」行動綱領，屬於「顛覆國家政權」罪中的「其他非法手段」。",
@@ -448,16 +458,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-21T11:05:58.000Z"
-    },
-    {
-      "id": "a51777a8bd32",
-      "title": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
-      "summary": "Meat producer closes facilities in Utah and Illinois as beef prices rise for consumers amid historic cattle shortage People in the US: how much do you spend on food per month? Ty…",
-      "url": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-21T11:00:34.000Z"
     },
     {
       "id": "7a569fc7cf9e",
