@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:49:48.236Z",
+  "updatedAt": "2026-08-21T19:31:48.567Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "12681a12c00a",
+      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
+      "summary": "Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis Get our breaking news email , free app or daily news podcast Victoria…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-21T19:00:42.000Z"
+    },
     {
       "id": "e5d910b2769f",
       "title": "越南青年赴广西研学 感知中国科创活力",
@@ -558,16 +568,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-21T07:34:43.000Z"
-    },
-    {
-      "id": "d6a5724e6e74",
-      "title": "Australian police charge man accused of attempting to share Ukrainian military intel with Russian agents",
-      "summary": "Vladmir Teslov, 27, charged after allegedly seeking to provide information about Ukrainian forces to ‘Russian intelligence services’ Australian police have charged a man who alle…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/21/vladimir-teslov-australian-charged-sharing-ukraine-intel-russian-agents-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-21T07:11:46.000Z"
     },
     {
       "id": "a6be9f29c6e6",
