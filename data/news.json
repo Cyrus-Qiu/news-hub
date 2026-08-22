@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T22:51:55.135Z",
+  "updatedAt": "2026-08-22T23:28:41.417Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "edba1453b3c8",
+      "title": "“中国值得反复探索”——解码“中国游”的新与变",
+      "summary": "【文旅观察】",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682504.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T23:24:59.000Z"
+    },
+    {
+      "id": "9aeb56350042",
+      "title": "8月23日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-23/10682503.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T23:14:32.000Z"
+    },
+    {
+      "id": "2f1610a20d68",
+      "title": "从“民生痛点”到“旅游爆点”：悬崖电梯托起山乡新希望",
+      "summary": "随着悬崖之上的电梯徐徐攀升，人的视野豁然开朗。全透明的玻璃幕墙外，尼珠河谷底被绝壁环绕、被河水滋养、被时光遗忘又被旅游唤醒的尼珠河村，迎接着峡谷之外好奇的目光。数名身穿红色马甲的年轻人熟练地操作着电梯按钮，这是景区为附近村寨大学生提供的暑假工作岗位。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682502.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T23:07:42.000Z"
+    },
     {
       "id": "b8ca973af6ce",
       "title": "2026羽毛球世锦赛：中国组合梁伟铿/王昶挺进男双决赛",
@@ -202,7 +232,7 @@
     {
       "id": "de9106f840b1",
       "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The trade row is the biggest rupture in recent relations be…",
+      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, a…",
       "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
       "source": "The Guardian World",
       "category": "财经",
@@ -318,36 +348,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-22T12:58:53.000Z"
-    },
-    {
-      "id": "5387844e2485",
-      "title": "“蛋饼叔叔”看望患病男孩时几度哽咽 自掏腰包垫付善款助力治疗",
-      "summary": "中新网合肥8月22日电 (彭旭升 张俊 游蕾)“乖乖的，听爸爸妈妈的话，叔叔以后还会帮你，祝你早日康复。”站在病房里，被网友称作“蛋饼叔叔”的合肥摊主王贤黄，声音哽咽地对着孩子说。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682470.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:58:33.000Z"
-    },
-    {
-      "id": "49cb97dbdf08",
-      "title": "香江观澜：皇岗口岸见证港深融合新探索 制度创新提速湾区发展",
-      "summary": "中新社香港8月22日电 题：皇岗口岸见证港深融合新探索 制度创新提速湾区发展",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-22/10682465.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:57:29.000Z"
-    },
-    {
-      "id": "320415f6de87",
-      "title": "“追寻”云南百岁学人张文勋 百余幅翰墨昆明贺寿",
-      "summary": "中新网昆明8月22日电 (陆希成)丹顶鹤立于青松之上的国画、“德高寿长”四个擘窠大字、只书“追寻”二字的一纸书法……22日，位于云南省昆明市的云南省图书馆展厅内，100余幅书画作品沿墙铺陈，落款各异，同贺云南百岁学人张文勋。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682468.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:57:21.000Z"
     },
     {
       "id": "2c70430db957",
