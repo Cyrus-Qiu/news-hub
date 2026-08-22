@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:52:01.720Z",
+  "updatedAt": "2026-08-22T15:29:31.470Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,46 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "f3cd52d8aba2",
+      "title": "世界人形机器人运动会北京开幕 上千台机器人亮相",
+      "summary": "中新社北京8月22日电 (记者 吕少威 陈杭 徐婧)22日晚，位于北京的国家速滑馆“冰丝带”星光闪耀，第二届世界人形机器人运动会在此拉开帷幕。上千台人形机器人精彩亮相，共同开启这一科技与体育交融的全球竞技盛会。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682489.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T15:07:20.000Z"
+    },
+    {
+      "id": "dd0e078f9e1d",
+      "title": "美官员：约40艘油轮21日晚通过霍尔木兹海峡",
+      "summary": "据美国方面当地时间22日消息，三名美国官员称，21日晚间，有约40艘油轮通过霍尔木兹海峡南侧航道，向外运出原油约1600万桶。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682488.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T14:57:47.000Z"
+    },
+    {
+      "id": "e979b7ac02be",
+      "title": "爱知·名古屋亚运会火炬传递启动",
+      "summary": "中新社东京8月22日电 (记者 朱晨曦)据日本共同社报道，2026年爱知·名古屋亚运会火炬22日在位于爱知县的名古屋城启动传递，女子摔跤奥运会三连冠得主吉田沙保里担任首棒火炬手。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682483.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T14:53:47.000Z"
+    },
+    {
+      "id": "9278eb0f89d4",
+      "title": "2026年中国贵阳亚洲青年攀岩锦标赛 中国队包揽U17女子攀石前三",
+      "summary": "中新社贵阳8月22日电 (记者 张伟)2026年中国贵阳亚洲青年攀岩锦标赛开赛仪式22日晚在贵州·彩湖国际攀岩中心举行。中国队当日在U17女子攀石项目实现奖牌全包揽，谭有恬摘得冠军，李美妮收获银牌，卢一镜拿下铜牌。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682482.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T14:52:28.000Z"
+    },
     {
       "id": "de9106f840b1",
       "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
@@ -300,36 +340,6 @@
       "publishedAt": "2026-08-22T12:32:18.000Z"
     },
     {
-      "id": "a60a4b4462bf",
-      "title": "黑龙江省工商联代表团赴港澳考察对接交流",
-      "summary": "中新网哈尔滨8月22日电 (韩雪)为对接粤港澳大湾区建设国家战略，服务新时代东北全面振兴，8月20日至21日，黑龙江省委统战部副部长、工商联党组书记夏天率经贸代表团赴香港、澳门开展考察对接。代表团走访7家港澳工商社团，围绕产业协同、经贸互通、平台共建开展务实洽谈，达成多项合作共识。黑龙江省工商联及省内多家重点商会负责人参加活动。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-22/10682448.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:31:32.000Z"
-    },
-    {
-      "id": "59fe47d11a74",
-      "title": "最新研究：晚期肝癌患者先服药再手术或可得无瘤生存的机会",
-      "summary": "中新网上海8月22日电 (记者 陈静)肝细胞癌(以下简称“肝癌”)是严重威胁中国民众健康的一种恶性肿瘤。中国医学专家的一项最新研究结果率先表明，医生对药物系统治疗有效的晚期肝癌患者实施手术切除，可能给患者提供无瘤生存的机会。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682447.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:31:06.000Z"
-    },
-    {
-      "id": "a79d2dcb347e",
-      "title": "AI重塑创业单元 重庆“一人公司”如何叩响“未来之门”",
-      "summary": "中新网重庆8月22日电(黄维正)七夕氛围刚刚散去，重庆市两江新区海王星数字文创园星运OPC社区里，同声相应(重庆)人工智能科技有限公司这家“一人公司”却一点没闲。他们刚刚赶在七夕来临前，上线了两款小程序，一款做组织活动，一款做婚恋交友，计划在这几天利用校友会资源开启测试与市场投放。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682446.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:29:22.000Z"
-    },
-    {
       "id": "2c70430db957",
       "title": "Man leaves young son on Mount Fuji before ascending Japan’s highest peak",
       "summary": "Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Ja…",
@@ -338,16 +348,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-22T12:25:16.000Z"
-    },
-    {
-      "id": "7ae6317f8d23",
-      "title": "多元业态升级！“电影+”延伸光影消费链条",
-      "summary": "这个暑期，各地积极探索“电影+”融合发展新模式，通过影院场景升级、影视文旅深度融合，不断延伸光影消费链条。在成都，多家影院悄然升级。看电影、逛文创店、喝咖啡、玩游戏，影院正从单一观影空间变身“一站式”消费场景。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682445.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:16:33.000Z"
     },
     {
       "id": "7a0f5bd4fb25",
