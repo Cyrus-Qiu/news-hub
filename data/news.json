@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T17:51:18.806Z",
+  "updatedAt": "2026-08-22T18:42:02.267Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "b360d17ebc45",
+      "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
+      "summary": "Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacke…",
+      "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-22T18:11:55.000Z"
+    },
     {
       "id": "e90537106ec6",
       "title": "普京称俄军加大对乌企业打击",
@@ -508,16 +518,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-21T15:00:39.000Z"
-    },
-    {
-      "id": "1b70ee8605d7",
-      "title": "Gun stash in German forest believed to be linked to Russia, say reports",
-      "summary": "Germany seeking to extradite suspect from Romania over guns it is feared could have been used ⁠in assassinations Germany is seeking to extradite a suspect from Romania over the d…",
-      "url": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-21T14:51:05.000Z"
     },
     {
       "id": "061c23101f8c",
