@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T13:38:41.325Z",
+  "updatedAt": "2026-08-22T14:30:19.106Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,86 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "de9106f840b1",
+      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, a…",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-22T14:04:57.000Z"
+    },
+    {
+      "id": "873db51cb5d9",
+      "title": "2026年贵州“星火杯”国际少年足球邀请赛收官",
+      "summary": "【东盟专线】2026年贵州“星火杯”国际少年足球邀请赛收官",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682481.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T14:03:42.000Z"
+    },
+    {
+      "id": "605c63623815",
+      "title": "侨链全球开新局 第十二届侨交会收官",
+      "summary": "中新社深圳8月22日电 (记者 索有为)第十二届华人华侨产业交易会(简称“侨交会”)暨2026亚太产业合作与出海博览会22日在深圳落下帷幕，为期三天的展会累计入场专业观众3.5万人次，来自全球50多个国家和地区的境外采购商赴会对接。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682476.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T13:50:45.000Z"
+    },
+    {
+      "id": "9102eed44f4d",
+      "title": "皇岗口岸举行首次港深联合压力测试 旅客1分钟内可通过合作查验通道",
+      "summary": "中新社香港8月22日电 (记者 邱兆翔 孙悦)香港特区政府22日在皇岗口岸首次与深圳相关单位合作举行人流车流压力测试，特区政府共动员逾万名公务员和约1000辆香港私家车参与。中新社记者在现场看到，旅客1分钟内即可通过合作查验自助通道的三道闸机，完成两地出入境手续。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-22/10682474.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T13:49:25.000Z"
+    },
+    {
+      "id": "7348dc76bda1",
+      "title": "故宫出版社新书讲述18世纪西方人视角下的东西文化交流",
+      "summary": "中新社北京8月22日电 (记者 应妮)1760年6月，33岁的法国人皮埃尔·马蒂亚尔·西博(P.Pierre Martial Cibot)抵达北京；260多年后，其家族后人在北京出版书籍《泰然的忧伤者：法国人韩国英在乾隆宫廷》，通过书信、图画、历史照片讲述昔日西方人视角下的东西文化交流。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682473.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T13:48:23.000Z"
+    },
+    {
+      "id": "c6803cea6e04",
+      "title": "（经济观察）算力也能“存”和“买” 中国探索“算力银行”“算力超市”",
+      "summary": "中新社北京8月22日电(记者 刘亮)中国工信部近期发文开展“普惠算力赋能中小企业发展”专项行动，首次明确提出探索“算力银行”和“算力超市”两大创新业务。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682472.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T13:47:40.000Z"
+    },
+    {
+      "id": "46a1bde1e468",
+      "title": "关灯看手机伤眼不可逆 三个方法降低伤害→",
+      "summary": "是不是一关灯就躺着刷手机，越刷越停不下来？黑暗里看手机，伤害都是悄悄累积的，很多人等到难受才后悔，损伤已经不可逆！关灯玩手机有三大致命伤害，三条底线一定要记住。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-22/10682477.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T13:45:54.000Z"
+    },
+    {
+      "id": "682eef6e03e8",
+      "title": "福建启动防台风四级应急响应 平潭所有客渡船停航",
+      "summary": "中新社福州8月22日电 (记者 张金川 张丽君)受今年第20号台风“简拉维”影响，福建省防汛抗旱指挥部22日15时启动防台风四级应急响应。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682475.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-22T13:40:02.000Z"
+    },
     {
       "id": "6c916f0019c3",
       "title": "重庆武陵山大裂谷：绝壁幽谷引客来",
@@ -270,76 +350,6 @@
       "publishedAt": "2026-08-22T12:16:33.000Z"
     },
     {
-      "id": "91fdd8e9f179",
-      "title": "云港台近40名选手在云南抚仙湖扬帆竞速",
-      "summary": "8月22日，起航前选手相互鼓励。中新社记者 黄兴鸿 摄 8月22日，选手在升帆。中新社记者 黄兴鸿 摄 8月22日，比赛帆船依次驶入起航点。中新社记者 黄兴鸿 摄 8月22日，参赛选手扬帆竞速。中新社记者 黄兴鸿 摄 8月22日，参赛帆船绕标。中新社记者 黄兴鸿 摄 8月22日，两条帆船水中角逐。中新社记者 黄兴鸿 摄 8月22日，选手默契配合进行转向。…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682440.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:14:51.000Z"
-    },
-    {
-      "id": "50d5a009b335",
-      "title": "中国主题出版物及文创展在悉尼举行",
-      "summary": "中新社悉尼8月22日电 (记者 薄雯雯)中国主题出版物及文创展22日在澳大利亚悉尼开幕，来自中澳两国出版界、文化界、教育界等领域的近百位嘉宾出席。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682439.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:12:09.000Z"
-    },
-    {
-      "id": "737475ef1d6c",
-      "title": "宁夏长城非遗展览馆试运营",
-      "summary": "中新社银川8月22日电 (记者 李佩珊)坐落于宁夏银川灵武市水洞沟遗址保护区内的宁夏长城非物质文化遗产展览馆22日开启试运营。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682441.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:11:49.000Z"
-    },
-    {
-      "id": "20a9d1b4bc36",
-      "title": "2026年度电影总票房超270亿！暑期档成绩亮眼刷新两项纪录",
-      "summary": "据网络平台数据",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682443.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:11:17.000Z"
-    },
-    {
-      "id": "36e3ad817399",
-      "title": "第十届海峡两岸艺术名家邀请展在台北开展",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201793.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:10:49.000Z"
-    },
-    {
-      "id": "86eba6d0a91f",
-      "title": "内部渠道免试代办教师资格证？警方：警惕诈骗！",
-      "summary": "近日，有个别不法分子在网络上散布虚假信息骗取钱财。他们称教师资格证可内部渠道免试拿证，证书官网可查。北京警方近期就打掉了一个以代办教师资格证为名实施诈骗的团伙，23人被刑拘。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682438.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:06:14.000Z"
-    },
-    {
-      "id": "a57957ddc487",
-      "title": "黄金有罪？笑话！",
-      "summary": "这段时间，金价一路狂“飙”，新的莫须有“罪名”又上门了。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-22/10682437.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-22T12:03:16.000Z"
-    },
-    {
       "id": "7a0f5bd4fb25",
       "title": "Diamonds for sale: lab-grown gem auctions are all over TikTok right now, but some aren’t happy about it",
       "summary": "Streamed auctions offer a cheap way to buy the precious gems, but experts warn that quality is not guaranteed The first time Andrea Greenhill came across a livestream auction for…",
@@ -358,16 +368,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-22T09:54:03.000Z"
-    },
-    {
-      "id": "de9106f840b1",
-      "title": "Canada vows to match Trump’s tariffs ‘dollar for dollar’ after trade talks fail",
-      "summary": "Mark Carney accuses US of ‘unfair’ last-minute changes to deal that would have averted 50% import taxes The Canadian prime minister, Mark Carney, has promised to match US tariffs…",
-      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-22T09:45:27.000Z"
     },
     {
       "id": "07e5ed7023dc",
