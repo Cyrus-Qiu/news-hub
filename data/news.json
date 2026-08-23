@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:41:11.379Z",
+  "updatedAt": "2026-08-23T09:36:11.512Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,76 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "2ae5fdf0f8c0",
+      "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
+      "summary": "2026年8月17日，外交部副部长苗得雨在北京会见来访的伊朗外交部副部长加里布阿巴迪。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682727.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T09:13:08.000Z"
+    },
+    {
+      "id": "0508b87dbfb9",
+      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+      "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack tha…",
+      "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+      "source": "The Guardian World",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-23T09:07:44.000Z"
+    },
+    {
+      "id": "31b7e498f46b",
+      "title": "新疆葡萄产业加速“数智化”转型",
+      "summary": "中新社新疆吐鲁番8月23日电 (胡嘉琛)记者从23日在新疆吐鲁番市举行的首届吐鲁番数智葡萄产业高质量发展大会暨第三十二届丝绸之路吐鲁番葡萄节上获悉，吐鲁番葡萄已远销全球40多个国家和地区，葡萄产业正加速迈入“数智化”新阶段。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682725.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T08:53:50.000Z"
+    },
+    {
+      "id": "601dad0429c1",
+      "title": "2026年黄河流域找矿突破与生态修复技术发展大会在济南举行",
+      "summary": "中新网济南8月23日电 (周艺伟)以“科技创新赋能找矿突破，绿色发展守护黄河生态”为主题的2026年黄河流域找矿突破与生态修复技术发展大会(下称“大会”)8月22日在济南举行，吸引来自海内外的知名专家学者、行业代表等参会。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682722.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T08:48:52.000Z"
+    },
+    {
+      "id": "32cb4087530c",
+      "title": "台风“沙德尔”睁眼！中央气象台：睁眼的台风都是厉害家伙",
+      "summary": "；18、19、20号台风同时在线，21号新台风也将生成，“四台共舞”乱成一锅粥",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682726.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T08:48:34.000Z"
+    },
+    {
+      "id": "dd2936b0dd71",
+      "title": "广西崇左边境管理支队闻讯而动 奋战台风“紫檀”抢险救灾一线",
+      "summary": "中新网崇左8月23日电(博林 袁金锋 林洁琪)近日，受今年第19号台风“紫檀”影响，广西崇左市遭遇持续性强降雨天气，河水上涨，凭祥、龙州、宁明等边境县域多处村屯出现内涝、树木倒伏、山体落石等险情，崇左边境管理支队迅速启动防汛应急预案，组织警力开展抢险救援，截至8月23日12时，已累计投入抢险警力960余人次，安全转移疏散受灾群众1640余人。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682720.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T08:44:04.000Z"
+    },
+    {
+      "id": "9a2a5cbe8660",
+      "title": "国家卫健委通报7位存在严重不良行为的项目评审专家被处理",
+      "summary": "中新网8月23日电 国家卫健委医药卫生科技科技发展研究中心近日在官网发布关于项目评审专家不良行为处理结果的通报(2026年第二批次)，7位存在严重不良行为的项目评审专家被处理。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682717.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T08:43:22.000Z"
+    },
     {
       "id": "b4f7c8f5363a",
       "title": "（走进中国乡村）古老民族服饰成“潮流” 广西乡镇“绣”出千万产业闯东盟",
@@ -278,56 +348,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-23T07:40:28.000Z"
-    },
-    {
-      "id": "1ea153771410",
-      "title": "高温天气来袭 重庆人在水中涮火锅",
-      "summary": "图为游客在水中涮火锅。杨孝永 摄 图为游客在水中涮火锅。杨孝永 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-23/10682684.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T07:37:40.000Z"
-    },
-    {
-      "id": "387c8d981076",
-      "title": "（文化中国行）敦煌医药文化跨界出圈 “滋补”丝路康养游",
-      "summary": "中新社兰州8月23日电 题：敦煌医药文化跨界出圈 “滋补”丝路康养游",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682704.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T07:37:10.000Z"
-    },
-    {
-      "id": "d4768213f709",
-      "title": "骗子租写字楼让求职者上假班 揭秘虚假招聘骗局",
-      "summary": "近日，北京警方公布一起特大招聘诈骗案。犯罪团伙打着知名企业的旗号，从线上引流到线下入职，打造了一条环环相扣的诈骗链条。",
-      "url": "https://www.chinanews.com.cn/fz/2026/08-23/10682705.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T07:37:04.000Z"
-    },
-    {
-      "id": "64aed8e35fd5",
-      "title": "山海为家，草木为邻——英国植物画家奔雅的香港情缘",
-      "summary": "1997年，他们选择定居在香港大屿山梅窝，在山海环抱中度过近30载春秋。奔雅感慨，香港处处新鲜有趣。她醉心香港“出门见绿”的自然便利——香港拥有逾300种原生乔木，远超英国的45种。图为奔雅家中挂满照片及绘画作品。中新网记者 李志华 摄 她不会粤语，便将绘画当作通用语言向邻里传递想法。图为奔雅在院子内仔细观察植物。中新网记者 李志华 摄 图为奔雅在院子内…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-23/10682679.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T07:36:22.000Z"
-    },
-    {
-      "id": "f88f4eeb2b0b",
-      "title": "上海楼市“沪八条”施行 新政组合拳激活消费需求",
-      "summary": "8月21日，上海楼市“沪八条”正式施行，主要包括优化住房公积金提取、优化个人住房信贷、实施“以旧换新”购房补贴、推行房票安置以及推进收购二手住房等5个方面、8项政策措施。“沪八条”落地后的首个周末，上海楼市的“温度计”率先在新房市场有了反应。新政组合拳能否转化为实实在在的到访与成交？记者探访了外环外和外环内的两处改善型住房。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682703.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T07:33:22.000Z"
     },
     {
       "id": "b562c2919d25",
@@ -900,16 +920,6 @@
       "publishedAt": "2026-08-20T06:43:47.000Z"
     },
     {
-      "id": "f5d32a994e78",
-      "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
-      "summary": "US president pivots towards ‘crushing’ economic operation against Iran and its trading partners as military strikes fail to bring Tehran to the table Donald Trump has announced a…",
-      "url": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-20T04:53:44.000Z"
-    },
-    {
       "id": "b0a7757ba7ae",
       "title": "哈里王子和梅根打算遷回英國，但這會長久嗎？",
       "summary": "遷居返回英國的這項突然決定，為薩塞克斯公爵伉儷以及英國王室留下許多疑問。",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-14T09:36:38.000Z"
-    },
-    {
-      "id": "e90089f6ea18",
-      "title": "美國稱數十國助中國避特朗普關稅",
-      "summary": "美國一份新報告稱，中國透過關稅較低的國家轉運貨物，以規避較高關稅。",
-      "url": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-14T05:11:59.000Z"
     }
   ]
 }
