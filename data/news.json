@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T14:53:11.349Z",
+  "updatedAt": "2026-08-23T15:30:54.671Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -20,15 +20,85 @@
     },
     {
       "name": "The Guardian Technology",
-      "count": 30
+      "count": 28
     },
     {
       "name": "The Guardian Business",
-      "count": 20
+      "count": 30
     }
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "d400549dce6e",
+      "title": "中超第24轮：申花战胜蓉城 国安玉昆激战言和",
+      "summary": "中新社北京8月23日电 (刘梦青)2026赛季中超联赛第24轮比赛23日全部战罢。上海申花上演进球大战，以5:4战胜成都蓉城，新帅米洛耶维奇斩获执教首胜。北京国安主场遭云南玉昆补时绝平，双方3:3握手言和。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-23/10682866.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T15:26:29.000Z"
+    },
+    {
+      "id": "3d38ad745d2b",
+      "title": "Illicit deeds have just gotten a new Halloween video game banned in Australia – and it’s not because of the violence",
+      "summary": "Academics – and a former director of Australia’s Classification Board – say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards Get…",
+      "url": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T15:00:36.000Z"
+    },
+    {
+      "id": "9042dfc9f2c0",
+      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile coastal zones, scientists say",
+      "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Get our breaking news email , free app or daily new…",
+      "url": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T15:00:36.000Z"
+    },
+    {
+      "id": "a3043fc96e77",
+      "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
+      "summary": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Get our breaking news email , free app or dai…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T15:00:35.000Z"
+    },
+    {
+      "id": "f4081a7d6d20",
+      "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
+      "summary": "Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision Get our breaking news email , free app or daily news podc…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T15:00:35.000Z"
+    },
+    {
+      "id": "992cad5370db",
+      "title": "广西南宁市郁江防洪四级应急响应提升为三级应急响应",
+      "summary": "8月23日，记者从广西南宁市应急管理委员会了解到，8月23日20时，邕江南宁水文站水位已达71.41米，预计8月24日上午郁江南宁城区河段将出现超警戒水位(73.0米)的洪水。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682865.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T14:58:45.000Z"
+    },
+    {
+      "id": "0508b87dbfb9",
+      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+      "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack tha…",
+      "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+      "source": "The Guardian World",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-23T14:46:56.000Z"
+    },
     {
       "id": "0e2c56741c68",
       "title": "桂台两地青少年以球为媒叙情谊",
@@ -70,11 +140,31 @@
       "publishedAt": "2026-08-23T14:38:10.000Z"
     },
     {
+      "id": "c57277d44ed7",
+      "title": "Former Abercrombie CEO mentally fit for sex-trafficking trial, judge says",
+      "summary": "Michael Jeffries is ruled mentally competent to stand trial after being hospitalized for months for dementia symptoms The former CEO of Abercrombie & Fitch has been ruled mentall…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T14:32:56.000Z"
+    },
+    {
+      "id": "b2bb8559ca9e",
+      "title": "CrossCountry cancels almost all rail services after power cut hits control centre",
+      "summary": "Transport secretary asks ‘publicly owned operators to lay on extra services where possible’ CrossCountry has cancelled almost all of its train services in Great Britain after a p…",
+      "url": "https://www.theguardian.com/business/2026/aug/23/crosscountry-cancels-almost-all-rail-services-after-power-cut-hits-control-centre",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T14:25:18.000Z"
+    },
+    {
       "id": "1d4cc92e343d",
       "title": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
       "summary": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable Some experts are warning of a looming “debt bomb” cr…",
       "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-      "source": "The Guardian Technology",
+      "source": "The Guardian Business",
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-23T14:00:34.000Z"
@@ -300,6 +390,16 @@
       "publishedAt": "2026-08-23T13:00:33.000Z"
     },
     {
+      "id": "32e82de12e3f",
+      "title": "The PM is promising to fix our everyday annoyances – and I have a list to get him started | Emma Beddington",
+      "summary": "Andy Burnham hopes we’ll forget the big stuff if he sorts out our minor frustrations and low-level gripes. Pothole politics hasn’t won me over yet, but I know some changes that c…",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/andy-burnham-fix-everyday-annoyances-list",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T13:00:33.000Z"
+    },
+    {
       "id": "555b1edc45d5",
       "title": "中华文化大乐园落地柬埔寨华校 以文化为桥厚植中柬友谊",
       "summary": "中新网海口8月23日电 (符宇群 秦若曦)记者23日从海南师范大学获悉，2026年“中华文化大乐园——柬埔寨西港园”开营仪式近日在柬埔寨西哈努克港港华学校举办。",
@@ -370,26 +470,6 @@
       "publishedAt": "2026-08-23T12:49:15.000Z"
     },
     {
-      "id": "fcaf1e21ef7f",
-      "title": "覃卫国任合肥市委书记",
-      "summary": "中新网合肥8月23日电(记者 赵强)据安徽省委组织部23日消息称，日前安徽省委决定：覃卫国同志任合肥市委书记。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682820.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T12:44:45.000Z"
-    },
-    {
-      "id": "559c7b754093",
-      "title": "（乡村行·看振兴）三代人与一颗青椒 见证山西长子农业变迁",
-      "summary": "中新网长治8月23日电 题：三代人与一颗青椒 见证山西长子农业变迁",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682817.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T12:43:25.000Z"
-    },
-    {
       "id": "39ea562d9b81",
       "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
       "summary": "President sharply criticises proposal, saying ‘elections right now are a tsunami for the state that will split Ukraine’ Volodymyr Zelenskyy has said holding elections in Ukraine…",
@@ -410,6 +490,16 @@
       "publishedAt": "2026-08-23T11:26:40.000Z"
     },
     {
+      "id": "ab025cf7a060",
+      "title": "Stores are selling Halloween stuff in August. Time has lost all meaning | Dave Schilling",
+      "summary": "Capitalism and the climate crisis are conspiring to destroy the concept of seasons. I’ll take solace in my pumpkin spice Happy spooky season, everyone! Get those jack-o’-lanterns…",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/halloween-capitalism-climate-change",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T11:00:33.000Z"
+    },
+    {
       "id": "ef36be6a2c5f",
       "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
       "summary": "An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno The ruinous fires th…",
@@ -418,6 +508,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-23T11:00:32.000Z"
+    },
+    {
+      "id": "43ce3a855431",
+      "title": "Personal care products are awash in unlabeled toxic chemicals, study finds",
+      "summary": "Even products labeled ‘eco’, ‘green’ or ‘natural’ can contain dangerous compounds including Pfas Common personal care products widely contain unlabeled toxic chemicals, results f…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/personal-care-products-unlabeled-toxic-chemicals",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T11:00:31.000Z"
     },
     {
       "id": "3fb3f23fc839",
@@ -430,6 +530,26 @@
       "publishedAt": "2026-08-23T11:00:16.000Z"
     },
     {
+      "id": "f878e88ff7aa",
+      "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
+      "summary": "Treasury secretary Scott Bessent’s attempt to calm bond markets is a sign of weakness not strength “Look, there’s nothing magic about that $40tn number,” the US Treasury secretar…",
+      "url": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T10:53:53.000Z"
+    },
+    {
+      "id": "9b94841f34eb",
+      "title": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
+      "summary": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T10:00:30.000Z"
+    },
+    {
       "id": "bac0527753d8",
       "title": "中國機器人打破人類百米短跑世界紀錄",
       "summary": "在北京舉行的世界人形機器人運動會上，一台「天工Ultra」以9.39秒跑畢100米路程。",
@@ -440,14 +560,24 @@
       "publishedAt": "2026-08-23T09:43:30.000Z"
     },
     {
-      "id": "0508b87dbfb9",
-      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-      "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack tha…",
-      "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-      "source": "The Guardian World",
-      "category": "科技",
+      "id": "51eaeec6eaf5",
+      "title": "‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports",
+      "summary": "New quotas to protect UK firms and jobs appear to be having opposite effect in products such as galvanised steel At Tata Steel’s factory in Llanwern, south Wales, production line…",
+      "url": "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports",
+      "source": "The Guardian Business",
+      "category": "财经",
       "language": "en",
-      "publishedAt": "2026-08-23T09:07:44.000Z"
+      "publishedAt": "2026-08-23T09:00:28.000Z"
+    },
+    {
+      "id": "f6b8c7dc84e4",
+      "title": "Mayors to get new powers over planning decisions under Burnham proposals",
+      "summary": "Move would allow mayors to greenlight large developments and have more say on national housing funding Andy Burnham will give mayors new powers to take control of local planning…",
+      "url": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T08:17:19.000Z"
     },
     {
       "id": "e2d7ad3e171a",
@@ -470,6 +600,56 @@
       "publishedAt": "2026-08-23T07:00:26.000Z"
     },
     {
+      "id": "ebab59988fca",
+      "title": "London’s low emission zone is working – so why are cities around the world so cautious about clean air?",
+      "summary": "Similar initiatives have been launched from Barcelona to Bogotá, but they have misinformation, political pressure and vested interests stacked against them Ten years ago, Alastai…",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T07:00:26.000Z"
+    },
+    {
+      "id": "ecf8add900ad",
+      "title": "UK orders reviews of franchising sector after Vodafone allegations",
+      "summary": "Two studies will be used to shape government policy amid claims about a former franchisee who took his own life Ministers have commissioned a pair of in-depth reports into how fr…",
+      "url": "https://www.theguardian.com/business/2026/aug/23/uk-review-franchising-sector-vodafone-allegations-adrian-howe",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T07:00:25.000Z"
+    },
+    {
+      "id": "deee4327de42",
+      "title": "First Bus bans under-16s in Stoke-on-Trent travelling alone after 6pm after disorder",
+      "summary": "Company says decision comes after spate of antisocial behaviour since free travel scheme was introduced For some, it is a quotidian nuisance that inevitably occurs when you are i…",
+      "url": "https://www.theguardian.com/money/2026/aug/23/first-bus-bans-under-16s-in-stoke-on-trent-travelling-alone-after-6pm-after-disorder",
+      "source": "The Guardian Business",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-23T07:00:25.000Z"
+    },
+    {
+      "id": "978628afeb7d",
+      "title": "Onshore windfarm applications hit 10-year high in England",
+      "summary": "Surge in proposals follows Labour’s lifting of de facto ban, with about 45 plans submitted in the year to March Plans for new onshore windfarms in England have reached their high…",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T06:00:24.000Z"
+    },
+    {
+      "id": "208ba005c73e",
+      "title": "‘Friday afternoon fraud’: warning for UK homebuyers on bank scams",
+      "summary": "Victims have lost tens of thousands – and in one case £300,000 – due to fake emails from solicitor or estate agent You are poised to move house and are awaiting the solicitor’s i…",
+      "url": "https://www.theguardian.com/money/2026/aug/23/friday-afternoon-fraud-scam-conveyancing-fraud-uk-property-buyer-bank-account",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T06:00:24.000Z"
+    },
+    {
       "id": "b562c2919d25",
       "title": "如何不用鬧鐘就能起床？",
       "summary": "只要稍微安排睡眠，自然起床其實很容易。",
@@ -478,6 +658,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-23T05:58:45.000Z"
+    },
+    {
+      "id": "02e6a9707bbc",
+      "title": "Drill, Burnham, drill? The oil basin that is a totem for Trump - and a headache for Britain’s new PM",
+      "summary": "North Sea oil, once the driving force of the UK economy, may be dwindling but it remains a symbol of prestige and a rich resource for political debate When oil was first discover…",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T05:00:23.000Z"
     },
     {
       "id": "61f34710bc52",
@@ -490,16 +680,6 @@
       "publishedAt": "2026-08-23T04:13:07.000Z"
     },
     {
-      "id": "025f546c49ed",
-      "title": "Liberal plan to split Victorian appeals court attacked as ‘thought bubble’ that would politicise judiciary",
-      "summary": "Opposition leader Jess Wilson says new dedicated court of criminal appeal would set precedents for tougher sentences Get our breaking news email , free app or daily news podcast…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/23/victoria-election-liberals-plan-split-appeals-court-attacked-as-thought-bubble-politicise-judiciary",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-23T04:00:59.000Z"
-    },
-    {
       "id": "2c5c0676a0ed",
       "title": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea",
       "summary": "Friends close to Margarita Reutt are shocked she could allegedly plant bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan thr…",
@@ -508,36 +688,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-23T04:00:22.000Z"
-    },
-    {
-      "id": "fb2509a17843",
-      "title": "Hanson forced to intervene after One Nation MP says party’s migration target ‘not too different’ from Labor’s",
-      "summary": "David Farley says party wants 100,000 migrant rural workers in addition to the 130,000 migration target it considers the ‘true’ number Follow our Australia news live blog for lat…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-23T03:12:58.000Z"
-    },
-    {
-      "id": "4f21b246542f",
-      "title": "Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight",
-      "summary": "‘Landmarks’ side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our break…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-23T02:14:52.000Z"
-    },
-    {
-      "id": "07fa1256153f",
-      "title": "Fur seal’s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
-      "summary": "Seal found dead at Beachport in South Australia presages ‘significant losses’, minister warns Follow our Australia news live blog for latest updates Get our breaking news email ,…",
-      "url": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-23T00:42:49.000Z"
     },
     {
       "id": "20f25aef8d4a",
@@ -550,6 +700,26 @@
       "publishedAt": "2026-08-23T00:12:49.000Z"
     },
     {
+      "id": "7c18c577c9a0",
+      "title": "Heathrow expansion ‘is threat to England’s largest surviving medieval barn’",
+      "summary": "Exclusive: campaigners warn 600-year-old New Barn at Harmondsworth could be ‘shaken to pieces’ by vibrations Six hundred years after it was built, England’s largest surviving med…",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/heathrow-expansion-is-threat-to-englands-largest-surviving-medieval-barn",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T00:00:17.000Z"
+    },
+    {
+      "id": "bd22c76e37e8",
+      "title": "Is this the end of Harry and Meghan’s American dream?",
+      "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the af…",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-22T20:42:12.000Z"
+    },
+    {
       "id": "b360d17ebc45",
       "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
       "summary": "Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacke…",
@@ -558,6 +728,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-22T18:11:55.000Z"
+    },
+    {
+      "id": "139a8aab6d40",
+      "title": "Infantino angers Concacaf nations by hijacking meeting in Caribbean",
+      "summary": "Gianni Infantino used opportunity to lobby for support Fifa president was asked to stay away from CFU meeting Gianni Infantino has risked alienating numerous Concacaf nations, wh…",
+      "url": "https://www.theguardian.com/football/2026/aug/22/gianni-infantino-fifa-football-politics-world-cup-election",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-22T18:02:04.000Z"
     },
     {
       "id": "de9106f840b1",
@@ -580,6 +760,26 @@
       "publishedAt": "2026-08-22T12:25:16.000Z"
     },
     {
+      "id": "ca44a0d74663",
+      "title": "Auntie v influencers: why YouTubers are ready for battle with the BBC",
+      "summary": "Content creators are fighting proposal to boost traditional broadcasters in video platforms’ all-powerful algorithms The millions who subscribe to the content creator Simon Squib…",
+      "url": "https://www.theguardian.com/media/2026/aug/22/auntie-v-influencers-why-youtubers-are-ready-for-battle-with-the-bbc",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-22T12:00:04.000Z"
+    },
+    {
+      "id": "ea92e4822f9b",
+      "title": "‘Penchant for bling’: can Sports Direct’s Mike Ashley take a bigger slice of luxury retail?",
+      "summary": "Frasers billionaire bought Harvey Nichols and increased Hugo Boss stake despite tough times for high-end stores What billionaire doesn’t love to splash the cash on a luxury item?…",
+      "url": "https://www.theguardian.com/business/2026/aug/22/mike-ashley-sports-direct-luxury-frasers-group-harvey-nichols-hugo-boss",
+      "source": "The Guardian Business",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-22T12:00:03.000Z"
+    },
+    {
       "id": "7a0f5bd4fb25",
       "title": "Diamonds for sale: lab-grown gem auctions are all over TikTok right now, but some aren’t happy about it",
       "summary": "Streamed auctions offer a cheap way to buy the precious gems, but experts warn that quality is not guaranteed The first time Andrea Greenhill came across a livestream auction for…",
@@ -600,6 +800,36 @@
       "publishedAt": "2026-08-22T08:00:58.000Z"
     },
     {
+      "id": "2d13f834845f",
+      "title": "Why am I called The Black Farmer? Because there are so few of us in Britain. I’d like that to change | Wilfred Emmanuel-Jones",
+      "summary": "Running a farm is tough – TV’s Clarkson’s Farm shows that – but I know many minorities would love the chance. And we would all benefit Who’d be a farmer? Clarkson’s Farm on Amazo…",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/the-black-farmer-tv-clarksons-farm-minorities",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-22T08:00:57.000Z"
+    },
+    {
+      "id": "8a90a42cc25f",
+      "title": "‘The worst part is the guilt’: the owners who fear dog food caused pets’ eye problems",
+      "summary": "In the week that Years recalled all of its fresh meals, concerns grow about a potential link to dogs’ health conditions “It’s been horrible – Chester developed sudden red and gun…",
+      "url": "https://www.theguardian.com/business/2026/aug/22/worst-part-guilt-owners-dog-food-eye-problems-years",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-22T07:00:57.000Z"
+    },
+    {
+      "id": "72b1eb4bf973",
+      "title": "Subterranean salad: underground farmers seek solution to food crisis in disused UK mines",
+      "summary": "Researchers in North Yorkshire feel the clock ticking as they aim to transform British food production It has the vibe of a Bond villain’s underground lair but the workers in hi-…",
+      "url": "https://www.theguardian.com/environment/2026/aug/22/subterranean-salad-underground-farmers-seek-solution-to-food-crisis-in-disused-uk-mines",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-22T07:00:56.000Z"
+    },
+    {
       "id": "f5886f0c0a05",
       "title": "‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs",
       "summary": "Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production Hollywood creati…",
@@ -608,6 +838,16 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-22T06:00:55.000Z"
+    },
+    {
+      "id": "7c36e5eb2f2b",
+      "title": "‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs?",
+      "summary": "As fitness-conscious consumers turn away from processed foods, the industry is scrambling for new ideas, including nutrient-rich lollies and protein-packed tubs. Will they take t…",
+      "url": "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-22T05:00:57.000Z"
     },
     {
       "id": "ff9c59c61b85",
@@ -630,24 +870,14 @@
       "publishedAt": "2026-08-22T05:00:54.000Z"
     },
     {
-      "id": "153ddf3c3ca3",
-      "title": "Tesla recalls nearly 3m vehicles in China over door handle safety risks",
-      "summary": "Recall comes after Chinese authorities said it would ban hidden car door handles commonly seen on Tesla models Tesla and other carmakers are making a major recall of more than 4m…",
-      "url": "https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall",
+      "id": "5fe834ae8953",
+      "title": "The Guardian view on Andy Burnham’s buses: a blueprint for governing Britain | Editorial",
+      "summary": "The prime minister is right to think that taking Manchester’s model national could widen opportunity, clean the air and rebuild state capacity. Other public services could be nex…",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/the-guardian-view-on-andy-burnhams-buses-a-blueprint-for-governing-britain",
       "source": "The Guardian Business",
       "category": "财经",
       "language": "en",
-      "publishedAt": "2026-08-21T23:48:16.000Z"
-    },
-    {
-      "id": "a51777a8bd32",
-      "title": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
-      "summary": "Meat producer closes facilities in Utah and Illinois as beef prices rise for consumers amid historic cattle shortage People in the US: how much do you spend on food per month? Ty…",
-      "url": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-21T16:01:43.000Z"
+      "publishedAt": "2026-08-21T16:25:08.000Z"
     },
     {
       "id": "1a9e609c3fd7",
@@ -658,6 +888,16 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-21T15:22:48.000Z"
+    },
+    {
+      "id": "b52636cb9d14",
+      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
+      "summary": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have…",
+      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-21T15:03:34.000Z"
     },
     {
       "id": "061c23101f8c",
@@ -820,16 +1060,6 @@
       "publishedAt": "2026-08-21T00:04:00.000Z"
     },
     {
-      "id": "61e5ab291642",
-      "title": "Fashion tech founder sentenced to prison for $300m fraud scheme",
-      "summary": "Christine Hunsicker, former CEO of CaaStle, gave investors falsified documents that overstated profit and cash reserves A fashion tech founder was sentenced to five years in fede…",
-      "url": "https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison",
-      "source": "The Guardian Business",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-20T22:27:41.000Z"
-    },
-    {
       "id": "d3f345001290",
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursda…",
@@ -840,26 +1070,6 @@
       "publishedAt": "2026-08-20T19:57:59.000Z"
     },
     {
-      "id": "50063425df92",
-      "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-      "summary": "Military orders criminal investigation into deaths of five-year-old and six family members in Gaza in 2024 The Israeli military admitted on Wednesday its troops had opened fire o…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T19:15:09.000Z"
-    },
-    {
-      "id": "466ac6cd3d45",
-      "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
-      "summary": "As yields are dragged higher in the UK, Europe and Japan, the impact for consumers and businesses will be far-reaching ‘Starve the beast’? The $40tn cost of Republicans’ false pr…",
-      "url": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-20T16:14:59.000Z"
-    },
-    {
       "id": "040c6d5a9b5a",
       "title": "Marvel’s Wolverine: Spider-Man developers turn to a more cutthroat character",
       "summary": "Even film-makers have been inspired by Insomniac’s take on Spidey. But the studio’s tried and tested format might not fit a superhero with such sharp claws The recent Marvel’s Sp…",
@@ -868,16 +1078,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-20T15:40:04.000Z"
-    },
-    {
-      "id": "8321a7e7c9bc",
-      "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
-      "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned Why is the Trump administration causing turmoil in the bond markets? You…",
-      "url": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-20T15:21:38.000Z"
     },
     {
       "id": "a40a6718dfd9",
@@ -900,36 +1100,6 @@
       "publishedAt": "2026-08-20T14:00:56.000Z"
     },
     {
-      "id": "3d17dad08ff3",
-      "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-      "summary": "Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life. But Trump’s halt to funding threatens to scupper the research…",
-      "url": "https://www.theguardian.com/environment/2026/aug/20/environment-oceans-acidification-alkali-carbon-absorption-lobsters",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-20T14:00:52.000Z"
-    },
-    {
-      "id": "aa28a6cc7483",
-      "title": "Their cities dropped Flock surveillance cameras. They’re still being watched",
-      "summary": "Despite policy victories over Flock, Americans are finding themselves under similar monitoring by a new company – or unable to remove the original cameras Activists in Colorado t…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/flock-cameras-surveillance",
-      "source": "The Guardian Technology",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-20T13:00:53.000Z"
-    },
-    {
-      "id": "9d0af0eb057a",
-      "title": "Boohoo fined €2.3m by French watchdog over deceptive discounts",
-      "summary": "Fashion site also broke rules on labelling by using terms ‘leather’ or ‘suede’ for synthetic products The British online fashion seller Boohoo has been fined €2.3m (£2m) by Franc…",
-      "url": "https://www.theguardian.com/business/2026/aug/20/boohoo-fined-by-french-watchdog-deceptive-discounts",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-20T12:40:04.000Z"
-    },
-    {
       "id": "8308a3749b90",
       "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
       "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest…",
@@ -938,16 +1108,6 @@
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-08-20T12:03:39.000Z"
-    },
-    {
-      "id": "1180ec95546f",
-      "title": "From McDonald’s to Congress: can a former fry cook flip a key district for Democrats?",
-      "summary": "Manny Rutinel hopes price-tag politics can win key voters in Colorado House race During his presidential campaign in October 2024, Donald Trump staged a photo op at a McDonald’s…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-20T11:00:50.000Z"
     },
     {
       "id": "3505592c4678",
@@ -978,16 +1138,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-20T08:36:06.000Z"
-    },
-    {
-      "id": "3658ccdd94fa",
-      "title": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
-      "summary": "It’s simple, says the SpaceX boss – according to something called the ‘Kardashev scale’, we just have to move energy production ‘off-planet’ Next time the weather gives the UK 61…",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-20T07:00:45.000Z"
     },
     {
       "id": "aabec0a32b1e",
@@ -1050,26 +1200,6 @@
       "publishedAt": "2026-08-19T20:17:39.000Z"
     },
     {
-      "id": "adf85fafc406",
-      "title": "In Big Walk, players just walk and talk – and find joy along the way: ‘Some stories we’ve heard are punch-in-the-gut beautiful’",
-      "summary": "After their hit Untitled Goose Game, Australian studio House House is back with a new game where your only goal is to go exploring with friends – so we took them on a big walk in…",
-      "url": "https://www.theguardian.com/games/2026/aug/20/in-big-walk-players-just-walk-and-talk-and-find-joy-along-the-way-some-stories-weve-heard-are-punch-in-the-gut-beautiful",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-19T15:00:14.000Z"
-    },
-    {
-      "id": "3c95660cdefc",
-      "title": "US treasury doubles debt buyback to steady bond market amid inflation fears",
-      "summary": "Interest rates, now sitting at about 3.5-3.7%, expected to go up if inflation doesn’t come down to Fed’s 2% target The US treasury is doubling its buyback of government debt in a…",
-      "url": "https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-19T14:57:21.000Z"
-    },
-    {
       "id": "8db8f69863af",
       "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
       "summary": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back Europe live – latest updates The Spanish government has U-turne…",
@@ -1090,16 +1220,6 @@
       "publishedAt": "2026-08-19T13:44:57.000Z"
     },
     {
-      "id": "a8027a9508d1",
-      "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
-      "summary": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of j…",
-      "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
-      "source": "The Guardian Business",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-19T11:00:13.000Z"
-    },
-    {
       "id": "3c3daabd32d0",
       "title": "《牛來》爆紅：觀眾、導演與電影業者解讀「粗糙」動畫的意外狂歡",
       "summary": "一部因製作粗糙而被網友嘲笑的中國動畫《牛來》，意外在社交網絡走紅並掀起觀影熱潮，觀眾為何從「玩梗」轉而買票支持？",
@@ -1108,126 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-19T10:33:54.000Z"
-    },
-    {
-      "id": "f9f4cb3d6eb1",
-      "title": "Revealed: FCC chair Brendan Carr’s close coordination with White House and rightwing media",
-      "summary": "Internal documents obtained by Guardian show White House meetings, scheduled calls with top Trump officials and communications with Fox News producers Continue reading...",
-      "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/19/brendan-carr-fcc-white-house-exclusive",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-19T10:00:13.000Z"
-    },
-    {
-      "id": "08c2d1d62808",
-      "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
-      "summary": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-19T03:47:12.000Z"
-    },
-    {
-      "id": "0179c2e3c399",
-      "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
-      "summary": "從「掃黑除惡」到經濟糾紛，為何越來越多中國民商事律師開始擔心：今天的正常代理，會不會在幾年後被重新定性為犯罪？",
-      "url": "https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-18T23:53:38.000Z"
-    },
-    {
-      "id": "f35197fb903d",
-      "title": "OpenAI announces slowing pace of development after hack by rogue agent",
-      "summary": "Amid race with Anthropic, firm plans to overhaul research and training and require more safety parameters after hack OpenAI on ⁠Tuesday said it had slowed down the ⁠pace of ⁠its…",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-18T20:47:17.000Z"
-    },
-    {
-      "id": "4d8a4f32db64",
-      "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
-      "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
-      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-18T18:00:44.000Z"
-    },
-    {
-      "id": "c390b00cd2ef",
-      "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
-      "summary": "Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats OpenAI is launching a version of ChatGPT designed for teenagers…",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-18T15:28:57.000Z"
-    },
-    {
-      "id": "bd269aa88549",
-      "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
-      "summary": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live – latest updates Oil prices have risen again afte…",
-      "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-18T11:50:40.000Z"
-    },
-    {
-      "id": "e51557f8cdba",
-      "title": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair – tested",
-      "summary": "From handheld to corded, self-emptying to stick models, these are our resident cleaner’s favourite vacuums for a spotless home • The best cordless vacuum cleaners, tested • How t…",
-      "url": "https://www.theguardian.com/thefilter/2026/feb/13/best-vacuum-cleaners-uk-tested",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-18T09:01:05.000Z"
-    },
-    {
-      "id": "8c8070590a15",
-      "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
-      "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen? One of the str…",
-      "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-18T04:00:13.000Z"
-    },
-    {
-      "id": "48e3870dc9f7",
-      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-      "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the C…",
-      "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T14:07:31.000Z"
-    },
-    {
-      "id": "44f0665c2de2",
-      "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
-      "summary": "美國30個州已對Meta提起訴訟，要求徹底改革年輕用戶的社交平台。",
-      "url": "https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-17T12:16:16.000Z"
-    },
-    {
-      "id": "af099ca7bfad",
-      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
-      "summary": "高市早苗今年選擇不親自參拜靖國，卻以奉納玉串料及「遙拜」表達敬意，而靖國所供奉的甲級戰犯、戰爭記憶與日本日益強化的安全政策，仍讓這座神社成為中日韓外交爭議的焦點。",
-      "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-16T10:44:03.000Z"
     }
   ]
 }
