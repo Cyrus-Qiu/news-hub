@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:31:27.948Z",
+  "updatedAt": "2026-08-23T22:52:00.382Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,56 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "e5317fc52b63",
+      "title": "8月24日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-24/10682883.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T22:43:21.000Z"
+    },
+    {
+      "id": "6143bff57dad",
+      "title": "美军中央司令部：在中东地区海域开展舰艇补给作业",
+      "summary": "中新网8月24日电 当地时间8月23日，美军中央司令部在社交媒体上发布消息称，美国海军一架MH-60S“海鹰”直升机在中东地区海域为“拳师”号两栖攻击舰执行垂直补给任务，物资由“北极”号快速战斗支援舰提供。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10682882.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T22:41:24.000Z"
+    },
+    {
+      "id": "f465ed32b23d",
+      "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
+      "summary": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live Get our breaking news email , free app or daily news podcast Thousands…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T22:40:36.000Z"
+    },
+    {
+      "id": "5e42ee1c9d33",
+      "title": "日本熊本县发生3.9级地震 此前强震仍有2794人避难",
+      "summary": "中新网8月24日电 据日本气象厅消息，当地时间8月24日4时05分左右，日本熊本县天草、芦北地区发生3.9级地震，最大震感为震度3，震源深度10公里。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10682881.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T22:29:44.000Z"
+    },
+    {
+      "id": "1a74238f95c8",
+      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+      "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed…",
+      "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T22:16:53.000Z"
+    },
+    {
       "id": "c694c6dfea9e",
       "title": "平凡与不凡的辩证之道",
       "summary": "(思想纵横)",
@@ -48,16 +98,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-23T22:06:47.000Z"
-    },
-    {
-      "id": "f465ed32b23d",
-      "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
-      "summary": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live Get our breaking news email , free app or daily news podcast Watt says…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-23T22:05:14.000Z"
     },
     {
       "id": "62dd3d9e9947",
@@ -211,7 +251,7 @@
     },
     {
       "id": "3d38ad745d2b",
-      "title": "Illicit deeds have just gotten a new Halloween video game banned in Australia – and it’s not because of the violence",
+      "title": "The new Halloween video game has been banned in Australia – and not because of the violence",
       "summary": "Academics – and a former director of Australia’s Classification Board – say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards Fol…",
       "url": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
       "source": "The Guardian World",
@@ -418,36 +458,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-23T13:27:34.000Z"
-    },
-    {
-      "id": "f0bf1addb39e",
-      "title": "乡村舞台音乐飞扬 浙江金华民建助力唱响“光南之声”",
-      "summary": "中新网金华8月23日电(蓝伊旎)8月21日至23日，“光南故里 声动金东”系列音乐活动在浙江金华金东区源东乡的东叶村举行。在人民音乐家施光南诞辰86周年之际，这场音乐盛会把舞台搭在村口，让旋律漫过田间，持续擦亮“光南之声”乡村文化品牌。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682840.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:26:48.000Z"
-    },
-    {
-      "id": "2ba6961718c4",
-      "title": "东西问丨殷玉珍：大洋隔不断真诚的心",
-      "summary": "中新社内蒙古鄂尔多斯8月23日电 题：殷玉珍：大洋隔不断真诚的心",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-23/10682839.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:25:40.000Z"
-    },
-    {
-      "id": "ba84d9165f22",
-      "title": "泰国前总理：中华文化传承促进不同群体之间的理解与友谊",
-      "summary": "中新网曼谷8月23日电(记者 李映民)泰国前总理川立派22日晚在泰国莆仙总会首届理事会就职典礼上致辞表示，中华文化传承促进不同群体之间的理解与友谊。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682830.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:22:50.000Z"
     },
     {
       "id": "359ed305a65a",
@@ -1178,16 +1188,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-18T04:00:13.000Z"
-    },
-    {
-      "id": "48e3870dc9f7",
-      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-      "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the C…",
-      "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-17T14:07:31.000Z"
     },
     {
       "id": "44f0665c2de2",
