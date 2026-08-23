@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:52:00.382Z",
+  "updatedAt": "2026-08-23T23:29:26.361Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,56 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "366d0fec7206",
+      "title": "上半年经济增长4.7%说明了什么？",
+      "summary": "风雨见真章，磨砺出底气。上半年，我国经济顶压前行，延续总体平稳、向新向优的发展态势，国内生产总值(GDP)同比增长4.7%。我们有力应对地缘政治冲突、经贸摩擦等外部环境变化，有效驾驭国内供强需弱、新老问题叠加等复杂局面，取得来之不易、难能可贵的成绩。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682886.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:21:55.000Z"
+    },
+    {
+      "id": "9c76699c74df",
+      "title": "国家首提“算力超市”和“算力银行”，背后藏着一盘算力“大棋”",
+      "summary": "文/刘亮",
+      "url": "https://www.chinanews.com.cn/gsztc/2026/08-24/10682884.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:20:55.000Z"
+    },
+    {
+      "id": "c2dc5c89d23f",
+      "title": "人这一辈子，一定要去一趟广元！",
+      "summary": "原标题：全球女性可免票游9天！人这一辈子，一定要去一趟广元！",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10682885.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:09:40.000Z"
+    },
+    {
+      "id": "f465ed32b23d",
+      "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
+      "summary": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live Get our breaking news email , free app or daily news podcast Victoria p…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T23:05:43.000Z"
+    },
+    {
+      "id": "2b7ac6c15ae8",
+      "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
+      "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine’s capacity to make its own long-range mis…",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T23:01:45.000Z"
+    },
+    {
       "id": "e5317fc52b63",
       "title": "8月24日新闻早报",
       "summary": "",
@@ -48,16 +98,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-23T22:41:24.000Z"
-    },
-    {
-      "id": "f465ed32b23d",
-      "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
-      "summary": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live Get our breaking news email , free app or daily news podcast Thousands…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-23T22:40:36.000Z"
     },
     {
       "id": "5e42ee1c9d33",
@@ -252,7 +292,7 @@
     {
       "id": "3d38ad745d2b",
       "title": "The new Halloween video game has been banned in Australia – and not because of the violence",
-      "summary": "Academics – and a former director of Australia’s Classification Board – say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards Fol…",
+      "summary": "Academics and a former classification board director say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards Get our breaking news…",
       "url": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
       "source": "The Guardian World",
       "category": "国际",
@@ -430,36 +470,6 @@
       "publishedAt": "2026-08-23T13:33:38.000Z"
     },
     {
-      "id": "6903a1544a44",
-      "title": "从凭经验到“慧”种田 广西蔗田里算出产业“甜账本”",
-      "summary": "中新网广西崇左8月23日电(涂丽莎 陈沿佑)秋日时节，广西崇左市扶绥县渠黎镇甜蜜之光现代甘蔗产业园满目青绿。桂糖44号、云蔗081609、桂糖76号、中糖3号、中辐1号等甘蔗品种长势喜人，大多数蔗株高度超3米。园区采用的多品种轮作、分区种植方式，保障了这片土地长期稳产与生态韧性。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682843.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:29:26.000Z"
-    },
-    {
-      "id": "64766f6ed82c",
-      "title": "江西学子庐山诗会“人机共赋”：探求科技与人文交融边界",
-      "summary": "中新网江西庐山8月23日电 (记者 姜涛)“吾是浔阳千载客，鄱湖庐岳古今通。”23日在江西庐山举行的2026中国庐山诗会总决赛“人机共赋”创作环节，九江参赛选手与人工智能协同完成的诗词，获得评委们一致打出最高分。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682842.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:28:26.000Z"
-    },
-    {
-      "id": "0542faff6e70",
-      "title": "光伏板下奶牛“享清凉” 中国多地竞逐“光伏+”新赛道",
-      "summary": "中新网合肥8月23日电(江婉琪 赵强)在安徽省蚌埠市五河县朱顶镇，一些牛舍屋顶上铺满了深蓝色光伏板，正静静地把阳光转化为电流。与此同时，舍内奶牛正埋头啃食饲料。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682841.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:27:34.000Z"
-    },
-    {
       "id": "359ed305a65a",
       "title": "Russia withdraws ambassador to UK as Kremlin raises pressure over Ukraine support",
       "summary": "Embassy in London says Andrey Kelin left last month after seven years in diplomatic post Russia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues t…",
@@ -578,16 +588,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-22T20:42:12.000Z"
-    },
-    {
-      "id": "b360d17ebc45",
-      "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
-      "summary": "Three other people wounded after 18-year-old man wielding sword assailed students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attac…",
-      "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-22T18:11:55.000Z"
     },
     {
       "id": "de9106f840b1",
