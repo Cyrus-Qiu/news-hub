@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T23:29:26.361Z",
+  "updatedAt": "2026-08-23T23:50:12.092Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,106 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "bd040a23653a",
+      "title": "孤独症融合教育提速破局，从“随班就座”到“随班就读”还需跨越几道坎",
+      "summary": "让“星星的孩子”有张安稳课桌",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-24/10682896.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:47:44.000Z"
+    },
+    {
+      "id": "988a7a7e6d88",
+      "title": "考前密卷、免考名额、内部渠道……小心这些证书陷阱",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10682894.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:46:42.000Z"
+    },
+    {
+      "id": "df49736f5201",
+      "title": "人形机器人运动会足球赛场上演中外对决",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201866.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:45:27.000Z"
+    },
+    {
+      "id": "f465ed32b23d",
+      "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
+      "summary": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live Get our breaking news email , free app or daily news podcast Alan Jones…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T23:44:33.000Z"
+    },
+    {
+      "id": "d99441e1197b",
+      "title": "某4S店员工带顾客开试驾车撞伤行人 上海浦东警方通报",
+      "summary": "中新网8月24日电 据上海市公安局浦东分局官方微博消息，2026年8月23日15时许，上海市金桥路新金桥路路口附近发生一起交通事故。经查，某4S店员工马某(男，27岁)驾驶试驾车辆带顾客体验期间，沿新金桥路由西向东行驶至金桥路附近时，为避开道路施工设施，操作不当驶上人行道，撞到一名行人。目前，受伤行人经送医检查为头部和左膝处皮外伤，无大碍，已排除马某酒驾…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10682891.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:42:36.000Z"
+    },
+    {
+      "id": "f8876421599c",
+      "title": "“十五五”时期，全国将培育三万名农产品骨干经纪人",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682892.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:42:20.000Z"
+    },
+    {
+      "id": "29a0028c243b",
+      "title": "体育产业规模将近翻番，意味着什么",
+      "summary": "《体育强国建设“十五五”规划》(以下简称“规划”)描绘了“十五五”时期中国体育事业发展的宏伟蓝图，亦体现出国家层面对体育综合价值和作用的重新锚定。该规划更是体育领域首次纳入国家级专项规划编制目录清单，明确提出到2030年体育产业总规模将突破7万亿元，较2024年的3.84万亿元近乎翻番。一个时期以来，体育在城市发展中多被定位为配套设施，此次规划的出台尤其…",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10682890.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:35:44.000Z"
+    },
+    {
+      "id": "fa512a87b0cf",
+      "title": "外骨骼，真的那么管用吗？",
+      "summary": "(百姓关注)",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682889.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:32:04.000Z"
+    },
+    {
+      "id": "16f6d43da402",
+      "title": "路边捡砖、每天喷水……这届年轻人为何在工位认真“养砖”",
+      "summary": "路边捡砖、泡水24小时、每天喷水、养出绿意……",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10682887.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:29:01.000Z"
+    },
+    {
+      "id": "ea01d9286829",
+      "title": "“三台共舞”正上演 今年台风为何偏多？",
+      "summary": "当前，台风“沙德尔”“紫檀”“简拉维”同时活跃",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10682888.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T23:28:35.000Z"
+    },
+    {
       "id": "366d0fec7206",
       "title": "上半年经济增长4.7%说明了什么？",
       "summary": "风雨见真章，磨砺出底气。上半年，我国经济顶压前行，延续总体平稳、向新向优的发展态势，国内生产总值(GDP)同比增长4.7%。我们有力应对地缘政治冲突、经贸摩擦等外部环境变化，有效驾驭国内供强需弱、新老问题叠加等复杂局面，取得来之不易、难能可贵的成绩。",
@@ -58,16 +158,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-23T23:09:40.000Z"
-    },
-    {
-      "id": "f465ed32b23d",
-      "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
-      "summary": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live Get our breaking news email , free app or daily news podcast Victoria p…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-23T23:05:43.000Z"
     },
     {
       "id": "2b7ac6c15ae8",
@@ -301,7 +391,7 @@
     },
     {
       "id": "9042dfc9f2c0",
-      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile coastal zones, scientists say",
+      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile waters near the mainland, scientists say",
       "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Follow our Australia news live blog for latest upda…",
       "url": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
       "source": "The Guardian World",
@@ -330,16 +420,6 @@
       "publishedAt": "2026-08-23T15:00:35.000Z"
     },
     {
-      "id": "992cad5370db",
-      "title": "广西南宁市郁江防洪四级应急响应提升为三级应急响应",
-      "summary": "8月23日，记者从广西南宁市应急管理委员会了解到，8月23日20时，邕江南宁水文站水位已达71.41米，预计8月24日上午郁江南宁城区河段将出现超警戒水位(73.0米)的洪水。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682865.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T14:58:45.000Z"
-    },
-    {
       "id": "0508b87dbfb9",
       "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
       "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack tha…",
@@ -350,46 +430,6 @@
       "publishedAt": "2026-08-23T14:46:56.000Z"
     },
     {
-      "id": "0e2c56741c68",
-      "title": "桂台两地青少年以球为媒叙情谊",
-      "summary": "中新社南宁8月23日电 (俞靖)2026“桂花杯”暨第九届“海花杯”桂台青少年足球友谊赛(南宁站)23日在南宁市开赛。来自台湾的足球少年与广西球员齐聚绿茵场，以球会友、增进情谊。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682857.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T14:44:12.000Z"
-    },
-    {
-      "id": "d8e58a0aeeeb",
-      "title": "第二十一届中国长春电影节开幕 16部影片逐“金鹿”",
-      "summary": "中新社长春8月23日电 (记者 郭佳)第二十一届中国长春电影节23日晚开幕，《给阿嬷的情书》《镖人：风起大漠》《志愿军：浴血和平》等16部影片将角逐“金鹿奖”十大奖项。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-23/10682856.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T14:42:36.000Z"
-    },
-    {
-      "id": "cc76cbce4093",
-      "title": "二十五载汉语为桥 五洲青年厦门逐冠",
-      "summary": "中新社厦门8月23日电 (吴冠标)第25届“汉语桥”世界大学生中文比赛全球总决赛23日在厦门举行，德国选手黎维获全球总冠军。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682855.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T14:39:02.000Z"
-    },
-    {
-      "id": "cffa0b45f14e",
-      "title": "“赛考斯”与殷玉珍重逢：时隔26年的拥抱",
-      "summary": "中新社内蒙古鄂尔多斯8月23日电 题：“赛考斯”与殷玉珍重逢：时隔26年的拥抱",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682854.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T14:38:10.000Z"
-    },
-    {
       "id": "1d4cc92e343d",
       "title": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
       "summary": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable Some experts are warning of a looming “debt bomb” cr…",
@@ -398,16 +438,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-23T14:00:34.000Z"
-    },
-    {
-      "id": "449747064084",
-      "title": "日本浦河附近海域发生6.0级地震",
-      "summary": "据日本气象厅消息，当地时间23日22时00分左右，日本浦河附近海域发生6.0级地震，最大震感为震度4，震源深度40公里。(总台记者 刘耀鸿）",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682850.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:56:45.000Z"
     },
     {
       "id": "93b63a747f5f",
@@ -438,36 +468,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-23T13:56:11.000Z"
-    },
-    {
-      "id": "3c0bfe16be6f",
-      "title": "现场直击：见到赛考斯，殷玉珍练了很久的英文，一句也没能说出口",
-      "summary": "8月23日下午，中国“治沙劳模”殷玉珍早早来到内蒙古鄂尔多斯伊金霍洛国际机场，等待迎接一位阔别26年的美国故人。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682849.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:53:59.000Z"
-    },
-    {
-      "id": "cbd9f364c863",
-      "title": "云南凤庆泥石流和滑坡灾害：已致2人遇难4人失联",
-      "summary": "中新网昆明8月23日电 (记者 缪超)记者23日晚从云南省临沧市凤庆县政府新闻办公室获悉，8月23日凌晨1时至8时，凤庆县凤山镇遭遇持续性强降雨天气，安石村诱发泥石流灾害，造成2名群众失联；水箐村诱发滑坡灾害，造成4名群众失联。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682846.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:37:08.000Z"
-    },
-    {
-      "id": "7990fbc028b6",
-      "title": "嫦娥七号任务不满足发射条件 不能在今年预定窗口实施",
-      "summary": "中新社海南文昌8月23日电 据中国载人航天工程办公室23日消息，本着稳妥可靠、万无一失的原则，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。(完)",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682844.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:33:38.000Z"
     },
     {
       "id": "359ed305a65a",
