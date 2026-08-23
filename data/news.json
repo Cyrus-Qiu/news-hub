@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:28:10.097Z",
+  "updatedAt": "2026-08-23T17:50:19.524Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "05a262ac14ca",
+      "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+      "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground ‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T17:24:46.000Z"
+    },
     {
       "id": "e4691672b035",
       "title": "中国队不敌澳大利亚队 获U18男篮亚洲杯亚军",
@@ -472,7 +482,7 @@
     {
       "id": "3fb3f23fc839",
       "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotia…",
+      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: nego…",
       "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
       "source": "The Guardian World",
       "category": "财经",
@@ -1068,16 +1078,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-19T14:33:24.000Z"
-    },
-    {
-      "id": "1354f3f22edb",
-      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
-      "summary": "Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of Bolivian lawyer Nadia Beller A senior adviser to many of Latin America’s new wave of far-right leaders has be…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T13:44:57.000Z"
     },
     {
       "id": "a8027a9508d1",
