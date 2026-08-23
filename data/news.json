@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T13:39:05.152Z",
+  "updatedAt": "2026-08-23T14:31:58.354Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -24,11 +24,91 @@
     },
     {
       "name": "The Guardian Business",
-      "count": 19
+      "count": 20
     }
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "1d4cc92e343d",
+      "title": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
+      "summary": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable Some experts are warning of a looming “debt bomb” cr…",
+      "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-23T14:00:34.000Z"
+    },
+    {
+      "id": "449747064084",
+      "title": "日本浦河附近海域发生6.0级地震",
+      "summary": "据日本气象厅消息，当地时间23日22时00分左右，日本浦河附近海域发生6.0级地震，最大震感为震度4，震源深度40公里。(总台记者 刘耀鸿）",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682850.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T13:56:45.000Z"
+    },
+    {
+      "id": "93b63a747f5f",
+      "title": "泰國南部一夜50多起縱火 軍方稱為有組織搗亂",
+      "summary": "軍方表示，這些襲擊「意圖製造動盪」，目前沒有任何組織承認責任。",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-23T13:56:41.000Z"
+    },
+    {
+      "id": "9fffe5480809",
+      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
+      "summary": "BBC分析：加拿大總理卡尼將必須讓民眾相信，他放棄與白宮談判的這場豪賭，將值得承受隨之而來的後果。",
+      "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-23T13:56:22.000Z"
+    },
+    {
+      "id": "1f5d1456e501",
+      "title": "Iran’s foreign minister calls threat of new US economic sanctions ‘desperate’",
+      "summary": "Abbas Araghchi says country is unbowed but president Masoud Pezeshkian admits its people face ‘many problems’ Iran’s foreign minister has dismissed the threat of a fresh round of…",
+      "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-23T13:56:11.000Z"
+    },
+    {
+      "id": "3c0bfe16be6f",
+      "title": "现场直击：见到赛考斯，殷玉珍练了很久的英文，一句也没能说出口",
+      "summary": "8月23日下午，中国“治沙劳模”殷玉珍早早来到内蒙古鄂尔多斯伊金霍洛国际机场，等待迎接一位阔别26年的美国故人。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682849.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T13:53:59.000Z"
+    },
+    {
+      "id": "cbd9f364c863",
+      "title": "云南凤庆泥石流和滑坡灾害：已致2人遇难4人失联",
+      "summary": "中新网昆明8月23日电 (记者 缪超)记者23日晚从云南省临沧市凤庆县政府新闻办公室获悉，8月23日凌晨1时至8时，凤庆县凤山镇遭遇持续性强降雨天气，安石村诱发泥石流灾害，造成2名群众失联；水箐村诱发滑坡灾害，造成4名群众失联。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682846.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T13:37:08.000Z"
+    },
+    {
+      "id": "7990fbc028b6",
+      "title": "嫦娥七号任务不满足发射条件 不能在今年预定窗口实施",
+      "summary": "中新社海南文昌8月23日电 据中国载人航天工程办公室23日消息，本着稳妥可靠、万无一失的原则，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。(完)",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682844.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-23T13:33:38.000Z"
+    },
     {
       "id": "6903a1544a44",
       "title": "从凭经验到“慧”种田 广西蔗田里算出产业“甜账本”",
@@ -310,56 +390,6 @@
       "publishedAt": "2026-08-23T12:38:49.000Z"
     },
     {
-      "id": "1296e19f481d",
-      "title": "镇北堡西部影城暑期游人如织",
-      "summary": "图为游客在景区内参观。中新社记者 于晶 摄 图为游客在景区内参观。中新社记者 于晶 摄 图为游客在景区内拍照打卡。中新社记者 于晶 摄 图为游客在景区内参观。中新社记者 于晶 摄 图为游客在景区内拍照打卡。中新社记者 于晶 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-23/10682790.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T12:37:37.000Z"
-    },
-    {
-      "id": "478a5f22e952",
-      "title": "16支队伍香港竞逐机器人大赛争“武林至尊”",
-      "summary": "图为各支参赛队伍在后台调试机器人。中新网记者 李志华 摄 图为中国电子科技大学的参赛队员调试机器人。中新网记者 李志华 摄 图为中国电子科技大学参赛队的机器人在比赛中。中新网记者 李志华 摄 图为中国电子科技大学的参赛队伍在比赛中得分。中新网记者 李志华 摄 图为参赛队伍在比赛中。中新网记者 李志华 摄 图为香港中文大学的参赛队伍在比赛中。中新网记者 李…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-23/10682789.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T12:36:18.000Z"
-    },
-    {
-      "id": "1899ee4b3d55",
-      "title": "广西金秀大瑶山雨后景色如画 无障碍登山成旅游新体验",
-      "summary": "图为盘王界云海景观。高如金 摄 图为盘王界云海景观。高如金 摄 图为游客在观赏云海。高如金 摄 图为游客在乘坐观光缆车上下山。高如金 摄 图为游客乘坐观光电梯上下山。高如金 摄 图为游客在拍摄云海景观。高如金 摄 图为游客在景区栈道行进。高如金 摄 图为景区一角，吸引了许多游客在此观看美景、拍照留念。高如金 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-23/10682788.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T12:34:08.000Z"
-    },
-    {
-      "id": "8305aec2ab83",
-      "title": "台湾南部强降雨致271件淹水灾情 多地24日停班停课",
-      "summary": "中新社台北8月23日电 (记者 朱贺)受西南风偏强及低压带影响，台湾南部迎来持续降雨，截至23日17时，全台累计发生271件淹水灾情。高雄市、台南市、屏东县宣布24日停止上班上课。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682814.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-23T12:34:00.000Z"
-    },
-    {
-      "id": "1f5d1456e501",
-      "title": "Iran’s president says country faces ‘many problems’ as US ramps up sanctions",
-      "summary": "Tehran’s acknowledgment of economic hardships comes a day before US expected to announce further measures Authorities in Tehran have acknowledged that the Iranian people are faci…",
-      "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-23T11:50:36.000Z"
-    },
-    {
       "id": "39ea562d9b81",
       "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
       "summary": "President sharply criticises proposal, saying ‘elections right now are a tsunami for the state that will split Ukraine’ Volodymyr Zelenskyy has said holding elections in Ukraine…",
@@ -368,16 +398,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-23T11:50:12.000Z"
-    },
-    {
-      "id": "9fffe5480809",
-      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
-      "summary": "BBC分析：加拿大總理卡尼將必須讓民眾相信，他放棄與白宮談判的這場豪賭，將值得承受隨之而來的後果。",
-      "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-23T11:36:31.000Z"
     },
     {
       "id": "0f7415ce5b12",
@@ -438,6 +458,16 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-23T08:00:27.000Z"
+    },
+    {
+      "id": "cdf9633c6a1e",
+      "title": "‘Pretty shambolic’: new EU border checks cause stress for UK travellers",
+      "summary": "Britons report that EES digital entry and exit system has led to frustration, visa mix-ups and long queues On top of fears about extreme heat and possible jet fuel shortages , Br…",
+      "url": "https://www.theguardian.com/business/2026/aug/23/new-eu-border-checks-ees-uk-travellers-visa-queues",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T07:00:26.000Z"
     },
     {
       "id": "b562c2919d25",
@@ -598,6 +628,16 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-22T05:00:54.000Z"
+    },
+    {
+      "id": "153ddf3c3ca3",
+      "title": "Tesla recalls nearly 3m vehicles in China over door handle safety risks",
+      "summary": "Recall comes after Chinese authorities said it would ban hidden car door handles commonly seen on Tesla models Tesla and other carmakers are making a major recall of more than 4m…",
+      "url": "https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-21T23:48:16.000Z"
     },
     {
       "id": "a51777a8bd32",
@@ -1050,16 +1090,6 @@
       "publishedAt": "2026-08-19T13:44:57.000Z"
     },
     {
-      "id": "0d65cb831095",
-      "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
-      "summary": "全球最大人形機械人製造商的股票於上海科創板開始交易，首天股價漲幅數以倍計。",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-19T12:47:27.000Z"
-    },
-    {
       "id": "a8027a9508d1",
       "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
       "summary": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of j…",
@@ -1140,6 +1170,16 @@
       "publishedAt": "2026-08-18T15:28:57.000Z"
     },
     {
+      "id": "bd269aa88549",
+      "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
+      "summary": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live – latest updates Oil prices have risen again afte…",
+      "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-18T11:50:40.000Z"
+    },
+    {
       "id": "e51557f8cdba",
       "title": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair – tested",
       "summary": "From handheld to corded, self-emptying to stick models, these are our resident cleaner’s favourite vacuums for a spotless home • The best cordless vacuum cleaners, tested • How t…",
@@ -1180,26 +1220,6 @@
       "publishedAt": "2026-08-17T12:16:16.000Z"
     },
     {
-      "id": "72b11875ae5c",
-      "title": "After Hormuz, China looks to the promise – and peril – of the Arctic’s ‘ice silk road’",
-      "summary": "China has established the first scheduled transit through the northern sea route, but questions remain over the environmental and political risks When Marco Rubio suggested that…",
-      "url": "https://www.theguardian.com/world/2026/aug/17/strait-hormuz-alternative-china-ships-north-sea-route-arctic-ice-silk-road",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-17T00:09:23.000Z"
-    },
-    {
-      "id": "b89d41bf3b66",
-      "title": "A fake website and a deluge of CVs: the Australian firm embroiled in an FBI probe into alleged Chinese espionage",
-      "summary": "Exclusive: Fake consultancy impersonating Brisbane firm online is one of 13 websites seized by the US Department of Justice Follow our Australia news live blog for latest updates…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/fbi-investigation-china-alleged-espionage-fake-websites-defence-intelligence-australia",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-16T15:00:30.000Z"
-    },
-    {
       "id": "af099ca7bfad",
       "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
       "summary": "高市早苗今年選擇不親自參拜靖國，卻以奉納玉串料及「遙拜」表達敬意，而靖國所供奉的甲級戰犯、戰爭記憶與日本日益強化的安全政策，仍讓這座神社成為中日韓外交爭議的焦點。",
@@ -1208,26 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-16T10:44:03.000Z"
-    },
-    {
-      "id": "39c4d24eaa29",
-      "title": "Met apologises for exposing 143 email addresses of Mohamed Al Fayed victims",
-      "summary": "London police force tells Telegraph incident was result of ‘human error’ and it is conducting an investigation The Metropolitan police have apologised for accidentally exposing t…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/met-police-apologises-exposing-email-addresses-mohamed-al-fayed-victims",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-15T12:22:47.000Z"
-    },
-    {
-      "id": "4d583e25e4ce",
-      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
-      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill…",
-      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T10:00:54.000Z"
     }
   ]
 }
