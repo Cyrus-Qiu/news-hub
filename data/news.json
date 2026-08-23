@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:28:35.326Z",
+  "updatedAt": "2026-08-23T19:48:47.817Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "3fb3f23fc839",
+      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: nego…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-23T19:32:59.000Z"
+    },
     {
       "id": "05a262ac14ca",
       "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
@@ -480,16 +490,6 @@
       "publishedAt": "2026-08-23T11:00:32.000Z"
     },
     {
-      "id": "3fb3f23fc839",
-      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: nego…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-23T11:00:16.000Z"
-    },
-    {
       "id": "bac0527753d8",
       "title": "中國機器人打破人類百米短跑世界紀錄",
       "summary": "在北京舉行的世界人形機器人運動會上，一台「天工Ultra」以9.39秒跑畢100米路程。",
@@ -572,7 +572,7 @@
     {
       "id": "b360d17ebc45",
       "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
-      "summary": "Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacke…",
+      "summary": "Three other people wounded after 18-year-old man wielding sword assailed students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attac…",
       "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
       "source": "The Guardian World",
       "category": "国际",
