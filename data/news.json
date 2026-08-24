@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T17:38:24.765Z",
+  "updatedAt": "2026-08-24T18:52:30.731Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,36 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "a1f3dc30f7bf",
+      "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from dispute Are you a Canadian boycotting US products? We’d like to hear from…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-24T18:22:14.000Z"
+    },
+    {
+      "id": "1402d7400159",
+      "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+      "summary": "London and Kyiv in deal to help stop protesters and hostile states targeting military bases and critical infrastructure AI models trained on Ukrainian battlefield data will be us…",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+      "source": "The Guardian World",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-24T18:16:14.000Z"
+    },
+    {
+      "id": "71af33c3c729",
+      "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
+      "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wil…",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T17:34:50.000Z"
+    },
+    {
       "id": "548a9d13d5f5",
       "title": "Vuelta a España: giant hail forces stage three abandonment in Pyrenees",
       "summary": "Huge hailstones prompt organisers to act 15km from end Riders seen heading into hotel on route to take cover A torrential hailstorm in the French Pyrenees forced the abandonment…",
@@ -41,8 +71,8 @@
     },
     {
       "id": "0fcdee3fa1ba",
-      "title": "‘Fix that little spot’: Danish PM receives beauty tips even when in a war zone",
-      "summary": "Mette Frederiksen, who was attending meeting in Kyiv, advises high-profile women to embrace self-acceptance Sick of getting unsolicited beauty tips on social media, even while sh…",
+      "title": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon",
+      "summary": "Mette Frederiksen, who received message on returning from Ukraine, advises women to embrace self-acceptance Sick of getting unsolicited beauty tips on social media, the Danish pr…",
       "url": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
       "source": "The Guardian World",
       "category": "国际",
@@ -58,16 +88,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-24T16:46:17.000Z"
-    },
-    {
-      "id": "71af33c3c729",
-      "title": "Prince Harry quits board of wildlife charity after human rights abuses",
-      "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wil…",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T16:40:37.000Z"
     },
     {
       "id": "61958d07519e",
@@ -410,16 +430,6 @@
       "publishedAt": "2026-08-24T13:45:07.000Z"
     },
     {
-      "id": "b9979592e0e7",
-      "title": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
-      "summary": "World’s largest streaming services have also increased subscription costs repeatedly in US, research finds Business live – latest updates Subscribers to Netflix, Disney+ and Amaz…",
-      "url": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
-      "source": "The Guardian World",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-24T13:45:04.000Z"
-    },
-    {
       "id": "7f6c5b4b26fd",
       "title": "2026年服贸会环境与能源服务专题首次引入都市型现代农业内容",
       "summary": "中新网北京8月24日电 (记者 陈杭)2026年服贸会环境与能源服务专题各项筹备工作已基本完成。专题展首次引入都市型现代农业相关内容，依托北京平谷农业中关村创新优势，集中呈现科技农业、绿色农业、质量农业、品牌农业实践成果，彰显智慧城市建设与现代农业发展有机联动。",
@@ -568,6 +578,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-24T06:15:27.000Z"
+    },
+    {
+      "id": "b00c437b3197",
+      "title": "Fairphone 6+ review: the most repairable, ethical phone gets faster",
+      "summary": "Dutch sustainable smartphone revamped with new chip and more RAM without sacrificing modular design Fairphone’s top Android for 2026 is a little faster with more memory while mai…",
+      "url": "https://www.theguardian.com/technology/2026/aug/24/fairphone-6-review-the-most-repairable-ethical-phone-gets-faster",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-24T06:00:53.000Z"
     },
     {
       "id": "1ff1fa3aa5b1",
@@ -950,16 +970,6 @@
       "publishedAt": "2026-08-21T10:43:59.000Z"
     },
     {
-      "id": "81c7b43ac3b2",
-      "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
-      "summary": "With plentiful jobs and community support, one Mexico City neighbourhood has become a haven for those who have lived much of their lives in the US With its wide avenues lined wit…",
-      "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-21T10:00:31.000Z"
-    },
-    {
       "id": "2326c840fa93",
       "title": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
       "summary": "Exclusive: Planning documents show annual emissions from North Ockendon project would be equivalent to 8,480 flights to New York A “hyperscale” datacentre in outer London would g…",
@@ -1218,16 +1228,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-18T04:00:13.000Z"
-    },
-    {
-      "id": "af099ca7bfad",
-      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
-      "summary": "高市早苗今年選擇不親自參拜靖國，卻以奉納玉串料及「遙拜」表達敬意，而靖國所供奉的甲級戰犯、戰爭記憶與日本日益強化的安全政策，仍讓這座神社成為中日韓外交爭議的焦點。",
-      "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-16T10:44:03.000Z"
     }
   ]
 }
