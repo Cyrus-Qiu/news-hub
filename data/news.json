@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T04:24:12.426Z",
+  "updatedAt": "2026-08-24T05:21:30.952Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,94 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "dce6418b2b52",
+      "title": "美财长称美伊战事进入“终局”",
+      "summary": "当地时间23日晚，美国财政部长贝森特在社交媒体上说，美国同伊朗的战事正进入“终局”，扬言要切断伊朗政权“每一条经济命脉”，直至德黑兰“孤立无援”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683087.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T05:19:12.000Z"
+    },
+    {
+      "id": "eabd9c8d20a0",
+      "title": "快時尚品牌Shein赴港上市 估值大減至270億美元",
+      "summary": "據Shein提交港交所文件，該公司股份擬於9月1日正式掛牌。",
+      "url": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-24T05:16:33.000Z"
+    },
+    {
+      "id": "9167cd3de0be",
+      "title": "国家发展改革委紧急安排5000万元中央预算内投资支持广西台风洪涝灾害灾后应急恢复",
+      "summary": "近日，受今年第19号台风“紫檀”影响，广西壮族自治区崇左、防城港等多地出现持续性强降雨，发生严重洪涝灾害。8月24日，国家防减救灾委、应急管理部启动国家四级救灾应急响应。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683086.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T05:09:47.000Z"
+    },
+    {
       "id": "f465ed32b23d",
-      "title": "Australia news live: AFL chief says ‘actions of a few’ don’t define the game; five arrested as police raid CFMEU headquarters",
+      "title": "Australia news live: Albanese promises ‘no change’ to WA’s share of GST; five arrested as police raid CFMEU headquarters",
       "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Alan Jones trial enters its fourth week The Alan Jones trial enters its fourth week today, w…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-24T04:11:25.000Z"
+      "publishedAt": "2026-08-24T05:06:43.000Z"
+    },
+    {
+      "id": "40fbd900d010",
+      "title": "Air conditioning push favoured over emissions cuts in five European nations, survey finds",
+      "summary": "Poll also finds sizeable majorities who believe it should be easier to install air con in homes Given the choice, more people across five major European nations including the UK…",
+      "url": "https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T05:00:53.000Z"
+    },
+    {
+      "id": "7be39226b5ab",
+      "title": "高市政府，正让日本民众越来越不安",
+      "summary": "中新网8月24日电 “减税”，曾是日本首相高市早苗赢得选举的“利器”。如今，这项承诺却成了日本民众的心结。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683079.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T04:58:12.000Z"
+    },
+    {
+      "id": "fb6e02f5768f",
+      "title": "中心附近最大风力8级 台风“简拉维”登陆福建泉州",
+      "summary": "中新网8月24日电 据中央气象台官方微博消息，台风“简拉维”24日上午11点由热带低压加强为热带风暴级，其中心已于24日中午12点30分在福建省泉州市台商投资区张坂镇沿海登陆，登陆时中心附近最大风力有8级(18米/秒)，中心最低气压为998百帕。登陆后将继续向西北方向移动，强度逐渐减弱。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683084.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T04:53:40.000Z"
+    },
+    {
+      "id": "046e580f0817",
+      "title": "国网江苏省电力有限公司原三级顾问陈庆接受审查调查",
+      "summary": "中新网8月24日电 据中央纪委国家监委驻国家电网有限公司纪检监察组、江苏省纪委监委消息：国网江苏省电力有限公司原三级顾问陈庆涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家电网有限公司纪检监察组纪律审查和江苏省南京市监察委员会监察调查。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683078.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T04:45:21.000Z"
+    },
+    {
+      "id": "453effe848f8",
+      "title": "中国气象局升级调整应急响应为重大气象灾害（台风、暴雨、强对流）三级",
+      "summary": "中新网8月24日电 据中国气象局微信公众号消息，8月24日11时50分，经综合研判和应急会商，中国气象局升级调整重大气象灾害(台风、暴雨)四级应急响应为(台风、暴雨、强对流)三级应急响应。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683080.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T04:36:09.000Z"
     },
     {
       "id": "497d296ac667",
@@ -300,76 +380,6 @@
       "publishedAt": "2026-08-24T03:09:52.000Z"
     },
     {
-      "id": "1a26300647d7",
-      "title": "香港故事｜香港青年升旗手逐梦记",
-      "summary": "新华社香港8月23日电 题：香港青年升旗手逐梦记",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683041.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T03:06:51.000Z"
-    },
-    {
-      "id": "9361eed7251b",
-      "title": "HPV疫苗必须接种吗？为何年龄划定在13周岁？官方解答→",
-      "summary": "自2025年11月10日起，HPV疫苗纳入国家免疫规划。国家疾控局等部门明确，2011年11月10日以后出生、年满13周岁的女孩，可免费接种2剂次双价HPV疫苗。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-24/10683040.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T03:05:23.000Z"
-    },
-    {
-      "id": "498adee96024",
-      "title": "成功挑战4次全程马拉松 视障跑者小草的“不设限”人生",
-      "summary": "成功挑战4次全程马拉松，两次参加HYROX",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683035.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T03:00:27.000Z"
-    },
-    {
-      "id": "cc213f3126ad",
-      "title": "“西藏走出了一条符合当地实际的高质量发展之路”",
-      "summary": "近日，“看见西藏：新时代 新发展”故事分享会在尼泊尔国家行政学院报告厅举行。来自中尼两国的300多名嘉宾，聆听几名刚从西藏归来的尼泊尔人士分享所见所闻。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683034.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T03:00:03.000Z"
-    },
-    {
-      "id": "eabd9c8d20a0",
-      "title": "快時尚品牌Shein估值270億美元赴港上市",
-      "summary": "據Shein提交港交所文件，該公司股份擬於9月1日正式掛牌。",
-      "url": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:57:09.000Z"
-    },
-    {
-      "id": "7c713c956964",
-      "title": "大湾区制造深圳出海再提速",
-      "summary": "海铁联运再加密，盐田港新增中山内陆港",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683032.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:56:36.000Z"
-    },
-    {
-      "id": "9a11d5ed46ea",
-      "title": "民族团结进步促进法施行以来，引发海外侨胞持续关注",
-      "summary": "——",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683033.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:56:30.000Z"
-    },
-    {
       "id": "9e712f93aadb",
       "title": "老乾媽陶華碧教會我們的七件事",
       "summary": "陶華碧憑藉其老乾媽辣椒醬帝國脫貧，蛻變成「中國最火辣的女人」，並成為風靡全球的網絡熱話。",
@@ -568,16 +578,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-23T11:26:40.000Z"
-    },
-    {
-      "id": "ef36be6a2c5f",
-      "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
-      "summary": "An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno The ruinous fires th…",
-      "url": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-23T11:00:32.000Z"
     },
     {
       "id": "bac0527753d8",
