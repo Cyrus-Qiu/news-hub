@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T11:38:02.905Z",
+  "updatedAt": "2026-08-24T13:06:11.974Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,314 +30,344 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "82106f5884d4",
-      "title": "中国工信部：北斗在重点行业和大众应用场景加速拓展",
-      "summary": "中新社北京8月24日电 (记者 刘亮)中国工信部24日在北京举行的一场媒体圆桌会上介绍，北斗卫星导航系统目前不仅在重点行业领域已实现深度应用，在大众消费领域的应用也已取得明显进展。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683352.shtml",
+      "id": "9d333d6ed1df",
+      "title": "杭州地铁9号线二期工程迎关键节点 已具备列车运行条件",
+      "summary": "中新网杭州8月24日电(蓝伊旎)据杭州地铁24日消息，杭州地铁四期工程建设迎来关键性节点：杭州地铁9号线二期工程全线接触网热滑试验顺利完成，标志着项目已正式具备列车上线运行条件，为后续的联调联试及开通运营奠定了坚实基础。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683427.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:31:57.000Z"
+      "publishedAt": "2026-08-24T13:03:37.000Z"
     },
     {
-      "id": "c7f4e8fa0c5f",
-      "title": "王毅同科威特外交大臣杰拉赫会谈",
-      "summary": "中新社北京8月24日电 中共中央政治局委员、外交部长王毅24日在北京同科威特外交大臣杰拉赫举行会谈。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683351.shtml",
+      "id": "46935992b3ca",
+      "title": "第四届两岸青少年成渝双城研学营在重庆开营",
+      "summary": "中新网重庆8月24日电 (杨梦逸)24日，“川渝山水 亲亲少年”第四届两岸青少年成渝双城研学营在重庆市渝中区开营。在接下来4天时间里，两岸学子将通过参观体验等方式，全方位了解川渝两地的自然人文、历史地理、风土民俗，增进两岸青少年对中华文化的认知认同。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683428.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:30:35.000Z"
+      "publishedAt": "2026-08-24T13:03:19.000Z"
     },
     {
-      "id": "e974aa7a3af7",
-      "title": "中印边界问题特别代表第25次会晤将举行",
-      "summary": "中新社北京8月24日电 (记者 李京泽)中国外交部发言人24日宣布：根据双方商定，中共中央政治局委员、中央外办主任、中印边界问题中方特别代表王毅将于8月25日在北京同印方特别代表、印度国家安全顾问多瓦尔举行中印边界问题特别代表第25次会晤。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683350.shtml",
+      "id": "4424cd39a02b",
+      "title": "宁夏深化国家区域医疗中心建设",
+      "summary": "中新网银川8月24日电 (记者 杨迪)记者24日从宁夏卫生健康委获悉，近年来，宁夏持续深化国家区域医疗中心建设，随着救治能力全面提升，宁夏孕产妇、婴儿、5岁以下儿童死亡率持续降至历史最低水平，进入西部第一方阵。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-24/10683429.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:30:13.000Z"
+      "publishedAt": "2026-08-24T13:02:59.000Z"
     },
     {
-      "id": "f66011b837a0",
-      "title": "（走进中国乡村）“中国无花果之乡”：“糖包子”七十二变串起致富路",
-      "summary": "中新社新疆阿图什8月24日电 题：“中国无花果之乡”：“糖包子”七十二变串起致富路",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683349.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T11:29:43.000Z"
+      "id": "e89f88f50510",
+      "title": "French police accused of rising use of violence to stop Channel crossings",
+      "summary": "NGO criticises ‘human cost’ of UK-funded crackdown on attempts to set off from French beaches in small boats People trying to cross the Channel to the UK have reported an increas…",
+      "url": "https://www.theguardian.com/world/2026/aug/24/french-police-violence-channel-crossings-uk",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T13:00:33.000Z"
     },
     {
       "id": "01f965df2839",
-      "title": "Burnham compares Ukraine’s war against Russia to Britain’s fight against Nazi Germany as he begins visit – Europe live",
-      "summary": "UK PM in Kyiv with plans to share blueprints for long-range missiles, as Kremlin warns move would ‘add fuel to fire’ in British-Russian relations Here’s the full quote from Kreml…",
+      "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
+      "summary": "UK PM hits back at Kremlin comment that sharing long-range missile blueprints will ‘add fuel to fire’ by asking ‘who started the fire?’ Here’s the full quote from Kremlin’s Pesko…",
       "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-24T11:26:41.000Z"
+      "publishedAt": "2026-08-24T13:00:02.000Z"
     },
     {
-      "id": "1921509cb949",
-      "title": "习近平为约旦国王阿卜杜拉二世举行欢迎仪式",
-      "summary": "新华社快讯：8月24日，国家主席习近平在北京为来华进行国事访问的约旦国王阿卜杜拉二世举行欢迎仪式。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683368.shtml",
+      "id": "e006138d44dd",
+      "title": "文学IP拥抱AIGC 中国长春电影节搭建文影转化交流平台",
+      "summary": "中新网长春8月24日电 (高龙安 李彦国)第二十一届中国长春电影节“中国文学新力量”系列活动24日举行，众多文坛名家、影视新锐、专家学者齐聚现场，助力推动文学与影视双向赋能。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683410.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:22:56.000Z"
+      "publishedAt": "2026-08-24T12:52:22.000Z"
     },
     {
-      "id": "ecc192838ce3",
-      "title": "习近平致电祝贺阿拉姆吉尔就任孟加拉国总统",
-      "summary": "新华社北京8月24日电 8月24日，国家主席习近平致电阿拉姆吉尔，祝贺他就任孟加拉人民共和国总统。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683366.shtml",
+      "id": "392af724de77",
+      "title": "专家学者齐聚重庆 探寻大足石刻背后的宋代社会图景",
+      "summary": "中新网重庆8月24日电 (记者 钟旖)大足石刻与宋史研究学术研讨会24日在重庆市大足区开幕。来自中国内地各科研院所、高等院校、文博机构的50余位专家学者围绕大足石刻与宋代地方史、宗教史、文化艺术等议题展开深入交流与研讨。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683408.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:20:00.000Z"
+      "publishedAt": "2026-08-24T12:51:54.000Z"
     },
     {
-      "id": "ed63c01175cc",
-      "title": "津门少年赴疆研学 山海相融筑牢民族团结青春纽带",
-      "summary": "中新网天津8月24日电(江莹)共青团天津市委员会组织的天津青少年赴新疆研学交流活动23日圆满落幕。为期7天的研学之旅中，40名天津优秀青少年代表走进新疆乌鲁木齐、和田等地，通过实地探访、结对共建、文化联谊等多元形式，与当地青少年深度交往交流交融，以青春纽带搭建津疆民族团结友谊之桥。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683348.shtml",
+      "id": "c979e59c6700",
+      "title": "长篇小说《横河》跨越半个世纪的中国呈现超越地域的书写",
+      "summary": "中新网北京8月24日电 (记者 应妮)由人民文学出版社主办的“致敬一条倔强的河流——《横河》研讨会”日前在京举行。该作所呈现的强烈时代感获得现场评论家一致赞誉。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683409.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:19:08.000Z"
+      "publishedAt": "2026-08-24T12:51:06.000Z"
     },
     {
-      "id": "07995c73a4f3",
-      "title": "回答“四个之问” 标定党外代表人士使命",
-      "summary": "加快构建中国哲学社会科学自主知识体系，更好回答中国之问、世界之问、人民之问、时代之问，努力开创哲学社会科学高质量发展新局面，为中国式现代化建设贡献更多智慧和力量。习近平总书记的这一重要指示，深刻揭示了新时代哲学社会科学繁荣发展的使命任务，也为广大党外代表人士在中国式现代化进程中找准履职方位、彰显使命担当提供了重要遵循。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683347.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T11:17:10.000Z"
-    },
-    {
-      "id": "a2fed8f90522",
-      "title": "三台共舞！台风“紫檀”“沙德尔”接连来袭 哪里将承接最强风雨",
-      "summary": "中国天气网讯 今天(8月24日)中午，今年第20号台风“简拉维”在福建登陆。但目前海上仍有三个台风活动，它们分别是台风“沙德尔”、“紫檀”和“艾莎尼”。未来它们将如何发展？移动路径如何？哪些地方将承接强风雨？中国天气网一一为你解读。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683365.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T11:16:12.000Z"
-    },
-    {
-      "id": "38841373f820",
-      "title": "国家疾控局权威回应：“没打HPV疫苗不能入学”是误传（2026·08·24）",
+      "id": "eb25347b2495",
+      "title": "王沪宁会见第三届中美1.5轨对话美方代表",
       "summary": "",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683363.shtml",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201986.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:13:48.000Z"
+      "publishedAt": "2026-08-24T12:45:37.000Z"
     },
     {
-      "id": "f31b8121f314",
+      "id": "db17e90cd89f",
+      "title": "“北京没有冰箱”背后，台湾“名嘴”为何一味炮制“大陆穷酸剧本”？",
+      "summary": "中新网8月24日电(燕新台)继“大陆吃不起茶叶蛋”“大陆高铁没有靠背”后，又一台湾绿营“名嘴”在岛内节目上发表反智言论：“北京没有冰箱。”",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683402.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T12:45:07.000Z"
+    },
+    {
+      "id": "efc802584343",
+      "title": "李强会见约旦国王阿卜杜拉二世",
+      "summary": "新华社北京8月24日电 8月24日上午，国务院总理李强在北京人民大会堂会见来华进行国事访问的约旦国王阿卜杜拉二世。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683405.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T12:44:09.000Z"
+    },
+    {
+      "id": "b7b21bbe2804",
+      "title": "首届全球独角兽大会在港开幕 聚焦全球科创企业拓展合作空间",
+      "summary": "中新社香港8月24日电 (邱兆翔 张语洽)由香港大公文汇传媒集团主办的首届全球独角兽大会24日在香港开幕。本届大会汇集200余家全球独角兽企业，以及100余家高成长科技企业参展，旨在推动全球独角兽企业落户香港、来港上市、借港出海，助力香港国际创科中心建设。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683396.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T12:43:43.000Z"
+    },
+    {
+      "id": "cf9e7794e068",
       "title": "习近平同约旦国王阿卜杜拉二世会谈",
-      "summary": "新华社北京8月24日电(记者邵艺博)8月24日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的约旦国王阿卜杜拉二世举行会谈。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683361.shtml",
+      "summary": "中新社北京8月24日电 8月24日下午，中国国家主席习近平在北京人民大会堂同来华进行国事访问的约旦国王阿卜杜拉二世举行会谈。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683404.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:10:26.000Z"
+      "publishedAt": "2026-08-24T12:43:07.000Z"
     },
     {
-      "id": "6490878df680",
-      "title": "访北京中关村AI原点社区：AI重塑创业方式 “一人公司”涌现",
-      "summary": "中新网北京8月24日电 题：访北京中关村AI原点社区：AI重塑创业方式 “一人公司”涌现",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683339.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-24T11:07:20.000Z"
-    },
-    {
-      "id": "068326e3efc8",
-      "title": "北京科技大学雄安校区开门办学所需建筑全部封顶",
-      "summary": "中新网雄安8月24日电 (李玉素 韩冰)8月24日，北京科技大学雄安校区最大单体建筑——图书馆主体结构封顶。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683336.shtml",
+      "id": "154877f5e0e8",
+      "title": "香港北都首个“片区开发”项目批出 将兼顾住宅建设与产业配套",
+      "summary": "中新社香港8月24日电 香港特区政府发展局24日公布，位于香港北部都会区(简称“北都”)洪水桥／厦村新发展区内的“片区”(简称“洪水桥‘片区’”)项目完成评标，特区政府决定将项目批予洪水桥新发展有限公司，中标价为10.3亿港元，这也是北都首个“片区开发”招投项目。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683390.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:05:44.000Z"
+      "publishedAt": "2026-08-24T12:42:57.000Z"
     },
     {
-      "id": "02760c4b6679",
-      "title": "戏曲与音乐剧创新融合 越韵音乐剧《千面》首演轮收官",
-      "summary": "中新网杭州8月24日电 国风越韵音乐剧《千面》日前在杭州蝴蝶剧场·大剧场圆满完成首演轮全部演出。作为南派三叔IP《花夜前行》改编的越音三部曲开篇之作，该剧首轮连续上演九场，被认为呈现了戏曲与音乐剧创新融合的尝试。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683335.shtml",
+      "id": "3250aec43df7",
+      "title": "崇德科技：终止收购德企Levicron GmbH100%股权",
+      "summary": "中新网北京8月24日电 (记者 陈康亮)湖南崇德科技股份有限公司(下称崇德科技)24日公告称，因《股份购买和转让协议》约定的交割条件(即德国联邦经济事务和气候行动部出具无异议证明)未在约定时限内满足，公司及全资子公司Platin2608.GmbH已正式向卖方发出终止通知，终止收购德国公司Levicron GmbH100%股权。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683383.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:01:03.000Z"
+      "publishedAt": "2026-08-24T12:36:11.000Z"
     },
     {
-      "id": "beaf1a5429e4",
-      "title": "总产量保持超22亿公斤 “晋南粮仓”临汾夯实粮食安全根基",
-      "summary": "中新网太原8月24日电 (魏宇昕 李庭耀)“严格落实耕地保护和粮食安全责任制，坚决遏制耕地‘非农化’、基本农田‘非粮化’。坚持稳面积、提单产双轮驱动，大力推进‘吨粮田’‘吨半粮田’示范创建，确保粮食播种面积稳定在756万亩以上、总产量保持在22亿公斤以上。”24日，山西省临汾市副市长乔飞鸿表示。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683338.shtml",
+      "id": "6299a5bf4a3a",
+      "title": "专访澳门特区行政长官岑浩辉：“三五”规划不仅是发展蓝图，更是庄严承诺",
+      "summary": "中新社澳门8月24日电 题：专访澳门特区行政长官岑浩辉：“三五”规划不仅是发展蓝图，更是庄严承诺",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683391.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T11:00:05.000Z"
+      "publishedAt": "2026-08-24T12:34:11.000Z"
     },
     {
-      "id": "d313a4a45679",
-      "title": "台风“紫檀”致广东多地狂风暴雨",
-      "summary": "中新网广州8月24日电 (记者 王坚)今年第19号台风“紫檀”24日8时中心位于广东省湛江徐闻偏西方向约230公里的北部湾海面上，中心附近最大风力9级(23米/秒)。受其影响，23日白天到24日早晨，广东多地出现暴雨、大暴雨。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683332.shtml",
+      "id": "e93c2794c5bd",
+      "title": "正邦科技：上半年亏损超7亿元",
+      "summary": "中新网北京8月24日电 (记者 陈康亮)江西正邦科技股份有限公司(下称正邦科技)24日公告称，2026年上半年，公司实现归属于上市公司股东的净利润约为-7.37亿元，同比转亏。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683382.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T10:57:53.000Z"
+      "publishedAt": "2026-08-24T12:27:47.000Z"
     },
     {
-      "id": "59c4548b002f",
-      "title": "拍摄近千部微短剧 老牌“电影城”长春发力影视新赛道",
-      "summary": "中新网长春8月24日电 (记者 郭佳)正在举办的第二十一届中国长春电影节上，微短剧成为高频热词。多场微短剧主题产业活动接连落地，从标准化拍摄基地建设、专项扶持政策，到内容创作、AI漫剧创新，这座老牌“电影城”正抢抓机遇，抢占数字影视全新赛道。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683337.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-24T10:57:45.000Z"
-    },
-    {
-      "id": "057003d34bac",
-      "title": "广西宁明开展江面漂浮物清障作业",
-      "summary": "图为钩机及清运车辆正在开展江面漂浮物清障作业。王伟臣 摄 图为钩机及清运车辆正在开展江面漂浮物清障作业。王伟臣 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-24/10683344.shtml",
+      "id": "86ff5a39049b",
+      "title": "从浙江看“民生共富”：邻里互助让“陌邻”变“睦邻”",
+      "summary": "中新网杭州8月24日电(董易鑫 陈蓓蓓)一台缝纫机解决居民衣物缝补的细碎需求，一堂外语课搭建起不同文化背景居民交流的窗口，一份灵活的来料加工岗位让务工人员实现在家门口就业，一次议事协商破解邻里“停车难”等烦心事……",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683381.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T10:52:20.000Z"
+      "publishedAt": "2026-08-24T12:26:02.000Z"
     },
     {
-      "id": "393a4d6112ad",
-      "title": "水利部针对福建省启动洪水防御Ⅳ级应急响应",
-      "summary": "中新网8月24日电 据“中国水利”微信公众号消息，据预报，受今年第20号台风“简拉维”带来的强降雨影响，8月24日至25日，福建闽江、九龙江、汀江及沿海诸河等河流将出现明显涨水过程，暴雨区内部分中小河流可能发生超警以上洪水。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683346.shtml",
+      "id": "35fe132ecdc6",
+      "title": "300余名中外选手福建宁德“壶”上会友",
+      "summary": "中新网宁德8月24日电 (记者 叶茂)24日，2026年“一带一路”群众体育系列赛陆地冰壶比赛在福建省宁德市开幕，来自中国、俄罗斯、哈萨克斯坦等6个国家和地区300余名陆地冰壶选手以体育为媒，以赛事会友。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683379.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T10:49:46.000Z"
+      "publishedAt": "2026-08-24T12:24:12.000Z"
+    },
+    {
+      "id": "1f14a41c3632",
+      "title": "6天内4个台风接连生成！今年台风怎么这么多？",
+      "summary": "中新网北京8月24日电(记者 邵萌)近段时间，西北太平洋和南海海域台风活跃。7月以来，台风“美莎克”“巴威”“红霞”“白海豚”“简拉维”相继登陆我国，带来广泛风雨影响。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683393.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T12:23:06.000Z"
+    },
+    {
+      "id": "dbe4e59ba5d2",
+      "title": "肖捷出席第八次发展中国家议员研讨班开班式",
+      "summary": "新华社北京8月24日电 8月24日，全国人大常委会副委员长肖捷在京出席第八次发展中国家议员研讨班开班式并致辞。他表示，中方愿与各方一道，充分发挥立法机构职能作用，积极应对新变革新挑战，深化交流互鉴，凝聚国际共识，促进共同发展，推动改革完善全球治理。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683389.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T12:16:00.000Z"
+    },
+    {
+      "id": "f2ae672e8279",
+      "title": "‘A cognitive cacophony’: hands-on with the Call of Duty Modern Warfare 4 beta test",
+      "summary": "Players will get what they expect from the new CoD title: boots-on-the-ground military action with a slight tactical edge. But what’s with all the distractions? There’s a lot rid…",
+      "url": "https://www.theguardian.com/games/2026/aug/24/a-cognitive-cacophony-hands-on-with-the-call-of-duty-modern-warfare-4-beta-test",
+      "source": "The Guardian Technology",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T12:15:27.000Z"
+    },
+    {
+      "id": "bebc55cd1af5",
+      "title": "定下职业网球“中国赛季”第一拍 成都进入ATP250时间",
+      "summary": "中新网成都8月24日电 (袁牟知博)2026成都网球季新闻发布会24日在成都举行，集中发布成都公开赛—ATP250、国际网联世界网球巡回赛青少年年终总决赛、中国网球巡回赛三大赛事。其中，作为中国西部最重磅的职业网球赛事，2026年成都公开赛—ATP250将于9月22日至29日率先开拍，拉开职业网球“中国赛季”大幕。2025年上海大师赛冠军瓦朗坦·瓦舍罗、…",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683378.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T12:14:40.000Z"
+    },
+    {
+      "id": "3e3c27653ae3",
+      "title": "直播：广西宁明多地发生洪涝灾害 直击救援现场",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-24/10683387.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T12:11:10.000Z"
     },
     {
       "id": "e1b507f0ed76",
-      "title": "UK ‘adding fuel to the fire’ by giving weaponry blueprints to Ukraine, says Russia",
-      "summary": "Moscow warns of increased tensions with Britain as Burnham visits Kyiv to offer declassified details of missile components Europe live – latest updates The Kremlin has warned of…",
+      "title": "Burnham accuses Russia of ‘outrageous threats’ against UK as he visits Kyiv",
+      "summary": "Moscow warns of increased tensions with Britain as Burnham offers Ukraine declassified details of missile components Europe live – latest updates Andy Burnham has accused the Kre…",
       "url": "https://www.theguardian.com/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-24T10:49:24.000Z"
+      "publishedAt": "2026-08-24T12:07:59.000Z"
     },
     {
-      "id": "d431be2b73cb",
-      "title": "（长征胜利90周年）宁夏西吉：一根“红军粉”，九十载富民路",
+      "id": "8334781ed267",
+      "title": "青岛警方通报“女子在海之恋公园被一名男子辱骂”事件",
       "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201975.shtml",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683386.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T10:37:10.000Z"
+      "publishedAt": "2026-08-24T12:05:13.000Z"
     },
     {
-      "id": "e7ca721f9cc9",
-      "title": "习近平作出重要指示强调 巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩",
-      "summary": "原标题：习近平作出重要指示强调",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683341.shtml",
+      "id": "fe3c659245d2",
+      "title": "中华人民共和国和约旦哈希姆王国关于深化中约战略伙伴关系的联合声明",
+      "summary": "新华社北京8月24日电",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683385.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T10:34:01.000Z"
+      "publishedAt": "2026-08-24T12:01:43.000Z"
     },
     {
-      "id": "e68080783163",
-      "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
-      "summary": "中新网8月24日电 据“中国水利”微信公众号消息，水利部和中国气象局8月24日18时联合发布红色山洪灾害气象预警：",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683340.shtml",
+      "id": "2a04a90c95a4",
+      "title": "晋冀鲁豫大宗商品骨干流通走廊沿线11市谋划重点项目363个",
+      "summary": "中新网太原8月24日电 (记者 李庭耀)24日，在中共山西省委宣传部、山西省人民政府新闻办公室举办的开局起步“十五五”系列主题新闻发布会上，临汾市委副书记、市长王延峰介绍，截至目前，晋冀鲁豫大宗商品骨干流通走廊沿线11个地市共谋划重点项目363个、总投资1.16万亿元。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683377.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T10:31:03.000Z"
+      "publishedAt": "2026-08-24T12:00:05.000Z"
     },
     {
-      "id": "2099d0fdfb56",
-      "title": "河北阜城：4万余亩酿酒红高粱迎丰收",
-      "summary": "图为8月24日，河北省衡水市阜城县崔家庙镇李常村高粱收割现场。崔贤飞 摄 图为8月24日，河北省衡水市阜城县崔家庙镇李常村，高粱种植户展示收获的高粱。崔贤飞 摄 图为8月24日，河北省衡水市阜城县崔家庙镇一粮食收购点，收获的高粱正在等待烘干。崔贤飞 摄 图为8月24日，河北省衡水市阜城县崔家庙镇李常村高粱收割现场。崔贤飞 摄 图为8月24日，河北省衡水市…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-24/10683334.shtml",
+      "id": "b8d5e16d8b6c",
+      "title": "悉尼马拉松主办方承认奖牌印错了 称选手将会终身难忘",
+      "summary": "中新网8月24日电 综合外媒报道，澳大利亚悉尼马拉松主办方23日承认，本年度赛事的奖牌设计有误。奖牌图案原本应是悉尼安联球场，但刻成了德国慕尼黑安联球场。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683384.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T10:29:21.000Z"
+      "publishedAt": "2026-08-24T11:59:56.000Z"
     },
     {
-      "id": "e19385e46c6d",
-      "title": "F1荷兰大奖赛举行",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201968.shtml",
+      "id": "3c9e9cf61847",
+      "title": "四川南充：“十五五”规上工业总产值锚定翻番 加快建成省域经济副中心",
+      "summary": "中新网成都8月24日电(祝欢)四川省人民政府新闻办公室24日在成都举行“万千气象看四川·起步奋进‘十五五’”南充专场新闻发布会。发布会上透露，“十五五”时期，南充将围绕调结构、转动能、促转型的时代任务，加快建成省域经济副中心，力争到2030年，规上工业总产值在2025年的基础上翻一番。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683375.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T10:27:00.000Z"
+      "publishedAt": "2026-08-24T11:57:54.000Z"
     },
     {
-      "id": "233425a5cbcd",
-      "title": "新华图讯丨习近平同约旦国王阿卜杜拉二世会谈",
-      "summary": "8月24日，国家主席习近平在北京同来华进行国事访问的约旦国王阿卜杜拉二世举行会谈。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683328.shtml",
+      "id": "f35b3b841ab5",
+      "title": "电影《滇红往事》云南保山开机 两岸导演联袂讲述七十七载归乡路",
+      "summary": "中新网云南保山8月24日电 (陈静)以两岸亲情纽带为主题的电影《滇红往事》24日在云南省保山市隆阳区金鸡乡开机。该片由云南省人民政府台湾事务办公室、昆明森翔文化传播有限公司联合摄制，预计2027年与全国观众见面。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683374.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T10:22:01.000Z"
+      "publishedAt": "2026-08-24T11:56:04.000Z"
     },
     {
-      "id": "ffff6452f7c9",
-      "title": "（活力中国调研行）一缕茶香里的消费新活力",
-      "summary": "中新网福州8月24日电 (龙敏 孙虹 郑江洛)炎炎夏日中，福建茶香依旧浓郁。2026年“活力中国调研行”福建主题采访活动日前先后走进福州上下杭历史文化街区、泉州安溪八马茶业观光工厂，从百年商埠到现代茶企，一缕茶香里，藏着中国茶产业面向新消费求新求变的活力密码。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683295.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T10:19:33.000Z"
+      "id": "97b17091f0d0",
+      "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+      "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperat…",
+      "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T11:53:10.000Z"
     },
     {
-      "id": "9d88b2b81008",
-      "title": "四台风共舞局面形成 中国南北方拉开“雨幕”",
-      "summary": "中新社北京8月24日电 (记者 陈溯)记者24日从中国气象局获悉，当前西北太平洋洋面上有四个台风活动，中国南北方皆拉开雨幕，局地降雨具有一定极端性。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683306.shtml",
+      "id": "925b752579b3",
+      "title": "拼多多发布Q2财报：“新十年高质量发展”迈向新阶段，长期主义驱动产业价值跃迁",
+      "summary": "8月24日，拼多多发布截至6月30日的2026年第二季度财报。受益于“千亿扶持”等惠商战略的效用释放，以及平台治理体系的全面升级，拼多多二季度营收达到1124亿元，利润272亿元。其中，Non-GAAP研发投入43亿元，同比增长40%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683373.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T10:19:15.000Z"
+      "publishedAt": "2026-08-24T11:47:40.000Z"
     },
     {
-      "id": "9de7121d44e3",
-      "title": "哈萨克斯坦首届一院制议会选举初步结果公布",
-      "summary": "中新社阿斯塔纳8月24日电(记者 单璐)哈萨克斯坦中央选举委员会24日公布首届一院制议会库鲁尔泰选举初步结果，共有5个政党获得新议会席位。其中，哈执政党公正党以71.17%的得票率居首位。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683310.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T10:18:50.000Z"
-    },
-    {
-      "id": "c368f7628845",
-      "title": "2025年台湾民众平均寿命为81.27岁",
-      "summary": "中新社台北8月24日电 台湾当局内部事务主管部门24日公布，2025年台湾民众平均寿命为81.27岁，较2024年增加0.5岁，其中女性84.75岁、男性77.93岁。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683307.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T10:18:28.000Z"
+      "id": "098099d01c24",
+      "title": "Distracted Italian pedestrians who cross road while on phone could be fined under new code",
+      "summary": "Updated draft highway code follows several court rulings assigning blame for road accidents to careless pedestrians Italy’s updated highway code will target pedestrians who stare…",
+      "url": "https://www.theguardian.com/world/2026/aug/24/distracted-italian-pedestrians-who-cross-road-while-on-phone-could-be-fined-under-new-code",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T11:36:58.000Z"
     },
     {
       "id": "dd3abd4dcc34",
@@ -478,26 +508,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-24T05:16:33.000Z"
-    },
-    {
-      "id": "40fbd900d010",
-      "title": "Air conditioning push favoured over emissions cuts in six European nations, survey finds",
-      "summary": "Poll also finds sizeable majorities who believe it should be easier to install air con in homes Given the choice, more people across six major European nations including the UK f…",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T05:00:53.000Z"
-    },
-    {
-      "id": "2495c9e320bd",
-      "title": "Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows",
-      "summary": "Rightwing voices seize on plans to offer Black children an exclusive afternoon at an outdoor pool in the German capital It was meant to be an outing for Black children in Berlin…",
-      "url": "https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T04:00:52.000Z"
     },
     {
       "id": "9e712f93aadb",
@@ -910,16 +920,6 @@
       "publishedAt": "2026-08-21T08:21:37.000Z"
     },
     {
-      "id": "0e44b4c5642d",
-      "title": "Weather tracker: Extreme rain deluges Japan and South Korea",
-      "summary": "Downpours break records and cause transport chaos, evacuations and deaths, as people get trapped inside vehicles South Korea and Japan were hit by extreme rain late last week and…",
-      "url": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-21T08:19:21.000Z"
-    },
-    {
       "id": "518719794b7f",
       "title": "Stupid Never Dies – a zombie fights for the love of a frozen corpse",
       "summary": "Free from a big brand’s audience expectations, new studio GPTrack50 has created a wacky action-packed romp through a monster-filled world for its first game Love is blind. In Stu…",
@@ -968,16 +968,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-20T16:14:59.000Z"
-    },
-    {
-      "id": "040c6d5a9b5a",
-      "title": "Marvel’s Wolverine: Spider-Man developers turn to a more cutthroat character",
-      "summary": "Even film-makers have been inspired by Insomniac’s take on Spidey. But the studio’s tried and tested format might not fit a superhero with such sharp claws The recent Marvel’s Sp…",
-      "url": "https://www.theguardian.com/games/2026/aug/20/marvel-wolverine-spider-man-developers-turn-more-cutthroat-character",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-20T15:40:04.000Z"
     },
     {
       "id": "8321a7e7c9bc",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-16T10:44:03.000Z"
+    },
+    {
+      "id": "4d583e25e4ce",
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill…",
+      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T10:00:54.000Z"
     }
   ]
 }
