@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T06:06:01.218Z",
+  "updatedAt": "2026-08-24T07:15:58.868Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,264 +30,324 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "46a0f4479f86",
-      "title": "助残养老有“新帮手” 浙江加速AI惠民场景落地",
-      "summary": "中新网杭州8月24日电 题：助残养老有“新帮手”浙江加速AI惠民场景落地",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683099.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-24T05:56:48.000Z"
-    },
-    {
-      "id": "a2ee1b908970",
-      "title": "2026年“左宗棠与边疆治理”学术研讨会在新疆哈密举行",
-      "summary": "中新网新疆哈密8月24日电 (袁鹏冲)2026年“左宗棠与边疆治理”学术研讨会23日在新疆哈密左宗棠凤凰台历史文化公园举行。本次研讨会汇聚全国多所高校及社科研究机构的专家学者，立足新时代边疆治理现代化视角，系统复盘左宗棠经略新疆的实践历程，深度挖掘其治疆理念的精神内核与时代内涵。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683098.shtml",
+      "id": "06da22edeb96",
+      "title": "多家商业银行发布优化后的消费贷贴息政策执行方案",
+      "summary": "央视网消息(新闻联播)：近日，中国工商银行、中国农业银行等多家商业银行发布公告，从8月1日起，每名借款人在同一家银行可享受的个人消费贷款和信用卡分期业务累计贴息上限由每年3000元提高到每年5000元。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683178.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:55:18.000Z"
-    },
-    {
-      "id": "7ae88fae0ed5",
-      "title": "厦金“小三通”客运航线单日出入境旅客量创2023年复航以来新高",
-      "summary": "中新社厦门8月24日电 (吴冠标)厦门边检总站高崎边检站24日通报称，8月23日厦金“小三通”客运航线单日出入境旅客量超7900人次，创2023年复航以来新高。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683118.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T05:54:42.000Z"
+      "publishedAt": "2026-08-24T07:07:09.000Z"
     },
     {
       "id": "f465ed32b23d",
-      "title": "Australia news live: Woman dies after car crashes into Melbourne cafe; five arrested as police raid CFMEU headquarters",
+      "title": "Australia news live: woman dies after car crashes into Melbourne restaurant; five arrested as police raid CFMEU headquarters",
       "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Alan Jones trial enters its fourth week The Alan Jones trial enters its fourth week today, w…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-24T05:53:22.000Z"
+      "publishedAt": "2026-08-24T07:06:00.000Z"
     },
     {
-      "id": "070ca59ac992",
-      "title": "台风“简拉维”已在福建泉州沿海登陆",
-      "summary": "中新网福州8月24日电 (记者 龙敏)福建省防汛办24日通报，今年第20号台风“简拉维”24日11时由热带低压加强为热带风暴级，其中心已于12时30分前后在福建泉州台商投资区张坂镇沿海登陆，登陆时中心附近最大风力8级(18米/秒)，中心最低气压998百帕。登陆后将继续向西北方向移动，强度逐渐减弱。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683097.shtml",
+      "id": "095ad5c3ec37",
+      "title": "【好评中国·敦煌风】跑赢博尔特 人形机器人发展的新起点",
+      "summary": "人形机器人百米赛跑赢人类，令人振奋。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683177.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:52:11.000Z"
+      "publishedAt": "2026-08-24T07:05:32.000Z"
     },
     {
-      "id": "48af7f666a28",
-      "title": "一粒沙海稻米，何以站上全球稻米品质高地？",
-      "summary": "中新网新疆阿拉尔8月24日电 (史玉江)在新疆塔克拉玛干沙漠边缘，曾被认定“种不出好庄稼”的土地，如今农田连片、稻浪翻滚，实现荒漠盐碱地的高效利用。所产沙漠稻米连续六年斩获国际米食味品鉴大会中国区金奖，站上全球稻米品质高地，颠覆固有想象。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683096.shtml",
+      "id": "df6bdc390ce7",
+      "title": "54人兼职群 53个是骗子！警方揭秘刷单连环套骗局",
+      "summary": "动动手指点赞、完成简单任务，就能获得可观的兼职报酬，这类“副业机会”常出现在QQ群、微信聊天群和短视频平台等网络场景。一些有兼职增收需求的人被“低门槛、高收益”吸引，随后被要求下载陌生App、垫付资金或者向个人账户转账，由此落入刷单返利骗局。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683175.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:51:03.000Z"
+      "publishedAt": "2026-08-24T07:03:28.000Z"
     },
     {
-      "id": "fce4d40ef5f4",
-      "title": "转人工菜单入口须清晰醒目 企业对AI客服答复承担责任",
-      "summary": "我国首个聚焦人工客服与智能客服协同机制的国家标准9月起实施，记者近日开展实测，倾听市民诉求并解读新规亮点",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683124.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-24T05:48:45.000Z"
-    },
-    {
-      "id": "1388127a3023",
-      "title": "中国篮协公示亚运会参赛名单 胡金秋、杨舒予等名将在列",
-      "summary": "中新社北京8月24日电 (记者 邢翀)中国篮球协会24日发布爱知·名古屋亚运会篮球、三人篮球项目参赛运动员公示名单，其中男、女篮大名单各14人，胡金秋、杨舒予等名将在列。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683119.shtml",
+      "id": "0210713da0d8",
+      "title": "山海有约 热力四射——“花样”文旅点亮暑期生活",
+      "summary": "出发，不负美好时光；旅行，共赴心中山海。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683176.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:48:11.000Z"
+      "publishedAt": "2026-08-24T07:02:32.000Z"
     },
     {
-      "id": "70acc665d079",
-      "title": "打破多项人类运动纪录 机器人性能持续进阶",
-      "summary": "中新社北京8月24日电 (记者 吕少威 陈杭 徐婧)天卓队机器人以9.39秒的成绩打破了9.58秒的人类百米世界纪录；天工Ultra机器人原地跳高跳出2.8843米的成绩，超越了人类男子跳高世界纪录2.45米……",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683116.shtml",
+      "id": "a5ca882c6f29",
+      "title": "王沪宁主持召开全国政协主席会议",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201938.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:46:25.000Z"
+      "publishedAt": "2026-08-24T07:01:37.000Z"
     },
     {
-      "id": "18882c77df20",
-      "title": "（乡村行·看振兴）山西繁峙：特色农业赋能乡村 “链”起千户增收路",
-      "summary": "中新网忻州8月24日电 题：山西繁峙：特色农业赋能乡村 “链”起千户增收路",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683106.shtml",
+      "id": "2c88316ae584",
+      "title": "【好评中国】上好跨越90年的这堂课",
+      "summary": "暑假“进度条”即将走完，每到开学时节，“开学第一课”备受关注。今年“开学第一课”怎么上？红色主题成为鲜明基调。",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-24/10683170.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:46:03.000Z"
+      "publishedAt": "2026-08-24T06:57:20.000Z"
     },
     {
-      "id": "da76e8f11b73",
-      "title": "（活力中国调研行）“奔县”去山东：小城正成文旅新宠",
-      "summary": "中新网济南8月24日电 (国璇 李明芮)随着“特种兵”式打卡游的热度降温，以慢节奏、深体验为特征的“慢充旅行”正悄然成为出游新风尚。山东省文化和旅游厅党组副书记、副厅长刘少华24日在“活力中国调研行”山东主题采访活动情况介绍会上透露，山东的县域文旅正告别千篇一律，“奔县游”正在山东多地持续升温。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683104.shtml",
+      "id": "1dbd8dfb51b5",
+      "title": "台风“夹击”将给粤西、粤东带来大雨，为何今年台风偏多？",
+      "summary": "近期，台风十分活跃，并且从目前预测来看，3个台风都对广东有影响。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683168.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:45:31.000Z"
+      "publishedAt": "2026-08-24T06:56:11.000Z"
     },
     {
-      "id": "5d5c9e15d0aa",
-      "title": "中国夏粮旺季收购进入高峰",
-      "summary": "中新社北京8月24日电 (记者 陈溯)中国国家粮食和物资储备局24日发布的最新数据显示，目前，中国夏粮旺季收购进入高峰，全国各类粮食经营主体累计收购小麦超9000万吨，南方早籼稻迎来集中上市。各地收购工作有序开展，收购进展整体顺利。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683114.shtml",
+      "id": "c915a54be9cb",
+      "title": "（活力中国调研行）户籍、常住人口“双过亿” 山东多措激发县域消费潜能",
+      "summary": "中新网济南8月24日电 (国璇 李明芮)“活力中国调研行”主题采访活动山东站24日在济南正式启动。在当天举行的情况介绍会上，山东省发展和改革委员会党组成员、副主任朱红表示，山东持续优化区域发展格局，以强县产业帮扶弱县，促进县域经济协调均衡发展，上半年10个弱县固定资产投资、财政收入增速分别高于全省平均14.9个和1.5个百分点左右。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683165.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:44:31.000Z"
+      "publishedAt": "2026-08-24T06:55:37.000Z"
     },
     {
-      "id": "c1ac2b789e15",
-      "title": "内塔尼亚胡警告哈马斯停止从加沙向以色列“放风筝”",
-      "summary": "中新社北京8月24日电 综合消息：以色列总理内塔尼亚胡与以国防部长卡茨当地时间23日发表联合声明，称若巴勒斯坦伊斯兰抵抗运动(哈马斯)不立即停止从加沙地带向以色列放飞无人机、气球和风筝，以国防军将加大对相关人员的打击力度，并疏散加沙地带相关区域居民。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683112.shtml",
+      "id": "325242d847a7",
+      "title": "加强台风“沙德尔”防御 浙江90条客运航线停航",
+      "summary": "中新社杭州8月24日电 (记者 王逸飞)今年第18号台风“沙德尔”(超强台风级)抵近48小时警戒线。8月24日9时，浙江海事局启动Ⅲ级防台应急响应。截至当日10时，该省沿海已有90条客运航线因大风停航。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683164.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:43:15.000Z"
+      "publishedAt": "2026-08-24T06:53:53.000Z"
     },
     {
-      "id": "b3dfe3c6ba10",
-      "title": "台风“紫檀”致广西防汛形势严峻 水利部门落实防御举措",
-      "summary": "中新网南宁8月24日电 (陈秋霞 骆远柱)8月21日以来，受台风“紫檀”影响，广西防汛形势严峻。广西水利厅迅速响应、靠前部署，从严从实落实各项防汛防御举措，全力确保民众生命财产安全。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683111.shtml",
+      "id": "60864f70fb3b",
+      "title": "中国驻巴新使馆提醒中国公民和机构注意消防安全",
+      "summary": "中新网8月24日电 据中国驻巴布亚新几内亚大使馆微信公众号消息，据媒体报道，8月24日凌晨，巴新新爱尔兰省卡维恩当地华人商铺遭遇火灾，造成人员伤亡和经济损失。近期巴新天气干旱，火灾风险较前增大。中国驻巴布亚新几内亚使馆提醒中国公民和机构增强风险防范意识，严格排查隐患，提高自我保护能力和消防应急处置能力：",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-24/10683150.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:42:27.000Z"
+      "publishedAt": "2026-08-24T06:53:07.000Z"
     },
     {
-      "id": "ab3de5048e39",
-      "title": "受台风影响 海口“三港”或将于8月25日凌晨停运",
-      "summary": "中新网海口8月24日电 (记者 王子谦)海口市交通运输局24日10时发布提示称，受台风“紫檀”影响，海口新海港、秀英港和铁路南港或将于25日凌晨停运。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683109.shtml",
+      "id": "17fc49a7e835",
+      "title": "英国首相访问基辅 将宣布向乌提供远程导弹关键技术",
+      "summary": "当地时间24日，英国首相伯纳姆抵达乌克兰首都基辅，开启其就任后首次外访行程。他将在晚些时候与乌克兰总统泽连斯基会面，并将宣布新一批援乌计划，包括提供关键技术信息以支持乌克兰自主制造远程导弹。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683166.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:40:49.000Z"
+      "publishedAt": "2026-08-24T06:51:55.000Z"
     },
     {
-      "id": "9787f3f6c42f",
-      "title": "广西继续发布洪水红色预警 郁江将出现2026年第2号洪水",
-      "summary": "中新网南宁8月24日电(陈秋霞 周也茹)广西壮族自治区水文中心24日提供的信息显示，8月23日8时至24日8时，受上游来水及区间强降雨影响，左江及支流黑水河、凭祥河，明江及支流公安河、派连河、思州河，平而河，北仑河等15条河流20个水文站出现超警0.07至6.96米的洪水。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683095.shtml",
+      "id": "25e51d9b9b95",
+      "title": "哈尔滨石油学院花式迎新生",
+      "summary": "图为新生在心愿树下写下自己对未来的期许。中新社记者 赵宇航 摄 图为新生和家长在打卡墙前拍照。中新社记者 赵宇航 摄 图为学校为新生准备的彩色冰版画礼盒。中新社记者 赵宇航 摄 图为志愿者引导新生及家长入校。中新社记者 赵宇航 摄 图为信息工程学院的学生自制遥控行李运输车帮助新生运送行李。中新社记者 赵宇航 摄 图为学校准备的东北特色冻柿子吸引新生家长。…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-24/10683161.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:38:41.000Z"
+      "publishedAt": "2026-08-24T06:47:49.000Z"
     },
     {
-      "id": "ed82c557a3f9",
-      "title": "国际矿物学协会大会举行 全球学者共话“矿物万象”",
-      "summary": "中新网南京8月24日电 (记者 徐珊珊)第24届国际矿物学协会大会8月20日至24日在南京举行。这是该大会继1990年在北京举办之后，再度在中国举办。来自29个国家和地区的700余名专家学者及研究生参会，围绕“矿物万象，共赴新程”的主题展开交流研讨。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683090.shtml",
+      "id": "d11a4e943807",
+      "title": "新国标为小微型企业量身打造安全生产“极简实用”管理体系",
+      "summary": "记者了解到，市场监管总局(国家标准委)近日批准发布《小微型企业安全生产标准化管理体系要求》国家标准，将自9月1日起实施。新国标紧密结合小微型企业特点和实际，借鉴企业可持续发展(SCORE)项目等先进经验，为我国小微型企业安全生产工作提供了可借鉴的、系统化的基本管理框架，实现“他律”向“自律”转变。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683163.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:38:05.000Z"
+      "publishedAt": "2026-08-24T06:45:27.000Z"
     },
     {
-      "id": "55832e596e60",
-      "title": "民调显示超七成加拿大民众支持退出加美贸易谈判",
-      "summary": "加拿大民调机构安格斯·里德研究所23日发布的调查结果显示，超七成加拿大民众支持政府退出加美贸易谈判。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683113.shtml",
+      "id": "686332daac28",
+      "title": "韩正会见科威特外交大臣杰拉赫",
+      "summary": "新华社北京8月24日电 8月24日，国家副主席韩正在北京会见科威特外交大臣杰拉赫。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683162.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:37:49.000Z"
+      "publishedAt": "2026-08-24T06:40:25.000Z"
     },
     {
-      "id": "c2a4d608d901",
-      "title": "广西南宁：洪水来袭 邕江大堤关闸防洪",
-      "summary": "图为邕江边低洼地带被淹。（无人机照片） 陈冠言 摄 图为邕江边低洼地带被淹。（无人机照片） 陈冠言 摄 图为邕江边低洼地带被淹。（无人机照片） 陈冠言 摄 图为邕江边低洼地带被淹。（无人机照片） 陈冠言 摄 图为当日早间实时水位。（无人机照片） 陈冠言 摄 图为淹入水中的民生码头“邕”字碑。（无人机照片） 陈冠言 摄 图为一处交通闸已关闸防洪。 陈冠言…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-24/10683101.shtml",
+      "id": "8cf8104f24f2",
+      "title": "欧盟批准61亿欧元对乌军援",
+      "summary": "当地时间24日，欧盟委员会批准向乌克兰提供61亿欧元国防援助，用于采购乌克兰急需的导弹防御系统、弹药和雷达。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683158.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:37:47.000Z"
+      "publishedAt": "2026-08-24T06:34:50.000Z"
     },
     {
-      "id": "1d19ad9aac93",
-      "title": "电影文化节目《周末一起看电影》解码《八仙！》的东方浪漫与文化气韵",
-      "summary": "中新网北京8月24日电 正在热播的电影《八仙！》英文名是什么？如何从传统国风中汲取灵感？从哪些实景古建中取景？电影文化节目《周末一起看电影》23日晚在总台综合频道播出，主持人与电影《八仙！》主创团队一同走进影片台前幕后，感受电影中的东方美学意蕴，体味中华优秀传统文化的传承与创新。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683093.shtml",
+      "id": "c313c79c8be2",
+      "title": "多台风同时活跃 将给我国带来怎样影响？专家最新研判→",
+      "summary": "中央气象台今天继续发布台风蓝色预警。今年第21号台风“艾莎尼”今天上午生成。当前，今年第18号台风“沙德尔”、第19号台风“紫檀”和第20号台风“简拉维”同时活跃。这几个台风会给我国带来怎样的影响？今年台风为何如此活跃？",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683153.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:36:39.000Z"
+      "publishedAt": "2026-08-24T06:30:08.000Z"
     },
     {
-      "id": "4348dc3f388c",
-      "title": "“闽超”福马足球友谊赛在福州开赛",
-      "summary": "图为球迷为双方球员加油。中新社记者 吕明 摄 图为双方球员在球门前激烈拼抢。中新社记者 吕明 摄 图为以“两马”（福州马尾#8204;与#8204;马祖）灯笼为主题的节目表演助兴赛事。中新社记者 吕明 摄 图为双方球员在比赛中激烈拼抢。中新社记者 吕明 摄 图为福州球员（红）起脚射门。中新社记者 吕明 摄 图为双方球员在比赛中激烈拼抢。中新社记者 吕明…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-24/10683091.shtml",
+      "id": "5ae2e5645bda",
+      "title": "战败日“拜鬼”、闭口不提反省，朝中社批日本：新军国主义狂风将引灭亡风暴",
+      "summary": "中新网8月24日电 8月24日，朝中社发表一篇名为《日本的新军国主义狂风将给岛国带来灭亡的风暴》的文章。文章称，在战败投降日(8月15日)之际，在日本再次上演了集体参拜靖国神社的闹剧。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683151.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:36:11.000Z"
+      "publishedAt": "2026-08-24T06:29:34.000Z"
     },
     {
-      "id": "840058db1d74",
-      "title": "冒用“中国地震预警网”名义发布预警信息 成都高新减灾研究所被通报",
-      "summary": "中新网成都8月24日电 (记者 刘忠俊)四川省地震局8月24日发布情况通报，成都高新减灾研究所冒用“中国地震预警网”名义，通过个别手机及手表等渠道发布震级为7.7级的预警信息，引起社会关注。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683100.shtml",
+      "id": "c7a30675392f",
+      "title": "河北石家庄通报兽药无处方销售问题：8家门店被立案调查",
+      "summary": "中新网8月24日电 据石家庄市农业农村局网站消息，8月24日，河北省石家庄市联合调查组发布情况通报称，8月23日晚，央视财经曝光石家庄市长安区、平山县存在兽药无处方销售等问题。石家庄市高度重视，第一时间成立由农业农村、市场监管、公安等部门组成的联合调查组，赶赴涉事兽药门店进行现场调查。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683128.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:35:21.000Z"
+      "publishedAt": "2026-08-24T06:28:42.000Z"
     },
     {
-      "id": "7b8013c635b9",
-      "title": "他折了三根肋骨，救起两条生命",
-      "summary": "“当时没想那么多，看见他们俩跳进江里，就想着赶紧下去救人，再晚一点，可能就来不及了。”8月23日，梧州市红十字会医院，潘俊荣躺在病床上。说起3天前的那次救援，他下意识地护住左胸，那里，3根肋骨已经骨折。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683102.shtml",
+      "id": "8c84829819b8",
+      "title": "重庆秀山：和美乡村“丰”景美",
+      "summary": "图为沙坝村连片稻田渐染金黄。（无人机照片）杨林波 摄 图为沙坝村连片稻田渐染金黄。（无人机照片）杨林波 摄 图为沙坝村连片稻田渐染金黄。（无人机照片）杨林波 摄 图为沙坝村连片稻田渐染金黄。（无人机照片）杨林波 摄 图为沙坝村连片稻田渐染金黄。（无人机照片）杨林波 摄",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201932.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:33:42.000Z"
+      "publishedAt": "2026-08-24T06:26:58.000Z"
     },
     {
-      "id": "0015eeb95846",
-      "title": "四川长宁4.7级地震 中国地震局启动四级应急响应",
-      "summary": "中新网北京8月24日电 (记者 孙自法)记者从中国地震局获悉，四川省宜宾市长宁县8月24日早上发生4.7级地震后，中国地震局迅速启动四级应急响应。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683089.shtml",
+      "id": "5573d4b4f7d5",
+      "title": "专家析两岸交流：多点回暖、韧性更强",
+      "summary": "中新社北京8月24日电 题：专家析两岸交流：多点回暖、韧性更强",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683141.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:33:18.000Z"
+      "publishedAt": "2026-08-24T06:25:28.000Z"
     },
     {
-      "id": "96e12ab4b056",
-      "title": "5.6米拼豆《清明上河图》亮相兰州书展 像素手工“译”经典",
-      "summary": "图为《清明上河图》拼豆，该作品用186000颗拼豆拼出汴河的烟波。王牧雨 摄 该展区还展出全国各地拼豆爱好者的80余件原创作品，其中包括鲁迅头像、《读者》杂志封面等文学主题拼豆，把经典文化形象变成像素艺术。图为拼豆作品《鲁迅》。王牧雨 摄 图为拼豆作品《像素风作家头像》，作品涵盖古今中外文学大师的经典造型。王牧雨 摄 图为用拼豆复刻《读者》杂志经典封面。…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-24/10683094.shtml",
+      "id": "d33eedc9b891",
+      "title": "消杀服务企业涉嫌违规开展消杀业务 厦门市湖里区通报",
+      "summary": "中新网8月24日电 据“湖里头条”微信公众号消息，8月24日，厦门市湖里区联合调查组发布情况通报。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683132.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:32:22.000Z"
+      "publishedAt": "2026-08-24T06:17:35.000Z"
     },
     {
-      "id": "c3e52f2c89c1",
-      "title": "四川地震局：成都高新减灾研究所冒用“中国地震预警网”名义发布地震预警信息",
-      "summary": "中新网8月24日电 据四川省地震局微信公众号消息，据中国地震台网正式测定：2026年8月24日8时26分在四川宜宾市长宁县(北纬28.33度，东经104.98度)发生4.7级地震，震源深度5公里。成都高新减灾研究所冒用“中国地震预警网”名义，通过荣耀、维沃手机以及小天才手表等渠道向社会公众发布震级为7.7级的预警信息，引起社会关注。四川省地震局已于202…",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683092.shtml",
+      "id": "47a986147f20",
+      "title": "在西南英格蘭的角落，編織手工給移英港人女士們另一個家",
+      "summary": "位於布里斯托爾的「編織微笑」小組旨在促進移英港人的交流互動。",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-24T06:15:27.000Z"
+    },
+    {
+      "id": "9d8543575ae8",
+      "title": "华文教育名师巴西巡讲：让孩子学好中文是共同心愿",
+      "summary": "中新社圣保罗8月24日电 题：华文教育名师巴西巡讲：让孩子学好中文是共同心愿",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-24/10683117.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-24T05:32:14.000Z"
+      "publishedAt": "2026-08-24T06:15:05.000Z"
+    },
+    {
+      "id": "1fc68d6791cd",
+      "title": "How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way",
+      "summary": "Phillip Island’s ‘iconic’ little penguins get first bird flu vaccinations in what is thought to be largest program of its kind Follow our Australia news live blog for latest upda…",
+      "url": "https://www.theguardian.com/environment/2026/aug/24/little-penguins-bird-flu-vaccination-phillip-island-australia",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T06:11:36.000Z"
+    },
+    {
+      "id": "dd1416f78cf5",
+      "title": "（乡村行·看振兴）千年婺州窑火让乡村越来越旺",
+      "summary": "中新网金华8月24日电 题：千年婺州窑火让乡村越来越旺",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683131.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T06:11:21.000Z"
+    },
+    {
+      "id": "b882bf44d062",
+      "title": "台风“简拉维”在福建泉州沿海登陆",
+      "summary": "中新社福州8月24日电 (记者 龙敏 闫旭)福建省防汛办24日通报，今年第20号台风“简拉维”24日11时由热带低压加强为热带风暴级，其中心已于12时30分前后在福建泉州台商投资区张坂镇沿海登陆，登陆时中心附近最大风力8级(18米/秒)，中心最低气压998百帕。“简拉维”登陆后将继续向西北方向移动，强度逐渐减弱。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683134.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T06:09:29.000Z"
+    },
+    {
+      "id": "73d323c02d82",
+      "title": "如何学好华语？新加坡总理以中文作答：听周杰伦的歌、看电视剧《逐玉》",
+      "summary": "中新网8月24日电 据新加坡《联合早报》报道，8月23日，新加坡总理黄循财发表演说，强调新加坡绝不能成为单语社会，必须坚持双语政策，巩固华语作为华人共同语言的地位。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683136.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T06:09:27.000Z"
+    },
+    {
+      "id": "911ab47723bd",
+      "title": "朝中社：日本军国主义野心严重挑战世界和平与安全",
+      "summary": "朝中社24日发表评论文章说，在战败投降日之际，在日本再次上演集体参拜靖国神社的闹剧，首相高市早苗还遥拜了神社，这一严重动向是对人类企盼的世界和平与安全的重大挑战。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683135.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T06:08:55.000Z"
+    },
+    {
+      "id": "a11ff653ca8d",
+      "title": "重庆涪陵打造漫游环线 山水间催生文旅年轻态新场景",
+      "summary": "中新网重庆8月24日电 题：重庆涪陵打造漫游环线 山水间催生文旅年轻态新场景",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683108.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T06:08:25.000Z"
+    },
+    {
+      "id": "288b8748850e",
+      "title": "全国逾900名选手齐聚潮州“以赛会友”",
+      "summary": "中新网潮州8月24日电 (记者 张璐)2026年中国无线电测向联赛(广东潮州饶平站)(简称“赛事”)23日在潮州市饶平县凤江广场开幕，吸引来自全国各地的900余名运动员参加赛事。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683107.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T06:06:29.000Z"
+    },
+    {
+      "id": "7a43e0395bd0",
+      "title": "湖北阳新：152个托管班承包孩子多彩夏天",
+      "summary": "中新网黄石8月24日电(石佳灵)非洲鼓铿锵悦耳，采茶戏韵味十足，稚嫩的童声娓娓讲述红色阳新故事……8月20日，湖北省阳新县委党校报告厅内，一场精彩的暑期托管成果展演圆满落幕。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683105.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T06:05:47.000Z"
     },
     {
       "id": "01ee725b014d",
@@ -300,16 +360,6 @@
       "publishedAt": "2026-08-24T05:28:50.000Z"
     },
     {
-      "id": "dcd1d7f47f1b",
-      "title": "五集系列视频《眼疾患者的五重人生》",
-      "summary": "儿童初见，在懵懂与守护中看见世界",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683066.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T05:27:24.000Z"
-    },
-    {
       "id": "1ff1fa3aa5b1",
       "title": "New Zealand to consider banning children under 16 from social media",
       "summary": "Prime minister Christopher Luxon’s party to introduce bill seeking the ban, citing harm to a generation of children New Zealand prime minister Christopher Luxon has said his part…",
@@ -318,16 +368,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-24T05:22:19.000Z"
-    },
-    {
-      "id": "dce6418b2b52",
-      "title": "美财长称美伊战事进入“终局”",
-      "summary": "当地时间23日晚，美国财政部长贝森特在社交媒体上说，美国同伊朗的战事正进入“终局”，扬言要切断伊朗政权“每一条经济命脉”，直至德黑兰“孤立无援”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683087.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T05:19:12.000Z"
     },
     {
       "id": "eabd9c8d20a0",
@@ -340,16 +380,6 @@
       "publishedAt": "2026-08-24T05:16:33.000Z"
     },
     {
-      "id": "6580a40a3f35",
-      "title": "国家发改委紧急安排5000万元 支持广西台风灾后应急恢复",
-      "summary": "中新网8月24日电 据国家发展改革委微信公众号消息，近日，受今年第19号台风“紫檀”影响，广西壮族自治区崇左、防城港等多地出现持续性强降雨，发生严重洪涝灾害。8月24日，国家防减救灾委、应急管理部启动国家四级救灾应急响应。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683086.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T05:09:47.000Z"
-    },
-    {
       "id": "40fbd900d010",
       "title": "Air conditioning push favoured over emissions cuts in six European nations, survey finds",
       "summary": "Poll also finds sizeable majorities who believe it should be easier to install air con in homes Given the choice, more people across six major European nations including the UK f…",
@@ -358,26 +388,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-24T05:00:53.000Z"
-    },
-    {
-      "id": "7be39226b5ab",
-      "title": "高市政府，正让日本民众越来越不安",
-      "summary": "中新网8月24日电 “减税”，曾是日本首相高市早苗赢得选举的“利器”。如今，这项承诺却成了日本民众的心结。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683079.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T04:58:12.000Z"
-    },
-    {
-      "id": "fb6e02f5768f",
-      "title": "中心附近最大风力8级 台风“简拉维”登陆福建泉州",
-      "summary": "中新网8月24日电 据中央气象台官方微博消息，台风“简拉维”24日上午11点由热带低压加强为热带风暴级，其中心已于24日中午12点30分在福建省泉州市台商投资区张坂镇沿海登陆，登陆时中心附近最大风力有8级(18米/秒)，中心最低气压为998百帕。登陆后将继续向西北方向移动，强度逐渐减弱。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683084.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T04:53:40.000Z"
     },
     {
       "id": "2c91a82a84c2",
@@ -488,16 +498,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-23T15:00:36.000Z"
-    },
-    {
-      "id": "a3043fc96e77",
-      "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
-      "summary": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Follow our Australia news live blog for lates…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-23T15:00:35.000Z"
     },
     {
       "id": "0508b87dbfb9",
@@ -778,16 +778,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-21T13:39:35.000Z"
-    },
-    {
-      "id": "2086df31c715",
-      "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
-      "summary": "法庭認為，支聯會雖未使用或鼓吹暴力手段，但中國《香港國安法》頒布後，三人仍堅持「結束一黨專政」行動綱領，屬於「顛覆國家政權」罪中的「其他非法手段」。",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-21T13:24:42.000Z"
     },
     {
       "id": "db833018a9de",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-16T10:44:03.000Z"
+    },
+    {
+      "id": "4d583e25e4ce",
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill…",
+      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T10:00:54.000Z"
     }
   ]
 }
