@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T18:52:30.731Z",
+  "updatedAt": "2026-08-24T19:36:48.578Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "1fda7066b120",
+      "title": "Victorian premier Ben Carroll pushes ahead with SRL spend despite hinting at pause",
+      "summary": "A day after suggesting other projects were more important to Victorians, Carroll has committed to pushing ahead on train line Get our breaking news email , free app or daily news…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T19:00:36.000Z"
+    },
+    {
+      "id": "68453b629606",
+      "title": "US threatens severe sanctions against countries with economic ties to Iran",
+      "summary": "Washington launches campaign to isolate Tehran but it is unclear whether it will apply measures to China The US has threatened to impose severe sanctions against any country or e…",
+      "url": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T18:57:57.000Z"
+    },
+    {
+      "id": "d2d161f43a56",
+      "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+      "summary": "Move is latest deterioration in trade relations between neighbors with historically strong economic ties Donald Trump announced a new 50% tariff on automobiles and crucial raw ma…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-24T18:55:43.000Z"
+    },
     {
       "id": "a1f3dc30f7bf",
       "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
@@ -560,16 +590,6 @@
       "publishedAt": "2026-08-24T08:00:55.000Z"
     },
     {
-      "id": "3774d5b82973",
-      "title": "Two men charged and drugs, guns and cars linked to CFMEU seized as police investigate alleged corruption",
-      "summary": "Police arrest five men and search six properties including the union’s Victorian headquarters Get our breaking news email , free app or daily news podcast Two men have been charg…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/cfmeu-melbourne-headquarters-raided-five-arrested-alleged-corruption-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T07:43:15.000Z"
-    },
-    {
       "id": "47a986147f20",
       "title": "在西南英格蘭的角落，編織手工給移英港人女士們另一個家",
       "summary": "位於布里斯托爾的「編織微笑」小組旨在促進移英港人的交流互動。",
@@ -888,26 +908,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-21T16:01:43.000Z"
-    },
-    {
-      "id": "1a9e609c3fd7",
-      "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
-      "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-p…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-21T15:22:48.000Z"
-    },
-    {
-      "id": "b52636cb9d14",
-      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-      "summary": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have…",
-      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-21T15:03:34.000Z"
     },
     {
       "id": "061c23101f8c",
