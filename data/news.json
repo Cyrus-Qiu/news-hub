@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T03:11:57.432Z",
+  "updatedAt": "2026-08-24T04:24:12.426Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,276 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "f465ed32b23d",
+      "title": "Australia news live: AFL chief says ‘actions of a few’ don’t define the game; five arrested as police raid CFMEU headquarters",
+      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Alan Jones trial enters its fourth week The Alan Jones trial enters its fourth week today, w…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T04:11:25.000Z"
+    },
+    {
+      "id": "497d296ac667",
+      "title": "广西横州因台风“美莎克”受灾的72所学校达到开学条件",
+      "summary": "受今年第10号台风“美莎克”影响，7月初，广西横州市遭遇极端强降雨，六蓝水库、云表水库发生险情，导致学校受淹、损毁。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683076.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T04:05:19.000Z"
+    },
+    {
+      "id": "2c91a82a84c2",
+      "title": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+      "summary": "Known for selling cheap clothing, the online retailer has seen its value drop sharply from earlier estimates amid scrutiny over its environmental footprint Shein will debut on th…",
+      "url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-24T04:02:59.000Z"
+    },
+    {
+      "id": "58581f3fc188",
+      "title": "星巴克为什么不受宠了？",
+      "summary": "中新网北京8月24日电(记者 王昊)近日，“星巴克纸杯、吸管将由蜜雪冰城代工” 的传闻刷屏，引发全网热议。尽管星巴克与蜜雪冰城双双否认合作，但这场舆论风波并未快速平息，依旧引发大量网友讨论与衍生话题。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683068.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T04:01:17.000Z"
+    },
+    {
+      "id": "2495c9e320bd",
+      "title": "Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows",
+      "summary": "Rightwing voices seize on plans to offer Black children an exclusive afternoon at an outdoor pool in the German capital It was meant to be an outing for Black children in Berlin…",
+      "url": "https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T04:00:52.000Z"
+    },
+    {
+      "id": "71b691356bd9",
+      "title": "A股午评：超4200只个股飘绿，三大指数集体收跌",
+      "summary": "；贵金属冲高回落，保险、酒类、银行上涨，CPO、光通信重挫，生物科技、半导体下跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683074.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:58:54.000Z"
+    },
+    {
+      "id": "8ed32eacb36f",
+      "title": "四川宜宾长宁发生4.7级地震 中国地震局启动四级应急响应",
+      "summary": "中新网8月24日电 据中国地震局微信公众号消息，据中国地震台网正式测定，2026年8月24日8时26分，在四川宜宾市长宁县(北纬28.33度，东经104.98度)发生4.7级地震，震源深度5公里。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683070.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:56:22.000Z"
+    },
+    {
+      "id": "9e67b73ad1f9",
+      "title": "（长征胜利90周年）走进红军长征纪念碑碑园",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201925.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:51:48.000Z"
+    },
+    {
+      "id": "4f42a304df29",
+      "title": "统一战线是阳光下的温暖事业",
+      "summary": "总有一些杂音，试图将“统一战线”描绘成一种阴暗的权谋之术。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683071.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:50:30.000Z"
+    },
+    {
+      "id": "41cc126e5dfe",
+      "title": "水利部8月24日继续发布洪水黄色预警",
+      "summary": "中新网8月24日电 据“中国水利”微信公众号消息，预计8月24—26日，受19号台风“紫檀”和20号台风“简拉维”的共同影响，广西东部南部、广东、海南北部西部、福建、江西中部南部、湖南中部南部、浙江东南部等地将有强降雨，累计降水量将有50～80毫米，其中广西东南部、广东雷州半岛、海南西北部、浙江南部沿海、福建沿海等地部分地区累计降水量将有90～150毫米…",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683067.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:44:09.000Z"
+    },
+    {
+      "id": "51f9ab822cbd",
+      "title": "出行注意！台风影响多地高速通行、部分水域交通管制",
+      "summary": "23日晚，交通运输部启动强降雨三级防御响应、维持台风四级防御响应。今天的交通出行有哪些明显影响，总台记者在交通运输部综合调度指挥中心介绍最新情况。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683063.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:30:13.000Z"
+    },
+    {
+      "id": "506892645386",
+      "title": "市场监管总局发布酱香型白酒掺杂食用酒精筛查检验方法",
+      "summary": "中新网8月24日电 据国家市场监管总局微信公众号消息，酱香型白酒是我国白酒核心特色品类。按照国家标准规定，酱香型白酒必须通过粮食固态发酵，严禁添加食用酒精。近日，市场监管总局发布《食品补充检验方法 酱香型白酒中掺杂食用酒精的筛查》(BJS202603)。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683043.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:28:55.000Z"
+    },
+    {
+      "id": "429ef9035af7",
+      "title": "匿名给差评，为啥还能接到骚扰电话？",
+      "summary": "◆通常来说，如果想要知道是哪位消费者打了差评，需要根据差评的时间和内容，结合近期的顾客评价情况，以及店铺出品的菜品等信息，进行逐一排查和对应，要耗费大量时间。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683059.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:28:27.000Z"
+    },
+    {
+      "id": "40532031d9ba",
+      "title": "“易中天”，集体大跌",
+      "summary": "24日，A股CPO概念指数低开低走。个股方面，“易中天”集体大跌。截至发稿，天孚通信跌超8%，中际旭创、新易盛跌超6%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683036.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:26:54.000Z"
+    },
+    {
+      "id": "98f1c7341deb",
+      "title": "菲律宾拟禁止13岁及以下儿童使用社交媒体和网络游戏平台",
+      "summary": "中新社马尼拉8月24日电 (记者 周璟)据菲律宾媒体23日报道，菲律宾众议院正在起草相关措施，拟禁止13岁及以下儿童使用社交媒体和网络游戏平台，并对14至17岁未成年人使用社交媒体进行监管。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683053.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:26:14.000Z"
+    },
+    {
+      "id": "d3a2d7220687",
+      "title": "突尼斯附近海域一非法移民船倾覆 已致11人丧生",
+      "summary": "中新网北京8月24日电 综合消息：突尼斯国民警卫队当地时间23日通报，该国东南部海域日前发生的非法移民船倾覆事件已造成11人丧生。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683024.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:25:44.000Z"
+    },
+    {
+      "id": "d5c2fc0a828f",
+      "title": "战舰救援、航母补给、空中加油，海外基地是美军“命门”？",
+      "summary": "中新网8月24日电(记者 刁炜)近一段时间，发生了几桩看似不相干的事情：美军战舰“本福德”号断电抛锚海上漂、部署阿拉伯海的美军“林肯”号航母被曝补给困难、伊朗威胁打击驻欧美军加油机群。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683014.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:25:10.000Z"
+    },
+    {
+      "id": "d5fd4b141552",
+      "title": "市场监管总局：今年已发布新兴产业国家标准1400余项",
+      "summary": "中新网8月24日电 据国家市场监督管理总局官方微信公众号消息，今年以来，市场监管总局(国家标准委)已发布国家标准2800余项，其中新兴产业国家标准达1400余项，有力支撑了新质生产力蓬勃发展。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682997.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:24:54.000Z"
+    },
+    {
+      "id": "429451db1db1",
+      "title": "十余国选手绳舞长安 促“体育+文旅”深度融合",
+      "summary": "中新网西安8月24日电 (记者 张一辰)23日晚，2026“长安杯”UJR跳绳公开赛暨UJR杯在西安落下帷幕。本届大赛吸引了来自17个国家和地区的73支代表队、700余名运动员参赛。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683048.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:23:28.000Z"
+    },
+    {
+      "id": "2eb1ad2d45d4",
+      "title": "2026世界机器人大会在北京闭幕",
+      "summary": "中新网北京8月24日电 (记者 陈杭 吕少威 徐婧)为期5天的2026世界机器人大会23日在北京落下帷幕。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683046.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:21:18.000Z"
+    },
+    {
+      "id": "4da30f7d885d",
+      "title": "“长征路上新阿坝”大型主题采访活动启动",
+      "summary": "中新网阿坝8月24日电 (袁牟知博)8月24日，由中国新闻摄影学会指导，中共阿坝州委宣传部主办，中国新闻图片网、中国新闻社四川分社支持的“长征路上新阿坝”大型主题采访活动在四川省阿坝藏族羌族自治州松潘县红军长征纪念碑碑园正式启动。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683047.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:20:58.000Z"
+    },
+    {
+      "id": "f3858b4209d9",
+      "title": "第43届百队杯竞技组全面完赛",
+      "summary": "中新网8月24日电 据北京足协消息，近日，随着亦庄亦花园足球场赛区与郑常庄足球公园赛区结束最后一轮鏖战，第43届北京晚报百队杯足球赛竞技组的比赛宣告全面完赛。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683028.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:20:38.000Z"
+    },
+    {
+      "id": "8cf4194b5803",
+      "title": "全国累计收购小麦超9000万吨",
+      "summary": "新华社北京8月24日电(记者古一平)目前，我国夏粮旺季收购进入高峰。国家粮食和物资储备局24日发布最新数据显示，全国各类粮食经营主体累计收购小麦超9000万吨。南方早籼稻迎来集中上市。各地收购工作有序开展，收购进展整体顺利。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683051.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:19:40.000Z"
+    },
+    {
+      "id": "f4d67ce23f77",
+      "title": "当机器人开始跑步：我们为何需要一双“看得见”未来的眼睛？",
+      "summary": "8月22日晚，北京国家速滑馆“冰丝带”内，第二届世界人形机器人运动会正式拉开帷幕。来自16个国家的666支队伍、2056台机器人，将在51个项目、1301场比赛中展开激烈角逐。这是一场科技与竞技交融的巅峰盛会。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683038.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:15:24.000Z"
+    },
+    {
+      "id": "5fb9be3716a0",
+      "title": "一场逼近市中心的山火，烧出美国野火治理的“硬伤”",
+      "summary": "中新网8月24日电(魏晨曦)一场突然逼近里诺城中的山火，让美国野火问题再度成为全球焦点。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683050.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:15:02.000Z"
+    },
+    {
+      "id": "d5af7c6022bb",
+      "title": "“同根·同声·同心”海峡两岸青少年诵读文化经典交流活动在沈举办",
+      "summary": "近日，“同根·同声·同心”海峡两岸青少年诵读文化经典交流活动在沈阳市浑南区新时代文明实践中心举办。本次活动由沈阳市委统战部、市民族和宗教局主办，沈阳市朗诵艺术协会承办。来沈参加2026第十届海峡两岸暨香港、澳门地区中华经典诗文诵读大赛全国总决赛的青少年选手与沈阳市各族青少年以及沈河区“小小石榴籽”宣讲团学子共80余名少年齐聚，以诵读为媒，以经典为纽带，共…",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683037.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:13:56.000Z"
+    },
+    {
+      "id": "7ad17280ee33",
+      "title": "迎来首批学生！西藏定日地震灾区重建学校全部建成投用",
+      "summary": "8月24日，西藏日喀则市定日县各学校迎来秋季开学。曾在地震中受损严重、需整校重建的长所乡完全小学、措果乡中心小学和曲洛乡完全小学，历经一年多施工，今天新校园迎来首批学生。至此，定日地震灾区重建学校全部建成投用。",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-24/10683042.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T03:09:52.000Z"
+    },
     {
       "id": "1a26300647d7",
       "title": "香港故事｜香港青年升旗手逐梦记",
@@ -98,256 +368,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-24T02:56:30.000Z"
-    },
-    {
-      "id": "8b178ea61676",
-      "title": "四川长宁县发生4.7级地震 暂无人员伤亡情况报告",
-      "summary": "中新社成都8月24日电 (记者 岳依桐 刘忠俊)24日8时26分，四川宜宾市长宁县发生4.7级地震。记者从四川省地震局获悉，该局已启动地震四级应急响应，暂未收到人员伤亡情况报告。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683025.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:54:00.000Z"
-    },
-    {
-      "id": "a3dae88241fa",
-      "title": "日本排放核污染水已三年 22轮累计排放超17万吨",
-      "summary": "截至8月24日，日本向海洋排放福岛第一核电站核污染水已整整3年。其间共进行了22轮核污染水排放，累计排放量约17.3万吨，厂区储罐中储存的水量较排放开始前减少了约7%。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683030.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:53:28.000Z"
-    },
-    {
-      "id": "78f4ba69487c",
-      "title": "加强防沙治沙国际合作 推动全球环境治理",
-      "summary": "《联合国防治荒漠化公约》第十七次缔约方大会在乌兰巴托举行——",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683029.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:52:48.000Z"
-    },
-    {
-      "id": "bd752967e910",
-      "title": "8.9万亿日元创新高！日本舆论担忧高防卫预算拖累经济",
-      "summary": "【环球时报驻日本特约记者 初欣】据日本多家主流媒体披露，日本防卫省计划在2027财年预算概算要求中提交约8.9万亿日元(1000日元约合42.28元人民币)的防卫经费，刷新战后历史峰值。针对防卫开支连年大幅攀升的态势，日本国内对其可能造成的财政负担与经济拖累的担忧正持续升温。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683026.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:49:04.000Z"
-    },
-    {
-      "id": "f465ed32b23d",
-      "title": "Australia news live: KMPG axes hundreds of staff in wake of audit leaks scandal; jobseeker now barely two-thirds of pension",
-      "summary": "Audit and consulting giant reports revenue fall of 1% year-on-year. Follow today’s news live Get our breaking news email , free app or daily news podcast Alan Jones trial enters…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T02:49:02.000Z"
-    },
-    {
-      "id": "1b4f473f11ed",
-      "title": "部分日本民众集会 抗议高市政府危险动向",
-      "summary": "23日，部分日本民众在东京举行集会，抗议高市早苗政府的修宪企图以及一系列扩军备武动向。对于政府推动修订“安保三文件”，试图修改“无核三原则”，集会参加者表示强烈反对。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683022.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:46:10.000Z"
-    },
-    {
-      "id": "71251b49b067",
-      "title": "“三五”规划为澳门锚定多元可持续未来",
-      "summary": "《澳门特别行政区经济和社会发展第三个五年规划(2026—2030年)》的出台，标志着澳门迈入高质量发展新阶段的路线图和任务书正式确立。作为澳门未来五年发展的指导性文件，规划围绕“一中心、一平台、一基地”及国际高端人才集聚高地等的战略定位作出顶层设计，为澳门主动融入国家发展大局、破解结构性矛盾、实现经济体系根本性重塑指明了方向。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683018.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:42:13.000Z"
-    },
-    {
-      "id": "576dc9de2ce5",
-      "title": "中原再担保集团股份有限公司董事长薛怀宇接受审查调查",
-      "summary": "中新网8月24日电 据河南省纪委监委消息：中原再担保集团股份有限公司党委书记、董事长薛怀宇涉嫌严重违纪违法，目前正接受河南省纪委监委纪律审查和监察调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10682991.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:41:39.000Z"
-    },
-    {
-      "id": "2bae56a4e446",
-      "title": "“更好把握中国发展带来的机遇”——访巴西茹伊斯迪福拉市市长萨洛芒",
-      "summary": "“过去，人们谈到巴中合作，首先想到的是港口和大城市。今天，我们希望让更多人看到巴西内陆城市与中国合作的潜力。”巴西茹伊斯迪福拉市市长玛加丽达·萨洛芒在接受本报记者专访时表示。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683017.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:39:11.000Z"
-    },
-    {
-      "id": "2d2581c6caf7",
-      "title": "多地紧急排查“甲醛白菜”流向 专家提示买菜注意这几点",
-      "summary": "连日来，某博主曝出的河北“白菜收购蘸取甲醛溶液”事件引发广泛关注。河北张家口康保县8月22日回应，经初步核查，视频反映情况属实，系收购商为蔬菜运输保鲜，在装运过程中的违法行为。目前，公安部门已对相关人员、车辆依法采取强制措施，案件正在进一步侦办中。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683016.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:38:03.000Z"
-    },
-    {
-      "id": "2e461655c2c6",
-      "title": "当更多中国青年站上前沿舞台",
-      "summary": "(金台随笔)",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-24/10683015.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:35:05.000Z"
-    },
-    {
-      "id": "892281fb60d5",
-      "title": "防城海关业务技术综合楼空调采购项目（GGZX2026-ZB-286）竞争性协商公告",
-      "summary": "中华人民共和国防城海关委托广西桂工建设管理咨询有限公司，现对防城海关业务技术综合楼空调采购项目进行竞争性协商采购，该项目为非政府采购项目，欢迎符合条件的供应商前来参加协商活动，现将有关事宜通知如下：",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-24/10683012.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:26:57.000Z"
-    },
-    {
-      "id": "d0c9028e89fd",
-      "title": "新思想引领新征程丨用好红色资源 赓续红色血脉",
-      "summary": "视频：新思想引领新征程丨用好红色资源 赓续红色血脉来源：央视新闻客户端",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683013.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:26:17.000Z"
-    },
-    {
-      "id": "90017700c94b",
-      "title": "总书记的人民情怀丨“营造风清气正的政治生态”",
-      "summary": "原标题：“营造风清气正的政治生态”(总书记的人民情怀)",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683011.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:25:31.000Z"
-    },
-    {
-      "id": "a0ceaae04940",
-      "title": "东兴海关及缉私分局涉案货物运输装卸定点服务项目竞争性协商采购公告",
-      "summary": "中华人民共和国东兴海关委托广西中吉银工程项目管理有限公司，对东兴海关及缉私分局涉案货物运输装卸定点服务项目进行竞争性协商采购，该项目为非政府采购项目，欢迎符合条件的供应商前来参加协商采购活动，现将有关事项通知如下：",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-24/10683009.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:25:05.000Z"
-    },
-    {
-      "id": "74fcec98abeb",
-      "title": "坚信！咱的日子会过得更好",
-      "summary": "【“筑基”高质量·系列评论之十二】坚信！咱的日子会过得更好",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-24/10683008.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:23:42.000Z"
-    },
-    {
-      "id": "ec62be76d8d2",
-      "title": "整治网络娱乐团播乱象 网信办处置违规直播间7200余个",
-      "summary": "中新网8月24日电 据“网信中国”微信公众号消息，“清朗#12539;网络娱乐团播乱象整治”专项行动启动以来，中央网信办紧盯娱乐团播场景内容低俗不良、规则设计刺激打赏、侵害未成年人权益等突出问题，持续加大违法违规娱乐团播打击力度，目前已累计处置团播违规直播间7200余个，严惩违规账号2200余个，同时指导网站平台清退处置一批问题严重的团播MCN机构，发布…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683007.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:22:40.000Z"
-    },
-    {
-      "id": "337430a4d098",
-      "title": "广东首条粤沪铁海联运外贸物流通道首出口",
-      "summary": "日前，一批广东生产制造的服装、小家电等轻工产品，在上海外高桥港区码头登上国际货轮，启程出口北美市场。该批货物经广州海关所属广州车站海关监管，通过铁海联运新模式，从广州国际港运抵上海芦潮港铁路集装箱中心站后衔接远洋货轮，是广东首条粤沪铁海联运外贸物流新通道落地运行后的首批出口货物。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683005.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:21:48.000Z"
-    },
-    {
-      "id": "53cc400356bd",
-      "title": "海口港海关2026-2028年公务车辆保险服务采购项目比选公告",
-      "summary": "一、采购条件",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-24/10683003.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:21:04.000Z"
-    },
-    {
-      "id": "6d3a982c7f31",
-      "title": "奔腾中国·质胜未来丨坚持创新驱动发展",
-      "summary": "来源：中国经济网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683002.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:18:32.000Z"
-    },
-    {
-      "id": "c5bf1fdb912a",
-      "title": "台风“紫檀”引发洪涝 两部门针对广西启动国家四级救灾应急响应",
-      "summary": "中新网8月24日电 据应急管理部网站消息，8月24日，国家防减救灾委、应急管理部针对第19号台风“紫檀”引发的洪涝灾害对广西造成的严重影响，启动国家四级救灾应急响应，派出工作组赴灾区一线实地查看灾情，指导和协助地方做好灾情核查评估、受灾群众转移安置和基本生活保障等救灾救助工作。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10682998.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:17:36.000Z"
-    },
-    {
-      "id": "3e6435b429a9",
-      "title": "拼音、认字、加减法……幼升小不“抢跑”就一定会落后吗？",
-      "summary": "拼音、认字、加减法……新学年将至，一年级新生家长热议——",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-24/10683001.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:15:38.000Z"
-    },
-    {
-      "id": "d45ce6f0ad07",
-      "title": "国家统计局：8月中旬生猪（外三元）价格环比上涨5.8%",
-      "summary": "中新网8月24日电 国家统计局8月24日在其官网发布2026年8月中旬流通领域重要生产资料市场价格变动情况。据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年8月中旬与8月上旬相比，33种产品价格上涨，14种下降，3种持平。其中，生猪(外三元)价格为11.0元/千克，环比上涨5.8%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682976.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:14:48.000Z"
-    },
-    {
-      "id": "05218caab137",
-      "title": "时政微周刊丨总书记的一周（8月17日—8月23日）",
-      "summary": "视频：时政微周刊丨总书记的一周(8月17日—8月23日)来源：央视新闻客户端",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683000.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:14:18.000Z"
-    },
-    {
-      "id": "5861be5512f9",
-      "title": "宇树科技，下跌6.6%",
-      "summary": "24日早盘，宇树科技股价低开低走，截至发稿报628元，跌6.60%，市值2540亿。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682999.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T02:14:08.000Z"
     },
     {
       "id": "9e712f93aadb",
@@ -598,16 +618,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-23T05:58:45.000Z"
-    },
-    {
-      "id": "2c5c0676a0ed",
-      "title": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea",
-      "summary": "Friends close to Margarita Reutt are shocked she could allegedly plant bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan thr…",
-      "url": "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-23T04:00:22.000Z"
     },
     {
       "id": "20f25aef8d4a",
@@ -984,7 +994,7 @@
       "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
       "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest…",
       "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
-      "source": "The Guardian World",
+      "source": "The Guardian Business",
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-08-20T12:03:39.000Z"
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-16T10:44:03.000Z"
-    },
-    {
-      "id": "4d583e25e4ce",
-      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
-      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill…",
-      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
-      "source": "The Guardian Business",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-15T10:00:54.000Z"
     }
   ]
 }
