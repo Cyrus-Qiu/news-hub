@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:37:36.462Z",
+  "updatedAt": "2026-08-24T22:36:26.346Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,23 +31,103 @@
   "articles": [
     {
       "id": "3f39141bda02",
-      "title": "Australia news live: Sydney trains plagued by morning cancellations due to ‘urgent’ repairs to overhead wires",
-      "summary": "Commuters warned journey may take an extra 45 minutes as ‘limited’ buses replace north short trains. Follow today’s news live Get our breaking news email , free app or daily news…",
+      "title": "Australia news live: WA to get Blue Poles in painting’s first interstate trip in two decades; power line repairs cause Sydney trains chaos",
+      "summary": "Anthony Albanese will announce a loan of the work to the Art Gallery of Western Australia from April to September 2027. Follow today’s news live Get our breaking news email , fre…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-24T21:23:02.000Z"
+      "publishedAt": "2026-08-24T22:28:49.000Z"
+    },
+    {
+      "id": "feb3388eac85",
+      "title": "以色列总理声称伊朗曾企图暗杀其子",
+      "summary": "以色列总理内塔尼亚胡24日接受采访时声称，伊朗曾“试图暗杀他的一个儿子”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683504.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T22:10:29.000Z"
+    },
+    {
+      "id": "e34894d4a8b2",
+      "title": "加拿大总理：若美国拿出“正确态度” 将重返贸易谈判",
+      "summary": "当地时间24日，谈及加美关税冲突，加拿大总理卡尼表示，如果美国改变策略，加拿大愿意进行对话。卡尼称，如果“美国人首先以对我们产业的正确态度和真正的伙伴关系坐到谈判桌前，我们当然也会坐到谈判桌前。”他表示，不会接受“加拿大是美国的附庸”这种观点，也不会接受加拿大相对于美国应该处于劣势的观点。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683503.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T22:00:55.000Z"
+    },
+    {
+      "id": "ffac91bd13ce",
+      "title": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决",
+      "summary": "伊朗最高领袖顾问穆赫贝尔24日晚在社交媒体平台表示，面对美方威胁，伊朗的回应将比以往更加坚决。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683502.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T21:59:32.000Z"
+    },
+    {
+      "id": "05eb9e1eda0a",
+      "title": "中美两个“普通人”的兄妹情：相逢是首歌，同行是你和我",
+      "summary": "中新社鄂尔多斯8月24日电 题：中美两个“普通人”的兄妹情：相逢是首歌，同行是你和我",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683501.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T21:57:32.000Z"
+    },
+    {
+      "id": "a7b382d3bcb0",
+      "title": "“赛考斯”重访殷玉珍家：美中两国人民可以成为一家人",
+      "summary": "中新社鄂尔多斯8月24日电 题：“赛考斯”重访殷玉珍家：美中两国人民可以成为一家人",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683500.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T21:55:42.000Z"
+    },
+    {
+      "id": "b8f1f50cbb16",
+      "title": "中白“神鹰-2026”空降兵联合训练圆满结束",
+      "summary": "中新社北京8月24日电 中国与白俄罗斯“神鹰-2026”空降兵联合训练24日在中国空军某训练中心举行结束仪式。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683499.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T21:54:44.000Z"
+    },
+    {
+      "id": "c011e28ad79c",
+      "title": "台湾青年携宝岛风味与好物亮相黄浦江畔",
+      "summary": "中新社上海8月24日电 (记者 陈建新 缪璐)24日傍晚在上海西岸穹顶艺术中心广场的一场市集上，台湾青年刘邦圣的卤肉饭摊位不时吸引民众驻足品尝。刘邦圣说，他在附近开的新店预计下月正式营业，这次希望向更多市民和游客推介宝岛美食。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683498.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T21:53:38.000Z"
+    },
+    {
+      "id": "a37d64fdcede",
+      "title": "“赛考斯”的“女儿”在中国",
+      "summary": "中新社北京8月24日电 题：“赛考斯”的“女儿”在中国",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683497.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T21:52:34.000Z"
     },
     {
       "id": "4bb1829e9e74",
       "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "summary": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs After a pause of more than two months, the US military announced Mo…",
+      "summary": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs The US military has launched a deadly strike on a vessel in the Pac…",
       "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-24T20:23:26.000Z"
+      "publishedAt": "2026-08-24T21:40:48.000Z"
     },
     {
       "id": "1fda7066b120",
@@ -202,7 +282,7 @@
     {
       "id": "cfc6bd07b3d0",
       "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
-      "summary": "Virus has already caused catastrophic losses in pinnipeds in South America and sub-Antarctica, particularly among pups Follow our Australia news live blog for latest updates Get…",
+      "summary": "Virus has already caused catastrophic losses in seals in South America and sub-Antarctica, particularly among pups Follow our Australia news live blog for latest updates Get our…",
       "url": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
       "source": "The Guardian World",
       "category": "国际",
@@ -312,7 +392,7 @@
     {
       "id": "e92e4fb7294a",
       "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
-      "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as AEMO forecasts seven-fold rise in datacentre power use Follow our Australia news live blog…",
+      "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as Aemo forecasts seven-fold rise in datacentre power use Follow our Australia news live blog…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
       "source": "The Guardian World",
       "category": "AI",
@@ -428,86 +508,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-24T13:47:31.000Z"
-    },
-    {
-      "id": "cb27024483e1",
-      "title": "台青南京行医十余载 盼弘扬中华传统医学精髓",
-      "summary": "中新社南京8月24日电(记者 徐珊珊)南京秦淮区一家中医门诊部内，来自台湾新北市的中医师金瑞祥正为患者切脉问诊。自2006年跨越海峡来到南京中医药大学求学，这位“80后”台青扎根六朝古都书写着脉诊里的两岸故事。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683450.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T13:47:25.000Z"
-    },
-    {
-      "id": "a8bc155c7480",
-      "title": "“没有文字的史诗”伊玛堪唱响北京",
-      "summary": "中新社北京8月24日电 题：“没有文字的史诗”伊玛堪唱响北京",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683468.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T13:46:59.000Z"
-    },
-    {
-      "id": "35d14512842e",
-      "title": "云南腾冲回应小区违建：已成立专项整改整治工作小组",
-      "summary": "中新网昆明8月24日电 (陆希成)8月24日晚，云南省保山市腾冲市专项整改整治工作组发布通报称，针对有媒体反映腾冲市一小区存在私自开挖山体、违规扩建房屋，将别墅大幅扩建为民宿等问题，腾冲市委、市政府已成立专项整改整治工作组，全面开展专项排查、安全评估、整改处置等工作，及时回应社会关切，自觉接受社会监督。(完)",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683470.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T13:46:37.000Z"
-    },
-    {
-      "id": "a11dcebc5623",
-      "title": "“拉萨文化惠客厅”举行《与太阳共舞》主创分享会 聚焦珞巴族舞剧创作历程",
-      "summary": "中新网拉萨8月24日电 (李林)23日，由拉萨市文化和旅游局主办的“拉萨文化惠客厅”系列活动之——首部珞巴族舞剧《与太阳共舞》主创分享会在hima hima隙马客厅举行。主创团队与艺术评论专家回溯这部舞剧从田野采风到舞台呈现的创作历程，探讨民族舞剧的创作规律。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683467.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T13:45:47.000Z"
-    },
-    {
-      "id": "62cfe26b6ac5",
-      "title": "闽宁协作三十载：西吉小菌棒成为群众增收“金棒棒”",
-      "summary": "中新网宁夏西吉8月24日电 题：闽宁协作三十载：西吉小菌棒成为群众增收“金棒棒”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683466.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T13:45:07.000Z"
-    },
-    {
-      "id": "7f6c5b4b26fd",
-      "title": "2026年服贸会环境与能源服务专题首次引入都市型现代农业内容",
-      "summary": "中新网北京8月24日电 (记者 陈杭)2026年服贸会环境与能源服务专题各项筹备工作已基本完成。专题展首次引入都市型现代农业相关内容，依托北京平谷农业中关村创新优势，集中呈现科技农业、绿色农业、质量农业、品牌农业实践成果，彰显智慧城市建设与现代农业发展有机联动。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683460.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T13:44:51.000Z"
-    },
-    {
-      "id": "1ffe5e8192cf",
-      "title": "重庆“产业援藏”再拓新路 电竞嘉年华活动落地西藏昌都",
-      "summary": "中新网拉萨8月24日电(记者 江飞波)近日，“荣耀昌都·巅峰对决”2026昌都电竞消费嘉年华在西藏昌都市茶马广场落下帷幕。本次活动由昌都市经信局、文旅局主办，重庆市文化娱乐行业协会承办。两天时间里，全国大赛藏东片区海选赛激烈对抗，COSER巡游与电竞市集人头攒动，让这座高原城市迎来前所未有的“年轻脉动”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683464.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T13:44:49.000Z"
-    },
-    {
-      "id": "afe9e4b97b9b",
-      "title": "宁东能源化工基地纳入国家氢能综合应用试点",
-      "summary": "中新网银川8月24日电 (记者 于晶)8月24日，记者从宁东能源化工基地管理委员会获悉，工业和信息化部、财政部、国家发展改革委批复同意5个城市群开展国家氢能综合应用试点工作，宁东能源化工基地纳入黄河几字弯#8209;中原试点城市群，成为宁夏唯一入选区域，当地氢能产业正式迈入国家政策赋能、跨区域协同发展新阶段。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683465.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T13:43:51.000Z"
     },
     {
       "id": "f2ae672e8279",
