@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T19:59:15.518Z",
+  "updatedAt": "2026-08-24T20:40:27.121Z",
   "failedCount": 1,
   "markets": [
     {
@@ -15,9 +15,9 @@
       "id": "DTWEXBGS",
       "name": "美元广义指数",
       "unit": "index",
-      "value": 118.9028,
-      "changePercent": -0.23660735261543123,
-      "asOf": "2026-08-14",
+      "value": 118.0628,
+      "changePercent": -0.1623612741301049,
+      "asOf": "2026-08-21",
       "source": "FRED"
     },
     {
@@ -34,9 +34,9 @@
       "name": "Bitcoin",
       "symbol": "BTC",
       "unit": "USD",
-      "value": 78702,
-      "changePercent": 1.7749344681627397,
-      "asOf": "2026-08-24T19:57:00.000Z",
+      "value": 78882,
+      "changePercent": 1.9101556130978883,
+      "asOf": "2026-08-24T20:38:30.000Z",
       "source": "CoinGecko"
     },
     {
@@ -44,9 +44,9 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "unit": "USD",
-      "value": 2469.5,
-      "changePercent": 0.9743415631204378,
-      "asOf": "2026-08-24T19:57:30.000Z",
+      "value": 2475.89,
+      "changePercent": 1.1359406093162103,
+      "asOf": "2026-08-24T20:39:00.000Z",
       "source": "CoinGecko"
     }
   ]

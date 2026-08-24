@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T19:59:12.444Z",
+  "updatedAt": "2026-08-24T20:40:26.801Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "3f39141bda02",
+      "title": "Australia news live: Sydney trains plagued by morning cancellations due to ‘urgent’ repairs to overhead wires",
+      "summary": "Commuters warned journey may take an extra 45 minutes as ‘limited’ buses replace north short trains. Follow today’s news live Get our breaking news email , free app or daily news…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T20:24:29.000Z"
+    },
+    {
+      "id": "4bb1829e9e74",
+      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+      "summary": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs After a pause of more than two months, the US military announced Mo…",
+      "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T20:23:26.000Z"
+    },
     {
       "id": "1fda7066b120",
       "title": "Victorian premier Ben Carroll pushes ahead with SRL spend despite hinting at pause",
@@ -570,16 +590,6 @@
       "publishedAt": "2026-08-24T08:27:43.000Z"
     },
     {
-      "id": "f465ed32b23d",
-      "title": "Hanson-Young says men should ‘call out’ boys’ club culture – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Alan Jones trial enters its fourth week The Alan Jones trial enters its fourth week today, wi…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T08:12:17.000Z"
-    },
-    {
       "id": "30036c926f3a",
       "title": "My Arms Are Longer Now – comedy stealth game sends lawlessness into new territory",
       "summary": "Developers who met through Australia’s improv scene and publishers of comedic party games have united for this slithering challenge in which you play as one extended limb Most st…",
@@ -818,16 +828,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-22T20:42:12.000Z"
-    },
-    {
-      "id": "de9106f840b1",
-      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, a…",
-      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-22T14:04:57.000Z"
     },
     {
       "id": "2c70430db957",
