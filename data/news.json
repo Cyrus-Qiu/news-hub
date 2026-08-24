@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T09:26:25.429Z",
+  "updatedAt": "2026-08-24T10:19:09.455Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,276 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "91f6dc71acf2",
+      "title": "宁夏泾源：科技赋能中蜂产业 做大乡村“甜蜜经济”",
+      "summary": "中新网固原8月24日电 (记者 李佩珊)八月下旬，六盘山下的宁夏固原市泾源县进入蜂蜜采收季，新蜜陆续成熟采收，即将进入集中上市期。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683293.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:14:52.000Z"
+    },
+    {
+      "id": "16fe97d5a33a",
+      "title": "辽宁省图书馆展出馆藏古籍再现古人的盛夏生活",
+      "summary": "中新网沈阳8月24日电 (记者 韩宏)“避暑：古人的盛夏生活”展览24日正在辽宁省图书馆举办，展览展出馆藏古籍讲述古人的盛夏生活。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683325.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:14:46.000Z"
+    },
+    {
+      "id": "0c76b961b210",
+      "title": "广东构建联动救治困境企业机制 化解债务近150亿元",
+      "summary": "中新网广州8月24日电 (记者 方伟彬)广东省高级人民法院、省发展和改革委员会24日联合发布首批府院联动救治保护困境企业典型案例。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683291.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:14:42.000Z"
+    },
+    {
+      "id": "01f965df2839",
+      "title": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles – Europe live",
+      "summary": "Kremlin warns move would ‘add fuel to fire’ in British-Russian relations, as UK PM visits capital ahead of coalition of the willing meeting Burnham visits Ukraine with promise of…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T10:14:36.000Z"
+    },
+    {
+      "id": "9675bbd859de",
+      "title": "荷兰发生客车追尾货车事故致多人受伤",
+      "summary": "中新网北京8月24日电 阿姆斯特丹消息：荷兰东部当地时间24日发生一起交通事故，一辆载有德国中学生的长途客车追尾一辆货车，已造成多人受伤，其中包括货车司机在内至少8名伤者被送往医院接受治疗，部分送医伤者伤势严重。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683292.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:14:32.000Z"
+    },
+    {
+      "id": "a27c162c1e0d",
+      "title": "浙江电力人十余载爱心接力助学 山区学子报佳音",
+      "summary": "中新网绍兴8月24日电 题：浙江电力人十余载爱心接力助学 山区学子报佳音",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683326.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:14:14.000Z"
+    },
+    {
+      "id": "7e0500d61ebc",
+      "title": "第五届数贸会国际采购需求攀升 AI赛道成主力",
+      "summary": "中新网杭州8月24日电(奚金燕)据浙江省商务厅24日消息，第五届全球数字贸易博览会(以下简称数贸会)将于9月23日至27日在杭州大会展中心举办。截至目前，已有近一万名国际客商报名，同比增长近50%，预筹国际采购订单超9.4亿美元，同比增长47%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683296.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:14:14.000Z"
+    },
+    {
+      "id": "2d48a23f9ce3",
+      "title": "香港三支球队出征2026新民晚报国际中学生足球赛",
+      "summary": "中新网上海8月24日电 (缪璐 狄权)8月23日至26日，上海浦东前滩体育公园的绿茵场再次被青春点燃。2026第41届“上海银行”杯新民晚报国际中学生足球赛在此拉开战幕，来自十大赛区的20支精英队伍齐聚申城。在香港赛区的阵容中，宝青足球队、仁济医院董之英纪念中学队、健力宝(香港)女子队三支队伍的名字格外醒目。从维港畔到黄浦江，这不仅是一次竞技层面的切磋，…",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683297.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:14:02.000Z"
+    },
+    {
+      "id": "4bbde43816c2",
+      "title": "比亚迪王朝新旗舰大汉EV开启预售，24.99万元起重塑D+级旗舰轿车新标杆",
+      "summary": "8月21日，2026成都国际车展盛大开幕，比亚迪王朝网旗下全新D+级旗舰轿车——大汉EV正式开启预售。新车为企业管理者、专业高知、工程师等时代实干者而来，集同级第一90.8%得房率、1008公里纯电续航、闪充技术及百万级智能底盘于一身，囊括44项全球领先硬核技术，重塑D+级旗舰轿车价值标杆。",
+      "url": "https://www.chinanews.com.cn/auto/2026/08-24/10683300.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:13:54.000Z"
+    },
+    {
+      "id": "425bb854dcb1",
+      "title": "上半年483家首店、520场首发首秀在京亮相",
+      "summary": "中新网北京8月24日电 (记者 吕少威)记者24日从北京市商务局获悉，今年上半年，483家首店、520场首发首秀在北京亮相。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683320.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:13:40.000Z"
+    },
+    {
+      "id": "f1cfb90ea876",
+      "title": "50岁男子伪装少女隔空猥亵女童 如何守护屏幕后的孩童",
+      "summary": "“你好呀宝子”“你多大了呀？我比你大”“其实我才10岁”“你几岁呀”“16岁”“我还要补作业”“尽量好好学习吧”……",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683327.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:13:08.000Z"
+    },
+    {
+      "id": "dd3abd4dcc34",
+      "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+      "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bis…",
+      "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T10:11:34.000Z"
+    },
+    {
+      "id": "982c23c77d06",
+      "title": "中新网评：白菜蘸甲醛，腐蚀的是良知底线",
+      "summary": "中新网北京8月24日电(记者 李京统)近日，河北张家口康保县部分大白菜在装车前蘸取甲醛溶液保鲜的视频引发舆论关注。事件曝光后，康保县发布通报，确认视频反映情况属实，系收购商为蔬菜运输保鲜，在装运过程中的违法行为。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683319.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:09:38.000Z"
+    },
+    {
+      "id": "d9eab6127a23",
+      "title": "聚焦加快全面绿色转型 “环境新闻茶座·宁德行”举办",
+      "summary": "中新网北京8月24日电 (记者 阮煜琳)以“生态中国零碳科技”为主题的第十一期“环境新闻茶座·宁德行”日前举办。中国环境记协主席刘友宾表示，“十五五”时期，我国生态环境保护进入推动生态环境质量实现根本好转的关键阶段。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683314.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:08:18.000Z"
+    },
+    {
+      "id": "5fe9b32ce08c",
+      "title": "世界最长猫道拆除 燕矶长江大桥冲刺年底通车",
+      "summary": "中新网武汉8月24日电(葛利龙 余哲)随着最后一根猫道承重索精准下放至桥面，由湖北交投投资、中交二航局承建的湖北燕矶长江大桥猫道拆除工程23日全部完成，标志着这座世界最大跨径四主缆悬索桥全面进入上部结构施工收尾阶段，正全力冲刺年底建成通车目标。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683317.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:07:52.000Z"
+    },
+    {
+      "id": "6871b42c9bd7",
+      "title": "广西将自然灾害救助应急响应提升为三级",
+      "summary": "中新网南宁8月24日电 (林浩)广西壮族自治区应急管理厅24日介绍，针对今年第19号台风“紫檀”造成的灾情，根据《广西自然灾害救助应急预案》有关规定，广西壮族自治区防灾减灾救灾委员会办公室决定于当日13时，将自然灾害救助四级应急响应提升为三级。(完)",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683289.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:05:24.000Z"
+    },
+    {
+      "id": "baf2c025354d",
+      "title": "第32次APEC中小企业部长会议将于9月在广州举行",
+      "summary": "中新社北京8月24日电 (记者 刘亮)中国工信部副部长柯吉欣24日介绍，第32次亚太经合组织(APEC)中小企业部长会议将于9月4日在广东省广州市举行。APEC各经济体中小企业主管部门负责人、APEC秘书处代表及有关嘉宾将出席会议，共同探讨促进亚太中小企业发展的合作路径。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683309.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T10:04:46.000Z"
+    },
+    {
+      "id": "d9e88904bb20",
+      "title": "东西问丨德国汉学家卜松山：中国美学为何不仅关乎“美”？",
+      "summary": "中新社柏林8月24日电 题：中国美学为何不仅关乎“美”？",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683305.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T09:59:35.000Z"
+    },
+    {
+      "id": "b2ad4a932cae",
+      "title": "（长征胜利90周年）宁夏西吉：走进将台堡红军长征会师纪念园",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201955.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T09:52:07.000Z"
+    },
+    {
+      "id": "4f97227cbd58",
+      "title": "跨越两千公里的“零碳加油”：8000吨绿色甲醇背后的“中国方案”",
+      "summary": "8月17日，上海洋山港绿华山锚地。法国达飞集团旗下的“欧斯米姆”号巨轮静静停泊，等待一次特殊的“加油”。当甲醇加注船“海港致远”轮稳稳对接，8000吨主要来自吉林洮南的绿色甲醇顺利注入燃料舱，全球单次绿色甲醇加注最高纪录就此刷新。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683304.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T09:51:28.000Z"
+    },
+    {
+      "id": "18cd52387acf",
+      "title": "“贴秋膘”真有必要吗？出伏养生建议来了",
+      "summary": "今天是出伏第一天",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-24/10683303.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T09:46:08.000Z"
+    },
+    {
+      "id": "61f9fdbf78c2",
+      "title": "陈武同志逝世",
+      "summary": "新华社北京8月24日电 中国共产党的优秀党员，忠诚的共产主义战士，我国民族工作和经济建设战线的杰出领导人，中国人民政治协商会议第十四届全国委员会副主席陈武同志，因病于2026年8月24日15时05分在北京逝世，享年72岁。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683302.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T09:41:08.000Z"
+    },
+    {
+      "id": "08750ef5fec8",
+      "title": "“沙德尔”将于27日至28日登陆闽浙 闽桂粤湘有强降雨",
+      "summary": "中国天气网讯 据中央气象台消息，今年以来，西北太平洋和南海台风生成数显著偏多。预计第18号台风“沙德尔”将向西偏北移动，可能于27日夜间至28日上午在浙江南部到福建沿海登陆(台风级或强台风级)，但不排除27日下午到夜间登陆台湾东部沿海(强台风级)后，于28日在福建中南部沿海登陆(强热带风暴级或台风级)的可能。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683301.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T09:40:04.000Z"
+    },
+    {
+      "id": "d2584d3049ac",
+      "title": "超强台风“沙德尔”是又一个“白海豚”？气象专家：不考虑直接北上或者影响我国北方地区",
+      "summary": "今日出伏，回望今年三伏(7月15日-8月23日)，虽有热的时候，但总体仍不及去年、前年。数据统计来看，今年三伏的炎热程度位列历史第五，最热的前四年分别是2024年、2025年、2022年、2023年，也就是过去四年。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683299.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T09:38:44.000Z"
+    },
+    {
+      "id": "8e2af0901b62",
+      "title": "习近平同约旦国王阿卜杜拉二世出席签字仪式",
+      "summary": "8月24日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的约旦国王阿卜杜拉二世出席签字仪式。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683298.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T09:32:05.000Z"
+    },
+    {
+      "id": "bb3e2b1959a3",
+      "title": "2026年全国青少年U系列公路自行车锦标赛举行",
+      "summary": "8月22日至24日，2026年全国青少年U系列公路自行车锦标赛在山东省荣成市举行。(无人机照片)李信君 摄 8月22日至24日，2026年全国青少年U系列公路自行车锦标赛在山东省荣成市举行。李信君 摄 8月22日至24日，2026年全国青少年U系列公路自行车锦标赛在山东省荣成市举行。(无人机照片)李信君 摄 8月22日至24日，2026年全国青少年U系列…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-24/10683290.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T09:28:59.000Z"
+    },
+    {
+      "id": "e56b63bac5f5",
+      "title": "（乡村行·看振兴）江西安福：统战聚合力 小辣椒结出共富果",
+      "summary": "中新网吉安8月24日电 (付丽玲 左曙光)初秋时节，江西省吉安市安福县金田乡的辣椒大棚内满目青翠，一株株辣椒长势旺盛，青嫩的果实挂满枝头。田垄间，党外农技专家正手把手向种植户讲解病虫害防治、整枝打杈、搭架绑枝等实操技巧。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683288.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T09:19:19.000Z"
+    },
     {
       "id": "690f1b117027",
       "title": "菲律宾南部海域发生5.0级地震",
@@ -80,106 +350,6 @@
       "publishedAt": "2026-08-24T09:15:57.000Z"
     },
     {
-      "id": "a23b6dc3148f",
-      "title": "墨尔本一汽车撞向购物中心 致1人死亡",
-      "summary": "中新网悉尼8月24日电 澳大利亚墨尔本24日发生一起车祸，一辆汽车撞向一购物中心，造成1人死亡。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683283.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T09:13:26.000Z"
-    },
-    {
-      "id": "f23339d4baea",
-      "title": "2026年中国电影电视技术学会学术年会将启",
-      "summary": "中新网北京8月24日电 (记者 高凯)记者24日从主办方获悉，全国影视技术领域顶尖力量将于9月汇聚重庆永川，共同迎来2026年中国电影电视技术学会学术年会。本次年会由中国电影电视技术学会、重庆市永川区人民政府共同主办，将于2026年9月14日至16日在重庆永川国际会展中心举办。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683281.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T09:12:40.000Z"
-    },
-    {
-      "id": "61dc0d1dfd9e",
-      "title": "辽宁男篮官宣新外援凯勒·爱德华兹",
-      "summary": "中新网沈阳8月24日电 (记者 韩宏)辽宁沈阳三生飞豹篮球俱乐部24日发布消息称，经俱乐部与球员本人友好协商达成一致，美国籍球员凯勒·爱德华兹(Kyler Edwards)在按约定时间抵达沈阳，依规完成签约和相关检测，并经CBA公司审核通过后，将身披2号战袍代表辽宁本钢队征战2026-2027赛季CBA联赛。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683280.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T09:12:12.000Z"
-    },
-    {
-      "id": "01f965df2839",
-      "title": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles – Europe live",
-      "summary": "UK PM to announce support for France in setting up missile assembly lines during his Kyiv visit, as coalition of willing meets later today Burnham visits Ukraine with promise of…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T09:10:27.000Z"
-    },
-    {
-      "id": "161fbd9e5974",
-      "title": "河南平顶山卫东区与新疆哈密市小学“书信手拉手”活动浇灌民族团结进步之花",
-      "summary": "从中原腹地到天山脚下，二千五百公里的山河远阔，被一张张信纸、一行行稚嫩的笔迹悄然填满。在平顶山市卫东区委统战部、区民宗中心和区教体局的共同支持下，矿工路小学与哈密市五堡镇中心小学学生自2017年结对启动“书信手拉手”活动。9年来，1200余名豫哈少年一届接一届执笔传信，将最朴素的纸短情长，绣成了民族团结进步教育的生动长卷。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683279.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T09:10:08.000Z"
-    },
-    {
-      "id": "639f2707d6d1",
-      "title": "菲律宾一艘拖船在吕宋岛附近沉没",
-      "summary": "中新网马尼拉8月24日电 菲律宾海岸警卫队24日证实，一艘拖船当天上午在吕宋岛附近沉没，船上10名打捞工作人员获救并已确认安全。该船载有约1.5万升柴油，目前暂无燃油泄漏迹象。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683250.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T09:08:26.000Z"
-    },
-    {
-      "id": "7a37cb23f75f",
-      "title": "王毅同科威特外交大臣杰拉赫会谈",
-      "summary": "2026年8月24日，中共中央政治局委员、外交部长王毅在北京同科威特外交大臣杰拉赫举行会谈。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683278.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T09:03:38.000Z"
-    },
-    {
-      "id": "45ae989bda99",
-      "title": "交通运输部：8月17日—8月23日国家铁路运输货物7987.7万吨",
-      "summary": "中新网8月24日电 据交通运输部微信公众号消息，8月24日，交通运输部发布8月17日—8月23日全国物流保通保畅运行情况。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683275.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T09:02:28.000Z"
-    },
-    {
-      "id": "3779dc5e7b34",
-      "title": "受贿3195万余元 北京大学原副校长任羽中一审被判8年",
-      "summary": "2026年8月24日，辽宁省丹东市中级人民法院一审公开宣判北京大学原党委常委、副校长任羽中受贿案，对被告人任羽中以受贿罪判处有期徒刑八年，并处罚金人民币二百六十万元；对任羽中受贿犯罪所得财物及孳息依法予以追缴，上缴国库。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683276.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T09:01:24.000Z"
-    },
-    {
-      "id": "7139f3af5f38",
-      "title": "合肥警方抓获11名为电诈团伙转移赃款“卡农”",
-      "summary": "中新网合肥8月24日电 (记者 赵强)仅凭一张银行卡赚取小额提成，11名人员沦为电信诈骗团伙帮凶的“卡农”，被合肥警方依法查处。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683271.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:58:15.000Z"
-    },
-    {
       "id": "2c91a82a84c2",
       "title": "Fast-fashion giant Shein sets cut-price $27bn valuation for Hong Kong IPO",
       "summary": "China-based retailer swung to $99m loss in first quarter and faces scrutiny over its environmental footprint Business live – latest updates Shein, which built a fast-fashion empi…",
@@ -190,156 +360,6 @@
       "publishedAt": "2026-08-24T08:57:50.000Z"
     },
     {
-      "id": "6fb7c1de03b5",
-      "title": "2026年河南平顶山市民营经济人士“光彩助学”捐助仪式举行",
-      "summary": "8月20日，2026年河南平顶山市民营经济人士“光彩助学”捐助仪式举行。平顶山市委统战部分管日常工作的副部长王卫锋出席仪式并讲话，市委统战部副部长、市工商联党组书记高宏勋主持会议。市工商联主席唐巍巍，市乡村振兴服务中心副主任远征，市工商联副主席刘览参加。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683270.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:56:23.000Z"
-    },
-    {
-      "id": "e093bc90db26",
-      "title": "聚焦“三个坚持”持续推进河南驻马店欧美同学会工作高质量发展",
-      "summary": "近年来，驻马店欧美同学会(驻马店留学人员联谊会)坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神和习近平总书记致欧美同学会成立110周年重要贺信精神，立足主责主业，坚定不移强化留学人员思想政治引领，聚焦中心大局充分发挥作用，不断建立健全各项会内制度，积极组织开展社会活动，全力推动全市归国留学人员工作高质量发展。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683269.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:53:35.000Z"
-    },
-    {
-      "id": "69651ba41fc6",
-      "title": "韩正会见科威特外交大臣杰拉赫",
-      "summary": "中新社北京8月24日电 8月24日，中国国家副主席韩正在北京会见科威特外交大臣杰拉赫。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683253.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:51:25.000Z"
-    },
-    {
-      "id": "c5a0d45fcf12",
-      "title": "中埃空军联合训练首个飞行日从对抗空战开始",
-      "summary": "中新社北京8月24日电 (李纯 闫超)记者8月24日获悉，北京时间8月23日，中埃“文明之鹰-2026”空军联合训练迎来首个飞行训练日。在当天的训练中，中国空军歼-16战机与埃及空军战机进行中距和近距空战对抗。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683246.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:50:35.000Z"
-    },
-    {
-      "id": "fb741ea23fe5",
-      "title": "中方：中印尼合作的成功也是全球南方国家的成功",
-      "summary": "中新网北京8月24日电 (记者 李京泽)中国外交部发言人林剑24日主持例行记者会。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683268.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:50:03.000Z"
-    },
-    {
-      "id": "45f762ce536b",
-      "title": "百万粉丝博主阿飞的10元盒饭",
-      "summary": "中新网宁波8月24日电 题：百万粉丝博主阿飞的10元盒饭",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683244.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:49:27.000Z"
-    },
-    {
-      "id": "1aba60947c02",
-      "title": "辽宁庄河核电项目进入施工准备阶段 规划建设6台百万千瓦级核电机组",
-      "summary": "中新网大连8月24日电(记者 杨毅)记者24日从庄河市委宣传部获悉，辽宁庄河核电项目近日进入施工准备阶段。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683239.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:49:07.000Z"
-    },
-    {
-      "id": "9c78ce76efa1",
-      "title": "山西临汾瞄准“传统、新兴、未来”构建新型工业体系",
-      "summary": "中新网太原8月24日电 (记者 李庭耀)“我们立足临汾资源禀赋和产业基础，提出了‘传统产业智能化、新兴产业规模化、未来产业高端化’的发展思路，着力构建‘3+6+N’新型工业体系。”24日，山西省临汾市委副书记、市长王延峰介绍。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683240.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:47:30.000Z"
-    },
-    {
-      "id": "913b4ab85070",
-      "title": "首届“人工智能网络安全挑战赛”决赛在中国香港举行",
-      "summary": "由香港特别行政区政府数字政策办公室、中国网络空间研究院、香港网络安全专业协会及中国移动(香港)有限公司联合主办的首届“人工智能网络安全挑战赛”决赛，于2026年8月23日在中国香港数码港举行，比赛旨在探讨人工智能在网络防御中的实战应用，并促进跨地域技术交流与合作。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683267.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:46:44.000Z"
-    },
-    {
-      "id": "4d7f3cbbf240",
-      "title": "兽用处方药随意兜售 山东肥城通报：立案调查",
-      "summary": "8月23日，总台《财经调查》报道多地兽药无处方销售乱象。其中，记者在山东肥城市兽药零售店和养殖户中走访时发现，无论是兽药市场的销售环节还是农户们的养殖环节，兽用处方药随意兜售、滥用乱用的情况大都十分常见。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683264.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:43:54.000Z"
-    },
-    {
-      "id": "ae9762c48157",
-      "title": "粤港澳青少年新疆行：千里行 一家亲",
-      "summary": "从粤港澳到新疆",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683262.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:42:40.000Z"
-    },
-    {
-      "id": "adb1e629a561",
-      "title": "截至7月底，我国电动汽车充电基础设施(枪)总数达到2368.3万个",
-      "summary": "中新网8月24日电 据国家能源局微信公众号消息，8月24日，国家能源局发布2026年7月全国电动汽车充电设施数据。根据国家充电设施监测服务平台数据，截至2026年7月底，我国电动汽车充电基础设施(枪)总数达到2368.3万个，同比增长41.9%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683255.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:42:18.000Z"
-    },
-    {
-      "id": "938f2cd08b74",
-      "title": "粤超八强附加赛首回合比赛 四场对决全部战平",
-      "summary": "中新网茂名8月24日电 (张璐 余冰冰)2026年冠旭电子cleer·广东省城市足球超级联赛(简称“粤超”)八强附加赛首回合比赛上周末举行，茂名队以0:0战平清远队、阳江队以2:2战平东莞队、汕尾队以0:0战平肇庆队、揭阳队以0:0战平佛山队，四场对决全部战平。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683238.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:42:16.000Z"
-    },
-    {
-      "id": "76579ae50c28",
-      "title": "以“瓷”为媒 山西朔州搭建陶瓷产业合作新平台",
-      "summary": "中新网朔州8月24日电 (记者 杨静)由中国轻工业联合会指导，中国陶瓷工业协会、山西省朔州市人民政府主办的2026山西·朔州陶瓷产品进出口交易会将于8月25日至27日在中国现存最古老、最高的木构塔式建筑应县木塔所在地山西朔州应县举行。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683237.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:41:48.000Z"
-    },
-    {
-      "id": "7f983e1675a2",
-      "title": "东方航空拟恢复武汉至台南航线",
-      "summary": "中新社北京8月24日电 据“中国东航”微信公众号24日消息，东方航空公司将多条拟开航线纳入官方App、微信及支付宝小程序的“航班预约”购票专区，其中包含一条武汉天河机场往返台南机场的航线。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683249.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:41:18.000Z"
-    },
-    {
       "id": "de01570be989",
       "title": "烏克蘭遭革職防長告訴BBC，該質問澤連斯基對貪腐所知多少",
       "summary": "民意支持度頗高的前防長費多羅夫呼籲烏克蘭舉行戰時選舉，總統澤連斯基警告這將引發滅國級政治「海嘯」。",
@@ -348,16 +368,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-24T08:40:31.000Z"
-    },
-    {
-      "id": "c45f905c9aa8",
-      "title": "哈萨克斯坦库鲁尔泰选举顺利举行 中方回应",
-      "summary": "中新网北京8月24日电(记者 李京泽 李晓喻)中国外交部发言人林剑24日主持例行记者会。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683266.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:40:20.000Z"
     },
     {
       "id": "d9239b7cca65",
@@ -1128,16 +1138,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-19T14:57:21.000Z"
-    },
-    {
-      "id": "8db8f69863af",
-      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-      "summary": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back The Spanish government has U-turned and said it will allow 500…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-19T14:33:24.000Z"
     },
     {
       "id": "a8027a9508d1",
