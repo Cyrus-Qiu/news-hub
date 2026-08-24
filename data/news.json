@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:36:26.346Z",
+  "updatedAt": "2026-08-24T22:58:08.429Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,34 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "772dceec55d3",
+      "title": "美方宣布对伊朗新一轮制裁措施 伊朗回应：已做好准备",
+      "summary": "中新网8月25日电 据卡塔尔半岛电视台报道，当地时间24日，美国财政部长贝森特召开新闻发布会，宣布美国当日发起对伊朗“经济孤立”的新一轮制裁措施，以进一步加大对伊施压。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683506.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T22:46:17.000Z"
+    },
+    {
       "id": "3f39141bda02",
-      "title": "Australia news live: WA to get Blue Poles in painting’s first interstate trip in two decades; power line repairs cause Sydney trains chaos",
+      "title": "Australia news live: WA to get Blue Poles in painting’s first interstate trip in two decades; Aria bans AI music from charts",
       "summary": "Anthony Albanese will announce a loan of the work to the Art Gallery of Western Australia from April to September 2027. Follow today’s news live Get our breaking news email , fre…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
       "source": "The Guardian World",
-      "category": "国际",
+      "category": "AI",
       "language": "en",
-      "publishedAt": "2026-08-24T22:28:49.000Z"
+      "publishedAt": "2026-08-24T22:42:27.000Z"
+    },
+    {
+      "id": "ff2c55fce24a",
+      "title": "8月25日早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-25/10683505.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-24T22:36:43.000Z"
     },
     {
       "id": "feb3388eac85",
@@ -488,26 +508,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-24T13:48:13.000Z"
-    },
-    {
-      "id": "148c6d56a2da",
-      "title": "蒙古族姑娘塔娜：一句“去试试”，闯进“世界义乌”",
-      "summary": "中新网义乌8月24日电 题：蒙古族姑娘塔娜：一句“去试试”，闯进“世界义乌”",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683444.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T13:47:59.000Z"
-    },
-    {
-      "id": "bd598b99fd8b",
-      "title": "美国一名海军陆战队员在日本身亡",
-      "summary": "中新网8月24日电 据美国《星条旗报》网站24日报道，根据美国海军陆战队和日本警方消息，一名美国海军陆战队员在冲绳北部的一辆车内被发现身亡，头部有伤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683475.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-24T13:47:31.000Z"
     },
     {
       "id": "f2ae672e8279",
