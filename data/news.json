@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T16:48:50.805Z",
+  "updatedAt": "2026-08-24T17:38:24.765Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,26 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "548a9d13d5f5",
+      "title": "Vuelta a España: giant hail forces stage three abandonment in Pyrenees",
+      "summary": "Huge hailstones prompt organisers to act 15km from end Riders seen heading into hotel on route to take cover A torrential hailstorm in the French Pyrenees forced the abandonment…",
+      "url": "https://www.theguardian.com/sport/2026/aug/24/vuelta-a-espana-giant-hail-forces-stage-three-abandonment-in-pyrenees",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T17:21:43.000Z"
+    },
+    {
+      "id": "0fcdee3fa1ba",
+      "title": "‘Fix that little spot’: Danish PM receives beauty tips even when in a war zone",
+      "summary": "Mette Frederiksen, who was attending meeting in Kyiv, advises high-profile women to embrace self-acceptance Sick of getting unsolicited beauty tips on social media, even while sh…",
+      "url": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T16:59:53.000Z"
+    },
+    {
       "id": "01f965df2839",
       "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
       "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’ Here’s the full quote from Kremlin’s Peskov , via AFP: “ Britai…",
@@ -37,7 +57,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-24T16:13:11.000Z"
+      "publishedAt": "2026-08-24T16:46:17.000Z"
+    },
+    {
+      "id": "71af33c3c729",
+      "title": "Prince Harry quits board of wildlife charity after human rights abuses",
+      "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wil…",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-24T16:40:37.000Z"
     },
     {
       "id": "61958d07519e",
@@ -48,16 +78,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-24T15:59:52.000Z"
-    },
-    {
-      "id": "548a9d13d5f5",
-      "title": "Vuelta a España: giant hail forces stage three abandonment in Pyrenees",
-      "summary": "Huge hailstones prompt organisers to act 15km from end Riders seen heading into hotel on route to take cover The third stage of the Vuelta a España ended without a winner after b…",
-      "url": "https://www.theguardian.com/sport/2026/aug/24/vuelta-a-espana-giant-hail-forces-stage-three-abandonment-in-pyrenees",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T15:56:19.000Z"
     },
     {
       "id": "75b4a8743c67",
@@ -428,16 +448,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-24T13:43:51.000Z"
-    },
-    {
-      "id": "e89f88f50510",
-      "title": "French police accused of rising use of violence to stop Channel crossings",
-      "summary": "NGO criticises ‘human cost’ of UK-funded crackdown on attempts to set off from French beaches in small boats People trying to cross the Channel to the UK have reported an increas…",
-      "url": "https://www.theguardian.com/world/2026/aug/24/french-police-violence-channel-crossings-uk",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T13:00:33.000Z"
     },
     {
       "id": "f2ae672e8279",
@@ -1128,16 +1138,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-20T00:35:11.000Z"
-    },
-    {
-      "id": "61d1d5d04189",
-      "title": "More than 100 dead after goldmine collapses in Central African Republic",
-      "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal…",
-      "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-20T00:14:17.000Z"
     },
     {
       "id": "44d7120b9f9c",
