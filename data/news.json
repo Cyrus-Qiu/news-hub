@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T11:36:16.372Z",
+  "updatedAt": "2026-08-25T11:59:06.803Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,96 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "8bd8edf63de7",
+      "title": "四川省人大常委会原委员、经济委员会原主任委员刘中伯被“双开”",
+      "summary": "中新网8月25日电 据四川省纪委监委消息：日前，经四川省委批准，四川省纪委监委对四川省人大常委会原委员、经济委员会原主任委员刘中伯严重违纪违法问题进行了立案审查调查。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684055.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T11:50:49.000Z"
+    },
+    {
+      "id": "0d5dd66ac9c7",
+      "title": "四川航空集团有限责任公司原董事长石祖义被“双开”",
+      "summary": "中新网8月25日电 据四川省纪委监委消息：日前，经四川省委批准，四川省纪委监委对四川航空集团有限责任公司原党委书记、董事长石祖义严重违纪违法问题进行了立案审查调查。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684054.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T11:50:23.000Z"
+    },
+    {
+      "id": "c77052a003c3",
+      "title": "喝了暴晒过的瓶装水会致癌？夏季车内存水注意这些风险→",
+      "summary": "原标题：转给开车的人！车内常备瓶装水，真正的风险很多人都搞错了",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-25/10684053.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T11:44:20.000Z"
+    },
+    {
+      "id": "b946242311ed",
+      "title": "（长征胜利90周年）走进四川阿坝神座村",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-25/1202101.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T11:44:01.000Z"
+    },
+    {
+      "id": "81c2613ce53e",
+      "title": "China denounces US threat of sanctions over trade with Iran",
+      "summary": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China…",
+      "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-25T11:43:14.000Z"
+    },
+    {
+      "id": "e1376f9115d7",
+      "title": "刘国中出席第十一届亚太经合组织粮食安全部长级会议开幕式并致辞",
+      "summary": "新华社杭州8月25日电 第十一届亚太经合组织(APEC)粮食安全部长级会议8月25日在浙江杭州召开，中共中央政治局委员、国务院副总理刘国中出席开幕式并致辞。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684051.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T11:40:08.000Z"
+    },
+    {
+      "id": "74f9f870744a",
+      "title": "现场视频！驻香港部队组织第29次建制单位轮换",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/ga/shipin/2026/08-25/news1066544.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T11:36:39.000Z"
+    },
+    {
+      "id": "3c7c1d15c5fa",
+      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+      "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies Burnham plans trip to New York as Ukraine pleads for US-made missiles Vatican envoy Paul Gallagher m…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T11:35:00.000Z"
+    },
+    {
+      "id": "3d6c0ef9d246",
+      "title": "重庆唯一具备周调节能力的抽水蓄能电站项目取得关键节点突破",
+      "summary": "中新网重庆8月25日电(肖江川 王津川 梁勇)25日，重庆唯一具备周调节能力的抽水蓄能电站——中国大唐重庆武隆银盘抽水蓄能电站项目实现地下厂房中导洞全面贯通和导流泄洪洞进口顺利进洞两个关键节点的突破，这也为项目主体工程建设按期推进创造了有利条件。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684047.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T11:31:22.000Z"
+    },
+    {
       "id": "f74f6329124d",
       "title": "十四届全国人大常委会第二十四次会议在北京举行",
       "summary": "",
@@ -48,6 +138,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-25T11:29:28.000Z"
+    },
+    {
+      "id": "ece549ca8947",
+      "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters – business live",
+      "summary": "Spot gold touches almost $4,700 an ounce and Bitcoin tops $80,000 while oil prices fall despite threat of heavy US sanctions on Iran and any country trading with it The US car pa…",
+      "url": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-25T11:29:05.000Z"
     },
     {
       "id": "abfd8d46d41f",
@@ -170,16 +270,6 @@
       "publishedAt": "2026-08-25T11:15:11.000Z"
     },
     {
-      "id": "3c7c1d15c5fa",
-      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
-      "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies Burnham plans trip to New York as Ukraine pleads for US-made missiles Vatican envoy Paul Gallagher m…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T11:13:46.000Z"
-    },
-    {
       "id": "5248f86678a2",
       "title": "赛场聚同心健体融文脉 天津北辰擦亮民族体育交融名片",
       "summary": "中新网天津8月25日电 题：赛场聚同心健体融文脉 天津北辰擦亮民族体育交融名片",
@@ -240,6 +330,16 @@
       "publishedAt": "2026-08-25T11:04:56.000Z"
     },
     {
+      "id": "6fe778a93c96",
+      "title": "‘The day I disclose, my career is over’: the journalist facing an $800 daily fine to keep her sources secret",
+      "summary": "If Catherine Herridge’s petition to the US supreme court fails, she’ll be on the hook for a daily fine until she discloses her sources – a case unsettling press freedom organizat…",
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-25T11:00:35.000Z"
+    },
+    {
       "id": "00d684f36b3d",
       "title": "一周内三台风将接连登陆，为何今年台风偏爱华东？",
       "summary": "原标题：一周内三台风将接连登陆，全年登陆“指标”提前完成为何今年台风偏爱华东？这只是气候异常的局部切片…",
@@ -290,74 +390,14 @@
       "publishedAt": "2026-08-25T10:46:05.000Z"
     },
     {
-      "id": "73eb4bba52aa",
-      "title": "90件泰山主题作品亮相德州 画作与摄影同台“对话”",
-      "summary": "8月25日，山东德州，民众驻足观赏泰山主题摄影作品。中新社记者 孙婷婷 摄 8月25日，山东德州，民众驻足观赏泰山主题摄影作品。中新社记者 孙婷婷 摄 8月25日，山东德州，民众驻足观赏泰山主题摄影作品。中新社记者 孙婷婷 摄 8月25日，山东德州，民众驻足观赏泰山主题摄影作品。中新社记者 孙婷婷 摄 8月25日，山东德州，民众驻足观赏泰山主题摄影作品。…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-25/10683980.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T10:42:47.000Z"
-    },
-    {
-      "id": "4b8b592a382a",
-      "title": "中国建设银行河南省分行原行长石永拴被开除党籍",
-      "summary": "中新网8月25日电 据中央纪委国家监委驻中国建设银行纪检监察组、山东省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中国建设银行纪检监察组、山东省聊城市监委对中国建设银行河南省分行原党委书记、行长石永拴严重违纪违法问题进行了立案审查调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684013.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T10:38:24.000Z"
-    },
-    {
-      "id": "c2ed239f117a",
-      "title": "中共十八大以来中国法院受理外逃人员回国受审案件5000余件",
-      "summary": "中新社北京8月25日电 (记者 张素)记者25日从中国最高人民法院获悉，中共十八大以来，全国法院受理外逃人员回国受审案件5000余件，追缴犯罪所得及罚金270亿余元(人民币，下同)。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684021.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T10:38:14.000Z"
-    },
-    {
-      "id": "a4a8738ac9c0",
-      "title": "广东省湛江市副市长、市公安局局长国涛接受审查调查",
-      "summary": "中新网8月25日电 据广东省纪委监委消息：广东省湛江市副市长、市公安局局长国涛涉嫌严重违纪违法，目前正接受广东省纪委监委纪律审查和监察调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684012.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T10:38:10.000Z"
-    },
-    {
-      "id": "e6a60e0d4979",
-      "title": "王竹：统筹政法资源与数字身份治理，推动形成网络直播未成年人保护共识",
-      "summary": "随着数字终端和网络服务日益融入未成年人的日常生活，未成年人接触网络直播、网络游戏等数字服务的渠道更加多元，直播场景下账号借用、身份冒用、过度消费等问题也随之受到关注。四川大学法学院王竹教授认为，网络直播中的未成年人保护不能仅围绕“打赏能否退款”展开，而应放在数字终端和数字服务沉迷防治、网络实名身份体系、家庭监护责任、平台治理以及司法规则协调的整体框架下加…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684016.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T10:36:14.000Z"
-    },
-    {
-      "id": "bdb96357d78b",
-      "title": "男生必须寸头才能入校？管头发可以，但不能拿进校当条件",
-      "summary": "近日，银川高级中学和银川第二十四中学开学报到，学校在校门口现场检查学生发型，尤其对男生要求严格，多名学生被要求理发后才被允许进校。青春期孩子容易攀比外表，立好规矩，引导学生把精力放在学习上，初衷没问题。但规范是原则性要求，教育部并没规定男生必须剪寸头、刘海不能过眉这类细碎硬指标，这些是学校的细化规定。最大的不妥是什么？是把发型合格变成入校的“通行证”。因…",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-25/news1066535.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T10:31:58.000Z"
-    },
-    {
-      "id": "741c1645e79b",
-      "title": "台风“紫檀”“沙德尔”将相继登陆我国 强风雨接连影响华南华东",
-      "summary": "中国天气网讯 过去一周内，四个台风接连生成。目前第20号台风“简拉维”已减弱消散，第21号台风“艾莎尼”也已停编，但第18号台风“沙德尔”和第19号台风“紫檀”仍继续活跃，并将登陆我国。未来这两个台风将如何发展？会登陆哪里？哪些地方将承接最强风雨影响？中国天气网一一为你解读。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684017.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T10:31:20.000Z"
+      "id": "6ac3fc213e2c",
+      "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
+      "summary": "Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley Druckenmiller Scott Bessent’s attempt to calm the bond markets and push dow…",
+      "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-25T09:59:16.000Z"
     },
     {
       "id": "aef4507e9e23",
@@ -780,16 +820,6 @@
       "publishedAt": "2026-08-24T06:00:53.000Z"
     },
     {
-      "id": "1ff1fa3aa5b1",
-      "title": "New Zealand to consider banning children under 16 from social media",
-      "summary": "Prime minister Christopher Luxon’s party to introduce bill seeking the ban, citing harm to a generation of children New Zealand prime minister Christopher Luxon has said his part…",
-      "url": "https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T05:22:19.000Z"
-    },
-    {
       "id": "eabd9c8d20a0",
       "title": "快時尚品牌Shein赴港上市 估值大減至270億美元",
       "summary": "據Shein提交港交所文件，該公司股份擬於9月1日正式掛牌。",
@@ -1150,16 +1180,6 @@
       "publishedAt": "2026-08-20T12:03:39.000Z"
     },
     {
-      "id": "1180ec95546f",
-      "title": "From McDonald’s to Congress: can a former fry cook flip a key district for Democrats?",
-      "summary": "Manny Rutinel hopes price-tag politics can win key voters in Colorado House race During his presidential campaign in October 2024, Donald Trump staged a photo op at a McDonald’s…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-20T11:00:50.000Z"
-    },
-    {
       "id": "3658ccdd94fa",
       "title": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
       "summary": "It’s simple, says the SpaceX boss – according to something called the ‘Kardashev scale’, we just have to move energy production ‘off-planet’ Next time the weather gives the UK 61…",
@@ -1200,16 +1220,6 @@
       "publishedAt": "2026-08-20T00:07:18.000Z"
     },
     {
-      "id": "3c95660cdefc",
-      "title": "US treasury doubles debt buyback to steady bond market amid inflation fears",
-      "summary": "Interest rates, now sitting at about 3.5-3.7%, expected to go up if inflation doesn’t come down to Fed’s 2% target The US treasury is doubling its buyback of government debt in a…",
-      "url": "https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-19T14:57:21.000Z"
-    },
-    {
       "id": "f9f4cb3d6eb1",
       "title": "Revealed: FCC chair Brendan Carr’s close coordination with White House and rightwing media",
       "summary": "Internal documents obtained by Guardian show White House meetings, scheduled calls with top Trump officials and communications with Fox News producers Continue reading...",
@@ -1218,16 +1228,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-19T10:00:13.000Z"
-    },
-    {
-      "id": "4d8a4f32db64",
-      "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
-      "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
-      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-18T18:00:44.000Z"
     }
   ]
 }
