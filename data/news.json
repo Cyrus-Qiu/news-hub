@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T15:52:52.574Z",
+  "updatedAt": "2026-08-25T16:48:18.328Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,13 +31,63 @@
   "articles": [
     {
       "id": "3c7c1d15c5fa",
-      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – as it happened",
       "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies, as Kremlin accuses Burnham of wanting to continue war Burnham plans trip to New York as Ukraine ple…",
       "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-25T15:27:56.000Z"
+      "publishedAt": "2026-08-25T16:09:08.000Z"
+    },
+    {
+      "id": "2fb5006aa91a",
+      "title": "CIA director John Ratcliffe reportedly on Moscow visit",
+      "summary": "Unannounced trip reported by US media is said to be Ratcliffe’s first known visit to Russia as CIA chief The CIA director, John Ratcliffe, has made an unannounced visit to Moscow…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T16:00:09.000Z"
+    },
+    {
+      "id": "cdeea1ddfcca",
+      "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
+      "summary": "中國反對美國對伊朗頒布「非法單邊制裁」。學者指出華府不便此刻對付德黑蘭的石油大買家，以免讓9月底習近平訪美增添變數。",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-25T15:57:26.000Z"
+    },
+    {
+      "id": "4a4ad788faa4",
+      "title": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
+      "summary": "Oliver Blume faces workforce at German HQ as carmaker struggles against Chinese competition and US tariffs The chief executive of Volkswagen has faced boos and whistles of protes…",
+      "url": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T15:47:56.000Z"
+    },
+    {
+      "id": "3c59f0e3e16a",
+      "title": "中印边界问题特别代表在北京举行会晤",
+      "summary": "中新社北京8月25日电 8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题和双边关系等进行了全面深入、友好坦诚的沟通。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684210.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T15:47:34.000Z"
+    },
+    {
+      "id": "6eecd4d7b3ad",
+      "title": "美军机降落莫斯科？克宫回应",
+      "summary": "中新网8月25日电 据路透社25日报道，航班追踪网站Flightradar24的数据显示，一架美国军用运输机降落在莫斯科伏努科沃机场。对此，克里姆林宫表示，没有关于该飞机的信息。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684209.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T15:45:32.000Z"
     },
     {
       "id": "34630ba0711b",
@@ -168,16 +218,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T14:17:02.000Z"
-    },
-    {
-      "id": "345ea503444a",
-      "title": "中印边界问题特别代表在北京举行会晤",
-      "summary": "新华社北京8月25日电(记者伍岳)中印边界问题特别代表第25次会晤25日在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题和双边关系等进行了全面深入、友好坦诚的沟通。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684194.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T14:08:30.000Z"
     },
     {
       "id": "7d5f17e66ece",
@@ -378,46 +418,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-25T13:41:22.000Z"
-    },
-    {
-      "id": "cdbb1736fff1",
-      "title": "台风“紫檀”或二次登陆广东雷州半岛",
-      "summary": "中新网广州8月25日电 (记者 王坚)台风“紫檀”在25日18时40分前后登陆海南省昌江县。广东气象部门表示，“紫檀”或将二次登陆广东雷州半岛。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684174.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:40:52.000Z"
-    },
-    {
-      "id": "d579670f1a3a",
-      "title": "天工机器人百米竞速跑出8.86秒 再创纪录",
-      "summary": "中新网北京8月25日电 (记者 吕少威 陈杭 徐婧)第二届世界人形机器人运动会正在北京进行中。在25日举行的100米大型组复赛中，第一组成绩再次刷新纪录。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684177.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:40:44.000Z"
-    },
-    {
-      "id": "af0dc6cd18aa",
-      "title": "‘An enchanting oasis’: Venetian island with Napoleonic fort up for sale",
-      "summary": "Smaller than a football pitch, Crevan has a rich history – but how rich its buyer needs to be is strictly under wraps An island in the Venice lagoon boasting a Napoleonic fort an…",
-      "url": "https://www.theguardian.com/world/2026/aug/25/crevan-island-venice-napoleonic-fort",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T13:21:18.000Z"
-    },
-    {
-      "id": "3e090cdaf875",
-      "title": "Third drone and suspected military explosives found near Leipzig airport",
-      "summary": "Local media report discovery by German investigators after attempted attack on cargo and military logistics hub Europe live – latest updates German investigators uncovered a thir…",
-      "url": "https://www.theguardian.com/world/2026/aug/25/germany-drone-suspected-military-explosives-found-near-leipzig-airport",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T12:37:24.000Z"
     },
     {
       "id": "d70daf21cdb6",
@@ -628,16 +628,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T00:34:47.000Z"
-    },
-    {
-      "id": "56bde3577c7c",
-      "title": "我六歲就來月經了，但醫生們也不知道為什麼",
-      "summary": "性早熟會導致兒童過早出現第二性徵，而且對女孩的影響比例明顯較高。",
-      "url": "https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-25T00:10:45.000Z"
     },
     {
       "id": "bcfd274ba3af",
@@ -1228,6 +1218,16 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-19T10:00:13.000Z"
+    },
+    {
+      "id": "4d8a4f32db64",
+      "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
+      "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
+      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-18T18:00:44.000Z"
     }
   ]
 }
