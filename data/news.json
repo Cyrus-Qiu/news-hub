@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:32:30.148Z",
+  "updatedAt": "2026-08-25T23:52:33.705Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,66 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "1cd0e778fac0",
+      "title": "开学季，要收心也要小心",
+      "summary": "(服务窗)",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684234.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T23:46:38.000Z"
+    },
+    {
+      "id": "285deed53f7b",
+      "title": "四川若尔盖：黄河九曲第一湾吸引游人观光",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202124.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T23:41:19.000Z"
+    },
+    {
+      "id": "c4b813e0cde4",
+      "title": "Australia news live: Ooshies trend sees profit boom for Woolworths; productivity commissioner says ‘line was crossed’ by WA premier in GST scuffle",
+      "summary": "Follow updates live Get our breaking news email , free app or daily news podcast Angela Jackson, the commissioner of the Productivity Commission, said the body stands by the inte…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T23:38:17.000Z"
+    },
+    {
+      "id": "550491eb33bb",
+      "title": "向“假专家”亮剑，让专业回归专业",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684231.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T23:36:45.000Z"
+    },
+    {
+      "id": "2836dc2c71a3",
+      "title": "特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆",
+      "summary": "中新网8月26日电 据英国广播公司(BBC)当地时间25日报道，美国总统特朗普在社交媒体“真实社交”上表示，美国海军刚刚通知他，霍尔木兹海峡国际水域内的所有水雷均已被清除或引爆。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684229.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T23:28:57.000Z"
+    },
+    {
+      "id": "37563caa8404",
+      "title": "越来越多的快递，为何能越送越快？",
+      "summary": "从车间分拣到街头配送，物流全链条“黑科技”上线",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684228.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T23:26:51.000Z"
+    },
+    {
       "id": "9ab9a38c4f66",
       "title": "付费飞机餐走红，免费飞机餐会消失吗？",
       "summary": "曾经坐飞机，只要航程达标，经济舱旅客就能拿到一份统一配送的免费飞机餐，好不好吃全凭运气。如今，煲仔饭、牛排、冒菜、鱼子酱拼盘等花样繁多的餐食陆续登上客舱，只不过这些精致美食大多需要额外付费。",
@@ -48,16 +108,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-25T23:18:10.000Z"
-    },
-    {
-      "id": "c4b813e0cde4",
-      "title": "Australia news live: PM shares Dolly Parton memory in tribute; Finocchiaro says NT can power datacentres with Beetaloo gas",
-      "summary": "Follow updates live Get our breaking news email , free app or daily news podcast Productivity Commission commissioner says attacks on body’s integrity ‘bridge too far’ Angela Jac…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T23:17:59.000Z"
     },
     {
       "id": "22845f3644f0",
@@ -430,36 +480,6 @@
       "publishedAt": "2026-08-25T14:48:54.000Z"
     },
     {
-      "id": "2b4a140a9a31",
-      "title": "广东拥抱AI 助力流行音乐创作",
-      "summary": "中新社广州8月25日电 (程景伟 谢丽巧)首届流行音乐创作大会(广东)25日在广州启幕，广东省文联专职副主席王垂林介绍，除原创音乐赛道，大赛还特别设立AI音乐赛道，用户可以使用AI创作流行歌曲并参赛。据悉，大赛将评选出46首获奖歌曲，其中原创作品30首、AI作品16首。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684200.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-25T14:45:30.000Z"
-    },
-    {
-      "id": "882edae93664",
-      "title": "马龙邀请台湾青年“登陆”：“大陆适合每一位热爱运动的年轻人”",
-      "summary": "中新社上海8月25日电 (记者 陈建新 缪璐)“欢迎大家来大陆，走进校园、走进训练基地，参与训练交流、赛事活动、学习实践。”25日在上海出席一场两岸青年交流活动时，奥运冠军马龙向台湾青年发出邀请。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684196.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T14:43:34.000Z"
-    },
-    {
-      "id": "0cc3f50cdef6",
-      "title": "广西9条河流超警 左江崇左水文站超警7.59米",
-      "summary": "中新网南宁8月25日电 (陈秋霞 周也茹)广西壮族自治区水文中心25日提供的信息显示，当天20时，广西仍有郁江及支流青龙江，明江及支流派连河，左江及支流客兰河等9条河流14个水文站超警0.15米至7.59米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684195.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T14:19:14.000Z"
-    },
-    {
       "id": "7616387b1658",
       "title": "UK officials prepare for potential Trump talks as Burnham plans New York trip",
       "summary": "PM known to be keen to attend UN general assembly after meeting Volodymyr Zelenskyy in Ukraine UK officials are making preparations for a potential meeting between Andy Burnham a…",
@@ -468,16 +488,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T14:17:02.000Z"
-    },
-    {
-      "id": "7d5f17e66ece",
-      "title": "南宁海事局使用重载无人机成功救助3艘遇险船舶",
-      "summary": "中新网广西崇左8月25日电(李帅 郑清欣 黄艳梅)8月25日，受左江2026年第1号洪水影响，左江水域成片漂浮物下漂。当日16时，3艘在扶绥海螺码头附近防洪停泊船舶的螺旋桨被缠绕、舷侧受漂浮物和水流挤压，面临断缆走锚风险，船员向海事部门求救。当时左江扶绥水位达到86.22米，超警戒水位4.42米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684193.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T14:08:28.000Z"
     },
     {
       "id": "a516fd8d044b",
@@ -1218,16 +1228,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-18T09:01:05.000Z"
-    },
-    {
-      "id": "8c8070590a15",
-      "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
-      "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen? One of the str…",
-      "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-18T04:00:13.000Z"
     }
   ]
 }
