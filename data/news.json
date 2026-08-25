@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T17:38:53.644Z",
+  "updatedAt": "2026-08-25T18:51:08.492Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,56 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "28068e1a144c",
+      "title": "湄公河水位上涨致柬埔寨四省逾1.8万户家庭受灾",
+      "summary": "中新社金边8月25日电 湄公河水位持续上涨导致柬埔寨多地发生严重洪灾。柬国家灾害管理委员会当地时间25日通报称，截至目前，这轮灾害已导致该国桔井、上丁、特本克蒙和磅湛4省17个市县超过1.8万户家庭受灾，其中1900多户被紧急疏散至安全地带。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684213.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T18:10:27.000Z"
+    },
+    {
+      "id": "d33459694e41",
+      "title": "新疆阿勒泰加快打造中国高纯石英产业新高地",
+      "summary": "中新社新疆阿勒泰8月25日电 （苟继鹏）25日，以“石英铸基 芯疆未来”为主题的2026高纯石英产业链发展大会在新疆阿勒泰市召开，40余位行业专家学者以及180余家产业链上下游企业代表参会。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684212.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T18:09:25.000Z"
+    },
+    {
+      "id": "4cef2bb97ee5",
+      "title": "王楚钦、孙颖莎领衔WTT中国大满贯赛参赛名单",
+      "summary": "中新社北京8月25日电 世界乒乓球职业大联盟(WTT)中国大满贯赛首批参赛名单25日公布，男、女单打世界排名第一的中国名将王楚钦、孙颖莎领衔该名单。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684211.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T18:08:17.000Z"
+    },
+    {
+      "id": "17e67746e975",
+      "title": "Trump-backed Ken Paxton unveils ‘Texas first’ datacenter plan aimed at ‘negative impact’",
+      "summary": "The Republican Senate candidate announced the plan with a graphic X flagged as ‘Made with AI’ US politics live – latest updates Ken Paxton , a Republican candidate for the US Sen…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/ken-paxton-datacenters-plan-texas",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-25T17:54:00.000Z"
+    },
+    {
+      "id": "16072e1bc5b2",
+      "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
+      "summary": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight ‘A massacre’: Haiti gangs carrying out mass killings At least 47 people were k…",
+      "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T17:35:16.000Z"
+    },
     {
       "id": "81c2613ce53e",
       "title": "China denounces US threat of sanctions over trade with Iran",
@@ -232,7 +282,7 @@
     {
       "id": "7616387b1658",
       "title": "UK officials prepare for potential Trump talks as Burnham plans New York trip",
-      "summary": "PM known to be keen to attend UN general assembly after meeting Volodymyr Zelenskyy in Ukraine Europe live – latest updates UK officials are making preparations for a potential m…",
+      "summary": "PM known to be keen to attend UN general assembly after meeting Volodymyr Zelenskyy in Ukraine UK officials are making preparations for a potential meeting between Andy Burnham a…",
       "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
       "source": "The Guardian World",
       "category": "国际",
@@ -400,26 +450,6 @@
       "publishedAt": "2026-08-25T13:43:30.000Z"
     },
     {
-      "id": "1f94e61588e3",
-      "title": "第六届亚洲两栖爬行动物学大会在成都举行",
-      "summary": "中新网成都8月25日电 (王利文 罗梅歌)第六届亚洲两栖爬行动物学大会暨《亚洲两栖爬行动物研究》(AHR)编委会会议22日至25日在成都举行。来自中国、俄罗斯、法国、加拿大、意大利、日本等国家的120余位专家学者参会，围绕两栖爬行动物多样性、系统进化与保护等议题深入交流。",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-25/10684179.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:42:00.000Z"
-    },
-    {
-      "id": "2691aa3f8dc2",
-      "title": "航天垂直大模型“华山”健康管理模块完成星上在轨实测验证",
-      "summary": "中新网北京8月25日电 (刘书睿 张素)自7月24日随“辰光一号”技术试验卫星入轨以来，航天垂直大模型“华山”健康管理模块在轨运行已满一个月，完成星上人工智能全流程在轨实战验证。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684178.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:41:44.000Z"
-    },
-    {
       "id": "a516fd8d044b",
       "title": "I dug through hundreds of Labor Day sales to find real deals on high-quality products that last",
       "summary": "Prepare for autumn with our favorite end-of-season deals on staples including leaf blowers, blankets and bedding College grads share the room essentials that weathered the dorm S…",
@@ -428,16 +458,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-25T13:41:41.000Z"
-    },
-    {
-      "id": "2e71db800f76",
-      "title": "（长征胜利90周年）探访四川阿坝神座村朱德旧居：藏寨回响长征记忆",
-      "summary": "中新网阿坝8月25日电 题：探访四川阿坝神座村朱德旧居：藏寨回响长征记忆",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684176.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:41:22.000Z"
     },
     {
       "id": "d70daf21cdb6",
@@ -678,16 +698,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-24T18:55:43.000Z"
-    },
-    {
-      "id": "a1f3dc30f7bf",
-      "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
-      "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from dispute Are you a Canadian boycotting US products? We’d like to hear from…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-24T18:22:14.000Z"
     },
     {
       "id": "1402d7400159",
@@ -1090,16 +1100,6 @@
       "publishedAt": "2026-08-21T10:45:20.000Z"
     },
     {
-      "id": "2326c840fa93",
-      "title": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
-      "summary": "Exclusive: Planning documents show annual emissions from North Ockendon project would be equivalent to 8,480 flights to New York A “hyperscale” datacentre in outer London would g…",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-21T10:00:31.000Z"
-    },
-    {
       "id": "322c8f78b63d",
       "title": "特朗普想與金正恩做朋友，韓國恐要為此付出代價",
       "summary": "美韓聯合軍事演習提前結束，此時北韓正處於實力強勢的位置。",
@@ -1148,16 +1148,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-20T16:14:59.000Z"
-    },
-    {
-      "id": "9d0af0eb057a",
-      "title": "Boohoo fined €2.3m by French watchdog over deceptive discounts",
-      "summary": "Fashion site also broke rules on labelling by using terms ‘leather’ or ‘suede’ for synthetic products The British online fashion seller Boohoo has been fined €2.3m (£2m) by Franc…",
-      "url": "https://www.theguardian.com/business/2026/aug/20/boohoo-fined-by-french-watchdog-deceptive-discounts",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-20T12:40:04.000Z"
     },
     {
       "id": "8308a3749b90",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-18T18:00:44.000Z"
+    },
+    {
+      "id": "e51557f8cdba",
+      "title": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair – tested",
+      "summary": "From handheld to corded, self-emptying to stick models, these are our resident cleaner’s favourite vacuums for a spotless home • The best cordless vacuum cleaners, tested • How t…",
+      "url": "https://www.theguardian.com/thefilter/2026/feb/13/best-vacuum-cleaners-uk-tested",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-18T09:01:05.000Z"
     }
   ]
 }
