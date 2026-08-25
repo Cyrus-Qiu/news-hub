@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T14:55:23.841Z",
+  "updatedAt": "2026-08-25T15:52:52.574Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,106 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "3c7c1d15c5fa",
+      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+      "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies, as Kremlin accuses Burnham of wanting to continue war Burnham plans trip to New York as Ukraine ple…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T15:27:56.000Z"
+    },
+    {
+      "id": "34630ba0711b",
+      "title": "加拿大宣布对美国商品征收报复性关税",
+      "summary": "当地时间25日，加拿大政府宣布，对价值约200亿美元的美国商品征收报复性关税。(央视新闻客户端）",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684208.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T15:26:11.000Z"
+    },
+    {
+      "id": "dce6854da530",
+      "title": "一名在韩失踪中国公民遇害 嫌疑人已被捕",
+      "summary": "中新社首尔8月25日电 (记者 金旭)中国驻釜山总领事馆当地时间25日称，经同韩国警方核实，一名失踪数日的中国女留学生当天被发现死亡，警方已以涉嫌杀人罪逮捕一名30多岁男子。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684207.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T15:23:16.000Z"
+    },
+    {
+      "id": "0087d64f6494",
+      "title": "2026年度电影总票房突破275亿！《欢迎来龙餐馆》公布全球上映计划",
+      "summary": "据网络平台数据",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684206.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T15:08:12.000Z"
+    },
+    {
+      "id": "e231bfe4fbd6",
+      "title": "Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say",
+      "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water use Get our breaking news email , free app or daily n…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
+      "source": "The Guardian World",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-25T15:00:19.000Z"
+    },
+    {
+      "id": "2aa61687e484",
+      "title": "One Nation’s Malcolm Roberts ‘in two minds’ about whether gay people should be equal",
+      "summary": "Footage shows senator on stage at the Church and State conference responding to question about party’s director James Ashby Get our breaking news email , free app or daily news p…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/one-nation-malcolm-roberts-two-minds-gay-equal-rights-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T15:00:18.000Z"
+    },
+    {
+      "id": "0d6c7829d38d",
+      "title": "德国二季度GDP环比增速上调至0.3%",
+      "summary": "中新社柏林8月25日电 (记者 马秀秀)德国联邦统计局25日公布的数据显示，经价格、季节和工作日调整后，今年第二季度德国国内生产总值(GDP)环比增长0.3%，较此前公布的初步数据上调0.1个百分点。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684199.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:57:00.000Z"
+    },
+    {
+      "id": "55cdf96e5ed4",
+      "title": "马来西亚热浪来袭 多地发布高温警报",
+      "summary": "中新社吉隆坡8月25日电 (记者 刘育英)马来西亚近日遭遇热浪天气。马来西亚气象局25日对全国17个地区发布一级高温“警戒”警报，提醒民众注意防暑降温。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684198.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:54:50.000Z"
+    },
+    {
+      "id": "9db3d304416d",
+      "title": "俄远东一在建天然气化工项目发生火灾致1人死亡百余人受伤",
+      "summary": "中新社莫斯科8月25日电 位于俄罗斯远东阿穆尔州的阿穆尔天然气化工综合体项目25日通报称，该项目施工现场发生火灾，造成1人死亡、百余人不同程度受伤。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684197.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:53:06.000Z"
+    },
+    {
+      "id": "5963f99ea06f",
+      "title": "New York business group sues Mamdani over city-owned grocery stores plan",
+      "summary": "Multicultural Business Coalition sues New York City mayor, alleging plan for city-run stores will harm smaller grocers A New York City business group sued mayor Zohran Mamdani on…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/zohran-mamdani-lawsuit-city-owned-grocery-stores",
+      "source": "The Guardian Business",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-25T14:48:54.000Z"
+    },
+    {
       "id": "2b4a140a9a31",
       "title": "广东拥抱AI 助力流行音乐创作",
       "summary": "中新社广州8月25日电 (程景伟 谢丽巧)首届流行音乐创作大会(广东)25日在广州启幕，广东省文联专职副主席王垂林介绍，除原创音乐赛道，大赛还特别设立AI音乐赛道，用户可以使用AI创作流行歌曲并参赛。据悉，大赛将评选出46首获奖歌曲，其中原创作品30首、AI作品16首。",
@@ -50,16 +150,6 @@
       "publishedAt": "2026-08-25T14:43:34.000Z"
     },
     {
-      "id": "3c7c1d15c5fa",
-      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
-      "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies, as Kremlin accuses Burnham of wanting to continue war Burnham plans trip to New York as Ukraine ple…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T14:22:46.000Z"
-    },
-    {
       "id": "0cc3f50cdef6",
       "title": "广西9条河流超警 左江崇左水文站超警7.59米",
       "summary": "中新网南宁8月25日电 (陈秋霞 周也茹)广西壮族自治区水文中心25日提供的信息显示，当天20时，广西仍有郁江及支流青龙江，明江及支流派连河，左江及支流客兰河等9条河流14个水文站超警0.15米至7.59米。",
@@ -78,16 +168,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T14:17:02.000Z"
-    },
-    {
-      "id": "ece549ca8947",
-      "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters – as it happened",
-      "summary": "Spot gold touches almost $4,700 an ounce and Bitcoin tops $80,000 while oil prices fall despite threat of heavy US sanctions on Iran and any country trading with it The US car pa…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-25T14:08:37.000Z"
     },
     {
       "id": "345ea503444a",
@@ -320,66 +400,6 @@
       "publishedAt": "2026-08-25T13:40:44.000Z"
     },
     {
-      "id": "fc5973a196bb",
-      "title": "陈文清会见越南最高人民法院院长阮文广",
-      "summary": "新华社北京8月25日电 中共中央政治局委员、中央政法委书记陈文清25日在京会见越共中央书记处书记、越南最高人民法院院长阮文广。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684175.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:34:27.000Z"
-    },
-    {
-      "id": "ef427c726f60",
-      "title": "甘肃加快“碳足迹”管理体系建设",
-      "summary": "中新网兰州8月25日电 (记者 冯志军)当归、黄芪、马铃薯种业、油橄榄等4项农特产品碳足迹量化方法已纳入地方标准立项计划，金川集团电积钴等15个镍钴系列产品、张掖市8个农产品完成碳足迹核算与认证……今年以来，甘肃加快推进碳足迹管理体系建设。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684172.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:33:23.000Z"
-    },
-    {
-      "id": "2e62be4fe254",
-      "title": "台风“沙德尔”逼近 福建沿海22条客渡运航线停运",
-      "summary": "中新社福州8月25日电 (记者 闫旭)今年第18号台风“沙德尔”(强台风级)25日下午已移入福建省热带气旋警戒区。据中央气象台预计，“沙德尔”将于27日夜间至28日上午在浙江象山到福建福清一带沿海登陆。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684170.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:33:07.000Z"
-    },
-    {
-      "id": "7c148b6549ad",
-      "title": "浙江义乌春节用品超前开启“羊年模式”",
-      "summary": "中新社浙江义乌8月25日电 (董易鑫 陈蓓蓓)“今年客户采购羊年春节用品的节奏比往年快。这个月，我们已经交付了首批海外订单。”8月25日，主营年画产品的浙江义乌商户王子说。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684171.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:32:03.000Z"
-    },
-    {
-      "id": "68a9a6679916",
-      "title": "中式书香门第主题“南方列车”试运营 铁路文旅漫行阅古今",
-      "summary": "中新网长沙8月25日电 (付敬懿 杨一苗)全国首列中式书香门第主题品质旅游列车——“南方列车·白云号”25日试运营，项目由湖南文体旅产业集团有限公司联合广州白云产业投资集团有限公司，与中国铁路广州局集团有限公司合力打造，以文化IP赋能、高端服务提质、跨域联动增效，重塑铁路文旅价值。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684166.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:31:25.000Z"
-    },
-    {
-      "id": "aa8050d548a7",
-      "title": "重返毛乌素，“赛考斯”带走一罐沙、留下新的树",
-      "summary": "中新社内蒙古鄂尔多斯8月25日电 题：重返毛乌素，“赛考斯”带走一罐沙、留下新的树",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684165.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:30:31.000Z"
-    },
-    {
       "id": "af0dc6cd18aa",
       "title": "‘An enchanting oasis’: Venetian island with Napoleonic fort up for sale",
       "summary": "Smaller than a football pitch, Crevan has a rich history – but how rich its buyer needs to be is strictly under wraps An island in the Venice lagoon boasting a Napoleonic fort an…",
@@ -538,26 +558,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-25T08:03:21.000Z"
-    },
-    {
-      "id": "91975b391aaa",
-      "title": "Alan Jones and fellow 2GB host referred to SMH and reporter as ‘pigs in the media’, court hears",
-      "summary": "Jason Morrison, a former presenter at the Sydney radio station, denies ‘tailoring his evidence’ during trial of veteran shock jock Jones Get our breaking news email , free app or…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/25/alan-jones-trial-2gb-host-called-smh-pigs-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T07:46:14.000Z"
-    },
-    {
-      "id": "3f39141bda02",
-      "title": "Man arrested after allegedly attacking woman and boy in Melbourne CBD – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Number of NSW households in urgent need of priority housing hits highest level in over a year…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T07:44:48.000Z"
     },
     {
       "id": "31f866b81ce6",
@@ -1160,16 +1160,6 @@
       "publishedAt": "2026-08-20T16:14:59.000Z"
     },
     {
-      "id": "a40a6718dfd9",
-      "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
-      "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology Cinemas across the UK are considering banning customers from wearing…",
-      "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-20T14:57:25.000Z"
-    },
-    {
       "id": "9d0af0eb057a",
       "title": "Boohoo fined €2.3m by French watchdog over deceptive discounts",
       "summary": "Fashion site also broke rules on labelling by using terms ‘leather’ or ‘suede’ for synthetic products The British online fashion seller Boohoo has been fined €2.3m (£2m) by Franc…",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-20T00:07:18.000Z"
+    },
+    {
+      "id": "f9f4cb3d6eb1",
+      "title": "Revealed: FCC chair Brendan Carr’s close coordination with White House and rightwing media",
+      "summary": "Internal documents obtained by Guardian show White House meetings, scheduled calls with top Trump officials and communications with Fox News producers Continue reading...",
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/19/brendan-carr-fcc-white-house-exclusive",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-19T10:00:13.000Z"
     }
   ]
 }
