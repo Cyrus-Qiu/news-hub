@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T21:57:25.943Z",
+  "updatedAt": "2026-08-25T22:36:47.246Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,46 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "018032e0b199",
+      "title": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
+      "summary": "中新网8月26日电 据美国全国广播公司(NBC)当地时间8月25日报道，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T22:31:05.000Z"
+    },
+    {
+      "id": "c4b813e0cde4",
+      "title": "News live: NT chief minister wants more datacentres in the Territory; Greens urges national cabinet to refocus on gendered violence ‘before it’s too late’",
+      "summary": "Follow updates live Get our breaking news email , free app or daily news podcast Lia Finocchiaro , the chief minister of the Northern Territory, maintained the region should be a…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T22:29:56.000Z"
+    },
+    {
+      "id": "a87f4457f134",
+      "title": "爱吃糖的小孩长大了，甜食配方怎么改？",
+      "summary": "(新视野)",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-26/10684220.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T22:00:46.000Z"
+    },
+    {
+      "id": "bd7829ed7f7c",
+      "title": "古巴谴责美国延长对古实施经济封锁",
+      "summary": "古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T21:56:21.000Z"
+    },
     {
       "id": "9c45fc68ceba",
       "title": "中方呼吁推动停火止战以保障粮食生产安全",
@@ -60,19 +100,9 @@
       "publishedAt": "2026-08-25T21:44:00.000Z"
     },
     {
-      "id": "c4b813e0cde4",
-      "title": "Australia news live: man charged after allegedly stabbing woman with scissors in Melbourne",
-      "summary": "Woman and her son, who was allegedly punched, were taken to hospital with non-life-threatening injuries on Tuesday. Follow updates live Get our breaking news email , free app or…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T21:39:31.000Z"
-    },
-    {
       "id": "6ee60046aeca",
-      "title": "FBI raided Spanish vacation rental of wealthy leftwing funder James ‘Fergie’ Cox after his arrest",
-      "summary": "Lawyer Baltasar Garzón, representing Cox, said case against his client is ‘very strange’ as US requests extradition FBI agents raided the Ibiza, Spain, vacation rental of 41-year…",
+      "title": "FBI raided Spanish vacation rental of wealthy leftwing funder James ‘Fergie’ Chambers after his arrest",
+      "summary": "Lawyer Baltasar Garzón, representing Chambers, said case against his client is ‘very strange’ as US requests extradition FBI agents raided the Ibiza, Spain, vacation rental of 41…",
       "url": "https://www.theguardian.com/us-news/2026/aug/25/fbi-raid-james-fergie-cox-vacation-rental",
       "source": "The Guardian World",
       "category": "国际",
@@ -438,36 +468,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-25T13:59:29.000Z"
-    },
-    {
-      "id": "9adf75138c7e",
-      "title": "多国科创企业共聚香港 聚焦AI向善推动全球合作",
-      "summary": "中新社香港8月25日电 (张语洽 刘玥晴)第二届GIS全球创新展暨全球创新峰会25日在香港开幕。展会汇聚来自中国内地、香港和澳门，以及欧洲、美国、日本、新加坡、澳大利亚等国家和地区的科技企业，聚焦推动全球创科合作、助力人工智能(AI)向善发展。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-25/10684186.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:58:39.000Z"
-    },
-    {
-      "id": "75d9d011aa04",
-      "title": "向失职失责“亮剑” 为美丽中国“护航”——中央组织部负责人就修订颁布《党政领导干部生态环境损害责任追究办法》答记者问",
-      "summary": "新华社北京8月25日电 近日，中共中央办公厅印发新修订的《党政领导干部生态环境损害责任追究办法》(以下简称《办法》)。日前，中央组织部负责人就《办法》修订和贯彻实施等问题回答了记者提问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684191.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:58:31.000Z"
-    },
-    {
-      "id": "3f89203604ed",
-      "title": "上海冀“十五五”期间新增认定跨国公司地区总部数量逾300家",
-      "summary": "中新社上海8月25日电 上海市政府25日发布的《上海市加快国际贸易中心建设“十五五”规划》提出，“十五五”期间，上海将新增认定跨国公司地区总部数量达300家以上。上海将优化升级支持总部经济发展政策，支持总部集聚研发创新、财资管理、投资决策、供应链管理等多项功能，升级成为亚太区总部、事业部全球总部。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684185.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:57:19.000Z"
     },
     {
       "id": "a516fd8d044b",
