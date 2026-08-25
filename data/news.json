@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T16:48:18.328Z",
+  "updatedAt": "2026-08-25T17:38:53.644Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,36 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "81c2613ce53e",
+      "title": "China denounces US threat of sanctions over trade with Iran",
+      "summary": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China…",
+      "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-25T17:11:21.000Z"
+    },
+    {
+      "id": "cdeea1ddfcca",
+      "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
+      "summary": "中國反對美國對伊朗頒布「非法單邊制裁」。學者指出華府不便此刻對付德黑蘭的石油大買家，以免讓9月底習近平訪美增添變數。",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-25T16:53:04.000Z"
+    },
+    {
+      "id": "0e4d82f99c80",
+      "title": "Canada announces retaliatory tariffs on wide range of US goods",
+      "summary": "Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian products comes after trade talks collapsed last week US politics live – latest updates Canada has announ…",
+      "url": "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-25T16:17:44.000Z"
+    },
+    {
       "id": "3c7c1d15c5fa",
       "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – as it happened",
       "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies, as Kremlin accuses Burnham of wanting to continue war Burnham plans trip to New York as Ukraine ple…",
@@ -48,16 +78,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T16:00:09.000Z"
-    },
-    {
-      "id": "cdeea1ddfcca",
-      "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
-      "summary": "中國反對美國對伊朗頒布「非法單邊制裁」。學者指出華府不便此刻對付德黑蘭的石油大買家，以免讓9月底習近平訪美增添變數。",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-25T15:57:26.000Z"
     },
     {
       "id": "4a4ad788faa4",
@@ -438,16 +458,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T11:53:58.000Z"
-    },
-    {
-      "id": "81c2613ce53e",
-      "title": "China denounces US threat of sanctions over trade with Iran",
-      "summary": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China…",
-      "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-25T11:43:14.000Z"
     },
     {
       "id": "6df055c1da95",
@@ -1118,16 +1128,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-21T00:04:00.000Z"
-    },
-    {
-      "id": "61e5ab291642",
-      "title": "Fashion tech founder sentenced to prison for $300m fraud scheme",
-      "summary": "Christine Hunsicker, former CEO of CaaStle, gave investors falsified documents that overstated profit and cash reserves A fashion tech founder was sentenced to five years in fede…",
-      "url": "https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison",
-      "source": "The Guardian Business",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-20T22:27:41.000Z"
     },
     {
       "id": "d3f345001290",
