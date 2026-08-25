@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T13:58:17.933Z",
+  "updatedAt": "2026-08-25T14:55:23.841Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,206 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "2b4a140a9a31",
+      "title": "广东拥抱AI 助力流行音乐创作",
+      "summary": "中新社广州8月25日电 (程景伟 谢丽巧)首届流行音乐创作大会(广东)25日在广州启幕，广东省文联专职副主席王垂林介绍，除原创音乐赛道，大赛还特别设立AI音乐赛道，用户可以使用AI创作流行歌曲并参赛。据悉，大赛将评选出46首获奖歌曲，其中原创作品30首、AI作品16首。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684200.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:45:30.000Z"
+    },
+    {
+      "id": "882edae93664",
+      "title": "马龙邀请台湾青年“登陆”：“大陆适合每一位热爱运动的年轻人”",
+      "summary": "中新社上海8月25日电 (记者 陈建新 缪璐)“欢迎大家来大陆，走进校园、走进训练基地，参与训练交流、赛事活动、学习实践。”25日在上海出席一场两岸青年交流活动时，奥运冠军马龙向台湾青年发出邀请。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684196.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:43:34.000Z"
+    },
+    {
+      "id": "3c7c1d15c5fa",
+      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+      "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies, as Kremlin accuses Burnham of wanting to continue war Burnham plans trip to New York as Ukraine ple…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T14:22:46.000Z"
+    },
+    {
+      "id": "0cc3f50cdef6",
+      "title": "广西9条河流超警 左江崇左水文站超警7.59米",
+      "summary": "中新网南宁8月25日电 (陈秋霞 周也茹)广西壮族自治区水文中心25日提供的信息显示，当天20时，广西仍有郁江及支流青龙江，明江及支流派连河，左江及支流客兰河等9条河流14个水文站超警0.15米至7.59米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684195.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:19:14.000Z"
+    },
+    {
+      "id": "7616387b1658",
+      "title": "UK officials prepare for potential Trump talks as Burnham plans New York trip",
+      "summary": "PM known to be keen to attend UN general assembly after meeting Volodymyr Zelenskyy in Ukraine Europe live – latest updates UK officials are making preparations for a potential m…",
+      "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T14:17:02.000Z"
+    },
+    {
+      "id": "ece549ca8947",
+      "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters – as it happened",
+      "summary": "Spot gold touches almost $4,700 an ounce and Bitcoin tops $80,000 while oil prices fall despite threat of heavy US sanctions on Iran and any country trading with it The US car pa…",
+      "url": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-25T14:08:37.000Z"
+    },
+    {
+      "id": "345ea503444a",
+      "title": "中印边界问题特别代表在北京举行会晤",
+      "summary": "新华社北京8月25日电(记者伍岳)中印边界问题特别代表第25次会晤25日在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题和双边关系等进行了全面深入、友好坦诚的沟通。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684194.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:08:30.000Z"
+    },
+    {
+      "id": "7d5f17e66ece",
+      "title": "南宁海事局使用重载无人机成功救助3艘遇险船舶",
+      "summary": "中新网广西崇左8月25日电(李帅 郑清欣 黄艳梅)8月25日，受左江2026年第1号洪水影响，左江水域成片漂浮物下漂。当日16时，3艘在扶绥海螺码头附近防洪停泊船舶的螺旋桨被缠绕、舷侧受漂浮物和水流挤压，面临断缆走锚风险，船员向海事部门求救。当时左江扶绥水位达到86.22米，超警戒水位4.42米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684193.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:08:28.000Z"
+    },
+    {
+      "id": "937e32d862d4",
+      "title": "‘The Trump-Putin relationship is the biggest mystery in international politics’: foreign correspondent Luke Harding answered your questions",
+      "summary": "The Guardian’s Luke Harding discussed Trump, Putin and the state of the war in Ukraine, his expulsion from Russia, his new book Betrayal, and his career as a foreign corresponden…",
+      "url": "https://www.theguardian.com/theguardian/live/2026/aug/25/reader-q-and-a-ask-guardian-foreign-correspondant-author-luke-harding-a-question",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T14:06:25.000Z"
+    },
+    {
+      "id": "de448ac76184",
+      "title": "沪港数字合作成果丰硕 将深化数据标准对接",
+      "summary": "中新网上海8月25日电 (记者 陈静)上海市数据局副局长钱晓25日表示，过去一年，沪港数字合作在机制深化、数据跨境流通、便民利企服务等方面取得丰硕成果。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684192.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:03:09.000Z"
+    },
+    {
+      "id": "653eced52e2a",
+      "title": "第十一届APEC粮食安全部长级会议在浙江杭州举行",
+      "summary": "中新社杭州8月25日电 (王逸飞 鲍梦妮)作为亚太经合组织(APEC)“中国年”系列活动之一，第十一届APEC粮食安全部长级会议8月25日在浙江杭州举行。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684188.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:02:05.000Z"
+    },
+    {
+      "id": "802accf6ed0d",
+      "title": "湖北形成“海陆空多向联动”的国际物流格局",
+      "summary": "中新网武汉8月25日电 (梁婷 潘庆芳)记者25日从2026年加快建设交通强国大会获悉，依托近洋直航与陆上铁路、航空枢纽互补，湖北形成“海陆空多向联动”的国际物流格局。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684189.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T14:01:27.000Z"
+    },
+    {
+      "id": "328117fb3cc6",
+      "title": "鸠山由纪夫：对历史真诚反省并表达共情，才能通向真正和解",
+      "summary": "中新社北京8月25日电 (马帅莎 余湛奕 刘纪)“促进建设和平与繁荣的亚洲命运共同体”对话大会25日在北京举办。日本前首相鸠山由纪夫在开幕式上表示，对历史真诚反省并表达共情，才能通向真正和解之路。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684187.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:59:47.000Z"
+    },
+    {
+      "id": "3e61b0a71155",
+      "title": "江苏常州通报“星宇股份被曝批量劝退应届生”",
+      "summary": "中新网8月25日电 据常州市人民政府网站消息，8月25日晚，江苏省常州市人力资源和社会保障局发布星宇股份解聘应届大学毕业生情况通报。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684190.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:59:29.000Z"
+    },
+    {
+      "id": "3ac36f7d6d94",
+      "title": "“山海万象·中马沉浸视听交流展”打开双方数字文化合作新空间",
+      "summary": "中新网吉隆坡8月25日电(记者 刘育英)“山海万象·中马沉浸视听交流展”闭幕式暨“中马数字文化论坛”于8月24日在马来西亚吉隆坡举办。展览运用沉浸影像、虚拟现实、人工智能、交互装置等多元数字艺术形式，围绕山水海洋、文化记忆、自然生态与数字技术开展多维度艺术探索。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684184.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:59:29.000Z"
+    },
+    {
+      "id": "9adf75138c7e",
+      "title": "多国科创企业共聚香港 聚焦AI向善推动全球合作",
+      "summary": "中新社香港8月25日电 (张语洽 刘玥晴)第二届GIS全球创新展暨全球创新峰会25日在香港开幕。展会汇聚来自中国内地、香港和澳门，以及欧洲、美国、日本、新加坡、澳大利亚等国家和地区的科技企业，聚焦推动全球创科合作、助力人工智能(AI)向善发展。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-25/10684186.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:58:39.000Z"
+    },
+    {
+      "id": "75d9d011aa04",
+      "title": "向失职失责“亮剑” 为美丽中国“护航”——中央组织部负责人就修订颁布《党政领导干部生态环境损害责任追究办法》答记者问",
+      "summary": "新华社北京8月25日电 近日，中共中央办公厅印发新修订的《党政领导干部生态环境损害责任追究办法》(以下简称《办法》)。日前，中央组织部负责人就《办法》修订和贯彻实施等问题回答了记者提问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684191.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:58:31.000Z"
+    },
+    {
+      "id": "3f89203604ed",
+      "title": "上海冀“十五五”期间新增认定跨国公司地区总部数量逾300家",
+      "summary": "中新社上海8月25日电 上海市政府25日发布的《上海市加快国际贸易中心建设“十五五”规划》提出，“十五五”期间，上海将新增认定跨国公司地区总部数量达300家以上。上海将优化升级支持总部经济发展政策，支持总部集聚研发创新、财资管理、投资决策、供应链管理等多项功能，升级成为亚太区总部、事业部全球总部。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684185.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:57:19.000Z"
+    },
+    {
+      "id": "c3ed65f79cb9",
+      "title": "湛江海事部门严阵以待防御台风“紫檀”",
+      "summary": "中新网湛江8月25日电 (梁盛 谢晓琳)为防范台风“紫檀”带来的海上交通安全风险，湛江海事局从25日16时起，全域启动防热带气旋二级应急响应，针对不同吨位船舶实施差异化管控。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684183.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:56:13.000Z"
+    },
+    {
+      "id": "72262683859c",
+      "title": "中越边境广西宁明爱店口岸恢复通关",
+      "summary": "中新网广西崇左8月25日电 (黄令妍)8月25日8时30分起，位于中越边境广西崇左市宁明县的爱店口岸恢复通关服务。记者当天在口岸看到，双向四条出入境货运通道上，满载越南榴莲、中国电子产品等货物的货车顺畅通行。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684182.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:55:27.000Z"
+    },
     {
       "id": "c0efdf3a229e",
       "title": "“香港动能”主题巡展天津启幕 冀拓津港合作新空间",
@@ -100,16 +300,6 @@
       "publishedAt": "2026-08-25T13:41:22.000Z"
     },
     {
-      "id": "937e32d862d4",
-      "title": "Reader Q&A: international correspondent Luke Harding answers your questions now",
-      "summary": "The Guardian’s Luke Harding is live now replying to your questions – from his new book on Trump and Putin to the state of the war in Ukraine, his explusion from Russia and his ca…",
-      "url": "https://www.theguardian.com/theguardian/live/2026/aug/25/reader-q-and-a-ask-guardian-foreign-correspondant-author-luke-harding-a-question",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T13:41:03.000Z"
-    },
-    {
       "id": "cdbb1736fff1",
       "title": "台风“紫檀”或二次登陆广东雷州半岛",
       "summary": "中新网广州8月25日电 (记者 王坚)台风“紫檀”在25日18时40分前后登陆海南省昌江县。广东气象部门表示，“紫檀”或将二次登陆广东雷州半岛。",
@@ -128,16 +318,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-25T13:40:44.000Z"
-    },
-    {
-      "id": "3c7c1d15c5fa",
-      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
-      "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies, as Kremlin accuses Burnham of wanting to continue war Burnham plans trip to New York as Ukraine ple…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T13:38:17.000Z"
     },
     {
       "id": "fc5973a196bb",
@@ -200,136 +380,6 @@
       "publishedAt": "2026-08-25T13:30:31.000Z"
     },
     {
-      "id": "d9625c345cbf",
-      "title": "内蒙古兴和县突发山洪 一车辆被冲走致4死1失联",
-      "summary": "中新网乌兰察布8月25日电 (记者 张林虎)25日，记者从内蒙古自治区乌兰察布市相关部门获悉，兴和县因降雨引发山洪，一辆汽车被洪水冲走，目前造成4人遇难、1人失联，当地正全力展开搜救。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684151.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:29:49.000Z"
-    },
-    {
-      "id": "f6fb3e8a7528",
-      "title": "西吉沙沟乡：水培蔬菜搭上冷链快车 直供江浙沪市场",
-      "summary": "中新网宁夏西吉8月25日电 题：西吉沙沟乡：水培蔬菜搭上冷链快车 直供江浙沪市场",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684169.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:29:47.000Z"
-    },
-    {
-      "id": "a4f433ba74e7",
-      "title": "北京援疆重点项目新疆和田学院二期正式交付",
-      "summary": "中新网乌鲁木齐8月25日电 (张家伟 卢瑛)北京援疆历史上单项投资额和建筑规模最大的重点工程——新疆和田学院二期建设项目，25日正式交付。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684146.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:28:55.000Z"
-    },
-    {
-      "id": "e17f1fae682f",
-      "title": "王东明出席“促进建设和平与繁荣的亚洲命运共同体”对话大会",
-      "summary": "中新网北京8月25日电 (余湛奕 马帅莎 刘纪)“促进建设和平与繁荣的亚洲命运共同体”对话大会25日在北京举办。全国人大常委会副委员长王东明出席开幕式并发表主旨讲话。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684130.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:28:15.000Z"
-    },
-    {
-      "id": "cb0c3cc1478a",
-      "title": "应急管理部针对山西、内蒙古、青海启动国家地质灾害四级应急响应",
-      "summary": "中新社北京8月25日电 记者25日从中国应急管理部获悉，该部针对山西、内蒙古、青海启动国家地质灾害四级应急响应。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684163.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:27:31.000Z"
-    },
-    {
-      "id": "cac42302a431",
-      "title": "中国官方：今年经济呈现动能向新、结构向优的发展态势",
-      "summary": "中新社北京8月25日电 (记者 郭超凯)中国国家发展和改革委员会副主任王昌林25日在北京说，今年以来，经济运行总体平稳、稳中有进，呈现动能向新、结构向优的发展态势。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684164.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:27:09.000Z"
-    },
-    {
-      "id": "d21955f94691",
-      "title": "商务部：中国在共建“一带一路”国家设立境外企业2.2万家",
-      "summary": "中新社北京8月25日电 (记者 刘文文)中国商务部新闻发言人、副部长兼国际贸易谈判副代表凌激25日在北京表示，中国在共建“一带一路”国家设立境外企业2.2万家。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684136.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:26:29.000Z"
-    },
-    {
-      "id": "5d78bda4aa59",
-      "title": "“TIR+跨境电商”开辟绥芬河向北开放新通道",
-      "summary": "中新网绥芬河8月25日电 (史轶夫 田晓慧)伴随着车辆引擎轰鸣，10台满载服饰、百货等物品的TIR运输车辆，从绥芬河国际贸易跨境运输集结中心缓缓驶出，直达俄罗斯莫斯科等欧洲腹地。25日，该集结中心正式首发启航，为这座边境口岸进一步织密共建“一带一路”跨境立体互联互通网络，开辟出跨境物流全新路径。",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-25/10684148.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:24:49.000Z"
-    },
-    {
-      "id": "57fb8a31d27e",
-      "title": "我国在建里程最长海上钢栈桥全线贯通",
-      "summary": "中新网大连8月25日电 (记者 杨毅)全长11.6公里的海上超长钢栈桥25日在辽宁大连实现全线贯通，该栈桥为目前国内在建里程最长的海上钢栈桥。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684150.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:24:23.000Z"
-    },
-    {
-      "id": "708329f39024",
-      "title": "江南古典园林夜色美 亭台楼阁引客来",
-      "summary": "8月25日夜，江苏南京，游客在静谧雅致的瞻园内参观。中新社记者 泱波 摄 8月25日夜，江苏南京，演员带领游客在静谧雅致的瞻园内参观。中新社记者 泱波 摄 8月25日夜，江苏南京，演员在瞻园内的亭台楼阁间表演舞蹈。中新社记者 泱波 摄 8月25日夜，江苏南京，演员在瞻园内的假山上表演舞蹈。中新社记者 泱波 摄 8月25日夜，江苏南京，演员在瞻园内的亭台楼…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-25/10684161.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:24:03.000Z"
-    },
-    {
-      "id": "48223042fa3a",
-      "title": "甘肃“数据工场”让千行百业共享红利",
-      "summary": "中新网兰州8月25日电 (刘薛梅)今年是国家数据局确定的“数据要素价值释放年”。甘肃省政府办公厅副主任、省数据局副局长刘灿林25日表示，依托国家数据基础设施(甘肃)区域功能节点，已建成甘肃省公共数据资源登记平台和授权运营平台，形成数据资源登记的“存证-管理-公示-赋码-发证”全链路闭环，为全省公共数据资源开发利用筑牢基础底座。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684153.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:23:59.000Z"
-    },
-    {
-      "id": "31d86c9bafce",
-      "title": "香港教大自研AI学习平台提升学生学习效能",
-      "summary": "中新网香港8月25日电 香港教育大学(简称“教大”)25日公布其自主研发的人工智能(AI)学习平台落地成效，首阶段结果显示，该平台通过因材施教的练习与评估模式，不仅大幅提升学生的学习自主性，更显著改善其学业表现。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-25/10684168.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:23:39.000Z"
-    },
-    {
-      "id": "68f3a69254e9",
-      "title": "第二十六届投洽会9月举行 已有123个国家和地区代表团报名参加",
-      "summary": "中新社北京8月25日电 (记者 刘文文)第二十六届中国国际投资贸易洽谈会(简称“投洽会”)将于9月8日到11日在福建省厦门市举行，目前已有123个国家和地区的代表团报名参加。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684158.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:22:59.000Z"
-    },
-    {
       "id": "af0dc6cd18aa",
       "title": "‘An enchanting oasis’: Venetian island with Napoleonic fort up for sale",
       "summary": "Smaller than a football pitch, Crevan has a rich history – but how rich its buyer needs to be is strictly under wraps An island in the Venice lagoon boasting a Napoleonic fort an…",
@@ -338,46 +388,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T13:21:18.000Z"
-    },
-    {
-      "id": "59881c5ac78f",
-      "title": "东西问丨孙雷：家文化如何以文明互鉴搭建时代育人桥梁？",
-      "summary": "中新社沈阳8月25日电 题：家文化如何以文明互鉴搭建时代育人桥梁？",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684135.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:19:55.000Z"
-    },
-    {
-      "id": "ba0f3d713155",
-      "title": "8月25日新闻夜读",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-25/10684162.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:17:54.000Z"
-    },
-    {
-      "id": "2212ddb06b06",
-      "title": "2026宁夏民营企业百强榜单于石嘴山发布 民企方阵实力稳步攀升",
-      "summary": "中新网石嘴山8月25日电 (记者 于晶)8月25日，2026宁夏民营企业100强发布会暨宁夏优强民营企业助推石嘴山高质量发展大会在石嘴山市召开，现场正式揭晓“2026宁夏民营企业100强榜单”与“2026宁夏制造业民营企业100强榜单”，宁夏天元锰业集团有限公司、宁夏宝丰集团有限公司、宁夏宁鲁石化有限公司登上民营企业百强榜单前三席位。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684156.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:17:32.000Z"
-    },
-    {
-      "id": "ece549ca8947",
-      "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters – business live",
-      "summary": "Spot gold touches almost $4,700 an ounce and Bitcoin tops $80,000 while oil prices fall despite threat of heavy US sanctions on Iran and any country trading with it The US car pa…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-25T13:07:00.000Z"
     },
     {
       "id": "3e090cdaf875",
@@ -468,16 +478,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T09:54:38.000Z"
-    },
-    {
-      "id": "b3ad4cde8512",
-      "title": "Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine",
-      "summary": "Bradley Townsend reportedly killed by a drone on 10 June in Donetsk region after joining up with separatists Europe live – latest updates A man from South Yorkshire is believed t…",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/25/yorkshireman-briton-die-fighting-russia-ukraine",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T09:51:23.000Z"
     },
     {
       "id": "806210cffc4e",
