@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T13:04:08.093Z",
+  "updatedAt": "2026-08-25T13:58:17.933Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,76 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "c0efdf3a229e",
+      "title": "“香港动能”主题巡展天津启幕 冀拓津港合作新空间",
+      "summary": "中新网天津8月25日电 (记者 周亚强)香港特别行政区政府驻北京办事处主任姚继卓25日在天津表示，天津与香港同属国家区域协调发展和高水平对外开放的关键节点，津港合作根基深厚，期待两地共同把握“十五五”新机遇。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684181.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:51:54.000Z"
+    },
+    {
+      "id": "55fd4ea048cd",
+      "title": "浙江制造业深度拥抱人工智能 加快推进体系化落地",
+      "summary": "中新网绍兴8月25日电(蓝伊旎)8月25日，浙江省“十链百场万企”系列对接活动之“AI+制造”专场在浙江杭州举办。人工智能服务商、制造业企业面对面对接，共同推动AI与制造业深度融合。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684180.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:48:12.000Z"
+    },
+    {
+      "id": "c3bcfe4d87cc",
+      "title": "张荣恭冀两岸青年在振兴中华过程中相向而行",
+      "summary": "中新社上海8月25日电 (记者 缪璐 陈建新)“同心同行——两岸青年交流季上海站”活动25日举行。中国国民党副主席张荣恭致辞时表示，两岸青年要加强交流合作，在振兴中华的过程中相向而行，创造辉煌共好的中华时代。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684173.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:43:30.000Z"
+    },
+    {
+      "id": "1f94e61588e3",
+      "title": "第六届亚洲两栖爬行动物学大会在成都举行",
+      "summary": "中新网成都8月25日电 (王利文 罗梅歌)第六届亚洲两栖爬行动物学大会暨《亚洲两栖爬行动物研究》(AHR)编委会会议22日至25日在成都举行。来自中国、俄罗斯、法国、加拿大、意大利、日本等国家的120余位专家学者参会，围绕两栖爬行动物多样性、系统进化与保护等议题深入交流。",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-25/10684179.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:42:00.000Z"
+    },
+    {
+      "id": "2691aa3f8dc2",
+      "title": "航天垂直大模型“华山”健康管理模块完成星上在轨实测验证",
+      "summary": "中新网北京8月25日电 (刘书睿 张素)自7月24日随“辰光一号”技术试验卫星入轨以来，航天垂直大模型“华山”健康管理模块在轨运行已满一个月，完成星上人工智能全流程在轨实战验证。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684178.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:41:44.000Z"
+    },
+    {
+      "id": "a516fd8d044b",
+      "title": "I dug through hundreds of Labor Day sales to find real deals on high-quality products that last",
+      "summary": "Prepare for autumn with our favorite end-of-season deals on staples including leaf blowers, blankets and bedding College grads share the room essentials that weathered the dorm S…",
+      "url": "https://www.theguardian.com/thefilter-us/2026/aug/24/best-labor-day-sales-deals",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-25T13:41:41.000Z"
+    },
+    {
+      "id": "2e71db800f76",
+      "title": "（长征胜利90周年）探访四川阿坝神座村朱德旧居：藏寨回响长征记忆",
+      "summary": "中新网阿坝8月25日电 题：探访四川阿坝神座村朱德旧居：藏寨回响长征记忆",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684176.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:41:22.000Z"
+    },
+    {
       "id": "937e32d862d4",
       "title": "Reader Q&A: international correspondent Luke Harding answers your questions now",
       "summary": "The Guardian’s Luke Harding is live now replying to your questions – from his new book on Trump and Putin to the state of the war in Ukraine, his explusion from Russia and his ca…",
@@ -37,17 +107,27 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-25T12:58:00.000Z"
+      "publishedAt": "2026-08-25T13:41:03.000Z"
     },
     {
-      "id": "0fafc3227ce4",
-      "title": "“AI+康复” 科技赋能让残疾人生活更无“碍”",
-      "summary": "今天(8月25日)，是第十个全国残疾预防日，今年的活动主题为“实施残疾预防行动 共建共享健康中国”。推动优质医疗康复资源延伸到基层，是补齐残疾康复服务短板，落实残疾预防的重要路径。如何让更多残疾人在家门口就能享受到专业便捷的康复服务？这几年，四川成都不断推进社区智能化康复中心建设，打通康复服务“最后一公里”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684133.shtml",
+      "id": "cdbb1736fff1",
+      "title": "台风“紫檀”或二次登陆广东雷州半岛",
+      "summary": "中新网广州8月25日电 (记者 王坚)台风“紫檀”在25日18时40分前后登陆海南省昌江县。广东气象部门表示，“紫檀”或将二次登陆广东雷州半岛。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684174.shtml",
       "source": "中国新闻网",
-      "category": "AI",
+      "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:57:15.000Z"
+      "publishedAt": "2026-08-25T13:40:52.000Z"
+    },
+    {
+      "id": "d579670f1a3a",
+      "title": "天工机器人百米竞速跑出8.86秒 再创纪录",
+      "summary": "中新网北京8月25日电 (记者 吕少威 陈杭 徐婧)第二届世界人形机器人运动会正在北京进行中。在25日举行的100米大型组复赛中，第一组成绩再次刷新纪录。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684177.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:40:44.000Z"
     },
     {
       "id": "3c7c1d15c5fa",
@@ -57,207 +137,247 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-25T12:56:07.000Z"
+      "publishedAt": "2026-08-25T13:38:17.000Z"
     },
     {
-      "id": "965d6d55d4e3",
-      "title": "台风“紫檀”“沙德尔”接连来袭 多地将迎来强风雨",
-      "summary": "最近一段时间，多个台风同时活跃，给华东、华南多地带来降雨。目前，“简拉维”和“艾莎尼”已停止编号，今年第18号台风“沙德尔”和第19号台风 “紫檀”仍在海上活动。未来它们将如何发展？移动路径如何？哪些地方将承接强风雨？",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684132.shtml",
+      "id": "fc5973a196bb",
+      "title": "陈文清会见越南最高人民法院院长阮文广",
+      "summary": "新华社北京8月25日电 中共中央政治局委员、中央政法委书记陈文清25日在京会见越共中央书记处书记、越南最高人民法院院长阮文广。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684175.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:55:53.000Z"
+      "publishedAt": "2026-08-25T13:34:27.000Z"
     },
     {
-      "id": "e0e1b6bdfd02",
-      "title": "中国经济怎么看、怎么干？人民日报连发4篇钟才文文章",
-      "summary": "今年上半年",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684129.shtml",
+      "id": "ef427c726f60",
+      "title": "甘肃加快“碳足迹”管理体系建设",
+      "summary": "中新网兰州8月25日电 (记者 冯志军)当归、黄芪、马铃薯种业、油橄榄等4项农特产品碳足迹量化方法已纳入地方标准立项计划，金川集团电积钴等15个镍钴系列产品、张掖市8个农产品完成碳足迹核算与认证……今年以来，甘肃加快推进碳足迹管理体系建设。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684172.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:53:57.000Z"
+      "publishedAt": "2026-08-25T13:33:23.000Z"
     },
     {
-      "id": "c652ddda77dd",
-      "title": "福建莆田提升防暴雨应急响应至Ⅱ级 边检民警全力保障口岸安全",
-      "summary": "中新网莆田8月25日电 (叶秋云 林孟)受季风槽和台风“简拉维”影响，连日来，福建莆田市遭遇连续降雨，部分地区累积雨量大，下垫面土壤饱和，中小河流出现明显涨水，叠加后续降雨，致灾风险极大。福建莆田市气象台于25日15时30分升级发布“暴雨预警Ⅰ级”，莆田市防汛抗旱指挥部同步将防暴雨应急响应提升至Ⅱ级。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684120.shtml",
+      "id": "2e62be4fe254",
+      "title": "台风“沙德尔”逼近 福建沿海22条客渡运航线停运",
+      "summary": "中新社福州8月25日电 (记者 闫旭)今年第18号台风“沙德尔”(强台风级)25日下午已移入福建省热带气旋警戒区。据中央气象台预计，“沙德尔”将于27日夜间至28日上午在浙江象山到福建福清一带沿海登陆。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684170.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:50:22.000Z"
+      "publishedAt": "2026-08-25T13:33:07.000Z"
     },
     {
-      "id": "aa513f54e349",
-      "title": "呼和浩特市本级财政科技投入拟2年增至4倍",
-      "summary": "中新网呼和浩特8月25日电 (记者 刘文华)呼和浩特市促进科技创新与产业创新深度融合大会25日召开。会上印发的相关措施提出，以2025年市本级财政科技投入为基数，2026年翻一番，2027年再翻一番。按此计算，2027年投入规模将是2025年的4倍。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684116.shtml",
+      "id": "7c148b6549ad",
+      "title": "浙江义乌春节用品超前开启“羊年模式”",
+      "summary": "中新社浙江义乌8月25日电 (董易鑫 陈蓓蓓)“今年客户采购羊年春节用品的节奏比往年快。这个月，我们已经交付了首批海外订单。”8月25日，主营年画产品的浙江义乌商户王子说。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684171.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:49:58.000Z"
+      "publishedAt": "2026-08-25T13:32:03.000Z"
     },
     {
-      "id": "3ee000d903a0",
-      "title": "内蒙古自治区妇女第十三次代表大会在呼和浩特召开",
-      "summary": "中新网呼和浩特8月25日电 (崔博群 赵晓雨)25日，内蒙古自治区妇女第十三次代表大会在内蒙古自治区呼和浩特市开幕。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684117.shtml",
+      "id": "68a9a6679916",
+      "title": "中式书香门第主题“南方列车”试运营 铁路文旅漫行阅古今",
+      "summary": "中新网长沙8月25日电 (付敬懿 杨一苗)全国首列中式书香门第主题品质旅游列车——“南方列车·白云号”25日试运营，项目由湖南文体旅产业集团有限公司联合广州白云产业投资集团有限公司，与中国铁路广州局集团有限公司合力打造，以文化IP赋能、高端服务提质、跨域联动增效，重塑铁路文旅价值。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684166.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:49:50.000Z"
+      "publishedAt": "2026-08-25T13:31:25.000Z"
     },
     {
-      "id": "a4338f04388a",
-      "title": "（长江十年行）一河贯古今：千年大运河的活态重生",
-      "summary": "中新网杭州8月25日电(林波 孙琳茹)乘坐水上巴士，自杭州武林门码头顺运河缓缓北行，船行碧波之上，人游画卷之中。拱宸桥石拱横波，货船徐徐穿行河道，桥西历史街区白墙黛瓦连绵，博物馆群沿水岸铺展。往来游船与货运船舶交错，古老水工遗存与现代城市风光彼此辉映，千年大运河的烟火与文脉，就在这流淌的水波之中徐徐铺陈开来。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684099.shtml",
+      "id": "aa8050d548a7",
+      "title": "重返毛乌素，“赛考斯”带走一罐沙、留下新的树",
+      "summary": "中新社内蒙古鄂尔多斯8月25日电 题：重返毛乌素，“赛考斯”带走一罐沙、留下新的树",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684165.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:49:16.000Z"
+      "publishedAt": "2026-08-25T13:30:31.000Z"
     },
     {
-      "id": "97498c1fcb92",
-      "title": "四川德格：草原骏马奔腾“岭·格萨尔王”音乐季开幕",
-      "summary": "中新网甘孜8月25日电 (刘忠俊 王磊)8月25日，四川甘孜州德格县赛马场上骏马嘶鸣、彩烟升腾，“我和草原有个约定”暨第三届“岭·格萨尔王”音乐季系列活动开幕。本次活动以铸牢中华民族共同体意识为主线，围绕“我和草原有个约定”主题展开。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684114.shtml",
+      "id": "d9625c345cbf",
+      "title": "内蒙古兴和县突发山洪 一车辆被冲走致4死1失联",
+      "summary": "中新网乌兰察布8月25日电 (记者 张林虎)25日，记者从内蒙古自治区乌兰察布市相关部门获悉，兴和县因降雨引发山洪，一辆汽车被洪水冲走，目前造成4人遇难、1人失联，当地正全力展开搜救。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684151.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:48:44.000Z"
+      "publishedAt": "2026-08-25T13:29:49.000Z"
     },
     {
-      "id": "082e429655e9",
-      "title": "探访老年助餐点：一餐热饭托举幸福晚年",
-      "summary": "中新网武汉8月25日电 题：探访老年助餐点：一餐热饭托举幸福晚年",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684110.shtml",
+      "id": "f6fb3e8a7528",
+      "title": "西吉沙沟乡：水培蔬菜搭上冷链快车 直供江浙沪市场",
+      "summary": "中新网宁夏西吉8月25日电 题：西吉沙沟乡：水培蔬菜搭上冷链快车 直供江浙沪市场",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684169.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:48:36.000Z"
+      "publishedAt": "2026-08-25T13:29:47.000Z"
     },
     {
-      "id": "2f56024bf1a4",
-      "title": "内纳德·亚科夫列维奇出任广东男篮主教练",
-      "summary": "中新网东莞8月25日电 (记者 张璐)据“广东宏远篮球俱乐部”25日晚消息，经俱乐部研究决定，内纳德·亚科夫列维奇(Nenad Jakovljevi#263;)将正式出任球队主教练，何塞普·玛丽亚·贝罗卡尔(Josep Maria Berrocal)任助理教练，乔纳森·汤普森(Jonathan Thompson)任球员发展教练。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-25/10684113.shtml",
+      "id": "a4f433ba74e7",
+      "title": "北京援疆重点项目新疆和田学院二期正式交付",
+      "summary": "中新网乌鲁木齐8月25日电 (张家伟 卢瑛)北京援疆历史上单项投资额和建筑规模最大的重点工程——新疆和田学院二期建设项目，25日正式交付。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684146.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:48:24.000Z"
+      "publishedAt": "2026-08-25T13:28:55.000Z"
     },
     {
-      "id": "62d97c4074de",
-      "title": "聚焦艺术赋能乡村振兴 第四届全国乡村艺术建设研讨会举办",
-      "summary": "中新网呼和浩特8月25日电 聚焦艺术赋能乡村振兴，“第四届全国乡村艺术建设研讨会”日前于呼和浩特同步开启六场专题研讨会。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684112.shtml",
+      "id": "e17f1fae682f",
+      "title": "王东明出席“促进建设和平与繁荣的亚洲命运共同体”对话大会",
+      "summary": "中新网北京8月25日电 (余湛奕 马帅莎 刘纪)“促进建设和平与繁荣的亚洲命运共同体”对话大会25日在北京举办。全国人大常委会副委员长王东明出席开幕式并发表主旨讲话。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684130.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:48:16.000Z"
+      "publishedAt": "2026-08-25T13:28:15.000Z"
     },
     {
-      "id": "04c238cb8bd3",
-      "title": "浙江诸永改扩建首个收费站投用 助力区域交通提速",
-      "summary": "中新网绍兴8月25日电(蓝伊旎 华晟 成江喜)25日，随着最后一组隔离墩移开，历经121天全封闭集约化施工的浙江交通集团诸永高速改扩建项目诸暨北收费站杭州方向上下匝道，正式恢复通行。作为该项目首个完成改造的收费站，其顺利通车也标志着诸永改扩建工程收费站改造取得阶段性突破。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684111.shtml",
+      "id": "cb0c3cc1478a",
+      "title": "应急管理部针对山西、内蒙古、青海启动国家地质灾害四级应急响应",
+      "summary": "中新社北京8月25日电 记者25日从中国应急管理部获悉，该部针对山西、内蒙古、青海启动国家地质灾害四级应急响应。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684163.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:48:10.000Z"
+      "publishedAt": "2026-08-25T13:27:31.000Z"
     },
     {
-      "id": "2ba1d6739d11",
-      "title": "学习快评丨树立和践行正确政绩观必须久久为功",
-      "summary": "“树立和践行正确政绩观是一项长期任务，必须久久为功”。习近平总书记近日就树立和践行正确政绩观学习教育作出重要指示，为不断巩固拓展学习教育成果，持续推动各级党组织和广大党员、干部立党为公、为民造福、科学决策、真抓实干指明了前进方向、提供了重要遵循。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684119.shtml",
+      "id": "cac42302a431",
+      "title": "中国官方：今年经济呈现动能向新、结构向优的发展态势",
+      "summary": "中新社北京8月25日电 (记者 郭超凯)中国国家发展和改革委员会副主任王昌林25日在北京说，今年以来，经济运行总体平稳、稳中有进，呈现动能向新、结构向优的发展态势。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684164.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:46:40.000Z"
+      "publishedAt": "2026-08-25T13:27:09.000Z"
     },
     {
-      "id": "4c0d5f1702fd",
-      "title": "“早苗经济学”救不了日本经济的“漏水船”｜真相",
-      "summary": "据日本共同社报道，多家日本媒体的民调显示，高市内阁的支持率下滑趋势明显。日本舆论认为，这一变化不仅与物价上涨、消费疲软等经济民生问题有关，也与高市早苗政府在扩充防卫力量、推动修宪等议题上的政策取向密切相关。经济压力与政治争议相互叠加，正在削弱高市政府上台初期积累的民意基础。",
-      "url": "https://www.chinanews.com.cn/chuangyi/2026/08-25/10684108.shtml",
+      "id": "d21955f94691",
+      "title": "商务部：中国在共建“一带一路”国家设立境外企业2.2万家",
+      "summary": "中新社北京8月25日电 (记者 刘文文)中国商务部新闻发言人、副部长兼国际贸易谈判副代表凌激25日在北京表示，中国在共建“一带一路”国家设立境外企业2.2万家。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684136.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:43:58.000Z"
+      "publishedAt": "2026-08-25T13:26:29.000Z"
     },
     {
-      "id": "07ef50160df2",
-      "title": "国家艺术基金2026年度“美术类图书策划和编辑人才培训”项目在京开班",
-      "summary": "中新网北京8月25日电 (记者 应妮)国家艺术基金2026年度艺术人才培训资助项目“美术类图书策划和编辑人才培训”开班仪式日前在京举行。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684105.shtml",
+      "id": "5d78bda4aa59",
+      "title": "“TIR+跨境电商”开辟绥芬河向北开放新通道",
+      "summary": "中新网绥芬河8月25日电 (史轶夫 田晓慧)伴随着车辆引擎轰鸣，10台满载服饰、百货等物品的TIR运输车辆，从绥芬河国际贸易跨境运输集结中心缓缓驶出，直达俄罗斯莫斯科等欧洲腹地。25日，该集结中心正式首发启航，为这座边境口岸进一步织密共建“一带一路”跨境立体互联互通网络，开辟出跨境物流全新路径。",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-25/10684148.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:41:06.000Z"
+      "publishedAt": "2026-08-25T13:24:49.000Z"
     },
     {
-      "id": "79ddc83fd408",
-      "title": "《吉林省民族团结进步促进条例》9月1日起施行",
-      "summary": "中新网长春8月25日电 (谭伟旗 金乔)25日，吉林省人大常委会召开《吉林省民族团结进步促进条例》(以下简称《条例》)新闻发布会，解读《条例》有关情况。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-25/10684092.shtml",
+      "id": "57fb8a31d27e",
+      "title": "我国在建里程最长海上钢栈桥全线贯通",
+      "summary": "中新网大连8月25日电 (记者 杨毅)全长11.6公里的海上超长钢栈桥25日在辽宁大连实现全线贯通，该栈桥为目前国内在建里程最长的海上钢栈桥。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684150.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:40:18.000Z"
+      "publishedAt": "2026-08-25T13:24:23.000Z"
     },
     {
-      "id": "eb5a6ed03177",
-      "title": "西藏洛隆：传统中（藏）医特色疗法赋能基层医疗 援藏提质守护高原健康",
-      "summary": "中新网昌都8月25日电 (贡嘎来松)24日，走进西藏自治区昌都市洛隆县藏医院，传统中(藏)医药特色疗法与现代化西医诊疗服务有序融合开展。该院前身为洛隆县人民医院藏医科，2018年正式独立挂牌，是当地唯一公立民族医疗机构。医院立足中(藏)医药特色资源优势，结合现代西医诊疗技术，构建中西医、中(藏)医互补融合的诊疗模式，全方位守护当地群众身心健康。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-25/10684095.shtml",
+      "id": "708329f39024",
+      "title": "江南古典园林夜色美 亭台楼阁引客来",
+      "summary": "8月25日夜，江苏南京，游客在静谧雅致的瞻园内参观。中新社记者 泱波 摄 8月25日夜，江苏南京，演员带领游客在静谧雅致的瞻园内参观。中新社记者 泱波 摄 8月25日夜，江苏南京，演员在瞻园内的亭台楼阁间表演舞蹈。中新社记者 泱波 摄 8月25日夜，江苏南京，演员在瞻园内的假山上表演舞蹈。中新社记者 泱波 摄 8月25日夜，江苏南京，演员在瞻园内的亭台楼…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-25/10684161.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:39:36.000Z"
+      "publishedAt": "2026-08-25T13:24:03.000Z"
     },
     {
-      "id": "be4219dcc95b",
-      "title": "湖南省农村产权交易中心揭牌 9月起“三资”交易“应进必进”",
-      "summary": "中新网长沙8月25日电 (记者 刘双双)8月25日，湖南省农村产权交易中心揭牌，省级农村产权交易平台同步正式上线，标志着湖南农村产权交易市场体系建设进入省级统筹、数字赋能、规范运营的新阶段。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684100.shtml",
+      "id": "48223042fa3a",
+      "title": "甘肃“数据工场”让千行百业共享红利",
+      "summary": "中新网兰州8月25日电 (刘薛梅)今年是国家数据局确定的“数据要素价值释放年”。甘肃省政府办公厅副主任、省数据局副局长刘灿林25日表示，依托国家数据基础设施(甘肃)区域功能节点，已建成甘肃省公共数据资源登记平台和授权运营平台，形成数据资源登记的“存证-管理-公示-赋码-发证”全链路闭环，为全省公共数据资源开发利用筑牢基础底座。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684153.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:39:04.000Z"
+      "publishedAt": "2026-08-25T13:23:59.000Z"
     },
     {
-      "id": "4ff643a1f845",
-      "title": "当代艺术群展“和光同尘”呈现六位中坚艺术家的多元媒介作品",
-      "summary": "中新网江门8月25日电 当代艺术群展“和光同尘”日前亮相广东江门的贤美术馆。该展由贤美术馆执行馆长韩春阳策展，集结国内六位中坚当代艺术家，呈现水墨、绘画、影像、玻璃、装置等多元媒介作品。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684101.shtml",
+      "id": "31d86c9bafce",
+      "title": "香港教大自研AI学习平台提升学生学习效能",
+      "summary": "中新网香港8月25日电 香港教育大学(简称“教大”)25日公布其自主研发的人工智能(AI)学习平台落地成效，首阶段结果显示，该平台通过因材施教的练习与评估模式，不仅大幅提升学生的学习自主性，更显著改善其学业表现。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-25/10684168.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:23:39.000Z"
+    },
+    {
+      "id": "68f3a69254e9",
+      "title": "第二十六届投洽会9月举行 已有123个国家和地区代表团报名参加",
+      "summary": "中新社北京8月25日电 (记者 刘文文)第二十六届中国国际投资贸易洽谈会(简称“投洽会”)将于9月8日到11日在福建省厦门市举行，目前已有123个国家和地区的代表团报名参加。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684158.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:38:54.000Z"
+      "publishedAt": "2026-08-25T13:22:59.000Z"
     },
     {
-      "id": "08816b004c30",
-      "title": "深圳西丽高铁枢纽建设迎新进展 既有地铁线间施工获突破",
-      "summary": "中新网深圳8月25日电 (记者 王坚)据深圳西丽高铁枢纽建设项目25日消息，深圳西丽站3标项目既有地铁13号线119根线间工程桩施工近日全部完成。桩基施工在不影响地铁正常运营的前提下，攻克高密度运营地铁邻近施工难题，为后续西丽枢纽国铁站房主体工程施工奠定基础。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684102.shtml",
+      "id": "af0dc6cd18aa",
+      "title": "‘An enchanting oasis’: Venetian island with Napoleonic fort up for sale",
+      "summary": "Smaller than a football pitch, Crevan has a rich history – but how rich its buyer needs to be is strictly under wraps An island in the Venice lagoon boasting a Napoleonic fort an…",
+      "url": "https://www.theguardian.com/world/2026/aug/25/crevan-island-venice-napoleonic-fort",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T13:21:18.000Z"
+    },
+    {
+      "id": "59881c5ac78f",
+      "title": "东西问丨孙雷：家文化如何以文明互鉴搭建时代育人桥梁？",
+      "summary": "中新社沈阳8月25日电 题：家文化如何以文明互鉴搭建时代育人桥梁？",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684135.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:38:46.000Z"
+      "publishedAt": "2026-08-25T13:19:55.000Z"
     },
     {
-      "id": "46ed4c26427f",
-      "title": "《荔湾简史》新书发布会在广州举行",
-      "summary": "中新网广州8月25日电 (记者 孙秋霞)《荔湾简史》新书发布会25日在广州粤剧艺术博物馆举行，该书不仅填补荔湾区系统性通史研究空白，而且为读懂广州城市发展脉络提供重要学术参照。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684096.shtml",
+      "id": "ba0f3d713155",
+      "title": "8月25日新闻夜读",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-25/10684162.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T12:38:22.000Z"
+      "publishedAt": "2026-08-25T13:17:54.000Z"
+    },
+    {
+      "id": "2212ddb06b06",
+      "title": "2026宁夏民营企业百强榜单于石嘴山发布 民企方阵实力稳步攀升",
+      "summary": "中新网石嘴山8月25日电 (记者 于晶)8月25日，2026宁夏民营企业100强发布会暨宁夏优强民营企业助推石嘴山高质量发展大会在石嘴山市召开，现场正式揭晓“2026宁夏民营企业100强榜单”与“2026宁夏制造业民营企业100强榜单”，宁夏天元锰业集团有限公司、宁夏宝丰集团有限公司、宁夏宁鲁石化有限公司登上民营企业百强榜单前三席位。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684156.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T13:17:32.000Z"
+    },
+    {
+      "id": "ece549ca8947",
+      "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters – business live",
+      "summary": "Spot gold touches almost $4,700 an ounce and Bitcoin tops $80,000 while oil prices fall despite threat of heavy US sanctions on Iran and any country trading with it The US car pa…",
+      "url": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-25T13:07:00.000Z"
     },
     {
       "id": "3e090cdaf875",
@@ -270,104 +390,14 @@
       "publishedAt": "2026-08-25T12:37:24.000Z"
     },
     {
-      "id": "dca94aed3045",
-      "title": "沈阳举办首届跨境电商职业（技能）创业大赛",
-      "summary": "中新网沈阳8月25日电 (记者 韩宏)沈阳市跨境电商公开课25日在沈阳开讲，标志着沈阳市首届跨境电商职业(技能)创业大赛正式拉开序幕。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684094.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T12:36:44.000Z"
-    },
-    {
-      "id": "a34368398e5d",
-      "title": "“高质量发展中国行·寻找最美国门名片”网评引导活动在上海启动",
-      "summary": "中新网上海8月25日电 8月24日，2026年“高质量发展中国行·寻找最美国门名片”网评引导活动启动仪式在上海市举行。中央网信办网络社会工作局、国家移民管理局干部人事司，以及上海出入境边防检查总站、上海市公安局出入境管理总队、中国互联网新闻中心等相关单位领导出席仪式并致辞。在现场30余位中央媒体记者、网络文明伙伴及移民管理机构优秀民警自媒体账号代表的见证…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684075.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T12:35:56.000Z"
-    },
-    {
-      "id": "1632872ef573",
-      "title": "2026年度中乌联合奥佐德墓地考古发掘工作启动",
-      "summary": "中新网西安8月25日电 (记者 阿琳娜)记者25日从丝绸之路考古合作研究中心获悉，中乌联合考古奥佐德墓地发掘项目日前正式开工，该项目由丝绸之路考古合作研究中心与乌兹别克斯坦撒马尔罕考古研究所合作实施。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684087.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T12:35:44.000Z"
-    },
-    {
-      "id": "e7f7240d3de9",
-      "title": "湖南整治工业产品低价冲击质量底线乱象 促进行业“拼品质”",
-      "summary": "中新网长沙8月25日电(向一鹏)针对重点工业产品质量监管情况，湖南省市场监督管理局25日召开新闻通气会表示，湖南压实平台与经营者主体责任，完善线上线下联动监管，整治低价内卷冲击质量底线乱象，推动行业从“拼低价”向“拼品质”转变。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684091.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T12:34:42.000Z"
-    },
-    {
-      "id": "24b5998e4762",
-      "title": "新疆青年企业家商会成立",
-      "summary": "中新网乌鲁木齐8月25日电 (王修元)25日，新疆青年企业家商会第一次会员大会在乌鲁木齐召开，大会宣布新疆青年企业家商会成立，第一届会员共计245名，覆盖新疆14个地州市。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684085.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T12:34:42.000Z"
-    },
-    {
-      "id": "6e3e7d09d903",
-      "title": "赶海、听涛、逐浪 海南临高打造文旅“四张名片”",
-      "summary": "中新网海口8月25日电 (张茜翼 王俞力)“赶海听涛，就来临高。”25日，在“开局起步‘十五五’”系列主题新闻发布会——临高县专场上，海南临高县以一句充满画面感的口号，向外界勾勒出一幅滨海小城向海图强、农文旅融合发展的新图景。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684090.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T12:34:30.000Z"
-    },
-    {
-      "id": "1bf70db94ae1",
-      "title": "西藏残疾人职业技能竞赛在拉萨开幕 91名选手角逐全国大赛入场券",
-      "summary": "中新网拉萨8月25日电 (记者 江飞波)以“技能照亮前程”为主题的第六届西藏自治区残疾人职业技能竞赛暨第八届全国残疾人职业技能大赛选拔赛，25日在拉萨开幕。赛事由西藏自治区残联、自治区人社厅联合主办，西藏自治区残疾人就业服务中心、自治区就业服务中心承办。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684077.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T12:32:18.000Z"
-    },
-    {
       "id": "d70daf21cdb6",
-      "title": "First Thing: Supreme court threatens midterms mail-in voting as it backs Trump plan",
-      "summary": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus why we are still fascinated with Meg from the White Stripes Don’t alre…",
+      "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
+      "summary": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White Stripes Don’t alr…",
       "url": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T12:31:53.000Z"
-    },
-    {
-      "id": "5c1194968528",
-      "title": "广州国际商业港首开区北地块挂牌",
-      "summary": "中新网广州8月25日电 (记者 蔡敏婕)广州国际商业港首开区北地块25日公开挂牌，标志着项目正式迈入落地筹备关键阶段，带动商贸业迭代升级、提质增效。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684082.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T12:31:45.000Z"
-    },
-    {
-      "id": "5b136ff10aa0",
-      "title": "上海有个来去丝滑的“国际会客厅”",
-      "summary": "中新网上海8月25日电(记者 袁秀月)传统意义上，人员跨境交流往往需要经过机场口岸、交通转场、城市通勤等多个环节，许多时间要花费在通关、出行上，尤其对于跨境商务合作来说，无疑增加了隐性成本。",
-      "url": "https://www.chinanews.com.cn/fz/2026/08-25/10684074.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T12:30:35.000Z"
     },
     {
       "id": "abd815a5b67b",
@@ -388,16 +418,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-25T11:43:14.000Z"
-    },
-    {
-      "id": "ece549ca8947",
-      "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters – business live",
-      "summary": "Spot gold touches almost $4,700 an ounce and Bitcoin tops $80,000 while oil prices fall despite threat of heavy US sanctions on Iran and any country trading with it The US car pa…",
-      "url": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-25T11:29:05.000Z"
     },
     {
       "id": "6df055c1da95",
@@ -488,16 +508,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-25T09:00:54.000Z"
-    },
-    {
-      "id": "f45f7d632956",
-      "title": "Heatwave health risks threaten insurer earnings, rating agency S&P warns",
-      "summary": "Rise in claims linked to heat-related deaths and illness, especially among older people, could drive up premiums Europe’s intense heatwaves could hit insurers’ earnings as compan…",
-      "url": "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
-      "source": "The Guardian World",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-08-25T08:52:08.000Z"
     },
     {
       "id": "16bf8d08a3c8",
@@ -708,16 +718,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-24T14:19:14.000Z"
-    },
-    {
-      "id": "a516fd8d044b",
-      "title": "I dug through hundreds of Labor Day sales to find real deals on high-quality products that last",
-      "summary": "Prepare for autumn with our favorite end-of-season deals on staples including leaf blowers, blankets and bedding College grads share the room essentials that weathered the dorm S…",
-      "url": "https://www.theguardian.com/thefilter-us/2026/aug/24/best-labor-day-sales-deals",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-24T14:15:35.000Z"
     },
     {
       "id": "e92e4fb7294a",
