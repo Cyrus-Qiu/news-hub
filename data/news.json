@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T04:18:20.493Z",
+  "updatedAt": "2026-08-25T05:07:30.850Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,9 +30,119 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "760e439d6933",
+      "title": "2026年前7个月重庆市进出口主要国别（地区）总值表(人民币值)",
+      "summary": "2026年前7个月重庆市进出口主要国别(地区)总值表(人民币值)",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-25/10683731.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T05:01:26.000Z"
+    },
+    {
+      "id": "5ae7cc5a0f4b",
+      "title": "两部门针对浙江启动防汛防台风四级应急响应",
+      "summary": "中新网8月25日电 据应急管理部网站消息，今年第18号台风“沙德尔”(强台风级)将于8月26日进入东海，并向浙闽一带沿海靠近。受其影响，浙江东南部等地部分地区有大到暴雨。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683752.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T04:56:19.000Z"
+    },
+    {
+      "id": "ac8a013edc94",
+      "title": "两千余名“钢铁健儿”北京竞技：比“脑”力 拼灵巧",
+      "summary": "中新社北京8月25日电 题：两千余名“钢铁健儿”北京竞技：比“脑”力 拼灵巧",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10683751.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T04:53:23.000Z"
+    },
+    {
+      "id": "3f39141bda02",
+      "title": "Australia news live: Major Sydney property developer collapses leaving buyers in limbo; Greens senator opts out for 2028 over partner’s health",
+      "summary": "West Australian newspaper uses moniker on front page. Follow today’s news live Get our breaking news email , free app or daily news podcast Number of NSW households in urgent nee…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T04:49:32.000Z"
+    },
+    {
+      "id": "7ac7348178e9",
+      "title": "台灣藝人涉「潑油」損日本國寶，如何牽動台日關係？",
+      "summary": "蔡宜臻被捕後坦承犯行，供稱自己「會對令我感動的事物淋油祈禱，因此應該有在佛足石上淋油」。外界討論「潑油」行為是否屬基督教的宗教儀式，也關注事情對台日關係的影響。",
+      "url": "https://www.bbc.com/zhongwen/articles/cje82403k49o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-25T04:45:13.000Z"
+    },
+    {
+      "id": "ef76406726ef",
+      "title": "首条横跨京冀城市轨道有望年底开通",
+      "summary": "记者从北京市重大项目办和京投轨道公司获悉，今天(25日)，轨道交通22号线(红庙—平谷)正式开启空载试运行。该线作为“轨道上的京津冀”标志性工程，是首条横跨京冀两地的城市轨道交通线路。空载试运行标志着22号线向年底基本具备开通条件目标迈出了关键一步，京津冀交通一体化正从蓝图加速驶向现实。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683750.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T04:44:02.000Z"
+    },
+    {
+      "id": "7724b6030f76",
+      "title": "韩正会见印度国家安全顾问、中印边界问题印方特别代表多瓦尔",
+      "summary": "新华社北京8月25日电 国家副主席韩正25日在北京会见印度国家安全顾问、中印边界问题印方特别代表多瓦尔。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683747.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T04:33:51.000Z"
+    },
+    {
+      "id": "fba6ddd7a114",
+      "title": "两部门针对京津冀蒙青启动防汛四级应急响应",
+      "summary": "据气象部门预报，未来三天，西北地区、内蒙古、华北等地有明显降雨过程，青海东部和南部、内蒙古西部、河北中部、北京、天津等地部分地区有大到暴雨，其中部分地区有大暴雨，局地有特大暴雨。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683746.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T04:31:03.000Z"
+    },
+    {
+      "id": "5b604f72d114",
+      "title": "一箭七星 长征六号丙运载火箭发射成功",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-25/1202060.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T04:21:08.000Z"
+    },
+    {
+      "id": "6b62eacf2a34",
+      "title": "夯实后备人才基础，全国轮滑（速度轮滑）锦标赛在延庆收官",
+      "summary": "中新网北京8月25日电 全国轮滑(速度轮滑)锦标赛日前在北京延庆八达岭国际会展中心速度轮滑场收官。赛事为全国轮滑专业选手搭建起技术交流、竞技比拼的高水平平台，通过比赛夯实国内轮滑后备人才梯队基础。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-25/10683742.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T04:20:19.000Z"
+    },
+    {
+      "id": "9cae723daeff",
+      "title": "‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’",
+      "summary": "In Indonesia’s Kalimantan, fires have ravaged tens of thousands of acres, with suffocating smoke reaching Malaysia and putting Singapore on alert Suwadi can barely see five metre…",
+      "url": "https://www.theguardian.com/world/2026/aug/25/indonesia-wildfires-kalimantan-smoke-super-el-nino",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T04:17:06.000Z"
+    },
+    {
       "id": "db75ae890cb2",
-      "title": "Coogee shark attack victim describes moment she came to face-to-face with ‘monster’",
-      "summary": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an…",
+      "title": "Sydney shark attack survivor describes moment she came to face-to-face with ‘monster’",
+      "summary": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman who lost an arm…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
       "source": "The Guardian World",
       "category": "国际",
@@ -68,16 +178,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-25T04:05:06.000Z"
-    },
-    {
-      "id": "3f39141bda02",
-      "title": "Australia news live: Major Sydney property developer collapses leaving buyers in limbo; Greens senator opts out for 2028 over partner’s health",
-      "summary": "West Australian newspaper uses moniker on front page. Follow today’s news live Get our breaking news email , free app or daily news podcast Number of NSW households in urgent nee…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T04:04:20.000Z"
     },
     {
       "id": "465699d29ba6",
@@ -298,106 +398,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-25T03:29:38.000Z"
-    },
-    {
-      "id": "321ef8c2b9e7",
-      "title": "HICOOL2026全球创业者峰会将启幕 参赛人数创新高",
-      "summary": "中新网北京8月25日电 (记者 陈杭 徐婧)8月26日至29日，HICOOL2026全球创业者峰会将在北京中国国际展览中心(顺义馆)举行。本届峰会以“从创新源头到产业潮头”为主题，会期首次延长至4天，预计汇聚超5万人次来自世界各地的创新力量。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10683713.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T03:29:13.000Z"
-    },
-    {
-      "id": "3c155b0d968b",
-      "title": "国家数据局发布新一批50个公共数据“跑起来”示范场景",
-      "summary": "中新网8月25日电 国家数据局8月25日举办“数据价值化 我们在行动”系列新闻发布会，介绍公共数据“跑起来”示范场景建设有关情况。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683704.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T03:27:57.000Z"
-    },
-    {
-      "id": "75fafe38a1d9",
-      "title": "量产之后，人形机器人离真正“进厂打工”还有多远？",
-      "summary": "在长春某工厂的原材料仓库，多台轮式工业具身智能机器人正与人协作，高效完成拆垛及货物上架作业。料箱单箱重量达10至15公斤，最大的入库码放高度达1.6米。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10683712.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T03:27:11.000Z"
-    },
-    {
-      "id": "5f6f9b3c7d65",
-      "title": "福建省运会三人篮球赛永安开打 140名少年争锋",
-      "summary": "中新网福建永安8月25日电 (吴梦茜 王凯)福建省第十八届运动会青少年部三人篮球项目(甲组)比赛24日在永安市正式开赛。来自全省各地的10支代表队、140名选手齐聚赛场，开启为期3天的激烈角逐。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-25/10683700.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T03:23:35.000Z"
-    },
-    {
-      "id": "8ff469ceb935",
-      "title": "两名联合国维和人员遇袭身亡 古特雷斯：强烈谴责",
-      "summary": "中新网8月25日电 据联合国官网报道，当地时间24日，联合国秘书长古特雷斯通过发言人办公室发表声明，强烈谴责一起造成两名联合国南苏丹特派团维和人员遇难的袭击，并向遇难者家属及其各自政府表示深切哀悼。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683710.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T03:19:07.000Z"
-    },
-    {
-      "id": "316ee92f45b2",
-      "title": "律师法修改拟明确鼓励支持律师依法提供法律援助",
-      "summary": "8月25日，律师法修正草案提请十四届全国人大常委会第二十四次会议二次审议。草案与法律援助法相衔接，鼓励和支持律师事务所、律师参与公益法律服务，依法提供法律援助。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683699.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T03:04:00.000Z"
-    },
-    {
-      "id": "3d02ba5b0ecc",
-      "title": "吴海涛任湖北省委统战部部长",
-      "summary": "8月24日，省委统战部干部会议召开。省委副书记诸葛宇杰出席并讲话。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683697.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T03:02:04.000Z"
-    },
-    {
-      "id": "d1a75b42a69f",
-      "title": "外媒：以色列一犯罪团伙头目被近距离枪杀",
-      "summary": "中新网8月25日电 据《以色列时报》及《耶路撒冷邮报》等外媒报道，当地时间23日，以色列一犯罪团伙头目亚尼斯·尤沙耶夫被枪杀。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683698.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T03:01:54.000Z"
-    },
-    {
-      "id": "4d12dc48f332",
-      "title": "“新教学楼非常漂亮！” 西藏定日县三所重建小学建成投用",
-      "summary": "24日上午，西藏日喀则市定日县各学校迎来秋季开学。在历经一年多施工后，三所在地震中受损严重、需整校重建的小学正式投用。新学期、新校园，学生们的学习生活如何？",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683696.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T02:58:33.000Z"
-    },
-    {
-      "id": "21c6ac9861c3",
-      "title": "辽宁省阜新市举办“石榴花红·奔阜向新”主题文艺汇演",
-      "summary": "8月19日，辽宁省阜新市委统战部(市民宗局)联合市文明办、市文旅局共同举办“石榴花开映阜新·同心共创文明城”主题文艺汇演。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-25/10683691.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T02:56:21.000Z"
     },
     {
       "id": "3e7edb917861",
@@ -840,16 +840,6 @@
       "publishedAt": "2026-08-23T07:00:26.000Z"
     },
     {
-      "id": "b562c2919d25",
-      "title": "如何不用鬧鐘就能起床？",
-      "summary": "只要稍微安排睡眠，自然起床其實很容易。",
-      "url": "https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-23T05:58:45.000Z"
-    },
-    {
       "id": "bd22c76e37e8",
       "title": "Is this the end of Harry and Meghan’s American dream?",
       "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the af…",
@@ -858,16 +848,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-22T20:42:12.000Z"
-    },
-    {
-      "id": "2c70430db957",
-      "title": "Man leaves young son on Mount Fuji before ascending Japan’s highest peak",
-      "summary": "Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Ja…",
-      "url": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-22T12:25:16.000Z"
     },
     {
       "id": "7a0f5bd4fb25",
@@ -1228,6 +1208,26 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-18T04:00:13.000Z"
+    },
+    {
+      "id": "af099ca7bfad",
+      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
+      "summary": "高市早苗今年選擇不親自參拜靖國，卻以奉納玉串料及「遙拜」表達敬意，而靖國所供奉的甲級戰犯、戰爭記憶與日本日益強化的安全政策，仍讓這座神社成為中日韓外交爭議的焦點。",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-16T10:44:03.000Z"
+    },
+    {
+      "id": "4d583e25e4ce",
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill…",
+      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T10:00:54.000Z"
     }
   ]
 }
