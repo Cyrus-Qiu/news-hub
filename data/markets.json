@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T21:36:53.739Z",
+  "updatedAt": "2026-08-25T21:57:26.379Z",
   "failedCount": 1,
   "markets": [
     {
@@ -34,9 +34,9 @@
       "name": "Bitcoin",
       "symbol": "BTC",
       "unit": "USD",
-      "value": 78445,
-      "changePercent": -0.6225489609175937,
-      "asOf": "2026-08-25T21:35:10.000Z",
+      "value": 78585,
+      "changePercent": -0.4491367843551751,
+      "asOf": "2026-08-25T21:55:40.000Z",
       "source": "CoinGecko"
     },
     {
@@ -44,9 +44,9 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "unit": "USD",
-      "value": 2435.71,
-      "changePercent": -1.8178950741422253,
-      "asOf": "2026-08-25T21:35:10.000Z",
+      "value": 2440.62,
+      "changePercent": -1.686336515886098,
+      "asOf": "2026-08-25T21:55:30.000Z",
       "source": "CoinGecko"
     }
   ]

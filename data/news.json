@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T21:36:53.200Z",
+  "updatedAt": "2026-08-25T21:57:25.943Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,36 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "9c45fc68ceba",
+      "title": "中方呼吁推动停火止战以保障粮食生产安全",
+      "summary": "中国常驻联合国代表傅聪25日在武装冲突与粮食安全问题安理会高级别公开辩论会上发言，呼吁推动停火止战以保障粮食生产的安全环境。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684218.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T21:54:15.000Z"
+    },
+    {
+      "id": "cff3122a6b46",
+      "title": "台风“紫檀”在广东徐闻再次登陆 广东广西等地今明天将有强风雨",
+      "summary": "中国天气网讯 今天(8月26日)3时25分前后，今年第19号台风“紫檀”以热带风暴级再次登陆广东省徐闻县。受“紫檀”及其减弱后的环流、季风槽共同影响，今明天，广西、广东、云南等地将有强降雨，部分地区有大到暴雨，局地大暴雨，需防范持续降雨可能引发的次生灾害。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684217.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T21:52:09.000Z"
+    },
+    {
+      "id": "83d4aa067a20",
+      "title": "俄远东在建天然气化工项目火灾致死人数升至3人",
+      "summary": "中新社莫斯科8月25日电 位于俄罗斯远东阿穆尔州的阿穆尔天然气化工综合体项目25日通报称，该项目当天发生的火灾事故导致的死亡人数升至3人，146人受伤。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684216.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-25T21:44:00.000Z"
+    },
+    {
       "id": "c4b813e0cde4",
       "title": "Australia news live: man charged after allegedly stabbing woman with scissors in Melbourne",
       "summary": "Woman and her son, who was allegedly punched, were taken to hospital with non-life-threatening injuries on Tuesday. Follow updates live Get our breaking news email , free app or…",
@@ -37,7 +67,7 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-25T21:27:12.000Z"
+      "publishedAt": "2026-08-25T21:39:31.000Z"
     },
     {
       "id": "6ee60046aeca",
@@ -438,36 +468,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-25T13:57:19.000Z"
-    },
-    {
-      "id": "c3ed65f79cb9",
-      "title": "湛江海事部门严阵以待防御台风“紫檀”",
-      "summary": "中新网湛江8月25日电 (梁盛 谢晓琳)为防范台风“紫檀”带来的海上交通安全风险，湛江海事局从25日16时起，全域启动防热带气旋二级应急响应，针对不同吨位船舶实施差异化管控。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684183.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:56:13.000Z"
-    },
-    {
-      "id": "72262683859c",
-      "title": "中越边境广西宁明爱店口岸恢复通关",
-      "summary": "中新网广西崇左8月25日电 (黄令妍)8月25日8时30分起，位于中越边境广西崇左市宁明县的爱店口岸恢复通关服务。记者当天在口岸看到，双向四条出入境货运通道上，满载越南榴莲、中国电子产品等货物的货车顺畅通行。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684182.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:55:27.000Z"
-    },
-    {
-      "id": "c0efdf3a229e",
-      "title": "“香港动能”主题巡展天津启幕 冀拓津港合作新空间",
-      "summary": "中新网天津8月25日电 (记者 周亚强)香港特别行政区政府驻北京办事处主任姚继卓25日在天津表示，天津与香港同属国家区域协调发展和高水平对外开放的关键节点，津港合作根基深厚，期待两地共同把握“十五五”新机遇。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684181.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T13:51:54.000Z"
     },
     {
       "id": "a516fd8d044b",
