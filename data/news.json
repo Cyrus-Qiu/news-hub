@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:38:45.965Z",
+  "updatedAt": "2026-08-25T21:36:53.200Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "c4b813e0cde4",
+      "title": "Australia news live: man charged after allegedly stabbing woman with scissors in Melbourne",
+      "summary": "Woman and her son, who was allegedly punched, were taken to hospital with non-life-threatening injuries on Tuesday. Follow updates live Get our breaking news email , free app or…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T21:27:12.000Z"
+    },
+    {
+      "id": "6ee60046aeca",
+      "title": "FBI raided Spanish vacation rental of wealthy leftwing funder James ‘Fergie’ Cox after his arrest",
+      "summary": "Lawyer Baltasar Garzón, representing Cox, said case against his client is ‘very strange’ as US requests extradition FBI agents raided the Ibiza, Spain, vacation rental of 41-year…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/fbi-raid-james-fergie-cox-vacation-rental",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T20:57:28.000Z"
+    },
     {
       "id": "15eb93ea0557",
       "title": "美国8月消费者信心指数降至7个月来最低值",
@@ -221,8 +241,8 @@
     },
     {
       "id": "e231bfe4fbd6",
-      "title": "Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say",
-      "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water use Get our breaking news email , free app or daily n…",
+      "title": "Australia may face a rush of datacentre construction as AI firms look to avoid upcoming rules, experts say",
+      "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water use Follow our Australia news live blog for latest up…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
       "source": "The Guardian World",
       "category": "AI",
@@ -232,7 +252,7 @@
     {
       "id": "2aa61687e484",
       "title": "One Nation’s Malcolm Roberts ‘in two minds’ about whether gay people should be equal",
-      "summary": "Footage shows senator on stage at the Church and State conference responding to question about party’s director James Ashby Get our breaking news email , free app or daily news p…",
+      "summary": "Footage shows senator on stage at the Church and State conference responding to question about party’s director James Ashby Follow our Australia news live blog for latest updates…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/26/one-nation-malcolm-roberts-two-minds-gay-equal-rights-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -328,16 +348,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-25T14:08:28.000Z"
-    },
-    {
-      "id": "937e32d862d4",
-      "title": "‘The Trump-Putin relationship is the biggest mystery in international politics’: foreign correspondent Luke Harding answered your questions",
-      "summary": "The Guardian’s Luke Harding discussed Trump, Putin and the state of the war in Ukraine, his expulsion from Russia, his new book Betrayal, and his career as a foreign corresponden…",
-      "url": "https://www.theguardian.com/theguardian/live/2026/aug/25/reader-q-and-a-ask-guardian-foreign-correspondant-author-luke-harding-a-question",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T14:06:25.000Z"
     },
     {
       "id": "de448ac76184",
@@ -578,16 +588,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-25T08:51:14.000Z"
-    },
-    {
-      "id": "eca371f17ba5",
-      "title": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
-      "summary": "Coles full-year results show that despite gaining market share over past 12 months, sales fell over four weeks of ‘competitor’s collectables campaign’ Follow our Australia news l…",
-      "url": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-25T08:07:25.000Z"
     },
     {
       "id": "0f57ad7d600a",
