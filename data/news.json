@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T16:02:32.524Z",
+  "updatedAt": "2026-08-26T16:54:05.686Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,24 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "848aed629e6b",
-      "title": "上海抢抓AI赋能科技服务业新机遇",
-      "summary": "中新社上海8月26日电 (记者 郑莹莹)上海市科学技术委员会等多部门26日对外发布《上海市科技研发与创新服务业高质量发展行动方案》(简称“方案”)。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684886.shtml",
+      "id": "49ce11bcc422",
+      "title": "国际人士析多国对华好感度攀升",
+      "summary": "中新社北京8月26日电 (官逸伦 刘纪)由中国人民大学主办的“全球认知之变与中国发展未来国际研讨会”26日在北京举行。多国与会嘉宾表示，中国自身的成功发展与其对和平、合作的追求是世界多国对华好感度提升的原因所在。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684889.shtml",
       "source": "中国新闻网",
-      "category": "AI",
+      "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T15:48:39.000Z"
+      "publishedAt": "2026-08-26T16:33:56.000Z"
+    },
+    {
+      "id": "1b1e16760ad0",
+      "title": "‘Escape wizard’ who has broken out of four prisons is arrested in Spain",
+      "summary": "Albanian criminal has cut bars, descended sheets and even used human pyramid in escapes in Italy and Belgium Police in Spain have arrested a dangerous Albanian criminal nicknamed…",
+      "url": "https://www.theguardian.com/world/2026/aug/26/escape-wizard-albanian-fugitive-toma-taulant-arrested-spain-after-breaking-out-of-four-jails",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T16:22:57.000Z"
     },
     {
       "id": "27f82cc17dcc",
@@ -47,7 +57,37 @@
       "source": "BBC 中文",
       "category": "国际",
       "language": "zh",
-      "publishedAt": "2026-08-26T15:41:22.000Z"
+      "publishedAt": "2026-08-26T16:18:33.000Z"
+    },
+    {
+      "id": "f7d0629cc123",
+      "title": "HICOOL 2026全球创业者峰会在北京开幕",
+      "summary": "中新社北京8月26日电 (记者 陈杭)26日晚，为期四天的HICOOL 2026全球创业者峰会在北京开幕。本届峰会年度主题为“从创新源头到产业潮头”，采用“展+会”一体形式，吸引600余家展商在2.3万平方米的展览空间内同台竞技。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684888.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T16:15:55.000Z"
+    },
+    {
+      "id": "80981cfc10ed",
+      "title": "特朗普证实中情局局长访俄",
+      "summary": "美国总统特朗普26日证实美国中央情报局局长拉特克利夫日前访问俄罗斯，并称此访“可能会取得一些成果”，但没有作进一步说明。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684887.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T16:08:52.000Z"
+    },
+    {
+      "id": "848aed629e6b",
+      "title": "上海抢抓AI赋能科技服务业新机遇",
+      "summary": "中新社上海8月26日电 (记者 郑莹莹)上海市科学技术委员会等多部门26日对外发布《上海市科技研发与创新服务业高质量发展行动方案》(简称“方案”)。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684886.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-26T15:48:39.000Z"
     },
     {
       "id": "0efb532aefa3",
@@ -344,7 +384,7 @@
       "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $17bn",
       "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on nighttime use Meta agreed to significant changes to its Instagram and Fac…",
       "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-      "source": "The Guardian Business",
+      "source": "The Guardian Technology",
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-26T13:37:15.000Z"
@@ -388,36 +428,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-26T13:33:20.000Z"
-    },
-    {
-      "id": "c49634d5bda8",
-      "title": "上海民盟举办“与盟同行·会客厅”科技专场活动",
-      "summary": "中新网上海8月26日电(范宇斌 陈婕)26日，民盟上海市委会“与盟同行·会客厅”科技专场活动在华东理工大学举行。作为庆祝上海民盟组织建立80周年系列活动之一，本次活动以“民盟的智见：共话‘AI for Science’新范式”为主题，由民盟上海市委会科技委员会、民盟华东理工大学委员会承办，来自高校、国家级技术平台和产业一线的4位盟员代表作科创分享。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684853.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:28:14.000Z"
-    },
-    {
-      "id": "35ecde657152",
-      "title": "上海浦东国际机场启用超110平方米婴幼儿友好空间 助力上海儿童友好城市建设",
-      "summary": "中新网上海8月26日电 (记者 殷立勤)8月26日，上海浦东国际机场T2航站楼国内混流层C77登机口附近，一个总面积超110平方米的婴幼儿友好空间正式启用。该项目集多功能育婴室、婴幼儿休憩区、亲子候机区于一体，提供哺乳、护理、备餐、休憩、娱乐等全链条服务，标志着上海浦东国际机场母婴服务从“有没有”向“好不好用”迈进。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684854.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:27:42.000Z"
-    },
-    {
-      "id": "90a04874ec05",
-      "title": "国务院食安办挂牌督办“消杀公司违规使用敌敌畏为餐饮门店消杀”事件",
-      "summary": "中新网北京8月26日电 (记者 刘亮)国家市场监管总局26日公布，针对近日舆论关注的福建省厦门市“消杀公司违规使用敌敌畏为餐饮门店消杀”事件，国务院食安办决定实行挂牌督办，并会同国家市场监管总局、国家疾控局成立联合工作组，赴实地督促指导案件查办，依法严惩重处违法违规行为，开展风险排查，切实维护民众饮食安全。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684852.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:27:32.000Z"
     },
     {
       "id": "b9d57424cb5f",
@@ -638,16 +648,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-26T04:00:35.000Z"
-    },
-    {
-      "id": "2b20db78d799",
-      "title": "Man on trial for Daphne Caruana Galizia murder claims he was framed",
-      "summary": "Yorgen Fenech tells jury he had nothing to do with killing and alleges top adviser to Malta’s then PM was instigator A businessman on trial for the murder of the journalist Daphn…",
-      "url": "https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-26T04:00:34.000Z"
     },
     {
       "id": "9e5ec8aee781",
@@ -928,16 +928,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-25T05:42:26.000Z"
-    },
-    {
-      "id": "54b198635239",
-      "title": "‘Never seen this level of objection’: Scotland pushes back against datacentre boom",
-      "summary": "Holyrood ‘inching towards moratorium’ amid concerns over massive proposed developments in Auchtertool and beyond In a village 21 miles north of Edinburgh, a real estate consultan…",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-25T05:00:49.000Z"
     },
     {
       "id": "75b4a8743c67",
@@ -1228,6 +1218,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-18T09:01:05.000Z"
+    },
+    {
+      "id": "8c8070590a15",
+      "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
+      "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen? One of the str…",
+      "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-18T04:00:13.000Z"
     }
   ]
 }
