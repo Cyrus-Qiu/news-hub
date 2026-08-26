@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T06:02:16.378Z",
+  "updatedAt": "2026-08-26T07:02:03.635Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,223 +31,353 @@
   "articles": [
     {
       "id": "c4b813e0cde4",
-      "title": "Australia news live: Chalmers hits back at WA premier’s ‘east coast clowns’ sledge; NSW police investigate alleged theft of 400,000 oysters",
+      "title": "Australia news live: PM, premiers and chief ministers sign firearms agreement; Sarah Hanson-Young scathing on Malcolm Roberts’ gay rights comments",
       "summary": "Follow updates live Get our breaking news email , free app or daily news podcast Angela Jackson, the commissioner of the Productivity Commission, said the body stands by the inte…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-26T05:59:03.000Z"
+      "publishedAt": "2026-08-26T06:57:26.000Z"
     },
     {
-      "id": "a0393492e7e8",
-      "title": "台风“紫檀”影响减弱 琼州海峡西行船舶交通管制已解除",
-      "summary": "中新网8月26日电 据“广东海事”微信公众号消息，经琼州海峡两岸交通、海事、气象部门会商决定，今年第19号台风“紫檀”对琼州海峡影响已逐渐减弱，自8月26日10时起解除西行船舶交通管制，14时起恢复客滚运输。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684497.shtml",
+      "id": "3febfaaa0e57",
+      "title": "我国首条海上油田化学驱聚合物全自动生产线开建",
+      "summary": "8月25日，我国首条海上油田化学驱聚合物全自动生产线在天津南港工业区开工建设。项目建成后，中国海上油田化学驱核心药剂——聚合物将实现自主规模化生产。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684554.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T05:56:11.000Z"
+      "publishedAt": "2026-08-26T06:56:27.000Z"
     },
     {
-      "id": "f15f11992300",
-      "title": "广西龙州：水退人进 街道逐步恢复",
-      "summary": "8月26日，广西崇左市龙州县，随着洪水消退，民众正紧张投入到清淤工作中。陈冠言 摄 8月26日，广西崇左市龙州县，随着洪水消退，民众正紧张投入到清淤工作中。陈冠言 摄 8月26日，广西崇左市龙州县，随着洪水消退，民众正紧张投入到清淤工作中。陈冠言 摄 8月26日，广西崇左市龙州县，随着洪水消退，民众正紧张投入到清淤工作中。陈冠言 摄 市8月26日，广西崇…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684494.shtml",
+      "id": "63d460ffa5c5",
+      "title": "大连汇聚亚太声音 全球目光聚焦APEC“中国年”",
+      "summary": "中新社大连8月26日电 题：大连汇聚亚太声音 全球目光聚焦APEC“中国年”",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684545.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T05:54:23.000Z"
+      "publishedAt": "2026-08-26T06:55:05.000Z"
     },
     {
-      "id": "1ddcdce23411",
-      "title": "从“工具”到“搭档” AI应怎样助力科研",
-      "summary": "近日，2026科学智能大会在北京举办。作为驱动原始创新、重塑科研范式的核心引擎，人工智能驱动的科学研究(AI for Science，AI4S)成为热议话题。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684513.shtml",
+      "id": "b458d1ea6809",
+      "title": "为噪声治理立“标尺”，让城市生活更安宁",
+      "summary": "近日，《噪声源分类指导目录》(以下简称《目录》)正式印发。《目录》紧扣生态环境法典噪声污染防治相关要求，搭建起全国统一的噪声源三级分类体系。通过统一噪声分类标尺，让噪声源“说得清、分得准、管到位”，在此基础上，持续化解群众反映强烈的突出问题。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684552.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:53:17.000Z"
+    },
+    {
+      "id": "4ed6ace599c4",
+      "title": "4微米、100亿次 一组数据看中国制造硬核成绩单",
+      "summary": "国新办今天举行发布会",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684553.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:51:57.000Z"
+    },
+    {
+      "id": "d4285e969186",
+      "title": "光影定格“北国江城”冬韵 吉林市冰雪摄影大展启幕",
+      "summary": "中新网吉林8月26日电 (记者 苍雁 石洪宇)26日，第五届吉林市冰雪摄影大展拉开帷幕。本届展览以光影为媒，荟萃百幅摄影精品，集中展现“北国江城”独特的冰雪魅力与文化底蕴。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-26/10684549.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:49:55.000Z"
+    },
+    {
+      "id": "db1c540f736d",
+      "title": "足不出户即可出片……定制AI婚纱照 新人有了新选择",
+      "summary": "足不出户即可出片 有限预算空间无限",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684543.shtml",
       "source": "中国新闻网",
       "category": "AI",
       "language": "zh",
-      "publishedAt": "2026-08-26T05:52:53.000Z"
+      "publishedAt": "2026-08-26T06:48:17.000Z"
     },
     {
-      "id": "7c630fe148aa",
-      "title": "受台风“沙德尔”影响 长三角铁路部分线路途经列车临时停运",
-      "summary": "中新网南京8月26日电 (记者 朱晓颖)受台风“沙德尔”影响，长三角铁路部分线路途经列车临时停运。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684487.shtml",
+      "id": "e1465dd0b605",
+      "title": "中美之间为何需要1.5轨对话？",
+      "summary": "中新社北京8月26日电 (记者 黄钰钦)8月25日，由中共中央对外联络部和美国亚洲协会共同主办的第三届中美1.5轨对话在北京举行。来自中方有关部门、地方政府、智库、高校以及美国亚洲协会等方面的约40名代表，围绕“建设性战略稳定——新时代中美务实合作”进行交流。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684540.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T05:52:51.000Z"
+      "publishedAt": "2026-08-26T06:47:49.000Z"
     },
     {
-      "id": "7c8c3eef18b4",
-      "title": "海南产经新观察：商业航天加速起势",
-      "summary": "中新网海南文昌8月26日电 (记者 符宇群 王晓斌)为期3天的2026文昌国际航空航天论坛26日在海南省文昌市结束。一场论坛，多个航天产业项目集中签约、科创平台接连揭牌，一批中外航天产业主体向文昌国际航天城抛出橄榄枝，释放出海南商业航天加速起势的鲜明信号。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684500.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:52:43.000Z"
-    },
-    {
-      "id": "59f5f42dc018",
-      "title": "广西12条河流出现超警洪水 左江2026年第1号洪水过境崇左",
-      "summary": "中新网南宁8月26日电(陈秋霞 周也茹)广西壮族自治区水文中心26日提供的信息显示，8月25日8时至26日8时，受降雨及上游来水影响，广西共有左江及支流黑水河、凭祥河，明江及支流公安河、派连河、思州河，平而河，北仑河等12条河流18个水文站出现超警0.24至7.84米的洪水。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684501.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:52:29.000Z"
-    },
-    {
-      "id": "63a768a23573",
-      "title": "打一口井添一炉火升一面旗 锡林郭勒盟用身边故事讲活团结佳话",
-      "summary": "“很多人以前觉得，乌兰牧骑就是唱歌跳舞。可一讲起队员那些下乡故事，他们就改观了。”说这话时，曹霞刚结束一场演出。她1991年加入苏尼特右旗乌兰牧骑成为一名舞蹈队员，每年演出任务超百场。2017年之后，她又多了一个新身份——“红色文艺轻骑兵”乌兰牧骑教育实践基地讲解员。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684490.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:51:53.000Z"
-    },
-    {
-      "id": "d9c921ef1bc9",
-      "title": "AI赋能江海联运 广西智慧水运大模型投入示范应用",
-      "summary": "中新网南宁8月26日电(韦佳秀)广西北部湾国际港务集团有限公司(简称北部湾港集团)26日介绍，西部陆海新通道智慧水运大模型已进入示范应用阶段。此项目是2025年广西壮族自治区首批“揭榜挂帅”五大行业垂类大模型之一，可破解船闸、港口调度多重现实难题，将为即将全线通航的平陆运河筑牢智能化调度底座。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684499.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:50:13.000Z"
-    },
-    {
-      "id": "c9ff223a187e",
-      "title": "全国首单特需家庭多类型资产服务信托在北京东城落地",
-      "summary": "中新网北京8月26日电 (记者 贾天勇)北京市东城区25日成功举办全国首单特需家庭多类型资产服务信托签约仪式，并在和平里街道正式挂牌“紫金财富管理公益基地”。此次落地的信托项目在底层资产配置、慈善帮扶配套、制度机制保障等领域实现首创性突破，为特殊群体养老权益保障打造了可复制、可推广的“东城样本”。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684486.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:49:39.000Z"
-    },
-    {
-      "id": "ab5b6daee2d5",
-      "title": "海南解除台风预警 海口“三港”8月26日14时恢复运输",
-      "summary": "中新网海口8月26日电 (记者 王子谦)今年第19号台风“紫檀”持续减弱，对海南省影响趋于结束。海南省气象局26日12时解除台风四级预警，琼州海峡海口“三港”将于当日14时恢复运输。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684505.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:49:33.000Z"
-    },
-    {
-      "id": "42f946e22ec6",
-      "title": "跨越千里的公益救治 新疆心脏病患者在上海重获“心”生",
-      "summary": "中新网上海8月26日电 题：跨越千里的公益救治 新疆心脏病患者在上海重获“心”生",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684502.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:48:45.000Z"
-    },
-    {
-      "id": "7b9199a8958a",
-      "title": "兴业银行38周年品牌焕新 “以专业，共兴业”",
-      "summary": "8月26日，在兴业银行成立38周年之际，该行正式发布全新品牌口号“以专业，共兴业”。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684483.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:48:21.000Z"
-    },
-    {
-      "id": "77d3c905e716",
-      "title": "2026年“童声里的中国”新疆兵团少儿歌咏活动举行集中展演",
-      "summary": "中新网乌鲁木齐8月26日电 (史玉江)“童心向党，唱响兵团”2026年“童声里的中国”新疆生产建设兵团少年儿童歌咏活动，25日在乌鲁木齐市集中展演。来自兵团各师市各单位的少年儿童齐聚舞台，以歌抒怀、以舞传志，用精彩纷呈的文艺节目，礼赞伟大时代，传承红色基因，弘扬兵团精神，献上一堂生动鲜活的美育思政课。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684496.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:48:05.000Z"
-    },
-    {
-      "id": "9b8b0bb00370",
-      "title": "上海辰山植物园：活态本草实景与纸上本草画卷双向共振",
-      "summary": "中新网上海8月26日电 (记者 陈静)26日，上海辰山植物园内，海派工笔画家万芾的四十余幅草木佳作正在展出。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684493.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:47:49.000Z"
-    },
-    {
-      "id": "5017eec9e696",
-      "title": "雄激素性秃发治疗迈向局部靶向 临床治疗增加新选择",
-      "summary": "随着对雄激素性秃发发病机制认识的不断深入，临床治疗这一毛发疾病的思路也正在不断升级和补充，“局部问题局部治疗”观点在逐渐成型。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684482.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:46:47.000Z"
-    },
-    {
-      "id": "33b7560a98c4",
-      "title": "台风“沙德尔”逼近 福建多地关停景区、停运列车",
-      "summary": "中新网福州8月26日电 (叶秋云)今年第18号台风“沙德尔”步步逼近，预计将于27日夜间至28日上午在浙江象山到福建福清一带沿海登陆，25日起，福建多地景区陆续关闭，部分旅客列车宣布停运。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684481.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:44:37.000Z"
-    },
-    {
-      "id": "902641952890",
-      "title": "换季养生 注意科学辨识这些健康误区",
-      "summary": "处暑已过，暑热渐消，换季养生广受关注。",
-      "url": "https://www.chinanews.com.cn/life/2026/08-26/10684508.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:44:29.000Z"
-    },
-    {
-      "id": "95403dde61b9",
-      "title": "直播：第二届世界人形机器人运动会",
+      "id": "25cd6f360d93",
+      "title": "【中新画报】体育场来了“它们”，纪录不够用了！",
       "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-26/10684507.shtml",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202184.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T05:41:59.000Z"
+      "publishedAt": "2026-08-26T06:45:38.000Z"
     },
     {
-      "id": "47c6f2a7ddb3",
-      "title": "后备厢里的急救包：成都出租车司机多了一门“救命技能”",
-      "summary": "中新网成都8月26日电 题：后备厢里的急救包：成都出租车司机多了一门“救命技能”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684492.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:41:56.000Z"
+      "id": "723882ebcd22",
+      "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
+      "summary": "Bureau of Statistics says CPI was 3.5% in July, casting doubt on Reserve Bank meeting its 2.5% inflation target without further hike Follow our Australia news live blog for lates…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-26T06:44:23.000Z"
     },
     {
-      "id": "e7b6b7484b76",
-      "title": "泰国四大华人商会联合搭建企业交流平台",
-      "summary": "中新网曼谷8月26日电 (记者 李映民)由泰国江浙沪总商会、泰国江苏商会、泰国无锡商会、泰国常州总商会联合主办的“2026年在泰江浙沪企业产业发展推介交流会”近日在曼谷隆重举行。来自在泰江浙沪地区的企业家、商会领导及各界嘉宾齐聚一堂，共话企业发展、共享产业资源、共谋合作机遇。",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-26/10684498.shtml",
+      "id": "9450a8fe8a31",
+      "title": "沈飞集团：团结引领统战成员牢记总书记嘱托 弘扬航空报国精神共铸“苍穹脊梁”",
+      "summary": "国有企业是党执政兴国的重要支柱和依靠力量，是党的统一战线工作的重要阵地。做好国有企业统战工作，对于巩固和壮大最广泛的爱国统一战线、做强做优做大国有资本和国有企业具有重要意义。作为“中国歼击机的摇篮”，沈阳飞机工业(集团)有限公司(简称“沈飞集团”)有无党派人士、党外知识分子2107人，占公司技职人数近40.3%。近年来，沈飞集团公司党委建立统战工作机制，…",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684538.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T05:40:46.000Z"
+      "publishedAt": "2026-08-26T06:41:50.000Z"
     },
     {
-      "id": "73e0403daeae",
-      "title": "新疆乌鲁木齐：少年儿童欢度“邻里好时光”",
-      "summary": "中新网乌鲁木齐8月26日电 (祁晓玲)新疆乌鲁木齐市天山区中环路南社区25日开展“睦邻相伴，趣享时光”趣味亲子运动会，辖区众多亲子家庭、居民踊跃参与，在欢声笑语中解锁运动乐趣，共度温馨邻里时光。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684495.shtml",
+      "id": "499bbf6685b6",
+      "title": "友谊关海关关于执法记录仪采集工作站的协商谈判采购公告",
+      "summary": "友谊关海关现对执法记录仪采集工作站进行采购，采用协商谈判方式择优选择供应单位，有关采购情况如下：",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-26/10684539.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T05:40:22.000Z"
+      "publishedAt": "2026-08-26T06:39:26.000Z"
+    },
+    {
+      "id": "4454b0793ca6",
+      "title": "民革河南省委会直属济源基层委员会赴湖北开展主题教育实践活动",
+      "summary": "为深入学习贯彻中共二十大和二十届历次全会精神，纪念孙中山先生诞辰160周年，持续推动“参政为公、实干为民”主题教育走深走实，8月18日至21日，民革河南省委会直属济源基层委员会组织党员赴湖北开展主题教育实践暨“观故居·走多党合作之路”现场教学活动。济源示范区政协工委副主任、市政协副主席、民革河南省委会直属济源基层委员会主委苗圃带队参加活动。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684525.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:37:26.000Z"
+    },
+    {
+      "id": "2d92376701f9",
+      "title": "河南信阳市息县：以“党建引领+”铸牢中华民族共同体意识",
+      "summary": "河南信阳市息县紧扣铸牢中华民族共同体意识主线，坚持党建统揽民族工作全局，以党建赋能宣传教育、三交共富、基层治理，推动民族团结进步工作走深走实，持续巩固各族群众团结奋进、同心共治的良好局面。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684533.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:35:42.000Z"
+    },
+    {
+      "id": "9f5c47b36dca",
+      "title": "河南周口市开展“学法知团结 童心向未来”民族团结进步促进法普法小课堂活动",
+      "summary": "为深入学习贯彻《中华人民共和国民族团结进步促进法》，持续深化青少年民族团结教育，8月25日，河南周口市委统战部、市民宗局走进市总工会暑期托管班，开展“学法知团结 童心向未来”民族团结进步促进法普法宣传活动。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684531.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:34:42.000Z"
+    },
+    {
+      "id": "0006c02cc9fb",
+      "title": "河南安阳林州市以“四个一”为载体推动民族工作高质量发展",
+      "summary": "近年来，河南安阳林州市坚持以铸牢中华民族共同体意识为主线，牢牢把握各民族“共同团结奋斗、共同繁荣发展”工作主题，不断完善工作机制，创新工作举措，在“四个一”上持续下功夫，全力推动全市民族工作高质量发展。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684529.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:33:22.000Z"
+    },
+    {
+      "id": "353feef96cc8",
+      "title": "河南驻马店市侨界竹沟红色研学活动",
+      "summary": "为传承红色基因、弘扬长征精神与伟大抗战精神，进一步凝聚侨界共识、汇聚侨界力量、厚植侨界家国情怀，8月25日，驻马店市侨联组织侨界代表人士、侨界群众走进河南省华侨国际文化交流基地——确山竹沟革命纪念馆，开展“传承长征薪火 筑牢赤子侨心”驻马店市侨界红色研学活动。市侨联党组成员、副主席赵冰洁、张玮参加活动。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684527.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:32:18.000Z"
+    },
+    {
+      "id": "7c5c9619d1af",
+      "title": "未来三天陕西多地迎强降雨天气 西安等地今明天仍有高温暑意强盛",
+      "summary": "中国天气网讯 未来三天(8月26日至28日)，陕西多地将迎强降雨和强对流天气，其中今天白天榆林东部或现暴雨到大暴雨，夜间延安东部局地有暴雨。此外，今明两天关中东部局地和陕南河谷地带仍有高温天气，仍需注意防暑。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684536.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:31:52.000Z"
+    },
+    {
+      "id": "3d5a00099719",
+      "title": "未批先建、堵塞疏散通道 消防安全暗访暗查发现多项重大隐患",
+      "summary": "与大众消费息息相关的制鞋、制衣、玩具、食品加工等企业，属于典型的劳动密集型企业。这类企业普遍人员高度集中、可燃物料存量大、用电设备密集，历来是安全生产和火灾防控的重点监管领域。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684535.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:31:36.000Z"
+    },
+    {
+      "id": "3c07f7b6b0d9",
+      "title": "2026年度河南焦作“怀川同心·焦作有爱”捐资助学活动举行",
+      "summary": "“‘焦作有爱’二十载坚守，映照出怀川大地崇文重教的淳朴风尚，彰显了统一战线凝心聚力、服务民生的独特优势。市委统战部、市工商联将持续擦亮这一公益品牌，汇聚统一战线各方同心力量，做实助学扶智、民生帮扶实事，为现代化焦作建设凝聚磅礴合力。”8月25日，2026年度焦作“怀川同心·焦作有爱”捐资助学活动在市会议中心举行，焦作市委常委、统战部部长侯波在活动上说。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684520.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:30:38.000Z"
+    },
+    {
+      "id": "7dbc8a082e37",
+      "title": "台湾节目称“北京都没有冰箱” 国台办：脱离事实的言论只会沦为笑柄",
+      "summary": "中新社北京8月26日电 (记者 李百加 刘大炜)近期台湾一档节目上有人声称，“北京都没有冰箱”“北京人都不喝冷的饮料”。国务院台办发言人张晗26日表示，这种脱离事实的言论，只会沦为笑柄。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684524.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:28:03.000Z"
+    },
+    {
+      "id": "84c8544e7ac7",
+      "title": "“德国队长”约翰·莱昂：在中国，与世界“组队”",
+      "summary": "中新社苏州8月26日电 题：“德国队长”约翰·莱昂：在中国，与世界“组队”",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684523.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:27:43.000Z"
+    },
+    {
+      "id": "11e82de94c08",
+      "title": "“战犯神社”为何备受推崇？日本，请回答！",
+      "summary": "近日，外交部将“靖国神社”称为“战犯神社”，引发广泛关注。",
+      "url": "http://www.chinanews.com.cn/gj/shipin/2026/08-26/news1066626.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:22:37.000Z"
+    },
+    {
+      "id": "646a7e7e3a53",
+      "title": "国家防总将针对浙江福建的防汛防台风应急响应提升至三级",
+      "summary": "中新网8月26日电 据应急管理部网站消息，8月26日上午，国家防总、应急管理部组织中国气象局、水利部、自然资源部、交通运输部、农业农村部等部门以及浙江、福建、广东和其他可能受影响的重点省份联合会商，研判台风“沙德尔”发展趋势，进一步研究部署台风防范应对工作。国家防总于26日11时将针对浙江、福建的防汛防台风四级应急响应提升至三级，维持针对广东的防汛防台风…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684519.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:20:37.000Z"
+    },
+    {
+      "id": "98b5b6849c13",
+      "title": "从“量身定制”的新场景 看未来产业发展密码",
+      "summary": "识别、抓取、固定……酷似人手的机器手，自如地完成一连串动作。在安徽省六安市霍邱县，安徽雷利智能科技有限公司的电机生产线上，小微电机生产末端工序中的线束处理工作被“灵巧手”替代，解决了人工作业效率低、质量不稳定等难题。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684526.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:19:53.000Z"
+    },
+    {
+      "id": "e0d1db9bf480",
+      "title": "巴基斯坦前总理：任何国家都不能用牺牲他国安全来谋求自身安全",
+      "summary": "中新社北京8月26日电 (马帅莎 余湛奕 刘纪)“促进建设和平与繁荣的亚洲命运共同体”对话大会25日在北京举办。巴基斯坦前总理安瓦尔·哈克·卡卡尔在会上表示，任何国家都不能以牺牲他国安全为代价谋求自身安全。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684516.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:14:01.000Z"
+    },
+    {
+      "id": "0a8d17116da9",
+      "title": "中國青少年濫藥問題：利用處方藥物來「逃避現實」",
+      "summary": "一名青少年告訴BBC，學生們因為害怕失敗而尋求處方藥。",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2z5jnkv2eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:12:27.000Z"
+    },
+    {
+      "id": "466fabe0b63c",
+      "title": "赵乐际会见乌兹别克斯坦总统办公厅主任米尔济约耶娃",
+      "summary": "中新社北京8月26日电 全国人大常委会委员长赵乐际26日上午在北京会见乌兹别克斯坦总统办公厅主任米尔济约耶娃。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684510.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:12:15.000Z"
+    },
+    {
+      "id": "d7e9c7034c6d",
+      "title": "自变量机器人全栈打通场景落地",
+      "summary": "广东“具身大脑”闪耀世界机器人大会",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684521.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:11:47.000Z"
+    },
+    {
+      "id": "6316fc36a06c",
+      "title": "台风“紫檀”北移减弱 8月26日白天琼州海峡阵风仍有7～9级",
+      "summary": "中新网海口8月26日电 (记者 王子谦)海南省气象台26日上午预报，今年第19号台风“紫檀”将持续北移减弱，今天白天琼州海峡阵风仍将有7～9级。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684504.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:10:03.000Z"
+    },
+    {
+      "id": "7fd1d91690e8",
+      "title": "国台办：将通过国共平台邀更多团组赴陆交流",
+      "summary": "中新社北京8月26日电 (记者 刘大炜 李百加)国务院台办新闻发言人张晗26日在北京表示，大陆方面将通过国共两党双向交流机制化平台，邀请更多团组来大陆交流参访。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684511.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:09:20.000Z"
+    },
+    {
+      "id": "bdc071e5c3a1",
+      "title": "广西柳州AI康养驿站惠民生 人工智能让养老更便捷",
+      "summary": "中新网柳州8月26日电(俞靖)8月25日，位于广西柳州市数智民生大厦的金盛社区AI康养驿站内，前来做康养检查的老年人络绎不绝，仅结合AI人脸识别与舌诊，90秒即可出具中医体质检测报告，一系列以人工智能技术搭建的康养服务场景在此落地，让长者们在“家门口”享受常态化健康服务。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684491.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:07:52.000Z"
+    },
+    {
+      "id": "2d5d5040c43b",
+      "title": "开局起步“十五五”：抢抓自贸港建设机遇，海南临高如何加快塑造发展新优势？",
+      "summary": "中新网海口8月26日电 (张月和)“‘十五五’时期是海南自由贸易港在全岛封关运作新起点上全面深化改革开放、实现高质量发展的关键五年，也是临高抢抓自贸港建设机遇、加快塑造发展新优势的重要窗口期。”海南省临高县县长王挺在25日举行的“开局起步‘十五五’”系列主题新闻发布会临高县专场上如是说。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684489.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T06:07:40.000Z"
+    },
+    {
+      "id": "6a1da0454bbb",
+      "title": "Raygun opens up on her infamous Olympics breakdancing debut: ‘not as bad as I thought!’",
+      "summary": "Australia’s first Olympic breakdancer became a viral sensation after her performance at Paris 2024, where she failed to receive a single point Rachael “Raygun” Gunn says her perf…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/raygun-breakdance-routine-cnn-interview-reaction-australian-olympics",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T06:01:22.000Z"
+    },
+    {
+      "id": "44f8b1e1f9fb",
+      "title": "Would you pay for an algorithm to pick your friends? New social apps spread across cities",
+      "summary": "With many adults admitting they feel lonely, meetup platforms offer the chance to make new connections Would you pay £20 a month for the chance of making a friend, on the underst…",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/26/algorithm-pick-your-friends-paid-free-meetup-apps-cliq-ply",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-26T06:00:36.000Z"
     },
     {
       "id": "7a5d7c3de9dd",
@@ -258,96 +388,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-26T05:40:19.000Z"
-    },
-    {
-      "id": "e53b69e77613",
-      "title": "暑退秋燥起 养生牢记“清润解健”",
-      "summary": "当下正值处暑节气，这是二十四节气中的第十四个节气，也是秋季的第二个节气。“处”是终止的意思，“处暑”即“出暑”，意为暑气到此渐渐退去，是向秋天过渡的节点。",
-      "url": "https://www.chinanews.com.cn/life/2026/08-26/10684506.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:38:36.000Z"
-    },
-    {
-      "id": "2f38173a44b3",
-      "title": "中国将加快6G核心技术攻关",
-      "summary": "中新社北京8月26日电 (记者 刘亮)中国工信部信息通信发展司司长刘郁林26日介绍，“十五五”时期，工信部将加快6G核心技术攻关，持续开展6G技术试验、标准研制，促进6G产业成熟和生态构建，为6G商用做好准备。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684484.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:35:56.000Z"
-    },
-    {
-      "id": "7756dc4c3f4c",
-      "title": "如何规范地震预警信息发布？中国地震局最新解读回应",
-      "summary": "中新网北京8月26日电 (记者 孙自法)几天前四川省宜宾市长宁县发生4.7级地震后，有非官方机构通过多款手机等终端违规向用户推送大偏差的“四川长宁7.7级”地震预警信息，引发广泛关注。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684503.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:34:50.000Z"
-    },
-    {
-      "id": "375b8ba5de22",
-      "title": "2026年中国贵阳亚洲青年攀岩锦标赛落幕 中国队斩获10金9银3铜",
-      "summary": "中新网贵阳8月26日电 (记者 张伟)2026年中国贵阳亚洲青年攀岩锦标赛25日晚在贵阳市观山湖公园——贵州·彩湖国际攀岩中心结束为期5天的激烈争夺，中国队以10金9银3铜位列奖牌榜第一。日本队以3金4银5铜位列奖牌榜第二，韩国队以2金3银3铜位列奖牌榜第三，印度尼西亚队以1金3铜位列奖牌榜第四，哈萨克斯坦以2铜位列奖牌榜第五。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684488.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:32:02.000Z"
-    },
-    {
-      "id": "11ee35b100e7",
-      "title": "国台办回应“避免两岸在海上擦枪走火”",
-      "summary": "中新网8月26日电 8月26日，国务院台办举行例行新闻发布会。有记者问：陆委会近日公布最新民调显示，有7成台湾民众认为，大陆派遣海警船在台湾东部外海巡逻是“恶意”的。虽然大陆方面表示相关执法是反制日本与菲律宾的“海域划界”行为，但台湾方面称这是借此推进“灰色地带操作”。请问未来大陆方面会否考虑减少相关执法行动，也避免两岸在海上擦枪走火？",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684480.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:21:37.000Z"
-    },
-    {
-      "id": "9c48b71cae74",
-      "title": "减重太快脸垮脱发？专家教你科学预防",
-      "summary": "广州日报讯 (全媒体记者何雪华 通讯员昂颖、谢伽蔚)GLP—1受体激动剂、GIP/GLP—1双受体激动剂等代谢性疾病治疗药物获批用于体重管理，为肥胖人群带来了新的选择。然而部分人快速减重后出现面部软组织凹陷松弛、脱发增加等问题。该如何预防与应对？南方医科大学皮肤病医院珠江新城医学美容中心副主任医师刘滢、主治医师谢恒教您几招，科学预防可能出现的皮肤与毛发问题。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-26/10684479.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:15:35.000Z"
-    },
-    {
-      "id": "2f2a3f71677e",
-      "title": "台风“紫檀” 携狂风暴雨在广东徐闻二次登陆",
-      "summary": "中新社广州8月26日电 (记者 王坚)今年第19号台风“紫檀”继25日18时40分前后在海南登陆后，26日3时25分前后在广东省湛江市徐闻县沿海再次登陆。受其影响，广东多地狂风暴雨，日最大降雨量达294.1毫米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684474.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:15:07.000Z"
-    },
-    {
-      "id": "65b70e6f3b19",
-      "title": "香江观澜：科创筑巢引凤栖 香港铸就独角兽企业“成长摇篮”",
-      "summary": "中新社香港8月26日电 题：科创筑巢引凤栖 香港铸就独角兽企业“成长摇篮”",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-26/10684478.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:09:19.000Z"
-    },
-    {
-      "id": "ba77e418f33a",
-      "title": "中国669个气象站现大暴雨 北方雨势猛烈",
-      "summary": "中新社北京8月26日电 (记者 陈溯)近日，中国南北方均拉开“雨幕”。记者26日从中国气象局获悉，25日7时至26日7时，中国669个气象站现大暴雨，预计后期北方雨势仍猛烈。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684475.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T05:05:55.000Z"
     },
     {
       "id": "73f044159f8e",
@@ -420,26 +460,6 @@
       "publishedAt": "2026-08-26T03:58:37.000Z"
     },
     {
-      "id": "0928b2f3bc1a",
-      "title": "Antisemitism royal commission ends hearings but delays report to avoid ‘distraction’ from Bondi anniversary",
-      "summary": "Commissioner Virginia Bell resists push to extend antisemitism inquiry noting need for timely recommendations Follow our Australia news live blog for latest updates Get our break…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/antisemitism-royal-commission-ends-hearings-but-delays-report-to-avoid-distraction-from-bondi-anniversary-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-26T03:55:27.000Z"
-    },
-    {
-      "id": "d1ccfe49b27f",
-      "title": "Fears for ‘gregarious’ local celebrity Sammy the elephant seal in Victorian bird flu hotspot",
-      "summary": "Seals and sea lions often communicate by touch and share spaces with wild birds, placing them at risk of infection from H5N1 virus Follow our Australia news live blog for latest…",
-      "url": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-26T03:31:54.000Z"
-    },
-    {
       "id": "63c7afe2e3a9",
       "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
       "summary": "Heavy rain expected in parts of Vietnam and southern ‌China, as another storm system, Typhoon Saudel, heads for Japan and Taiwan Widespread flooding triggered by Typhoon Narra ha…",
@@ -471,7 +491,7 @@
     },
     {
       "id": "ee7bcae13fd4",
-      "title": "先天性黑色素細胞痣患者：「皮膚使我獨一無二，我正學習接納它。」",
+      "title": "先天黑色素細胞痣：「皮膚使我獨一無二，我正學習接納它。」",
       "summary": "28歲的勞拉·凱利（Laura Kelly）天生患有先天性黑色素細胞痣（CMN），並在嬰兒時期接受了14次手術。",
       "url": "https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC 中文",
@@ -1000,16 +1020,6 @@
       "publishedAt": "2026-08-23T14:00:34.000Z"
     },
     {
-      "id": "9fffe5480809",
-      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
-      "summary": "BBC分析：加拿大總理卡尼將必須讓民眾相信，他放棄與白宮談判的這場豪賭，將值得承受隨之而來的後果。",
-      "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-23T13:56:22.000Z"
-    },
-    {
       "id": "1f5d1456e501",
       "title": "Iran’s foreign minister calls threat of new US economic sanctions ‘desperate’",
       "summary": "Abbas Araghchi says country is unbowed but president Masoud Pezeshkian admits its people face ‘many problems’ Iran’s foreign minister has dismissed the threat of a fresh round of…",
@@ -1018,16 +1028,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-23T13:56:11.000Z"
-    },
-    {
-      "id": "0136dbac126e",
-      "title": "If all car tyres were filled with CO2, would this cut atmospheric carbon significantly?",
-      "summary": "The long-running series in which readers answer other readers’ questions probes an intriguing scientific question in relation to the climate emergency Readers reply: Is it inevit…",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/23/if-all-car-tyres-were-filled-with-co2-would-this-cut-atmospheric-carbon-significantly",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-23T13:00:33.000Z"
     },
     {
       "id": "bac0527753d8",
