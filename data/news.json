@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T19:13:52.627Z",
+  "updatedAt": "2026-08-26T22:26:48.334Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,126 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "2be5d84f00b5",
+      "title": "从“看别人”到“见自己” 年轻人喜欢电影里的“中国味”",
+      "summary": "从“看别人”到“见自己”",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-27/10684898.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T22:21:48.000Z"
+    },
+    {
+      "id": "3c56b32ce06c",
+      "title": "智能体支付应用迎来行业自律公约 如何给AI支付立规矩",
+      "summary": "智能体支付应用迎来行业自律公约",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10684897.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-26T22:19:44.000Z"
+    },
+    {
+      "id": "17b19c2fed70",
+      "title": "News live: dozens of Australians believed to be among hundreds missing in Nepal flash floods",
+      "summary": "Powerful floods in Himalayan border area sweep away houses, roads and bridges. Follow today’s news live Get our breaking news email , free app or daily news podcast The prime min…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T22:14:58.000Z"
+    },
+    {
+      "id": "5405e768accc",
+      "title": "中国救援队111名消防救援指战员赴西藏吉隆灾害现场增援",
+      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-27/10684896.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T22:01:05.000Z"
+    },
+    {
+      "id": "be8c4010b09e",
+      "title": "特朗普：对于伊朗何时重返谈判“没有时间表”",
+      "summary": "当地时间26日，美国总统特朗普在接受采访时表示，对于预计伊朗何时重返谈判，他“没有时间表”，而且“不着急”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684895.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T21:58:54.000Z"
+    },
+    {
+      "id": "b45eff34aff8",
+      "title": "地月“信息高速路”开通 中国空间激光通信迈入地月空间",
+      "summary": "中新社北京8月27日电 (记者 孙自法)经过一年多的在轨测试试验，中国科研团队最近成功构建超过40万公里的地月双向激光链路并首次在轨验证了地月高速激光通信能力，标志着中国空间激光通信正式从近地轨道迈入地月空间。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684890.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T21:56:28.000Z"
+    },
+    {
+      "id": "bf75782bb174",
+      "title": "赛场淬能，人形机器人“加速进化”",
+      "summary": "中新社北京8月27日电 (记者 吕少威)第二届世界人形机器人运动会26日在位于北京的国家速滑馆“冰丝带”落下帷幕。相较于首届赛事“科幻照进现实”的新鲜感，本届运动会汇聚全球六大洲666支赛队，在精彩对决之外，更透出清晰的产业指向：人形机器人的比拼，已从“花拳绣腿”的舞台展示进入“性能淬炼”的考场实战。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684891.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T21:56:00.000Z"
+    },
+    {
+      "id": "65a7a1e43487",
+      "title": "世界公众科学素质组织在北京正式注册成立",
+      "summary": "中新社北京8月27日电 (记者 孙自法)世界公众科学素质组织副理事长、秘书长尹霖26日透露，世界公众科学素质组织今年6月在北京正式注册成立，目前已有中外创始单位会员32家。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684892.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T21:55:32.000Z"
+    },
+    {
+      "id": "1cb7edccaa91",
+      "title": "美国友人再访宋庆龄故居：做两国友谊的“架桥人”",
+      "summary": "中新社北京8月27日电 题：美国友人再访宋庆龄故居：做两国友谊的“架桥人”",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684893.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T21:54:58.000Z"
+    },
+    {
+      "id": "3c3ba0a02b54",
+      "title": "中印边界问题特别代表第25次会晤达成8点成果共识",
+      "summary": "中新社北京8月27日电 8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题坦诚、深入交换意见，达成8点成果共识。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684894.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T21:54:30.000Z"
+    },
+    {
+      "id": "539811bfacec",
+      "title": "Dozens of Australians believed to be among hundreds of people missing in Nepal flash floods",
+      "summary": "Powerful floods in Himalayan border area sweep away houses, roads and bridges Follow our Australia news live blog for latest updates Get our breaking news email , free app or dai…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T21:16:41.000Z"
+    },
+    {
+      "id": "b8449375ba3f",
+      "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
+      "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on nighttime use Meta agreed to significant changes to its Instagram and Fac…",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-26T20:30:49.000Z"
+    },
+    {
       "id": "604d0c1fcbed",
       "title": "Girl, 13, among missing British citizens after flash flood in Nepal",
       "summary": "More than 400 travellers are said to be missing after flood on Tibet border, including 33 Britons Flash floods on Nepal-Tibet border – latest updates Thirty-three British citizen…",
@@ -37,7 +157,17 @@
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-26T18:45:32.000Z"
+      "publishedAt": "2026-08-26T19:12:51.000Z"
+    },
+    {
+      "id": "0fe2fe037fcb",
+      "title": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm",
+      "summary": "Firm says ‘early signals … could have triggered an earlier response’ as it releases report into Hugging Face hack OpenAI staff observed signs of rogue behaviour among its leading…",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-26T19:00:20.000Z"
     },
     {
       "id": "aa44e82a53be",
@@ -150,16 +280,6 @@
       "publishedAt": "2026-08-26T15:24:13.000Z"
     },
     {
-      "id": "9813f411a611",
-      "title": "中印边界问题特别代表第25次会晤达成8点成果共识",
-      "summary": "新华社北京8月26日电#8195;8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题坦诚、深入交换意见，达成8点成果共识如下：",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684880.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T15:17:07.000Z"
-    },
-    {
       "id": "6701f122794e",
       "title": "雪域高原的这个县如何拉长“就业半径”？",
       "summary": "中新网林芝8月26日电(记者 李国庆)近日，记者随“走进藏博会·记录新西藏”媒体行走进西藏林芝市工布江达县，观察发现，该县在扩大就业方面，已探索出自己的路。工布江达县城向南35公里是仲莎乡结牧村的念朗康养温泉，向东约45公里是巴河产业园区，向东约90公里是巴松措景区。",
@@ -191,8 +311,8 @@
     },
     {
       "id": "1399a8963afc",
-      "title": "Ending private health rebate for Australians 65 and over is ‘good policy change’, report co-author finds",
-      "summary": "Research finds just 0.1-0.4% of the total insured population will ditch insurance, while the government will save as much as $940m a year Get our breaking news email , free app o…",
+      "title": "Ending higher private health rebate for Australians 65 and over is ‘good policy change’, report co-author finds",
+      "summary": "Research finds just 0.1-0.4% of the total insured population will ditch insurance, while the government will save as much as $940m a year Follow our Australia news live blog for…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/27/private-health-insurance-rebate-65-and-over",
       "source": "The Guardian World",
       "category": "国际",
@@ -202,7 +322,7 @@
     {
       "id": "644dd871ecc8",
       "title": "‘Reluctant’ approval for Tasmanian datacentre sets marker for national battle",
-      "summary": "Concerns over planning process as George Town council gives go-ahead for 288MW AI factory despite opposition from locals Get our breaking news email , free app or daily news podc…",
+      "summary": "Concerns over planning process as George Town council gives go-ahead for 288MW AI factory despite opposition from locals Follow our Australia news live blog for latest updates Ge…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/27/tasmania-datacentre-ai-standards-national-cabinet-albanese-government",
       "source": "The Guardian World",
       "category": "AI",
@@ -360,106 +480,6 @@
       "publishedAt": "2026-08-26T13:43:37.000Z"
     },
     {
-      "id": "2ed9001bc2fd",
-      "title": "浙江成立省级数据集团 人工智能产业布局再落关键一子",
-      "summary": "中新网杭州8月26日电(奚金燕)26日，浙江省数据集团有限公司揭牌仪式在杭州举行，标志着该省数据资源开发利用和人工智能产业发展省级平台正式落地，引发外界关注。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684861.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:41:13.000Z"
-    },
-    {
-      "id": "5bb7d85653a8",
-      "title": "（长征胜利90周年）“追寻长征美·同心建新功——四川新的社会阶层人士弘扬伟大长征精神主题活动”在四川冕宁举行",
-      "summary": "中新网凉山8月26日电 (尧欣雨)2026年是中国共产党成立105周年、中国工农红军长征胜利90周年。26日，四川新的社会阶层人士等100余人齐聚四川省凉山彝族自治州冕宁县，共同参加“追寻长征美·同心建新功——四川新的社会阶层人士弘扬伟大长征精神主题活动”，追忆长征光辉足迹，赓续伟大长征精神。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684858.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:40:17.000Z"
-    },
-    {
-      "id": "707fce415312",
-      "title": "广西龙胜欢度“跳香节”",
-      "summary": "图为8月26日，在广西桂林市龙胜各族自治县伟江乡，当地民众身着节日盛装参加民俗巡游活动。(无人机照片)潘志祥 摄 图为8月26日，广西桂林龙胜各族自治县伟江乡，当地民众身着节日盛装，开展民俗巡游活动。(无人机照片)陆恒江 摄 图为8月26日，在广西桂林市龙胜各族自治县伟江乡，当地民众身着节日盛装参加民俗巡游活动。潘志祥 摄 图为8月26日，在广西桂林市龙…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684843.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:39:05.000Z"
-    },
-    {
-      "id": "8843da0e235a",
-      "title": "重庆：“黑灯实验室”赋能水环境精准监测",
-      "summary": "8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，机器人对检测样本开盖。中新社记者 何蓬磊 摄 8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，智能仪器对样本开展检测。中新社记者 何蓬磊 摄 8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，智能仪器对样本开展检测。中新社记者 何蓬磊 摄 8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，智能仪…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684831.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:38:12.000Z"
-    },
-    {
-      "id": "077efcbe8928",
-      "title": "京玉携手以超高清点亮三江源文化新视界",
-      "summary": "中新网青海玉树8月26日电 由北京市广电局、北京市援青玉树指挥部主办，玉树州文体旅游广电局作为支持单位的“北京超高清视听·行！视听奇境”主题活动，日前在玉树落幕。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684857.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:37:54.000Z"
-    },
-    {
-      "id": "b8449375ba3f",
-      "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $17bn",
-      "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on nighttime use Meta agreed to significant changes to its Instagram and Fac…",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-26T13:37:15.000Z"
-    },
-    {
-      "id": "267fc27b45a6",
-      "title": "天工Ultra机器人再创纪录 百米跑出8.64秒",
-      "summary": "8月26日，第二届世界人形机器人运动会迎来闭幕日，在当晚举行的100米-大型组比赛中，天工Ultra机器人后来居上，夺取冠军。记者 吕少威 摄 中新网北京8月26日电(记者 吕少威)8月26日，第二届世界人形机器人运动会迎来闭幕日，在当晚举行的100米-大型组比赛中，北京人形机器人创新中心的天工 Ultra机器人以8.64秒的成绩强势夺冠，再度刷新此前纪…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684850.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:35:22.000Z"
-    },
-    {
-      "id": "9925a42f3c75",
-      "title": "尼泊尔北部泥石流已致17人死亡 384人失联",
-      "summary": "中新社加德满都8月26日电(记者 崔楠)中国吉隆—尼泊尔拉苏瓦堡口岸尼方一侧当地时间26日上午突发泥石流。据尼泊尔媒体报道，泥石流已在尼泊尔造成至少17人死亡，另有384名游客失联。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684856.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:35:18.000Z"
-    },
-    {
-      "id": "363158af054c",
-      "title": "“赛考斯”参访内蒙古师范大学附属中学",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202217.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:33:56.000Z"
-    },
-    {
-      "id": "f7a461e40d93",
-      "title": "尼泊尔北部山洪遇难人数升至72人",
-      "summary": "据尼泊尔警方26日晚通报，该国北部地区山洪造成的死亡人数已升至72人。(总台记者 张玥)",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684859.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:33:20.000Z"
-    },
-    {
       "id": "b9d57424cb5f",
       "title": "Vholume review – a headlong rush of parkour perfection in a brutalist wonderland",
       "summary": "PC; Nathan Grange, Léonard Lemaitre, Niels Tiercelin, IronEqual Race across impossible dystopian cityscapes in this exhilarating game of wall-runs, death-chancing leaps and split…",
@@ -468,6 +488,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-26T12:30:12.000Z"
+    },
+    {
+      "id": "dbde5a43d42b",
+      "title": "Hope and concern swirl for Ohioans around ‘world’s largest datacenter’",
+      "summary": "Piketon datacenter promises to generate thousands of jobs, but environmental groups voice concern over project On a winding road tucked away behind forests in the Appalachian foo…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/ohio-datacenter-reaction",
+      "source": "The Guardian Technology",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T12:00:12.000Z"
     },
     {
       "id": "9dbc78624e1e",
@@ -550,16 +580,6 @@
       "publishedAt": "2026-08-26T10:00:41.000Z"
     },
     {
-      "id": "c4b813e0cde4",
-      "title": "Transport regulator investigating two more incidents at Sydney airport, taking tally to six in a month – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Angela Jackson, the commissioner of the Productivity Commission, said the body stands by the…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-26T09:38:23.000Z"
-    },
-    {
       "id": "41de33b24589",
       "title": "Clive Barker’s Hellraiser: Revival – a game so grotesque it scares its own director",
       "summary": "With oversight from Clive Barker himself, and a role reprisal as Pinhead from actor Doug Bradley, Revival aims to introduce new audiences to the discomfort of Hellraiser If a hor…",
@@ -588,16 +608,6 @@
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-08-26T08:48:43.000Z"
-    },
-    {
-      "id": "8cfa52c95642",
-      "title": "Now you seafood, now you don’t: $350k worth of oysters vanish without a trace in NSW",
-      "summary": "About 400,000 juvenile Sydney rock oysters were taken from an oyster farm on state’s mid-north coast earlier this year, police say Get our breaking news email , free app or daily…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/now-you-seafood-now-you-dont-350k-worth-of-oysters-vanish-without-a-trace-in-nsw",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-26T08:12:53.000Z"
     },
     {
       "id": "8f6873c13f6b",
@@ -762,22 +772,12 @@
     {
       "id": "4c0fc61716b5",
       "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
-      "summary": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry Taiwanese prosecutors charged nine people Monday, includi…",
+      "summary": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry Taiwanese prosecutors charged nine people on Monday, incl…",
       "url": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
       "source": "The Guardian World",
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-25T19:02:42.000Z"
-    },
-    {
-      "id": "17e67746e975",
-      "title": "Trump-backed Ken Paxton unveils ‘Texas first’ datacenter plan aimed at ‘negative impact’",
-      "summary": "The Republican Senate candidate announced the plan with a graphic flagged as ‘Made with AI’ US politics live – latest updates Ken Paxton , a Republican candidate for the US Senat…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/ken-paxton-datacenters-plan-texas",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-25T17:54:00.000Z"
     },
     {
       "id": "16072e1bc5b2",
@@ -828,16 +828,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-25T15:47:56.000Z"
-    },
-    {
-      "id": "e231bfe4fbd6",
-      "title": "Australia may face a rush of datacentre construction as AI firms look to avoid upcoming rules, experts say",
-      "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water use Follow our Australia news live blog for latest up…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-25T15:00:19.000Z"
     },
     {
       "id": "5963f99ea06f",
@@ -1228,6 +1218,16 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-18T04:00:13.000Z"
+    },
+    {
+      "id": "4d583e25e4ce",
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill…",
+      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "source": "The Guardian Business",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-15T10:00:54.000Z"
     }
   ]
 }
