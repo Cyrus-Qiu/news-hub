@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T16:54:05.686Z",
+  "updatedAt": "2026-08-26T19:13:52.627Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "604d0c1fcbed",
+      "title": "Girl, 13, among missing British citizens after flash flood in Nepal",
+      "summary": "More than 400 travellers are said to be missing after flood on Tibet border, including 33 Britons Flash floods on Nepal-Tibet border – latest updates Thirty-three British citizen…",
+      "url": "https://www.theguardian.com/world/2026/aug/26/missing-british-citizens-flash-flood-nepal",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T18:45:32.000Z"
+    },
+    {
+      "id": "aa44e82a53be",
+      "title": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
+      "summary": "At least 157 people dead and hundreds of tourists among missing after roads, bridges and power plants swept away Nepal-Tibet floods – latest updates At least 157 people have been…",
+      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T18:28:51.000Z"
+    },
+    {
+      "id": "098313962fac",
+      "title": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
+      "summary": "The US president expected Ottawa to bow to tariff demands, but Canada is striking back – and it could cost Americans This was originally published in This Week in Trumpland. Sign…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-26T18:15:21.000Z"
+    },
     {
       "id": "49ce11bcc422",
       "title": "国际人士析多国对华好感度攀升",
@@ -210,16 +240,6 @@
       "publishedAt": "2026-08-26T14:36:19.000Z"
     },
     {
-      "id": "aa44e82a53be",
-      "title": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
-      "summary": "More than 380 tourists among those unaccounted for after homes, roads, bridges and power plants swept away Nepal-Tibet floods – latest updates At least 95 people have died and hu…",
-      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-26T14:07:38.000Z"
-    },
-    {
       "id": "c59bc81ac7e1",
       "title": "尼泊尔北部山洪遇难人数升至18人 数百名游客失联",
       "summary": "中新网8月26日电 综合报道，尼泊尔北部地区山洪造成的死亡人数已升至18人。",
@@ -228,6 +248,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-26T14:02:06.000Z"
+    },
+    {
+      "id": "625d4e0f2b57",
+      "title": "With the end of physical media in sight, gamers have had enough",
+      "summary": "An increasing tension between players and publishers about ownership of titles could lead to a divestment from the system the big companies are trying to enforce At the time of p…",
+      "url": "https://www.theguardian.com/games/2026/aug/26/gamers-are-pushing-back-against-the-end-of-physical-media",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-26T14:00:16.000Z"
     },
     {
       "id": "b56db88bf843",
@@ -840,16 +870,6 @@
       "publishedAt": "2026-08-25T12:31:53.000Z"
     },
     {
-      "id": "abd815a5b67b",
-      "title": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’",
-      "summary": "Gao Zhen sentenced to three years in prison after already spending two years in detention Gao Zhen, a prominent Chinese artist known for provocative sculptures of the former lead…",
-      "url": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T11:53:58.000Z"
-    },
-    {
       "id": "6df055c1da95",
       "title": "Meta goes on trial as Silicon Valley faces a growing backlash",
       "summary": "Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US te…",
@@ -938,16 +958,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-25T00:51:59.000Z"
-    },
-    {
-      "id": "87a8f1428405",
-      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
-      "summary": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president,…",
-      "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T00:34:47.000Z"
     },
     {
       "id": "bcfd274ba3af",
@@ -1098,16 +1108,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-23T14:00:34.000Z"
-    },
-    {
-      "id": "0136dbac126e",
-      "title": "If all car tyres were filled with CO2, would this cut atmospheric carbon significantly?",
-      "summary": "The long-running series in which readers answer other readers’ questions probes an intriguing scientific question in relation to the climate emergency Readers reply: Is it inevit…",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/23/if-all-car-tyres-were-filled-with-co2-would-this-cut-atmospheric-carbon-significantly",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-23T13:00:33.000Z"
     },
     {
       "id": "bac0527753d8",
