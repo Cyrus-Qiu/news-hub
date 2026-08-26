@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T14:21:07.128Z",
+  "updatedAt": "2026-08-26T16:02:32.524Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,19 +30,149 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "848aed629e6b",
+      "title": "上海抢抓AI赋能科技服务业新机遇",
+      "summary": "中新社上海8月26日电 (记者 郑莹莹)上海市科学技术委员会等多部门26日对外发布《上海市科技研发与创新服务业高质量发展行动方案》(简称“方案”)。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684886.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-26T15:48:39.000Z"
+    },
+    {
       "id": "27f82cc17dcc",
-      "title": "西藏—尼泊爾邊境山洪暴發 數百人失蹤",
-      "summary": "事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中國官媒稱當地出現「重大人員傷亡」；尼泊爾確認數百外國遊客失蹤。",
+      "title": "西藏—尼泊爾邊境山洪暴發 數百人失蹤包括多國遊客",
+      "summary": "事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中尼兩國數百人失聯，其中包括尼方340餘名外國遊客。",
       "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC 中文",
       "category": "国际",
       "language": "zh",
-      "publishedAt": "2026-08-26T14:17:15.000Z"
+      "publishedAt": "2026-08-26T15:41:22.000Z"
+    },
+    {
+      "id": "0efb532aefa3",
+      "title": "西藏吉隆泥石流灾害造成3人遇难265人失联",
+      "summary": "中新社日喀则8月26日电 (赵朗 江飞波 贡嘎来松 李林)8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏自治区日喀则市吉隆县吉隆口岸区域发生重大人员伤亡、失联。记者从前方指挥部获悉，截至8月26日20时，经初步核实统计，此次泥石流灾害已造成3人遇难，265人失联，具体伤亡人数还在进一步核查中，各项救援工作正有序开展。(完)",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684885.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T15:39:12.000Z"
+    },
+    {
+      "id": "f4ee83b46f3f",
+      "title": "中国气象局升级重大气象灾害应急响应",
+      "summary": "中新网8月26日电(记者 邵萌) 8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。记者从中国气象局获悉，26日18时10分，中国气象局升级重大气象灾害(台风、暴雨、强对流)三级应急响应为二级。气象部门将继续强化国省市县联动，综合运用高分卫星遥感与气象监测数据，排查泥石流影响区域周边次生灾害风险隐患，…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684884.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T15:29:40.000Z"
+    },
+    {
+      "id": "3fb298f41fd9",
+      "title": "113车601名消防救援人员赶赴吉隆",
+      "summary": "中新网8月26日电(记者 邵萌) 8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。记者从国家消防救援局获悉，截至20时，国家综合性消防救援队伍共出动113车、601名消防救援人员，携带搜救犬、生命探测仪、冲锋舟等救援设备赶赴现场救援处置。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684883.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T15:24:13.000Z"
+    },
+    {
+      "id": "9813f411a611",
+      "title": "中印边界问题特别代表第25次会晤达成8点成果共识",
+      "summary": "新华社北京8月26日电#8195;8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题坦诚、深入交换意见，达成8点成果共识如下：",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684880.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T15:17:07.000Z"
+    },
+    {
+      "id": "6701f122794e",
+      "title": "雪域高原的这个县如何拉长“就业半径”？",
+      "summary": "中新网林芝8月26日电(记者 李国庆)近日，记者随“走进藏博会·记录新西藏”媒体行走进西藏林芝市工布江达县，观察发现，该县在扩大就业方面，已探索出自己的路。工布江达县城向南35公里是仲莎乡结牧村的念朗康养温泉，向东约45公里是巴河产业园区，向东约90公里是巴松措景区。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684877.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T15:13:39.000Z"
+    },
+    {
+      "id": "4a0ee1f99b56",
+      "title": "中外作家畅聊记忆与写作 “记忆栖居之处”文学对话活动举办",
+      "summary": "中新网北京8月26日电 (记者 高凯)一场以“记忆栖居之处”为主题的文学对话日前在北京塞万提斯学院举行。哥伦比亚作家埃克托·阿巴德·法乔林塞、西班牙作家萨拉·梅萨与中国作家乔叶齐聚一堂，围绕记忆、写作与遗忘展开深度交流。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-26/10684879.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T15:12:59.000Z"
+    },
+    {
+      "id": "5fdeedb246a9",
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separa…",
+      "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T15:09:58.000Z"
+    },
+    {
+      "id": "1399a8963afc",
+      "title": "Ending private health rebate for Australians 65 and over is ‘good policy change’, report co-author finds",
+      "summary": "Research finds just 0.1-0.4% of the total insured population will ditch insurance, while the government will save as much as $940m a year Get our breaking news email , free app o…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/27/private-health-insurance-rebate-65-and-over",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T15:00:17.000Z"
+    },
+    {
+      "id": "644dd871ecc8",
+      "title": "‘Reluctant’ approval for Tasmanian datacentre sets marker for national battle",
+      "summary": "Concerns over planning process as George Town council gives go-ahead for 288MW AI factory despite opposition from locals Get our breaking news email , free app or daily news podc…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/27/tasmania-datacentre-ai-standards-national-cabinet-albanese-government",
+      "source": "The Guardian World",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-26T15:00:15.000Z"
+    },
+    {
+      "id": "49c7aed18d02",
+      "title": "​W​hy are European leaders staying silent after our summer of climate shock?",
+      "summary": "Lethal temperatures ​and wildfires have exposed a widening gulf between voters demanding ​action and politicians unwilling to confront the long-term choices global heating requir…",
+      "url": "https://www.theguardian.com/world/2026/aug/26/why-are-european-leaders-staying-silent-after-our-summer-of-climate-shock",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T14:40:15.000Z"
+    },
+    {
+      "id": "d12521684efe",
+      "title": "西藏吉隆遭受泥石流灾害 已造成265人失联3人遇难",
+      "summary": "2026年8月26日，日喀则市吉隆县发生泥石流灾害。记者从前方指挥部获悉，截至8月26日20时，经初步核实统计，此次泥石流灾害已造成3人遇难，265人失联，具体伤亡人数还在进一步核查中，各项救援工作正有序开展。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684878.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T14:39:08.000Z"
+    },
+    {
+      "id": "85eb14af6c80",
+      "title": "Flight attendant’s breast cancer was occupational disease, court rules",
+      "summary": "Sophie Lainault, who worked for Air France, wins legal case linking illness to more than 12,600 hours on flights A flight attendant in France has succeeded in having her breast c…",
+      "url": "https://www.theguardian.com/society/2026/aug/26/flight-attendant-breast-cancer-occupational-disease",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T14:36:19.000Z"
     },
     {
       "id": "aa44e82a53be",
       "title": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
-      "summary": "More than 380 tourists among those unaccounted for after homes, roads, bridges and power plants swept away At least 95 people have died and hundreds are missing after flash flood…",
+      "summary": "More than 380 tourists among those unaccounted for after homes, roads, bridges and power plants swept away Nepal-Tibet floods – latest updates At least 95 people have died and hu…",
       "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
       "source": "The Guardian World",
       "category": "国际",
@@ -212,7 +342,7 @@
     {
       "id": "b8449375ba3f",
       "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $17bn",
-      "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on nighttime use Meta reached an agreement to settle a landmark case brought…",
+      "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on nighttime use Meta agreed to significant changes to its Instagram and Fac…",
       "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
       "source": "The Guardian Business",
       "category": "科技",
@@ -288,86 +418,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-26T13:27:32.000Z"
-    },
-    {
-      "id": "427eccf01444",
-      "title": "黑龙江省民营经济统战工作协调机制2026年第一次全体会议召开",
-      "summary": "中新网哈尔滨8月26日电 (韩雪)8月25日，黑龙江省民营经济统战工作协调机制2026年第一次全体会议在哈尔滨召开，会议贯彻落实党中央决策部署和省委工作要求，听取《黑龙江省民营经济发展促进条例》修订等有关事项情况汇报，部署全省民营经济统战工作。黑龙江省委常委、统战部部长，省民营经济统战工作协调机制召集人刘振国主持会议并讲话。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684855.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:27:16.000Z"
-    },
-    {
-      "id": "9e72f1c13cc3",
-      "title": "闽台青少年结对交流：共话日常、同享家宴",
-      "summary": "中新网宁德8月26日电 (魏海平 陈绘羽)2026年两岸(霞浦)青少年足球邀请赛期间，台湾球员与福建省宁德市霞浦县青少年开展了一场结对交流活动。台湾球员25日走进霞浦学生家中，共话日常、同享家宴，在烟火气中增进了解，结下情谊。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684849.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:26:30.000Z"
-    },
-    {
-      "id": "bcaeba548506",
-      "title": "辽宁省发布2026年惠民惠农财政补贴项目清单 让政策红利精准直达民众",
-      "summary": "中新网沈阳8月26日电 (记者 李晛)为确保国家惠民惠农财政补贴政策不折不扣落地，近日，辽宁省财政厅以“一张清单管制度”为目标，全面提升精细化管理水平，公开发布《2026年辽宁省省级以上惠民惠农财政补贴项目清单》，将77项省级以上财政补贴政策纳入清单统一管理，较上年增加25项。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684842.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:26:00.000Z"
-    },
-    {
-      "id": "f9022077a6ca",
-      "title": "广东“石都” “村 BA”点燃乡村文旅烟火气",
-      "summary": "中新网云浮8月26日电 题：广东“石都” “村 BA”点燃乡村文旅烟火气",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684847.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:25:34.000Z"
-    },
-    {
-      "id": "c4fa57950f96",
-      "title": "中非生物多样性保护经验交流活动在肯尼亚举行",
-      "summary": "中新网约翰内斯堡8月26日电 中非生物多样性保护经验交流与培训班暨“鹰飞之城”巡展近日在肯尼亚西纳罗克社区举行。来自中国重庆、肯尼亚、坦桑尼亚的生态主管部门、保护区管理机构、公益组织、高校及当地百余名师生代表相聚东非草原，围绕社区保护、科技护野、青少年生态教育展开对话。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684822.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:24:54.000Z"
-    },
-    {
-      "id": "e70fc82e188c",
-      "title": "福建沿海57条客渡运航线停航",
-      "summary": "中新网福州8月26日电 (记者 龙敏)随着今年第18号台风“沙德尔”逐渐逼近，福建沿海风浪渐大。福建海事局26日通报，截至26日12时，泉州及以北海域57条客渡运航线全部停航，全省118个水工项目全部停工。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684844.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:24:20.000Z"
-    },
-    {
-      "id": "e87ca7efe2f8",
-      "title": "2026广州黄埔国际网球公开赛总奖金17.7万美元 海内外多位名将参赛",
-      "summary": "中新网广州8月26日电(记者 王坚)据广开人才·2026广州黄埔国际网球公开赛暨国际男子职业网球挑战赛ATP100赛事组委会26日通报，作为华南地区积分最高的ATP挑战赛，本届赛事定于9月13日至9月20日在广州开发区开赛，为期8天，总奖金升级至17.7万美元；根据8月24日ATP初步报名，共有69名来自全球22个国家和地区的选手报名参赛。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684846.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:24:06.000Z"
-    },
-    {
-      "id": "2dea148f094f",
-      "title": "上海体育局回应刘翔“买断”争议：将保持良好沟通妥善安置",
-      "summary": "针对2004年雅典奥运会男子110米栏冠军刘翔26日在个人微博发文情况，上海市体育局回应称，上海市体育局、上海市竞技体育训练管理中心均将与其保持良好沟通交流，妥善做好各项保障安置工作。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684848.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T13:21:40.000Z"
     },
     {
       "id": "b9d57424cb5f",
@@ -482,7 +532,7 @@
     {
       "id": "490195b99130",
       "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
-      "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western imports After three years at catering school, Abiro Wisdom wa…",
+      "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western imports After three years at catering school in Accra, Abiro…",
       "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
       "source": "The Guardian World",
       "category": "国际",
@@ -510,16 +560,6 @@
       "publishedAt": "2026-08-26T08:12:53.000Z"
     },
     {
-      "id": "9c3507f84293",
-      "title": "Productivity Commission says ‘line was crossed’ when WA premier labelled them ‘east coast clowns’ over GST",
-      "summary": "Commissioner Angela Jackson also said it was ‘disappointing’ that Anthony Albanese had ruled out changes to Western Australia’s GST arrangements Follow our Australia news live bl…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/wa-gst-deal-productivity-commission-western-australia-premier-roger-cook",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-26T07:38:30.000Z"
-    },
-    {
       "id": "8f6873c13f6b",
       "title": "美國再次制裁伊朗能成功向德黑蘭政權施壓嗎？",
       "summary": "美國稱新的制裁是「經濟D日（economic D-Day）」，但德黑蘭領導人以前也曾挺過了制裁。",
@@ -528,16 +568,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-26T07:35:58.000Z"
-    },
-    {
-      "id": "deed0a0e4383",
-      "title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
-      "summary": "Labor put ‘levy on all public transport fares in metropolitan Melbourne and regional Victoria’ since January 2025, auditor general finds, as questions raised over premier’s invol…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-26T07:17:56.000Z"
     },
     {
       "id": "723882ebcd22",
@@ -690,16 +720,6 @@
       "publishedAt": "2026-08-26T00:07:11.000Z"
     },
     {
-      "id": "6ee60046aeca",
-      "title": "FBI raided Spanish vacation rental of wealthy leftwing funder James ‘Fergie’ Chambers after his arrest",
-      "summary": "Lawyer Baltasar Garzón, representing Chambers, said case against his client is ‘very strange’ as US requests extradition FBI agents raided the Ibiza, Spain, vacation rental of 41…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/fbi-raid-james-fergie-cox-vacation-rental",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T20:57:28.000Z"
-    },
-    {
       "id": "22bb8b9f844a",
       "title": "Wife of US soldier deported after Trump rollback on military family protections",
       "summary": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0 The wife of an active-duty US soldier was deported on Monday to h…",
@@ -768,16 +788,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-25T16:17:44.000Z"
-    },
-    {
-      "id": "3c7c1d15c5fa",
-      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – as it happened",
-      "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies, as Kremlin accuses Burnham of wanting to continue war Burnham plans trip to New York as Ukraine ple…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T16:09:08.000Z"
     },
     {
       "id": "4a4ad788faa4",
@@ -1018,16 +1028,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-24T11:00:31.000Z"
-    },
-    {
-      "id": "dd3abd4dcc34",
-      "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
-      "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bis…",
-      "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T10:11:34.000Z"
     },
     {
       "id": "94730a153c82",
