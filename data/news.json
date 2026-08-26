@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:52:33.705Z",
+  "updatedAt": "2026-08-26T01:51:06.534Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,184 +30,364 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "1cd0e778fac0",
-      "title": "开学季，要收心也要小心",
-      "summary": "(服务窗)",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684234.shtml",
+      "id": "39a3bc88d90d",
+      "title": "孙炜东：更加联通和更具活力的中国—中亚，有利于促进亚洲共同发展繁荣",
+      "summary": "中新网北京8月26日电 (余湛奕 马帅莎 刘纪)“促进建设和平与繁荣的亚洲命运共同体”对话大会25日在北京举办。当天下午，在“以‘同球共济’精神打造伙伴关系”分论坛上，中国—中亚机制秘书长孙炜东表示，中国—中亚机制自建立之始，就秉持危难之际守望相助、变局之下团结协作、发展路上并肩前行的初愿初心。在元首外交的战略引领下，中国与中亚国家以平等相交、真诚相待的…",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684291.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T23:46:38.000Z"
+      "publishedAt": "2026-08-26T01:46:18.000Z"
     },
     {
-      "id": "285deed53f7b",
-      "title": "四川若尔盖：黄河九曲第一湾吸引游人观光",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202124.shtml",
+      "id": "31d6d110fc96",
+      "title": "中证商品期货系列板块指数今天正式发布",
+      "summary": "今天(26日)，中证商品期货系列板块指数正式对外发布。该板块指数以工业板块、农畜板块为首，共40条指数。系列指数既可精准、客观表征各商品期货细分板块价格运行趋势，又可以反映商品板块期货投资的收益走势，为投资者开展投资收益评价、业绩对标提供公允基准。同时，将助力稳步提升我国在全球大宗商品领域的定价话语权与国际影响力。(央视新闻客户端)",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684305.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T23:41:19.000Z"
+      "publishedAt": "2026-08-26T01:45:29.000Z"
+    },
+    {
+      "id": "6883d5aa93cc",
+      "title": "“国宝第一市”山西运城发力文商融合 变流量为增量",
+      "summary": "中新网太原8月26日电 (记者 李庭耀)“‘十五五’时期，我们将继续紧扣‘文商融合旅游热点门户’定位，把文旅流量转化为产业富民的增量。”山西省运城市副市长张锐25日表示。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684290.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:43:43.000Z"
     },
     {
       "id": "c4b813e0cde4",
-      "title": "Australia news live: Ooshies trend sees profit boom for Woolworths; productivity commissioner says ‘line was crossed’ by WA premier in GST scuffle",
+      "title": "Australia news live: search continues for pilot who crashed into sea off NT; Nine Entertainment reports earnings lift",
       "summary": "Follow updates live Get our breaking news email , free app or daily news podcast Angela Jackson, the commissioner of the Productivity Commission, said the body stands by the inte…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-08-26T01:43:42.000Z"
+    },
+    {
+      "id": "deed0a0e4383",
+      "title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
+      "summary": "Labor put ‘levy on all public transport fares in metropolitan Melbourne and regional Victoria’ since January 2025, auditor-general says The Victorian government secretly increase…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
+      "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-25T23:38:17.000Z"
+      "publishedAt": "2026-08-26T01:43:13.000Z"
     },
     {
-      "id": "550491eb33bb",
-      "title": "向“假专家”亮剑，让专业回归专业",
+      "id": "52c4e1b827f6",
+      "title": "大学生每月生活费多少才算“够”？开学季生活费话题再引热议",
+      "summary": "又一批新生即将踏入大学校园，生活费这一话题，再次引来热议。每月多少生活费才算合理？即将入学的大一新生、已经走过大学时光的过来人，包括家长，都有着不同的想法。过去十年，大学生月均生活费又发生了哪些变化？扬子晚报/紫牛新闻记者进行了小调查。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684304.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:42:37.000Z"
+    },
+    {
+      "id": "dc69c3c0812b",
+      "title": "【这个城市有点潮】鄂尔多斯：“植此青绿” 见证毛乌素的绿色奇迹",
       "summary": "",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684231.shtml",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202145.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T23:36:45.000Z"
+      "publishedAt": "2026-08-26T01:42:19.000Z"
     },
     {
-      "id": "2836dc2c71a3",
-      "title": "特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆",
-      "summary": "中新网8月26日电 据英国广播公司(BBC)当地时间25日报道，美国总统特朗普在社交媒体“真实社交”上表示，美国海军刚刚通知他，霍尔木兹海峡国际水域内的所有水雷均已被清除或引爆。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684229.shtml",
+      "id": "28f76a86d9f8",
+      "title": "8月26日人民币对美元中间价报6.7829 上调23个基点",
+      "summary": "中新网8月26日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月26日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7829元，上调23个基点。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684292.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T23:28:57.000Z"
+      "publishedAt": "2026-08-26T01:40:43.000Z"
     },
     {
-      "id": "37563caa8404",
-      "title": "越来越多的快递，为何能越送越快？",
-      "summary": "从车间分拣到街头配送，物流全链条“黑科技”上线",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684228.shtml",
+      "id": "9ceb80f5e8f6",
+      "title": "图省事，女子干吞蒙脱石散……后果挺严重",
+      "summary": "图省事，女子干吞蒙脱石散……",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-26/10684302.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T23:26:51.000Z"
+      "publishedAt": "2026-08-26T01:39:23.000Z"
     },
     {
-      "id": "9ab9a38c4f66",
-      "title": "付费飞机餐走红，免费飞机餐会消失吗？",
-      "summary": "曾经坐飞机，只要航程达标，经济舱旅客就能拿到一份统一配送的免费飞机餐，好不好吃全凭运气。如今，煲仔饭、牛排、冒菜、鱼子酱拼盘等花样繁多的餐食陆续登上客舱，只不过这些精致美食大多需要额外付费。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684227.shtml",
+      "id": "e56c454a597d",
+      "title": "（活力中国调研行）影视带动文旅，光影经济点亮山东乐陵",
+      "summary": "中新社山东乐陵8月26日电 题：影视带动文旅，光影经济点亮山东乐陵",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684298.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T23:18:48.000Z"
+      "publishedAt": "2026-08-26T01:39:19.000Z"
     },
     {
-      "id": "ca56d8a010cb",
-      "title": "外媒：罕见！美中情局局长秘访莫斯科 与俄方举行未公开会谈",
-      "summary": "中新网8月26日电 据美国哥伦比亚广播公司(CBS)、英国广播公司(BBC)当地时间25日报道，美国中央情报局局长拉特克利夫已前往俄罗斯首都莫斯科与俄方进行未公开会谈。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684226.shtml",
+      "id": "16e128833ec3",
+      "title": "8月26日央行开展2395亿元7天期逆回购操作",
+      "summary": "中新网8月26日电 据央行网站消息，2026年8月26日中国人民银行以固定利率、数量招标方式开展了2395亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684296.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T23:18:10.000Z"
+      "publishedAt": "2026-08-26T01:36:09.000Z"
     },
     {
-      "id": "22845f3644f0",
-      "title": "美国蒙大拿州家庭枪击惨案致9死 枪手杀害8名亲属后自杀",
-      "summary": "中新网8月26日电 据美国广播公司(ABC)当地时间25日报道，一名男子23日在美国蒙大拿州比灵斯市一处住宅内与亲属共进晚餐时，杀害了包括4名儿童在内的8名亲属，随后自杀身亡。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684225.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T23:00:36.000Z"
-    },
-    {
-      "id": "fbf23b7b609b",
-      "title": "美移民执法局7月逮捕近5万人 创特朗普第二任期单月新高",
-      "summary": "中新社华盛顿8月25日电 据美国媒体25日报道，美国移民与海关执法局(ICE)7月逮捕近5万名移民，创美国总统特朗普第二任期以来单月逮捕人数最高纪录。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684224.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T22:46:50.000Z"
-    },
-    {
-      "id": "0b5b903d70fc",
-      "title": "8月26日早报",
+      "id": "e53b987eb60c",
+      "title": "直播：国新办就全力抓好“十五五”规划实施，加快推进新型工业化有关情况举行发布会",
       "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-26/10684223.shtml",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-26/10684301.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T22:45:20.000Z"
+      "publishedAt": "2026-08-26T01:34:59.000Z"
     },
     {
-      "id": "5afcaf8ce6cd",
-      "title": "加拿大宣布对价值约200亿美元美国商品征收报复性关税",
-      "summary": "中新网8月26日电 据路透社报道，当地时间25日，加拿大政府宣布对价值约200亿美元的美国商品征收报复性关税。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684222.shtml",
+      "id": "b1c2b2256545",
+      "title": "A股开盘：超2500只个股飘绿，沪指低开，深指、创业板指高开",
+      "summary": "；通信设备、发电设备板块上涨，油气、石化、海运下跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684300.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T22:44:08.000Z"
+      "publishedAt": "2026-08-26T01:34:59.000Z"
     },
     {
-      "id": "018032e0b199",
-      "title": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
-      "summary": "中新网8月26日电 据美国全国广播公司(NBC)当地时间8月25日报道，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
+      "id": "c74076970686",
+      "title": "中国引领人工智能全球治理的三重路径（人民要论）",
+      "summary": "习近平主席在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上发表的主旨讲话中提出“坚持开放共赢，驱动创新发展”“强化风险意识，确保安全可控”“鼓励包容并蓄，促进文明互鉴”“倡导和衷共济，完善全球治理”，从发展、安全、文明、治理四个维度，系统回答了构建公正合理的全球人工智能治理体系的一系列重大问题。",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-26/10684299.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T22:31:05.000Z"
+      "publishedAt": "2026-08-26T01:34:19.000Z"
     },
     {
-      "id": "a87f4457f134",
-      "title": "爱吃糖的小孩长大了，甜食配方怎么改？",
-      "summary": "(新视野)",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-26/10684220.shtml",
+      "id": "38372891b4a4",
+      "title": "（寻味中华丨技艺）千年铜梁龙灯“轻量化”焕新",
+      "summary": "中新社重庆8月26日电 题：千年铜梁龙灯“轻量化”焕新",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-26/10684293.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T22:00:46.000Z"
+      "publishedAt": "2026-08-26T01:32:17.000Z"
     },
     {
-      "id": "bd7829ed7f7c",
-      "title": "古巴谴责美国延长对古实施经济封锁",
-      "summary": "古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
+      "id": "c1a2b7b0def9",
+      "title": "中国专家组首赴拉美开展地震科考 完成委内瑞拉地震科考任务回国",
+      "summary": "中新网北京8月26日电 (记者 孙自法)记者从中国地震局获悉，赴委内瑞拉开展地震科学考察任务的中国专家组已圆满完成任务，于8月25日回国。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684284.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T21:56:21.000Z"
+      "publishedAt": "2026-08-26T01:31:31.000Z"
     },
     {
-      "id": "9c45fc68ceba",
-      "title": "中方呼吁推动停火止战以保障粮食生产安全",
-      "summary": "中国常驻联合国代表傅聪25日在武装冲突与粮食安全问题安理会高级别公开辩论会上发言，呼吁推动停火止战以保障粮食生产的安全环境。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684218.shtml",
+      "id": "acb60d63fd53",
+      "title": "越南青年桂林重温革命友谊 续写青年友好交流新篇章",
+      "summary": "图为研学营代表参观南溪山医院院史陈列馆。李金戈 摄 图为研学营代表参观南溪山医院大礼堂。李金戈 摄 图为研学营代表参观越南学校纪念馆。欧惠兰 摄 图为研学营代表参观越南学校纪念馆。欧惠兰 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684265.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T21:54:15.000Z"
+      "publishedAt": "2026-08-26T01:31:29.000Z"
     },
     {
-      "id": "cff3122a6b46",
-      "title": "台风“紫檀”在广东徐闻再次登陆 广东广西等地今明天将有强风雨",
-      "summary": "中国天气网讯 今天(8月26日)3时25分前后，今年第19号台风“紫檀”以热带风暴级再次登陆广东省徐闻县。受“紫檀”及其减弱后的环流、季风槽共同影响，今明天，广西、广东、云南等地将有强降雨，部分地区有大到暴雨，局地大暴雨，需防范持续降雨可能引发的次生灾害。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684217.shtml",
+      "id": "84a0877dc3fa",
+      "title": "人这一辈子，一定要去一趟舟山！",
+      "summary": "舟山的海浪沙滩美景。葛恩嘉 摄 炎炎夏日，暑气升腾",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684297.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T21:52:09.000Z"
+      "publishedAt": "2026-08-26T01:29:39.000Z"
     },
     {
-      "id": "83d4aa067a20",
-      "title": "俄远东在建天然气化工项目火灾致死人数升至3人",
-      "summary": "中新社莫斯科8月25日电 位于俄罗斯远东阿穆尔州的阿穆尔天然气化工综合体项目25日通报称，该项目当天发生的火灾事故导致的死亡人数升至3人，146人受伤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684216.shtml",
+      "id": "d9b59aee58e1",
+      "title": "安徽合肥：黑科技让“诗和远方”触手可及",
+      "summary": "图为身着黄梅戏《女驸马》戏服的机器人引关注。中新社记者 赵强 摄 图为客商体验科大讯飞AI翻译眼镜，设备支持多语种实时转译，可服务入境游客跨语言沟通场景。中新社记者 赵强 摄 图为客商体验AI诊疗设备，该产品可通过智能健康检测为康养旅游提供数据化服务。中新社记者 赵强 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684264.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:29:01.000Z"
+    },
+    {
+      "id": "9a2b17ff0718",
+      "title": "菲律宾完成首例远程手术 两名医生在上海远程操控机器人",
+      "summary": "中新网马尼拉8月26日电 菲律宾泌尿中心(UCPI)25日在马尼拉大都会奎松市完成该国首例远程手术。两名菲律宾泌尿外科医生身处中国上海，通过远程操控手术机器人，为一名在菲律宾接受治疗的53岁患者实施前列腺手术。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684289.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-25T21:44:00.000Z"
+      "publishedAt": "2026-08-26T01:28:35.000Z"
+    },
+    {
+      "id": "141875d739d3",
+      "title": "从“门票经济”迈向“创新经济” 业界共话科技重塑文旅新体验",
+      "summary": "中新网合肥8月26日电 (江婉琪)“科技是翅膀，文化是心脏。只有深耕在地文化，科技赋能才有意义。”大型史诗文旅演艺《徽秀》总导演张凯25日在合肥说。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-26/10684285.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:27:53.000Z"
+    },
+    {
+      "id": "e010a20101a4",
+      "title": "德国Ifo商业景气指数连续四个月回升",
+      "summary": "中新网柏林8月26日电(记者 马秀秀)德国伊弗经济研究所(Ifo)25日发布的数据显示，德国Ifo商业景气指数8月达到88.8，较7月上涨2.1点。这是该指数连续第四个月上涨。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684286.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:27:51.000Z"
+    },
+    {
+      "id": "1385b38796a5",
+      "title": "APEC粮食安全部长级会议参会代表在杭州感受中国历史与现代农业",
+      "summary": "图为无人机在余杭前溪高效生态农业示范园区内进行农事活动。中新社记者 吴君毅 摄 图为参会嘉宾在余杭前溪高效生态农业示范园区了解中国生产的果蔬清洗机。中新社记者 吴君毅 摄 图为参会嘉宾在余杭前溪高效生态农业示范园区了解当地的农机设备。中新社记者 吴君毅 摄 图为参会嘉宾在余杭前溪高效生态农业示范园区内录制视频。中新社记者 吴君毅 摄 图为无人机在余杭前溪…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684266.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:27:51.000Z"
+    },
+    {
+      "id": "41e4b092dce4",
+      "title": "“假专家”“水大师”乱象丛生 涉嫌违反多重法律",
+      "summary": "向“假专家”亮剑，让专业回归专业",
+      "url": "https://www.chinanews.com.cn/fz/2026/08-26/10684295.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:27:18.000Z"
+    },
+    {
+      "id": "c7d9ef635370",
+      "title": "德媒：莱比锡机场事件中发现第三架涉事无人机",
+      "summary": "中新网柏林8月26日电 综合多家德国媒体25日报道，有关部门在调查本月初发生的莱比锡机场无人机爆炸物事件时，又发现了第三架无人机及疑似军用炸药。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684282.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:26:18.000Z"
+    },
+    {
+      "id": "7d68bda1d412",
+      "title": "琼港政商代表在港共商金融协同发展新路径",
+      "summary": "中新网香港8月26日电 (记者 邱兆翔)“琼港会客厅——跨境金融合作”主题沙龙25日在香港举办。活动汇集多家金融机构和跨境企业代表，探讨两地在促进产业基金发展、跨境资金管理等领域的合作新路径。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-26/10684281.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:25:38.000Z"
+    },
+    {
+      "id": "c89d93bac002",
+      "title": "深江铁路上跨广珠城际特大桥钢盖梁吊装完成",
+      "summary": "中新网广州8月26日电 (郭军 吴义五 刘福强)8月25日，深江铁路10标中山站南东联络线上跨广珠城际特大桥门式墩钢盖梁完成吊装焊接作业，为后续简支梁架设、桥面系施工筑牢基础。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684276.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:25:34.000Z"
+    },
+    {
+      "id": "95f839c79b7c",
+      "title": "叙利亚武装组织“叙利亚民主力量”宣布解散",
+      "summary": "中新社北京8月26日电 大马士革消息：当地时间8月25日，叙利亚库尔德武装主导的“叙利亚民主力量”领导人马兹卢姆·阿卜迪在叙总统府发表电视讲话，宣布解散“叙利亚民主力量”及库尔德武装此前成立的自治政府，并将其全面整合进叙利亚国家机构。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684250.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:25:06.000Z"
+    },
+    {
+      "id": "15fab60e9b38",
+      "title": "原创话剧《大院·大院》在沈阳上演",
+      "summary": "图为演员在演出中。中新社记者 于海洋 摄 图为演员在演出中。中新社记者 于海洋 摄 图为演员在演出中。中新社记者 于海洋 摄 图为演员在演出中。中新社记者 于海洋 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684277.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:25:00.000Z"
+    },
+    {
+      "id": "d3c576f46f93",
+      "title": "江南古典园林夜色美 亭台楼阁引客来",
+      "summary": "8月25日夜，江苏南京，游客在静谧雅致的瞻园内参观。瞻园是南京地区保存最完好的明清古典园林建筑群，江南四大名园之一，素有 “金陵第一园” 的美誉。中新社记者 泱波 摄 8月25日夜，江苏南京，演员带领游客在静谧雅致的瞻园内参观。瞻园是南京地区保存最完好的明清古典园林建筑群，江南四大名园之一，素有 “金陵第一园” 的美誉。中新社记者 泱波 摄 8月25日夜…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684288.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:24:12.000Z"
+    },
+    {
+      "id": "c1713d018cfb",
+      "title": "专家学者齐聚“千年瓷都”景德镇 共探遗产保护与国际传播新路径",
+      "summary": "中新网景德镇8月26日电 (刘力鑫)8月25日，正值“景德镇手工瓷业遗存”列入《世界遗产名录》满月，“文化遗产保护与陶瓷文化传承创新”国际传播主题研讨会在江西景德镇举办。来自文化研究和国际传播领域的专家学者，宣传、文博系统负责人及陶瓷行业代表齐聚一堂，立足景德镇申遗成果，围绕“深化国际传播广度深度”与“推动遗产价值世界级转化”两大核心命题，共商如何传递中…",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-26/10684275.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:24:10.000Z"
+    },
+    {
+      "id": "b0a16f1ee311",
+      "title": "广州仲裁委员会2025年涉外案件受理量居中国仲裁机构首位",
+      "summary": "中新网广州8月26日电 (记者 方伟彬)广州仲裁委员会25日晚间发布消息，2025年该委员会受理案件27122件，标的额达921亿元，涉外案件受理量居中国仲裁机构首位。涉外裁决已先后获美国、马来西亚、越南等国家法院认可与执行，国际公信力持续攀升。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684272.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T01:24:04.000Z"
+    },
+    {
+      "id": "9c3507f84293",
+      "title": "Productivity Commission says ‘line was crossed’ when WA premier labelled them ‘east coast clowns’ over GST",
+      "summary": "Commissioner Angela Jackson also said it was ‘disappointing’ that Anthony Albanese had ruled out changes to Western Australia’s GST arrangements Follow our Australia news live bl…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/wa-gst-deal-productivity-commission-western-australia-premier-roger-cook",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T01:22:59.000Z"
+    },
+    {
+      "id": "d816dd5a7117",
+      "title": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
+      "summary": "Companion bots are being regulated over worries they foster ‘emotional dependence’ and young people could stop marrying and having families When law student Zhao Wei heard that h…",
+      "url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-26T00:47:38.000Z"
+    },
+    {
+      "id": "79be8793b777",
+      "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
+      "summary": "歐洲哥白尼氣候變化服務的薩曼莎·伯吉斯博士表示，這項紀錄是「另一個表明海洋正面臨越來越大壓力的清晰訊號」。",
+      "url": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-26T00:22:13.000Z"
+    },
+    {
+      "id": "ee7bcae13fd4",
+      "title": "先天性黑色素細胞痣患者：「皮膚使我獨一無二，我正學習接納它。」",
+      "summary": "28歲的勞拉·凱利（Laura Kelly）天生患有先天性黑色素細胞痣（CMN），並在嬰兒時期接受了14次手術。",
+      "url": "https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-26T00:22:07.000Z"
     },
     {
       "id": "6ee60046aeca",
@@ -230,26 +410,6 @@
       "publishedAt": "2026-08-25T20:23:55.000Z"
     },
     {
-      "id": "15eb93ea0557",
-      "title": "美国8月消费者信心指数降至7个月来最低值",
-      "summary": "中新社华盛顿8月25日电 (记者 沙晗汀)世界大型企业联合会当地时间25日公布数据显示，美国8月消费者信心指数降至89.4，创7个月来最低值。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684215.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T20:07:48.000Z"
-    },
-    {
-      "id": "7bce6487a6d2",
-      "title": "广西龙州多个村落成“孤岛” 救援人员水陆多轮接力紧急送物资",
-      "summary": "中新社广西龙州8月26日电 题：广西龙州多个村落成“孤岛” 救援人员水陆多轮接力紧急送物资",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684214.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T20:06:46.000Z"
-    },
-    {
       "id": "4c0fc61716b5",
       "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
       "summary": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry Taiwanese prosecutors charged nine people Monday, includi…",
@@ -258,36 +418,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-25T19:02:42.000Z"
-    },
-    {
-      "id": "28068e1a144c",
-      "title": "湄公河水位上涨致柬埔寨四省逾1.8万户家庭受灾",
-      "summary": "中新社金边8月25日电 湄公河水位持续上涨导致柬埔寨多地发生严重洪灾。柬国家灾害管理委员会当地时间25日通报称，截至目前，这轮灾害已导致该国桔井、上丁、特本克蒙和磅湛4省17个市县超过1.8万户家庭受灾，其中1900多户被紧急疏散至安全地带。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684213.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T18:10:27.000Z"
-    },
-    {
-      "id": "d33459694e41",
-      "title": "新疆阿勒泰加快打造中国高纯石英产业新高地",
-      "summary": "中新社新疆阿勒泰8月25日电 （苟继鹏）25日，以“石英铸基 芯疆未来”为主题的2026高纯石英产业链发展大会在新疆阿勒泰市召开，40余位行业专家学者以及180余家产业链上下游企业代表参会。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684212.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T18:09:25.000Z"
-    },
-    {
-      "id": "4cef2bb97ee5",
-      "title": "王楚钦、孙颖莎领衔WTT中国大满贯赛参赛名单",
-      "summary": "中新社北京8月25日电 世界乒乓球职业大联盟(WTT)中国大满贯赛首批参赛名单25日公布，男、女单打世界排名第一的中国名将王楚钦、孙颖莎领衔该名单。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684211.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T18:08:17.000Z"
     },
     {
       "id": "17e67746e975",
@@ -370,56 +500,6 @@
       "publishedAt": "2026-08-25T15:47:56.000Z"
     },
     {
-      "id": "3c59f0e3e16a",
-      "title": "中印边界问题特别代表在北京举行会晤",
-      "summary": "中新社北京8月25日电 8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题和双边关系等进行了全面深入、友好坦诚的沟通。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684210.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T15:47:34.000Z"
-    },
-    {
-      "id": "6eecd4d7b3ad",
-      "title": "美军机降落莫斯科？克宫回应",
-      "summary": "中新网8月25日电 据路透社25日报道，航班追踪网站Flightradar24的数据显示，一架美国军用运输机降落在莫斯科伏努科沃机场。对此，克里姆林宫表示，没有关于该飞机的信息。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684209.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T15:45:32.000Z"
-    },
-    {
-      "id": "34630ba0711b",
-      "title": "加拿大宣布对美国商品征收报复性关税",
-      "summary": "当地时间25日，加拿大政府宣布，对价值约200亿美元的美国商品征收报复性关税。(央视新闻客户端）",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684208.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T15:26:11.000Z"
-    },
-    {
-      "id": "dce6854da530",
-      "title": "一名在韩失踪中国公民遇害 嫌疑人已被捕",
-      "summary": "中新社首尔8月25日电 (记者 金旭)中国驻釜山总领事馆当地时间25日称，经同韩国警方核实，一名失踪数日的中国女留学生当天被发现死亡，警方已以涉嫌杀人罪逮捕一名30多岁男子。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684207.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T15:23:16.000Z"
-    },
-    {
-      "id": "0087d64f6494",
-      "title": "2026年度电影总票房突破275亿！《欢迎来龙餐馆》公布全球上映计划",
-      "summary": "据网络平台数据",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684206.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T15:08:12.000Z"
-    },
-    {
       "id": "e231bfe4fbd6",
       "title": "Australia may face a rush of datacentre construction as AI firms look to avoid upcoming rules, experts say",
       "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water use Follow our Australia news live blog for latest up…",
@@ -438,36 +518,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T15:00:18.000Z"
-    },
-    {
-      "id": "0d6c7829d38d",
-      "title": "德国二季度GDP环比增速上调至0.3%",
-      "summary": "中新社柏林8月25日电 (记者 马秀秀)德国联邦统计局25日公布的数据显示，经价格、季节和工作日调整后，今年第二季度德国国内生产总值(GDP)环比增长0.3%，较此前公布的初步数据上调0.1个百分点。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684199.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T14:57:00.000Z"
-    },
-    {
-      "id": "55cdf96e5ed4",
-      "title": "马来西亚热浪来袭 多地发布高温警报",
-      "summary": "中新社吉隆坡8月25日电 (记者 刘育英)马来西亚近日遭遇热浪天气。马来西亚气象局25日对全国17个地区发布一级高温“警戒”警报，提醒民众注意防暑降温。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684198.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T14:54:50.000Z"
-    },
-    {
-      "id": "9db3d304416d",
-      "title": "俄远东一在建天然气化工项目发生火灾致1人死亡百余人受伤",
-      "summary": "中新社莫斯科8月25日电 位于俄罗斯远东阿穆尔州的阿穆尔天然气化工综合体项目25日通报称，该项目施工现场发生火灾，造成1人死亡、百余人不同程度受伤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684197.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-25T14:53:06.000Z"
     },
     {
       "id": "5963f99ea06f",
@@ -560,16 +610,6 @@
       "publishedAt": "2026-08-25T09:59:16.000Z"
     },
     {
-      "id": "aef4507e9e23",
-      "title": "Federal MP Luke Gosling charged with breaching bail after alleged assault in NT",
-      "summary": "Member for Solomon was charged after an alleged incident at a cultural festival in Darwin in July Get our breaking news email , free app or daily news podcast Northern Territory…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T09:54:38.000Z"
-    },
-    {
       "id": "806210cffc4e",
       "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
       "summary": "這是普京執政逾25年來首次踏足「北方四島」（俄稱南千島群島）之一。當前正值俄羅斯遭遇來自烏克蘭一波接一波的無人機攻勢之際，普京為何要在此時親赴遠東登島？",
@@ -578,16 +618,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-25T09:28:45.000Z"
-    },
-    {
-      "id": "6c061b159d74",
-      "title": "Woman allegedly repeatedly stabbed with scissors while protecting son from ‘random’ Melbourne CBD attack",
-      "summary": "Man arrested after being restrained and pinned down by ‘heroic’ bystanders, Victoria police say Get our breaking news email , free app or daily news podcast A mother has been tak…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/25/woman-allegedly-repeatedly-stabbed-with-scissors-while-protecting-son-from-random-melbourne-cbd-attack-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T09:01:44.000Z"
     },
     {
       "id": "cae4021f7def",
@@ -870,16 +900,6 @@
       "publishedAt": "2026-08-24T00:02:12.000Z"
     },
     {
-      "id": "e95bd9a6d1cd",
-      "title": "為什麼我們會對未必會傷害自己的事物恐懼萬分？",
-      "summary": "我們很多人都會對一些不構成嚴重風險的事物感到恐懼。科學家認為恐懼並非與生俱來。那麼，這些恐懼究竟是從何而來？",
-      "url": "https://www.bbc.com/zhongwen/articles/cy5d5qp19gyo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-24T00:01:33.000Z"
-    },
-    {
       "id": "1a74238f95c8",
       "title": "Landslide at waste mound in Guinea capital kills 30, government says",
       "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed…",
@@ -1008,16 +1028,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-23T07:00:26.000Z"
-    },
-    {
-      "id": "bd22c76e37e8",
-      "title": "Is this the end of Harry and Meghan’s American dream?",
-      "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the af…",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-22T20:42:12.000Z"
     },
     {
       "id": "07e5ed7023dc",
@@ -1178,16 +1188,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-20T06:43:47.000Z"
-    },
-    {
-      "id": "b0a7757ba7ae",
-      "title": "哈里王子和梅根打算遷回英國，但這會長久嗎？",
-      "summary": "遷居返回英國的這項突然決定，為薩塞克斯公爵伉儷以及英國王室留下許多疑問。",
-      "url": "https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-20T03:13:46.000Z"
     },
     {
       "id": "44d7120b9f9c",
