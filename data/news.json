@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T09:52:03.006Z",
+  "updatedAt": "2026-08-26T10:44:47.053Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,236 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "c2317eb76c64",
+      "title": "自然资源部对西藏启动地质灾害防御Ⅱ级响应，派工作组赴现场指导抢险救援和次生地质灾害防范",
+      "summary": "8月26日10时30分许，西藏日喀则市吉隆县东林藏布流域尼泊尔侧发生疑似雪崩引发重大链式灾害，可能造成重大人员伤亡。自然资源部于8月26日15时启动地质灾害防御Ⅱ级响应，并派工作组赴现场指导开展抢险救援和次生地质灾害防范等工作。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684696.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:43:45.000Z"
+    },
+    {
+      "id": "ae86876ac102",
+      "title": "第三届中欧班列（郑州）博览会在河南开幕",
+      "summary": "中新社郑州8月26日电 (王宇 赵梦阳)第三届中欧班列(郑州)博览会26日在河南郑州开幕，来自中国、俄罗斯、德国、波兰等多国铁路物流机构及涉外经贸代表参展。",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-26/10684666.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:43:05.000Z"
+    },
+    {
+      "id": "a451226afc5f",
+      "title": "绥芬河“宽轨重出”模式落地运行 运输时效压缩50%以上",
+      "summary": "中新网绥芬河8月26日电 (史轶夫 田晓慧)8月26日，绥芬河铁路车站北货场国际集装箱场地内汽笛长鸣，22节车辆44个集装箱满载汽车配件、家用电器等出口货物的“绥芬河号”货运列车缓缓驶离站场，向俄罗斯境内开行，标志着绥芬河铁路口岸“宽轨重出”运输模式正式落地运行，口岸运输实现“重进轻出”向“重进重出、双向满载”的历史性跨越，为构筑我国向北开放新高地注入了…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684676.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:42:45.000Z"
+    },
+    {
+      "id": "7e92f0ed65cd",
+      "title": "安踏集团半年营收创新高 主品牌高质增长",
+      "summary": "8月26日，安踏集团(2020.HK)发布2026年半年报。报告显示，安踏集团上半年实现营收435.1亿元，同比增长12.9%，半年营收历史首次突破400亿元。在国内运动消费市场竞争加剧、整体消费仍处复苏阶段的背景下，安踏集团龙头壁垒进一步加固。业绩公布后，午后股价直线拉升，收报78.750港元/股，涨9.53%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684695.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:42:09.000Z"
+    },
+    {
+      "id": "bbf344e3db6f",
+      "title": "两部门针对西藏吉隆泥石流灾害启动国家二级救灾应急响应",
+      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684694.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:33:37.000Z"
+    },
+    {
+      "id": "a0f0381070b3",
+      "title": "王君正第一时间赶赴受灾现场指挥救援工作",
+      "summary": "认真贯彻落实习近平总书记对日喀则市吉隆县遭受泥石流灾害作出的重要指示精神",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684693.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:32:15.000Z"
+    },
+    {
+      "id": "685f300ccd49",
+      "title": "普京与叙利亚过渡政府总统通话 讨论俄叙关系等议题",
+      "summary": "中新网8月26日电 综合俄媒报道，当地时间26日，俄罗斯克里姆林宫发布消息称，俄总统普京与叙利亚过渡政府总统艾哈迈德·沙拉通话，双方讨论了俄叙关系现状和发展前景。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684688.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:30:15.000Z"
+    },
+    {
+      "id": "e86b3a596545",
+      "title": "鄉村音樂女王Dolly Parton逝世：六首名曲訴說生命故事",
+      "summary": "多莉·帕頓（Dolly Parton，桃莉·巴頓、桃麗·巴頓）是一位傳奇的創作歌手，她的音樂涵蓋了愛情、失去、女性賦權和精神信仰等主題。",
+      "url": "https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:25:24.000Z"
+    },
+    {
+      "id": "30c03e4a8f8f",
+      "title": "三部门调拨3万件中央救灾物资 支持西藏做好灾害救助工作",
+      "summary": "中新网8月26日电 据应急管理部网站消息，8月26日，国家防灾减灾救灾委员会办公室、应急管理部针对西藏日喀则市吉隆县泥石流灾害现场救灾工作需要，会同国家粮食和物资储备局调拨帐篷、取暖炉、衣被、折叠床、防潮垫等3万件中央救灾物资，支持做好群众转移安置和救灾救助工作。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684691.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:22:24.000Z"
+    },
+    {
+      "id": "8de59483240c",
+      "title": "中国驻菲律宾使馆就菲防长特奥多罗涉华错误言论答记者问",
+      "summary": "中新网8月26日电 据中国驻菲律宾大使馆微信公众号26日消息，中国驻菲律宾使馆发言人季凌鹏就菲防长特奥多罗涉华错误言论答记者问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684689.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:20:44.000Z"
+    },
+    {
+      "id": "0c6ea3a7ad46",
+      "title": "Dominic Perrottet’s sister-in-law denies lying under oath to protect husband over allegedly illegal donations, Icac hears",
+      "summary": "Anita Perrottet tells an inquiry hearing that hundreds of thousands of dollars in payments to her were for ‘strategic and marketing advice’ Get our breaking news email , free app…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/dominic-perrottets-sister-in-law-denies-lying-under-oath-to-protect-husband-over-allegedly-donations-icac-hears-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T10:16:23.000Z"
+    },
+    {
+      "id": "833b04d32a52",
+      "title": "迎战“沙德尔” 浙江提升防台风应急响应至Ⅱ级",
+      "summary": "中新社杭州8月26日电 (钱晨菲 傅飞扬)今年第18号台风“沙德尔”预计27日夜间至28日上午在浙江象山到福建连江一带沿海登陆(台风级或强台风级)。26日12时，浙江省防汛防台抗旱指挥部将防台风应急响应提升至Ⅱ级。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684686.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:16:06.000Z"
+    },
+    {
+      "id": "7b064ff784e4",
+      "title": "上海浦东举办华侨华人创新创业研修营 近三成学员聚焦人工智能",
+      "summary": "中新社上海8月26日电 (范宇斌)由上海市浦东新区侨办主办的2026华侨华人创新创业研修营26日在浦东张江开营。本次研修营为期3天，汇聚42名华侨华人科创精英，其中近三成学员来自人工智能领域。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684684.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:15:06.000Z"
+    },
+    {
+      "id": "3366e7f103d2",
+      "title": "西藏吉隆县遭受泥石流灾害 救援兵力物资已就位",
+      "summary": "今天(8月26日)上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。西藏军区日喀则军分区某部也陆续派出应急救援兵力前往现地，该部第二梯队救援兵力和工程机械设备已做好出动准备，食物、水、帐篷、药品等救援物资就位。将千方百计搜救失联人员，加强各类风险隐患排查整治，确保人民群众生命财产安全。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684687.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:13:32.000Z"
+    },
+    {
+      "id": "32d913aa1bbb",
+      "title": "李家超：香港第一个五年规划将于9月16日公布",
+      "summary": "中新社香港8月26日电 香港特区行政长官李家超26日会见媒体时表示，将于9月16日公布《香港特别行政区经济和社会发展第一个五年规划(2026—2030)》(简称“香港第一个五年规划”)并随之发表2026年施政报告。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-26/10684685.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:11:56.000Z"
+    },
+    {
+      "id": "83620c95b0a4",
+      "title": "社会化陪同就医能提供什么服务？首个国家标准来了",
+      "summary": "记者今天(26日)了解到，市场监管总局批准发布《社会化陪同就医服务基本要求》国家标准，这一标准将于今年11月1日起正式实施。标准针对当前陪同就医服务边界模糊、服务质量参差不齐，行业没有统一的规范等问题，建立了涵盖服务提供者、服务内容、流程等方面的服务框架。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684683.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:08:47.000Z"
+    },
+    {
+      "id": "bac975bf4dd7",
+      "title": "“更具内涵、更有活力”，从约旦国王时隔11年访华看中约关系",
+      "summary": "中新社北京8月26日电(邢翀 马帅莎 刘纪)应中国国家主席习近平邀请，约旦国王阿卜杜拉二世于8月18日至24日对中国进行国事访问。这是他登基以来第9次访华，也是时隔11年再次访华。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684682.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:07:01.000Z"
+    },
+    {
+      "id": "3b510592deee",
+      "title": "山西省洪洞县农商行原董事长郭宏伟被遣返回国",
+      "summary": "中新网8月26日电 据中央纪委国家监委网站消息，近日，在中央反腐败协调小组国际追逃追赃工作办公室统筹协调下，经山西省监察机关、公安机关与有关国家执法机关密切合作，外逃职务犯罪嫌疑人郭宏伟在境外投案并被遣返回国。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684681.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:01:49.000Z"
+    },
+    {
+      "id": "da133099690c",
+      "title": "俄工厂发生火灾事故导致多名中国公民伤亡",
+      "summary": "中新网8月26日电 据中国驻哈巴罗夫斯克总领事馆微信公众号消息，8月25日，俄罗斯阿穆尔州自由城阿穆尔天然气化工厂发生火灾，造成包括多名中国公民在内的人员伤亡。现场搜救和伤员救治工作正在紧张进行，事故原因正在调查中。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684680.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T10:01:31.000Z"
+    },
+    {
+      "id": "b9d90e5b69b3",
+      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+      "summary": "Paper products among hardest-hit sectors after trade negotiations broke down, with 25-50% tariffs estimated Are you a Canadian boycotting US products? We’d like to hear from you…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-26T10:00:41.000Z"
+    },
+    {
+      "id": "94a2abb3209e",
+      "title": "中国国际水果展开幕 多国嘉宾看好中国市场提质机遇",
+      "summary": "中新社上海8月26日电 (记者 姜煜)2026中国国际水果展(CHINA FRUIT)26日在上海揭幕，多国参会者在展会现场对中新社记者表示，看好中国水果市场“提质”带来的广阔机遇。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684669.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T09:55:04.000Z"
+    },
+    {
+      "id": "849ab461e478",
+      "title": "2026国际篮联三人篮球挑战赛石景山站收官",
+      "summary": "中新网8月26日电 过去的周末，2026国际篮联三人篮球挑战赛北京石景山站在首钢园落幕。记者获悉，来自全球11个国家的16支职业球队参与到本次奥运积分争夺中，最终德国波恩队拿下本站比赛冠军，这也是他们本赛季收获的第三座挑战赛冠军奖杯。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684675.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T09:54:28.000Z"
+    },
+    {
+      "id": "daa0843a2d47",
+      "title": "西藏吉隆口岸泥石流最新航拍画面",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-26/news1066653.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T09:49:13.000Z"
+    },
     {
       "id": "acc6942fe12f",
       "title": "我国规范医疗机构特殊医学用途配方食品使用",
@@ -130,76 +360,6 @@
       "publishedAt": "2026-08-26T09:15:08.000Z"
     },
     {
-      "id": "ab1bd1157c4f",
-      "title": "世界人形机器人运动会立定跳远决赛举行",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202201.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T09:13:48.000Z"
-    },
-    {
-      "id": "096369630595",
-      "title": "检察机关依法分别对解维俊、李勇、郭凯、杨生榛提起公诉",
-      "summary": "中新网8月26日电 据最高人民检察院微信公众号消息，日前，检察机关依法分别对解维俊、李勇、郭凯、杨生榛提起公诉。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684639.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T09:12:30.000Z"
-    },
-    {
-      "id": "195d027e3ea6",
-      "title": "受益于足球世界杯 7月中国销售彩票同比增68.6%",
-      "summary": "中新社北京8月26日电 (记者 赵建华)中国财政部26日公布的数据显示，今年7月，全国共销售彩票875.71亿元(人民币，下同)，同比增长68.6%。其中，福利彩票机构销售156.31亿元，下降12.8%；体育彩票机构销售719.40亿元，增长111.5%。财政部解释，主要是足球世界杯期间竞猜型彩票销量增长较快。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684647.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T09:03:09.000Z"
-    },
-    {
-      "id": "122e118fcf34",
-      "title": "国台办发布会聚焦两岸交流 吁民进党当局取消不合理限制",
-      "summary": "中新社北京8月26日电 (记者 刘大炜 李百加)国务院台办例行新闻发布会26日在北京举行。发布会上，多数记者关心近期两岸交流情况，就此密集提问。国台办发言人张晗回应时多次提出，民进党当局应尽快取消阻碍交流往来的不合理限制措施。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684649.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T09:02:39.000Z"
-    },
-    {
-      "id": "4c1cdc386ebd",
-      "title": "西藏日喀则市吉隆县遭受泥石流灾害 救援力量奔赴受灾区域",
-      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684662.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T09:01:57.000Z"
-    },
-    {
-      "id": "7c8afc29717a",
-      "title": "俄远东在建天然气化工项目火灾致死人数升至7人",
-      "summary": "中新社莫斯科8月26日电 位于俄罗斯远东阿穆尔州的阿穆尔天然气化工综合体项目官方网站26日通报称，该项目25日发生的火灾事故造成死亡人数升至7人，另有9人失联。中国驻哈巴罗夫斯克总领馆表示，暂时无法确认中国公民伤亡情况。搜救行动仍在进行中。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684650.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T09:00:51.000Z"
-    },
-    {
-      "id": "e0ec15433667",
-      "title": "7月中国核发绿证3.06亿个",
-      "summary": "中新社北京8月26日电 (记者 王梦瑶)绿色电力证书(简称“绿证”)是中国认定可再生能源电力生产、消费的唯一凭证。中国国家能源局26日公布的数据显示，2026年7月，国家能源局核发绿证3.06亿个，涉及可再生能源发电项目122.49万个，其中可交易绿证1.79亿个，占比58.56%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684646.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T09:00:45.000Z"
-    },
-    {
       "id": "41de33b24589",
       "title": "Clive Barker’s Hellraiser: Revival – a game so grotesque it scares its own director",
       "summary": "With oversight from Clive Barker himself, and a role reprisal as Pinhead from actor Doug Bradley, Revival aims to introduce new audiences to the discomfort of Hellraiser If a hor…",
@@ -220,86 +380,6 @@
       "publishedAt": "2026-08-26T09:00:39.000Z"
     },
     {
-      "id": "a449ee312c63",
-      "title": "世界人形机器人运动会自选拳术决赛举行",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202197.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T09:00:30.000Z"
-    },
-    {
-      "id": "b24f64216034",
-      "title": "国台办：民进党当局对两岸教育交流合作极尽打压限控",
-      "summary": "中新社北京8月26日电 (记者 李百加 刘大炜)对于台陆委会称，是大陆方面不让学生到台湾就读学位生，国务院台办发言人张晗26日在北京表示，这种说法纯属颠倒黑白。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684645.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T09:00:25.000Z"
-    },
-    {
-      "id": "b300f751ec11",
-      "title": "45家越南企业山东觅商机 寻求绿色转型合作新空间",
-      "summary": "【东盟专线】45家越南企业山东觅商机 寻求绿色转型合作新空间",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-26/10684644.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:55:54.000Z"
-    },
-    {
-      "id": "430b797b022b",
-      "title": "国台办：建设厦金大桥是厦金两地民众的共同呼声和迫切心愿",
-      "summary": "中新社北京8月26日电 (记者 李百加 刘大炜)对于大陆方面推进厦金大桥建设，台陆委会称没有推动两岸通桥的规划。国务院台办发言人张晗26日在北京指出，建设厦金大桥是厦金两地民众的共同呼声和迫切心愿。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684643.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:53:40.000Z"
-    },
-    {
-      "id": "734765644568",
-      "title": "（走进中国乡村）从荒山到露营胜地：一顶帐篷解锁湖南乡村增收密码",
-      "summary": "中新社湖南永州8月26日电 题：从荒山到露营胜地：一顶帐篷解锁湖南乡村增收密码",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684642.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:52:42.000Z"
-    },
-    {
-      "id": "d6e23274ef67",
-      "title": "四川自贡已储备“十五五”项目1896个 总投资达1.47万亿元",
-      "summary": "中新网成都8月26日电 (袁牟知博)四川省人民政府新闻办公室26日举行“万千气象看四川·起步奋进‘十五五’”自贡专场新闻发布会。据悉，“十五五”时期，自贡明确经济增速保持高于四川省平均水平等主要目标，目前，自贡已储备“十五五”项目1896个，总投资达1.47万亿元。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684641.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:50:14.000Z"
-    },
-    {
-      "id": "51761601ad4c",
-      "title": "西藏吉隆口岸国门方向道路实施双向临时交通管制",
-      "summary": "中新网8月26日电 据“日喀则市公安局吉隆口岸分局”微信公众号消息，26日，受突发泥石流灾害影响，吉隆口岸辖区国门区域道路出现泥石流险情，道路不具备安全通行条件。为保障人民群众生命财产安全，依据《中华人民共和国道路交通安全法》第三十九条规定，西藏日喀则市公安局吉隆口岸分局交通管理大队决定对前往吉隆口岸国门方向道路实施双向临时交通管制，有关事项通报如下：",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684608.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:50:00.000Z"
-    },
-    {
-      "id": "c4b62448ff80",
-      "title": "5岁孩子服用藿香正气水后休克昏迷",
-      "summary": "中新网广州8月26日电 (记者 蔡敏婕)“藿香正气水”是不少家庭的常备药，还被一些家长当做解暑“万能药”。然而，这种家中常备药对儿童却可能暗藏风险。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-26/10684640.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:48:48.000Z"
-    },
-    {
       "id": "03432b80c99d",
       "title": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
       "summary": "Uber and Wayve had said they would start trips ‘later this summer’ but launch now looks unlikely this year Business live – latest updates The rollout of robotaxis on the streets…",
@@ -308,66 +388,6 @@
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-08-26T08:48:43.000Z"
-    },
-    {
-      "id": "37d4c06c1428",
-      "title": "内蒙古乌兰察布市委原副书记李勇被公诉",
-      "summary": "中新网鄂尔多斯8月26日电 (记者 张林虎)26日，记者从内蒙古自治区鄂尔多斯市人民检察院获悉，乌兰察布市委原副书记、政法委原书记、组织部原部长李勇涉嫌受贿罪被提起公诉。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684638.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:46:16.000Z"
-    },
-    {
-      "id": "7e4649648be4",
-      "title": "长征红色故事宣讲活动在江西于都启动",
-      "summary": "中新网江西于都8月26日电 (刘力鑫)25日晚，长征红色故事宣讲活动在江西于都启动并完成首场宣讲。来自全国各地的九位讲解员先后登台，讲述了一个个长征红色故事。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684636.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:44:16.000Z"
-    },
-    {
-      "id": "37b467b9e0b5",
-      "title": "突发：美军一架“黑鹰”直升机坠毁",
-      "summary": "中新网8月26日电 综合美媒报道，美军一架“黑鹰”直升机25日在美国西部科罗拉多州丹佛附近山地林区坠毁，初步报告显示没有人员伤亡。现场图片显示，机身严重受损，周围树木被折断。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684660.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:43:20.000Z"
-    },
-    {
-      "id": "943b85e01ca2",
-      "title": "现场画面丨西藏吉隆县遭受泥石流灾害 造成重大人员伤亡、失联",
-      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。总台记者正在赶往现场。",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-26/news1066645.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:41:46.000Z"
-    },
-    {
-      "id": "0d4ed6ac60b1",
-      "title": "“重质油气化集成废液协同处理成套技术”实现国产化突破",
-      "summary": "中新网上海8月26日电 (梁钦锋 高志苗)记者26日从华东理工大学获悉，由该校洁净煤技术研究所教授王辅臣领衔的科研团队，联合中石化宁波镇海炼化有限公司、中石化宁波工程有限公司、中石化宁波技术研究院有限公司等经过多年产学研协同攻关，研发的“重质油气化集成废液协同处理成套技术”，近日通过中石化组织的成果鉴定。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684628.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:36:39.000Z"
-    },
-    {
-      "id": "5e523eb20575",
-      "title": "上海：2028年广告产业规模预计突破4800亿元",
-      "summary": "中新网上海8月26日电 (许婧 高志苗)2026上海国际广告节26日开幕。开幕式上发布的《上海市推进广告业扩能提质三年行动计划(2026-2028年)》(下称《三年行动计划》)提出，到2028年，全市广告产业规模预计突破4800亿元，力争培育6家百亿元级龙头企业、350家亿元级骨干企业。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684627.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T08:35:43.000Z"
     },
     {
       "id": "8cfa52c95642",
@@ -408,16 +428,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-26T07:17:56.000Z"
-    },
-    {
-      "id": "723882ebcd22",
-      "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
-      "summary": "Bureau of Statistics says CPI was 3.5% in July, casting doubt on Reserve Bank meeting its 2.5% inflation target without further hike Follow our Australia news live blog for lates…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-26T06:44:23.000Z"
     },
     {
       "id": "0a8d17116da9",
@@ -840,16 +850,6 @@
       "publishedAt": "2026-08-24T23:59:48.000Z"
     },
     {
-      "id": "4bb1829e9e74",
-      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "summary": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs The US military has launched a deadly strike on a vessel in the Pac…",
-      "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-24T21:40:48.000Z"
-    },
-    {
       "id": "68453b629606",
       "title": "US threatens severe sanctions against countries with economic ties to Iran",
       "summary": "Washington launches campaign to isolate Tehran but it is unclear whether it will apply measures to China The US has threatened to impose severe sanctions against any country or e…",
@@ -1170,16 +1170,6 @@
       "publishedAt": "2026-08-21T11:05:58.000Z"
     },
     {
-      "id": "322c8f78b63d",
-      "title": "特朗普想與金正恩做朋友，韓國恐要為此付出代價",
-      "summary": "美韓聯合軍事演習提前結束，此時北韓正處於實力強勢的位置。",
-      "url": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-21T09:40:09.000Z"
-    },
-    {
       "id": "2d4d9c585669",
       "title": "生於烏克蘭，為何替俄羅斯作戰？俘虜向BBC講述背後故事",
       "summary": "出生於烏克蘭，卻替俄羅斯作戰的男子會被控叛國罪，但在烏克蘭西部一座戰俘營裏，許多人認為自己是在保衛家園。",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-20T00:07:18.000Z"
+    },
+    {
+      "id": "f9f4cb3d6eb1",
+      "title": "Revealed: FCC chair Brendan Carr’s close coordination with White House and rightwing media",
+      "summary": "Internal documents obtained by Guardian show White House meetings, scheduled calls with top Trump officials and communications with Fox News producers Continue reading...",
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/19/brendan-carr-fcc-white-house-exclusive",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-19T10:00:13.000Z"
     }
   ]
 }
