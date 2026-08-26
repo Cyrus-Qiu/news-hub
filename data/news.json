@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T13:08:43.990Z",
+  "updatedAt": "2026-08-26T14:21:07.128Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,314 +30,344 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "01b2d4690d12",
-      "title": "十四届全国人大常委会第二十四次会议举行联组会议 审议国务院关于持续巩固拓展脱贫攻坚成果、扎实推进乡村全面振兴工作情况的报告并开展专题询问 赵乐际出席",
-      "summary": "新华社北京8月26日电 十四届全国人大常委会第二十四次会议26日下午在北京人民大会堂举行联组会议，审议国务院关于持续巩固拓展脱贫攻坚成果、扎实推进乡村全面振兴工作情况的报告并开展专题询问。赵乐际委员长出席会议。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684832.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
+      "id": "27f82cc17dcc",
+      "title": "西藏—尼泊爾邊境山洪暴發 數百人失蹤",
+      "summary": "事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中國官媒稱當地出現「重大人員傷亡」；尼泊爾確認數百外國遊客失蹤。",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:59:40.000Z"
-    },
-    {
-      "id": "72cded5fb124",
-      "title": "“任何善举无论多小 都不会白费” 赛考斯用中文表达心声",
-      "summary": "8月26日，美国友人“赛考斯”和中国“治沙劳模”殷玉珍参访内蒙古师范大学附属中学，用中文表达心声，并和同学们共同种下一棵树。(曾玥 制作 王雪茵）",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-26/news1066681.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T12:59:35.000Z"
-    },
-    {
-      "id": "6ee602d7898d",
-      "title": "李强在黑龙江、吉林调研时强调 多措并举稳产增产 全力夺取秋粮丰收 持续提升农业综合生产能力确保粮食安全",
-      "summary": "新华社长春8月26日电(记者邹伟)中共中央政治局常委、国务院总理李强8月24日至26日在黑龙江、吉林调研。他强调，要深入贯彻落实习近平总书记关于“三农”工作的重要论述和保障国家粮食安全的重要指示精神，以发展现代化大农业为主攻方向，坚持产量产能、生产生态、增产增收一起抓，在夏粮丰收基础上再接再厉，多措并举全力夺取秋粮丰收，持续提升农业综合生产能力，确保粮食…",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684828.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T12:57:24.000Z"
-    },
-    {
-      "id": "5757422851bd",
-      "title": "IVD项目入选联合国人工智能治理全球对话伙伴平台",
-      "summary": "中新网北京8月26日电 (记者 张素)以“内在价值发展(IVD)”为理论基础，主张在人工智能系统训练与测试过程中引入包含复杂价值冲突的真实世界情境，使系统的价值判断能力能够被观察、评估、纠正并持续发展……",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684818.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T12:55:22.000Z"
-    },
-    {
-      "id": "f4af93f8de17",
-      "title": "上海国资基金市级投后赋能协同平台启动",
-      "summary": "中新网上海8月26日电 (缪璐 娄瀚锟)上海国资基金市级投后赋能协同平台(以下简称“投后赋能平台”)启动仪式26日在上海国投路演中心举行。据介绍，为更好服务科创企业成长，积极破解产业资源不足导致场景落地慢、非技术短板制约规模化发展、成长周期大幅压缩需要更多配套服务支撑等“资金之外的难题”，投后赋能平台锚定“汇聚一批资源、建立一个窗口、打造一支队伍、形成一…",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684811.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T12:54:48.000Z"
-    },
-    {
-      "id": "058915df3cbb",
-      "title": "2026年全国科普月即将举办 全领域行动全地域覆盖全民参与共享",
-      "summary": "中新网北京8月26日电 (记者 孙自法)中国科学技术协会(中国科协)8月26日下午在北京举行新闻发布会宣布，以“科技改变生活 创新赢得未来”为主题的2026年全国科普月，9月1日起在全国范围内开展，将通过持续1个月的丰富多彩活动，打造全领域行动、全地域覆盖、全媒体传播、全民参与共享的科普盛宴。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684817.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T12:54:14.000Z"
-    },
-    {
-      "id": "460cc29ddcfc",
-      "title": "2026年国际自盟场地自行车世锦赛将开赛 赛事场馆改造进入冲刺阶段",
-      "summary": "中新网上海8月26日电(缪璐 狄权)距离2026年天梭国际自行车联盟(UCI)场地自行车世界锦标赛开幕已不足两个月。8月26日，赛事举办地——位于崇明的上海自行车馆正紧锣密鼓地进行场馆修缮工作，赛事各项筹备工作亦同步进行。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684812.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T12:53:50.000Z"
-    },
-    {
-      "id": "30409c24c92c",
-      "title": "8月中国零售业景气指数环比上升0.4个百分点",
-      "summary": "中新网合肥8月26日电 中国商业联合会会长王民表示，8月份，中国零售业景气指数环比小幅上升0.4个百分点，商品经营类指数环比上升1.1个百分点。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684809.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T12:52:56.000Z"
-    },
-    {
-      "id": "3d08ad3756e6",
-      "title": "应急管理部针对西藏启动国家地质灾害二级应急响应",
-      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。根据《国家突发地质灾害应急预案》及有关规定，应急管理部启动国家地质灾害二级应急响应，派出工作组赶赴现场指导抢险救援。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684824.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-26T12:52:21.000Z"
+      "publishedAt": "2026-08-26T14:17:15.000Z"
     },
     {
       "id": "aa44e82a53be",
-      "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
-      "summary": "Hundreds missing and at least 22 people dead after floods sweep away houses, roads, bridges and power projects Hundreds are missing and at least 22 people have died after torrent…",
+      "title": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
+      "summary": "More than 380 tourists among those unaccounted for after homes, roads, bridges and power plants swept away At least 95 people have died and hundreds are missing after flash flood…",
       "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-26T12:51:08.000Z"
+      "publishedAt": "2026-08-26T14:07:38.000Z"
     },
     {
-      "id": "f390761e5e7d",
-      "title": "“沙德尔”渐近 浙江海事局启动Ⅰ级防台应急响应",
-      "summary": "中新网杭州8月26日电(记者 王逸飞)中央气象台预计，今年第18号台风“沙德尔”(强台风级)将于27日夜间至28日上午在浙江象山到福建连江一带沿海登陆。26日18时，浙江海事局启动Ⅰ级防台应急响应。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684807.shtml",
+      "id": "c59bc81ac7e1",
+      "title": "尼泊尔北部山洪遇难人数升至18人 数百名游客失联",
+      "summary": "中新网8月26日电 综合报道，尼泊尔北部地区山洪造成的死亡人数已升至18人。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684876.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:50:59.000Z"
+      "publishedAt": "2026-08-26T14:02:06.000Z"
     },
     {
-      "id": "203ac6243427",
-      "title": "国内外体育业者春城问道 高原训练如何“破圈”融合？",
-      "summary": "中新网昆明8月26日电 (时文枝)高原训练如何赋能全民健康？全域运动健康服务如何实现多场景拓展延伸？26日，2026海埂高原训练与运动健康融合发展交流活动在云南省昆明海埂体育训练基地(以下简称海埂基地)举行。来自国内外的顶尖运动科学专家、康复学者、竞技体育从业者等齐聚春城，共寻高原训练“破圈”融合之道。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684805.shtml",
+      "id": "b56db88bf843",
+      "title": "“紫檀”为何三次登陆我国？地形、大气环流等因素共同影响",
+      "summary": "今年第19号台风“紫檀”在海南昌江和广东徐闻沿海登陆后，8月26日11时前后，“紫檀”减弱后的热带低压又在广东吴川沿海再次登陆，强度迅速减弱。目前，中央气象台已对其停止编号。“紫檀”为何会三次登陆我国？影响其路径移动的因素有哪些？一起来了解。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684874.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:50:31.000Z"
+      "publishedAt": "2026-08-26T13:59:18.000Z"
     },
     {
-      "id": "86b5dc057819",
-      "title": "西部陆海新通道跨境公路班车首票NCD单证试运行",
-      "summary": "中新网重庆8月26日电 (记者 钟旖)记者26日获悉，西部陆海新通道跨境公路班车日前顺利完成首票适配《联合国可转让货物单证公约》的单证(简称NCD单证)试运行。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-26/10684800.shtml",
+      "id": "b7da43b2ee29",
+      "title": "Devon man becomes first person to swim Switzerland’s 10 largest lakes",
+      "summary": "Neil Gilson completes 230-mile challenge after a ‘tough’ 22-hour crossing of Lac Léman He staggered rather than sprang out of the lake but it wasn’t surprising. Neil Gilson , a f…",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/26/devon-man-becomes-first-person-to-swim-switzerlands-10-largest-lakes",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-26T13:58:06.000Z"
+    },
+    {
+      "id": "5b5d82d8f757",
+      "title": "广东159个镇街遭遇暴雨、大暴雨",
+      "summary": "中新网广州8月26日电 (记者 王坚)25日到26日早晨，广东有159个镇街遭遇暴雨、大暴雨，全省最大降雨量达294.1毫米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684870.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:50:17.000Z"
+      "publishedAt": "2026-08-26T13:55:27.000Z"
     },
     {
-      "id": "3bce48392075",
-      "title": "全科医生王蕊：“来自山区，守护山区”是14年来沉甸甸的医者责任",
-      "summary": "中新网北京8月26日电 (记者 李纯)作为首都医科大学免费培养的农村订单定向医学生，全科医生王蕊已经在北京市密云区高岭镇社区卫生服务中心工作了14年。在国家卫生健康委员会26日举行的新闻发布会上，王蕊表示，“来自山区，守护山区”是她大学入学时许下的誓言，也是14年来沉甸甸的医者责任。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684799.shtml",
+      "id": "d88ed3dec20e",
+      "title": "吉隆口岸为何频遭泥石流？问题藏在喜马拉雅深谷",
+      "summary": "核心提要",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684871.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:49:23.000Z"
+      "publishedAt": "2026-08-26T13:55:09.000Z"
     },
     {
-      "id": "a7858fdf786d",
-      "title": "香港警务处与医管局签署谅解备忘录",
-      "summary": "中新网香港8月26日电 香港特区政府警务处处长周一鸣与香港医院管理局(简称“医管局”)行政总裁李夏茵于25日代表双方正式签署谅解备忘录，建立策略性伙伴关系，深化反恐应变及医疗职能上的协作与衔接。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-26/10684808.shtml",
+      "id": "d371e1d90278",
+      "title": "北京密云暖心健康服务直达百姓家门口",
+      "summary": "中新网北京8月26日电(张静)8月26日，国家卫生健康委召开“基层卫生健康综合试验区改革创新经验”主题第四场新闻发布会。北京市密云区委常委、副区长张博在发布会上介绍，作为北京地区唯一的国家基层卫生健康综合试验区，密云区立足山区实际、紧扣群众就医需求，实施了一系列务实惠民就医举措。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-26/10684868.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:48:59.000Z"
+      "publishedAt": "2026-08-26T13:53:25.000Z"
     },
     {
-      "id": "6159eeff5c39",
-      "title": "全国少数民族传统体育运动会的“起点”城市 9月再迎民族体育盛会",
-      "summary": "中新网天津8月26日电 (记者 孙玲玲)天津市第十届少数民族传统体育运动会将于9月19日至20日在西青区举办。记者26日从天津市民族和宗教事务委员会获悉，本届运动会设竞赛项目10个、表演项目1个(3类)、游戏项目6个，共计17个项目板块。届时，全市16个区及14所高校将组队参赛。",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684795.shtml",
+      "id": "21c517d66e9d",
+      "title": "筑牢技术底座 “人工智能+”加出新速度、新高度、新成效催生经济新增长点",
+      "summary": "央视网消息：国务院新闻办公室8月26日上午举行“开局起步‘十五五’”系列主题新闻发布会。工业和信息化部相关负责人表示，“十五五”时期，将组织实施传统产业焕新行动，加快提升传统产业发展质量和效益。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684869.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:48:57.000Z"
+      "publishedAt": "2026-08-26T13:49:33.000Z"
     },
     {
-      "id": "ff761ffa59c9",
-      "title": "地月“信息高速路”开通 中国空间激光通信迈入地月空间",
-      "summary": "中新网北京8月26日电 (记者 孙自法)经过一年多的在轨测试试验，中国科研团队最近成功构建超过40万公里的地月双向激光链路并首次在轨验证了地月高速激光通信能力，标志着中国空间激光通信正式从近地轨道迈入地月空间。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684802.shtml",
+      "id": "9d284cb29738",
+      "title": "中新网评：被商家公开隐私信息，消费者不能花了钱还被侮辱",
+      "summary": "中新网北京8月26日电(记者 刘星晨)因为一句消费后的评价被商家曝光个人地址、因为一次到店消费后的感受分享被商家电话骚扰要求删除评论，类似情况是否在你身边上演过？",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684867.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:48:53.000Z"
+      "publishedAt": "2026-08-26T13:47:43.000Z"
     },
     {
-      "id": "182489cc7828",
-      "title": "经典再现 国家大剧院制作话剧《一江春水向东流》将演",
-      "summary": "中新网北京8月26日电 (记者 高凯)国家大剧院新制作话剧《一江春水向东流》即将登上舞台，该剧日前举办媒体探班活动。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-26/10684793.shtml",
+      "id": "d1fece8389b1",
+      "title": "自然资源部对浙江启动地质灾害防御Ⅳ级响应",
+      "summary": "中新网8月26日电 据自然资源部微信公众号消息，受第18号台风“沙德尔”影响，未来三天，浙江部分地区有强降雨过程。经自然资源部地质灾害技术指导中心研判，浙江东部和南部部分地区发生地质灾害的风险较高。自然资源部决定于8月26日20时对浙江启动地质灾害防御IV级响应。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684866.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:48:45.000Z"
+      "publishedAt": "2026-08-26T13:46:15.000Z"
     },
     {
-      "id": "36715f69d1ab",
-      "title": "湖南湘潭市一医生勇救落水女子：只是做了该做的事",
-      "summary": "中新网湘潭8月26日电 (郭奕含 杨璐)“能够把人平安救上岸就好，我只是做了自己应该做的事。”湖南湘潭市岳塘区中西医结合医院骨伤科医生陈绍华，25日晨练时在湘江中救起一名落水女子。谈及此次见义勇为，他言语朴实淡然。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684801.shtml",
+      "id": "1e49a2b3219c",
+      "title": "马来西亚烟霾持续 多地空气质量不健康",
+      "summary": "中新社吉隆坡8月26日电(记者 刘育英)8月26日，马来西亚烟霾天气持续。根据马来西亚空气污染指数管理系统(APIMS)网站数据，截至当日上午8时，全国6个州及2个联邦直辖区共计17个地区录得不健康级别的空气污染指数。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684862.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:48:23.000Z"
+      "publishedAt": "2026-08-26T13:45:17.000Z"
     },
     {
-      "id": "0454dcef258f",
-      "title": "云南西双版纳破获特大组织偷渡案",
-      "summary": "中新网昆明8月26日电 (陆希成)同样一段车程，线下支付的车费，是网约车平台正常价格的四五倍。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684814.shtml",
+      "id": "bcdf2fa33751",
+      "title": "西藏吉隆发生泥石流灾害 各方力量赶赴灾区救援",
+      "summary": "中新社拉萨8月26日电 (赵朗 江飞波 贡嘎来松)8月26日上午10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏自治区日喀则市吉隆县吉隆口岸区域发生重大人员伤亡、失联。记者当日从西藏多部门获悉，各方救援力量正赶赴灾区救援，当地正搭建救灾帐篷。截至发稿，吉隆镇通讯正常。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684863.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:48:15.000Z"
+      "publishedAt": "2026-08-26T13:43:37.000Z"
     },
     {
-      "id": "32ed386bb3cd",
-      "title": "广西“鬼节”鸭市旺 年轻人“花式”选鸭传温情",
-      "summary": "中新网柳州8月26日电 题：广西“鬼节”鸭市旺 年轻人“花式”选鸭传温情",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684816.shtml",
+      "id": "2ed9001bc2fd",
+      "title": "浙江成立省级数据集团 人工智能产业布局再落关键一子",
+      "summary": "中新网杭州8月26日电(奚金燕)26日，浙江省数据集团有限公司揭牌仪式在杭州举行，标志着该省数据资源开发利用和人工智能产业发展省级平台正式落地，引发外界关注。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684861.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:47:59.000Z"
+      "publishedAt": "2026-08-26T13:41:13.000Z"
     },
     {
-      "id": "6b6c366a1167",
-      "title": "多连发外链：关注西藏吉隆泥石流灾害救援",
+      "id": "5bb7d85653a8",
+      "title": "（长征胜利90周年）“追寻长征美·同心建新功——四川新的社会阶层人士弘扬伟大长征精神主题活动”在四川冕宁举行",
+      "summary": "中新网凉山8月26日电 (尧欣雨)2026年是中国共产党成立105周年、中国工农红军长征胜利90周年。26日，四川新的社会阶层人士等100余人齐聚四川省凉山彝族自治州冕宁县，共同参加“追寻长征美·同心建新功——四川新的社会阶层人士弘扬伟大长征精神主题活动”，追忆长征光辉足迹，赓续伟大长征精神。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684858.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T13:40:17.000Z"
+    },
+    {
+      "id": "707fce415312",
+      "title": "广西龙胜欢度“跳香节”",
+      "summary": "图为8月26日，在广西桂林市龙胜各族自治县伟江乡，当地民众身着节日盛装参加民俗巡游活动。(无人机照片)潘志祥 摄 图为8月26日，广西桂林龙胜各族自治县伟江乡，当地民众身着节日盛装，开展民俗巡游活动。(无人机照片)陆恒江 摄 图为8月26日，在广西桂林市龙胜各族自治县伟江乡，当地民众身着节日盛装参加民俗巡游活动。潘志祥 摄 图为8月26日，在广西桂林市龙…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684843.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T13:39:05.000Z"
+    },
+    {
+      "id": "8843da0e235a",
+      "title": "重庆：“黑灯实验室”赋能水环境精准监测",
+      "summary": "8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，机器人对检测样本开盖。中新社记者 何蓬磊 摄 8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，智能仪器对样本开展检测。中新社记者 何蓬磊 摄 8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，智能仪器对样本开展检测。中新社记者 何蓬磊 摄 8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，智能仪…",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684831.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T13:38:12.000Z"
+    },
+    {
+      "id": "077efcbe8928",
+      "title": "京玉携手以超高清点亮三江源文化新视界",
+      "summary": "中新网青海玉树8月26日电 由北京市广电局、北京市援青玉树指挥部主办，玉树州文体旅游广电局作为支持单位的“北京超高清视听·行！视听奇境”主题活动，日前在玉树落幕。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684857.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T13:37:54.000Z"
+    },
+    {
+      "id": "b8449375ba3f",
+      "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $17bn",
+      "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on nighttime use Meta reached an agreement to settle a landmark case brought…",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
+      "source": "The Guardian Business",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-26T13:37:15.000Z"
+    },
+    {
+      "id": "267fc27b45a6",
+      "title": "天工Ultra机器人再创纪录 百米跑出8.64秒",
+      "summary": "8月26日，第二届世界人形机器人运动会迎来闭幕日，在当晚举行的100米-大型组比赛中，天工Ultra机器人后来居上，夺取冠军。记者 吕少威 摄 中新网北京8月26日电(记者 吕少威)8月26日，第二届世界人形机器人运动会迎来闭幕日，在当晚举行的100米-大型组比赛中，北京人形机器人创新中心的天工 Ultra机器人以8.64秒的成绩强势夺冠，再度刷新此前纪…",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684850.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T13:35:22.000Z"
+    },
+    {
+      "id": "9925a42f3c75",
+      "title": "尼泊尔北部泥石流已致17人死亡 384人失联",
+      "summary": "中新社加德满都8月26日电(记者 崔楠)中国吉隆—尼泊尔拉苏瓦堡口岸尼方一侧当地时间26日上午突发泥石流。据尼泊尔媒体报道，泥石流已在尼泊尔造成至少17人死亡，另有384名游客失联。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684856.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T13:35:18.000Z"
+    },
+    {
+      "id": "363158af054c",
+      "title": "“赛考斯”参访内蒙古师范大学附属中学",
       "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-26/10684804.shtml",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202217.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:41:37.000Z"
+      "publishedAt": "2026-08-26T13:33:56.000Z"
     },
     {
-      "id": "d892a3754254",
-      "title": "今年二季度中美分列欧盟货物贸易第一大和第二大进口来源国",
-      "summary": "中新网布鲁塞尔8月26日电(记者 德永健)欧盟统计局26日公布今年二季度欧盟货物贸易进出口数据，显示今年二季度中国和美国分列欧盟货物贸易第一大和第二大进口来源国。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684797.shtml",
+      "id": "f7a461e40d93",
+      "title": "尼泊尔北部山洪遇难人数升至72人",
+      "summary": "据尼泊尔警方26日晚通报，该国北部地区山洪造成的死亡人数已升至72人。(总台记者 张玥)",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684859.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:39:27.000Z"
+      "publishedAt": "2026-08-26T13:33:20.000Z"
     },
     {
-      "id": "63d199a252ef",
-      "title": "泽连斯基授予马斯克“自由勋章”",
-      "summary": "中新网8月26日电 综合报道，据乌克兰总统府官方网站消息，乌克兰总统泽连斯基26日签署并公布了第835/2026号总统令，授予美国企业家、美国太空探索技术公司(SpaceX)创始人、特斯拉首席执行官埃隆·马斯克“自由勋章”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684798.shtml",
+      "id": "c49634d5bda8",
+      "title": "上海民盟举办“与盟同行·会客厅”科技专场活动",
+      "summary": "中新网上海8月26日电(范宇斌 陈婕)26日，民盟上海市委会“与盟同行·会客厅”科技专场活动在华东理工大学举行。作为庆祝上海民盟组织建立80周年系列活动之一，本次活动以“民盟的智见：共话‘AI for Science’新范式”为主题，由民盟上海市委会科技委员会、民盟华东理工大学委员会承办，来自高校、国家级技术平台和产业一线的4位盟员代表作科创分享。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684853.shtml",
       "source": "中国新闻网",
-      "category": "国内",
+      "category": "AI",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:36:59.000Z"
+      "publishedAt": "2026-08-26T13:28:14.000Z"
     },
     {
-      "id": "b68cc0d1c514",
-      "title": "全国政协十四届常委会第十八次会议闭幕 王沪宁主持并讲话",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202206.shtml",
+      "id": "35ecde657152",
+      "title": "上海浦东国际机场启用超110平方米婴幼儿友好空间 助力上海儿童友好城市建设",
+      "summary": "中新网上海8月26日电 (记者 殷立勤)8月26日，上海浦东国际机场T2航站楼国内混流层C77登机口附近，一个总面积超110平方米的婴幼儿友好空间正式启用。该项目集多功能育婴室、婴幼儿休憩区、亲子候机区于一体，提供哺乳、护理、备餐、休憩、娱乐等全链条服务，标志着上海浦东国际机场母婴服务从“有没有”向“好不好用”迈进。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684854.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:34:09.000Z"
+      "publishedAt": "2026-08-26T13:27:42.000Z"
     },
     {
-      "id": "31917dea5bf3",
-      "title": "中俄联合考古队完成2026年度阿尔泰地区考古工作",
-      "summary": "中新网西安8月26日电 (记者 阿琳娜)记者26日从丝绸之路考古合作研究中心获悉，中俄联合考古队日前完成了在俄罗斯阿尔泰地区的联合考古发掘与调查工作。联合考古队汇聚了中俄双方30余位师生，中方领队为丝绸之路考古合作研究中心邵会秋教授，牧金山讲师任执行领队，俄方领队由阿尔泰国立大学达史科夫斯基教授、弗拉罗夫教授共同担任。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-26/10684791.shtml",
+      "id": "90a04874ec05",
+      "title": "国务院食安办挂牌督办“消杀公司违规使用敌敌畏为餐饮门店消杀”事件",
+      "summary": "中新网北京8月26日电 (记者 刘亮)国家市场监管总局26日公布，针对近日舆论关注的福建省厦门市“消杀公司违规使用敌敌畏为餐饮门店消杀”事件，国务院食安办决定实行挂牌督办，并会同国家市场监管总局、国家疾控局成立联合工作组，赴实地督促指导案件查办，依法严惩重处违法违规行为，开展风险排查，切实维护民众饮食安全。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684852.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:33:06.000Z"
+      "publishedAt": "2026-08-26T13:27:32.000Z"
     },
     {
-      "id": "e5f9c0ddad32",
-      "title": "第九届世界布商大会将启幕 展望全球纺织新未来",
-      "summary": "中新网绍兴8月26日电(项菁)2026第九届世界布商大会新闻发布会26日在上海举行。本届大会以“经纬互联·智启全球纺织新未来”为主题，将于11月6日在浙江绍兴柯桥启幕。目前，该大会组委会已向全球60多个国家和地区的相关代表发出参会邀约。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684790.shtml",
+      "id": "427eccf01444",
+      "title": "黑龙江省民营经济统战工作协调机制2026年第一次全体会议召开",
+      "summary": "中新网哈尔滨8月26日电 (韩雪)8月25日，黑龙江省民营经济统战工作协调机制2026年第一次全体会议在哈尔滨召开，会议贯彻落实党中央决策部署和省委工作要求，听取《黑龙江省民营经济发展促进条例》修订等有关事项情况汇报，部署全省民营经济统战工作。黑龙江省委常委、统战部部长，省民营经济统战工作协调机制召集人刘振国主持会议并讲话。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684855.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:32:58.000Z"
+      "publishedAt": "2026-08-26T13:27:16.000Z"
     },
     {
-      "id": "3c54026f1c07",
-      "title": "黑龙江省首届“公众考古周”主场活动在塔河县举办",
-      "summary": "中新网塔河8月26日电 (邱贺岩 徐荟)8月25至26日，黑龙江省首届“公众考古周”主场活动在大兴安岭地区塔河县举办。主场活动由黑龙江省文化和旅游厅(黑龙江省文物管理局)主办，来自全省13个市(地)40余个县区的近百名文物工作者及部分省外专家、高校学生参与。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684789.shtml",
+      "id": "9e72f1c13cc3",
+      "title": "闽台青少年结对交流：共话日常、同享家宴",
+      "summary": "中新网宁德8月26日电 (魏海平 陈绘羽)2026年两岸(霞浦)青少年足球邀请赛期间，台湾球员与福建省宁德市霞浦县青少年开展了一场结对交流活动。台湾球员25日走进霞浦学生家中，共话日常、同享家宴，在烟火气中增进了解，结下情谊。",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684849.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:32:44.000Z"
+      "publishedAt": "2026-08-26T13:26:30.000Z"
     },
     {
-      "id": "5dda9750c47b",
-      "title": "上海力拓新型智能终端、智能机器人等细分赛道",
-      "summary": "中新社上海8月26日电 (记者 郑莹莹 许婧)上海市人民政府办公厅26日发布《上海市战略性新兴产业发展“十五五”规划》(下称：规划)。规划提出，“十五五”期间，上海将壮大新兴支柱产业的12个细分赛道，包括新型智能终端、智能机器人等。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684771.shtml",
+      "id": "bcaeba548506",
+      "title": "辽宁省发布2026年惠民惠农财政补贴项目清单 让政策红利精准直达民众",
+      "summary": "中新网沈阳8月26日电 (记者 李晛)为确保国家惠民惠农财政补贴政策不折不扣落地，近日，辽宁省财政厅以“一张清单管制度”为目标，全面提升精细化管理水平，公开发布《2026年辽宁省省级以上惠民惠农财政补贴项目清单》，将77项省级以上财政补贴政策纳入清单统一管理，较上年增加25项。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684842.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:32:38.000Z"
+      "publishedAt": "2026-08-26T13:26:00.000Z"
     },
     {
-      "id": "6812e4d3fb26",
-      "title": "西藏日喀则市吉隆县遭受泥石流灾害 中央部门紧急救援",
-      "summary": "中新社北京8月26日电 (记者 陈溯 郭超凯)记者26日从中国应急管理部获悉，西藏日喀则市吉隆县遭受泥石流灾害，应急管理部持续调度救援处置工作，国家二级救灾应急响应启动。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684769.shtml",
+      "id": "f9022077a6ca",
+      "title": "广东“石都” “村 BA”点燃乡村文旅烟火气",
+      "summary": "中新网云浮8月26日电 题：广东“石都” “村 BA”点燃乡村文旅烟火气",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684847.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:31:56.000Z"
+      "publishedAt": "2026-08-26T13:25:34.000Z"
     },
     {
-      "id": "65c0668e51ef",
-      "title": "浙江温州37条客运航线全部停航",
-      "summary": "中新网温州8月26日电(胡丰盛 尤川川)8月26日，浙江温州海事局发布消息，为防范台风“沙德尔”，截至26日14时30分，温州37条客运航线已全部停航，已累计安全疏散南麂、北麂等海岛旅客近2600余人次。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684765.shtml",
+      "id": "c4fa57950f96",
+      "title": "中非生物多样性保护经验交流活动在肯尼亚举行",
+      "summary": "中新网约翰内斯堡8月26日电 中非生物多样性保护经验交流与培训班暨“鹰飞之城”巡展近日在肯尼亚西纳罗克社区举行。来自中国重庆、肯尼亚、坦桑尼亚的生态主管部门、保护区管理机构、公益组织、高校及当地百余名师生代表相聚东非草原，围绕社区保护、科技护野、青少年生态教育展开对话。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684822.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-26T12:30:34.000Z"
+      "publishedAt": "2026-08-26T13:24:54.000Z"
+    },
+    {
+      "id": "e70fc82e188c",
+      "title": "福建沿海57条客渡运航线停航",
+      "summary": "中新网福州8月26日电 (记者 龙敏)随着今年第18号台风“沙德尔”逐渐逼近，福建沿海风浪渐大。福建海事局26日通报，截至26日12时，泉州及以北海域57条客渡运航线全部停航，全省118个水工项目全部停工。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684844.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T13:24:20.000Z"
+    },
+    {
+      "id": "e87ca7efe2f8",
+      "title": "2026广州黄埔国际网球公开赛总奖金17.7万美元 海内外多位名将参赛",
+      "summary": "中新网广州8月26日电(记者 王坚)据广开人才·2026广州黄埔国际网球公开赛暨国际男子职业网球挑战赛ATP100赛事组委会26日通报，作为华南地区积分最高的ATP挑战赛，本届赛事定于9月13日至9月20日在广州开发区开赛，为期8天，总奖金升级至17.7万美元；根据8月24日ATP初步报名，共有69名来自全球22个国家和地区的选手报名参赛。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684846.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T13:24:06.000Z"
+    },
+    {
+      "id": "2dea148f094f",
+      "title": "上海体育局回应刘翔“买断”争议：将保持良好沟通妥善安置",
+      "summary": "针对2004年雅典奥运会男子110米栏冠军刘翔26日在个人微博发文情况，上海市体育局回应称，上海市体育局、上海市竞技体育训练管理中心均将与其保持良好沟通交流，妥善做好各项保障安置工作。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684848.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-26T13:21:40.000Z"
     },
     {
       "id": "b9d57424cb5f",
@@ -750,16 +780,6 @@
       "publishedAt": "2026-08-25T16:09:08.000Z"
     },
     {
-      "id": "2fb5006aa91a",
-      "title": "CIA director John Ratcliffe reportedly on Moscow visit",
-      "summary": "Unannounced trip reported by US media is said to be Ratcliffe’s first known visit to Russia as CIA chief The CIA director, John Ratcliffe, has made an unannounced visit to Moscow…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-25T16:00:09.000Z"
-    },
-    {
       "id": "4a4ad788faa4",
       "title": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
       "summary": "Oliver Blume faces workforce at German HQ as carmaker struggles against Chinese competition and US tariffs The chief executive of Volkswagen has faced boos and whistles of protes…",
@@ -818,6 +838,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-25T11:53:58.000Z"
+    },
+    {
+      "id": "6df055c1da95",
+      "title": "Meta goes on trial as Silicon Valley faces a growing backlash",
+      "summary": "Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US te…",
+      "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-25T11:21:56.000Z"
     },
     {
       "id": "6fe778a93c96",
@@ -1010,16 +1040,6 @@
       "publishedAt": "2026-08-24T10:00:30.000Z"
     },
     {
-      "id": "d9239b7cca65",
-      "title": "離婚、智能手機與管控——BBC觀察塔利班如何治理阿富汗",
-      "summary": "塔利班重返執政五年後，BBC跟隨其高層人物，觀察這個組織如何重塑阿富汗。",
-      "url": "https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-24T08:27:43.000Z"
-    },
-    {
       "id": "30036c926f3a",
       "title": "My Arms Are Longer Now – comedy stealth game sends lawlessness into new territory",
       "summary": "Developers who met through Australia’s improv scene and publishers of comedic party games have united for this slithering challenge in which you play as one extended limb Most st…",
@@ -1058,16 +1078,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-24T00:02:12.000Z"
-    },
-    {
-      "id": "3fb3f23fc839",
-      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: nego…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-23T19:32:59.000Z"
     },
     {
       "id": "57451d527a4d",
@@ -1170,14 +1180,14 @@
       "publishedAt": "2026-08-21T08:21:37.000Z"
     },
     {
-      "id": "a7a4ffbee761",
-      "title": "她辭掉了8萬英鎊年薪工作去做冰淇淋，然後造出了爆款",
-      "summary": "英國冰淇淋品牌 Little Moons 華裔共同創辦人分享她給任何考慮自行創業人士的建議。",
-      "url": "https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad?at_medium=RSS&at_campaign=rss",
+      "id": "9043d1ff0525",
+      "title": "台灣為何此刻提出「鞭刑入法」公投？",
+      "summary": "關於鞭刑的討論已在台灣醞釀了近十年，尤其在重大刑案發生後，民眾不滿刑罰不足，主張仿效新加坡制度。最新民調顯示約八成台灣人贊同政府評估鞭刑，人權團體與法律界則批評此舉違反國際人權標準。",
+      "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC 中文",
       "category": "国际",
       "language": "zh",
-      "publishedAt": "2026-08-21T00:04:00.000Z"
+      "publishedAt": "2026-08-20T08:57:23.000Z"
     },
     {
       "id": "3658ccdd94fa",
@@ -1218,16 +1228,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-18T09:01:05.000Z"
-    },
-    {
-      "id": "8c8070590a15",
-      "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
-      "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen? One of the str…",
-      "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-18T04:00:13.000Z"
     }
   ]
 }
