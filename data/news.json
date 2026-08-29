@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T03:19:05.261Z",
+  "updatedAt": "2026-08-29T10:23:06.399Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,314 +30,384 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "7b95916a4504",
-      "title": "总台记者探访西藏吉隆镇安置点 物资到位保障群众基本生活",
-      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。截至29日1时，已救出热索村群众2人，吉隆泥石流灾害已造成7人遇难，554人失联。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686321.shtml",
+      "id": "6dca4ebcdbd8",
+      "title": "赣江观澜：申遗“满月”，景德镇交出怎样的答卷？",
+      "summary": "中新网景德镇8月29日电 题：赣江观澜：申遗“满月”，景德镇交出怎样的答卷？",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686478.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-08-29T03:12:17.000Z"
+      "publishedAt": "2026-08-29T10:13:48.000Z"
+    },
+    {
+      "id": "ebc97dade649",
+      "title": "（经济观察）中国四大行净利润同比上涨 贷款降速提质或成新常态",
+      "summary": "中新社北京8月29日电 (陶思阅)中国四大国有商业银行28日披露2026年中期业绩。截至今年上半年末，中国工商银行(工行)、中国农业银行(农行)、中国银行(中行)和中国建设银行(建行)总资产均已迈过40万亿元(人民币，下同)大关。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686477.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T10:07:49.000Z"
+    },
+    {
+      "id": "ffb79547f922",
+      "title": "救援力量克服困难往西藏吉隆口岸方向挺进",
+      "summary": "中新网日喀则8月29日电 (记者 江飞波)记者29日从西藏日喀则吉隆镇获悉，抢险救援力量正于距吉隆口岸约1公里处(直线距离)，动用大型挖掘机等设备开挖山体，向口岸方向挺进，但进度受高山峡谷地貌、吉隆藏布河谷作业面狭小及降雨等因素制约。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686474.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T10:05:35.000Z"
+    },
+    {
+      "id": "2ce4214ff11f",
+      "title": "600余名代表洱海畔共探有机蔬菜产业新路径",
+      "summary": "中新网云南大理8月29日电 (记者 韩帅南)8月29日，2026首届有机蔬菜发展大会暨中国蔬菜协会有机蔬菜专业委员会成立大会在云南省大理白族自治州开幕。来自国内外的专家学者、企业家和行业代表等600余人齐聚苍山洱海之畔，共探有机蔬菜产业提质增效、高质量发展全新路径。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686471.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T10:02:25.000Z"
+    },
+    {
+      "id": "5eb72b8c0f6f",
+      "title": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
+      "summary": "‘Total peace’ plan of previous government led only 99 of Colombia’s 30,000 armed combatants to disarm, but new president Abelardo De la Espriella opposes peace agreements In mid-…",
+      "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-29T10:00:24.000Z"
+    },
+    {
+      "id": "6338f733b528",
+      "title": "张君毅任安庆市委书记",
+      "summary": "中新网合肥8月29日电 (记者 赵强)据安徽省委组织部29日消息，日前省委决定：张君毅同志任安庆市委书记。(完)",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686470.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:58:54.000Z"
+    },
+    {
+      "id": "ef8448b1608e",
+      "title": "蓄力献礼建军百年 舞剧《我是一个兵》在江西正式启动",
+      "summary": "中新网南昌8月29日电 (朱莹)28日晚，原创军旅舞剧《我是一个兵》新闻发布会在江西南昌举行。作为2026年江西省文化艺术资金重点扶持项目，该舞剧以“少共国际师”为创作根基，献礼建军百年。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686469.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:58:00.000Z"
+    },
+    {
+      "id": "89db25b71b9a",
+      "title": "习近平主席以尼罗河比喻中埃友谊",
+      "summary": "视频：习近平主席以尼罗河比喻中埃友谊来源：新华社",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686465.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:57:40.000Z"
+    },
+    {
+      "id": "54d19c4d26ff",
+      "title": "《平“语”近人——习近平喜欢的典故》（多语种版）将在上合组织国家主流媒体落地播出",
+      "summary": "在中国国家主席习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问之际，由中国中央广播电视总台制作的《平“语”近人——习近平喜欢的典故》(多语种版)，8月30日起将在吉尔吉斯斯坦国家电视广播公司、“和平”国际广播电视公司白俄罗斯分公司、哈萨克斯坦总统广播电视综合体、哈萨克斯坦哈巴尔电视台、巴基斯坦电视公司、俄罗斯国家媒体集团、《俄罗斯报》、…",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686464.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:56:42.000Z"
+    },
+    {
+      "id": "8b5eba0ddbf1",
+      "title": "持续唱响“三峡之巅·诗橙奉节”品牌 重庆奉节绘文旅蓝图",
+      "summary": "中新网重庆8月29日电 (记者 钟旖)地处三峡库区腹心的重庆市奉节县明确，将持续唱响“三峡之巅·诗橙奉节”文旅品牌，擦亮四张旅游名片，迭代六大旅游目的地，加快建设长江三峡国际黄金旅游带核心区、中华诗城和山水文化名城。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686463.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:56:24.000Z"
+    },
+    {
+      "id": "e9e7a9fe6202",
+      "title": "2026新疆丝绸之路葡萄酒节将举办",
+      "summary": "中新网乌鲁木齐8月29日电 (张家伟 代雯蕾)记者从28日举行的2026新疆丝绸之路葡萄酒节新闻发布会上获悉，以“葡萄美酒醉新疆”为主题的葡萄酒节将于9月27日在新疆昌吉市开幕。",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-29/10686462.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:54:14.000Z"
+    },
+    {
+      "id": "aff7d4a6610f",
+      "title": "探访广东高铁暑运背后的“粤式温度”",
+      "summary": "中新网广州8月29日电 (王坚 程思祁)2026年暑运进入尾声，高铁出行热度不减。“坐高铁游广东——趣享粤北共创‘媒’好”采访活动近日走进广州南站、清远站、韶关站，探访暑运大客流下，广东铁路车站如何守护旅客平安舒适出行。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686461.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:53:02.000Z"
+    },
+    {
+      "id": "82cb5ee132cc",
+      "title": "安菩是谁，随葬唐三彩这么多那么美",
+      "summary": "中新社记者 韩章云",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-29/10686476.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:52:34.000Z"
+    },
+    {
+      "id": "2c3e2e762d22",
+      "title": "湖南新化一所边远山区小学的十年蝶变",
+      "summary": "中新网娄底8月29日电 (颜文辉 曾湘涛)开学临近，湖南娄底市新化县金凤乡太坪小学的老师们正在做相关准备。为了让即将入学的一年级新生尽快适应新环境，老师们精心设计了一系列知识问答、简单口算、看图猜动画等小游戏。“希望能在轻松愉快的氛围中帮助孩子们完成从幼儿园到小学的过渡。”该校校长戴红英说。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686460.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:47:16.000Z"
+    },
+    {
+      "id": "33896c4ed24c",
+      "title": "报告：新电商数智技术驱动行业价值重构",
+      "summary": "中新网吉林8月29日电 (记者 苍雁 石洪宇)第六届中国新电商大会29日在吉林省吉林市举行。大会正式发布的《中国新电商发展报告(2026)》(下称《报告》)指出，人工智能技术已贯穿内容生产、精准营销及供应链协同全链条，标志着行业正式迈入“AI决策”时代。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686458.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:41:34.000Z"
+    },
+    {
+      "id": "6ddbb07a61b9",
+      "title": "第四届网络空间安全（天津）论坛9月启幕 近800名中外嘉宾参会",
+      "summary": "中新网天津8月29日电 (江莹)28日，天津市政府新闻办召开新闻发布会透露，9月1日至3日，第四届网络空间安全(天津)论坛将在滨海新区举办，近800名国内外嘉宾齐聚津门，聚焦人工智能时代网络安全新态势，共探产业创新发展与安全治理新路径。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686457.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:34:55.000Z"
+    },
+    {
+      "id": "8b3132bf250e",
+      "title": "HICOOL 2026全球创业者峰会：一棵树看见AI“热带雨林”生态",
+      "summary": "中新网北京8月29日电 (记者 陈杭)65厘米高的陪伴机器人“巴布”、外观毛茸茸的桌面级AI萌宠“肉派派”……正在北京举行的HICOOL 2026全球创业者峰会上，来自北京市海淀区的14家AI企业携代表性产品集中亮相，从基础模型到终端产品，立体呈现AI生态的完整链条。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686456.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:34:07.000Z"
+    },
+    {
+      "id": "93299e5dc501",
+      "title": "总台《名师有名堂》第三季《天地大课堂》启播",
+      "summary": "中新网北京8月29日电 (记者 高凯)8月29日起，中央广播电视总台体育青少节目中心大型全媒体教育品牌节目《名师有名堂》第三季将在CCTV-14央视少儿频道开播，央视频、央视少儿客户端等总台全媒体平台同步上线。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-29/10686453.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:33:23.000Z"
+    },
+    {
+      "id": "496b285f8349",
+      "title": "伊朗战事半年矣，鹿死谁手犹未知",
+      "summary": "中新网北京8月29日电 题：伊朗战事半年矣，鹿死谁手犹未知",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686468.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:24:43.000Z"
+    },
+    {
+      "id": "95406560e485",
+      "title": "心相近｜中吉共续文化丝路情缘",
+      "summary": "新华社兰州/比什凯克8月28日电#8195;“2000多年前，中国汉代张骞远行西域，古丝绸之路逶迤穿过碎叶古城。”2019年6月访问吉尔吉斯斯坦前夕，习近平主席在当地媒体发表署名文章，回望两国源远流长的友好交往。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686467.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T09:01:47.000Z"
+    },
+    {
+      "id": "61374bcac187",
+      "title": "美专家沃尔特·格林里夫对中国科技创新生态充满信心 呼吁加强跨国合作",
+      "summary": "中新网北京8月29日电 (记者 刘洋)HICOOL2026全球创业者峰会26日至29日在北京举行，多国专家、科创代表齐聚现场。美国斯坦福大学虚拟人机交互实验室专家、行为神经科学家沃尔特·格林里夫接受中新网记者采访时表示，对中国科技创新生态充满信心，并呼吁加强美中在智慧医疗健康领域的合作。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686450.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:48:10.000Z"
+    },
+    {
+      "id": "8cc87750459a",
+      "title": "美以伊战事，半年五问",
+      "summary": "中新网北京8月29日电 题：美以伊战事，半年五问",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686446.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:47:14.000Z"
+    },
+    {
+      "id": "e01ffbec0e33",
+      "title": "搜救队伍在吉隆口岸受灾核心区继续开展搜索救援",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-29/1202527.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:42:40.000Z"
+    },
+    {
+      "id": "c2362046c971",
+      "title": "房地产相关融资管理办法落地，带来哪些新变化",
+      "summary": "新华社北京8月28日电 题：房地产相关融资管理办法落地，带来哪些新变化",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686454.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:42:26.000Z"
+    },
+    {
+      "id": "7344a04d71a2",
+      "title": "“电建一号”卫星持续监测西藏吉隆口岸灾区 新识别一处疑似堰塞湖",
+      "summary": "中新网成都8月29日电(记者 刘忠俊)记者29日从中国电建集团成都勘测设计研究院有限公司(以下简称“中国电建成都院”)获悉，“电建一号”卫星再次过境西藏日喀则吉隆口岸灾区，在已识别出的尼泊尔错坚河汇入普热普强藏布的交汇处附近堰塞湖基础上，又于灾害路径上游新识别到一处疑似堰塞湖，两湖相距约5公里。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686452.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:40:54.000Z"
+    },
+    {
+      "id": "da169a61fe1f",
+      "title": "“闽式生活”把千年文脉揉进消费场景",
+      "summary": "簪花点茶住土楼，福建老传统做出年轻态",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-29/10686451.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:35:07.000Z"
+    },
+    {
+      "id": "fbc2f03f4c27",
+      "title": "HICOOL汇聚全球创新种子在北京“破土”",
+      "summary": "中新社北京8月29日电 (记者 陈杭)大赛项目报名量7年增长超5倍，累计孵化5家上市公司、18家独角兽企业……26日至29日，HICOOL 2026全球创业者峰会在北京举办，以“从创新源头到产业潮头”为主题，让全球创新种子在此“破土”生长。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686448.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:32:27.000Z"
+    },
+    {
+      "id": "760dd74cab8e",
+      "title": "探索“工程让路自然”：西部陆海新通道平陆运河的生态解法",
+      "summary": "中新网广西钦州8月29日电(记者 冯抒敏 杨陈)作为新中国成立以来首条通江达海的战略性运河工程，平陆运河正向着9月通航的节点全力冲刺。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686439.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:31:29.000Z"
+    },
+    {
+      "id": "11c1e817dfdd",
+      "title": "广西推动提升粤桂家政劳务协作供需匹配效率",
+      "summary": "中新网南宁8月29日电(林浩)8月27日至28日，由广西壮族自治区商务厅主办，广西家庭服务业联合会与广东省家庭服务业协会联合承办的2026年粤桂家政协作对接活动在南宁举办。来自粤桂两地的优秀家政品牌企业和行业协会负责人及业务主管部门代表80多人参加本次活动。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686438.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:30:51.000Z"
+    },
+    {
+      "id": "e99582796e4e",
+      "title": "广州市台资企业协会举行成立36周年庆典",
+      "summary": "中新网广州8月29日电 (记者 郭军)广州市台资企业协会成立36周年庆典28日在广州东方宾馆举行。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686436.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:29:55.000Z"
+    },
+    {
+      "id": "457d50eff424",
+      "title": "应急管理部调派“雨燕应急”无人机组持续支持西藏吉隆泥石流灾害救援",
+      "summary": "中新网8月29日电 据应急管理部网站信息，为保障抢险救援工作安全开展，做好受灾区域次生灾害监测，应急管理部调派国家减灾中心“雨燕应急·重大灾害无人机应急合作机制”成员单位11名飞手，携带7架侦查无人机、2架大载重无人机，组成联合机组，分为监测和投送两组，持续开展应急监测和辅助救援。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686437.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T08:27:29.000Z"
+    },
+    {
+      "id": "530911ddb66f",
+      "title": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows",
+      "summary": "Australian-led trial finds low risk of side effects from common cholesterol-lowering medication for otherwise healthy older people Get our breaking news email , free app or daily…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-29T06:25:19.000Z"
+    },
+    {
+      "id": "3c139c982f35",
+      "title": "Plug-in solar panels could save households up to $370 a year – if Australia made them legal as in the UK",
+      "summary": "A plug-in solar kit that costs about $1,000 ‘pays for itself in three years’, one expert says Get our breaking news email , free app or daily news podcast Millions of Australians…",
+      "url": "https://www.theguardian.com/environment/2026/aug/29/plug-in-solar-panels-could-save-households-370-a-year-and-experts-say-australia-should-copy-the-uk-in-legalising-them",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-29T05:13:27.000Z"
+    },
+    {
+      "id": "906da75c2f87",
+      "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
+      "summary": "As one of Europe’s biggest consumers of gas the UK may be particularly exposed to heightened price volatility Europe is on course to enter the cooler months with gas stores at th…",
+      "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-29T05:00:19.000Z"
+    },
+    {
+      "id": "3969fc1b08d1",
+      "title": "Ireland will be united, says Gordon Brown",
+      "summary": "Former PM believes Northern Ireland will leave UK in the long term – but remains opposed to Scottish independence ‘I don’t want to be a backseat driver’: Gordon Brown on Burnham,…",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/29/ireland-will-be-united-says-gordon-brown",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-29T05:00:18.000Z"
+    },
+    {
+      "id": "6bef075ffb71",
+      "title": "‘The butcher may be gone, but to many he is a hero’: victims condemn glorification of Mladić",
+      "summary": "Architect of Srebrenica genocide is dead but those scarred by his atrocities say his ideology is still shockingly pervasive To most of the world, he was and will always be the “B…",
+      "url": "https://www.theguardian.com/world/2026/aug/29/bosnia-reaction-death-ratko-mladic",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-29T04:00:17.000Z"
+    },
+    {
+      "id": "0b60604fa315",
+      "title": "What we know about the Australians missing in the Nepal floods",
+      "summary": "More than 40 Australians are among several thousand people unaccounted for after catastrophic flooding on the Nepal-Tibet border How the deadly Nepal and Tibet flash flood unfold…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/29/what-we-know-about-the-australians-missing-in-the-nepal-floods",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-29T03:54:59.000Z"
     },
     {
       "id": "301968018a06",
-      "title": "Nepal-Tibet flash flood: number of missing rises to 2,478; bodies recovered down rivers in India – latest updates",
-      "summary": "Nepal reverses earlier decision and says foreign teams will be allowed to help with rescue efforts ‘The flood took everything I have’: survivors grieve for relatives and homes sw…",
+      "title": "Search continues as number missing in Nepal-Tibet floods rises to 2,478 – as it happened",
+      "summary": "This live blog is now closed ‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal Visual guide: how the deadly flooding unfolded Tell…",
       "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-29T03:04:15.000Z"
-    },
-    {
-      "id": "1195e25b6ae8",
-      "title": "福建海警位金门附近海域依法开展常态执法巡查",
-      "summary": "中新网8月29日电 据中国海警微信公众号消息，中国海警局东海分局新闻发言人朱安庆表示，8月29日，福建海警位金门附近海域依法开展常态执法巡查。8月以来，福建海警组织舰艇编队持续强化相关海域管控力度，切实维护两岸渔民合法正当权益和生命财产安全，有力保障厦金海域正常航行和作业秩序。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686320.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T03:03:47.000Z"
-    },
-    {
-      "id": "ea1a8d0abb8d",
-      "title": "“实地行走是读懂家国最好的方式”——港澳青少年暑期再掀赴内地交流热潮",
-      "summary": "“没想到，一个实习生在企业中提出的小想法，可以被这样认真对待！”近日，在上海市虹口区“政府开放月”活动中，香港科技大学物理系大二学生陈敬豪分享了自己在当地实习的感受。实习期间，他提出“双空间匹配与主动采样驱动的移相系统响应预测方法”，被企业以他为第一发明人提交发明专利申请。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-29/10686319.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T03:01:13.000Z"
-    },
-    {
-      "id": "5f2509ead854",
-      "title": "中国技术助力吉尔吉斯斯坦“变废为宝”",
-      "summary": "新华社比什凯克8月28日电（记者江宥林 郑钰）“我的梦想是有一天能把这座‘山’搬走。”在吉尔吉斯斯坦首都比什凯克市北部一座现代化工厂大楼的窗边，当地小伙阿克尔别科夫指着远处的垃圾填埋场对记者说。",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-29/10686318.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:58:24.000Z"
-    },
-    {
-      "id": "178f875f2684",
-      "title": "青少年沉迷AI聊天，怎么救？",
-      "summary": "中国新闻周刊记者：孙厚铭 实习生：高子涵",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686316.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:52:40.000Z"
-    },
-    {
-      "id": "b4f4943efe68",
-      "title": "从学位扩容到智慧教学 银川靶向破解教育民生痛点",
-      "summary": "中新网银川8月29日电 (记者 李佩珊)记者28日从宁夏银川市教育局获悉，瞄准学位紧张、教育资源不均衡等群众急难愁盼问题，银川今年通过新增近2万个学位、扩大集团化办学覆盖面、人工智能赋能课堂教学、夯实校园安全管理与学生资助保障等一系列举措，实打实补齐教育民生短板，推动教育强市建设落地见效。",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-29/10686310.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:45:01.000Z"
-    },
-    {
-      "id": "4af7e83fa1e4",
-      "title": "限售股个税新规堵漏洞 会带来哪些影响？",
-      "summary": "财经老王丨限售股个税新规堵漏洞 会带来哪些影响？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686314.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:43:13.000Z"
-    },
-    {
-      "id": "faac70b4e289",
-      "title": "烘焙市场扩容 为何实体面包店却纷纷“退场”？",
-      "summary": "实体面包店纷纷“退场”为哪般",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686312.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:40:07.000Z"
-    },
-    {
-      "id": "0eb35152e2d5",
-      "title": "改写消费市场格局！如何接住下沉市场的长期红利",
-      "summary": "接住下沉市场的长期红利",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686311.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:38:37.000Z"
-    },
-    {
-      "id": "f0e4161e1b6a",
-      "title": "江苏端出“科学盛宴” 全国科普月将举办超两万场活动",
-      "summary": "中新网南京8月29日电(记者 徐珊珊)2026年江苏省“全国科普月”活动将于9月全面启动。江苏省科学技术协会28日召开新闻发布会介绍，今年活动以“科技改变生活 创新赢得未来”为主题，全省将开展各类科普活动超两万场次。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686307.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:35:45.000Z"
-    },
-    {
-      "id": "c444d0974f32",
-      "title": "宁夏大武口烟火市集启幕 邂逅《欢迎来龙餐馆》市井温情",
-      "summary": "中新网石嘴山8月29日电 (记者 李佩珊)随着热播电影《欢迎来龙餐馆》带火取景地宁夏石嘴山市大武口区，不少游客慕名前来打卡，感受西北小城烟火气息。趁着这波热度，28日，大武口区城市快闪消费季压轴活动“包有戏·美食新片场”在工业遗址公园热闹开启，老厂房变身沉浸式美食片场，市民游客在家门口体验“逛吃追剧”的全新玩法。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686304.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:34:53.000Z"
-    },
-    {
-      "id": "6d2081802c07",
-      "title": "天津发布无障碍环境建设公益诉讼成效 多维监督守护特殊群体权益",
-      "summary": "中新网天津8月29日电 (江莹 高伊涵)《中华人民共和国无障碍环境建设法》实施三周年之际，天津市人民检察院28日召开新闻发布会，通报全市检察机关三年来无障碍环境建设公益诉讼履职情况并发布典型案例，展现检察公益诉讼守护残障、老年等特殊群体合法权益的实践成效。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686303.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:34:05.000Z"
-    },
-    {
-      "id": "112f44f7cd73",
-      "title": "2026中国虚拟体育公开赛总决赛在合肥开幕",
-      "summary": "中新网合肥8月29日电 2026中国虚拟体育公开赛总决赛28日在安徽合肥开幕。经过全国线上海选、从6000余名参赛者中脱颖而出的晋级选手将在虚拟自行车、虚拟赛车、虚拟高尔夫等项目中展开角逐。赛事持续至8月30日。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-29/10686302.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:33:19.000Z"
-    },
-    {
-      "id": "32b86966720c",
-      "title": "中老铁路商品汽车发运量同比增6倍",
-      "summary": "央视新闻客户端客户端消息：今年以来，中老铁路商品汽车国际联运呈现爆发式增长。截至8月28日，经中老铁路累计发运商品汽车347车3052辆，较2025年同期增长6倍。",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-29/10686309.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:33:03.000Z"
-    },
-    {
-      "id": "a1d3f6223fda",
-      "title": "男子球场心脏骤停 冲过来救人的竟是一支“三甲医护球队”",
-      "summary": "近日，山东济宁某运动场内，一男子在运动过程中突然毫无征兆倒地，心跳和呼吸暂停，情况紧急。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686308.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:30:46.000Z"
-    },
-    {
-      "id": "b66b9815a2b8",
-      "title": "西藏吉隆口岸搜救最新情况：救援队在受灾核心区开展人工搜索",
-      "summary": "2026年8月29日上午9时30分，中国救援队四川消防救援总队陆地搜救队，正在受灾核心区开展人工搜索。在受灾核心区，消防救援队伍一边搜索，一边不停询问“有没有人”。只要有一丝希望，我们就绝不放弃！",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686306.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:24:26.000Z"
-    },
-    {
-      "id": "0c35b249b695",
-      "title": "致敬中外巨匠，中国美术馆接续推出重磅展览",
-      "summary": "中新网北京8月29日电 (记者 应妮)28日晚，“致敬巨匠：从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展”闭幕式暨“致敬巨匠：尼古拉·费欣绘画精品展”开票仪式、“中国美术馆馆藏经典作品陈列”启幕活动在中国美术馆举行。国际艺术经典的展示交流与国家美术馆馆藏精品的长期呈现由此形成接续，中国美术馆进一步丰富高品质公共文化供给，以艺术促进文明交流互鉴。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-29/10686300.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:20:28.000Z"
-    },
-    {
-      "id": "ddfa1914f754",
-      "title": "“暴涨260%”！全球市场“铜”时爆单",
-      "summary": "AI与铜的距离看起来很远。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686305.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:19:50.000Z"
-    },
-    {
-      "id": "645828be3dcb",
-      "title": "这些常吃的东西，竟然也是过敏原",
-      "summary": "那些常吃的东西，竟然也是过敏原",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-29/10686301.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:13:13.000Z"
-    },
-    {
-      "id": "e6bd6305a0bc",
-      "title": "尼泊尔山洪遇难人数升至616人",
-      "summary": "根据尼泊尔警方公布的最新数据，截至当地时间29日早6时，尼泊尔北部地区山洪造成的死亡人数升至616人。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686299.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:10:11.000Z"
-    },
-    {
-      "id": "ef3ed4a40c1d",
-      "title": "洋弟子围坐话吉林：在美食中感受“东北式”热情",
-      "summary": "美食，往往是人们了解一座城市最快的方式。在来到吉林之前，这群外国青年对东北美食有各种想象。直到真正坐上餐桌，酸甜酥脆的锅包肉、鲜美的带鱼、特色的蚕蛹，还有喷香的东北米饭……每一样都让他们直呼过瘾。回顾吉林之行，他们不仅体验到了心心念念的东北美食，更透过美食深切感受到了“东北式”热情。",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-29/news1066955.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T02:02:08.000Z"
-    },
-    {
-      "id": "d8d37e9baaf2",
-      "title": "当孩子的“情绪树洞”变成AI",
-      "summary": "相信家长对以下场景不会陌生：孩子遇到难题，第一反应不是动脑思考，而是拍照问AI要答案；与朋友吵架了，孩子的“情绪树洞”变成了AI，首选找AI吐槽烦恼；作文题直接发给AI，短短几秒钟就能得到一篇完整的文章……AI温和耐心、不发脾气、随时在线，既能答疑解惑，又能承接孩子的情绪，家长也能得到片刻喘息，看起来好处多多。那么，AI陪伴会给孩子带来什么样的风险？",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-29/10686296.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-29T01:56:52.000Z"
-    },
-    {
-      "id": "fc274e4d4686",
-      "title": "医美“重启人生”？是谁在制造容貌焦虑",
-      "summary": "做正颌手术这笔钱，鹿柠攒了10年，甚至为此休学1年。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686295.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T01:56:14.000Z"
-    },
-    {
-      "id": "bfe50c7daa85",
-      "title": "3岁以下婴幼儿到底能不能吃糖",
-      "summary": "3岁以下婴幼儿能不能吃糖？如何科学地吃糖，将健康风险降到最低？这是不少新手爸妈的困惑，甚至有家长谈“糖”色变，试图将所有的糖拒之门外。",
-      "url": "https://www.chinanews.com.cn/life/2026/08-29/10686294.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T01:52:02.000Z"
-    },
-    {
-      "id": "02766f8cee06",
-      "title": "被曝考虑2028年竞选美国总统 美防长回应",
-      "summary": "中新网8月29日电 据美国全国广播公司(NBC)当地时间28日援引消息人士说法，美国国防部长皮特·赫格塞思正在和亲近人士讨论参加2028年美国总统竞选的可能性。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686292.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T01:48:32.000Z"
-    },
-    {
-      "id": "951b9e9fe6c9",
-      "title": "警惕！甲状腺疾病十大认知误区",
-      "summary": "在我们颈部前方、气管两侧，藏着一个形似蝴蝶的腺体——甲状腺。它的正常重量不足30克，却被称作全身代谢的“核心发动机”，它分泌的激素调控着新陈代谢、生长发育、体温、心率乃至情绪波动。近年来，随着体检普及率提升，甲状腺结节、甲状腺癌、甲减、甲亢等疾病检出率逐年走高，但大众对甲状腺疾病的认知却存在各类偏差。结合临床常见问题，本文梳理出关于甲状腺的十大认知误区，…",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-29/10686291.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T01:48:04.000Z"
-    },
-    {
-      "id": "f0a2355eb1ca",
-      "title": "推动机器人落地应用 促进集成电路产业高质量发展——国家发展改革委解读经济热点",
-      "summary": "新华社北京8月28日电 题：推动机器人落地应用 促进集成电路产业高质量发展——国家发展改革委解读经济热点",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686290.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T01:46:13.000Z"
-    },
-    {
-      "id": "08b92f60b552",
-      "title": "走红海外，不少外国游客来上海体验“中国式时尚”",
-      "summary": "走红海外，不少外国游客来沪先去南外滩量身定制中心——",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686286.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T01:37:07.000Z"
-    },
-    {
-      "id": "f53cbef2125d",
-      "title": "中国选手郑钦文晋级美网女单正赛",
-      "summary": "中新社纽约8月28日电 当地时间28日进行的2026年美国网球公开赛女单资格赛决胜轮比赛中，中国选手郑钦文以2:1击败俄罗斯选手普里丹金娜，晋级美网女单正赛。中国选手袁悦和布云朝克特无缘美网单打正赛。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-29/10686280.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T01:36:41.000Z"
-    },
-    {
-      "id": "083c3fa58231",
-      "title": "习言道｜一图了解上海合作组织",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686278.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T01:31:41.000Z"
+      "publishedAt": "2026-08-29T03:49:58.000Z"
     },
     {
       "id": "3c1b60e92dd2",
@@ -380,16 +450,6 @@
       "publishedAt": "2026-08-28T21:04:30.000Z"
     },
     {
-      "id": "28f6cfa5e054",
-      "title": "‘So desperately loved’: ADF member among dozens of Australians missing in Nepal floods as families pray for safe return",
-      "summary": "Relatives ‘really worried, but hopeful’ as they wait anxiously for news in the aftermath of the flash flooding disaster Follow our Australia news live blog for latest updates Get…",
-      "url": "https://www.theguardian.com/world/2026/aug/28/family-missing-australians-nepal-tibet-flash-floods",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-28T18:32:57.000Z"
-    },
-    {
       "id": "a945b423928c",
       "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
       "summary": "Critics call move to gain long-term access to country’s massive energy reserves ‘predatory’ and ‘unconstitutional’ Reports that the US is preparing to claim a big stake in Venezu…",
@@ -430,16 +490,6 @@
       "publishedAt": "2026-08-28T15:52:57.000Z"
     },
     {
-      "id": "b44afcf2bf48",
-      "title": "How Nepali diaspora is responding to flood disaster and how Australians can help in relief effort",
-      "summary": "Nepali and Tibetan communities plan vigils and work to raise funds for recovery in ‘devastating’ time Get our breaking news email , free app or daily news podcast Australia’s Nep…",
-      "url": "https://www.theguardian.com/world/2026/aug/28/how-to-help-nepal-community-flood-disaster-relief-funding-australia",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-28T15:50:05.000Z"
-    },
-    {
       "id": "5ad3f341ac59",
       "title": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
       "summary": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn The US Federal Reserve is not done fighting high inflation, its cha…",
@@ -470,14 +520,14 @@
       "publishedAt": "2026-08-28T15:23:18.000Z"
     },
     {
-      "id": "1e1dd4217062",
-      "title": "Charles Perrottet becomes Icac’s main character amid claims of hidden payments and political hit jobs",
-      "summary": "The brother of former premier questioned over what, if anything, was done in return for $2m from developer turned fugitive Jean Nassif Get our breaking news email , free app or d…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/28/icac-charles-perrottet-anita-nsw-liberals-reformers-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
+      "id": "4fdc540c8b74",
+      "title": "Labour rejects Zack Polanski’s call to ‘slam brakes’ on building AI datacentres",
+      "summary": "Government says Green leader’s proposed moratorium on ‘energy-guzzling’ AI projects would be disaster for economy Labour has rejected calls to pause construction of major AI infr…",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/28/labour-green-party-zack-polanski-ai-datacentres",
+      "source": "The Guardian Technology",
+      "category": "AI",
       "language": "en",
-      "publishedAt": "2026-08-28T15:00:05.000Z"
+      "publishedAt": "2026-08-28T15:11:46.000Z"
     },
     {
       "id": "ca01dbb3476b",
@@ -488,16 +538,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-28T14:46:25.000Z"
-    },
-    {
-      "id": "2c3daa57705a",
-      "title": "French far-right leader Jordan Bardella to address Reform UK party conference",
-      "summary": "Speech part of effort to strengthen National Rally party’s international ties before Marine Le Pen’s presidential bid The French far-right leader Jordan Bardella is to give a spe…",
-      "url": "https://www.theguardian.com/world/2026/aug/28/french-far-right-leader-jordan-bardella-address-reform-uk-party-conference",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-28T13:57:30.000Z"
     },
     {
       "id": "80047bd5d503",
@@ -660,16 +700,6 @@
       "publishedAt": "2026-08-28T04:17:37.000Z"
     },
     {
-      "id": "e1b9aed9333b",
-      "title": "‘Confluence of errors’ led to Belgian tourist Celine Cremer’s death in Tasmanian wilderness, coroner finds",
-      "summary": "Coroner finds 31-year-old deviated from a walking track as dusk fell, four days before the winter solstice Follow our Australia news live blog for latest updates Get our breaking…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/28/coronial-inquest-findings-death-belgian-tourist-celine-cremer-tasmania",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-28T04:10:37.000Z"
-    },
-    {
       "id": "792274d5cce9",
       "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
       "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands In October 2021, Abrham Meareg’s father,…",
@@ -710,16 +740,6 @@
       "publishedAt": "2026-08-28T02:06:41.000Z"
     },
     {
-      "id": "d19d75ff6993",
-      "title": "Trump signs executive order to rename Lake Ontario as Lake America",
-      "summary": "Mark Carney rejects attempt to rename lake as did several US governors, with Tony Evers mocking the move US politics live – latest updates Donald Trump signed an executive order…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-27T22:55:04.000Z"
-    },
-    {
       "id": "8e64be548281",
       "title": "Grand Theft Auto VI’s long-overdue gameplay reveal – as it happened",
       "summary": "Under some strange circumstances, Rockstar broadcast the first (official) gameplay footage of Grand Theft Auto VI, the most-anticipated game of the year. Here’s everything you ne…",
@@ -728,16 +748,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-27T20:02:49.000Z"
-    },
-    {
-      "id": "75ea2b409546",
-      "title": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
-      "summary": "Moscow threatens retaliation after Andy Burnham says UK will help Ukraine start producing long-range missiles Russia has said it could retaliate against the UK for its support of…",
-      "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-27T19:26:01.000Z"
     },
     {
       "id": "d006e277aaa6",
@@ -898,16 +908,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-27T01:16:21.000Z"
-    },
-    {
-      "id": "3784577a2317",
-      "title": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
-      "summary": "Surgeons aided by real-time analysis of camera footage that identified critical anatomy in brain to be avoided Neurosurgeons in London have performed the world’s first successful…",
-      "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-26T23:01:25.000Z"
     },
     {
       "id": "cee0495ac71f",
