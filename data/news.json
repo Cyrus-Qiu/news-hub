@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T18:47:44.286Z",
+  "updatedAt": "2026-08-29T21:39:50.678Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "7a9529a795cb",
+      "title": "August reveals Australians’ big appetite for weight-loss drugs, love for ‘dupe’ brands and an accelerating EV uptake",
+      "summary": "Reporting season shows how consumers are responding to cost of living pressures and how retailers are responding Get our breaking news email , free app or daily news podcast Aust…",
+      "url": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-29T20:00:38.000Z"
+    },
     {
       "id": "9f26be68f612",
       "title": "中超第25轮：国安战平英博 降级区内斗海牛惨败",
@@ -468,16 +478,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-28T23:34:36.000Z"
-    },
-    {
-      "id": "cdf32bc6833c",
-      "title": "Number of Australians missing in Nepal’s deadly floods rises again, as Albanese deploys more personnel",
-      "summary": "There are now 41 Australians missing, and four rapid response team members are expected to arrive in Kathmandu At least 93,000 ‘in great need’ after Nepal-Tibet flash floods How…",
-      "url": "https://www.theguardian.com/world/2026/aug/29/australians-missing-nepal-floods-total-rises-albanese-dfat-personnel-arriving",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-28T22:53:57.000Z"
     },
     {
       "id": "810fed90b53b",
