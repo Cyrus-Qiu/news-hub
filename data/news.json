@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T05:43:31.107Z",
+  "updatedAt": "2026-08-30T11:48:12.761Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,9 +30,419 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "14d38669bce3",
+      "title": "广西“明眸皓齿”工程织牢青少年健康防护网",
+      "summary": "中新网南宁8月30日电(黄艳梅 梁雨诗)记者30日从广西壮族自治区卫生健康委员会获悉，广西实施“明眸皓齿 壮美少年”学校卫生工程，聚焦近视、龋病、肥胖与营养不良、脊柱弯曲异常等重点学生常见病，统筹推进筛查干预、源头防控和综合治理，全面构建多病共防、综合防控工作体系，学生常见病防控工作取得阶段性显著成效。",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-30/10686903.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:42:26.000Z"
+    },
+    {
+      "id": "61ab5e69849a",
+      "title": "“一人公司”风头正劲 湖南探路群落式生长",
+      "summary": "中新社长沙8月30日电 (付敬懿)在湖南长沙大泽湖OPC(“一人公司”)创业中心独立办公室内，爱店智盈(长沙)数据科技有限公司创始人张智等五人团队利用AI开发的软件，已为近10家拥有超500个门店的餐饮企业的外卖业务，提供实时数据收集分析、研判决策及专家建议等，助力运营提效增收。“我们是由OPC‘超级个体’组成的‘超级团队’。”张智称。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686906.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:41:04.000Z"
+    },
+    {
+      "id": "da5e7121e9fe",
+      "title": "西藏吉隆口岸通信信号抢通",
+      "summary": "西藏自治区通信管理局局长尼玛多吉30日18时告诉新华社记者，其所处位置距离吉隆口岸热索桥约1.6公里，通过道路抢修最前端新建的基站已与在口岸的救援队员完成通话，信号已经能够送达核心救援现场。30日13时30分，吉隆口岸首个紧邻国门的应急基站开通投用。截至目前，西藏电信企业已抢通修复1个基站，新增8个基站，其中吉隆县至吉隆镇方向新建2个基站、吉隆镇至吉隆口…",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686907.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:39:12.000Z"
+    },
+    {
+      "id": "0b81d046e3f7",
+      "title": "一针下去“美容”变“毁容” 记者调查医美注射乱象",
+      "summary": "每周质量报告丨一针下去“美容”变“毁容” 记者调查医美注射乱象",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686902.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:33:59.000Z"
+    },
+    {
+      "id": "78ecdc513ac8",
+      "title": "2026中国国际大数据产业博览会闭幕 发布87项创新成果",
+      "summary": "中新网贵阳8月30日电 (记者 张伟)2026中国国际大数据产业博览会(以下简称，2026数博会)30日闭幕，吸引来自21个国家和地区的1.6万余名嘉宾注册参会。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686879.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:32:01.000Z"
+    },
+    {
+      "id": "a5b99ed0d485",
+      "title": "最新数据：尼泊尔泥石流灾害遇难人数升至788人",
+      "summary": "尼泊尔泥石流灾害遇难人数升至788人；“楼坚强”女主人回忆“一叶孤舟”求生历程；尼泊尔一隧道救出208人，其中43名外国人",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686900.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:31:11.000Z"
+    },
+    {
+      "id": "10631218d3db",
+      "title": "首届东南亚区域国别研究论坛在广西南宁举行",
+      "summary": "中新网南宁8月30日电(记者 黄艳梅)首届东南亚区域国别研究论坛暨中国东南亚研究会2026年学术年会近日在广西南宁举办。来自中国各地的高校、科研院所及学术出版机构近200名专家学者，共话东南亚区域国别研究。",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-30/10686892.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:28:55.000Z"
+    },
+    {
+      "id": "c145d498db03",
+      "title": "英国留学与求职报告：中国生源居主力 牛剑录取率攀升",
+      "summary": "中新网北京8月30日电 《2026-2027英国留学与求职报告》29日发布。报告融合英国政府与高等教育数据、英国留学学生意向与英国海归求职雇主调研，覆盖中国学生申请趋势、名校录取最新变化、留英求职前景与回国发展机遇。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686887.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:27:39.000Z"
+    },
+    {
+      "id": "639f151bd2c2",
+      "title": "塞浦路斯一艘载有约270名乘客的渡轮倾覆",
+      "summary": "总台记者获悉，当地时间8月30日，塞浦路斯一艘载有约270名乘客的渡轮倾覆，人员伤亡情况不明。(总台记者 陶冶)",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686898.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:25:07.000Z"
+    },
+    {
+      "id": "d542db5937fb",
+      "title": "澜湄六国代表齐聚青海 多领域集中签约拓展务实合作",
+      "summary": "中新网西宁8月30日电(李隽)8月27日至8月29日，“遇·鉴——澜湄合作源头对话”在青海省西宁市、玉树州两地举办。澜湄六国代表齐聚三江源，集中签署多份合作文件，以签约落地夯实人文经贸交流根基，携手推动澜湄国家命运共同体建设走深走实。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686891.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:23:23.000Z"
+    },
+    {
+      "id": "06ec4fdadb3a",
+      "title": "最新调整！又一地宣布生物地理不计入中考总分",
+      "summary": "据辽宁省教育厅8月28日消息，为优化考试评价，减轻学生课业负担，经调研论证，决定对中考部分事项进行调整。",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686895.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:23:03.000Z"
+    },
+    {
+      "id": "45a7c69dbfca",
+      "title": "海南产经新观察：琼吉深化种业和航天领域合作",
+      "summary": "中新网海口8月30日电 (记者 王晓斌)29日举行的“高标准建设海南自由贸易港”(长春市)专场新闻发布会上，海南省科学技术厅党组成员、副厅长蒙巍说，海南与吉林在种业和航天领域分别形成了“南繁北育”、“吉林制造、文昌发射”的天然互补格局，可将存量优势转化为联合攻关和产业链高效衔接的务实行动，让南北优势在互补中叠加、在协同中倍增。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686886.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:22:29.000Z"
+    },
+    {
+      "id": "d77890f27696",
+      "title": "96所院校242名选手昆明比拼学前教育专硕技能",
+      "summary": "中新网昆明8月30日电 (王卫东)8月28日至30日，2026年“田家炳杯”全日制教育硕士专业学位研究生学前教育专业教学技能大赛决赛，在位于昆明的云南民族大学举行，来自全国96所院校的242名选手参与比赛。其间，第四届学前教育专业硕士人才培养论坛同期举行。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686882.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:21:23.000Z"
+    },
+    {
+      "id": "058e0c85beb3",
+      "title": "福建柘荣草木合香技艺的传承与新生",
+      "summary": "中新网宁德8月30日电 (林柳柳)走进位于福建省宁德市柘荣县双城镇的草木合香制作非遗工坊里，草木合香传统制作技艺(柘荣)项目县级非遗代表性传承人魏礼强正低头细细打磨一颗颗香珠。“每一颗都要经过粗磨、细磨、精磨等十多道工序，急躁不得。”魏礼强近日受访时如是说。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686883.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:19:36.000Z"
+    },
+    {
+      "id": "451a36fb3042",
+      "title": "“非常之常”摄影展展出 用非常眼光做平常人",
+      "summary": "中新网北京8月30日电 “非常之常——王川作品展”开幕式30日在北京壹美美术馆举行。展览呈现中央美术学院教授、学术委员会委员王川的摄影作品百余件，以“相外之像”“非相之像”“像素之相”“无尽之相”四个单元为线索，串联起艺术家对日常经验与图像生成的追问。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-30/10686881.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:18:36.000Z"
+    },
+    {
+      "id": "672ea92345bc",
+      "title": "近百名考古专家学者共探“仰韶时代与中华文明形成”",
+      "summary": "中新网郑州8月30日电 (记者 王宇)8月29日至30日，“仰韶时代与中华文明形成学术研讨会”在河南郑州举行，近百名来自全国各地文博机构、科研院所的考古专家学者齐聚，围绕仰韶时代考古新发现等议题展开深度研讨。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686888.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:16:40.000Z"
+    },
+    {
+      "id": "4227ecea6fa5",
+      "title": "台风“沙德尔”残余云系影响广东 全省日最大雨量超200毫米",
+      "summary": "中新网广州8月30日电 (记者 王坚)受台风“沙德尔”残余云系影响，29日白天到30日早晨，清远东部、河源中西部、清远东部、惠州中北部、湛江徐闻和江门恩平、鹤山和新会出现了大雨到暴雨局部大暴雨，其中韶关南雄乌迳镇录得全省日最大雨量200.5毫米。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686889.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:15:04.000Z"
+    },
+    {
+      "id": "aa5198539848",
+      "title": "2026年国际篮联洲际杯赛事门票8月30日正式开售",
+      "summary": "中新网北京8月30日电 2026年国际篮联洲际杯赛事门票30日正式开启销售。本届赛事将于9月22日至27日在国家体育馆举行，球迷可通过多平台购票，亲临现场感受国际顶级篮球赛事的独特魅力。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686885.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:13:12.000Z"
+    },
+    {
+      "id": "73482d1c57ab",
+      "title": "云南普洱：一颗咖啡果的“加法”",
+      "summary": "中新网普洱8月30日电 题：云南普洱：一颗咖啡果的“加法”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686884.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:12:44.000Z"
+    },
+    {
+      "id": "1ca8829482c0",
+      "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+      "summary": "中新网8月30日电 据中央气象台网站消息，水利部和中国气象局8月30日18时联合发布橙色山洪灾害气象预警：",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686880.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:12:36.000Z"
+    },
+    {
+      "id": "c62547eb313b",
+      "title": "国际传播纪录片《大道——永远的长征》发布仪式在宁夏西吉举行",
+      "summary": "中新网宁夏西吉8月30日电 (记者 于晶)8月30日，国际传播纪录片《大道——永远的长征》发布仪式，在宁夏固原市西吉县将台堡红军长征会师纪念园举办。该片将于2026年9月中旬面向海内外同步上映，为红军长征胜利90周年献上一份厚重的红色影像礼赞。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686877.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:12:10.000Z"
+    },
+    {
+      "id": "6a296e557623",
+      "title": "中足联官方：国安英博两队被通报批评 达万被禁赛6场",
+      "summary": "8月30日下午，中足联官方发布了对大连英博对阵北京国安比赛中发生冲突的处罚决定。两支球队均被通报批评，北京国安外援达万被禁赛6场，罚款6万元；大连英博助教鲁丹被禁赛3场，罚款3万元；大连英博翻译李钢被禁赛5场，罚款5万元。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686890.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:07:44.000Z"
+    },
+    {
+      "id": "98d597bbf2d0",
+      "title": "Dolly Parton的父親生前不識字，於是她給數百萬孩子寄上書本",
+      "summary": "全球各地的家庭分享了帕頓想像圖書館提供的免費書籍如何幫助他們的孩子。",
+      "url": "https://www.bbc.com/zhongwen/articles/c5ydw7pv2nzo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:03:44.000Z"
+    },
+    {
+      "id": "c1b0d4fccf88",
+      "title": "高原之上，中国企业万里驰援",
+      "summary": "信号没了，路不通了，电也断了。8月26日，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686876.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T11:02:52.000Z"
+    },
+    {
+      "id": "d370e678a1aa",
+      "title": "新华图讯｜习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问",
+      "summary": "当地时间8月30日下午，国家主席习近平乘专机抵达比什凯克，应吉尔吉斯斯坦总统扎帕罗夫邀请，出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686874.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T10:50:06.000Z"
+    },
+    {
+      "id": "2b805cb9794b",
+      "title": "两岸同胞甘肃共谒西王母",
+      "summary": "中新社甘肃泾川8月30日电 (王牧雨)第九届海峡两岸西王母文化交流活动谒礼仪式30日在甘肃省平凉市泾川县王母宫举行，两岸信众、客商、青年学子齐聚“天下王母第一宫”，共同拜谒“华夏母亲”西王母，探寻两岸共有的文化根脉。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686871.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T10:45:04.000Z"
+    },
+    {
+      "id": "40a4f773c7ab",
+      "title": "厦门通报“使用敌敌畏为餐饮门店消杀问题”：刑拘6人",
+      "summary": "中新网厦门8月30日电 (吴冠标)8月30日，厦门市联合调查组就“厦门绿林森环境科技有限公司使用敌敌畏为餐饮门店消杀问题”发布情况通报。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686868.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T10:44:24.000Z"
+    },
+    {
+      "id": "c1ffee69dd24",
+      "title": "自然资源部持续推进西藏吉隆泥石流灾害抢险救援",
+      "summary": "中新网8月30日电 据自然资源部微信公众号消息，8月30日，自然资源部召开会议，对西藏吉隆泥石流灾害抢险救援等工作进行再调度再部署。会议听取院士专家意见建议，对前方抢险救援风险处置工作作出要求。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686867.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T10:32:03.000Z"
+    },
+    {
+      "id": "7bbc6edacb1c",
+      "title": "程一笑：未来快手最大的创作红利，来自于对多元特色生态的深耕",
+      "summary": "8月29日，2026快手光合创作者大会在武汉举行。快手科技创始人、董事长兼首席执行官程一笑发表题为《坚实特色内核，塑造多元社区》的演讲，系统阐释了快手社区的延续与演进，并分享了平台下一阶段的创作红利方向。",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686866.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T10:28:09.000Z"
+    },
+    {
+      "id": "474b8c34708e",
+      "title": "尼泊尔泥石流灾害已致752人死亡2502人失联",
+      "summary": "中新网8月30日电 据尼泊尔国家减少灾害风险管理局公布的最新数据，截至当地时间30日13时，尼泊尔泥石流灾害造成的死亡人数升至752人，失联人数为2502人。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686852.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T10:25:43.000Z"
+    },
+    {
+      "id": "ec6b7a271a80",
+      "title": "中国—吉尔吉斯斯坦卓越工程师学院在比什凯克揭牌",
+      "summary": "中新社比什凯克8月30日电(记者 单璐)中国—吉尔吉斯斯坦卓越工程师学院30日在位于比什凯克的吉尔吉斯斯坦国立技术大学揭牌。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686833.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-30T10:25:15.000Z"
+    },
+    {
+      "id": "c8d260c0aac9",
+      "title": "洪災衝擊西藏口岸畫面未在中國播出，當地災民情況我們所知甚少",
+      "summary": "一些關於這場致命山洪暴發最驚人的畫面，中國官方媒體未對公眾播放。",
+      "url": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-30T10:03:31.000Z"
+    },
+    {
+      "id": "bc8b8af2c82b",
+      "title": "Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant",
+      "summary": "The no campaign was well-funded and accused of scaremongering, but the wording of the question may also have made a difference It was always going to be a close contest. But on t…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-30T09:37:29.000Z"
+    },
+    {
+      "id": "5c3c6d6615f9",
+      "title": "Women in UK arts feel they do not have equal opportunities for roles, says report",
+      "summary": "Exclusive: Research says sector is fixated with young talent, with most women experiencing unconscious bias or sexism Women working in the arts believe they do not have equal opp…",
+      "url": "https://www.theguardian.com/money/2026/aug/30/women-uk-arts-no-equal-opportunities-roles-report-sexism-discrimination",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-30T09:00:52.000Z"
+    },
+    {
+      "id": "4a5618ffd878",
+      "title": "Iceland appears to have rejected EU accession talks in referendum, reports say",
+      "summary": "The no camp looks to have prevailed, holding 52.5% of votes with only a few left to be counted, says public broadcaster Analysis: Definitely no or maybe yes: what tipped the Icel…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-30T08:51:05.000Z"
+    },
+    {
+      "id": "8b83ccb81157",
+      "title": "Pacific Islands Forum meeting in turmoil after several leaders pull out of Palau summit",
+      "summary": "Solomon Islands prime minister cancels his appearance, along with leaders from Fiji, Vanuatu and Samoa Several leaders have pulled out of a the Pacific Islands Forum leaders’ mee…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/pacific-islands-forum-meeting-in-turmoil-after-several-leaders-pull-out-of-palau-summit",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-30T07:22:01.000Z"
+    },
+    {
+      "id": "4ba2498203b1",
+      "title": "A lone Black woman’s defiance of Swedish neo-Nazis, 10 years on",
+      "summary": "Protester Tess Asplund on the photo that made headlines, and why she sees it as a sign of the change in Sweden today The striking photograph showed a lone Black woman, her fist r…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/sweden-neo-nazi-resistance-2016-tess-asplund-far-right",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-30T07:00:50.000Z"
+    },
+    {
+      "id": "7f95bad0a3dc",
+      "title": "澳洲每年上演全球最大型烏賊交配活動——今年盛況不再",
+      "summary": "官方數據稱今年只有1811隻烏賊前來交配，比去年下降了97%，這可能會對明年的族群數量產生影響。",
+      "url": "https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-30T06:45:53.000Z"
+    },
+    {
+      "id": "de2d44f55b7d",
+      "title": "Renee was at Gyirong Port minutes before flood struck, now her family want to travel from Australia to help search",
+      "summary": "Missing woman’s partner and daughters fundraise to join search in one of the hardest-hit areas of Nepal Follow our Australia news live blog for latest updates Get our breaking ne…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/renee-gyirong-port-flood-nepal-family-australia-help-search",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-30T06:21:46.000Z"
+    },
+    {
+      "id": "3ac63c4298f1",
+      "title": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
+      "summary": "Conditions are deteriorating in city of El Obeid and camps on its outskirts, with more people arriving every day Humanitarian conditions in the Sudanese city of El Obeid and two…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-30T06:00:48.000Z"
+    },
+    {
+      "id": "bfe4269eba9b",
+      "title": "中國：氣候變暖導致尼泊爾—西藏泥石流災難",
+      "summary": "中方調查專家稱，造成泥石流的冰岩崩從發生到衝擊西藏吉隆口岸僅約6到7分鐘。",
+      "url": "https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-30T05:58:22.000Z"
+    },
+    {
       "id": "a326e7a8bc9a",
-      "title": "Australia news live: ‘we owe it to history’ to defeat One Nation, PM tells Labor faithful; man dies after falling from eighth-floor balcony in Sydney",
-      "summary": "Police attempted to speak to man at Elizabeth Bay apartment block east of Sydney’s CBD on Sunday morning. Follow latest updates live Get our breaking news email , free app or dai…",
+      "title": "‘We owe it to history’ to defeat One Nation, PM tells Labor faithful – as it happened",
+      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Joyce explains One Nation’s migration policy with sheep and cattle Barnaby Joyce has used she…",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -40,194 +450,14 @@
       "publishedAt": "2026-08-30T05:37:19.000Z"
     },
     {
-      "id": "7bf59e5c5c92",
-      "title": "（长征胜利90周年）“长征路上新阿坝”大型主题采访活动：循长征足迹 看阿坝新貌",
-      "summary": "中新网阿坝8月30日电 (王利文)8月24日至29日，由中国新闻摄影学会指导、中共阿坝州委宣传部主办，中国新闻图片网、中国新闻社四川分社支持的“长征路上新阿坝”大型主题采访活动，在四川省阿坝藏族羌族自治州举行。6天时间里，来自中央主流媒体及江西、福建、广东、湖南、广西、贵州、云南、四川、甘肃、宁夏、陕西等长征途经省份的60余名记者，分4条线路深入阿坝州1…",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686733.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:36:11.000Z"
-    },
-    {
       "id": "1d80006f1067",
       "title": "One Nation’s Secret Harbour byelection win shows Labor is at a loss when it comes to calming angry voters | Analysis",
-      "summary": "Even after a week in which Pauline Hanson and One Nation candidates tripped over themselves trying to explain key policies, voters still backed the party The One Nation hype mach…",
+      "summary": "Even after a week in which Pauline Hanson and One Nation candidates tripped over themselves trying to explain key policies, voters still backed the party Get our breaking news em…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/30/one-nations-secret-harbour-byelection-win-shows-labor-is-at-a-loss-when-it-comes-to-calming-angry-voters",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-30T05:34:57.000Z"
-    },
-    {
-      "id": "c00e10e16357",
-      "title": "皮划艇静水世锦赛中国队再夺两铜",
-      "summary": "中新社北京8月30日电 当地时间8月29日在波兰波兹南进行的2026年皮划艇静水世界锦标赛中，中国队在男子单人划艇500米和女子双人划艇200米决赛中获得两枚铜牌；另有两名年轻选手在各自项目中展现潜力。",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686758.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:34:31.000Z"
-    },
-    {
-      "id": "43d90f6d28c7",
-      "title": "2026数博会聚焦词元 探索数据要素价值释放新路径",
-      "summary": "中新社贵阳8月30日电 (记者 张伟)以“词元——数据要素价值释放新路径”为主题的2026中国国际大数据产业博览会8月28日至30日在贵阳举行，词元成为与会各方关注的焦点话题之一。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686724.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:32:04.000Z"
-    },
-    {
-      "id": "98ee5c073739",
-      "title": "累计进占260余米 中国安能全力推进前往吉隆口岸核心区的道路抢通工作",
-      "summary": "中新网北京8月30日电(记者 郭超凯 陈溯)记者从应急管理部获悉，8月30日，应急管理部调派中国安能工程力量持续开展道路抢通作业，投入110名救援人员、28台套包括挖掘机、装载机等装备，在G216国道损毁路段持续开展抢通作业，争分夺秒打通通往吉隆口岸核心区的关键通道。截至8月30日12时，中国安能累计进占260余米，翻挖掏料28500余方。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686770.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:26:02.000Z"
-    },
-    {
-      "id": "855ff610a8be",
-      "title": "AI相关专业密集“上新”，职业教育迎来哪些“变量”？",
-      "summary": "近日，教育部公布2026年《职业教育专业目录》增补结果。值得注意的是，27个新专业中有多个AI相关专业，包括具身智能计算技术、人形机器人工程技术、商业人工智能应用、智能体通信技术等。新增专业将于2027年开始招生。",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686768.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:22:32.000Z"
-    },
-    {
-      "id": "ba386d6c1ba4",
-      "title": "两孩子在展厅内手抓、脚踢标本 国家动物博物馆强烈谴责",
-      "summary": "强烈谴责！",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686767.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:17:40.000Z"
-    },
-    {
-      "id": "bcb4e662e499",
-      "title": "普热普强藏布堰塞湖下游山体发生滑坡，正在形成新的堰塞湖",
-      "summary": "中新网北京8月30日电(记者 郭超凯 陈溯)记者30日从应急管理部获悉，为保障西藏日喀则市吉隆县泥石流灾害抢险救援工作，应急管理部调派“雨燕应急”成员单位侦察无人机和大载重无人机，持续监测普热普强藏布堰塞湖发展态势，滚动会商研判，全力协助指导地方做好抢险救援救灾各项工作。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686766.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:17:06.000Z"
-    },
-    {
-      "id": "8a0287fddb25",
-      "title": "学习新语｜逐梦新学期",
-      "summary": "视频：学习新语｜逐梦新学期来源：新华社",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686762.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:11:31.000Z"
-    },
-    {
-      "id": "d2fc08d8deb6",
-      "title": "大国外交最前线丨在比什凯克 感受什么叫“兄弟情谊胜过一切财富”",
-      "summary": "视频：大国外交最前线丨在比什凯克 感受什么叫“兄弟情谊胜过一切财富”来源：央视新闻客户端",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686761.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:10:09.000Z"
-    },
-    {
-      "id": "dc22cdebe440",
-      "title": "此行间·热烈欢迎习主席到访！五星红旗点亮比什凯克主干道",
-      "summary": "视频：此行间·热烈欢迎习主席到访！五星红旗点亮比什凯克主干道来源：人民日报客户端",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686759.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:06:11.000Z"
-    },
-    {
-      "id": "d17333a0f82c",
-      "title": "山东荣成：多彩活动迎新生",
-      "summary": "8月29日，山东省荣成市府新小学迎来新生报到。校园通道设置写有成长祝福的彩色跨栏，学生们依次跨过，在仪式感中开启新学期。学校同步开展交通安全科普，并组织新生朗读课文。李信君 摄 8月29日，山东省荣成市府新小学迎来新生报到。校园通道设置写有成长祝福的彩色跨栏，学生们依次跨过，在仪式感中开启新学期。学校同步开展交通安全科普，并组织新生朗读课文。李信君 摄…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-30/10686716.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:04:59.000Z"
-    },
-    {
-      "id": "151f8bb58e70",
-      "title": "专家学者在沪“把脉”人文智能未来发展",
-      "summary": "中新网上海8月30日电 (记者 陈静)面对AI技术浪潮，人文社会科学将会迎接哪些挑战？人文智能的未来会是怎样？30日正在上海举行的第二届CCF人文智能大会(下称：大会)上，中国的专家学者们通过多种形式展示人文智能领域的新进展、新方法与新实践。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686732.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:03:23.000Z"
-    },
-    {
-      "id": "46338ef2a1f1",
-      "title": "广西调整发布洪水橙色预警",
-      "summary": "中新网南宁8月30日电 (陈秋霞 周也茹)广西壮族自治区水文中心29日提供的信息显示，29日20时，广西仍有郁江及支流青龙江、蒙江河、武思江、鲤鱼江、石梯江，左江及支流客兰河等11条河流15个水文站超警0.11至4.98米，超警最大为郁江南宁市邕宁区蒲庙镇河段。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686720.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:03:09.000Z"
-    },
-    {
-      "id": "06c2843cc9ba",
-      "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
-      "summary": "中新社北京8月30日电 中国海警局30日消息，当日，中国海警位中国黄岩岛领海及周边区域开展执法巡查。8月份以来，中国海警持续加强黄岩岛领海及周边区域执法巡查，依法依规处置非法侵权船只，进一步强化有关海域管控，坚决维护国家领土主权和海洋权益。(完)",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686731.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:02:05.000Z"
-    },
-    {
-      "id": "a46d4a8d9255",
-      "title": "广西梧州工业提质再造“硬脊梁” 向海图强跑出“加速度”",
-      "summary": "中新网梧州8月30日电 题：广西梧州工业提质再造“硬脊梁” 向海图强跑出“加速度”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686718.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:01:49.000Z"
-    },
-    {
-      "id": "81275fa8d8f6",
-      "title": "香港律政司与乌兹别克斯坦司法部签订合作备忘录",
-      "summary": "中新网香港8月30日电 当地时间29日，香港特区政府律政司与乌兹别克斯坦司法部在塔什干签订合作备忘录。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-30/10686722.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:01:31.000Z"
-    },
-    {
-      "id": "f69457e05b70",
-      "title": "跨越三千公里，“眼明心安”公益行守护雪域高原",
-      "summary": "中新网北京8月30日电 题：跨越三千公里，“眼明心安”公益行守护雪域高原",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-30/10686717.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:01:15.000Z"
-    },
-    {
-      "id": "1d5391ec95f1",
-      "title": "东南大学迎来4841名新生 新增三个新兴工科专业首次招生",
-      "summary": "中新网南京8月30日电 (记者 徐珊珊)8月29日，东南大学迎来2026级本科新生报到日。4841名新生汇聚南京，开启崭新大学生活。今年该校新增医疗器械与装备工程、低空技术与工程、系统科学与工程3个前沿本科专业，并设立“AI+工程创新班”，均为首次招生。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686721.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:01:09.000Z"
     },
     {
       "id": "5238242c4a70",
@@ -238,126 +468,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-30T05:00:48.000Z"
-    },
-    {
-      "id": "d0310242ce73",
-      "title": "美媒团队遭以色列定居者袭击 内塔尼亚胡“罕见谴责”",
-      "summary": "中新网8月30日电 据美国全国广播公司(NBC)报道，该媒体新闻团队成员29日在约旦河西岸采访时遭到蒙面的以色列定居者袭击并受伤。法新社称，此事引发了以色列总理内塔尼亚胡的“罕见谴责”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686742.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:00:37.000Z"
-    },
-    {
-      "id": "ba3ee88a97a6",
-      "title": "香港办盂兰文化同乐日 设英文巴士导赏团面向外籍游客",
-      "summary": "中新网香港8月30日电 (记者 戴小橦)“中西区潮州传统与盂兰文化同乐日”活动29日在香港举行。该活动是2026盂兰文化节系列宣传活动之一，旨在以多元形式展示国家级非物质文化遗产香港潮人盂兰胜会的深厚底蕴与创新活力。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-30/10686714.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:00:27.000Z"
-    },
-    {
-      "id": "2e4e7af887fd",
-      "title": "广西仍有10条河流超警 郁江2026年第2号洪水过境贵港城区",
-      "summary": "中新网南宁8月30日电(陈秋霞 周也茹)广西壮族自治区水文中心30日提供的信息显示，30日8时，广西仍有郁江及支流青龙江、蒙江河、武思江、鲤鱼江、石梯江，左江等10条河流14个水文站超警0.04米至4.58米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686715.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T05:00:25.000Z"
-    },
-    {
-      "id": "196e3abc2975",
-      "title": "兰州大学暖心迎新：一碗面邀学子读懂陇原山河",
-      "summary": "中新网兰州8月30日电 (田鹏鹤)又是一年开学季，全国各地2026级新生陆续奔赴兰州大学报到。不同于刻板传统的迎新模式，兰州大学持续延续暖心特色迎新传统，以极具金城烟火气、陇原辨识度的专属礼遇迎接新生，让初抵兰州的学子真切感受校园温度与丝路古城的独特底蕴。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686713.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T04:59:52.000Z"
-    },
-    {
-      "id": "8453f5514468",
-      "title": "海南封关看变化：开放红利持续释放惠企业",
-      "summary": "中新网海口8月30日电 (记者 王子谦)海南自贸港全岛封关以来，开放红利持续释放。一个更加开放的海南，为广大企业提供哪些发展机遇？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686711.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T04:59:24.000Z"
-    },
-    {
-      "id": "f416603f9f56",
-      "title": "电力部门全力保障西藏吉隆损毁路段抢通作业夜间照明",
-      "summary": "中新网日喀则8月30日电(李东淮)8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。8月29日，按照西藏吉隆“8·26”泥石流灾害前方指挥部统一部署，国网西藏电力迅速响应，抢抓抢修窗口期，组织精干力量，安装应急变压器，迅速将稳定市电延伸至消防应急前方指挥部和通信基站。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686719.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T04:59:08.000Z"
-    },
-    {
-      "id": "de2b09a69dec",
-      "title": "辽宁省第十三届艺术节启幕",
-      "summary": "中新网沈阳8月30日电 (记者 韩宏)辽宁省第十三届艺术节29日晚在沈阳开幕。",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-30/10686710.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T04:58:48.000Z"
-    },
-    {
-      "id": "1536c1111791",
-      "title": "西藏吉隆泥石流灾害造成16人遇难 546人失联",
-      "summary": "中新社西藏吉隆8月30日电 (赵朗 李林 贡嘎来松)西藏自治区人民政府新闻办公室8月30日在日喀则市吉隆县吉隆镇召开发布会公布，截至29日18时，泥石流灾害造成16人遇难，546人失联。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686741.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T04:57:48.000Z"
-    },
-    {
-      "id": "59e683ccc5cc",
-      "title": "中新健康｜看完《欢迎来龙餐馆》：发芽土豆为什么不能吃",
-      "summary": "中新网北京8月30日电(张静)近日，电影《欢迎来龙餐馆》中“用发芽土豆让孩子们轻微中毒换生机”的情节引发热议。现实生活中，发芽土豆为什么不能吃？中新健康记者就此采访了首都医科大学附属北京中医医院临床营养科副主任医师佟丽。佟丽提醒，“土豆发芽挖掉芽就能吃”“削皮、泡水、煮透就能去毒”等做法，风险远比想象中高，核心隐患来自龙葵素。",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-30/10686747.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T04:56:56.000Z"
-    },
-    {
-      "id": "4c9d29a39a8b",
-      "title": "中国西部“风光”点亮AI未来",
-      "summary": "DeepSeek在6月刚拿到500亿元融资，转头就把钱砸进了内蒙古一座小城，计划建设一座1吉瓦(GW)级超大型AI数据中心。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686744.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-08-30T04:54:50.000Z"
-    },
-    {
-      "id": "32b3670c0fae",
-      "title": "开学前孩子情绪低落焦虑 家长可以这样做",
-      "summary": "朝“问”健康丨开学前孩子情绪低落焦虑 家长可以这样做",
-      "url": "https://www.chinanews.com.cn/life/2026/08-30/10686748.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T04:53:58.000Z"
-    },
-    {
-      "id": "11691a861070",
-      "title": "中新网评：顾客隐私不是商家的流量素材",
-      "summary": "中新网北京8月30日电(记者 刘星晨)在餐馆吃饭却莫名其妙成了商家直播的背景板，甚至有自助餐餐厅为了展示客流直接将镜头对准顾客，如今，来消费的食客竟无形中成为了店家提高声浪的工具。",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686746.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-30T04:53:46.000Z"
     },
     {
       "id": "a6de4edbd071",
@@ -380,16 +490,6 @@
       "publishedAt": "2026-08-30T01:49:30.000Z"
     },
     {
-      "id": "5f546757d942",
-      "title": "Families balance hope and despair in race to find survivors in Nepal as 41 Australians still missing",
-      "summary": "The walls of a teaching hospital are filled with pictures of unidentified victims as authorities collect DNA samples and plan burials before morgues fill up Follow our Australia…",
-      "url": "https://www.theguardian.com/world/2026/aug/30/families-balance-hope-and-despair-in-race-to-find-survivors-in-nepal-as-australians-still-missing",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-30T00:27:59.000Z"
-    },
-    {
       "id": "6f55797edbaf",
       "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
       "summary": "接二連三的失敗，令外界對機械人全面接管披薩餐廳製作流程的前景失去信心。",
@@ -398,16 +498,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-30T00:14:20.000Z"
-    },
-    {
-      "id": "1686f7294433",
-      "title": "One Nation claims victory in Secret Harbour byelection in Western Australia",
-      "summary": "One Nation candidate Luke Herdegen secures 57% of the vote after preferences as Barnaby Joyce says ‘politics has changed’ Follow our Australia news live blog for latest updates G…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-30T00:00:28.000Z"
     },
     {
       "id": "80ad369697ca",
@@ -430,16 +520,6 @@
       "publishedAt": "2026-08-29T15:06:07.000Z"
     },
     {
-      "id": "93f9565596ad",
-      "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
-      "summary": "Ukrainian prosecutors open investigation into why munitions were stored so close to residential buildings At least 37 people have been killed after a Russian drone struck a wareh…",
-      "url": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-29T13:34:02.000Z"
-    },
-    {
       "id": "1673e858978b",
       "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
       "summary": "Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of living For William McDonald, 38, a diesel mechanic from Thunder Bay, Ont…",
@@ -460,16 +540,6 @@
       "publishedAt": "2026-08-29T12:00:27.000Z"
     },
     {
-      "id": "8d9d9f7491b5",
-      "title": "Laurie Anderson’s next manuscript to be locked away for 88 years in Future Library",
-      "summary": "Grammy award-winning American artist selected as 13th person to submit written work to Oslo-based project The next manuscript by the American artist Laurie Anderson will remain u…",
-      "url": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-29T12:00:26.000Z"
-    },
-    {
       "id": "5eb72b8c0f6f",
       "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
       "summary": "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over In mid-June, 99 guerrilla fighters we…",
@@ -480,14 +550,24 @@
       "publishedAt": "2026-08-29T10:00:24.000Z"
     },
     {
-      "id": "906da75c2f87",
-      "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
-      "summary": "As one of Europe’s biggest consumers of gas the UK may be particularly exposed to heightened price volatility Europe is on course to enter the cooler months with gas stores at th…",
-      "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
-      "source": "The Guardian World",
-      "category": "国际",
+      "id": "d1ecc0e3d525",
+      "title": "Sharp rise in incidents of AI escaping users’ control, research finds",
+      "summary": "Exclusive: Number of times AI lies, ignores instructions and pursues goals in harmful ways almost doubles in July Incidents of AIs escaping users’ control to lie, ignore instruct…",
+      "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
+      "source": "The Guardian Technology",
+      "category": "AI",
       "language": "en",
-      "publishedAt": "2026-08-29T05:00:19.000Z"
+      "publishedAt": "2026-08-29T06:00:20.000Z"
+    },
+    {
+      "id": "ac0631c2cfd9",
+      "title": "UK risks falling behind in AI race without faster telecoms upgrades, say executives",
+      "summary": "Planning delays and slow 5G upgrades could leave the UK unable to cope with a surge in AI-related traffic The UK risks becoming a laggard in the global AI race as crucial telecom…",
+      "url": "https://www.theguardian.com/technology/2026/aug/29/uk-risk-falling-behind-ai-telecoms-upgrades",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-29T06:00:19.000Z"
     },
     {
       "id": "3faf3b78b413",
@@ -496,6 +576,16 @@
       "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
       "source": "The Guardian Technology",
       "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-29T05:00:19.000Z"
+    },
+    {
+      "id": "906da75c2f87",
+      "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
+      "summary": "As one of Europe’s biggest consumers of gas the UK may be particularly exposed to heightened price volatility Europe is on course to enter the cooler months with gas stores at th…",
+      "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
+      "source": "The Guardian Business",
+      "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-29T05:00:19.000Z"
     },
@@ -621,7 +711,7 @@
     },
     {
       "id": "00f5c14bbbcb",
-      "title": "尼泊爾—西藏泥石流：逾2000人遇難或失聯，中國總理赴前線意味著什麼？",
+      "title": "尼泊爾—西藏泥石流：中國總理赴前線意味著什麼？",
       "summary": "在中國，災難應對往往也帶有政治訊號。尤其是中共中央總書記作出「重要指示」，或總理、副總理親赴現場，通常意味著北京把事件視為需要高度關注和統籌應對的重大危機。",
       "url": "https://www.bbc.com/zhongwen/articles/c980env4n78o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC 中文",
@@ -771,7 +861,7 @@
     },
     {
       "id": "32e1bd4958c7",
-      "title": "女性罵髒話很低劣嗎？莫迪批評言論引燃印度「蟑螂人民黨」示威後續辯論",
+      "title": "女性罵髒話很低劣嗎？莫迪言論引燃「蟑螂人民黨」後續辯論",
       "summary": "印度在野黨議員拉胡爾·甘地的言論再次引發有關性別差異的辯論，焦點在於人們對辱罵總理莫迪言論的反應是否因性別而有所不同。",
       "url": "https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC 中文",
@@ -820,16 +910,6 @@
       "publishedAt": "2026-08-27T16:52:46.000Z"
     },
     {
-      "id": "aced9a8015e2",
-      "title": "Three UK airports hit by cyber-attack with data of 8.7m customers accessed",
-      "summary": "Company that runs Manchester, Stansted and East Midlands hubs says passenger safety is unaffected Business live – latest updates Manchester, London Stansted and East Midlands air…",
-      "url": "https://www.theguardian.com/business/2026/aug/27/uk-airports-operator-cyber-attack-customer-data-accessed",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-27T14:53:54.000Z"
-    },
-    {
       "id": "51d322eb3140",
       "title": "AI can detect heart disease in women using mammograms, study suggests",
       "summary": "Experts say findings mean breast screenings for cancer could also flag cardiovascular problems in women Doctors have discovered a way to use routine mammograms that screen for br…",
@@ -848,16 +928,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-27T13:38:30.000Z"
-    },
-    {
-      "id": "50f7e4df737b",
-      "title": "An $18bn settlement is a drop in the ocean for Meta – but the tide will still come for it | Chris Stokel-Walker",
-      "summary": "This week’s settlement without liability was pragmatic, but it doesn’t change the inevitability of further lawsuits around the world Not many people would count paying $18bn they…",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/27/meta-social-media-settlement-18bn-us-child-safety-big-tech-lawsuits",
-      "source": "The Guardian Technology",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-27T13:11:16.000Z"
     },
     {
       "id": "c7350c896d67",
@@ -880,36 +950,6 @@
       "publishedAt": "2026-08-27T11:00:13.000Z"
     },
     {
-      "id": "68f2b776ed09",
-      "title": "AI slopper in chief: Trump turns to social media amid tough questions",
-      "summary": "As the US president struggles to end his Iran war, and approval ratings hit new lows, he leans on a familiar gambit Donald Trump knows the power of an image – of himself, with ev…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-truth-social-ai-george-washington",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-27T10:00:12.000Z"
-    },
-    {
-      "id": "bc100434eb5b",
-      "title": "Black Box: The Chatbots: a new series from The Guardian Investigates – trailer",
-      "summary": "People are becoming convinced AI chatbots have helped them make scientific breakthroughs, cure diseases or invent new technologies. What does this reveal about a technology used…",
-      "url": "https://www.theguardian.com/technology/audio/2026/aug/27/black-box-the-chatbots-new-series-guardian-investigates-trailer",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-27T10:00:11.000Z"
-    },
-    {
-      "id": "c1838e91883e",
-      "title": "日本藝術家「波點女王」草間彌生逝世，享年97歲",
-      "summary": "她以色彩繽紛的作品吸引了大量觀眾，並為女性藝術家作品拍賣出有史以來最高的價格。",
-      "url": "https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-27T09:40:20.000Z"
-    },
-    {
       "id": "9d00545445b8",
       "title": "Trainwatch – alone with your thoughts on a railway line to nowhere",
       "summary": "The flat routines of a dead end railway job screen out an approaching menace in a quietly intriguing game from the indie developer of Cat Lady and Lorelai Lonely jobs have provid…",
@@ -928,16 +968,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-27T08:00:09.000Z"
-    },
-    {
-      "id": "dc0274d04ce2",
-      "title": "Meta案突以180億美元和解，或加快清算社交媒體兒童安全",
-      "summary": "BBC科技編輯佐伊·克萊曼（Zoe Kleinman）認為，我們無止境刷看負面資訊的習慣已時日無多。",
-      "url": "https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-27T06:36:56.000Z"
     },
     {
       "id": "2ed5ba3a8842",
@@ -1020,16 +1050,6 @@
       "publishedAt": "2026-08-26T11:07:16.000Z"
     },
     {
-      "id": "571f0378a122",
-      "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
-      "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected A fresh outbreak of mpox in Gui…",
-      "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-26T11:00:12.000Z"
-    },
-    {
       "id": "0e0304ec0e97",
       "title": "On scraps of land and under constant threat, Gaza farmers struggle to survive",
       "summary": "Efforts to rebuild domestic food production face severe challenges and have come at deadly cost As Gaza’s population of 2.1 million has been hemmed into an ever smaller slice of…",
@@ -1088,6 +1108,16 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-26T06:44:23.000Z"
+    },
+    {
+      "id": "44f8b1e1f9fb",
+      "title": "Would you pay for an algorithm to pick your friends? New social apps spread across cities",
+      "summary": "With many adults admitting they feel lonely, meetup platforms offer the chance to make new connections Would you pay £20 a month for the chance of making a friend, on the underst…",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/26/algorithm-pick-your-friends-paid-free-meetup-apps-cliq-ply",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-26T06:00:36.000Z"
     },
     {
       "id": "4f339e46dbda",
@@ -1150,16 +1180,6 @@
       "publishedAt": "2026-08-25T09:59:16.000Z"
     },
     {
-      "id": "806210cffc4e",
-      "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
-      "summary": "這是普京執政逾25年來首次踏足「北方四島」（俄稱南千島群島）之一。當前正值俄羅斯遭遇來自烏克蘭一波接一波的無人機攻勢之際，普京為何要在此時親赴遠東登島？",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-25T09:28:45.000Z"
-    },
-    {
       "id": "16bf8d08a3c8",
       "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
       "summary": "中國工廠裡有超過兩百萬台機器人正在工作——而且它們的數量還在快速增長。",
@@ -1208,26 +1228,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-24T06:00:53.000Z"
-    },
-    {
-      "id": "9e712f93aadb",
-      "title": "老乾媽陶華碧教會我們的七件事",
-      "summary": "陶華碧憑藉其老乾媽辣椒醬帝國脫貧，蛻變成「中國最火辣的女人」，並成為風靡全球的網絡熱話。",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-24T00:02:12.000Z"
-    },
-    {
-      "id": "1d4cc92e343d",
-      "title": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
-      "summary": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable Some experts are warning of a looming “debt bomb” cr…",
-      "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-08-23T14:00:34.000Z"
     }
   ]
 }
