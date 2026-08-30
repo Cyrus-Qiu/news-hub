@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T19:24:56.760Z",
+  "updatedAt": "2026-08-30T22:00:46.440Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,34 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "e6412fed858b",
+      "title": "News live: number of Australians missing in Nepal floods rises; Oscar Jenkins gives first interview since Russia conviction",
+      "summary": "Nepali and Chinese authorities confirmed an updated death toll of at least 810 on Sunday. Follow the day’s news live Get our breaking news email , free app or daily news podcast…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-30T21:44:14.000Z"
+    },
+    {
+      "id": "7e3b4baa15e6",
+      "title": "Australian boxing great Tony Mundine dies aged 75",
+      "summary": "Father of former boxer and NRL star Anthony Mundine succumbed to a heart attack on Sunday Warning: Aboriginal and Torres Strait Islander readers are advised that this article con…",
+      "url": "https://www.theguardian.com/sport/2026/aug/31/australian-boxing-great-tony-mundine-dies-aged-75-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-30T20:25:15.000Z"
+    },
+    {
       "id": "27bddd865523",
-      "title": "Captain and crew arrested after at least eight die in Northern Cyprus ferry disaster – latest updates",
+      "title": "Captain and crew arrested after at least eight die in northern Cyprus ferry disaster – as it happened",
       "summary": "An estimated 237 people have been rescued but 18 are missing after accident off the coast of northern Cyprus Fatalities after ferry carrying nearly 270 capsizes off northern Cypr…",
       "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-30T19:03:22.000Z"
+      "publishedAt": "2026-08-30T19:18:02.000Z"
     },
     {
       "id": "f1acf504161f",
@@ -132,12 +152,12 @@
     {
       "id": "a98a10d3a4c3",
       "title": "At least eight dead and 18 missing after ferry capsizes off northern Cyprus",
-      "summary": "Authorities say 237 people rescued and search under way for those who remain unaccounted for Northern Cyprus ferry disaster – latest updates At least eight people have died and 1…",
+      "summary": "Authorities say 237 people rescued and search under way for those who remain unaccounted for At least eight people have died and 18 people are missing after a ferry carrying near…",
       "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-08-30T15:12:03.000Z"
+      "publishedAt": "2026-08-30T15:12:02.000Z"
     },
     {
       "id": "44df3a4647f5",
@@ -162,7 +182,7 @@
     {
       "id": "464e0f3d3700",
       "title": "Cash settlements on home insurance claims leaving vulnerable Australians short-changed, Asic says",
-      "summary": "Corporate regulator finds insurers settling most claims with cash rather than by managing repairs or rebuilding, warning of ‘unfair outcomes’ for homeowners Get our breaking news…",
+      "summary": "Corporate regulator finds insurers settling most claims with cash rather than by managing repairs or rebuilding, warning of ‘unfair outcomes’ for homeowners Follow our Australia…",
       "url": "https://www.theguardian.com/australia-news/2026/aug/31/cash-settlements-home-insurance-cyclone-disaster-repairs-vulnerable-australians-asic",
       "source": "The Guardian World",
       "category": "国际",
@@ -528,26 +548,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-30T05:58:22.000Z"
-    },
-    {
-      "id": "a326e7a8bc9a",
-      "title": "‘We owe it to history’ to defeat One Nation, PM tells Labor faithful – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Joyce explains One Nation’s migration policy with sheep and cattle Barnaby Joyce has used she…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-30T05:37:19.000Z"
-    },
-    {
-      "id": "1d80006f1067",
-      "title": "One Nation’s Secret Harbour byelection win shows Labor is at a loss when it comes to calming angry voters | Analysis",
-      "summary": "Even after a week in which Pauline Hanson and One Nation candidates tripped over themselves trying to explain key policies, voters still backed the party Get our breaking news em…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/30/one-nations-secret-harbour-byelection-win-shows-labor-is-at-a-loss-when-it-comes-to-calming-angry-voters",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-30T05:34:57.000Z"
     },
     {
       "id": "a6de4edbd071",
