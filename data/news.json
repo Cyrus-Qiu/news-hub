@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T21:39:50.678Z",
+  "updatedAt": "2026-08-30T00:08:09.883Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,106 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "a326e7a8bc9a",
+      "title": "News live: missing Australian woman found safe in Nepal flooding",
+      "summary": "‘My heart goes out to all the Nepalese families who are grieving loved ones,’ Cara Severino says. Follow latest updates live Smartglasses could face government regulation, says P…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-29T23:55:41.000Z"
+    },
+    {
+      "id": "9483d55855de",
+      "title": "8月30日早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-30/10686614.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T23:03:02.000Z"
+    },
+    {
+      "id": "ca87d17e9f8c",
+      "title": "尼日尔军方称逮捕多名企图发动兵变的士兵",
+      "summary": "当地时间8月29日，总台记者获悉，尼日尔国防部表示，该国国防与安全部队已成功挫败当天发生在首都尼亚美的兵变企图，多名参与叛乱的士兵被现场逮捕。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686613.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T22:46:05.000Z"
+    },
+    {
+      "id": "1e8cc8498ff8",
+      "title": "美称与委内瑞拉达成石油协议 被批“公然盗窃”",
+      "summary": "美国总统特朗普当地时间8月28日在社交媒体发文宣布，美国已与委内瑞拉达成协议，获得对委内瑞拉已探明石油储量中逾650亿桶的“多数控制权”。该协议遭到多方批评，美方的行为也被网友怒斥为是对委内瑞拉石油的“公然盗窃”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686612.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T22:43:37.000Z"
+    },
+    {
+      "id": "1686f7294433",
+      "title": "One Nation claims victory in Secret Harbour byelection in Western Australia",
+      "summary": "One Nation candidate Luke Herdegen secures 57% of the vote after preferences as party’s WA leader says result will send shock waves across the country Barnaby Joyce has declared…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-29T22:29:43.000Z"
+    },
+    {
+      "id": "dc43a2a3901e",
+      "title": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡",
+      "summary": "伊朗外交部副部长加里巴巴迪29日表示，霍尔木兹海峡目前完全关闭。任何船只如通过该海峡，均需要经过伊朗的协调和许可。",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686611.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T22:16:53.000Z"
+    },
+    {
+      "id": "04fc43c44f38",
+      "title": "斯诺克武汉公开赛：常冰玉斩获首个排名赛冠军",
+      "summary": "中新社武汉8月30日电 (记者 张芹)2026世界斯诺克武汉公开赛29日晚收官。决赛中，常冰玉以10：7击败赵心童，获得个人职业生涯首个斯诺克排名赛冠军。",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686610.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T22:09:33.000Z"
+    },
+    {
+      "id": "7d2c3088ee17",
+      "title": "强降雨致云南磨憨水库漫坝 紧急转移2200余人",
+      "summary": "中新社昆明8月29日电 (陆希成)昆明市防汛抗旱指挥部办公室29日通报，8月28日至29日，磨憨镇出现强降雨，辖区河道水位持续上涨，该镇磨龙村盐塘水库出现漫坝险情，有溃坝风险。截至8月29日16时，已转移2200余人。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686609.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T22:09:17.000Z"
+    },
+    {
+      "id": "2cbacd695773",
+      "title": "王毅同尼泊尔外长通电话：面对灾情，两国要坚定站在一起",
+      "summary": "中新社北京8月29日电 中共中央政治局委员、外交部长王毅29日同尼泊尔外长希西尔通电话。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686608.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-29T22:08:37.000Z"
+    },
+    {
+      "id": "80ad369697ca",
+      "title": "Palestinian woman and NBC News team reportedly attacked in West Bank",
+      "summary": "Matt Bradley and crew assaulted while interviewing woman who said settlers had driven family out of home A Palestinian woman and an NBC News team are reported to have been attack…",
+      "url": "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-29T21:55:08.000Z"
+    },
     {
       "id": "7a9529a795cb",
       "title": "August reveals Australians’ big appetite for weight-loss drugs, love for ‘dupe’ brands and an accelerating EV uptake",
@@ -280,26 +380,6 @@
       "publishedAt": "2026-08-29T13:49:25.000Z"
     },
     {
-      "id": "97c81f30f71b",
-      "title": "新华鲜报｜务农重本 农业法完成修订",
-      "summary": "务农重本，国之大纲。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686577.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T13:45:21.000Z"
-    },
-    {
-      "id": "93e63cccfb2e",
-      "title": "绝不放弃任何希望——应急管理部前方工作组有关负责人介绍吉隆泥石流灾害当前救援处置工作",
-      "summary": "新华社西藏吉隆8月29日电 题：绝不放弃任何希望——应急管理部前方工作组有关负责人介绍吉隆泥石流灾害当前救援处置工作",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686576.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T13:44:01.000Z"
-    },
-    {
       "id": "93f9565596ad",
       "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
       "summary": "Ukrainian prosecutors open investigation into why munitions were stored so close to residential buildings At least 37 people have been killed after a Russian drone struck a wareh…",
@@ -308,56 +388,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-29T13:34:02.000Z"
-    },
-    {
-      "id": "9dfa078f43c5",
-      "title": "党旗在吉隆泥石流灾害救援一线高高飘扬 消防救援队伍已投入救援力量681人开展不间断拉网式搜寻",
-      "summary": "中新网北京8月29日电 记者29日从应急管理部获悉，西藏日喀则市吉隆县泥石流灾害发生后，应急管理部、国家消防救援局调派消防救援力量跨区域增援，全力支持地方做好救援处置工作。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686575.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T13:28:34.000Z"
-    },
-    {
-      "id": "ea1f6ffffdde",
-      "title": "时政微观察丨“玛纳斯”见证中吉传统友谊",
-      "summary": "时维孟秋，天朗气清。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686574.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T13:26:24.000Z"
-    },
-    {
-      "id": "5788c4451408",
-      "title": "准确溯源冰岩崩位置 应急管理部部署卫星遥感加强吉隆泥石流灾害监测",
-      "summary": "中新网北京 8月29日电(记者 郭超凯 陈溯)卫星遥感具有全天候、全天时、高动态等观测优势。根据西藏日喀则市吉隆县泥石流灾害救援需要，应急管理部部署国家减灾中心启动卫星应急数据获取机制，综合利用应急减灾、资源、高分等系列卫星数据资源，对灾害过程开展监测。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686572.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T13:26:20.000Z"
-    },
-    {
-      "id": "6a7073f8743c",
-      "title": "吉尔吉斯斯坦各界期待习近平主席对吉进行国事访问",
-      "summary": "新华社北京/比什凯克8月29日电#8195;应吉尔吉斯斯坦总统扎帕罗夫邀请，国家主席习近平将对吉尔吉斯斯坦进行国事访问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686573.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T13:24:40.000Z"
-    },
-    {
-      "id": "89339ffe79ef",
-      "title": "侨界爱心人士积极参与广西灾后重建 助困难学子求学",
-      "summary": "中新网南宁8月29日电(林浩)“今年夏季，我的家乡遭遇严重洪涝灾害，家人一度陷入焦虑与无助，我对未来的求学之路充满迷茫。此次爱心人士提供的捐款，缓解了我的经济压力，让我能放下顾虑、安心求学。”8月28日，来自广西横州市的学生陆琳琳说。",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-29/10686567.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-29T13:22:54.000Z"
     },
     {
       "id": "1673e858978b",
@@ -440,16 +470,6 @@
       "publishedAt": "2026-08-29T05:00:18.000Z"
     },
     {
-      "id": "0b60604fa315",
-      "title": "What we know about the Australians missing in the Nepal floods",
-      "summary": "More than 40 Australians are among several thousand people unaccounted for after catastrophic flooding on the Nepal-Tibet border How the deadly Nepal and Tibet flash flood unfold…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/29/what-we-know-about-the-australians-missing-in-the-nepal-floods",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-29T03:54:59.000Z"
-    },
-    {
       "id": "301968018a06",
       "title": "Search continues as number missing in Nepal-Tibet floods rises to 2,478 – as it happened",
       "summary": "This live blog is now closed ‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal Visual guide: how the deadly flooding unfolded Tell…",
@@ -458,16 +478,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-29T03:49:58.000Z"
-    },
-    {
-      "id": "3c1b60e92dd2",
-      "title": "Controversial plans for a Daniel Andrews sculpture officially scrapped by Victorian government",
-      "summary": "The $134,000 cost of the statue of the former Victorian premier has been heavily criticised by the Liberal opposition Get our breaking news email , free app or daily news podcast…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/29/controversial-plans-for-a-daniel-andrews-sculpture-officially-scrapped-by-victorian-government",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-28T23:47:37.000Z"
     },
     {
       "id": "98478e6b1347",
@@ -1088,16 +1098,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-26T05:00:35.000Z"
-    },
-    {
-      "id": "9e5ec8aee781",
-      "title": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
-      "summary": "Internal calls to end war get louder as Gulf neighbours plan alternative pipelines to cut reliance on waterway Is the strait of Hormuz, recently cited by the office of the Irania…",
-      "url": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-26T04:00:33.000Z"
     },
     {
       "id": "0e4d82f99c80",
