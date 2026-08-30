@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T16:35:33.522Z",
+  "updatedAt": "2026-08-30T19:24:56.760Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "27bddd865523",
+      "title": "Captain and crew arrested after at least eight die in Northern Cyprus ferry disaster – latest updates",
+      "summary": "An estimated 237 people have been rescued but 18 are missing after accident off the coast of northern Cyprus Fatalities after ferry carrying nearly 270 capsizes off northern Cypr…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-30T19:03:22.000Z"
+    },
+    {
+      "id": "f1acf504161f",
+      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+      "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-30T18:57:22.000Z"
+    },
     {
       "id": "1271949787d5",
       "title": "The datacenter backlash is bringing the entire political spectrum together – against Big Tech billionaires",
@@ -100,16 +120,6 @@
       "publishedAt": "2026-08-30T15:27:50.000Z"
     },
     {
-      "id": "27bddd865523",
-      "title": "Northern Cyprus ferry disaster: at least seven dead as vessel capsizes – latest updates",
-      "summary": "An estimated 237 people have been rescued but 23 are missing after accident off the coast of northern Cyprus Fatalities after ferry carrying nearly 270 capsizes off northern Cypr…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-30T15:25:45.000Z"
-    },
-    {
       "id": "342a36e38843",
       "title": "习近平同吉尔吉斯斯坦总统小范围晤谈",
       "summary": "当地时间8月30日晚，国家主席习近平和夫人彭丽媛应邀同吉尔吉斯斯坦总统扎帕罗夫和夫人扎帕罗娃在总统官邸共进晚餐，在亲切友好的气氛中进行了交流。",
@@ -121,8 +131,8 @@
     },
     {
       "id": "a98a10d3a4c3",
-      "title": "At least seven dead and 23 missing after ferry capsizes off northern Cyprus",
-      "summary": "Authorities say 237 people rescued and search under way for those who remain unaccounted for Northern Cyprus ferry disaster – latest updates At least seven people have died and 2…",
+      "title": "At least eight dead and 18 missing after ferry capsizes off northern Cyprus",
+      "summary": "Authorities say 237 people rescued and search under way for those who remain unaccounted for Northern Cyprus ferry disaster – latest updates At least eight people have died and 1…",
       "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
       "source": "The Guardian World",
       "category": "国际",
@@ -178,16 +188,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-30T14:57:49.000Z"
-    },
-    {
-      "id": "f1acf504161f",
-      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
-      "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-30T14:55:55.000Z"
     },
     {
       "id": "955921ea407d",
