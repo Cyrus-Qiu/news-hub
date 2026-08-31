@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T19:35:35.294Z",
+  "updatedAt": "2026-08-31T23:20:11.897Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,96 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "8bce93a407b2",
+      "title": "Australia news live: NSW confirms new HSC assessment rules to crack down on AI use; Sydney man killed in home invasion",
+      "summary": "Follow updates live Get our breaking news email , free app or daily news podcast 43 Australians still missing, with concerns growing ‘every day, every hour’ that goes by, Wong sa…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
+      "source": "The Guardian World",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-31T23:14:55.000Z"
+    },
+    {
+      "id": "d1dde25bf3e2",
+      "title": "美国大峡谷国家公园山洪已致2人死亡",
+      "summary": "中新网9月1日电 据路透社报道，美国亚利桑那州大峡谷国家公园近日遭遇暴雨引发的山洪，目前已造成至少2人死亡，救援人员仍在搜寻可能失联人员。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687588.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-31T22:58:09.000Z"
+    },
+    {
+      "id": "dda812f175f5",
+      "title": "9月1日早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-01/10687587.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-31T22:54:33.000Z"
+    },
+    {
+      "id": "bb21a926760e",
+      "title": "美防长被爆考虑参加2028年总统竞选 特朗普最新回应",
+      "summary": "中新网9月1日电 据美国《国会山报》报道，当地时间8月31日，美国总统特朗普在椭圆形办公室表示，现在讨论国防部长赫格塞思参加2028年总统竞选的可能性还为时过早。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687586.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-31T22:45:46.000Z"
+    },
+    {
+      "id": "697f1c55443c",
+      "title": "AI时代 家校协同如何赋能大学生成长",
+      "summary": "【观察】",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-01/10687585.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-08-31T22:42:24.000Z"
+    },
+    {
+      "id": "c65d255809dd",
+      "title": "美媒：美国陆军部长向特朗普递交辞呈",
+      "summary": "中新网9月1日电 据美国《华尔街日报》报道，美国陆军部长丹·德里斯科尔当地时间8月31日向美国总统特朗普提交辞呈。此前，德里斯科尔与美国国防部长赫格塞思之间的矛盾已持续数月。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687584.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-31T22:32:23.000Z"
+    },
+    {
+      "id": "5809e2b23d75",
+      "title": "法国总统马克龙访问瑞典 推进法瑞军事合作",
+      "summary": "中新社巴黎8月31日电 法国总统马克龙当地时间8月31日对瑞典进行访问，推进法国与瑞典的军事合作。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687582.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-31T22:29:39.000Z"
+    },
+    {
+      "id": "95d442b6f987",
+      "title": "中国男篮险胜黎巴嫩队 世预赛第二阶段收获两连胜",
+      "summary": "中新社浙江诸暨8月31日电 在浙江诸暨举行的2027年国际篮联男篮世界杯亚洲区预选赛中，中国男篮8月31日以89:87战胜黎巴嫩队，在第二阶段比赛中收获两连胜。",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-01/10687581.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-31T22:27:43.000Z"
+    },
+    {
+      "id": "f84be287ae8a",
+      "title": "习近平在埃及媒体发表署名文章",
+      "summary": "新华社开罗9月1日电#8195;9月1日，在赴开罗对埃及进行国事访问之际，国家主席习近平在埃及《金字塔报》、《消息报》、《共和国报》发表题为《风雨同舟七十载，踔厉奋发新征程》的署名文章。文章全文如下：",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687580.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-08-31T21:30:26.000Z"
+    },
+    {
       "id": "96284ed64bfb",
       "title": "Turkish deep-sea search vessel joins efforts to retrieve 20 still missing after Cyprus ferry disaster",
       "summary": "TCG Isin expected to play vital role in locating Filo Jet’s voyage data recorder 514 metres below surface A deep-sea search and rescue vessel is on its way to Cyprus as Turkey jo…",
@@ -41,7 +131,7 @@
     },
     {
       "id": "8112078817eb",
-      "title": "Trump says datacenter opponents ‘want to end up being backwards and poor’",
+      "title": "Trump attacks datacenter backlash, claiming communities pushing back risk becoming ‘backwards and poor’",
       "summary": "Three-quarters of Americans said in a recent poll that they oppose datacenters being built next to their homes Donald Trump has criticized communities pushing back against datace…",
       "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-datacenter-comments",
       "source": "The Guardian Technology",
@@ -152,7 +242,7 @@
     {
       "id": "783444331105",
       "title": "Border area between Nepal and China where 33 Australians are missing still almost entirely cut off",
-      "summary": "Majority of missing Australians were near Gyirong Port minutes before impact. Rescuers say the area is now destroyed, covered in metres of silt and debris Get our breaking news e…",
+      "summary": "Majority of missing Australians were near Gyirong Port minutes before impact. Rescuers say the area is now destroyed, covered in metres of silt and debris Follow our Australia ne…",
       "url": "https://www.theguardian.com/world/2026/sep/01/nepal-china-border-area-gyirong-port-almost-entirely-cut-off-missing-australians-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -328,96 +418,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-08-31T14:32:25.000Z"
-    },
-    {
-      "id": "fdb0542da497",
-      "title": "成都商场藏“热带雨林”：400平方米爬宠博物馆成新宠",
-      "summary": "图为参观者在馆内参观。 中新社记者 安源 摄 图为参观者在馆内参观。 中新社记者 安源 摄 图为参观者在馆内参观。 中新社记者 安源 摄 图为参观者与爬行动物互动。 中新社记者 安源 摄 图为参观者拍摄爬行动物。 中新社记者 安源 摄 图为讲解员为参观者讲解爬行动物习性。 中新社记者 安源 摄 图为参观者在馆内参观。 中新社记者 安源 摄 图为小朋友在馆…",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-31/10687550.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-31T14:32:17.000Z"
-    },
-    {
-      "id": "df0ed7d11bb8",
-      "title": "新华图讯丨习近平会见蒙古国总统呼日勒苏赫",
-      "summary": "当地时间8月31日下午，国家主席习近平在比什凯克出席2026年上海合作组织峰会期间会见蒙古国总统呼日勒苏赫。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687556.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-31T14:30:17.000Z"
-    },
-    {
-      "id": "70105aa6a603",
-      "title": "北京怀柔建设65.4公里东西贯通长城文旅带 构筑全域融合发展主轴线",
-      "summary": "中新网北京8月31日电 “十五五”期间，北京怀柔将全力推进全长65.4公里的东西贯通长城文旅带建设，布局9个重点文旅项目。这将成为怀柔全域文旅升级的核心主脉，串联长城文化、生态山水、乡村资源、科创优势，实现“资源串珠成链、产业聚链成群、全域一体发展”，构建起怀柔文旅高质量发展新格局。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687552.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-31T14:29:31.000Z"
-    },
-    {
-      "id": "943757a53681",
-      "title": "十五五·同心聚力自贸港：“以科技创新赋能海南高质量发展”",
-      "summary": "中新网海口8月31日电 题：十五五·同心聚力自贸港：“以科技创新赋能海南高质量发展”",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687507.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-31T14:28:59.000Z"
-    },
-    {
-      "id": "5361db51b8bf",
-      "title": "新华图讯丨习近平会见乌兹别克斯坦总统米尔济约耶夫",
-      "summary": "当地时间8月31日下午，国家主席习近平在比什凯克出席2026年上海合作组织峰会期间会见乌兹别克斯坦总统米尔济约耶夫。",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687554.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-31T14:28:55.000Z"
-    },
-    {
-      "id": "d31f21288821",
-      "title": "湖北黄龙观村：从“废弃矿山”到“旅游景区”的生态修复之路",
-      "summary": "中新网湖北襄阳8月31日电 (记者 阮煜琳)云上餐厅、云上足球场、高山运动场、国家级4A景区......湖北省襄阳市保康县马桥镇黄龙观村，面对长达十年粗放式开采留下的满目疮痍的废弃矿沟，开启了一场历时十余年的生态修复和乡村重塑之路。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687549.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-31T14:27:21.000Z"
-    },
-    {
-      "id": "b302eedc8aa5",
-      "title": "“友谊之桥”培训项目助力柬埔寨新能源汽车技术人才培养",
-      "summary": "中新网金边8月31日电 (杨强 黄远飞)“友谊之桥·八桂志愿行——五菱新能源汽车技术培训(柬埔寨第一期)”31日在柬埔寨国立理工学院开班。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687548.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-31T14:26:59.000Z"
-    },
-    {
-      "id": "b013b5b6a778",
-      "title": "甘肃肃北边境消防队的“戍边感言”",
-      "summary": "中新网兰州8月31日电 (记者 冯志军 高莹)“从小都在四季绿意缠绕的南方生活，忽然看到绿色的树叶会变黄，直到鲜见绿意，与满目枯黄的戈壁滩常年为伴……”这是甘肃酒泉市肃北蒙古族自治县马鬃山镇消防站指导员陈琪桂，十余年前从重庆一路北上，在兰州中转停留后，最终“扎根”马鬃山的“戍边感言”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687522.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-31T14:25:03.000Z"
-    },
-    {
-      "id": "8e0beffc15d3",
-      "title": "十年雪域光明路：从\"送手术\"到\"送标准\"",
-      "summary": "中新网上海8月31日电 (李秋莹)2017年，第一支光正新视界眼科公益医疗队踏上青藏高原，在西藏日喀则“点亮”17台公益白内障手术的“烛光”。今年8月，2026“雪域情·光明行”援藏公益行动在日喀则萨迦县圆满完成。从2017年首次进藏，到2026年再次奔赴，这支来自上海的医疗队足迹已遍及西藏拉萨、昌都、日喀则及青海果洛等地。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687524.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-08-31T14:23:45.000Z"
     },
     {
       "id": "a46c96a713c6",
@@ -658,16 +658,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-08-31T07:11:07.000Z"
-    },
-    {
-      "id": "4bfe44adf255",
-      "title": "Australians missing in Nepal targeted by ‘heartbreaking’ and ‘abhorrent’ racist slurs",
-      "summary": "As families await news after the catastrophe, community members appeal for compassion in the face of hateful rhetoric Follow our Australia news live blog for latest updates Get o…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/31/australians-missing-in-nepal-targeted-by-heartbreaking-and-abhorrent-racist-slurs",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-31T06:32:15.000Z"
     },
     {
       "id": "55aa8157a70f",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-25T05:42:26.000Z"
+    },
+    {
+      "id": "b00c437b3197",
+      "title": "Fairphone 6+ review: the most repairable, ethical phone gets faster",
+      "summary": "Dutch sustainable smartphone revamped with new chip and more RAM without sacrificing modular design Fairphone’s top Android for 2026 is a little faster with more memory while mai…",
+      "url": "https://www.theguardian.com/technology/2026/aug/24/fairphone-6-review-the-most-repairable-ethical-phone-gets-faster",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-24T06:00:53.000Z"
     }
   ]
 }
