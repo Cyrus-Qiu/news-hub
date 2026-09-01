@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T17:25:22.774Z",
+  "updatedAt": "2026-09-01T20:07:25.235Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -24,11 +24,111 @@
     },
     {
       "name": "The Guardian Business",
-      "count": 20
+      "count": 19
     }
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "fa0d3213626d",
+      "title": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel",
+      "summary": "Foreign secretary tells MPs he will try to stop illegal settlements carving up the West Bank Ed Miliband has promised to “reset” Britain’s policy on Israel, saying he will try to…",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-01T18:37:38.000Z"
+    },
+    {
+      "id": "208eb8a44b45",
+      "title": "216国道抢通作业推进至吉隆口岸泥石流灾害核心区",
+      "summary": "应急管理部调派中国安能专业救援力量，在西藏日喀则市吉隆县G216国道水毁路段持续攻坚，目前，G216国道抢通作业推进至吉隆口岸泥石流灾害核心区，救援人员可以通过陆路进入核心区进行搜救。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688357.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-01T18:12:44.000Z"
+    },
+    {
+      "id": "c0491feb764e",
+      "title": "曼谷汉字艺术节助推中泰文化交流",
+      "summary": "中新社曼谷9月1日电 (记者 李映民)第二届曼谷汉字艺术节9月1日在泰国朱拉隆功大学开幕。来自中泰两国政府部门、文化艺术界、教育界、工商界及社会团体的嘉宾，与艺术家、专家学者、师生代表齐聚一堂，以汉字为媒、以艺术为桥，共同开启一场跨越山海的文明对话。",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10688356.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-01T18:11:36.000Z"
+    },
+    {
+      "id": "81b2a81ece01",
+      "title": "US launches new airstrikes on Iranian targets as hostilities flare",
+      "summary": "Move from Washington quashes hopes that exchange of fire last weekend might not presage ⁠wider renewal of hostilities Middle East crisis live – latest updates The US launched new…",
+      "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-01T18:03:05.000Z"
+    },
+    {
+      "id": "4715ccb6c821",
+      "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
+      "summary": "Russia believed to be behind hybrid activities in Germany and Europe, minister says Over in Brussels, the European Commission is just starting its first midday briefing of the au…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-01T18:02:18.000Z"
+    },
+    {
+      "id": "56c935083416",
+      "title": "Germany blames Russia for drone attack at Leipzig airport",
+      "summary": "Government says ‘dangerous behaviour’ is part of effort by Moscow to cause damage with hybrid attacks The German government has blamed Russia for the drone attack on Leipzig airp…",
+      "url": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-01T18:01:07.000Z"
+    },
+    {
+      "id": "cce2f41722df",
+      "title": "习近平抵达开罗对埃及进行国事访问",
+      "summary": "中新社开罗9月1日电 (记者 郭金超 谢雁冰)当地时间9月1日晚，中国国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688355.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-01T17:44:14.000Z"
+    },
+    {
+      "id": "07430fdbc792",
+      "title": "习近平抵达埃及开罗国际机场发表书面讲话",
+      "summary": "新华社开罗9月1日电",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688354.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-01T17:27:03.000Z"
+    },
+    {
+      "id": "f0b52a8e896d",
+      "title": "Russia targets Ukraine’s rail network as war enters deadly new phase",
+      "summary": "Six employees killed on Tuesday after Moscow escalates attacks on infrastructure and Ukrainian capital Russia has opened a deadly new phase in its war against Ukraine by delibera…",
+      "url": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-01T17:23:15.000Z"
+    },
+    {
+      "id": "bac2f8c27673",
+      "title": "“我将无我、不负人民”的世界回响",
+      "summary": "当地时间8月31日上午，吉尔吉斯斯坦总统扎帕罗夫同中国国家主席习近平在比什凯克和谐宫举行会谈。新华社记者 谢环驰 摄 【学习进行时】当地时间8月31日上午，吉尔吉斯斯坦总统扎帕罗夫在同习近平主席会谈时表示，吉方钦佩在习近平主席领导下中国取得的辉煌发展成就，愿学习中国治国理政经验，特别是习近平主席“我将无我、不负人民”的情怀。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688353.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-01T17:22:53.000Z"
+    },
     {
       "id": "8e7f89822f5a",
       "title": "“赛考斯”挥别中国",
@@ -48,26 +148,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-01T17:17:48.000Z"
-    },
-    {
-      "id": "0e5b9f73a837",
-      "title": "习近平抵达开罗对埃及进行国事访问",
-      "summary": "新华社开罗9月1日电(记者陈梦阳#8195;邵艺博)当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688350.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T17:11:38.000Z"
-    },
-    {
-      "id": "4715ccb6c821",
-      "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
-      "summary": "Russia believed to be behind hybrid activities in Germany and Europe, minister says Over in Brussels, the European Commission is just starting its first midday briefing of the au…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-01T17:06:59.000Z"
     },
     {
       "id": "1067dec80e06",
@@ -271,8 +351,8 @@
     },
     {
       "id": "380b6ae0aec5",
-      "title": "House prices head for historic 10% drop as fourth interest rate hike looms",
-      "summary": "Cotality data reveals property prices are now falling in more than 90% of Australian suburbs, while analysts expect market downturn to continue Get our breaking news email , free…",
+      "title": "Fourth interest rate hike looms even as analysts predict house prices could fall 10%",
+      "summary": "Cotality data reveals property prices are now falling in more than 90% of Australian suburbs, while economists expect market downturn to continue Get our breaking news email , fr…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/02/property-house-prices-drop-sydney-melbourne-brisbane-perth-adelaide-interest-rates",
       "source": "The Guardian World",
       "category": "财经",
@@ -360,16 +440,6 @@
       "publishedAt": "2026-09-01T14:40:48.000Z"
     },
     {
-      "id": "1fc06055da5e",
-      "title": "面对面心贴心 浙江市场监管部门倾听多元主体发展诉求",
-      "summary": "中新网杭州9月1日电(蓝伊旎)9月1日，浙江省市场监督管理局在杭州召开“浙里暖企·驱动创新”企业座谈会，市场监管部门代表与16位企业家围坐一堂，面对面听取企业意见建议，致力于通过“整体市监”的技术包、工具箱，助其解决发展难题。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688322.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T14:40:34.000Z"
-    },
-    {
       "id": "5588be8bc644",
       "title": "Norway’s new king swears oath of allegiance with daughter at his side",
       "summary": "Haakon VIII promises to uphold 1814 constitution but his queen misses ceremony because of post-surgery ‘complications’ King Haakon VIII swore an oath of allegiance before Norway’…",
@@ -380,26 +450,6 @@
       "publishedAt": "2026-09-01T14:40:34.000Z"
     },
     {
-      "id": "05a485a90a68",
-      "title": "听企声解民忧 浙江启动2026年市场监管服务月活动",
-      "summary": "中新网杭州9月1日电(蓝伊旎)9月1日，浙江省市场监督管理局在杭州正式启动2026年全省市场监管系统“助企惠民 有感有得”服务月活动，推出“十个一”集中服务举措，致力于帮助企业与民众解决难题。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688323.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T14:40:14.000Z"
-    },
-    {
-      "id": "66022b3d01cd",
-      "title": "暑运期间广深港高铁跨境客流近720万人次",
-      "summary": "中新网深圳9月1日电 (索有为 岳千琳)据深圳铁路部门1日发布的统计数据，2026年暑运期间，广深港高铁累计发送旅客1790.5万人次，其中跨境客流718.8万人次，同比增幅3.9%。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-01/10688320.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T14:40:02.000Z"
-    },
-    {
       "id": "23444ab7358d",
       "title": "Dyson launches £420 toothbrush that films ‘live cleaning footage’ inside your mouth",
       "summary": "James Dyson says ‘complete dental system’ will also include toothpaste and mouth rinse that each cost £8.50 It is the live stream you never wanted to see but may find impossible…",
@@ -408,36 +458,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-01T14:39:38.000Z"
-    },
-    {
-      "id": "c202e6635e14",
-      "title": "中央社会主义学院2026年秋季学期开学典礼在北京举行",
-      "summary": "中新网北京9月1日电 (记者 张晓曦)中央社会主义学院2026年秋季学期开学典礼1日在北京举行。全国人大常委会副委员长、中央社院院长武维华，中共中央统战部分管日常工作的副部长沈莹出席并讲话。农工党中央副主席王路代表各民主党派中央、全国工商联和无党派人士致辞。中央社院党组书记、第一副院长黄守宏主持。",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-01/10688318.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T14:39:18.000Z"
-    },
-    {
-      "id": "68d9c31d6dc9",
-      "title": "APEC嘉宾参访广州 中国人工智能产品受青睐",
-      "summary": "中新社广州9月1日电 (记者 张璐)“中国的人工智能产品令人印象深刻。”智利经济、发展和旅游部技术合作服务局总经理亨利·帕特里西奥·阿苏门迪·托莱多(Henry Patricio Azurmendi Toledo)9月1日接受中新社采访时说。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688315.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T14:38:26.000Z"
-    },
-    {
-      "id": "17756bae2730",
-      "title": "Global bond rout deepens as oil prices jump; wheat prices highest since early 2023 – as it happened",
-      "summary": "European stock markets fall and Brent crude jumps above $92 a barrel amid renewed fighting in Middle East The FTSE 100 index is down just over 1%, driven by sharp falls in mining…",
-      "url": "https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-01T14:18:27.000Z"
     },
     {
       "id": "27461ab2d524",
@@ -600,16 +620,6 @@
       "publishedAt": "2026-09-01T04:44:45.000Z"
     },
     {
-      "id": "b15013343623",
-      "title": "Madrid residents brace for noise and disruption from new F1 circuit",
-      "summary": "City council emphasises economic case for Madring amid local outrage over disruption and environmental impact Opponents of Madrid’s newly constructed Formula One circuit have acc…",
-      "url": "https://www.theguardian.com/world/2026/sep/01/madrid-f1-circuit-noise-levels-madring",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-01T04:00:46.000Z"
-    },
-    {
       "id": "447bb821ac01",
       "title": "‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?",
       "summary": "We are used to the idea that our fellow humans might intentionally mislead or manipulate us, but the idea that machines can now do the same is deeply unsettling. Researchers are…",
@@ -618,16 +628,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-09-01T04:00:44.000Z"
-    },
-    {
-      "id": "c9ada295d15b",
-      "title": "Iceland’s close ties with EU mean no vote is not a Brexit-style rejection",
-      "summary": "A yes to membership would have given Brussels a boost but Icelanders have not voted to isolate themselves Iceland’s 52.8% to 47.2% vote against reopening EU accession talks is, u…",
-      "url": "https://www.theguardian.com/world/2026/sep/01/iceland-ties-eu-no-vote-not-brexit-style-rejection",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-01T04:00:43.000Z"
     },
     {
       "id": "5efba991498c",
@@ -840,16 +840,6 @@
       "publishedAt": "2026-08-31T09:41:10.000Z"
     },
     {
-      "id": "01273f5eeed2",
-      "title": "First US military attacks on Iran in a month prompt retaliation",
-      "summary": "US attacks Iranian rocket launchers on island in strait of Hormuz and Tehran targets US bases in Jordan and UAE The US has reverted to military attacks on Iran for the first time…",
-      "url": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-31T09:37:19.000Z"
-    },
-    {
       "id": "f723818ee265",
       "title": "韓國統一教領袖韓鶴子涉貪罪成，判囚兩年",
       "summary": "法院表示，韓鶴子曾向前總統尹錫悅的妻子金建希，送贈兩個Chanel手袋及一條鑽石項鏈，總值8,000萬韓圜（57,900美元；42,500英鎊）。",
@@ -874,7 +864,7 @@
       "title": "AI could cause global economic downturn, Bank of England governor tells G20",
       "summary": "Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system The Bank of England’s governor, Andrew Bailey, has joined the throng…",
       "url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
-      "source": "The Guardian Technology",
+      "source": "The Guardian Business",
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-31T09:00:47.000Z"
@@ -998,16 +988,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-08-30T05:58:22.000Z"
-    },
-    {
-      "id": "80ad369697ca",
-      "title": "Palestinian woman and NBC News team reportedly attacked in West Bank",
-      "summary": "Matt Bradley and crew assaulted while interviewing woman who said settlers had driven family out of home A Palestinian woman and an NBC News team are reported to have been attack…",
-      "url": "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-29T21:55:08.000Z"
     },
     {
       "id": "1673e858978b",
@@ -1228,6 +1208,26 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-26T06:44:23.000Z"
+    },
+    {
+      "id": "6df055c1da95",
+      "title": "Meta goes on trial as Silicon Valley faces a growing backlash",
+      "summary": "Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US te…",
+      "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-25T11:21:56.000Z"
+    },
+    {
+      "id": "b00c437b3197",
+      "title": "Fairphone 6+ review: the most repairable, ethical phone gets faster",
+      "summary": "Dutch sustainable smartphone revamped with new chip and more RAM without sacrificing modular design Fairphone’s top Android for 2026 is a little faster with more memory while mai…",
+      "url": "https://www.theguardian.com/technology/2026/aug/24/fairphone-6-review-the-most-repairable-ethical-phone-gets-faster",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-08-24T06:00:53.000Z"
     }
   ]
 }
