@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T20:07:25.235Z",
+  "updatedAt": "2026-09-01T22:47:10.913Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,96 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "ebd66b13c188",
+      "title": "美军再袭伊朗 伊朗称击落一架美军MQ-9无人机",
+      "summary": "中新网9月2日电 据土耳其阿纳多卢通讯社援引伊朗媒体消息报道，当地时间9月1日，一架美国MQ-9型无人机在伊朗中部城市霍梅因上空被击落。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688362.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-01T22:39:20.000Z"
+    },
+    {
+      "id": "3c06a35b069c",
+      "title": "News live: Five Australians confirmed safe after Nepal-Tibet flooding; Spender backs Contos’s call for opt-in algorithms",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Canavan says young boys turning to social media after getting ‘sick and tired of the femin…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-01T22:34:36.000Z"
+    },
+    {
+      "id": "fc3d247dade0",
+      "title": "扎哈罗娃：在日部署“堤丰”导弹系统“不可接受”",
+      "summary": "俄罗斯外交部发言人扎哈罗娃1日表示，在日本领土上部署美国“堤丰”导弹系统对于俄罗斯来说“绝对不可接受”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688361.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-01T22:32:14.000Z"
+    },
+    {
+      "id": "2e892a724a14",
+      "title": "三天内第二轮袭击 特朗普威胁伊朗终极打击蓄势待发 伊方誓言报复",
+      "summary": "美东时间1日，美军对伊朗境内的伊朗伊斯兰革命卫队目标发动新一轮打击，伊朗南部沿海多地遭袭。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688360.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-01T22:28:56.000Z"
+    },
+    {
+      "id": "241b1af6e031",
+      "title": "美众议院通过临时拨款法案 以避免政府“停摆”",
+      "summary": "央视记者获悉，当地时间9月1日，美国国会众议院通过一项联邦政府临时拨款法案，以避免10月1日发生政府“停摆”，并将法案送交美国总统特朗普签署。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688359.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-01T22:17:35.000Z"
+    },
+    {
+      "id": "3d0df4ecb03e",
+      "title": "手机号能否继承？绑定内容能否擅自处置？姐弟诉到法院→",
+      "summary": "现在，手机号码与微信、支付宝、银行卡及各类线上账户紧密绑定，承载着显著的财产权益与数据价值。机主去世后，其手机号码能否作为遗产被继承？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688358.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-01T22:10:49.000Z"
+    },
+    {
+      "id": "5c21ff5df194",
+      "title": "Dozens arrested after fatal pre-dawn shootout in Dutch village",
+      "summary": "Police urged people in Overasselt to stay indoors after one person died and 34 were arrested Authorities have arrested 34 people, including French, Belgian and Algerian nationals…",
+      "url": "https://www.theguardian.com/world/2026/sep/01/dozens-arrested-after-fatal-pre-dawn-shootout-in-dutch-village",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-01T22:00:09.000Z"
+    },
+    {
+      "id": "81b2a81ece01",
+      "title": "US launches new airstrikes on Iranian targets as hostilities flare",
+      "summary": "Move from Washington quashes hopes that exchange of fire last weekend might not presage ⁠wider renewal of hostilities The US launched new airstrikes on Iranian targets on Tuesday…",
+      "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-01T21:49:45.000Z"
+    },
+    {
+      "id": "0db692ff9ba8",
+      "title": "Relief as Australians missing in Nepal-Tibet flood disaster found alive",
+      "summary": "Five missing Australians have been found since Tuesday morning, bringing the total citizens unaccounted for to 38 Australians missing in the Nepal floods: what we know so far A t…",
+      "url": "https://www.theguardian.com/world/2026/sep/01/missing-australian-found-alive-nepal-tibet-floods",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-01T21:40:58.000Z"
+    },
+    {
       "id": "fa0d3213626d",
       "title": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel",
       "summary": "Foreign secretary tells MPs he will try to stop illegal settlements carving up the West Bank Ed Miliband has promised to “reset” Britain’s policy on Israel, saying he will try to…",
@@ -58,16 +148,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-01T18:11:36.000Z"
-    },
-    {
-      "id": "81b2a81ece01",
-      "title": "US launches new airstrikes on Iranian targets as hostilities flare",
-      "summary": "Move from Washington quashes hopes that exchange of fire last weekend might not presage ⁠wider renewal of hostilities Middle East crisis live – latest updates The US launched new…",
-      "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-01T18:03:05.000Z"
     },
     {
       "id": "4715ccb6c821",
@@ -172,7 +252,7 @@
     {
       "id": "6b85b61044e4",
       "title": "Sydney’s beaches enter the drone age to get swimmers back in the water after spate of shark attacks",
-      "summary": "Seventy beaches across New South Wales are part of the $34m dawn-to-dusk drone monitoring program, which one expert has called ‘the best technology we have at the moment’ Get our…",
+      "summary": "Seventy beaches across New South Wales are part of the $34m dawn-to-dusk drone-monitoring program, which one expert has called ‘the best technology we have at the moment’ Follow…",
       "url": "https://www.theguardian.com/environment/2026/sep/02/sydneys-beaches-enter-the-drone-age-to-get-swimmers-back-in-the-water-after-spate-of-shark-attacks",
       "source": "The Guardian World",
       "category": "科技",
@@ -332,7 +412,7 @@
     {
       "id": "57103cb8dd55",
       "title": "NSW government to resume pill testing at music festivals but rejects calls for wider community rollout",
-      "summary": "Use of sniffer dogs and searches will continue despite health and harm reduction groups arguing they could lead to riskier drug taking Get our breaking news email , free app or d…",
+      "summary": "Use of sniffer dogs and searches will continue despite health and harm reduction groups arguing they could lead to riskier drug taking Follow our Australia news live blog for lat…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/02/nsw-government-to-resume-pill-testing-at-music-festivals-but-rejects-calls-for-wider-community-rollout",
       "source": "The Guardian World",
       "category": "国际",
@@ -340,19 +420,9 @@
       "publishedAt": "2026-09-01T15:00:03.000Z"
     },
     {
-      "id": "b569345bf2a5",
-      "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
-      "summary": "University’s move is part of trend that critics within academia say will lead to further staff cuts and the loss of ‘everything that makes the job worth doing’ An Australian univ…",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
-      "source": "The Guardian World",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-01T15:00:02.000Z"
-    },
-    {
       "id": "380b6ae0aec5",
-      "title": "Fourth interest rate hike looms even as analysts predict house prices could fall 10%",
-      "summary": "Cotality data reveals property prices are now falling in more than 90% of Australian suburbs, while economists expect market downturn to continue Get our breaking news email , fr…",
+      "title": "House prices could fall 10%, analysts predict, as fourth interest rate hike looms",
+      "summary": "Cotality data reveals property prices are now falling in more than 90% of Australian suburbs, while economists expect market downturn to continue Follow our Australia news live b…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/02/property-house-prices-drop-sydney-melbourne-brisbane-perth-adelaide-interest-rates",
       "source": "The Guardian World",
       "category": "财经",
@@ -360,14 +430,14 @@
       "publishedAt": "2026-09-01T15:00:02.000Z"
     },
     {
-      "id": "5257768346f9",
-      "title": "Inside knowledge or ‘making stuff up’? Charles Perrottet’s advice to Jean Nassif put under microscope by Icac",
-      "summary": "Brother of former treasurer and premier faces questions about texts that appear to indicate he was aware of fast-tracking policy before it was announced Get our breaking news ema…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/02/charles-perrottet-advice-jean-nassif-icac-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
+      "id": "b569345bf2a5",
+      "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
+      "summary": "University’s move is part of trend that critics within academia say will lead to further staff cuts and the loss of ‘everything that makes the job worth doing’ Follow our Austral…",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
+      "source": "The Guardian Technology",
+      "category": "AI",
       "language": "en",
-      "publishedAt": "2026-09-01T15:00:01.000Z"
+      "publishedAt": "2026-09-01T15:00:02.000Z"
     },
     {
       "id": "343552cd31e1",
@@ -388,66 +458,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-01T14:54:27.000Z"
-    },
-    {
-      "id": "c8e1ac966b19",
-      "title": "救援背后的“生命线”",
-      "summary": "“大家身体有不舒服的，再让医生检查一下。”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688333.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T14:51:03.000Z"
-    },
-    {
-      "id": "03a3be22c12e",
-      "title": "全域立体组网 吉隆口岸救援通信实现核心区域全覆盖",
-      "summary": "8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。抢险救援救灾各项工作仍在紧张有序推进。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688330.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T14:45:01.000Z"
-    },
-    {
-      "id": "97017a5b6080",
-      "title": "第三个InnoHK创新香港研发平台启动 聚焦可持续发展等领域",
-      "summary": "中新社香港9月1日电 香港特区政府创新科技署1日举行第三个InnoHK创新香港研发平台——“SEAM@InnoHK”启动礼。该平台聚焦可持续发展、能源、先进制造及材料4个前沿科技领域。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-01/10688326.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T14:41:56.000Z"
-    },
-    {
-      "id": "c9168f8f831f",
-      "title": "中国科技馆推出脑科学主题展 全景呈现脑研究、脑健康和类脑技术",
-      "summary": "中新网北京9月1日电 (记者 孙自法)值此2026年全国科普月全面启动之际，中国科技馆9月1日向媒体通报说，作为全国科普月主场活动重要展览之一，该馆自主策划的脑科学主题展览“沟壑的交响”9月2日起正式开放，预计免费面向公众开放展出到2026年12月中旬。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688325.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T14:41:10.000Z"
-    },
-    {
-      "id": "8170e44412a1",
-      "title": "2026年全国石油石化行业液化天然气储运工职业技能竞赛天津开赛",
-      "summary": "中新网天津9月1日电 (记者 周亚强)9月1日，2026年全国石油石化行业液化天然气储运工职业技能竞赛在国家管网集团天津LNG接收站拉开帷幕，来自国内10家单位的105名一线骨干选手同台竞技。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688324.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-01T14:40:48.000Z"
-    },
-    {
-      "id": "5588be8bc644",
-      "title": "Norway’s new king swears oath of allegiance with daughter at his side",
-      "summary": "Haakon VIII promises to uphold 1814 constitution but his queen misses ceremony because of post-surgery ‘complications’ King Haakon VIII swore an oath of allegiance before Norway’…",
-      "url": "https://www.theguardian.com/world/2026/sep/01/norways-new-king-haakon-viii-swears-oath-of-allegiance-with-daughter-at-his-side",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-01T14:40:34.000Z"
     },
     {
       "id": "23444ab7358d",
@@ -1218,16 +1228,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-25T11:21:56.000Z"
-    },
-    {
-      "id": "b00c437b3197",
-      "title": "Fairphone 6+ review: the most repairable, ethical phone gets faster",
-      "summary": "Dutch sustainable smartphone revamped with new chip and more RAM without sacrificing modular design Fairphone’s top Android for 2026 is a little faster with more memory while mai…",
-      "url": "https://www.theguardian.com/technology/2026/aug/24/fairphone-6-review-the-most-repairable-ethical-phone-gets-faster",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-08-24T06:00:53.000Z"
     }
   ]
 }
