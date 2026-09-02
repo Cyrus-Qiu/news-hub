@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T15:15:29.032Z",
+  "updatedAt": "2026-09-02T18:55:29.700Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,184 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "d59fc352267a",
+      "title": "新华图讯｜习近平圆满结束对埃及的国事访问",
+      "summary": "当地时间9月2日晚，国家主席习近平结束对埃及的国事访问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689161.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T18:33:38.000Z"
+    },
+    {
+      "id": "ccf481215dbe",
+      "title": "新华图讯｜习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
+      "summary": "当地时间9月2日下午，国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689162.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T18:30:56.000Z"
+    },
+    {
+      "id": "fd7fdb28a09f",
+      "title": "Israel ‘seeking Trump’s support for plan to expel Palestinians from Gaza’",
+      "summary": "Defence minister says he believes US backing could tip regional balance in favour of forced resettlement Israel’s defence minister has said his country is seeking Donald Trump’s…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/israel-seeking-trumps-support-for-plan-to-expel-palestinians-from-gaza",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-02T18:20:36.000Z"
+    },
+    {
+      "id": "40969b936a67",
+      "title": "习近平圆满结束对埃及的国事访问",
+      "summary": "新华社开罗9月2日电(记者辛俭强 阚静文)当地时间9月2日晚，国家主席习近平结束对埃及的国事访问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689160.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T18:19:13.000Z"
+    },
+    {
+      "id": "45932047d971",
+      "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
+      "summary": "新华社开罗9月2日电(记者邓玉山#8195;韩梁)当地时间9月2日下午，国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689159.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T18:18:23.000Z"
+    },
+    {
+      "id": "5c03405ea73e",
+      "title": "Maltese tycoon found not guilty of involvement in Daphne Caruana Galizia murder",
+      "summary": "Yorgen Fenech cleared on both charges he faced over 2017 killing of journalist that prompted global outrage One of Malta’s richest men has been found not guilty of involvement in…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/maltese-tycoon-yorgen-fenech-daphne-caruana-galizia-killing-not-guilty",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-02T17:49:56.000Z"
+    },
+    {
+      "id": "4aa27d21b123",
+      "title": "Leipzig airport attack fallout exposes Germany’s deepening divide over Russia",
+      "summary": "The government’s tougher stance towards the Kremlin is drawing attacks from both the far right and far left Even before the German government laid the blame this week on Russia f…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/leipzig-airport-attack-fallout-lays-bare-germanys-polarisation-on-russia",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-02T17:07:21.000Z"
+    },
+    {
+      "id": "774cd9daef5a",
+      "title": "四渡赤水用兵如神 实现红军从被动到主动的战略转变",
+      "summary": "开学第一课丨四渡赤水用兵如神 实现红军从被动到主动的战略转变",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689158.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T16:18:51.000Z"
+    },
+    {
+      "id": "ab5d8f85fe07",
+      "title": "韩国釜山近海一拖船倾覆 致1人死亡6人失踪",
+      "summary": "中新社首尔9月3日电 (记者 金旭)当地时间2日，韩国釜山近海发生一起拖船倾覆事故，造成1人死亡、6人失踪。韩国总统李在明要求调动一切可用资源，全力开展人员救援，并做好善后处置工作。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689157.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T16:16:37.000Z"
+    },
+    {
+      "id": "c1edafc8a4e8",
+      "title": "Rupert Murdoch ‘very happy’ that Guy Pearce plays him in Fleet Street biopic Ink",
+      "summary": "Actor says the press baron’s daughter Elisabeth told him her father was pleased, ‘but he hadn’t seen the film at that point’ Rupert Murdoch is “very happy” that he’s being portra…",
+      "url": "https://www.theguardian.com/film/2026/sep/02/rupert-murdoch-very-happy-that-guy-pearce-plays-him-in-fleet-street-biopic-ink",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-02T16:07:56.000Z"
+    },
+    {
+      "id": "0563db14f264",
+      "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
+      "summary": "Ukraine president says aviation industry needs to take account of growing number of Ukrainian drones in Russia Volodymyr Zelenskyy has declared that Russia’s airspace is becoming…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-02T15:52:05.000Z"
+    },
+    {
       "id": "90a76b863ea4",
-      "title": "Russian ‘attempts to intimidate Europe will fail’, says EU’s Kallas as Germany blames Moscow for Leipzig drone incident – Europe live",
+      "title": "Russian ‘attempts to intimidate Europe will fail’, says EU’s Kallas as Germany blames Moscow for Leipzig drone incident – as it happened",
       "summary": "EU’s policy chief says drone incident at German airport ‘had the hallmarks of state-sponsored terrorism’ German police have opened a investigation into yesterday’s attempt to dis…",
       "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-09-02T15:04:54.000Z"
+      "publishedAt": "2026-09-02T15:46:30.000Z"
+    },
+    {
+      "id": "3dc9a124c918",
+      "title": "直击西藏吉隆口岸泥石流受灾核心区 各方救援人员开展搜救工作",
+      "summary": "9月2日17时许，记者抵达西藏吉隆口岸受灾核心区域。国旗飘扬在吉隆口岸联检大楼原址，各方救援人员开展搜救工作。当日上午10时，西藏吉隆泥石流灾害救援通道陆路通道已基本打通，救援人员、救援物资和部分装备已通过陆路通道进入核心区并开展深入救援工作。(李林 贡嘎来松 江飞波 制作 侯诗蕊)",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-02/news1067549.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T15:40:04.000Z"
+    },
+    {
+      "id": "f07808dc4bf3",
+      "title": "中国羽毛球大师赛：世锦赛混双冠军爆冷出局",
+      "summary": "中新社深圳9月2日电 (记者 张璐 索有为)在深圳举行的2026李宁·中国羽毛球大师赛9月2日进入第二个比赛日，2026年世界羽毛球锦标赛混双冠军、法国组合吉凯尔/德尔吕以0:2不敌中国台北组合刘广珩/许尹鏸，爆冷出局。",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-02/10689155.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T15:39:35.000Z"
+    },
+    {
+      "id": "13da40bd6af3",
+      "title": "Uber drivers launch European class action over ‘soulless’ and ‘scary’ AI algorithm",
+      "summary": "Landmark lawsuit claims tech company’s pay-setting system has breached privacy laws and pushed down earnings Uber drivers have launched a landmark legal action against the ride-h…",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-02T15:37:26.000Z"
+    },
+    {
+      "id": "ac710a8418cb",
+      "title": "New York City to ban student AI use in public schools until high school",
+      "summary": "Teachers and parents have warned against AI use in schools over concerns of ‘cognitive surrender’ New York City will ban students’ use of artificial intelligence in public school…",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/new-york-city-school-ai-ban",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-02T15:22:20.000Z"
+    },
+    {
+      "id": "72b2f6beabc6",
+      "title": "Iran accuses US of ‘war crime’ after missile blast kills four people at wedding",
+      "summary": "Blast also injures 68 guests at the wedding in southern Iran, prompting fears of escalation in hostilities Middle East crisis live – latest updates Iran has accused the US of a w…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-02T15:19:04.000Z"
+    },
+    {
+      "id": "664c31c3fd6d",
+      "title": "“大”和“新”的中国市场为外企提供机会清单",
+      "summary": "“放眼世界，中国可能是唯一兼具‘大’和‘新’两个特点的富有潜力市场。”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689154.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T15:10:55.000Z"
     },
     {
       "id": "d40dd27b58fd",
@@ -60,16 +230,6 @@
       "publishedAt": "2026-09-02T15:00:27.000Z"
     },
     {
-      "id": "990bfae3c63a",
-      "title": "BP seeks to end years of boardroom turmoil with appointment of new chair",
-      "summary": "Ian Tyler, already in role on an interim basis, is tasked with shifting strategy to refocus on fossil fuel extraction BP has appointed a new chair after a months-long search trig…",
-      "url": "https://www.theguardian.com/business/2026/sep/02/bp-appoints-new-chair-after-ousting-of-albert-manifold-in-may",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T14:58:36.000Z"
-    },
-    {
       "id": "3d7ab5de46ad",
       "title": "习言道｜谈及中东局势，习近平提出四点倡议",
       "summary": "当地时间9月2日，埃及总统塞西同中国国家主席习近平在开罗太阳宫举行会谈。两国元首就中东局势深入沟通。习近平指出——",
@@ -80,19 +240,9 @@
       "publishedAt": "2026-09-02T14:56:16.000Z"
     },
     {
-      "id": "0563db14f264",
-      "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
-      "summary": "Ukraine president says aviation industry needs to take account of growing number of Ukrainian drones in Russia Europe live – latest updates Volodymyr Zelenskyy has declared that…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T14:54:19.000Z"
-    },
-    {
       "id": "1a37f741ef06",
       "title": "亚太民间社会会议在山东济南开幕",
-      "summary": "中新网济南9月2日电 (杨兵吕妍李明芮)亚太民间社会会议9月2日在山东济南开幕。中外嘉宾聚焦科技创新、民生建设、文明互鉴等议题，为深化亚太区域合作贡献智慧。",
+      "summary": "中新网济南9月2日电 (杨兵 吕妍 李明芮)亚太民间社会会议9月2日在山东济南开幕。中外嘉宾聚焦科技创新、民生建设、文明互鉴等议题，为深化亚太区域合作贡献智慧。",
       "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689152.shtml",
       "source": "中国新闻网",
       "category": "国内",
@@ -132,7 +282,7 @@
     {
       "id": "a1bff74a0a93",
       "title": "Tim Cook handed $47m package for new role as executive chair of Apple",
-      "summary": "Pay and shares deal nearly matches $58m award to John Ternus, his successor as CEO at the $4.7tn tech company Business live – latest updates Tim Cook has received a $47m (£35m) p…",
+      "summary": "Pay and shares deal nearly matches $58m award to John Ternus, his successor as CEO at the $4.7tn tech company Tim Cook has received a $47m (£35m) pay deal as Apple’s executive ch…",
       "url": "https://www.theguardian.com/technology/2026/sep/02/tim-cook-47m-package-chair-apple",
       "source": "The Guardian Technology",
       "category": "科技",
@@ -172,7 +322,7 @@
     {
       "id": "972c87a769f6",
       "title": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism",
-      "summary": "Energy secretary Chris Wright denies US seeks to ‘take’ country’s oil, saying deal is ‘transformation’ of relations The US energy secretary, Chris Wright, has denied Washington i…",
+      "summary": "Energy secretary Chris Wright denies US seeks to ‘take’ country’s oil, saying deal is transformation of relations The US energy secretary, Chris Wright, has denied Washington is…",
       "url": "https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright",
       "source": "The Guardian World",
       "category": "财经",
@@ -191,8 +341,8 @@
     },
     {
       "id": "9cbb7a007163",
-      "title": "Pete Hegseth criticized for body-shaming Canadian cadet program members",
-      "summary": "US defense secretary faced backlash for attempting to mock Canada’s armed forces amid trade war A social media post by Pete Hegseth, the US secretary of defense, body-shaming fem…",
+      "title": "Pete Hegseth criticized for body-shaming Canadian cadets: ‘Literally they’re kids’",
+      "summary": "US defense secretary faces backlash for attempting to mock Canada’s armed forces amid trade war A social media post by Pete Hegseth, the US secretary of defense, body-shaming fem…",
       "url": "https://www.theguardian.com/us-news/2026/sep/02/pete-hegseth-body-shaming-post",
       "source": "The Guardian World",
       "category": "财经",
@@ -300,16 +450,6 @@
       "publishedAt": "2026-09-02T14:36:51.000Z"
     },
     {
-      "id": "c5241f894501",
-      "title": "What’s really behind Trump’s deference to Putin?",
-      "summary": "Whether or not US president fits the definition of a Russian asset, his actions align closely with the Kremlin’s interests • Don’t get This Is Europe delivered to your inbox? Sig…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/whats-really-behind-trumps-deference-to-putin",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T14:30:26.000Z"
-    },
-    {
       "id": "c3171742b4bc",
       "title": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning",
       "summary": "Matt Clifford will stay as chair of government funding body for tech projects alongside his senior role at US firm The architect of the UK government’s AI strategy has joined the…",
@@ -330,16 +470,6 @@
       "publishedAt": "2026-09-02T14:27:46.000Z"
     },
     {
-      "id": "1012d31184f2",
-      "title": "Maggie Gyllenhaal says film industry has a ‘systemic problem’ with sexism",
-      "summary": "Speaking at the opening of the Venice film festival, the actor-director addressed why the jury of which she is chair will only be shown two films made by female film-makers Maggi…",
-      "url": "https://www.theguardian.com/film/2026/sep/02/maggie-gyllenhaal-says-film-industry-has-a-systemic-problem-with-sexism",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T14:26:32.000Z"
-    },
-    {
       "id": "431dcffc9b12",
       "title": "越山海｜当埃及金字塔遇上中国科技",
       "summary": "视频：越山海｜当埃及金字塔遇上中国科技来源：人民日报客户端",
@@ -348,96 +478,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-02T14:24:48.000Z"
-    },
-    {
-      "id": "1713d02ee778",
-      "title": "南海之滨的“上合回响” 海南自贸港拓宽互利共赢新空间",
-      "summary": "中新网海口9月2日电 (记者 张茜翼)五年前，乌兹别克斯坦青年阿力从海南热带海洋学院毕业；五年后，他以安集延州州长翻译的身份回到海南，在友好省州签约现场与恩师重逢。这段跨越时空的师生佳话，成为海南与上合组织国家合作“从交流到交心”的生动注脚。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689130.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:24:40.000Z"
-    },
-    {
-      "id": "6772cfe15360",
-      "title": "守护绿水青山 海南构建生态环境信用监管体系",
-      "summary": "中新网海口9月2日电 (张茜翼 王俞力)信用正在成为海南生态环境治理的“硬标尺”。2日海南省新闻办公室举行的发布会上，海南省生态环境厅副厅长、新闻发言人李小山透露，“十五五”期间，海南将以优化提升环境信用评价体系为核心，构建更加科学、精准、高效的生态环境信用监管体系，推动信用监管与生态环境治理深度融合。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689129.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:24:20.000Z"
-    },
-    {
-      "id": "3264a6018bcf",
-      "title": "AI场景数据安全引关注 天津探索数据安全治理与隐私保护新路径",
-      "summary": "中新网天津9月2日电 (江莹)2日下午，第四届网络空间安全(天津)论坛——AI应用场景下的移动数据安全与隐私保护主题论坛在天津滨海新区举办。论坛聚焦AI技术普及带来的移动数据安全新风险、新挑战，汇聚政企研多方力量，共探数据安全治理与个人隐私保护新路径。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689128.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:24:06.000Z"
-    },
-    {
-      "id": "5eb759eea3ca",
-      "title": "习近平主席为践行全球治理倡议凝心聚力",
-      "summary": "视频：习近平主席为践行全球治理倡议凝心聚力来源：新华社",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689131.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:22:52.000Z"
-    },
-    {
-      "id": "c92292d39c84",
-      "title": "聚焦生物医药合作 “韩你来蓉—2026成都韩国经贸投资交流会”举行",
-      "summary": "中新网成都9月2日电 (单鹏)由成都市人民政府外事办公室、成都市对外开放合作促进中心、韩国驻成都总领事馆、大韩贸易投资振兴公社成都代表处共同主办的“韩你来蓉—2026成都韩国经贸投资交流会”2日在成都举行。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689126.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:22:32.000Z"
-    },
-    {
-      "id": "76a061145a56",
-      "title": "五大议题45场报告 第八届中国边疆考古学术研讨会在呼伦贝尔举行",
-      "summary": "中新网内蒙古呼伦贝尔9月2日电 (记者 孙自法)第八届中国边疆考古学术研讨会9月2日在内蒙古自治区呼伦贝尔市举行。来自全国的考古学、历史学、民族学等专家学者代表相聚一堂，聚焦“考古学视野下的北部边疆”主题分享最新研究成果，展开深度交流与研讨。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689125.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:22:06.000Z"
-    },
-    {
-      "id": "b4dabe852d11",
-      "title": "开局起步“十五五”：海南儋洋一体化纵深推进 聚力扩开放",
-      "summary": "中新网海口9月2日电 (记者 王子谦)“十五五”是海南全面深化改革开放、实现高质量发展的关键五年。儋州市委副书记、市人民政府市长，洋浦经济开发区工委副书记、管委会主任陈阳2日表示，未来五年，儋州洋浦一体化改革将向纵深推进，聚力扩大高水平对外开放，打造海南自贸港制度型开放新高地。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689123.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:21:56.000Z"
-    },
-    {
-      "id": "e6c31b36c3a4",
-      "title": "福建全力以赴开展抢险救援",
-      "summary": "中新网福州9月2日电 (记者 龙敏)当前，福建省沿海和南部地区迎来新一轮持续性强降雨过程，局部累计雨量大，且降雨落区与前期双台风影响降雨落区重叠，致灾风险大。福建省应急管理厅强化应急救援力量统筹调度，全力以赴开展抢险救援。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689120.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:21:44.000Z"
-    },
-    {
-      "id": "ae42d223aa61",
-      "title": "台风“三顾”带火浙江玉环 滨海小城如何承接这波热度？",
-      "summary": "中新网台州9月2日电(周健 吕琼雅)8月底，台风“沙德尔”在浙江台州玉环市坎门街道登陆。这是今夏继台风“巴威”“白海豚”后，第三个登陆玉环的台风。短短50多天内，台风“三顾”玉环，让这座滨海小城在网络上意外“出圈”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689119.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:21:14.000Z"
     },
     {
       "id": "b5ed9f0397af",
@@ -492,7 +532,7 @@
     {
       "id": "2443dff9cd0d",
       "title": "UK government does not know what datacentres are being used for, FoI request shows",
-      "summary": "Lack of information raises fears over environmental impact of the AI boom UK politics live – latest updates The UK government does not know what the country’s datacentres are bei…",
+      "summary": "Lack of information raises fears over environmental impact of the AI boom The UK government does not know what the country’s datacentres are being used for despite fears over the…",
       "url": "https://www.theguardian.com/uk-news/2026/sep/02/uk-datacentres-ai-boom-foi-environment",
       "source": "The Guardian Technology",
       "category": "AI",
@@ -522,7 +562,7 @@
     {
       "id": "368d537788ce",
       "title": "Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’",
-      "summary": "As more companies turn to AI, they’re hiring freelancers to cleanup its mistakes rather than create original work Lisa, a freelance graphic designer based in Spain, noticed a shi…",
+      "summary": "As more companies turn to AI, they’re hiring freelancers to clean up its mistakes rather than create original work Lisa, a freelance graphic designer based in Spain, noticed a sh…",
       "url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
       "source": "The Guardian Technology",
       "category": "AI",
@@ -530,19 +570,9 @@
       "publishedAt": "2026-09-02T12:00:23.000Z"
     },
     {
-      "id": "72b2f6beabc6",
-      "title": "Iran accuses US of ‘war crime’ after missile blast kills four people at wedding",
-      "summary": "Blast also injures 68 guests at the wedding in southern Iran, prompting fears of escalation in hostilities Middle East crisis live – latest updates Iran has accused the US of a “…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T11:56:00.000Z"
-    },
-    {
       "id": "5b75908fcd59",
-      "title": "Teamsters union leaders support Republicans despite members endorsing Democratic candidates",
-      "summary": "Sean O’Brien, president of the 1.3-million strong union, was also the first to speak at the Republican national convention in 2o24 The powerful Teamsters union is backing Republi…",
+      "title": "Teamsters union leaders support Republicans despite members endorsing Democrats",
+      "summary": "Sean O’Brien, president of 1.3 million-strong union, was also first to speak at the Republican national convention in 2024 The powerful Teamsters union is backing Republican cand…",
       "url": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
       "source": "The Guardian Business",
       "category": "财经",
@@ -612,7 +642,7 @@
     {
       "id": "5f8e6568fd0c",
       "title": "Ryanair warns air fares in Europe will jump next year if oil price stays high",
-      "summary": "Budget carrier says airlines could go bust as it cuts passenger targets to reduce exposure to ‘unhedged winter oil’ Business live – latest updates Ryanair has warned that air far…",
+      "summary": "Budget carrier says airlines could go bust as it cuts passenger targets to reduce exposure to ‘unhedged winter oil’ Ryanair has warned that air fares in Europe will jump next yea…",
       "url": "https://www.theguardian.com/business/2026/sep/02/ryanair-warns-air-fares-europe-jump-next-year-oil-price-stays-high",
       "source": "The Guardian Business",
       "category": "财经",
@@ -658,16 +688,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-02T06:00:24.000Z"
-    },
-    {
-      "id": "6de9a59488a3",
-      "title": "‘We have had enough’: thousands of University of Sydney staff walk off the job over AI and job security",
-      "summary": "Hundreds of university staff were stationed at picket lines, calling for stronger protections around the use of AI Follow our Australia news live blog for latest updates Get our…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/02/we-have-had-enough-thousands-of-staff-at-the-university-of-sydney-walk-off-the-job-over-ai-job-security",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-02T05:50:36.000Z"
     },
     {
       "id": "8222e694768e",
@@ -960,16 +980,6 @@
       "publishedAt": "2026-08-31T19:41:52.000Z"
     },
     {
-      "id": "80de29b5d484",
-      "title": "Trump says US will ‘hit Iran hard’ as hostilities resume – as it happened",
-      "summary": "Iran responded to an assault on its Larak Island by targeting US bases in Jordan Trump threatens further action as US and Iran exchange fire in new flare-up Coinciding with this…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-31T17:17:13.000Z"
-    },
-    {
       "id": "2c8d862711b6",
       "title": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
       "summary": "Exclusive : Guardian analysis reveals that dozens of policy submissions from across the political spectrum incorrectly summarise real research and invent or wrongly cite sources…",
@@ -1218,16 +1228,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-08-28T08:51:11.000Z"
-    },
-    {
-      "id": "32e1bd4958c7",
-      "title": "女性罵髒話很低劣嗎？莫迪言論引燃「蟑螂人民黨」後續辯論",
-      "summary": "印度在野黨議員拉胡爾·甘地的言論再次引發有關性別差異的辯論，焦點在於人們對辱罵總理莫迪言論的反應是否因性別而有所不同。",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-28T02:49:24.000Z"
     }
   ]
 }

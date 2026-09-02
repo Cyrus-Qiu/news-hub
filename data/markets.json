@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T15:15:33.661Z",
+  "updatedAt": "2026-09-02T18:55:30.132Z",
   "failedCount": 1,
   "markets": [
     {
@@ -24,9 +24,9 @@
       "id": "DCOILWTICO",
       "name": "WTI 原油",
       "unit": "USD",
-      "value": 83.9,
-      "changePercent": -2.826036599490384,
-      "asOf": "2026-08-25",
+      "value": 91.48,
+      "changePercent": 5.113179363437898,
+      "asOf": "2026-09-01",
       "source": "FRED"
     },
     {
@@ -34,9 +34,9 @@
       "name": "Bitcoin",
       "symbol": "BTC",
       "unit": "USD",
-      "value": 76764,
-      "changePercent": -1.3294138056257736,
-      "asOf": "2026-09-02T15:13:20.000Z",
+      "value": 77309,
+      "changePercent": 0.5331802671710552,
+      "asOf": "2026-09-02T18:54:00.000Z",
       "source": "CoinGecko"
     },
     {
@@ -44,9 +44,9 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "unit": "USD",
-      "value": 2380.2,
-      "changePercent": -2.3434338521086744,
-      "asOf": "2026-09-02T15:13:40.000Z",
+      "value": 2392.77,
+      "changePercent": -0.4962146261617111,
+      "asOf": "2026-09-02T18:54:00.000Z",
       "source": "CoinGecko"
     }
   ]
