@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T18:55:29.700Z",
+  "updatedAt": "2026-09-02T21:44:18.550Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,106 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "4853c2337866",
+      "title": "Australia news live: Jim Chalmers weighs in on One Nation WA byelection win; $2m for Indigenous racism online register",
+      "summary": "Treasurer says he acknowledges concerns about inflation, cost of living and real wages were on voters’ minds. Follow the day’s news live. Get our breaking news email , free app o…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-02T21:29:36.000Z"
+    },
+    {
+      "id": "c280f70cbb01",
+      "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
+      "summary": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario as “Lake America” for US users of its Maps…",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
+      "source": "The Guardian World",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-02T21:15:12.000Z"
+    },
+    {
+      "id": "228cc9f139eb",
+      "title": "Trump administration sides with OpenAI in lawsuit against New York Times",
+      "summary": "The Times and many companies are accusing OpenAI of misusing their material to train AI systems without compensation The Trump administration is supporting OpenAI in ⁠a lawsuit a…",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/trump-new-york-times-lawsuit-ai",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-02T20:39:54.000Z"
+    },
+    {
+      "id": "5c03405ea73e",
+      "title": "Maltese tycoon found not guilty of involvement in Daphne Caruana Galizia murder",
+      "summary": "Yorgen Fenech cleared on both charges he faced over 2017 killing of journalist that prompted global outrage One of Malta’s richest men has been found not guilty of involvement in…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/maltese-tycoon-yorgen-fenech-daphne-caruana-galizia-killing-not-guilty",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-02T19:26:32.000Z"
+    },
+    {
+      "id": "68404624f1e5",
+      "title": "新闻背景：大埃及博物馆",
+      "summary": "中新社开罗9月2日电 2025年11月1日正式开馆的大埃及博物馆是世界最大单一文明博物馆，占地约50万平方米，馆藏文物超过10万件，集纳了埃及从史前时代到罗马时期的大量珍贵文物，涵盖埃及数千年历史。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689165.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T19:19:47.000Z"
+    },
+    {
+      "id": "5b53b06ffa4d",
+      "title": "习近平圆满结束对埃及的国事访问",
+      "summary": "中新社开罗9月2日电 (记者 郭金超 谢雁冰)当地时间9月2日晚，中国国家主席习近平结束对埃及的国事访问。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689164.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T19:12:40.000Z"
+    },
+    {
+      "id": "684fe5539aa5",
+      "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
+      "summary": "中新社开罗9月2日电 (记者 郭金超 谢雁冰)当地时间9月2日下午，中国国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689163.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-02T19:09:26.000Z"
+    },
+    {
+      "id": "03677d620170",
+      "title": "Gun found in French lake is analysed by 2012 Alps killings investigators",
+      "summary": "British tourists reportedly discovered Luger pistol that is latest in long line of potential leads in mystery of al-Hilli deaths Experts are examining a gun found by tourists to…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/gun-found-in-french-lake-is-analysed-by-2012-alps-killings-investigators",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-02T19:03:06.000Z"
+    },
+    {
+      "id": "6979068e975b",
+      "title": "Bayeux tapestry loan symbolises ‘entente amicale’ between France and UK, says King Charles",
+      "summary": "Monarch tells Emmanuel Macron at the British Museum in London that the two nations will share a future ‘woven together’ by history and shared values The loan of the Bayeux tapest…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/bayeux-tapestry-loan-symbolises-entente-amicale-between-france-and-uk-says-king-charles",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-02T18:58:50.000Z"
+    },
+    {
+      "id": "15579f88b977",
+      "title": "Google defeats US justice department bid to force ad tech sale",
+      "summary": "Judge declines to make Google sell AdX in win for firm against US antitrust enforcers’ attempts to break up big tech Alphabet’s Google escaped a breakup of its advertising techno…",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/google-defeats-justice-department-bid-ad-tech-sale",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-02T18:37:20.000Z"
+    },
+    {
       "id": "d59fc352267a",
       "title": "新华图讯｜习近平圆满结束对埃及的国事访问",
       "summary": "当地时间9月2日晚，国家主席习近平结束对埃及的国事访问。",
@@ -58,36 +158,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-02T18:20:36.000Z"
-    },
-    {
-      "id": "40969b936a67",
-      "title": "习近平圆满结束对埃及的国事访问",
-      "summary": "新华社开罗9月2日电(记者辛俭强 阚静文)当地时间9月2日晚，国家主席习近平结束对埃及的国事访问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689160.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T18:19:13.000Z"
-    },
-    {
-      "id": "45932047d971",
-      "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
-      "summary": "新华社开罗9月2日电(记者邓玉山#8195;韩梁)当地时间9月2日下午，国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689159.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T18:18:23.000Z"
-    },
-    {
-      "id": "5c03405ea73e",
-      "title": "Maltese tycoon found not guilty of involvement in Daphne Caruana Galizia murder",
-      "summary": "Yorgen Fenech cleared on both charges he faced over 2017 killing of journalist that prompted global outrage One of Malta’s richest men has been found not guilty of involvement in…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/maltese-tycoon-yorgen-fenech-daphne-caruana-galizia-killing-not-guilty",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T17:49:56.000Z"
     },
     {
       "id": "4aa27d21b123",
@@ -128,26 +198,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-02T16:07:56.000Z"
-    },
-    {
-      "id": "0563db14f264",
-      "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
-      "summary": "Ukraine president says aviation industry needs to take account of growing number of Ukrainian drones in Russia Volodymyr Zelenskyy has declared that Russia’s airspace is becoming…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T15:52:05.000Z"
-    },
-    {
-      "id": "90a76b863ea4",
-      "title": "Russian ‘attempts to intimidate Europe will fail’, says EU’s Kallas as Germany blames Moscow for Leipzig drone incident – as it happened",
-      "summary": "EU’s policy chief says drone incident at German airport ‘had the hallmarks of state-sponsored terrorism’ German police have opened a investigation into yesterday’s attempt to dis…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T15:46:30.000Z"
     },
     {
       "id": "3dc9a124c918",
@@ -211,8 +261,8 @@
     },
     {
       "id": "d40dd27b58fd",
-      "title": "Palestinian Australian sues NSW police claiming he was punched at Herzog rally when helping prayer group",
-      "summary": "Exclusive : Eyad Shadid launches civil case in district court after charges against him dropped, alleging he was ‘battered’ near Sydney’s town hall in February Get our breaking n…",
+      "title": "Palestinian Australian sues NSW police, claiming he was punched at Herzog rally when helping prayer group",
+      "summary": "Exclusive : Eyad Shadid launches civil case in district court after charges against him dropped, alleging he was ‘battered’ near Sydney’s town hall in February Follow our Austral…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/03/palestinian-australian-eyad-shadid-sues-nsw-police-punched-at-herzog-rally-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -222,7 +272,7 @@
     {
       "id": "5bbbf5ef4910",
       "title": "We’re purchasing EVs instead of holidaying in Europe – and what else we learned from Australia’s national accounts",
-      "summary": "ABS’s snapshot of Australia’s accounts shows economic growth – albeit low – in the face ‘challenging international circumstances’ Get our breaking news email , free app or daily…",
+      "summary": "ABS’s snapshot of Australia’s accounts shows economic growth – albeit low – in the face ‘challenging international circumstances’ Follow our Australia news live blog for latest u…",
       "url": "https://www.theguardian.com/business/2026/sep/03/australia-national-accounts-abs-economic-growth-evs-europe-holidays",
       "source": "The Guardian World",
       "category": "国际",
@@ -440,46 +490,6 @@
       "publishedAt": "2026-09-02T14:37:05.000Z"
     },
     {
-      "id": "ac28f7d64067",
-      "title": "4位教育学者获得2026年度一丹奖",
-      "summary": "中新网香港9月2日电 慈善基金会一丹奖基金会2日在香港举行新闻发布会，公布2026年度一丹奖得奖名单，4位教育学者获奖。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-02/10689132.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:36:51.000Z"
-    },
-    {
-      "id": "c3171742b4bc",
-      "title": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning",
-      "summary": "Matt Clifford will stay as chair of government funding body for tech projects alongside his senior role at US firm The architect of the UK government’s AI strategy has joined the…",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-02T14:29:43.000Z"
-    },
-    {
-      "id": "022f16991a8b",
-      "title": "平陆运河“三大枢纽”船闸运行方案获得批复",
-      "summary": "记者从广西壮族自治区交通运输厅了解到，9月1日，广西壮族自治区交通运输厅正式批复平陆运河马道、企石、青年“三大枢纽”船闸运行方案。该方案的批复，筑牢了平陆运河“三大枢纽”船闸依法合规运营、安全有序运行的制度根基，标志着平陆运河即将进入全线通航新阶段。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689135.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:27:46.000Z"
-    },
-    {
-      "id": "431dcffc9b12",
-      "title": "越山海｜当埃及金字塔遇上中国科技",
-      "summary": "视频：越山海｜当埃及金字塔遇上中国科技来源：人民日报客户端",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689134.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T14:24:48.000Z"
-    },
-    {
       "id": "b5ed9f0397af",
       "title": "黃之鋒：從學運領袖到國安法囚犯，重獲自由未有期",
       "summary": "自2020年11月被關押以來，香港民主派活動人士黃之鋒被控多宗罪名，至今已身在獄中接近六年。",
@@ -530,19 +540,9 @@
       "publishedAt": "2026-09-02T13:55:55.000Z"
     },
     {
-      "id": "2443dff9cd0d",
-      "title": "UK government does not know what datacentres are being used for, FoI request shows",
-      "summary": "Lack of information raises fears over environmental impact of the AI boom The UK government does not know what the country’s datacentres are being used for despite fears over the…",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/02/uk-datacentres-ai-boom-foi-environment",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-02T13:44:54.000Z"
-    },
-    {
       "id": "1b5604a5b405",
       "title": "‘Timidity is a virus’: Paul Keating fights the fading of the light as he seeks to enshrine his legacy",
-      "summary": "As a major new biography of the former prime minister goes on sale, he talks about meeting the Queen, Trump’s aims, and why his big vision will never fade Get our breaking news e…",
+      "summary": "As a major new biography of the former prime minister goes on sale, he talks about meeting the Queen, Trump’s aims, and why his big vision will never fade Follow our Australia ne…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/02/timidity-is-a-virus-paul-keating-fights-the-fading-of-the-light-as-he-seeks-to-enshrine-his-legacy",
       "source": "The Guardian World",
       "category": "国际",
@@ -658,16 +658,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-02T08:54:52.000Z"
-    },
-    {
-      "id": "3c06a35b069c",
-      "title": "NSW police investigating possible mistaken identity after fatal shooting in Sydney’s west – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Ride share driver charged on allegations of committing sexual acts during booking A ride shar…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T08:48:17.000Z"
     },
     {
       "id": "fc3b4e4c2778",
@@ -818,16 +808,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-01T14:11:23.000Z"
-    },
-    {
-      "id": "513bc8ca4fe5",
-      "title": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
-      "summary": "Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusi…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
-      "source": "The Guardian World",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-01T13:49:33.000Z"
     },
     {
       "id": "5fb453a061fe",
@@ -1228,6 +1208,26 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-08-28T08:51:11.000Z"
+    },
+    {
+      "id": "32e1bd4958c7",
+      "title": "女性罵髒話很低劣嗎？莫迪言論引燃「蟑螂人民黨」後續辯論",
+      "summary": "印度在野黨議員拉胡爾·甘地的言論再次引發有關性別差異的辯論，焦點在於人們對辱罵總理莫迪言論的反應是否因性別而有所不同。",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-28T02:49:24.000Z"
+    },
+    {
+      "id": "08968ca11db1",
+      "title": "香港卡牌熱潮：一張卡如何從遊戲變資產成為「紙上黃金」？",
+      "summary": "近年全球掀起一波集換式卡牌熱潮，除了玩樂以外，更有不少人用來投資炒賣。美國市場分析公司統計，2025年全球集換式卡牌市場規模達到約78億美元，到2031年有望升至128.6億美元。一張卡由遊戲變成資產，成為「紙上黃金」。BBC中文拆解卡牌熱潮的起因以及熱潮延續的可能性。",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-28T02:06:41.000Z"
     }
   ]
 }
