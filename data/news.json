@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T17:47:44.327Z",
+  "updatedAt": "2026-09-03T20:55:15.470Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,66 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "ef4fd0e97d68",
+      "title": "Australia news live: Pauline Hanson to make cost of living ‘worse’, new union boss warns; Labor scraps course citing ‘integrity’",
+      "summary": "The new ACTU secretary, Melissa Donnelly, says One Nation ‘says one thing and does another’ Get our breaking news email , free app or daily news podcast Good morning and welcome…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-03T20:37:08.000Z"
+    },
+    {
+      "id": "886939dea435",
+      "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
+      "summary": "Troops escort settlers into al-Mughayyir and raze village outside Hebron as ethnic cleansing of West Bank continues Israelis have shot dead two teenagers in a Palestinian village…",
+      "url": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-03T19:33:00.000Z"
+    },
+    {
+      "id": "fda817cd9e9f",
+      "title": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo",
+      "summary": "Bartiromo had been a host at the network for more than a decade and Fox gave no explanation for the decision Fox News Media on Thursday abruptly ousted one of its most well-known…",
+      "url": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-03T18:20:24.000Z"
+    },
+    {
+      "id": "b38d2f0c8406",
+      "title": "Far-right Israeli minister outlines plan for removal of all Palestinians from Gaza",
+      "summary": "Itamar Ben-Gvir claims proposal for illegal forced displacement of 2 million people is ‘realistic’ and ‘concrete’ Israel’s far-right national security minister has set out a plan…",
+      "url": "https://www.theguardian.com/world/2026/sep/03/israel-far-right-minister-itamar-ben-gvir-plan-removal-palestinians-gaza",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-03T18:01:05.000Z"
+    },
+    {
+      "id": "e4a1ce9ee168",
+      "title": "Serbians targeted with spyware in country’s ‘largest documented wave of surveillance’",
+      "summary": "Student protesters among those hacked, says digital rights group, though Aleksandar Vučić’s government denies spying At least 14 people from across Serbian civil society were tar…",
+      "url": "https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-03T17:48:36.000Z"
+    },
+    {
+      "id": "9814589d83ea",
+      "title": "Thieves steal more than 70,000 pints’ worth of Guinness from depot in Cheshire",
+      "summary": "Police say two lorries were driven into industrial estate in Runcorn and attached to trailers holding about 800 barrels The famous tagline “Guinness is good for you” applies only…",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/03/thieves-steal-guinness-depot-cheshire-runcorn",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-03T17:18:45.000Z"
+    },
+    {
       "id": "5e6d2ae88266",
       "title": "Sabotage, leaks and political ties: the story of the Daphne Caruana Galizia murder trial",
       "summary": "A Maltese businessman has been cleared of involvement in the journalist’s death, but his trial revealed the challenges faced by those leading the search for her killers The concl…",
@@ -48,16 +108,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-09-03T16:59:56.000Z"
-    },
-    {
-      "id": "946cb051ac47",
-      "title": "Bond market turmoil eases, as Bank of England chief economist argues for interest rate rise – as it happened",
-      "summary": "Rolling coverage of the latet economic and financial news Other European government borrowing costs are dipping this morning too. The yield on 10-year German bunds is down 1.5bps…",
-      "url": "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-03T16:21:16.000Z"
     },
     {
       "id": "f6f8e16c5c1a",
@@ -168,16 +218,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-03T14:57:28.000Z"
-    },
-    {
-      "id": "d36ef31b6963",
-      "title": "CBS brings back Norah O’Donnell to co-anchor morning show amid ratings challenges",
-      "summary": "O’Donnell, who co-hosted show from 2012 to 2019, was recently named correspondent for revamped 60 Minutes CBS is bringing back journalist Norah O’Donnell to co-anchor the channel…",
-      "url": "https://www.theguardian.com/media/2026/sep/03/cbs-norah-odonnell-morning-show",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-03T14:57:09.000Z"
     },
     {
       "id": "0715fac53047",
@@ -500,16 +540,6 @@
       "publishedAt": "2026-09-03T12:42:54.000Z"
     },
     {
-      "id": "cc40b4f6f36f",
-      "title": "‘We need a touch of humanity’: Swedish opposition pledges to help Britons facing deportation",
-      "summary": "Exclusive: Centre party says it will change law to end plight of those hit by post-Brexit policy if it gains power in upcoming election Europe live – latest updates A leading Swe…",
-      "url": "https://www.theguardian.com/world/2026/sep/03/swedish-mp-promises-help-for-britons-facing-deportation-if-his-party-wins-power-general-election",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-03T12:38:20.000Z"
-    },
-    {
       "id": "4133a0b6acd5",
       "title": "Australian science prize awarded to researcher studying memory accuracy of domestic violence survivors",
       "summary": "Helen Paterson’s work on advancing how police and courts understand memory is recognised in prestigious Eureka prizes Get our breaking news email , free app or daily news podcast…",
@@ -608,16 +638,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-03T09:00:49.000Z"
-    },
-    {
-      "id": "4853c2337866",
-      "title": "Home loan applications down by 15% since budget, CBA says – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Shadow treasurer says tobacco plans would bring in extra billions and stop people buying from…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-03T07:42:00.000Z"
     },
     {
       "id": "b53c504ee0c7",
@@ -738,16 +758,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-09-02T15:22:20.000Z"
-    },
-    {
-      "id": "72b2f6beabc6",
-      "title": "Iran accuses US of ‘war crime’ after missile blast kills four people at wedding",
-      "summary": "Blast also injures 68 guests at the wedding in southern Iran, prompting fears of escalation in hostilities Iran has accused the US of a war crime after a missile blast killed at…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T15:19:04.000Z"
     },
     {
       "id": "a1bff74a0a93",
@@ -908,16 +918,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-02T06:00:25.000Z"
-    },
-    {
-      "id": "750589f89281",
-      "title": "UK must end all trade with Israel, says co-founder of BDS movement",
-      "summary": "Exclusive: sanctions against ministers and settler groups are ‘smoke and mirrors cop-out’ says Omar Barghouti Britain’s legal and ethical obligation to stop a genocide in Gaza re…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/uk-must-end-all-trade-with-israel-says-co-founder-of-bds-movement",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-02T06:00:24.000Z"
     },
     {
       "id": "8222e694768e",
@@ -1140,16 +1140,6 @@
       "publishedAt": "2026-08-31T10:56:56.000Z"
     },
     {
-      "id": "f71e43f2f1d2",
-      "title": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
-      "summary": "US trade representative Jamieson Greer has a level-headed reputation but commerce secretary Howard Lutnick and White House adviser Peter Navarro also have key roles Having report…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-31T10:00:23.000Z"
-    },
-    {
       "id": "7e82082ab867",
       "title": "塔吉克斯坦年輕人之間緣何興起「漢語熱」？",
       "summary": "直到幾年前，英語仍被塔吉克年輕人視為最重要的外語，但隨著中國在中亞地區的經濟影響力不斷擴大，漢語成為了對年輕一代更具吸引力的選擇。",
@@ -1228,6 +1218,16 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-08-30T11:00:56.000Z"
+    },
+    {
+      "id": "fe2d479c4c68",
+      "title": "‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess",
+      "summary": "There’s little optimism about treasury secretary’s ability to handle Trump’s tariffs, Iran sanctions and colossal US debt History remembers Gen Dwight Eisenhower , the supreme co…",
+      "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-08-29T12:00:27.000Z"
     }
   ]
 }
