@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T20:55:15.470Z",
+  "updatedAt": "2026-09-03T23:12:59.085Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -31,13 +31,123 @@
   "articles": [
     {
       "id": "ef4fd0e97d68",
-      "title": "Australia news live: Pauline Hanson to make cost of living ‘worse’, new union boss warns; Labor scraps course citing ‘integrity’",
-      "summary": "The new ACTU secretary, Melissa Donnelly, says One Nation ‘says one thing and does another’ Get our breaking news email , free app or daily news podcast Good morning and welcome…",
+      "title": "News live: Two more Australians confirmed safe in Nepal-Tibet floods; Bowen calls joint statement on China ‘strong’",
+      "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast ‘Gut-wrenching’: Bowen to meet with Nepali community today Chris Bowen said he would meet…",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-09-03T20:37:08.000Z"
+      "publishedAt": "2026-09-03T23:04:20.000Z"
+    },
+    {
+      "id": "0e976b2ff2ce",
+      "title": "9月4日新闻早报",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-04/10689983.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T22:51:14.000Z"
+    },
+    {
+      "id": "190d73eff2a0",
+      "title": "多国从美国运回黄金 专家：美元体系面临信任危机",
+      "summary": "荷兰中央银行2日公布，该行今年3月至8月将约86吨黄金储备从美国纽约和加拿大渥太华转移至英国伦敦，以分散风险，做好危机应对准备。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10689982.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T22:46:42.000Z"
+    },
+    {
+      "id": "da1f61b05ec7",
+      "title": "美军近日袭击已致伊朗18死142伤",
+      "summary": "中新网9月4日电 综合报道，伊朗卫生部发言人当地时间9月3日宣布，自当地时间8月30日20时30分至9月2日20时30分，伊朗共有142人在敌人的袭击中受伤、18人死亡。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10689981.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T22:45:22.000Z"
+    },
+    {
+      "id": "ae0dcd1e8358",
+      "title": "英国首相伯纳姆晤马克龙 谈非法移民管控等议题",
+      "summary": "中新社伦敦9月3日电 (记者 欧阳开宇)当地时间9月3日，英国首相伯纳姆在伦敦唐宁街首相府会晤法国总统马克龙，双方围绕英法双边合作、非法移民管控、乌克兰局势、中东安全等议题深入磋商。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10689980.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T22:42:58.000Z"
+    },
+    {
+      "id": "917f876b2c8f",
+      "title": "美国近期袭击已致伊朗18死142伤",
+      "summary": "当地时间9月3日，伊朗卫生部发言人宣布，自当地时间8月30日20时30分至9月2日20时30分，伊朗共有142人在敌人的袭击中受伤、18人死亡。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10689979.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T22:36:23.000Z"
+    },
+    {
+      "id": "a854aef4026f",
+      "title": "普京：解决乌克兰问题关键在于俄乌双方能否达成共识",
+      "summary": "中新社符拉迪沃斯托克9月3日电 俄罗斯总统普京3日在符拉迪沃斯托克举行的第十一届东方经济论坛全体会议上表示，解决乌克兰问题的关键在于俄乌双方能否达成共识。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10689977.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T22:35:01.000Z"
+    },
+    {
+      "id": "ac27a19f994f",
+      "title": "青海海西州直辖区发生5.1级地震 震源深度10公里",
+      "summary": "中国地震台网正式测定：9月4日1时4分，在青海海西州直辖区(北纬37.84度，东经95.59度)发生5.1级地震，震源深度10公里。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10689978.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T22:33:43.000Z"
+    },
+    {
+      "id": "95f0004f485f",
+      "title": "广东省在香港发行离岸人民币地方政府债券75亿元",
+      "summary": "中新社广州9月3日电 (记者 许青青)据广东省财政厅3日晚消息，当日，广东省在香港特别行政区成功发行2026年离岸人民币地方政府债券75亿元，这是广东省连续第三年在香港发行地方政府债券并在香港联合交易所挂牌上市，持续推进粤港澳大湾区金融市场互联互通。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10689976.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T22:32:07.000Z"
+    },
+    {
+      "id": "2ced24161292",
+      "title": "Volkswagen announces it will cut 100,000 jobs by 2030",
+      "summary": "Under-pressure carmaker will shed 15% of workforce and halve its product line in sector’s biggest ever restructure The car company Volkswagen has announced it will shed 100,000 j…",
+      "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
+      "source": "The Guardian World",
+      "category": "商业",
+      "language": "en",
+      "publishedAt": "2026-09-03T22:30:32.000Z"
+    },
+    {
+      "id": "cea8e295fa53",
+      "title": "丁薛祥出席第十一届东方经济论坛全会并致辞",
+      "summary": "中新社符拉迪沃斯托克9月3日电 当地时间9月3日，中共中央政治局常委、国务院副总理丁薛祥在俄罗斯符拉迪沃斯托克出席第十一届东方经济论坛全会，并发表题为“深化中俄地区合作 增进两国人民福祉”的致辞。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10689975.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T22:29:47.000Z"
+    },
+    {
+      "id": "e4a1ce9ee168",
+      "title": "Serbians targeted with spyware in country’s ‘largest documented wave of surveillance’",
+      "summary": "Student protesters among those hacked, says digital rights group, though Aleksandar Vučić’s government denies spying At least 14 people from across Serbian civil society were tar…",
+      "url": "https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-03T22:10:18.000Z"
     },
     {
       "id": "886939dea435",
@@ -48,6 +158,16 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-03T19:33:00.000Z"
+    },
+    {
+      "id": "8b72a35e05fb",
+      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+      "summary": "Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’ The president of OpenAI, Greg Brockman, has claimed the wor…",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-03T18:24:42.000Z"
     },
     {
       "id": "fda817cd9e9f",
@@ -70,14 +190,14 @@
       "publishedAt": "2026-09-03T18:01:05.000Z"
     },
     {
-      "id": "e4a1ce9ee168",
-      "title": "Serbians targeted with spyware in country’s ‘largest documented wave of surveillance’",
-      "summary": "Student protesters among those hacked, says digital rights group, though Aleksandar Vučić’s government denies spying At least 14 people from across Serbian civil society were tar…",
-      "url": "https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware",
-      "source": "The Guardian World",
+      "id": "9d8d5adaf2d3",
+      "title": "Hundreds gather to urge Scottish government to pause datacentre boom",
+      "summary": "Opposition mounts as at least 20 projects proposed, including one in Fife billed as second largest in world Kat Jones may be the closest thing Scotland has to Erin Brockovich in…",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai",
+      "source": "The Guardian Technology",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-09-03T17:48:36.000Z"
+      "publishedAt": "2026-09-03T17:48:48.000Z"
     },
     {
       "id": "9814589d83ea",
@@ -112,7 +232,7 @@
     {
       "id": "f6f8e16c5c1a",
       "title": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
-      "summary": "Opposition leader says interim government lacking democratic mandate to negotiate on natural resources The Venezuelan opposition leader María Corina Machado has questioned Donald…",
+      "summary": "Opposition leader says interim government lacking democratic mandate to negotiate on natural resources • The US and Venezuela: a century-old relationship drenched in oil The Vene…",
       "url": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
       "source": "The Guardian World",
       "category": "财经",
@@ -202,7 +322,7 @@
     {
       "id": "b3ef90e38088",
       "title": "BoM forecasts strongest El Niño on record as research points to ‘alarming’ climate change influence",
-      "summary": "Bureau of Meteorology suggests El Niño has already broken records, with Pacific ocean temperature change exceeding 2C in six months Follow our Australia news live blog for latest…",
+      "summary": "Bureau of Meteorology suggests El Niño has already broken records, with Pacific Ocean temperature change exceeding 2C in six months Follow our Australia news live blog for latest…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/04/bom-forecasts-strongest-el-nino-on-record-as-research-points-to-alarming-climate-change-influence",
       "source": "The Guardian World",
       "category": "国际",
@@ -380,96 +500,6 @@
       "publishedAt": "2026-09-03T14:33:58.000Z"
     },
     {
-      "id": "a1381cbfcd04",
-      "title": "2026中国航空金融（东疆）国际论坛天津举行 国际参与度创新高",
-      "summary": "中新网天津9月3日电 (记者 周亚强)9月2日至3日，2026中国航空金融(东疆)国际论坛在天津举行。来自国内外200余家航空公司、租赁公司、航空制造企业、融资机构及专业咨询服务机构的代表参会，共商中国航空金融发展新机遇。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689951.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-03T14:28:39.000Z"
-    },
-    {
-      "id": "9f92c423e400",
-      "title": "青海：“柴达木枸杞采摘”劳务品牌带动超10万民众增收",
-      "summary": "中新网西宁9月3日电 (韩雪 孙睿)青海省人力资源和社会保障厅3日消息，今年，青海柴达木枸杞种植面积达45.47万亩，品牌价值196.75亿元。全年头茬、二茬、三茬采摘期累计用工预计超10万人次。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689950.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-03T14:28:29.000Z"
-    },
-    {
-      "id": "834498b3bbf4",
-      "title": "中国建筑师马岩松主持设计的卢卡斯叙事艺术博物馆将在洛杉矶开馆",
-      "summary": "中新网北京9月3日电 (记者 应妮)记者从建筑师马岩松工作室获悉，由其主持设计的卢卡斯叙事艺术博物馆将于9月22日在美国洛杉矶正式开馆。这座由好莱坞著名电影人、“《星球大战》之父”乔治·卢卡斯与梅洛迪·霍布森创立的大型博物馆是洛杉矶近年来最受瞩目的文化地标之一。",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-03/10689949.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-03T14:28:11.000Z"
-    },
-    {
-      "id": "141e9f64594e",
-      "title": "卓越领军+青创上海 上海分层培育新时代民营企业家",
-      "summary": "中新网上海9月3日电(范宇斌)2日，由上海市委统战部、上海市工商联联合上海交通大学共同实施的“卓越领军”新时代知名企业家培养工程和“青创上海”新时代青年企业家培养工程首期班正式开班。百名来自集成电路、人工智能、生物医药、智能制造等前沿领域的优秀企业家共同开启学思践悟、交流互鉴、合作共赢、发展提升的学习之旅。上海市委常委、统战部部长陈通作动员讲话。",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-03/10689948.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-03T14:27:51.000Z"
-    },
-    {
-      "id": "6283049f4823",
-      "title": "台企在江西：传统制造业智能化改造 鞋产品畅销海外市场",
-      "summary": "中新网萍乡9月3日电 题：台企在江西：传统制造业智能化改造 鞋产品畅销海外市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689947.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-03T14:27:39.000Z"
-    },
-    {
-      "id": "ff9271036713",
-      "title": "前8月义乌快件（跨境）监管中心累计出口额4.5亿美元",
-      "summary": "中新社义乌9月3日电 (董易鑫)在浙江义乌，跨境货物正加速走向全球。9月3日，义乌快件(跨境)监管中心公布的最新数据显示，今年前8个月，该中心累计出口额达4.5亿美元，较去年全年总额实现翻番式增长。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689946.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-03T14:27:31.000Z"
-    },
-    {
-      "id": "6b6bed0e0fb9",
-      "title": "中国西部陆海新通道平陆运河开展通航前最大规模演练",
-      "summary": "中新社广西钦州9月3日电 (记者 杨陈)中国西部陆海新通道骨干工程平陆运河船舶通航全要素综合演练3日举行。这是平陆运河通航前规模最大、要素最全的一次实战检验。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689945.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-03T14:27:19.000Z"
-    },
-    {
-      "id": "8afdb526dde0",
-      "title": "中国中铁首批钢筋石笼助力西藏吉隆灾区道路修复",
-      "summary": "中新网日喀则9月3日电 (王春涛 任子豪 格桑普尺 陈小军)3日，中国中铁紧急调配首批320个钢筋石笼，火速运往西藏日喀则市吉隆县吉隆口岸抢险一线，为灾区道路系统性修复工作提供关键物资保障。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689944.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-03T14:27:05.000Z"
-    },
-    {
-      "id": "0020eefcdb8a",
-      "title": "青海大柴旦地震灾区全面复工复课复产",
-      "summary": "中新网西宁9月3日电 (孙睿 吴登木措)青海省海西蒙古族藏族自治州委宣传部3日发布消息称，经历“6·16”6.3级地震后，大柴旦行委多举措推进灾后恢复重建，目前已实现复工复课复产，城乡生产生活秩序全面恢复。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689941.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-03T14:26:35.000Z"
-    },
-    {
       "id": "62141e3735d6",
       "title": "Rise of far-right leader Roberto Vannacci challenges Meloni as she celebrates Italian milestone",
       "summary": "Futuro Nazionale party’s speedy poll rise poses questions whether PM will return to her roots before election Europe live – latest updates Giorgia Meloni’s government has become…",
@@ -488,16 +518,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-03T14:16:54.000Z"
-    },
-    {
-      "id": "e73679c6fb2f",
-      "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
-      "summary": "Domestic security service says clash with military intelligence directorate ‘definitely shouldn’t have happened’ Several people have been injured in a shootout in central Kyiv be…",
-      "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-03T14:04:46.000Z"
     },
     {
       "id": "a84645ded55a",
@@ -542,7 +562,7 @@
     {
       "id": "4133a0b6acd5",
       "title": "Australian science prize awarded to researcher studying memory accuracy of domestic violence survivors",
-      "summary": "Helen Paterson’s work on advancing how police and courts understand memory is recognised in prestigious Eureka prizes Get our breaking news email , free app or daily news podcast…",
+      "summary": "Helen Paterson’s work on advancing how police and courts understand memory is recognised in prestigious Eureka prizes Follow our Australia news live blog for latest updates Get o…",
       "url": "https://www.theguardian.com/science/2026/sep/03/eureka-prize-2026-helen-paterson-jane-tiller-australian-science-prizes",
       "source": "The Guardian World",
       "category": "国际",
@@ -592,7 +612,7 @@
     {
       "id": "6f2962992030",
       "title": "The US and Venezuela: a century-old relationship drenched in oil",
-      "summary": "A visual look at how Washington’s relationship with Caracas has gone from cordial to ‘predatory’ Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism Written…",
+      "summary": "A visual look at how Washington’s relationship with Caracas has gone from cordial to ‘predatory’ Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism Nobel l…",
       "url": "https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil",
       "source": "The Guardian World",
       "category": "财经",
@@ -738,26 +758,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-02T18:20:36.000Z"
-    },
-    {
-      "id": "13da40bd6af3",
-      "title": "Uber drivers launch European class action over ‘soulless’ and ‘scary’ AI algorithm",
-      "summary": "Landmark lawsuit claims tech company’s pay-setting system has breached privacy laws and pushed down earnings Uber drivers have launched a landmark legal action against the ride-h…",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-02T15:37:26.000Z"
-    },
-    {
-      "id": "ac710a8418cb",
-      "title": "New York City to ban student AI use in public schools until high school",
-      "summary": "Teachers and parents have warned against AI use in schools over concerns of ‘cognitive surrender’ New York City will ban students’ use of artificial intelligence in public school…",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/new-york-city-school-ai-ban",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-02T15:22:20.000Z"
     },
     {
       "id": "a1bff74a0a93",
