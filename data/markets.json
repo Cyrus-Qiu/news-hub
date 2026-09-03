@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-03T00:03:18.581Z",
+  "updatedAt": "2026-09-03T04:13:32.073Z",
   "failedCount": 1,
   "markets": [
     {
       "id": "NASDAQCOM",
       "name": "纳斯达克综合指数",
       "unit": "index",
-      "value": 26099.77,
-      "changePercent": -1.0281033366716064,
-      "asOf": "2026-09-01",
+      "value": 26217.83,
+      "changePercent": 0.4523411508990359,
+      "asOf": "2026-09-02",
       "source": "FRED"
     },
     {
@@ -34,9 +34,9 @@
       "name": "Bitcoin",
       "symbol": "BTC",
       "unit": "USD",
-      "value": 77292,
-      "changePercent": -0.16108422185703405,
-      "asOf": "2026-09-03T00:01:20.000Z",
+      "value": 77771,
+      "changePercent": 0.5649742989669357,
+      "asOf": "2026-09-03T04:12:00.000Z",
       "source": "CoinGecko"
     },
     {
@@ -44,9 +44,9 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "unit": "USD",
-      "value": 2390.57,
-      "changePercent": -1.1125538798759749,
-      "asOf": "2026-09-03T00:01:30.000Z",
+      "value": 2405.48,
+      "changePercent": -0.07028736567985729,
+      "asOf": "2026-09-03T04:12:00.000Z",
       "source": "CoinGecko"
     }
   ]

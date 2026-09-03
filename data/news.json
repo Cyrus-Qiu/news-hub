@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:03:17.971Z",
+  "updatedAt": "2026-09-03T04:13:27.628Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,64 +30,374 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "d6ac4216de8c",
-      "title": "逛科技展会 93.9%受访青年曾被“惊艳”",
-      "summary": "看人形机器人跳舞、与AI面对面、体验最新的科技产品……如今，各种主题的科技展会吸引了不少年轻人的目光，去科技展会“打卡”成为年轻人追赶科技潮流的重要方式。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)发布的一项1000名青年参与的调查显示，78.5%的受访青年参观过科技类展会。去科技展会“打卡”，66.8%的受访青年是因为对AI、机器…",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-03/10689196.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:55:36.000Z"
-    },
-    {
-      "id": "1789e0d92d39",
-      "title": "破除障碍让“救命神器”物尽其用",
-      "summary": "近期，两起结局迥异的急救事件，让公众再次聚焦公共场所AED(自动体外除颤器)的现实使用困境。山东威海一名路人紧急砸破私家车车窗，取用车主自费配备的AED，成功挽救心脏骤停患者生命；而在云南曲靖，一名学生家长在校内突然发病，现场虽配有AED设备，却因无人会操作，错失黄金救治时机，最终酿成悲剧。",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-03/10689195.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:52:15.000Z"
-    },
-    {
-      "id": "10ef16530179",
-      "title": "秋果上架满目新，哪些品类正在成为消费市场的新宠？",
-      "summary": "秋果上架满目新",
-      "url": "https://www.chinanews.com.cn/life/2026/09-03/10689194.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:50:27.000Z"
-    },
-    {
       "id": "4853c2337866",
-      "title": "Australia news live: Marles and Hegseth meet in Washington; teen charged after ‘near complete amputation’ of boy’s hand",
-      "summary": "Boy to face court today. Follow the day’s news live. Get our breaking news email , free app or daily news podcast Shadow treasurer says tobacco plans would bring in extra billion…",
+      "title": "Australia news live: Labor reveals draft rules for 30% tax on discretionary trusts; dead dolphin tests positive for bird flu",
+      "summary": "Meanwhile investors fret that soaring oil prices will reignite inflationary pressures. Follow the day’s news live Get our breaking news email , free app or daily news podcast Sha…",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-03T03:57:16.000Z"
+    },
+    {
+      "id": "9c3efdad6d6d",
+      "title": "应急管理部会同交通运输部紧急调拨道路保通加固装备驰援吉隆",
+      "summary": "根据应急管理部与交通运输部应急联动工作机制，应急管理部会同交通运输部紧急从国家区域性公路交通应急装备物资新疆昌吉储备中心调拨路基箱40套、吊车等道路保通加固关键装备驰援西藏吉隆。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689394.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:54:45.000Z"
+    },
+    {
+      "id": "a4ea1e981075",
+      "title": "农工党中央“地域+领域”组团式帮扶毕节纪实",
+      "summary": "越过乌蒙的“光”|农工党中央“地域+领域”组团式帮扶毕节纪实",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-03/10689393.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:53:05.000Z"
+    },
+    {
+      "id": "f8d4479373ab",
+      "title": "“黑土地上的精神力量” 黑龙江大中小学思政育人大课堂 “开学第一课”开讲",
+      "summary": "中新网哈尔滨9月3日电 (韩雪)2日，由黑龙江省委教育工委、省教育厅主办的“黑土地上的精神力量”全省大中小学思政育人大课堂——“开学第一课”主题思政课举行。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689359.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:42:22.000Z"
+    },
+    {
+      "id": "2435de2c9a1e",
+      "title": "宁德遇大范围暴雨到大暴雨 多项雨量数据刷新历史纪录",
+      "summary": "中新网宁德9月3日电 (吴允杰)受台风“沙德尔”与热带辐合带共同影响，自8月31日起，福建省宁德市遭遇大范围暴雨到大暴雨，福鼎市、柘荣县境内出现特大暴雨。经气象部门综合预评估，本轮暴雨过程持续久、范围广、雨量大、极端性强，多项雨量数据刷新历史纪录，致灾风险高。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689379.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:41:34.000Z"
+    },
+    {
+      "id": "b3f1b580048b",
+      "title": "科技助力加工“破局” 赋能油茶产业转型升级",
+      "summary": "中新网北京9月3日电 题：科技助力加工“破局” 赋能油茶产业转型升级",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689360.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:41:32.000Z"
+    },
+    {
+      "id": "e582950eae00",
+      "title": "京九铁路累计发送货物10.53亿吨",
+      "summary": "记者从国铁集团了解到，京九铁路自开通运营以来，区域路网布局持续完善，货运技术装备不断升级，已累计发送货物10.53亿吨。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689391.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:40:08.000Z"
+    },
+    {
+      "id": "e2231a3170c8",
+      "title": "“欧陆法传承与发展论坛”在澳门举办 助力国际法律合作",
+      "summary": "中新网澳门9月3日电 “欧陆法传承与发展论坛”2日在澳门大学举行，来自中国内地和澳门、欧洲及葡语国家的10余位资深法律学者出席论坛，围绕“共促可持续发展：欧陆法经验交流互鉴”主题进行研讨。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-03/10689358.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:39:56.000Z"
+    },
+    {
+      "id": "03c816aef674",
+      "title": "2026年中华文化大乐园—英国伦敦园学员展示学习成果",
+      "summary": "中新网南宁9月3日电(胡彬)广西大学3日介绍，由该校主办的2026年中华文化大乐园—英国伦敦园近日举行闭园仪式暨学习成果汇报演出。经过10余天的中华文化学习与体验，学员们通过武术、歌舞表演、诗词、书画、手工作品展示等方式，展示学习成果。",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-03/10689344.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:39:12.000Z"
+    },
+    {
+      "id": "dd971eea66a6",
+      "title": "陈力达任侨乡泉州市委书记",
+      "summary": "中新网泉州9月3日电 福建官方3日通报，中共福建省委决定，陈力达任泉州市委书记。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689342.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:38:42.000Z"
+    },
+    {
+      "id": "344188c38314",
+      "title": "2026年CBA夏季联赛青岛站开赛 青岛崂山啤酒取得开门红",
+      "summary": "中新网青岛9月3日电 (王禹)2026年CBA夏季联赛青岛站2日晚在山东省青岛市崂山区开赛。当晚进行的揭幕战中，东道主青岛崂山啤酒以84:59战胜浙江浙商证券，取得开门红。",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689339.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:38:02.000Z"
+    },
+    {
+      "id": "650376778bad",
+      "title": "海南产经新观察：信用建设助力自贸港开放发展",
+      "summary": "中新网海口9月3日电 (张茜翼 王俞力)信用，这一看不见摸不着的“软约束”，正在海南加速转化为可感知的开放“硬支撑”。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689337.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:37:38.000Z"
+    },
+    {
+      "id": "8be78eba019e",
+      "title": "A股午评：超3100只个股飘绿，三大指数集体收涨",
+      "summary": "；半导体、通信设备高开后下挫，农业、互联网下跌；海运、保险、贵金属、房地产上涨",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689389.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:37:32.000Z"
+    },
+    {
+      "id": "c1d013b89ce5",
+      "title": "受台风“沙德尔”影响 福建漳州多地启动“三停一休”",
+      "summary": "中新网漳州9月3日电 (记者 张金川)今年第18号台风“沙德尔”(热带风暴)的中心已于3日6时30分前后在福建省漳州市漳浦古雷沿海第三次登陆，登陆时中心附近最大风力有9级(23米/秒)，中心最低气压985百帕。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689335.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:36:46.000Z"
+    },
+    {
+      "id": "b00350acb124",
+      "title": "受台风“沙德尔”影响 福建发布暴雨警报",
+      "summary": "9月3日，福建福州，市民在雨中出行。当日，今年第18号台风“沙德尔”于6时30分前后在福建省漳州市漳浦古雷沿海第三次登陆，受其影响，福建省气象台10时35分发布暴雨警报。中新社记者 吕明 摄 9月3日，福建福州，市民在雨中出行。当日，今年第18号台风“沙德尔”于6时30分前后在福建省漳州市漳浦古雷沿海第三次登陆，受其影响，福建省气象台10时35分发布暴雨…",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-03/10689363.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:36:36.000Z"
+    },
+    {
+      "id": "b2791e17f193",
+      "title": "“体育+科创”架起沪港青少年连心桥",
+      "summary": "中新网上海9月3日电(范宇斌)近日，“足下启程·科创未来”2026沪港青少年足球科技交流夏令营在上海举行，以“体育+科创”模式搭建沪港青年高质量对接平台。",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-03/10689334.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:36:26.000Z"
+    },
+    {
+      "id": "77e91a035fee",
+      "title": "史诗剧《驻藏·张大人》在北京上演 藏粤联排讲述汉藏民族交融历史",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-03/1203010.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:32:55.000Z"
+    },
+    {
+      "id": "d33b74a80f7e",
+      "title": "受台风“沙德尔”影响 福建沿海24条航线停航",
+      "summary": "受台风“沙德尔”影响，福建沿海出现10级大风。根据气象部门预报，今天，福建南部沿海海区和闽南、台湾浅滩渔场最大风力8—9级、阵风10—11级；中北部沿海海区和闽中渔场、闽东渔场西部最大风力7—8级、阵风9—10级。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689385.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:32:50.000Z"
+    },
+    {
+      "id": "688dbe2f24e9",
+      "title": "Six-year-old boy died from scurvy despite long-term concerns over diet, Queensland coroner finds",
+      "summary": "Coroner says death likely triggered by vitamin C deficiency and so‑called ‘sailor’s disease’ common in convict era Follow our Australia news live blog for latest updates Get our…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/03/six-year-old-queensland-boy-dies-from-scurvy-vitamin-c-disease-19th-century-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-09-02T23:49:22.000Z"
+      "publishedAt": "2026-09-03T03:32:15.000Z"
     },
     {
-      "id": "abfc4acd531b",
-      "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-03/1202987.shtml",
+      "id": "881651e898e8",
+      "title": "国家体育总局：培育有国际竞争力的体育制造品牌",
+      "summary": "中新网9月3日电 国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期体育强国建设有关情况，并答记者问。有记者问：当前，科学技术发展日新月异，深刻影响了经济建设、社会发展和人民的生活。请问，接下来将如何进一步推动体育科技发展，更好服务体育强国建设？",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689382.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-02T23:49:07.000Z"
+      "publishedAt": "2026-09-03T03:32:13.000Z"
     },
     {
-      "id": "c45121c41cb1",
-      "title": "光伏超越煤电只是新起点",
-      "summary": "中国电力版图再次被改写。国家能源局最新数据显示，截至今年7月底，全国光伏发电装机规模达12.86亿千瓦，首次超越煤电12.85亿千瓦的装机规模。此次装机位次更迭，是我国能源绿色低碳转型路上的重要里程碑，标志着新能源从过去能源体系里的“后来者”，一步步站上电源规模的中心位置。但里程碑不等于终点，光伏装机规模超越煤电，只是能源转型中的一个新起点。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689192.shtml",
+      "id": "b5d0db3f3543",
+      "title": "国家体育总局：将有序开放办队、办赛、参赛等方面限制",
+      "summary": "中新网9月3日电 国新办3日举行“开局起步‘十五五’”系列主题新闻发布会，会上，针对如何通过更好发挥市场机制作用，促进竞技体育高质量发展的相关问题，国家体育总局竞技体育司司长张新表示，将有序开放办队、办赛、参赛等方面的限制。",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689380.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-02T23:47:41.000Z"
+      "publishedAt": "2026-09-03T03:31:03.000Z"
+    },
+    {
+      "id": "126fd78c72c2",
+      "title": "国家体育总局：进一步扩大优质赛事供给 解决“一票难求”问题",
+      "summary": "中新网9月3日电 国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期体育强国建设有关情况，并答记者问。有记者问：体育产业已经成为国民经济的重要增长极，能否请介绍一下在推动体育产业提质扩容升级方面还有哪些主要考虑？",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689377.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:29:19.000Z"
+    },
+    {
+      "id": "65c943d43c44",
+      "title": "从荒芜沙漠到产业集群——中埃经贸合作建起优质“样板间”",
+      "summary": "埃及红海之滨城市苏赫奈泉，中埃·泰达苏伊士经贸合作区内，高大宽敞的车间和厂房连甍接栋，一排排椰枣树绿意盎然。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689381.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:29:03.000Z"
+    },
+    {
+      "id": "7b3cf1833561",
+      "title": "中国疾控中心：建议这8类人群优先接种流感疫苗",
+      "summary": "为更好地推动我国流感疫苗的预防接种，中国疾病预防控制中心近日发布《中国流感疫苗预防接种技术指南(2026—2027)》。指南指出，每年接种流感疫苗是预防流感最为经济有效的措施。2026—2027年度我国上市的三价流感疫苗包括三价灭活疫苗(IIV3)和三价减毒活疫苗(LAIV3)，其中IIV3有裂解疫苗和亚单位疫苗，可用于6月龄及以上人群，包括0.25mL…",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-03/10689378.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:27:51.000Z"
+    },
+    {
+      "id": "8c83171c780f",
+      "title": "教育部：积极会同各部门全面提升师生消防安全意识和能力",
+      "summary": "中新网9月3日电 国家消防救援局于9月3日举行例行新闻发布会，解读7部门联合印发的《全民消防安全素质提升行动工作方案》。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689376.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:27:03.000Z"
+    },
+    {
+      "id": "9f1ac188d56b",
+      "title": "1—7月规上电子信息制造业营收超11万亿元，同比增长19.4%",
+      "summary": "中新网9月3日电 据“工信微报”微信公众号消息，工业和信息化部运行监测协调局3日发布2026年1—7月电子信息制造业运行情况，1—7月规上电子信息制造业营收超11万亿元，同比增长19.4%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689370.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:25:29.000Z"
+    },
+    {
+      "id": "c19a1ebf65f4",
+      "title": "国家体育总局：新周期全民健身计划面向社会各类人群",
+      "summary": "中新网9月3日电 国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期体育强国建设有关情况，并答记者问。有记者问：与2021年到2025年全年健身计划相比，新周期的全民健身计划有哪些特点？",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689364.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:23:41.000Z"
+    },
+    {
+      "id": "45e2ec3b2aee",
+      "title": "科技多跑一步，救灾主动一分（现场评论）",
+      "summary": "西藏吉隆县泥石流灾害发生后，在普热普强藏布形成了堰塞湖。为了科学研判堰塞湖的情况，拿出有效的处置方案，监测队伍来到观测平台。笔者在这里观察到，无人机、边坡雷达、卫星便携站、通信布控球等设备陆续“登场”，发挥大功效。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689375.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:23:13.000Z"
+    },
+    {
+      "id": "f3961642ac70",
+      "title": "文明交相辉映 友谊历久弥新——中埃携手迈向未来",
+      "summary": "2026年是中埃建交70周年。70年来，无论国际和地区形势如何变化，中埃两国始终相互尊重、平等相待、彼此信任、守望相助，中埃关系已经成为发展中国家友好相处、团结协作的典范。回望过去，中埃经贸、科技合作硕果累累，发展成果持续惠及民生；面向未来，中埃友谊历久弥新，恰如尼罗河水，奔涌向前。60秒，回顾中埃友好交往的高光时刻。",
+      "url": "http://www.chinanews.com.cn/gj/shipin/2026/09-03/news1067591.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:22:13.000Z"
+    },
+    {
+      "id": "92ed184d2521",
+      "title": "成都红石公园初秋如画",
+      "summary": "9月3日，四川成都，初秋时节的红石公园美如画，吸引不少市民前来游览。中新社记者 张浪 摄 9月3日，四川成都，初秋时节的红石公园美如画，吸引不少市民前来游览。中新社记者 张浪 摄 9月3日，四川成都，初秋时节的红石公园美如画，吸引不少市民前来游览。中新社记者 张浪 摄 9月3日，四川成都，初秋时节的红石公园美如画，吸引不少市民前来游览。中新社记者 张浪…",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-03/10689362.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:21:47.000Z"
+    },
+    {
+      "id": "749018370b30",
+      "title": "推动埃中全面战略伙伴关系迈向新高度（国际论坛）",
+      "summary": "在埃中两国建交70周年之际，习近平主席对埃及进行历史性的国事访问，这也是习近平主席时隔10年再次对埃及进行国事访问。在世界进入新的动荡变革期，地缘冲突交织叠加、全球治理体系面临深刻调整的背景下，习近平主席此访具有赓续埃中传统友谊、深化全面战略伙伴关系的重大意义。国际社会高度关注，埃中作为发展中国家团结合作的典范，将如何为变乱交织的世界注入更多确定性与正能量。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689373.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:21:33.000Z"
+    },
+    {
+      "id": "35573969c8dd",
+      "title": "荷兰央行转移约86吨黄金储备，美国存放占比明显下滑",
+      "summary": "中新网9月3日电 据英国《卫报》报道，当地时间2日，荷兰中央银行发布声明称，由于“地缘政治动荡加剧”，已将其约86吨黄金储备从美国和加拿大转移至英国伦敦。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689261.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-03T03:21:17.000Z"
+    },
+    {
+      "id": "eee49036cf5c",
+      "title": "Australia’s new environmental protection agency approves coal project, angering climate groups",
+      "summary": "Queensland open-cut Saraji mine will be able to keep digging until 2055 as Anthony Albanese denies tensions with Pacific leaders over fossil fuels Follow our Australia news live…",
+      "url": "https://www.theguardian.com/environment/2026/sep/03/saraji-qld-bhp-bma-coal-project-approved-2055-angering-climate-groups",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-03T02:23:37.000Z"
+    },
+    {
+      "id": "55e0d7ca51e9",
+      "title": "Molly Ticehurst’s father tells DV murderer he hopes daughter’s screams will haunt him forever",
+      "summary": "Tony Ticehurst confronts Daniel Billings during sentence hearing in regional NSW, stating: ‘When she died, part of me died with her’ Follow our Australia news live blog for lates…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/03/molly-ticehurst-father-tells-killer-daniel-billings-hopes-daughter-screams-haunt-him-forever-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-03T02:06:32.000Z"
+    },
+    {
+      "id": "3433cfed6b33",
+      "title": "莫迪敦促普京結束烏克蘭戰爭，他能勸得動嗎？",
+      "summary": "印度經濟高度依賴自俄羅斯進口的折扣石油。自2022年普京發動對烏克蘭的全面入侵以來，莫迪已多次向普京提出過類似的呼籲。",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-09-03T00:24:54.000Z"
+    },
+    {
+      "id": "aac41389ff3f",
+      "title": "《肖申克的救贖》中國公映：官方字幕把「queer」譯成「變態」，為何引發爭議？",
+      "summary": "同性戀（homosexual）譯成「不同的人」，queer 譯成「變態」，「make love under tree」（直譯應為「在樹下做愛」）譯成「許下終身」",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-09-03T00:24:43.000Z"
+    },
+    {
+      "id": "99df2714653c",
+      "title": "Boy charged after teenager's hand nearly cut off in Sydney",
+      "summary": "NSW police called to Redfern on Wednesday night found a 17-year-old with a partially severed hand Follow our Australia news live blog for latest updates Get our breaking news ema…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/03/teenager-charged-after-near-complete-amputation-of-boys-hand-in-sydney-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-03T00:24:33.000Z"
     },
     {
       "id": "77fe8f092207",
@@ -100,136 +410,6 @@
       "publishedAt": "2026-09-02T23:47:15.000Z"
     },
     {
-      "id": "69d573944ea7",
-      "title": "首个化妆品强制性国家标准对儿童用妆安全作出规定",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-03/10689191.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:41:07.000Z"
-    },
-    {
-      "id": "dfc79d71d75e",
-      "title": "近镜头｜时光见证中埃情谊历久弥新",
-      "summary": "视频：近镜头｜时光见证中埃情谊历久弥新来源：新华社",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689176.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:33:24.000Z"
-    },
-    {
-      "id": "87275ae36524",
-      "title": "最期待科技发展助力什么？受访青年首选医疗养老",
-      "summary": "坐地铁不用掏手机，智能手表刷一下闸机就开了；开会不用记笔记，AI自动提炼待办事项；开车累了，智能驾驶上线提供服务……日新月异的科技正在不断改变我们的生活。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)发布的一项1000名青年参与的调查显示，44.1%的受访青年感觉近几年科技发展对生活改变很大，59.6%的受访青年希望未来科技发展能着重…",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689190.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:32:12.000Z"
-    },
-    {
-      "id": "97aa477c0a50",
-      "title": "道路交通安全法首次系统大修：规制出行顽疾 自动驾驶单独成章",
-      "summary": "8月28日起，道路交通安全法修订草案(以下简称“修订草案”)面向社会公开征求意见。不到一周，已有超过8000人在中国人大网提出了超过1.2万条意见。这部与每名交通参与者息息相关的法律成为近期最受关注的法律案之一。",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-03/10689187.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:30:58.000Z"
-    },
-    {
-      "id": "0569c6d1592f",
-      "title": "今明天北京天气晴晒最高温32至33℃ 昼夜温差可达10℃以上",
-      "summary": "中国天气网讯 今天(9月3日)，北京天气以晴为主，白天最高气温将升至32℃，需注意防晒、补水，夜间最低气温仅19℃，昼夜温差较大。明天北京晴朗持续，后天云量有所增多。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689186.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:28:58.000Z"
-    },
-    {
-      "id": "c9a819a72e19",
-      "title": "葡萄皮上冒出“小疙瘩”，还能放心吃吗？",
-      "summary": "眼下正值葡萄大量上市的季节，不少朋友在选购时发现，一些果实的果皮上长出一粒粒凸起的小疙瘩，摸起来还有些扎手。社交平台上，有人说是虫卵，有人怀疑是农药残留，还有人觉得是果子坏了。这样的葡萄能不能吃，心里直犯嘀咕。",
-      "url": "https://www.chinanews.com.cn/life/2026/09-03/10689185.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:26:46.000Z"
-    },
-    {
-      "id": "7d633591696c",
-      "title": "以“送养老金”“砸金蛋抽奖”为幌子 一团伙利用直播间诈骗老年收藏群体",
-      "summary": "一群骗子打着免费鉴宝、高价回收的幌子，吸引老年藏家进入直播间，再通过“认干亲”“送养老钱”“砸金蛋抽奖”等方式层层设套，诱导老人不断交纳费用，一步步骗取老年群体钱财，涉案金额超千万元，受害群众遍布全国多地，达上千人。",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-03/10689184.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:23:48.000Z"
-    },
-    {
-      "id": "06d00719ae0a",
-      "title": "年轻人社交，为何爱上讲方言",
-      "summary": "(新语)",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-03/10689183.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:22:48.000Z"
-    },
-    {
-      "id": "982fa8abb04f",
-      "title": "突发：美国土安全部长所乘飞机因故障紧急降落",
-      "summary": "中新网9月3日电 综合外媒报道，当地时间9月2日，一架搭载美国国土安全部长马克韦恩·马林的海岸警卫队飞机在华盛顿里根国家机场紧急降落。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689182.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:20:38.000Z"
-    },
-    {
-      "id": "ea2db7041a46",
-      "title": "双预警齐发！福建等地将有特大暴雨 出行注意防范",
-      "summary": "今日6时，中央气象台发布台风、暴雨黄色预警。预警涉及地区，注意防范！",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689181.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:19:40.000Z"
-    },
-    {
-      "id": "ef925085086c",
-      "title": "新学期北京公办幼儿园托班“应设尽设” 萌娃们适应吗？",
-      "summary": "新学期北京公办幼儿园实现托班“应设尽设”，越来越多2—3岁的小宝宝走进幼儿园，普惠托育服务打通家庭育儿的“痛点”，接住不少家长的育儿焦虑。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689180.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:17:40.000Z"
-    },
-    {
-      "id": "531b1a623e1e",
-      "title": "孩子写作业先问AI，家长怎么办",
-      "summary": "(教育优质均衡发展·四问“人工智能+教育”①)",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-03/10689179.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:14:41.000Z"
-    },
-    {
-      "id": "db5ea8155078",
-      "title": "中方强调妇女在和平文化中发挥独特和关键作用",
-      "summary": "新华社联合国9月2日电 联合国大会2日举行“和平文化行动纲领”高级别论坛，评估该行动纲领落实情况、探讨促进妇女在和平文化中的领导作用。中国常驻联合国副代表孙磊发言时强调，妇女在和平文化中发挥着独特和关键作用。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689177.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:09:17.000Z"
-    },
-    {
       "id": "afeb0f886514",
       "title": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
       "summary": "Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price falls China’s carbon dioxide emissions fell by 1% after the outbreak of…",
@@ -238,106 +418,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-02T23:01:37.000Z"
-    },
-    {
-      "id": "b59f8ae09901",
-      "title": "特朗普提议将霍尔木兹海峡更名为“特朗普海峡”",
-      "summary": "中新网9月3日电 据英国《卫报》报道，美国总统特朗普9月2日提议将霍尔木兹海峡更名为“特朗普海峡”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689175.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T23:00:39.000Z"
-    },
-    {
-      "id": "8055fe954401",
-      "title": "9月3日新闻早报",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-03/10689174.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T22:51:24.000Z"
-    },
-    {
-      "id": "7b2069fb09cf",
-      "title": "台风“沙德尔”在福建漳州漳浦古雷沿海第三次登陆",
-      "summary": "今年第18号台风“沙德尔”(热带风暴)的中心已于3日6时30分前后在福建省漳州市漳浦古雷沿海第三次登陆，登陆时中心附近最大风力有9级(23米/秒)，中心最低气压985百帕。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689173.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T22:48:19.000Z"
-    },
-    {
-      "id": "d54b944faafc",
-      "title": "秋天做好这3件事，全身都受益",
-      "summary": "春生夏长，秋收冬藏",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-03/10689172.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T22:45:13.000Z"
-    },
-    {
-      "id": "2c0a30f721eb",
-      "title": "特朗普威胁：“随时”准备对伊朗再次发动打击",
-      "summary": "中新网9月3日电 综合英国《卫报》、路透社报道，美国总统特朗普2日威胁说，美国“随时”准备对伊朗再次发动打击。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689171.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T22:43:21.000Z"
-    },
-    {
-      "id": "40487b9f9910",
-      "title": "特朗普称对伊朗的新一轮打击不会“持续太久”",
-      "summary": "当地时间9月2日，美国总统特朗普在白宫对记者表示，美国对伊朗的新一轮打击行动不会“持续太久”。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689170.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T22:43:17.000Z"
-    },
-    {
-      "id": "6dde0633180a",
-      "title": "美法官叫停特朗普政府关于“出生公民权”的最新行政令",
-      "summary": "当地时间9月2日，美国马里兰州联邦地区法院法官德博拉·博德曼发布初步禁令，阻止特朗普政府执行一项新的行政令。该行政令旨在限制有资格获得“出生公民权”的人数。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689168.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T22:40:07.000Z"
-    },
-    {
-      "id": "a438c67bfda2",
-      "title": "习近平主席特使、全国政协副主席咸辉出席赞比亚总统就职典礼",
-      "summary": "新华社卢萨卡9月2日电(记者叶挺)应赞比亚共和国政府邀请，习近平主席特使、全国政协副主席咸辉1日在赞比亚首都卢萨卡出席赞比亚总统希奇莱马就职典礼。2日，希奇莱马在总统官邸会见咸辉。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689169.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T22:37:45.000Z"
-    },
-    {
-      "id": "18d3f434099f",
-      "title": "用AI美化房源，营销边界如何划定？",
-      "summary": "部分房产中介利用AI进行“精装修”、炮制虚假房源引流，扰乱住房租赁市场",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689167.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-09-02T22:33:21.000Z"
-    },
-    {
-      "id": "dbaa8a5901e4",
-      "title": "英国政府推出“重塑英国”新政框架",
-      "summary": "中新社伦敦9月2日电 (记者 欧阳开宇)英国政府2日正式推出“重塑英国”新政框架，设立三大专项工作组，将公共服务管控、社区重建振兴、降低生活成本列为本届政府核心施政主轴，系统性调整英国长期经济与社会治理模式。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689166.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T22:26:28.000Z"
     },
     {
       "id": "eca0fc692bc0",
@@ -378,26 +458,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-02T19:26:32.000Z"
-    },
-    {
-      "id": "68404624f1e5",
-      "title": "新闻背景：大埃及博物馆",
-      "summary": "中新社开罗9月2日电 2025年11月1日正式开馆的大埃及博物馆是世界最大单一文明博物馆，占地约50万平方米，馆藏文物超过10万件，集纳了埃及从史前时代到罗马时期的大量珍贵文物，涵盖埃及数千年历史。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689165.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T19:19:47.000Z"
-    },
-    {
-      "id": "5b53b06ffa4d",
-      "title": "习近平圆满结束对埃及的国事访问",
-      "summary": "中新社开罗9月2日电 (记者 郭金超 谢雁冰)当地时间9月2日晚，中国国家主席习近平结束对埃及的国事访问。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689164.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-02T19:12:40.000Z"
     },
     {
       "id": "03677d620170",
@@ -468,16 +528,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-02T15:19:04.000Z"
-    },
-    {
-      "id": "d40dd27b58fd",
-      "title": "Palestinian Australian sues NSW police, claiming he was punched at Herzog rally when helping prayer group",
-      "summary": "Exclusive : Eyad Shadid launches civil case in district court after charges against him dropped, alleging he was ‘battered’ near Sydney’s town hall in February Follow our Austral…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/03/palestinian-australian-eyad-shadid-sues-nsw-police-punched-at-herzog-rally-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T15:00:28.000Z"
     },
     {
       "id": "a1bff74a0a93",
@@ -560,16 +610,6 @@
       "publishedAt": "2026-09-02T13:55:55.000Z"
     },
     {
-      "id": "1b5604a5b405",
-      "title": "‘Timidity is a virus’: Paul Keating fights the fading of the light as he seeks to enshrine his legacy",
-      "summary": "As a major new biography of the former prime minister goes on sale, he talks about meeting the Queen, Trump’s aims, and why his big vision will never fade Follow our Australia ne…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/02/timidity-is-a-virus-paul-keating-fights-the-fading-of-the-light-as-he-seeks-to-enshrine-his-legacy",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T13:24:50.000Z"
-    },
-    {
       "id": "bfbbc854d01e",
       "title": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI",
       "summary": "The company says it prioritizes safety, but suits allege its ChatGPT bot induced shooter to carry out attack in Canada OpenAI faces 30 new lawsuits filed on behalf of victims of…",
@@ -600,16 +640,6 @@
       "publishedAt": "2026-09-02T11:00:22.000Z"
     },
     {
-      "id": "b0cf7edb1e37",
-      "title": "Fatal Sydney shooting could be another case of mistaken identity, police say",
-      "summary": "A man shot dead in Merrylands West was not known to police, in a case with similarities to Tuesday’s killing in Campbelltown Get our breaking news email , free app or daily news…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/02/sydney-fatal-shooting-merrylands-west-possible-mistaken-identity-police-say-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T10:32:16.000Z"
-    },
-    {
       "id": "0859be90fbe5",
       "title": "Barclays faces complaint over backing for power plant near world’s largest mangrove forest",
       "summary": "Bangladeshi complainants allege Rampal power station’s pollution and climate risks threaten the Sunderbans, a world heritage site Barclays Bank is facing a formal complaint over…",
@@ -631,7 +661,7 @@
     },
     {
       "id": "a456459493b5",
-      "title": "「我從未去過的祖國」：600萬阿富汗人遭鄰國驅逐，在塔利班治下重新開始",
+      "title": "「我從未去過的祖國」：600萬人遭遣返阿富汗，在塔利班治下重新開始",
       "summary": "今年從巴基斯坦和伊朗遭遣返回阿富汗的人數，已再增加100萬。",
       "url": "https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC 中文",
@@ -678,16 +708,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-02T08:54:52.000Z"
-    },
-    {
-      "id": "3c06a35b069c",
-      "title": "NSW police investigating possible mistaken identity after fatal shooting in Sydney’s west – as it happened",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Ride share driver charged on allegations of committing sexual acts during booking A ride shar…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T08:48:17.000Z"
     },
     {
       "id": "fc3b4e4c2778",
@@ -1208,26 +1228,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-08-29T05:00:19.000Z"
-    },
-    {
-      "id": "906da75c2f87",
-      "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
-      "summary": "As one of Europe’s biggest consumers of gas the UK may be particularly exposed to heightened price volatility Europe is on course to enter the cooler months with gas stores at th…",
-      "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-29T05:00:19.000Z"
-    },
-    {
-      "id": "9ba0db537dc2",
-      "title": "The Witcher 3: Songs of the Past – Geralt of Rivia returns after a decade in the sun",
-      "summary": "Before The Witcher 4 arrives in 2028, CD Projekt Red is returning us to the world of The Witcher 3 for one last foray. Looks like wind’s still howlin’ The game that graced us wit…",
-      "url": "https://www.theguardian.com/games/2026/aug/28/the-witcher-3-songs-of-the-past-geralt-of-rivia-returns-after-a-decade-in-the-sun",
-      "source": "The Guardian Technology",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-08-28T13:00:00.000Z"
     }
   ]
 }
