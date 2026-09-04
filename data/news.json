@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T19:05:01.440Z",
+  "updatedAt": "2026-09-04T21:23:23.319Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,16 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "50b8cc60bf30",
+      "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+      "summary": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T20:21:52.000Z"
+    },
     {
       "id": "9cb04ffdbc04",
       "title": "Maria Bartiromo’s lawyer denies she was fired from Fox News anchor role",
@@ -844,7 +854,7 @@
       "title": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
       "summary": "Relocation coincides with proposed laws that opponents say would entrench power of US tech billionaires in country Dozens of protesters converged on Peter Thiel’s mansion in Buen…",
       "url": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
-      "source": "The Guardian World",
+      "source": "The Guardian Technology",
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-03T12:00:29.000Z"
@@ -1218,16 +1228,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-30T14:00:57.000Z"
-    },
-    {
-      "id": "c8d260c0aac9",
-      "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
-      "summary": "一些關於這場致命山洪暴發最驚人的畫面，中國官方媒體未對公眾播放。",
-      "url": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-08-30T12:37:59.000Z"
     }
   ]
 }
