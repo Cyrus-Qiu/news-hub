@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T11:40:20.901Z",
+  "updatedAt": "2026-09-04T16:14:56.315Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,214 +30,444 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "5355acf3c357",
-      "title": "江南水乡浙江绍兴：“爷爷和七个葫芦”吸引游客",
-      "summary": "9月4日，游客在河对岸拍摄打卡“爷爷和七个葫芦”。 中新社记者 项菁 摄 9月4日，爷爷和河对岸的游客招手。 中新社记者 项菁 摄 9月4日，游客在爷爷家对岸拍照留念。 中新社记者 项菁 摄 9月4日，爷爷种出的七个葫芦。 中新社记者 项菁 摄 9月4日，爷爷种出的七个葫芦吸引游客围观。 中新社记者 项菁 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690556.shtml",
+      "id": "e86f8cbd5749",
+      "title": "乌国家安全局遭袭 美总统特使访问计划“可能有变”",
+      "summary": "乌克兰总统泽连斯基4日在社交媒体发文称，位于乌首都基辅市中心的乌国家安全局总部当天遭俄军无人机袭击。乌克兰媒体同日援引消息人士的话报道称，出于安全担忧，计划访问俄罗斯和乌克兰的美国总统特使威特科夫正在考虑代替访问的其他方案。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690741.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:34:30.000Z"
-    },
-    {
-      "id": "d46fd867c401",
-      "title": "香港“2026盂兰文化节”开幕 传播中华慈孝文化",
-      "summary": "中新社香港9月4日电 (记者 戴小橦)“2026盂兰文化节”4日在香港维多利亚公园开幕。活动中的“抢孤竞赛”吸引来自韩国、马来西亚、缅甸等国家和地区的参赛者来港角逐，沉浸式感受这项中国国家级非物质文化遗产的魅力。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-04/10690510.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T11:33:20.000Z"
-    },
-    {
-      "id": "c0d9d97719b2",
-      "title": "中国拟加强私募基金募集业务监管",
-      "summary": "中新社北京9月4日电 (记者 陈康亮)中国证监会4日就《私募投资基金募集监督管理办法(征求意见稿)》(下称募集办法)向社会公开征求意见。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690509.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T11:33:04.000Z"
-    },
-    {
-      "id": "28f7dfa69910",
-      "title": "李希在贵州调研时强调 深入学习贯彻习近平党建思想 抓深抓实全面从严治党和反腐败工作",
-      "summary": "新华社贵阳9月4日电 中共中央政治局常委、中央纪委书记李希1日至3日到贵州调研。他强调，纪检监察机关要坚持以习近平新时代中国特色社会主义思想为指导，深入学习贯彻习近平党建思想，深刻领悟“两个确立”的决定性意义、坚决做到“两个维护”，认真抓好中央纪委五次、六次全会精神贯彻落实，巩固拓展树立和践行正确政绩观学习教育成果，扎实开展“纪检监察工作规范化法治化正规…",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690561.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T11:31:00.000Z"
-    },
-    {
-      "id": "02920904526c",
-      "title": "中央广播电视总台《小喇叭》节目开播70周年座谈会在京举行 李书磊宣读习近平总书记贺信并讲话",
-      "summary": "新华社北京9月4日电 中央广播电视总台《小喇叭》节目开播70周年座谈会4日在京举行。中共中央政治局委员、中宣部部长李书磊出席，宣读习近平总书记贺信并讲话。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690560.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T11:29:32.000Z"
-    },
-    {
-      "id": "2a45fb27aab5",
-      "title": "东西问丨刘卿：一江溯源何以对话六国？从澜沧江源读懂文明互鉴与睦邻共生",
-      "summary": "中新社西宁9月4日电 题：一江溯源何以对话六国？从澜沧江源读懂文明互鉴与睦邻共生",
-      "url": "https://www.chinanews.com.cn/dxw/2026/09-04/10690511.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T11:21:56.000Z"
-    },
-    {
-      "id": "ce9c53e2bf21",
-      "title": "2026年度“韩国小记者中国行”启动",
-      "summary": "中新网首尔9月4日电 (记者 金旭)当地时间9月4日，“韩国小记者中国行”在中国驻韩国大使馆举行启程仪式。中国驻韩国大使戴兵、韩中经济文化教育协会理事长申京淑等出席。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690508.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T11:21:38.000Z"
-    },
-    {
-      "id": "683794fedb58",
-      "title": "以军：打死哈马斯精锐部队一名连级指挥官",
-      "summary": "中新网9月4日电 据《以色列时报》报道，当地时间9月4日，以色列国防军称，以军2日在对加沙南部汗尤尼斯地区的空袭中，打死了哈马斯精锐部队“努赫巴”一名连级指挥官穆罕默德·马哈茂德·马尔沙德·卡迪。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690546.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T11:17:31.000Z"
+      "publishedAt": "2026-09-04T15:49:38.000Z"
     },
     {
       "id": "25c9cfe75984",
-      "title": "Romanian prosecutors indict Andrew Tate for trafficking minors, money laundering – Europe live",
-      "summary": "Authorities formally indicted the controversial manosphere influencer along with his brother for a number alleged crimes in Magdeburg, Saxony-Anhalt Polls have suggested that the…",
+      "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – Europe live",
+      "summary": "Ukraine’s president Volodymyr Zelenskyy reported a Russian drone hit the headquarter of the security service of Ukraine, in Kyiv in Magdeburg, Saxony-Anhalt Polls have suggested…",
       "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-09-04T11:17:10.000Z"
+      "publishedAt": "2026-09-04T15:43:46.000Z"
     },
     {
-      "id": "84ceff9fea32",
-      "title": "全国总工会开展2026年全国劳模工匠创新工作室支持建设工作",
-      "summary": "中新网北京9月4日电 (记者 余湛奕)记者4日从全国总工会获悉，近日，全国总工会印发通知，确定2026年支持建设600个全国劳模工匠创新工作室，全国总工会给予每个创新工作室10万元补助资金，旨在进一步激发职工创新创造活力，更好发挥劳模工匠示范引领作用。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690505.shtml",
+      "id": "3699defcceb3",
+      "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
+      "summary": "Volodymyr Zelenskyy says he has told SBU to deliver ‘appropriate, tangible response’ to Kyiv strike The head office of Ukraine’s SBU intelligence agency has been hit in a Russian…",
+      "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T15:37:52.000Z"
+    },
+    {
+      "id": "cf1a4612700c",
+      "title": "Germany urges EU to cut Russians’ holiday visas after sabotage attacks",
+      "summary": "Belarusian said to have had tourist visa issued by Italy is investigated over alleged attempt to attack Leipzig airport Europe live – latest updates Germany is urging its Europea…",
+      "url": "https://www.theguardian.com/world/2026/sep/04/germany-russian-visas-eu-countries",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T15:22:53.000Z"
+    },
+    {
+      "id": "b88700ad4523",
+      "title": "记者手记：吉隆口岸的迷彩守护",
+      "summary": "新华社西藏吉隆9月3日电 记者手记：吉隆口岸的迷彩守护",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690740.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:16:43.000Z"
+      "publishedAt": "2026-09-04T15:20:39.000Z"
     },
     {
-      "id": "24c69cf841d2",
-      "title": "于Netflix拿下全球第二 《早春晴朗》海外热播的背后",
-      "summary": "中新网北京9月4日电(记者 高凯)2026年暑期档尾声，国产剧市场出现了一匹意想不到的黑马。",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-04/10690536.shtml",
+      "id": "886939dea435",
+      "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
+      "summary": "Troops escort settlers into al-Mughayyir and raze village outside Hebron as ethnic cleansing of West Bank continues Israelis have shot dead two teenagers in a Palestinian village…",
+      "url": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-04T15:12:53.000Z"
+    },
+    {
+      "id": "5751b8387c5d",
+      "title": "专家：白露养生重在顺应天时 核心在于“润”“敛”",
+      "summary": "中新网广州9月4日电 (记者 蔡敏婕)今年9月7日将迎来白露节气，这是秋季的第三个节气，暑气至此渐消，昼夜温差明显拉大。",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-04/10690739.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:16:27.000Z"
+      "publishedAt": "2026-09-04T15:01:20.000Z"
     },
     {
-      "id": "8722e64848ed",
-      "title": "【好评中国】9.54亿人次奔赴，映照热气腾腾的“活力中国”",
-      "summary": "据中国铁路消息，8月31日，为期62天的铁路暑运圆满结束。7月1日至8 月31日，全国铁路累计发送旅客 9.54亿人次，国家铁路累计发送货物 6.8 亿吨，铁路运输安全平稳有序。这个夏天，亿万旅客的出行脚步，汇成奔涌不息的时代洪流，映照出热气腾腾的“活力中国”。",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-04/10690539.shtml",
+      "id": "5d5b2ca38cd5",
+      "title": "Australia’s housing prices are trending down. See which suburbs have had the biggest falls",
+      "summary": "Cotality says prices have declined in most capital cities over winter. Search the data to see how they have changed in your area Get our breaking news email , free app or daily n…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/05/house-prices-trending-down-sydney-melbourne-brisbane-perth-darwin",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T15:00:12.000Z"
+    },
+    {
+      "id": "6328a18311d6",
+      "title": "2026年“一带一路”脑健康与脑器交互科技国际会议在成都开幕",
+      "summary": "中新网成都9月4日电 (王利文)2026年“一带一路”脑健康与脑器交互科技国际会议4日在成都召开。会议由四川省科学技术厅等单位指导，电子科技大学主办，中国—古巴神经技术与脑器交互“一带一路”联合实验室等承办，来自12个国家和地区的近千名专家、学者和企业家参会。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690738.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:12:25.000Z"
+      "publishedAt": "2026-09-04T14:58:57.000Z"
     },
     {
-      "id": "005e3b95c069",
-      "title": "水利部：西藏吉隆堰塞湖河道过流正常 冰湖整体稳定",
-      "summary": "记者从水利部了解到，最新无人机航摄显示，西藏吉隆原普热普强藏布堰塞湖上下游河道过流正常，尼泊尔错坚河冲击坑水体正常过流。前期排查的14个冰湖整体稳定，其中9个面积略减、5个略增。堰塞湖下游小规模滑坡体对河道影响较小。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690537.shtml",
+      "id": "b337f903e885",
+      "title": "祥鹏航空乌鲁木齐&#x21cc;和田&#x21cc;阿里航线顺利首航 畅通疆藏联动空中廊道",
+      "summary": "中新网拉萨9月4日电(白玛玉珍 周柄帆 艾芯羽)9月3日13时05分，祥鹏航空8L9994航班平稳降落在和田昆冈机场，机场以民航最高礼仪“过水门”仪式迎接航班抵达，标志着乌鲁木齐#8652;和田#8652;阿里航线顺利完成首航。至此，新疆乌鲁木齐、和田与西藏阿里三地间的空中通道正式贯通，为沿线民众出行及区域经贸文旅交流提供了更便捷的航空保障。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690737.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:10:37.000Z"
+      "publishedAt": "2026-09-04T14:58:43.000Z"
     },
     {
-      "id": "c0d1f04416b6",
-      "title": "第八届中俄能源商务论坛开幕 丁薛祥宣读习近平主席贺信并致辞",
-      "summary": "新华社符拉迪沃斯托克9月4日电(记者王慧慧 孙萍)当地时间9月4日，中共中央政治局常委、国务院副总理丁薛祥在俄罗斯符拉迪沃斯托克出席第八届中俄能源商务论坛开幕式，宣读习近平主席贺信并致辞。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690535.shtml",
+      "id": "964c44be2328",
+      "title": "广东数字化赋能就业服务 打通求职服务“最后一公里”",
+      "summary": "中新网广州9月4日电 (记者 王坚)“百万英才汇南粤”是广东启动实施的高规格招才引智行动计划，“粤就业”作为“百万英才汇南粤”行动省级平台，以数字化手段，为高校毕业生和各类人才搭建起高效便捷的线上对接渠道。目前，“粤就业”累计发布“百万英才汇南粤”招聘活动超2000场次，线上平台参加招聘企业累计超4.6万家，归集岗位超247万个。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690736.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:08:25.000Z"
+      "publishedAt": "2026-09-04T14:58:29.000Z"
     },
     {
-      "id": "de3229e3fa7c",
-      "title": "2026年曲棍球青年亚洲杯赛在内蒙古开赛",
-      "summary": "中新社内蒙古呼伦贝尔9月4日电 (记者 张玮)2026年曲棍球青年亚洲杯赛4日在内蒙古自治区呼伦贝尔市莫力达瓦达斡尔族自治旗(简称“莫旗”)开赛。来自9个国家的20支代表队参赛。",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-04/10690502.shtml",
+      "id": "b387dbcec8d6",
+      "title": "绿色合作持续转型 外商投资企业“对话山西”",
+      "summary": "中新网太原9月4日电 (记者 李庭耀)4日下午，作为2026年太原能源低碳发展论坛五场国际会议之一，“投资中国 对话山西”外商投资企业圆桌论坛在山西太原举办。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690735.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:07:07.000Z"
+      "publishedAt": "2026-09-04T14:58:13.000Z"
     },
     {
-      "id": "47c00b96b909",
-      "title": "内蒙古贺兰山科考发现6个新物种",
-      "summary": "中新社呼和浩特9月4日电 (记者 陈峰)内蒙古贺兰山第二次综合科学考察成果新闻发布会4日在呼和浩特召开。记者从会上获悉，本次历时3年的系统性科考，共发现6个新物种。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690501.shtml",
+      "id": "9a52db4c2a65",
+      "title": "直击福建莆田抢险：救援清淤不松懈 安置保障暖民心",
+      "summary": "中新社福建莆田9月4日电 题：直击福建莆田抢险：救援清淤不松懈 安置保障暖民心",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690731.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:06:45.000Z"
+      "publishedAt": "2026-09-04T14:57:03.000Z"
     },
     {
-      "id": "bd0a94d29970",
-      "title": "中国工信部组织实施人工智能中小企业创业支持计划",
-      "summary": "中新社北京9月4日电 中国工信部4日发布《人工智能中小企业创业支持计划(2026-2028年)》(简称计划)，进一步激发人工智能中小企业创业创新活力，推动优质中小企业持续涌现。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690492.shtml",
+      "id": "30c3e014a367",
+      "title": "中新健康｜腰围莫名变粗、腹胀不消？当心是卵巢癌早期信号",
+      "summary": "中新网北京9月4日电(记者 赵方园)近期，不少人开始留意卵巢癌的相关话题。不同于筛查手段已经很成熟的宫颈癌、乳腺癌，卵巢癌位置隐匿，很容易被人们忽略。",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-04/10690729.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:05:45.000Z"
+      "publishedAt": "2026-09-04T14:56:29.000Z"
+    },
+    {
+      "id": "820ae1d852a7",
+      "title": "“张雪机车”德比斯法国站夺杆位 队友排第二",
+      "summary": "新华社马尼库尔9月4日电(记者周楚昀)世界超级摩托车锦标赛法国站4日在讷韦尔-马尼库尔赛道举行，中国摩托车制造商“张雪机车”车手瓦伦丁·德比斯在WorldSSP组别排位赛中获得杆位，队友卡里卡苏洛排名第二。",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-04/10690732.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:53:55.000Z"
+    },
+    {
+      "id": "810fed90b53b",
+      "title": "I dug through hundreds of Labor Day sales to find real deals on high-quality products that last",
+      "summary": "Cut through the noise with our round up of worthy Labor Day deals at brands including Caraway, Kiehl’s, Monos and Sony College grads share the room essentials that weathered the…",
+      "url": "https://www.theguardian.com/thefilter-us/2026/aug/28/best-labor-day-sales-deals",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-04T14:52:03.000Z"
+    },
+    {
+      "id": "0aa29c9b6820",
+      "title": "多款“硬核”人形机器人亮相第二十一届中博会具身智能展",
+      "summary": "中新网广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会正在广州举行，在具身智能展区，近70家企业携核心产品参展，覆盖核心零部件、人形机器人整机、AI算法和行业应用等产业链关键环节，呈现行业技术创新与应用落地成果。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690728.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:51:33.000Z"
+    },
+    {
+      "id": "1b0762979d37",
+      "title": "UN to vote on adopting new world map that shows Africa’s true scale",
+      "summary": "Togo-sponsored resolution calls to phase out traditional map that depicts continent as similar size to Greenland The UN general assembly will vote on Friday on a resolution for t…",
+      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T14:45:21.000Z"
+    },
+    {
+      "id": "0237a5b29d45",
+      "title": "5年建500家零碳工厂！中国工厂正在加速变绿",
+      "summary": "今年7月，国家级零碳工厂建设正式启动。“十五五”期间，我国要培育建设500家零碳工厂。从北京亦庄的风电装备工厂，到上海金山的电缆厂，零碳工厂正逐步从概念变成现实。零碳工厂到底长啥样？它会给生产生活带来怎样的变化呢？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690727.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:40:24.000Z"
+    },
+    {
+      "id": "2838451addb3",
+      "title": "“千年药乡”甘肃开“仓”迎客",
+      "summary": "中新网甘肃定西9月4日电 (戴文昌 田鹏鹤)4日，第七届中国(甘肃)中医药产业博览会在甘肃省定西市陇西县开幕。素有“千年药乡”“天然药仓”之称的甘肃，正式开“仓”迎客，上千名海内外客商循着药香而来。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690726.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:37:10.000Z"
+    },
+    {
+      "id": "b9c8a23b4c41",
+      "title": "Deadly escalation in Black Sea attacks prompts fears of even higher food prices",
+      "summary": "Russian and Ukrainian strikes in July killed more crew than in whole war to that month, preventing grain exports A summer of hostilities in the Black Sea proved deadly for seafar…",
+      "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T14:35:16.000Z"
+    },
+    {
+      "id": "2ff1113b95f4",
+      "title": "中国首个科学玩具团体标准发布",
+      "summary": "中新网北京9月4日电 (记者 孙自法)如何界定科学玩具、科学玩具有哪些类别、有什么基本要求和功能要求……作为中国首个科学玩具团体标准，中国科普作家协会9月4日发布的《科学玩具分类和功能要求》给出了明确答案。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690725.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:33:26.000Z"
     },
     {
       "id": "7d4b6118ca24",
-      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣復名、中國退展，改名風波背後透露什麼",
+      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣復名、中國退展，改名風波背後的角力",
       "summary": "8月初，韓國舉行的光州雙年展因主辦單位改動「台灣館」名稱陷入爭議。事件曝光後，台灣參展藝術家提出抗議，當地許多藝術家、民眾也進行聲援。主辦單位最終同意恢復使用「台灣館」，但引起中方不滿。",
       "url": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC 中文",
       "category": "国际",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:04:50.000Z"
+      "publishedAt": "2026-09-04T14:33:16.000Z"
     },
     {
-      "id": "a85c5482242f",
-      "title": "事关养老！两项强制性标准为养老机构运营划定红线",
-      "summary": "中新网北京9月4日电(记者 左雨晴) 随着我国老龄人口规模的不断扩大，养老服务越来越受到全社会关注。9月4日，记者从市场监管总局专题新闻发布会上获悉，近期，市场监管总局会同民政部制定并发布了《养老机构基本规范》《养老机构重大事故隐患判定准则》2项强制性国家标准，旨在切实保障养老服务安全和老年人生命健康权益。两项强制性国家标准将于2027年8月1日起正式实…",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690514.shtml",
+      "id": "3dd84edce229",
+      "title": "广西崇左市宁明县多措并举推进灾后农业复产工作",
+      "summary": "中新网崇左9月4日电(吕桂文)受台风“紫檀”影响，广西崇左市宁明县近期遭遇严重洪涝灾害，农业生产损失惨重。洪水退去后，该县及早谋划，迅速行动，多措并举推动灾后复产复种工作，以弥补台风造成的经济损失。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690723.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:01:22.000Z"
+      "publishedAt": "2026-09-04T14:32:36.000Z"
     },
     {
-      "id": "73613812a23c",
-      "title": "五台山，你变了！",
-      "summary": "听说今年的五台山很“清凉”。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690528.shtml",
+      "id": "2fcae995faab",
+      "title": "文博IP从展厅走向街头 上海旅游节经典活动季启幕",
+      "summary": "中新网上海9月4日电 (杨硕 李佳佳)第37届上海旅游节大巡游以“上海之约·美好相逢”为主题，近期将在外滩金牛广场启幕。本届大巡游在方队节目编排上首次实现与同期重磅文博展览的IP联动，让文博IP从“展厅”走向“街头”。这是记者4日从第37届上海旅游节经典活动季重点主题活动新闻通气会上获得的信息。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690722.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T11:01:06.000Z"
+      "publishedAt": "2026-09-04T14:32:15.000Z"
     },
     {
-      "id": "91ee3e49f333",
-      "title": "“2026盂兰文化节”香港启幕 多彩活动传承国家级非遗",
-      "summary": "图为“2026盂兰文化节”上展出的折纸作品。中新网记者 张祥毅 摄 图为现场布置的油纸灯笼和花牌。中新网记者 张祥毅 摄 图为嘉宾体验抢孤竞赛。中新网记者 张祥毅 摄 图为香港特区政府民政及青年事务局局长麦美娟在开幕式上致辞。中新网记者 张祥毅 摄 图为民众在摊位上体验抢孤竞赛。中新网记者 张祥毅 摄 图为游客在互动摊位了解和体验盂兰文化。中新网记者 张…",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690500.shtml",
+      "id": "f2266215f1d1",
+      "title": "辽宁省汇聚慈善力量让红山文化“活起来”",
+      "summary": "中新网沈阳9月4日电 (记者 李晛)9月5日是中国第十一个“中华慈善日”。2026年“中华慈善日”主题宣传暨红山文化特色主题“古国牛河梁”即开型福利彩票全国上市发行活动9月4日在沈阳举办。辽宁省政府副省长楚天运出席活动并致辞。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690721.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-04T10:57:10.000Z"
+      "publishedAt": "2026-09-04T14:31:33.000Z"
+    },
+    {
+      "id": "d15df413ca1e",
+      "title": "实景园林绘烟火群像 《兰香如故》官宣定档",
+      "summary": "中新网北京9月4日电 (记者 高凯)由桐华、箫楼编剧，黄颖湘、陈丹执导的古装社会家庭大剧《兰香如故》4日官宣定档，将于9月11日起在CCTV-8播出。",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-04/10690720.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:31:03.000Z"
+    },
+    {
+      "id": "b11e1be9e0db",
+      "title": "福建莆田洪灾安置点灯火暖",
+      "summary": "中新网莆田9月4日电 (叶秋云)4日，中新网一行驱车从莆田仙游前往市城厢区，沿途多处可见滑坡、塌方，多辆汽车因涉水抛锚。在华亭镇，积水仍未退去，消防救援人员正紧急转移民众。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690719.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:28:51.000Z"
+    },
+    {
+      "id": "2025a44c7b42",
+      "title": "第七届辽洽会深耕东北亚经贸合作 蒙古国担任主宾国",
+      "summary": "中新网沈阳9月4日电 (记者 韩宏)记者4日从辽宁省政府新闻办召开的发布会上获悉，第七届中国辽宁国际投资贸易洽谈会(以下简称“辽洽会”)持续深耕东北亚经贸合作圈，邀请蒙古国作为本届辽洽会主宾国。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690716.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:28:29.000Z"
+    },
+    {
+      "id": "66cc18cbc11f",
+      "title": "首届全国科普创作者大会开幕 中国科普作家协会解读四大关键词",
+      "summary": "中新网浙江湖州9月4日电 (记者 孙自法)作为2026年全国科普月的一项重要活动，由中国科普作家协会主办的首届全国科普创作者大会9月4日在浙江省湖州市德清县开幕。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690714.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:27:17.000Z"
+    },
+    {
+      "id": "db2b82ef1cca",
+      "title": "第二十一届中博会在广州继续开展 吸引参观者",
+      "summary": "9月4日，埃及展区的工作人员向参观者推荐地毯。第二十一届中国国际中小企业博览会（简称“中博会”）于9月3日至6日在广州市广交会展馆开展。本届中博会国际展区及港澳台展区展位总数718个，共有来自43个国家（地区）及国际组织的510家优秀企业参展。中新社记者 陈楚红 摄 9月4日，希腊展区的工作人员为参观者调制饮品。第二十一届中国国际中小企业博览会（简称“中…",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690691.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:25:57.000Z"
+    },
+    {
+      "id": "5049937f3229",
+      "title": "天津：民众打卡旅博会解锁多元文旅新体验",
+      "summary": "9月4日，天津，民众参观掐丝工艺品。当日，2026中国文化旅游产业博览会迎来公众开放日，吸引许多市民和游客逛展打卡，沉浸式解锁多元文旅新体验。中新社记者 佟郁 摄 9月4日，天津，民众沉浸式体验VR摩托骑行。当日，2026中国文化旅游产业博览会迎来公众开放日，吸引许多市民和游客逛展打卡，沉浸式解锁多元文旅新体验。中新社记者 佟郁 摄 9月4日，天津，民众…",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690684.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:25:35.000Z"
+    },
+    {
+      "id": "5d6586521341",
+      "title": "宁夏各地机场升级服务 以文旅融合打造有温度的城市门户",
+      "summary": "中新网银川9月4日电 (记者 李佩珊)记者4日从宁夏机场公司获悉，银川、中卫、固原三地机场今后将不再局限于航空运输中转功能，立足“城市会客厅”定位，将本土风物、地域文化融入航站楼服务细节，让往来旅客在出行途中感受塞上大地的温情。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690715.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:25:27.000Z"
+    },
+    {
+      "id": "2b856c4c5236",
+      "title": "海南精细化规范城镇开发边界管理 提升国土空间治理水平",
+      "summary": "中新网海口9月4日电 (尹建军 陈甲勇)记者4日从海南省自然资源和规划厅获悉，《海南省城镇开发边界管理实施细则(试行)》近日在全国率先出台，通过细化管控标准、优化调整规则、创新激励机制，进一步健全城镇开发边界精细化管理体系，有效破解规划落地难题、提升国土空间治理水平。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690712.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:25:15.000Z"
+    },
+    {
+      "id": "303b9d2b8801",
+      "title": "多方在广州签约共建烧伤跨境医疗服务枢纽",
+      "summary": "中新网广州9月4日电 (记者 蔡敏婕)南福烧伤国际论坛4日在广州开幕。广州市红十字会医院在会议上与多方签约共建烧伤跨境医疗服务枢纽，并且构建烧伤航空医疗救护网络体系。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690711.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:20:43.000Z"
+    },
+    {
+      "id": "7e9a22f8981b",
+      "title": "四川省首批医药健康科技创新企业联合专项启动",
+      "summary": "中新网成都9月4日电 (王利文)9月4日，四川省首批医药健康科技创新企业联合专项在成都正式启动。作为四川省级层面探索社会力量捐资纳入科技计划体系的创新实践，专项将聚焦医药健康关键领域开展技术攻关，推动产业核心竞争力提升。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690710.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:20:31.000Z"
+    },
+    {
+      "id": "c427767bb232",
+      "title": "天津发布2025年度居民健康报告 居民期望寿命达82.80岁",
+      "summary": "中新网天津9月4日电 (记者 江莹)天津市卫生健康委4日召开新闻发布会，发布《天津市居民健康状况报告(2025年度)》(以下简称《报告》)，全面披露当地居民整体健康水平、重点疾病发病与死亡原因分析、健康风险防控等最新核心数据，系统呈现天津居民健康现状。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690695.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:20:15.000Z"
+    },
+    {
+      "id": "2230a590d467",
+      "title": "养老服务领域两项强制性国家标准发布",
+      "summary": "中新网北京9月4日电 4日，市场监管总局联合民政部在北京召开专题新闻发布会，介绍与养老服务强制性国家标准相关的工作情况。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690689.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:20:03.000Z"
+    },
+    {
+      "id": "7bfd562057ac",
+      "title": "多部门172名专家携150台套设备持续监测西藏吉隆泥石流灾区",
+      "summary": "中新网西藏吉隆9月4日电 (记者 赵朗 江飞波)记者4日从西藏吉隆县“8·26”泥石流灾害前方指挥部获悉，灾害发生以来，多部门集中优势技术力量及装备，持续在灾区开展监测预警作业。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690703.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-04T14:18:37.000Z"
+    },
+    {
+      "id": "d7023f94944c",
+      "title": "Woman, 45, killed in Florence in seventh alleged femicide in Italy since mid-August",
+      "summary": "Lorena Isceri was thrown off a motorway bridge, allegedly by ex-boyfriend Federico Vella A 45-year-old woman abducted and thrown off a motorway bridge near Florence has become th…",
+      "url": "https://www.theguardian.com/world/2026/sep/04/lorena-isceri-killed-in-florence-femicide-italy",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T13:56:14.000Z"
+    },
+    {
+      "id": "0153c02ef063",
+      "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
+      "summary": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas Colombia’s hardline president, Abelardo De La Espriell…",
+      "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T13:50:43.000Z"
+    },
+    {
+      "id": "a39b7624fa6c",
+      "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
+      "summary": "Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in August The US economy added 162,000 jobs in August, an uptick after a sluggish s…",
+      "url": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-04T12:40:44.000Z"
+    },
+    {
+      "id": "bbb5e05dc0ff",
+      "title": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
+      "summary": "Family-run Al-Qarara Seed Bank is striving to help Palestinians gain sovereignty over their food security Salama Ayesh Muhanna still remembers the first seeds he planted on his f…",
+      "url": "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-04T12:37:57.000Z"
+    },
+    {
+      "id": "bfe5c5afc6f9",
+      "title": "US military disables ad trackers on troops’ phones amid security fears",
+      "summary": "Senator releases letters from armed forces after reports of location data being used to track US troops in Middle East US military officials say they have disabled advertising tr…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
+      "source": "The Guardian Technology",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T12:36:01.000Z"
     },
     {
       "id": "6cd68e91db6f",
@@ -248,116 +478,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-04T10:56:52.000Z"
-    },
-    {
-      "id": "c0d4df67a65a",
-      "title": "东西问丨张兴龙：贵州穿洞遗址何以重构史前人类交流图景？",
-      "summary": "中新社贵阳9月4日电 题：贵州穿洞遗址何以重构史前人类交流图景？",
-      "url": "https://www.chinanews.com.cn/dxw/2026/09-04/10690512.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:56:22.000Z"
-    },
-    {
-      "id": "ae09ea5c632f",
-      "title": "今年前七个月安徽省属企业研发经费投入强度居长三角第一",
-      "summary": "中新网合肥9月4日电 (记者 赵强)记者4日从安徽国资国企履行社会责任情况新闻发布会获悉，今年1月至7月，安徽省属企业研发经费投入强度居全国省级国资监管企业第四、长三角第一位。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690496.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:50:41.000Z"
-    },
-    {
-      "id": "7f8edc3715b1",
-      "title": "三峡坝区：一路山水一路景",
-      "summary": "夏尽秋初，湖北省宜昌市夷陵区峡谷纵深、群峰叠翠，高速公路、国省干线与通村支线立体交织。路网穿山越谷，串联起一路好风景，为乡村振兴注入了活力。夷陵是三峡工程所在地，当地持续优化路网布局，完善路网配套，以畅通交通脉络激活乡村发展动能，目前该区公路网通车里程约5400公里。图为高速公路与省道穿越村庄。（无人机照片）望作信 摄 夏尽秋初，湖北省宜昌市夷陵区峡谷纵…",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-04/1203166.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:50:03.000Z"
-    },
-    {
-      "id": "19a61852dbfe",
-      "title": "全国首位“餐饮科学与技术”交叉学科博士在扬州大学入学",
-      "summary": "中新网扬州9月4日电 (徐珊珊 徐华林)2026年9月，扬州大学旅游烹饪学院迎来了一位特殊的新生——高苏敏。她正式报到注册，成为全国首位“餐饮科学与技术”交叉学科博士研究生。这标志着我国餐饮领域博士层次人才培养实现了零的突破。",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-04/10690495.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:49:45.000Z"
-    },
-    {
-      "id": "c1f6122492b5",
-      "title": "香港工商界举办国庆酒会 共话融入国家发展大局新机遇",
-      "summary": "中新网香港9月4日电 (记者 戴小橦)“香港工商界同胞庆祝中华人民共和国成立77周年国庆酒会”4日在香港举行。香港工商界同胞庆祝国庆筹委会主席团执行主席、香港中华总商会会长蔡冠深表示，期待香港第一个五年规划与新一份施政报告落地见效，引领香港发展提质升级、惠及社会民生。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-04/10690499.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:49:29.000Z"
-    },
-    {
-      "id": "7d4564691696",
-      "title": "北京构建多层次托幼服务体系 今年新增公办园托位1万余个",
-      "summary": "中新网北京9月4日电 (记者 陈杭)记者4日从北京市教委获悉，今年以来，北京进一步聚焦0—6岁婴幼儿家庭对婴幼儿科学照护的刚需和婴幼儿健康成长的刚需，积极构建多层次托幼服务体系，以优质普惠为导向完善基本需求类托幼服务，以托育亲子活动为起点做优升级类托幼服务，以“京小宝”为载体探索个性化托幼服务。",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-04/10690494.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:49:13.000Z"
-    },
-    {
-      "id": "b155678a21ea",
-      "title": "太行山里的“领头雁”",
-      "summary": "中新网太原9月4日电 题：太行山里的“领头雁”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690497.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:48:59.000Z"
-    },
-    {
-      "id": "8444644b9a46",
-      "title": "乐享开学季 上海自然博物馆构筑趣味科普空间",
-      "summary": "中新网上海9月4日电 (记者 郑莹莹)上海自然博物馆于4日发布“人类起源大冒险”等5款“趣玩研学”教育盒子，让儿童在“玩”中观察、在“探”中思辨、在“做”中求知。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690493.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:48:41.000Z"
-    },
-    {
-      "id": "c513ebea7c4a",
-      "title": "宁夏银川：赓续长征红色血脉 筑牢全民国防根基",
-      "summary": "中新网银川9月4日电 (记者 李佩珊)9月4日，宁夏银川市举行2026年“全民国防教育月”活动启动仪式。本次活动以“弘扬伟大长征精神 同心共筑强大国防”为主题，常态化、规范化推进全民国防教育工作。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690513.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:48:19.000Z"
-    },
-    {
-      "id": "28abe65853e8",
-      "title": "中国艺术研究院写意画院2025级结业作品展亮相炎黄艺术馆",
-      "summary": "中新网北京9月4日电 (记者 应妮)由中国艺术研究院、炎黄艺术馆主办的“以心通境——中国艺术研究院写意画院2025级结业作品展”在日前北京炎黄艺术馆开幕。",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-04/10690484.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:48:01.000Z"
-    },
-    {
-      "id": "066aa82225da",
-      "title": "京津冀台商探访吉林市 产业文旅双线寻机遇",
-      "summary": "中新网吉林9月4日电 (记者 石洪宇)“京津冀台商吉林行”吉林市站活动4日启幕。60余位台商代表先后走进吉林化纤集团、吉林市博物馆、吉林北山四季越野滑雪场等地，近距离体验“北国江城”的产业活力与文旅魅力。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690491.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:47:43.000Z"
     },
     {
       "id": "fb4aa610e2b7",
@@ -390,14 +510,14 @@
       "publishedAt": "2026-09-04T10:00:05.000Z"
     },
     {
-      "id": "2ced24161292",
-      "title": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
-      "summary": "Under-pressure carmaker will shed 15% of workforce and halve its product line in sector’s biggest ever restructure The car company Volkswagen has approved controversial plans to…",
-      "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-      "source": "The Guardian World",
+      "id": "f89108273b4a",
+      "title": "Private equity faces existential crisis in US as unsold companies pile up",
+      "summary": "Private equity firms and the companies they own employ over 13 million, from startups to rural hospitals and large retailers, but experts’ concerns of collapse are growing Retail…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/private-equity-boom-hospital-job-layoff",
+      "source": "The Guardian Business",
       "category": "商业",
       "language": "en",
-      "publishedAt": "2026-09-04T09:43:58.000Z"
+      "publishedAt": "2026-09-04T10:00:04.000Z"
     },
     {
       "id": "c7808dfec7a7",
@@ -418,16 +538,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-04T09:31:52.000Z"
-    },
-    {
-      "id": "ec8eed489155",
-      "title": "Health-tracking smart ring maker Oura to list on US stock market",
-      "summary": "Valuation above $11bn expected for firm whose fans include Prince Harry, Jennifer Aniston and Kim Kardashian Fans of Oura are accustomed to using its trendy smart rings to fastid…",
-      "url": "https://www.theguardian.com/business/2026/sep/04/health-tracking-smart-ring-maker-oura-to-list-on-us-stock-market",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-04T09:29:41.000Z"
     },
     {
       "id": "ab0c9a6c76f3",
@@ -530,26 +640,6 @@
       "publishedAt": "2026-09-04T05:57:06.000Z"
     },
     {
-      "id": "f191831d7205",
-      "title": "Europe calls out Russia’s ‘hybrid war’ in public. But how can it make Putin pay?",
-      "summary": "Governments are now quicker to point the finger at Moscow, but critics say their inaction invites more sabotage Russia’s suspected sabotage campaign across Europe appears to be g…",
-      "url": "https://www.theguardian.com/world/2026/sep/04/europe-weighs-solutions-to-curtail-russias-growing-hybrid-warfare",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T05:00:01.000Z"
-    },
-    {
-      "id": "68aba744817f",
-      "title": "‘This could just be the beginning’: minorities fear first far-right win in German state election",
-      "summary": "As polls point to victory in Saxony-Anhalt for AfD party promising deportations, people face agonising choice: stay or go As the Bible study session wrapped up, leaving worshippe…",
-      "url": "https://www.theguardian.com/world/2026/sep/04/minorities-fear-first-far-right-win-in-german-state-election-saxony-anhalt-afd",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T04:00:57.000Z"
-    },
-    {
       "id": "ca578f337c42",
       "title": "EV sales outpace petrol cars for first time as Australians dodge soaring fuel costs",
       "summary": "New record for Australia as more than 27,000 EVs sold in August, driven by the rising cost of fuel and new government policy Follow our Australia news live blog for latest update…",
@@ -560,16 +650,6 @@
       "publishedAt": "2026-09-04T03:26:43.000Z"
     },
     {
-      "id": "d4a1d9bb0380",
-      "title": "Molly Ticehurst’s killer called woman he’d met on Tinder after stabbing and said ‘I’m sorry I murdered her’, court hears",
-      "summary": "Daniel Billings said ‘I did what I did’ in call from friend’s house after 2024 domestic violence murder Follow our Australia news live blog for latest updates Get our breaking ne…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/04/molly-ticehurst-killer-called-tinder-date-after-stabbing-sorry-i-murdered-her-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T03:08:48.000Z"
-    },
-    {
       "id": "fae8acc2148a",
       "title": "執迷於「睡眠分數」如何反讓你睡得更差？",
       "summary": "不少人會配戴追蹤器，檢測自己的睡眠分數，並用盡方法「睡眠極大化」（sleepmaxxing）。但專家指出，把睡眠遊戲化，正導致更多人出現睡眠失調問題。",
@@ -578,16 +658,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-04T02:05:55.000Z"
-    },
-    {
-      "id": "1b0762979d37",
-      "title": "UN to vote on adopting new world map that shows Africa’s true scale",
-      "summary": "Togo-sponsored resolution calls to phase out traditional map that depicts continent as similar size to Greenland The UN general assembly will vote on Friday on a resolution for t…",
-      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T02:00:54.000Z"
     },
     {
       "id": "fe82756d71e6",
@@ -618,16 +688,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-03T22:04:49.000Z"
-    },
-    {
-      "id": "886939dea435",
-      "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
-      "summary": "Troops escort settlers into al-Mughayyir and raze village outside Hebron as ethnic cleansing of West Bank continues Israelis have shot dead two teenagers in a Palestinian village…",
-      "url": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-03T19:33:00.000Z"
     },
     {
       "id": "8b72a35e05fb",
@@ -730,16 +790,6 @@
       "publishedAt": "2026-09-03T14:33:58.000Z"
     },
     {
-      "id": "e8828ca392d4",
-      "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
-      "summary": "Air bases used by US in UAE and Kuwait hit as Israeli defence chief says Iran’s regime fears collapse due to economic pressures Iran has continued to demonstrate an ability to ta…",
-      "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-03T14:16:54.000Z"
-    },
-    {
       "id": "a84645ded55a",
       "title": "The best fans to keep you cool in 2026 – tried and tested",
       "summary": "Missed out on a fan this summer? Chill your space with our pick of the best still in stock, including tower and misting models • The best portable neck and handheld fans • Dyson…",
@@ -768,16 +818,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-03T12:52:08.000Z"
-    },
-    {
-      "id": "f7b69e7a6a00",
-      "title": "Black Box: The Chatbots | Spirals | Ep 1 – podcast",
-      "summary": "Across the world, hundreds of people have come to believe they have made extraordinary scientific discoveries with AI chatbots such as ChatGPT, Claude and Gemini. Others say thei…",
-      "url": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-spirals-ai-psychosis-podcast",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-03T12:42:54.000Z"
     },
     {
       "id": "657b23d43eb8",
@@ -810,32 +850,12 @@
       "publishedAt": "2026-09-03T10:11:37.000Z"
     },
     {
-      "id": "6f2962992030",
-      "title": "The US and Venezuela: a century-old relationship drenched in oil",
-      "summary": "A visual look at how Washington’s relationship with Caracas has gone from cordial to ‘predatory’ Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism Nobel l…",
-      "url": "https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-03T10:00:50.000Z"
-    },
-    {
       "id": "a8f09274e37c",
       "title": "Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images",
       "summary": "Musk denied he was aware Grok ever produced ‘any naked underage images’ A survivor of child sexual abuse has sued Elon Musk ’s artificial intelligence company, alleging that its…",
       "url": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
       "source": "The Guardian Technology",
       "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-03T09:00:49.000Z"
-    },
-    {
-      "id": "b6703bac23c7",
-      "title": "Bring on the drones: how a technology revolution is being rolled out across Africa’s nature reserves",
-      "summary": "As graduates of an online training course gather from across the continent, the consensus is overwhelming: computers and saving animals go together On a bitingly cold night in La…",
-      "url": "https://www.theguardian.com/environment/2026/sep/03/drones-south-africa-tech-revolution-african-conservation-aoe",
-      "source": "The Guardian Technology",
-      "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-03T09:00:49.000Z"
     },
@@ -1090,16 +1110,6 @@
       "publishedAt": "2026-09-02T00:01:30.000Z"
     },
     {
-      "id": "2f17c05cc0d6",
-      "title": "Pentagon official overseeing military AI sold millions worth of stock in AI firm",
-      "summary": "Exclusive: financial disclosures from Emil Michael – who also reaped millions from xAI stock earlier this year – show he sold his Perplexity stock for up to $25m The top Pentagon…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
-      "source": "The Guardian Business",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-01T19:17:49.000Z"
-    },
-    {
       "id": "aa548375ac39",
       "title": "Who is John Ternus, Apple’s new CEO?",
       "summary": "Hardware engineering executive succeeding Tim Cook is a longtime Apple insider, indicating company will continue strategy that has led to record profits Tim Cook stepped down as…",
@@ -1198,16 +1208,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-01T04:44:45.000Z"
-    },
-    {
-      "id": "3cbede3bca41",
-      "title": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges",
-      "summary": "FTC alleges in lawsuit that online retailer ‘secretly and systematically overcharged’ advertisers for years The US’s main trade regulator and 22 states sued Amazon on Monday, all…",
-      "url": "https://www.theguardian.com/technology/2026/aug/31/amazon-advertising-lawsuit",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-08-31T19:41:52.000Z"
     },
     {
       "id": "b706a011c83d",
