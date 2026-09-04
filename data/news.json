@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T16:14:56.315Z",
+  "updatedAt": "2026-09-04T19:05:01.440Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,56 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "9cb04ffdbc04",
+      "title": "Maria Bartiromo’s lawyer denies she was fired from Fox News anchor role",
+      "summary": "Fox announced host’s departure Thursday but gave no explanation, only saying it was effective immediately Maria Bartiromo’s lawyer sharply denied that she was fired from her job…",
+      "url": "https://www.theguardian.com/media/2026/sep/04/maria-bartiromo-lawyer-denies-fox-news-firing",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-04T17:56:11.000Z"
+    },
+    {
+      "id": "1b0762979d37",
+      "title": "UN votes to adopt new world map that shows Africa’s true scale",
+      "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world…",
+      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T16:49:29.000Z"
+    },
+    {
+      "id": "8829563fb3e9",
+      "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
+      "summary": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences When Donald Trump was asked recently about the threat of rising…",
+      "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-04T16:49:28.000Z"
+    },
+    {
+      "id": "1b0ad00bfab3",
+      "title": "The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
+      "summary": "A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on…",
+      "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade",
+      "source": "The Guardian Technology",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T16:15:50.000Z"
+    },
+    {
+      "id": "25c9cfe75984",
+      "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – as it happened",
+      "summary": "This blog is now closed, you can read more on this story here in Magdeburg, Saxony-Anhalt Polls have suggested that the election on Sunday could yield Germany’s first-ever state…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-04T16:01:10.000Z"
+    },
+    {
       "id": "e86f8cbd5749",
       "title": "乌国家安全局遭袭 美总统特使访问计划“可能有变”",
       "summary": "乌克兰总统泽连斯基4日在社交媒体发文称，位于乌首都基辅市中心的乌国家安全局总部当天遭俄军无人机袭击。乌克兰媒体同日援引消息人士的话报道称，出于安全担忧，计划访问俄罗斯和乌克兰的美国总统特使威特科夫正在考虑代替访问的其他方案。",
@@ -38,16 +88,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-04T15:49:38.000Z"
-    },
-    {
-      "id": "25c9cfe75984",
-      "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – Europe live",
-      "summary": "Ukraine’s president Volodymyr Zelenskyy reported a Russian drone hit the headquarter of the security service of Ukraine, in Kyiv in Magdeburg, Saxony-Anhalt Polls have suggested…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T15:43:46.000Z"
     },
     {
       "id": "3699defcceb3",
@@ -181,8 +221,8 @@
     },
     {
       "id": "810fed90b53b",
-      "title": "I dug through hundreds of Labor Day sales to find real deals on high-quality products that last",
-      "summary": "Cut through the noise with our round up of worthy Labor Day deals at brands including Caraway, Kiehl’s, Monos and Sony College grads share the room essentials that weathered the…",
+      "title": "I dug through hundreds of Labor Day sales to find real deals on things that last",
+      "summary": "Cut through the noise with our round up of 60+ worthy Labor Day deals at brands including Caraway, Kiehl’s, Monos and Sony Wearing white before Labor Day weekend ends? A stylist’…",
       "url": "https://www.theguardian.com/thefilter-us/2026/aug/28/best-labor-day-sales-deals",
       "source": "The Guardian Technology",
       "category": "科技",
@@ -198,16 +238,6 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-09-04T14:51:33.000Z"
-    },
-    {
-      "id": "1b0762979d37",
-      "title": "UN to vote on adopting new world map that shows Africa’s true scale",
-      "summary": "Togo-sponsored resolution calls to phase out traditional map that depicts continent as similar size to Greenland The UN general assembly will vote on Friday on a resolution for t…",
-      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T14:45:21.000Z"
     },
     {
       "id": "0237a5b29d45",
@@ -500,16 +530,6 @@
       "publishedAt": "2026-09-04T10:19:23.000Z"
     },
     {
-      "id": "443a04edaab2",
-      "title": "It’s time for Mark Zuckerberg to resign from Meta | Joan Donovan",
-      "summary": "The CEO is the throughline in a history of billion-dollar blunders that have caused real harm, culminating in last week’s settlement Last week, Meta, the parent company of Instag…",
-      "url": "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta",
-      "source": "The Guardian Technology",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-09-04T10:00:05.000Z"
-    },
-    {
       "id": "f89108273b4a",
       "title": "Private equity faces existential crisis in US as unsold companies pile up",
       "summary": "Private equity firms and the companies they own employ over 13 million, from startups to rural hospitals and large retailers, but experts’ concerns of collapse are growing Retail…",
@@ -698,16 +718,6 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-09-03T18:24:42.000Z"
-    },
-    {
-      "id": "fda817cd9e9f",
-      "title": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo",
-      "summary": "Bartiromo had been a host at the network for more than a decade and Fox gave no explanation for the decision Fox News Media on Thursday abruptly ousted one of its most well-known…",
-      "url": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-03T18:20:24.000Z"
     },
     {
       "id": "b38d2f0c8406",
@@ -1148,16 +1158,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-01T12:01:05.000Z"
-    },
-    {
-      "id": "785a668ba9ae",
-      "title": "‘I feel like I’m grieving’: staff on the devastating fallout of widespread layoffs at Xbox",
-      "summary": "Last month, Microsoft’s gaming division told its workforce it was cutting 3,200 jobs, which some say will have big ramifications for game development – as well as taking a huge p…",
-      "url": "https://www.theguardian.com/games/2026/sep/01/xbox-layoffs-microsoft",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-01T09:00:04.000Z"
     },
     {
       "id": "9519a4aae4fa",
