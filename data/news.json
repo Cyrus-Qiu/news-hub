@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T01:19:56.285Z",
+  "updatedAt": "2026-09-05T06:15:52.662Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,124 +30,314 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "8d979792283b",
-      "title": "徽剧《刘铭传》在北京上演 讲述保卫建设台湾的故事",
+      "id": "9e7915258b31",
+      "title": "赣州章贡：千年宋城，何以“活”在今天？",
+      "summary": "【2026打卡中国】赣州章贡：千年宋城，何以“活”在今天？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690902.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T06:02:52.000Z"
+    },
+    {
+      "id": "d1d7bddbe873",
+      "title": "扩容升级！读懂消费新政“组合拳”背后的三层深意",
+      "summary": "晶采观察丨扩容升级！读懂消费新政“组合拳”背后的三层深意",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690901.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:57:02.000Z"
+    },
+    {
+      "id": "77d929a00264",
+      "title": "“自贡—南宁港—越南芹苴港”铁江海联运班列首发",
+      "summary": "中新网南宁9月5日电(杨陈 罗喜青)广西北部湾国际港务集团有限公司5日介绍，“自贡—南宁港—越南芹苴港”铁江海联运班列4日晚在四川省自贡南站首发。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690885.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:52:31.000Z"
+    },
+    {
+      "id": "1ec801bb1f17",
+      "title": "香港旅发局来蓉推介旅游 深挖“蓉港一程多站”旅游潜力",
+      "summary": "中新网成都9月5日电 (袁牟知博)香港旅游发展局4日在成都举办2026香港旅游推介会暨华西业界洽谈会，正式向华西市场推出“只在香港”(Only in Hong Kong)全新环球宣传项目，并同步推介下半年六大焦点盛事及最新深度旅游产品。来自香港及四川、重庆、陕西、贵州、云南等地的旅游业界、在线旅游平台代表超150人与会。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-05/10690884.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:50:31.000Z"
+    },
+    {
+      "id": "fa7a33a0bc86",
+      "title": "中广核山东招远核电项目2号机组主体工程开工",
+      "summary": "中新社北京9月5日电 (记者 庞无忌)记者5日从中国广核集团获悉，当日，中广核山东招远核电项目2号机组启动核岛第一罐混凝土浇筑(FCD)，标志着该机组主体工程正式开工，项目一期工程进入全面建设阶段。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690879.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:47:57.000Z"
+    },
+    {
+      "id": "3bd5586457c3",
+      "title": "E法同行 兴辽治宁｜“知E行法”普法小剧场②数据安全法五周年篇",
+      "summary": "央广网北京9月3日消息(记者费权)辽宁老工业基地数字化转型不断深入，工业生产数据已成为转型核心资产，跨境数据传输面临合规门槛，企业数据维权缺乏高效路径，数据安全领域的全新课题正持续涌现。",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-05/10690900.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:47:33.000Z"
+    },
+    {
+      "id": "6b72c9bc4b19",
+      "title": "广州多举措打通AI技术落地民生的“最后100米”",
+      "summary": "中新网广州9月5日电 (记者 王坚)“AI生活家·寻找1001种AI生活新方式”城市共创项目9月4日在XAIR Expo2026具身智能产业博览会(以下简称“博览会”)上启动。该项目将以“AI七进”形式推动人工智能技术赋能千行百业、服务万家灯火。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690883.shtml",
+      "source": "中国新闻网",
+      "category": "AI",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:46:17.000Z"
+    },
+    {
+      "id": "28b0130fea00",
+      "title": "（长征胜利90周年）松毛岭祭无名英烈 一碗热粥四代传承",
+      "summary": "中新社福建连城9月5日电 题：松毛岭祭无名英烈 一碗热粥四代传承",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690878.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:45:31.000Z"
+    },
+    {
+      "id": "ada59a4cce8b",
+      "title": "（走进中国乡村）鄱阳湖退捕渔村多元业态引客来",
+      "summary": "中新社江西庐山9月5日电 题：鄱阳湖退捕渔村多元业态引客来",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690876.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:43:51.000Z"
+    },
+    {
+      "id": "be8acde7d50a",
+      "title": "秋日喷嚏警告！全国花粉过敏指数地图出炉",
+      "summary": "看哪里需重点防护",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690898.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:43:47.000Z"
+    },
+    {
+      "id": "ab7d72ed5bec",
+      "title": "台青浙江深耕银发事业 用心相伴让养老有温度",
+      "summary": "中新社浙江湖州9月5日电 题：台青浙江深耕银发事业 用心相伴让养老有温度",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690875.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:42:25.000Z"
+    },
+    {
+      "id": "9cdb0b328956",
+      "title": "全国入秋进程图出炉！北方多地入秋偏晚",
+      "summary": "冷空气将推动秋天版图扩张",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690897.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:41:41.000Z"
+    },
+    {
+      "id": "ad16e3859470",
+      "title": "中国民政部：西藏吉隆泥石流灾害慈善捐赠超6.6亿元人民币",
+      "summary": "中新社北京9月5日电 (记者 李京泽)记者5日从中国民政部获悉，据不完全统计，目前，西藏吉隆泥石流灾害慈善捐赠已超过6.6亿元人民币；其中，超147万人次通过互联网公开募捐服务平台，向有关公开募捐慈善项目捐赠5016万元。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690874.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:41:35.000Z"
+    },
+    {
+      "id": "4b9270e7d0ad",
+      "title": "两部门针对福建提升国家自然灾害救助应急响应级别至三级",
+      "summary": "中新网9月5日电 据应急管理部网站消息，按照《国家自然灾害救助应急预案》，针对近期台风及极端强降雨对福建莆田、宁德等地造成的严重影响，9月5日，国家防减救灾委、应急管理部将针对福建的国家自然灾害救助应急响应级别提升至三级，增派救灾工作组紧急赶赴灾区实地查看灾情，指导和协助地方做好受灾群众基本生活保障及灾后应急恢复等灾害救助工作。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690892.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:37:46.000Z"
+    },
+    {
+      "id": "3954f95d6cf7",
+      "title": "装监控防丢件却两度成被告 公共区域安摄像头怎么才合法",
+      "summary": "摄像头在一些生活场景中是人们保护生命财产安全的倚仗，然而在公共区域随意安装摄像头，却有可能侵扰到他人的隐私。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690895.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:35:06.000Z"
+    },
+    {
+      "id": "12d01681a501",
+      "title": "“成功学”类童书为何畅销占据榜单？孩子们能从中获益吗？",
+      "summary": "近段时间，一批带有“成功学”标签的功利性读物，悄悄霸占了孩子们的电子书单。像是《孩子，你要懂点人情世故》《漫画儿童博弈论》《成事之道》……不难看出，这类读物书名直白、目的明确，每一本都像在回应家长的担忧：我的孩子究竟怎么能赢？",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-05/10690894.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:32:56.000Z"
+    },
+    {
+      "id": "3b1a7ab8617b",
+      "title": "中建集团党组：坚决拥护党中央决定",
+      "summary": "9月5日，中国建筑集团有限公司党组召开会议，通报中央纪委国家监委对中建集团党组成员、副总经理陈勇涉嫌严重违纪违法进行纪律审查和监察调查的决定。中建集团党组书记、董事长郑学选主持会议并讲话，党组成员逐一表态发言，一致表示坚决拥护党中央决定，坚决拥护中央纪委国家监委决定。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690893.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:28:50.000Z"
+    },
+    {
+      "id": "1229a371a219",
+      "title": "江西省应急指挥部针对遂川县启动突发地质灾害二级应急响应",
+      "summary": "中新网9月5日电 据“江西应急管理”微信公众号消息，鉴于当前地质灾害形势，根据《江西省突发地质灾害应急预案》规定，经研究，江西省应急指挥部决定自9月5日10时起启动突发地质灾害二级应急响应。要求各地各部门按照职责分工和预案规定，全力做好地质灾害应急工作。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690889.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:13:25.000Z"
+    },
+    {
+      "id": "3b3667f5ebc4",
+      "title": "自然资源部对江西启动地质灾害防御Ⅲ级响应",
+      "summary": "中新网9月5日电 据自然资源部微信公众号消息，根据《自然资源部地质灾害防御响应工作方案》，结合江西吉安发生疑似泥石流灾害灾情情况，自然资源部于9月5日11时将江西地质灾害防御响应等级由IV级提升为Ⅲ级，并派司局级同志带队的工作组赴现场加强指导抢险救援等工作。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690888.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:11:49.000Z"
+    },
+    {
+      "id": "6271878bea45",
+      "title": "《早春晴朗》火了，被形容“氛围封神”",
+      "summary": "大陆都市情感剧《早春晴朗》近期播出后，在两岸及海外市场引发关注，有台湾媒体以“氛围封神”形容这部剧。",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10690887.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:05:29.000Z"
+    },
+    {
+      "id": "46ba2d0d6eab",
+      "title": "青春华章｜报国无声，迎接着永恒的东风！",
+      "summary": "何谓科学家？一颗报国心，一身真本事。他们勇攀高峰，接续奋斗，干惊天动地事，做隐姓埋名人。为何选择这份事业？从“两弹一星”元勋到量子科技的领军人，一代代科大人接力续写着科教报国的青春华章。报国无声，迎接着永恒的东风！",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690886.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:02:01.000Z"
+    },
+    {
+      "id": "45dddf740271",
+      "title": "（走进中国乡村）川西高原孕育“民宿之州” 重塑乡村文旅图景",
+      "summary": "中新社四川阿坝9月5日电 (单鹏)“来喽！尝尝刚炒的青稞。”清晨，谢尕卓玛的嗓门在院子里响起。她手里的木铲翻得利落，铁锅里的青稞粒噼啪作响，几位早起的住客循着香气凑到灶房门口，等着体验这口高原味道。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690871.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T05:00:26.000Z"
+    },
+    {
+      "id": "f47bf27e2dd5",
+      "title": "江西吉安遂川县发生山体滑坡 造成1人身亡11人失联",
+      "summary": "中新网南昌9月5日电 (朱莹)据江西省吉安市遂川县防汛抗旱指挥部5日通报，该县高坪镇明坑村石下组发生泥石流灾害，目前，已救出3人(其中2人身体状况良好、1人死亡)，尚有11人失联。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690880.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T04:59:14.000Z"
+    },
+    {
+      "id": "775f15c151f6",
+      "title": "香港第一个五年规划及施政报告公布在即 李家超：宏观谋划结合微观执行，推动经济稳步发展",
+      "summary": "中新社香港9月5日电 香港第一个五年规划将于9月16日公布，特区行政长官2026年施政报告随之发表。香港特区行政长官李家超5日在社交平台发布视频短片强调，五年规划和施政报告一脉相承，将通过宏观谋划结合微观执行，推动香港经济稳步发展。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-05/10690867.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T04:57:54.000Z"
+    },
+    {
+      "id": "a1944097fd20",
+      "title": "8月中国大宗商品价格指数同比上涨18.4%",
+      "summary": "中新社北京9月5日电 (记者 阮煜琳)中国物流与采购联合会5日发布数据显示，8月份，中国大宗商品价格指数(CBPI)为132.3点，环比上涨2.8%，同比上涨18.4%。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690870.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T04:56:46.000Z"
+    },
+    {
+      "id": "5001e383d4d0",
+      "title": "西藏吉隆口岸：国旗屹立 信念长存",
+      "summary": "近日，在西藏吉隆口岸受灾核心区，现场工作人员在国旗下轻轻放上几束鲜花，悼念此次泥石流灾害的遇难者。连日来，西藏统筹各方救援力量，同步开展人员搜救、道路抢通、善后处置和风险防范各项工作，目前抢险救援和应急处置工作正在受灾核心区开展。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690882.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T04:53:56.000Z"
+    },
+    {
+      "id": "ba674f2b3590",
+      "title": "青春华章｜这就是中国的模样！从觉醒年代到星辰大海，看中国青年的“硬核”接力",
+      "summary": "【环球网记者 石丁 朱马烈 许庆瑶报道】百年前，先辈们以青春之我，创建青春之国家、青春之民族。这份跨越时空的青春接力，至今仍在神州大地上激荡回响。回望来路，钱学森、邓稼先、于敏等老一辈科学家，在筚路蓝缕中挺起民族脊梁。“外国人能搞的，难道中国人不能搞？”“国家需要我，我一定全力以赴！”这不仅是历史的铿锵回音，更是中国科技青年代代相传的报国初心与铮铮铁骨。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690881.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T04:51:21.000Z"
+    },
+    {
+      "id": "2e9b4789197f",
+      "title": "【青春华章·长征路上山河新】长征精神代代相传",
       "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-05/1203213.shtml",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690877.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-05T01:15:45.000Z"
+      "publishedAt": "2026-09-05T04:48:05.000Z"
     },
     {
-      "id": "1fdf2bc92c62",
-      "title": "安徽滁州回应上空传来震响：初步判定为高空音爆",
-      "summary": "中新网9月5日电 据“滁州应急”微信公众号消息，9月4日晚8:10分左右，滁州上空传来震响，经排查，已排除地震、矿爆和其他生产安全事故。经了解，初步判定为高空音爆，请广大市民不要惊慌，不造谣，不信谣，不传谣。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690762.shtml",
+      "id": "bd4d157de07f",
+      "title": "【小新的Vlog】沉浸式探馆旅博会：文旅“看家宝贝”集中亮相 工业旅游成新宠",
+      "summary": "9月3日至6日2026中国文化旅游产业博览会在天津举行，4日迎来公众开放日，吸引许多市民和游客逛展打卡，沉浸式解锁多元文旅新体验。全国各地文旅都带着“看家宝贝”集中亮相，其中专属工业游展区也首次亮相旅博会，曾经轰鸣的工厂车间，正摇身变为热门旅游目的地，快跟小新一起去看看！(田孟轩 冯宏杰 天津报道)",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/09-05/news1067834.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-05T01:13:02.000Z"
+      "publishedAt": "2026-09-05T04:45:42.000Z"
     },
     {
-      "id": "011a3cf0bd2b",
-      "title": "福建江西广东等地有较强降雨 明日起北方将迎降雨降温天气",
-      "summary": "中新网9月5日电 据中央气象台网站消息，昨日，湖南南部、江西南部、福建东部、广西北部、台湾北部等地部分地区出现暴雨或大暴雨，福建福州局地特大暴雨。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690761.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T01:10:54.000Z"
+      "id": "38b35da1fa87",
+      "title": "‘Every girl now wants to be a boxer’: excitement in Katie Taylor’s home town for her valedictory bout",
+      "summary": "Irish boxer lauded for her tenacity and inspiration before her last fight in front of 80,000 people at Croke Park When Katie Taylor steps into the ring on Saturday night to defen…",
+      "url": "https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-05T04:00:26.000Z"
     },
     {
-      "id": "92fea796f9bd",
-      "title": "睦邻友好开新局 繁荣共兴启新篇——吉尔吉斯斯坦各界人士高度评价习近平主席国事访问",
-      "summary": "新华社北京9月4日电 题：睦邻友好开新局 繁荣共兴启新篇——吉尔吉斯斯坦各界人士高度评价习近平主席国事访问",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690768.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T01:08:52.000Z"
-    },
-    {
-      "id": "be7c31043f99",
-      "title": "外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山",
-      "summary": "中新网9月5日电 据路透社报道，美国总统特朗普当地时间4日对媒体记者表示，美军“可能很快”对伊朗镐山发动打击。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690765.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T01:07:58.000Z"
-    },
-    {
-      "id": "3838a49db293",
-      "title": "在孩子们心中播撒真善美的种子——习近平总书记的贺信激励广大少儿文艺工作者耕耘不辍奋发有为",
-      "summary": "新华社北京9月4日电 题：在孩子们心中播撒真善美的种子——习近平总书记的贺信激励广大少儿文艺工作者耕耘不辍奋发有为",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690766.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T01:07:24.000Z"
-    },
-    {
-      "id": "1e8bffb76cec",
-      "title": "民政部：西藏吉隆泥石流灾害慈善捐赠超过6.6亿元",
-      "summary": "今天(9月5日)是我国第十一个“中华慈善日”，今年慈善日的主题是“弘扬慈善文化 践行慈善惠民”。近年来，慈善力量在救灾、扶贫济困等方面发挥了重要作用。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690764.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T01:01:53.000Z"
-    },
-    {
-      "id": "cd5cd0f4679f",
-      "title": "“买一赠一”要缴纳增值税吗？专家解读",
-      "summary": "我国增值税法自今年1月1日起施行以来，“视同应税交易”规则的调整持续引发纳税人关注。针对“买一赠一”是否仍需按无偿赠送计税、总分机构货物调拨要不要缴税等高频问题，记者采访了财税专家。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690763.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T00:56:33.000Z"
-    },
-    {
-      "id": "c0f35b77889f",
-      "title": "写在亚太媒体高端论坛开幕之际",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690760.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T00:44:04.000Z"
-    },
-    {
-      "id": "3d4090fd1eaa",
-      "title": "初心不改 虽远不怠——习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问纪实",
-      "summary": "新华社北京9月4日电 题：初心不改 虽远不怠——习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问纪实",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690759.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T00:37:10.000Z"
-    },
-    {
-      "id": "76524f653c0b",
-      "title": "猪奶为何成不了人类饮品？",
-      "summary": "猪奶为何成不了人类饮品(唠“科”)",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-05/10690758.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T00:33:19.000Z"
-    },
-    {
-      "id": "c6baebb9d6a7",
-      "title": "中央气象台继续发布台风蓝色预警",
-      "summary": "中新网9月5日电 据中央气象台网站消息，今年第24号台风“科罗旺”(热带风暴级)的中心今天(5日)早晨5点钟位于琉球群岛那霸市北偏西方向大约240公里的东海东部海面上，就是北纬28.1度、东经126.5度，中心附近最大风力有9级(23米/秒)，中心最低气压为990百帕，七级风圈半径200-350公里。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690757.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T00:24:51.000Z"
+      "id": "6d45043f8183",
+      "title": "Sydney set to hit 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
+      "summary": "A total fire ban is in place for greater Sydney with extreme fire danger exacerbated by hot and windy conditions Get our breaking news email , free app or daily news podcast Summ…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-05T02:00:54.000Z"
     },
     {
       "id": "da99e973aa2c",
@@ -168,136 +358,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-05T00:00:20.000Z"
-    },
-    {
-      "id": "0d4e20632b18",
-      "title": "美国8月非农就业增加16.2万 失业率4.1%",
-      "summary": "中新社华盛顿9月4日电(记者 陈孟统)美国劳工部4日发布数据显示，美国8月非农就业岗位增加16.2万个，失业率为4.1%，与7月持平。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690752.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T23:28:17.000Z"
-    },
-    {
-      "id": "fee87e299813",
-      "title": "英国建筑业持续收缩拖累经济复苏",
-      "summary": "中新社伦敦9月4日电 (记者 欧阳开宇)4日公布的标普全球建筑业采购经理人指数(PMI)数据显示，英国建筑业景气度持续走弱，8月行业连续第20个月陷入收缩区间，住宅建造板块低迷，成为拖累基建地产领域的核心短板。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690753.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T23:27:55.000Z"
-    },
-    {
-      "id": "72c3e3d38c64",
-      "title": "2026年柏林国际消费电子展开幕",
-      "summary": "中新社柏林9月4日电 (记者 马秀秀)2026年德国柏林国际消费电子展(IFA)4日在柏林会展中心开幕。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690751.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T23:27:21.000Z"
-    },
-    {
-      "id": "6c8baf62a784",
-      "title": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
-      "summary": "中新社华盛顿9月4日电 (记者 沙晗汀)美国国务院当地时间4日宣布，国务卿鲁比奥将于本月8日至10日访问哥伦比亚、厄瓜多尔和秘鲁。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690754.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T23:27:05.000Z"
-    },
-    {
-      "id": "5fb56eada505",
-      "title": "“遗产家园·美美与共”中柬文化遗产交流展在金边举行",
-      "summary": "【东盟专线】“遗产家园·美美与共”中柬文化遗产交流展在金边举行",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-05/10690750.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T23:13:51.000Z"
-    },
-    {
-      "id": "dc5700ba77e2",
-      "title": "9月5日新闻早报",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-05/10690749.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T22:51:17.000Z"
-    },
-    {
-      "id": "3df9c6c8ae0c",
-      "title": "女篮世界杯开打 中国队小组赛首战不敌美国队",
-      "summary": "中新社柏林9月4日电 2026年国际篮联女篮世界杯于当地时间4日在德国柏林开打，上届世界杯亚军中国队在小组赛首战中以61:94负于卫冕冠军美国队。",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10690748.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T22:46:57.000Z"
-    },
-    {
-      "id": "85753724234b",
-      "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
-      "summary": "当地时间9月4日，美国总统特朗普表示，美国特使威特科夫与库什纳将向俄罗斯提交结束俄乌冲突的方案。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690747.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T22:45:20.000Z"
-    },
-    {
-      "id": "22a52218a89e",
-      "title": "美总统称可能很快会打击伊朗“镐山”核设施",
-      "summary": "当地时间4日，美国总统特朗普在白宫接受采访时称，美国可能很快会打击伊朗的“镐山”核设施。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690746.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T22:42:04.000Z"
-    },
-    {
-      "id": "b3935a94f29c",
-      "title": "宁夏第二届残疾人运动会和特殊奥林匹克运动会开幕",
-      "summary": "中新社银川9月4日电 (记者 杨迪)9月4日晚，宁夏回族自治区第二届残疾人运动会和特殊奥林匹克运动会在银川开幕。本届赛事在项目设置、参赛规模方面均超过首届残特奥运动会。",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10690745.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T22:41:04.000Z"
-    },
-    {
-      "id": "8a924d3d8f0f",
-      "title": "中国羽毛球大师赛：中国女单“独苗”晋级四强",
-      "summary": "中新社深圳9月4日电 (记者 张璐 索有为)正在深圳举行的2026李宁·中国羽毛球大师赛9月4日结束1/4决赛较量。中国女单“独苗”王祉怡淘汰日本选手奥原希望晋级四强，中国香港男单“黑马”吴英伦战胜中国选手翁泓阳跻身半决赛。",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10690744.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T22:40:04.000Z"
-    },
-    {
-      "id": "8a7cbfd35410",
-      "title": "受台风“沙德尔”影响 福建转移59.93万人",
-      "summary": "记者从福建省防汛抗旱指挥部了解到，应对台风“沙德尔”和持续性强降雨，截至9月4日22时，福建全省累计下沉干部15.43万人次，转移海上、陆上危险区域群众59.93万人。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690743.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T22:37:06.000Z"
-    },
-    {
-      "id": "b11135903b5d",
-      "title": "英国改革党高层人员陷政治献金丑闻",
-      "summary": "中新社伦敦9月4日电 (记者 欧阳开宇)当地时间9月4日，英国改革党在年度党代会开幕之际深陷政治献金丑闻。受英国第四频道电视台卧底调查曝光违规线索影响，党首法拉奇两名高级助手宣布停职，等待党内调查结果。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690742.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T22:34:44.000Z"
     },
     {
       "id": "50b8cc60bf30",
@@ -360,16 +420,6 @@
       "publishedAt": "2026-09-04T16:01:10.000Z"
     },
     {
-      "id": "e86f8cbd5749",
-      "title": "乌国家安全局遭袭 美总统特使访问计划“可能有变”",
-      "summary": "乌克兰总统泽连斯基4日在社交媒体发文称，位于乌首都基辅市中心的乌国家安全局总部当天遭俄军无人机袭击。乌克兰媒体同日援引消息人士的话报道称，出于安全担忧，计划访问俄罗斯和乌克兰的美国总统特使威特科夫正在考虑代替访问的其他方案。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690741.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T15:49:38.000Z"
-    },
-    {
       "id": "3699defcceb3",
       "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
       "summary": "Volodymyr Zelenskyy says he has told SBU to deliver ‘appropriate, tangible response’ to Kyiv strike The head office of Ukraine’s SBU intelligence agency has been hit in a Russian…",
@@ -390,16 +440,6 @@
       "publishedAt": "2026-09-04T15:22:53.000Z"
     },
     {
-      "id": "b88700ad4523",
-      "title": "记者手记：吉隆口岸的迷彩守护",
-      "summary": "新华社西藏吉隆9月3日电 记者手记：吉隆口岸的迷彩守护",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690740.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T15:20:39.000Z"
-    },
-    {
       "id": "886939dea435",
       "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
       "summary": "Troops escort settlers into al-Mughayyir and raze village outside Hebron as ethnic cleansing of West Bank continues Israelis have shot dead two teenagers in a Palestinian village…",
@@ -410,16 +450,6 @@
       "publishedAt": "2026-09-04T15:12:53.000Z"
     },
     {
-      "id": "5751b8387c5d",
-      "title": "专家：白露养生重在顺应天时 核心在于“润”“敛”",
-      "summary": "中新网广州9月4日电 (记者 蔡敏婕)今年9月7日将迎来白露节气，这是秋季的第三个节气，暑气至此渐消，昼夜温差明显拉大。",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-04/10690739.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T15:01:20.000Z"
-    },
-    {
       "id": "5d5b2ca38cd5",
       "title": "Australia’s housing prices are trending down. See which suburbs have had the biggest falls",
       "summary": "Cotality says prices have declined in most capital cities over winter. Search the data to see how they have changed in your area Get our breaking news email , free app or daily n…",
@@ -428,26 +458,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-04T15:00:12.000Z"
-    },
-    {
-      "id": "6328a18311d6",
-      "title": "2026年“一带一路”脑健康与脑器交互科技国际会议在成都开幕",
-      "summary": "中新网成都9月4日电 (王利文)2026年“一带一路”脑健康与脑器交互科技国际会议4日在成都召开。会议由四川省科学技术厅等单位指导，电子科技大学主办，中国—古巴神经技术与脑器交互“一带一路”联合实验室等承办，来自12个国家和地区的近千名专家、学者和企业家参会。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690738.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T14:58:57.000Z"
-    },
-    {
-      "id": "b337f903e885",
-      "title": "祥鹏航空乌鲁木齐&#x21cc;和田&#x21cc;阿里航线顺利首航 畅通疆藏联动空中廊道",
-      "summary": "中新网拉萨9月4日电(白玛玉珍 周柄帆 艾芯羽)9月3日13时05分，祥鹏航空8L9994航班平稳降落在和田昆冈机场，机场以民航最高礼仪“过水门”仪式迎接航班抵达，标志着乌鲁木齐#8652;和田#8652;阿里航线顺利完成首航。至此，新疆乌鲁木齐、和田与西藏阿里三地间的空中通道正式贯通，为沿线民众出行及区域经贸文旅交流提供了更便捷的航空保障。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690737.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-04T14:58:43.000Z"
     },
     {
       "id": "810fed90b53b",
@@ -478,16 +488,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-04T14:33:16.000Z"
-    },
-    {
-      "id": "d7023f94944c",
-      "title": "Woman, 45, killed in Florence in seventh alleged femicide in Italy since mid-August",
-      "summary": "Lorena Isceri was thrown off a motorway bridge, allegedly by ex-boyfriend Federico Vella A 45-year-old woman abducted and thrown off a motorway bridge near Florence has become th…",
-      "url": "https://www.theguardian.com/world/2026/sep/04/lorena-isceri-killed-in-florence-femicide-italy",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T13:56:14.000Z"
     },
     {
       "id": "0153c02ef063",
@@ -688,16 +688,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-04T05:57:06.000Z"
-    },
-    {
-      "id": "ca578f337c42",
-      "title": "EV sales outpace petrol cars for first time as Australians dodge soaring fuel costs",
-      "summary": "New record for Australia as more than 27,000 EVs sold in August, driven by the rising cost of fuel and new government policy Follow our Australia news live blog for latest update…",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/ev-sales-outpace-petrol-cars-for-first-time-as-australians-dodge-soaring-fuel-costs",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T03:26:43.000Z"
     },
     {
       "id": "fae8acc2148a",
@@ -1228,6 +1218,16 @@
       "category": "AI",
       "language": "en",
       "publishedAt": "2026-08-30T14:00:57.000Z"
+    },
+    {
+      "id": "c8d260c0aac9",
+      "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
+      "summary": "一些關於這場致命山洪暴發最驚人的畫面，中國官方媒體未對公眾播放。",
+      "url": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-08-30T12:37:59.000Z"
     }
   ]
 }
