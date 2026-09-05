@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T16:45:21.843Z",
+  "updatedAt": "2026-09-05T18:57:38.509Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,26 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "04810dfe0091",
+      "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+      "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffick drugs An Egyptian court sentenced a well-known television presenter and 11 others to d…",
+      "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-05T18:00:15.000Z"
+    },
+    {
+      "id": "89c9a143ee4f",
+      "title": "641名救援人员抵达江西遂川泥石流灾害现场开展搜救工作",
+      "summary": "受台风“沙德尔”持续强降雨天气影响，9月5日，江西省遂川县高坪镇明坑村石下组突发泥石流地质灾害。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691226.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-05T17:00:14.000Z"
+    },
     {
       "id": "c04a77e77a7e",
       "title": "乒乓球德甲第四轮：樊振东独得两分帮助球队四轮全胜",
@@ -328,16 +348,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-05T15:25:48.000Z"
-    },
-    {
-      "id": "bf09e97c149f",
-      "title": "重庆巴南启幕首届云端梯田丰收季 稻浪为幕庆丰年",
-      "summary": "中新网重庆9月5日电 (记者 钟旖)5日，重庆市巴南区首届云端梯田丰收季在石滩镇芦花坪梯田启幕。500余亩层层叠叠的梯田依山蜿蜒，稻穗低垂、满目金黄，在云雾缭绕间展开秋日画卷。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691182.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-05T15:24:54.000Z"
     },
     {
       "id": "37d665c20f72",
@@ -1098,16 +1108,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-02T08:54:52.000Z"
-    },
-    {
-      "id": "fc3b4e4c2778",
-      "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-      "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pestic…",
-      "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-02T06:00:25.000Z"
     },
     {
       "id": "8222e694768e",
