@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T18:57:38.509Z",
+  "updatedAt": "2026-09-05T21:07:08.626Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "7001b0ac0abb",
+      "title": "Possums in the roof, koalas in bed: study shows how animals resort to Australian homes after habitat loss",
+      "summary": "Microbats and wombats among the most common species found in buildings, with some discovered in letter boxes or air conditioning systems Get our breaking news email , free app or…",
+      "url": "https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-05T20:00:47.000Z"
+    },
+    {
+      "id": "9036e9c935a0",
+      "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
+      "summary": "A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition talking points outspend major parties Get our breaking news email , free app or daily news podcast A…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+      "source": "The Guardian World",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-05T20:00:46.000Z"
+    },
+    {
+      "id": "37d665c20f72",
+      "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
+      "summary": "Moscow and Kyiv vow not to strike each other’s capitals for three days during negotiations Russian president Vladimir Putin began talks with US envoys Jared Kushner and Steve Wit…",
+      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-05T19:03:41.000Z"
+    },
     {
       "id": "04810dfe0091",
       "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
@@ -348,16 +378,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-05T15:25:48.000Z"
-    },
-    {
-      "id": "37d665c20f72",
-      "title": "Steve Witkoff and Jared Kushner land in Moscow aiming to revive Ukraine talks",
-      "summary": "US envoys expected to meet Vladimir Putin before going to Kyiv, after peace efforts floundered in recent months The US envoys Steve Witkoff and Jared Kushner have arrived in Mosc…",
-      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-05T14:04:29.000Z"
     },
     {
       "id": "0bda41ca8cf7",
@@ -720,16 +740,6 @@
       "publishedAt": "2026-09-04T07:29:46.000Z"
     },
     {
-      "id": "68aa097a7c49",
-      "title": "Charles Perrottet denies asking brother as premier to appoint cabinet minister, Icac hears",
-      "summary": "Charles says claims by developer Jean Nassif in an intercepted phone call that ‘we’re reshuffling the government’ did not reflect promises allegedly made to Nassif Follow our Aus…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/04/charles-perrottet-denies-asking-premier-brother-to-appoint-cabinet-minister-icac-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T06:28:04.000Z"
-    },
-    {
       "id": "6195322beea8",
       "title": "行走在紐約：我發現監控攝像頭數量遠超想像",
       "summary": "在私隱與安全之間作出取捨時，了解你所在社區的監控基礎設施到底有多普遍或會有所幫助。要查清楚這一點已有一些簡單的方法。",
@@ -738,16 +748,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-04T06:25:54.000Z"
-    },
-    {
-      "id": "5a10143d5614",
-      "title": "Australian ski resorts to close up to a month early due to global heating and El Niño",
-      "summary": "‘Challenging’ weather conditions and lack of snowfall are being blamed after a winter that broke multiple heat records Sign up for climate and environment editor Adam Morton’s fr…",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/australian-ski-resorts-to-close-up-to-a-month-early-due-to-global-heating-and-el-nino",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T06:24:50.000Z"
     },
     {
       "id": "035d72035511",
@@ -978,16 +978,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-02T23:01:37.000Z"
-    },
-    {
-      "id": "228cc9f139eb",
-      "title": "Trump administration sides with OpenAI in lawsuit against New York Times",
-      "summary": "The Times and many companies are accusing OpenAI of misusing their material to train AI systems without compensation The Trump administration is supporting OpenAI in ⁠a lawsuit a…",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/trump-new-york-times-lawsuit-ai",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-02T20:39:54.000Z"
     },
     {
       "id": "a1bff74a0a93",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-01T04:44:45.000Z"
+    },
+    {
+      "id": "b706a011c83d",
+      "title": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks",
+      "summary": "Small business owners have watched large companies fumble – and sometimes succeed – with AI, and then use what works One thing I’ve learned about corporate America is that what i…",
+      "url": "https://www.theguardian.com/technology/2026/aug/30/ai-small-business",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-30T14:00:57.000Z"
     }
   ]
 }
