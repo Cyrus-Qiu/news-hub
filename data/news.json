@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T17:52:52.707Z",
+  "updatedAt": "2026-09-07T21:26:46.008Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "dd048c311224",
+      "title": "Australia politics live: John Howard warns about limiting immigration; Barnaby Joyce says super plan to have ‘minute’ inflationary effect",
+      "summary": "Follow the day’s news live ‘This is pork barrelling’ Chaney furious over ‘invite-only’ grants program Independent MP Kate Chaney says reporting of an “invite-only” community infr…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-07T21:14:16.000Z"
+    },
+    {
+      "id": "442c5b00f675",
+      "title": "UK to adopt tougher stance on Israel with illegal settlements trade ban",
+      "summary": "Ed Miliband to reassert support for Palestinian rights and a two-state solution in move likely to draw fierce criticism from US and Israel Ed Miliband will announce what he has d…",
+      "url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-07T18:34:37.000Z"
+    },
+    {
+      "id": "6c9a03216253",
+      "title": "German chancellor vows to stay in office despite AfD triumph in state election",
+      "summary": "Friedrich Merz said his conservative CDU was shaken ‘to its very foundations’ after far-right victory in Saxony-Anhalt A “shocked” and chastened Friedrich Merz has vowed to stay…",
+      "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-07T17:48:37.000Z"
+    },
     {
       "id": "caac094df001",
       "title": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
@@ -62,7 +92,7 @@
     {
       "id": "f219766d0302",
       "title": "Europe’s centre fears nationalist wave after AfD victory but only has itself to blame",
-      "summary": "Saxony-Anhalt win part of wider trend driven by mainstream policy failures and gradual normalisation of far right ideas Europe live – latest updates The numbers speak for themsel…",
+      "summary": "Saxony-Anhalt win part of wider trend driven by mainstream policy failures and gradual normalisation of far right ideas The numbers speak for themselves: Alternative für Deutschl…",
       "url": "https://www.theguardian.com/world/2026/sep/07/afd-germany-far-right-saxony-anhalt-nationalist-wave-europe-analysis",
       "source": "The Guardian World",
       "category": "国际",
@@ -202,7 +232,7 @@
     {
       "id": "8d5fdb382e0e",
       "title": "Stolen Generations survivors have more health challenges than other First Nations people",
-      "summary": "Indigenous Australians forcibly removed under government policies more likely to have severe or profound disability, report finds Get our breaking news email , free app or daily…",
+      "summary": "Indigenous Australians forcibly removed under government policies more likely to have severe or profound disability, report finds Follow our Australia news live blog for latest u…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/08/stolen-generations-survivors-have-more-health-challenges-than-other-first-nations-people-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -212,7 +242,7 @@
     {
       "id": "e70c13c7138a",
       "title": "Record strength El Niño could mean bigger supermarket bills for Australians, experts warn",
-      "summary": "Predicted hot and dry weather in growing areas in eastern Australia identified as ‘one of the key issues’ that will affect food prices over next 12 months Get our breaking news e…",
+      "summary": "Predicted hot and dry weather in growing areas in eastern Australia identified as ‘one of the key issues’ that will affect food prices over next 12 months Follow our Australia ne…",
       "url": "https://www.theguardian.com/business/2026/sep/08/record-strength-el-nino-could-mean-bigger-supermarket-bills-for-australians-experts-warn",
       "source": "The Guardian World",
       "category": "国际",
@@ -432,7 +462,7 @@
     {
       "id": "88a0d915ed05",
       "title": "Why is the far-right AfD’s state victory significant and what might happen next in German politics?",
-      "summary": "Aftershocks of party’s win in Saxony-Anhalt will ripple across Germany, with two more state elections this month Europe live – latest updates Germany is reeling from the biggest…",
+      "summary": "Aftershocks of party’s win in Saxony-Anhalt will ripple across Germany, with two more state elections this month Germany is reeling from the biggest far-right victory in a state…",
       "url": "https://www.theguardian.com/world/2026/sep/07/why-far-right-afd-state-victory-significant-german-politics-germany-explainer",
       "source": "The Guardian World",
       "category": "国际",
@@ -470,16 +500,6 @@
       "publishedAt": "2026-09-07T13:01:37.000Z"
     },
     {
-      "id": "8a23b28787cc",
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia",
-      "summary": "Fanfare at Belgrade funeral of man convicted of genocide raises questions from EU over Serbia’s membership plan Europe live – latest updates Ratko Mladić, a Serbian general convi…",
-      "url": "https://www.theguardian.com/world/2026/sep/07/ratko-mladic-butcher-of-bosnia-funeral-belgrade-serbia",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-07T11:20:15.000Z"
-    },
-    {
       "id": "c60433e8889b",
       "title": "‘The most anti-union president’: how Trump turned his back on US workers",
       "summary": "Labor experts stunned at how anti-worker Trump has been with actions since last Labor Day that have hurt unions Donald Trump has repeatedly vowed to champion US workers. Shortly…",
@@ -492,10 +512,10 @@
     {
       "id": "456b777bcb09",
       "title": "Grindr pays £26m to settle UK lawsuit over allegedly sharing users’ HIV status",
-      "summary": "US-owned dating app allegedly allowed ad firms access to private information in breach of UK law Business live – latest updates Grindr will pay £26m to settle a lawsuit brought b…",
+      "summary": "US-owned dating app allegedly allowed ad firms access to private information in breach of UK law Grindr will pay £26m to settle a lawsuit brought by thousands of users in the UK…",
       "url": "https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad",
       "source": "The Guardian Business",
-      "category": "商业",
+      "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-07T10:30:56.000Z"
     },
@@ -518,16 +538,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-07T09:44:51.000Z"
-    },
-    {
-      "id": "42ea76323044",
-      "title": "Australia’s top bureaucrats want to block sharing of clips from parliament on social media to save them from ‘ridicule’",
-      "summary": "Secretaries board concerned material posted without proper context as Greens warn ban could result in lack of transparency Get our breaking news email , free app or daily news po…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/07/australias-top-bureaucrats-want-to-block-sharing-of-clips-from-parliament-on-social-media-to-save-them-from-ridicule",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-07T09:05:33.000Z"
     },
     {
       "id": "d76b92676a15",
@@ -680,6 +690,16 @@
       "publishedAt": "2026-09-06T14:51:12.000Z"
     },
     {
+      "id": "048d544f270a",
+      "title": "Iran war likely to drag on for another six months, ex-US defense secretary warns",
+      "summary": "Leon Panetta tells Guardian US is risking ‘forever war’ and says Pentagon ‘turmoil’ sending message of weakness Donald Trump’s war with Iran is likely to drag on for another six…",
+      "url": "https://www.theguardian.com/world/2026/sep/06/iran-war-trump-leon-panetta-interview",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-06T13:26:51.000Z"
+    },
+    {
       "id": "1870eae5c5ad",
       "title": "German startup sends first commercial rocket into space from Europe",
       "summary": "Isar Aerospace plans rapid expansion amid race to capitalise on expanding satellite-launch market A German startup has launched the first commercial rocket to reach orbit from co…",
@@ -770,16 +790,6 @@
       "publishedAt": "2026-09-06T06:00:58.000Z"
     },
     {
-      "id": "2bfa6c275347",
-      "title": "Broken feet, ripped-out hair and now a death sentence: the fate of twin sisters jailed over Iran protests",
-      "summary": "Taraneh Rahimi was told prison guards would rape her sister, Romina, if she did not sign a confession The twins were 19 and still in high school when they were taken from their b…",
-      "url": "https://www.theguardian.com/world/2026/sep/06/taraneh-romina-rahimi-twin-sisters-jailed-over-iran-protests",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-06T06:00:58.000Z"
-    },
-    {
       "id": "2cbdccd6cae6",
       "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
       "summary": "一場喜馬拉雅山冰岩崩造成的泥石流，摧毀了尼泊爾超過10%的發電能力。",
@@ -848,16 +858,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-05T18:00:15.000Z"
-    },
-    {
-      "id": "9aa7c5e50f84",
-      "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
-      "summary": "Officials said US aircraft carrier and destroyer avoided attacks before three Iranian tankers were struck by the US The US military said Saturday it struck three Iranian oil tank…",
-      "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-05T15:41:22.000Z"
     },
     {
       "id": "411d7907ade6",
