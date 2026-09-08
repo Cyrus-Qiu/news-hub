@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T20:10:50.432Z",
+  "updatedAt": "2026-09-08T22:56:17.074Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,106 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "613965e9b376",
+      "title": "利润增速普遍“跑赢”件量增速 中国快递按下转型升级“换挡键”",
+      "summary": "主要快递上市公司“半年报”显示，利润增速普遍“跑赢”件量增速",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10692982.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T22:45:53.000Z"
+    },
+    {
+      "id": "578cd062bec7",
+      "title": "Australian politics live: Albanese makes ‘no apology’ for $6m golf club grant in own electorate; Victorian bills may rise by $100 under Coalition",
+      "summary": "Follow the day’s news live Albanese dismisses concerns over powers in digital duty of care bill Anthony Albanese says the Nationals leader, Matt Canavan, is being “disingenuous”…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-08T22:44:19.000Z"
+    },
+    {
+      "id": "10a617f4fb1b",
+      "title": "“中国购”的行李箱里有了新东西",
+      "summary": "外国游客从“打卡式买特产”转向“生活化买好物”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10692981.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T22:42:31.000Z"
+    },
+    {
+      "id": "0b44acab99d6",
+      "title": "南非第二季度GDP环比下降0.2%",
+      "summary": "中新社约翰内斯堡9月8日电 (记者 孙翔)南非统计局8日公布的数据显示，今年第二季度该国国内生产总值(GDP)环比下降0.2%，在连续六个季度保持增长后首次出现萎缩。此前，第一季度GDP增速修正为0.4%。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692974.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T22:37:51.000Z"
+    },
+    {
+      "id": "d6fd437d62a9",
+      "title": "美特使斡旋后俄乌战火再起 俄美元首通话一小时",
+      "summary": "本月5日及6日，美国总统特使威特科夫与特朗普女婿库什纳带着所谓的“和平方案”先后访问了俄罗斯与乌克兰，斡旋俄乌冲突。访问前夕，俄乌双方均宣布暂停打击对方首都三天。但临时停火到期后，俄乌战火重燃。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692973.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T22:34:18.000Z"
+    },
+    {
+      "id": "65973ae1db9c",
+      "title": "英法加发表联合声明谴责以色列 呼吁落实“两国方案”",
+      "summary": "中新网9月9日电 据英国首相府当地时间9月8日消息，英国首相伯纳姆、法国总统马克龙、加拿大总理卡尼当天发表联合声明，谴责以色列在约旦河西岸地区扩张，呼吁落实“两国方案”。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692972.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T22:33:42.000Z"
+    },
+    {
+      "id": "844909dbe3fb",
+      "title": "美媒：美军在伊朗哈尔克岛附近袭击多艘伊朗油轮",
+      "summary": "中新网9月9日电 据美国有线电视新闻网(CNN)报道，据两名美国官员透露，当地时间8日，美军在伊朗哈尔克岛附近袭击多艘伊朗油轮。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692971.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T22:22:46.000Z"
+    },
+    {
+      "id": "a801e44e68b8",
+      "title": "UK air traffic control problem strands hundreds of thousands of passengers",
+      "summary": "More than 1,000 flights cancelled as airlines call for overhaul of ATC system after third incident in just over three years UK airport disruption: what are your rights? Hundreds…",
+      "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-08T22:04:46.000Z"
+    },
+    {
+      "id": "bb52a8a79b3f",
+      "title": "OpenAI claims to have solved maths problem that stumped humans for decades",
+      "summary": "Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes problem in 88 hours OpenAI claims to have solved a major mathematics problem that has stumped human…",
+      "url": "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-08T21:29:10.000Z"
+    },
+    {
+      "id": "7f573efd2dbd",
+      "title": "Iran claims to have seized American drone US says had ‘malfunctioned’",
+      "summary": "Centcom says ‘defective’ drone was surveilling regional waters and was not collecting sensitive data Iranian forces claimed to have seized an American underwater drone in the str…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/iran-underwater-drone-strait-of-hormuz",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-08T20:34:01.000Z"
+    },
+    {
       "id": "472bc04cefe2",
       "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
       "summary": "Ed Miliband announces sanctions on trade with settlements as PM says in the Guardian it is time to act I believe in a two-state solution in the Middle East. That’s why we’re taki…",
@@ -58,16 +158,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-08T18:48:17.000Z"
-    },
-    {
-      "id": "a801e44e68b8",
-      "title": "UK air traffic control problem strands hundreds of thousands of passengers",
-      "summary": "At least 600 flights cancelled as airlines call for overhaul of ATC system after third incident in as many years UK airport disruption: what are your rights? Hundreds of thousand…",
-      "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-08T18:26:49.000Z"
     },
     {
       "id": "7b4680adc007",
@@ -222,7 +312,7 @@
     {
       "id": "3b49c345827c",
       "title": "Flushing the toilet can release a ‘plume’ of breathable pathogens – and closing the lid won’t stop their escape",
-      "summary": "New research shows turbulent flushes create toilet-generated aerosols that can transmit legionella, influenza and norovirus Get our breaking news email , free app or daily news p…",
+      "summary": "New research shows turbulent flushes create toilet-generated aerosols that can transmit legionella, influenza and norovirus Follow our Australia news live blog for latest updates…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/09/flushing-the-toilet-releases-pathogens-inhaled",
       "source": "The Guardian World",
       "category": "国际",
@@ -400,66 +490,6 @@
       "publishedAt": "2026-09-08T14:02:31.000Z"
     },
     {
-      "id": "85e0b869e4b8",
-      "title": "大陆企业亮相台湾智慧农渔周 两岸业者盼拓合作空间",
-      "summary": "中新社台北9月8日电 (记者 朱贺)2026台湾智慧农渔周8日在台北开幕，多家大陆企业亮相。两岸业者接受中新社采访时表示，期待进一步开拓农渔业合作空间。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692933.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T14:02:13.000Z"
-    },
-    {
-      "id": "3ac37e61a09a",
-      "title": "AI融入校园日常 浙江东阳探索智慧教学新场景",
-      "summary": "中新网金华9月8日电 (刘子琳 蒋哲炫)“刚刚我得了四颗星。”近日，在浙江省东阳市吴宁第五小学的英语课堂上，学生钱奕铭对着智能终端朗读英语，屏幕随即给出星级评分。发音是否准确、哪些单词需要改进，AI语音评测系统一目了然。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692926.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-09-08T14:01:28.000Z"
-    },
-    {
-      "id": "09b4881446ef",
-      "title": "黑龙江省“以评促改”赋能民营经济发展",
-      "summary": "中新网哈尔滨9月8日电(刘璐 韩雪)记者8日从黑龙江省工商联获悉，依托全国工商联“万家民营企业评营商环境”评价结果，黑龙江省积极推动“以评促改”，实施新一轮优化营商环境专项行动，将评价反馈的“问题清单”转化为“成效清单”。通过深化政务服务改革、破除市场隐性壁垒、强化法治保障等系列举措，全省民营经济营商环境满意度实现稳步提升。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692941.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T14:01:06.000Z"
-    },
-    {
-      "id": "c5a97d90d6a7",
-      "title": "投洽会推动两岸经贸合作发展走深走实",
-      "summary": "中新社厦门9月8日电 (郑江洛)第二十六届中国国际投资贸易洽谈会8日在厦门开幕，2026年两岸经贸合作发展交流活动、重点省市对台营商环境推介活动在厦门接连举办，推动两岸经贸交流走深走实。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692932.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T14:01:02.000Z"
-    },
-    {
-      "id": "66038d476fc3",
-      "title": "第四届中国工业高质量发展论坛在沈阳举办",
-      "summary": "中新网沈阳9月8日电 (记者 李晛)中国工业经济联合会(以下简称“中国工经联”)8日在辽宁沈阳举办第四届中国工业高质量发展论坛。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692938.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T14:00:52.000Z"
-    },
-    {
-      "id": "893f26045289",
-      "title": "2026全球工业互联网大会冶金矿山产业集群创新发展论坛在沈阳举办",
-      "summary": "中新网沈阳9月8日电 (记者 李晛)2026全球工业互联网大会冶金矿山产业集群创新发展论坛8日在沈阳举办。论坛围绕5G-A、算力网络、人工智能等新技术在冶金矿山领域的落地应用展开交流。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692937.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T14:00:42.000Z"
-    },
-    {
       "id": "5f676a143655",
       "title": "朝俄首座跨境公路橋通車 烏克蘭團體擔心加快軍援物流",
       "summary": "自俄羅斯入侵烏克蘭以來，莫斯科與平壤的關係明顯加強。",
@@ -498,16 +528,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-08T12:32:58.000Z"
-    },
-    {
-      "id": "c2a40c5625c5",
-      "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-      "summary": "Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70 Yemen’s Iran-backed Houthis have attacked four cities in Sau…",
-      "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-08T12:05:31.000Z"
     },
     {
       "id": "c57a8d0e20f6",
@@ -558,16 +578,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-08T08:22:25.000Z"
-    },
-    {
-      "id": "c807006c7920",
-      "title": "One Nation’s Warren Pickering admits to illegal drug use and says he is ‘no angel’ in extraordinary press conference",
-      "summary": "Victorian One Nation leader says his actions ‘hurt people I loved, and I will live with that forever’ Follow our Australia news live blog for latest updates Get our breaking news…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/one-nations-warren-pickering-admits-to-drug-use-and-says-he-is-no-angel-in-extraordinary-press-conference-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-08T08:04:04.000Z"
     },
     {
       "id": "083014053706",
@@ -1088,16 +1098,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-04T09:35:03.000Z"
-    },
-    {
-      "id": "8b72a35e05fb",
-      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
-      "summary": "Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’ The president of OpenAI, Greg Brockman, has claimed the wor…",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-03T18:24:42.000Z"
     },
     {
       "id": "9814589d83ea",
