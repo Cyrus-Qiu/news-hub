@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T17:24:30.787Z",
+  "updatedAt": "2026-09-08T20:10:50.432Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,46 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "472bc04cefe2",
+      "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
+      "summary": "Ed Miliband announces sanctions on trade with settlements as PM says in the Guardian it is time to act I believe in a two-state solution in the Middle East. That’s why we’re taki…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-08T19:00:50.000Z"
+    },
+    {
+      "id": "daab1693cbd1",
+      "title": "董建華：從「船王」之子到香港首任行政長官",
+      "summary": "中國香港特區首任行政長官董建華逝世，享年89歲。「香港好，國家好」是他特首生涯中最為人熟知的一句說話。",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-09-08T18:50:53.000Z"
+    },
+    {
+      "id": "9a4d9258f673",
+      "title": "董建華逝世：從船王富二代到香港首任特首",
+      "summary": "中國全國政協前副主席，香港首任特首董建華逝世，享年89歲。他的前半生見證主權移交前香港的東方之珠年代，後半生更走入最高行政當局左右香港的前途。",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-09-08T18:48:17.000Z"
+    },
+    {
+      "id": "a801e44e68b8",
+      "title": "UK air traffic control problem strands hundreds of thousands of passengers",
+      "summary": "At least 600 flights cancelled as airlines call for overhaul of ATC system after third incident in as many years UK airport disruption: what are your rights? Hundreds of thousand…",
+      "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-08T18:26:49.000Z"
+    },
+    {
       "id": "7b4680adc007",
       "title": "Ukraine’s prosecutor general quits after anti-corruption agents raid his office",
       "summary": "Ruslan Kravchenko resigns over allegations some of his officials were engaged in large-scale money laundering Ukraine’s prosecutor general has resigned after investigators used l…",
@@ -52,7 +92,7 @@
     {
       "id": "c1254dd22bde",
       "title": "Israel to close British consulate in Jerusalem after sanctions announced",
-      "summary": "Several MPs also banned from Israel after UK steps up condemnation of settlements and announces sweeping sanctions UK politics live – latest updates Israel has ordered the closur…",
+      "summary": "Several MPs also banned from Israel after UK steps up condemnation of settlements and announces sweeping sanctions Israel has ordered the closure of the British consulate in occu…",
       "url": "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
       "source": "The Guardian World",
       "category": "国际",
@@ -60,14 +100,14 @@
       "publishedAt": "2026-09-08T16:55:26.000Z"
     },
     {
-      "id": "a801e44e68b8",
-      "title": "Flight disruption across UK continues after air traffic control technical issue",
-      "summary": "London airports worst hit and 300 flights cancelled as airlines call for overhaul of UK air traffic system Flights in and out of the UK have been significantly disrupted due to a…",
-      "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
-      "source": "The Guardian World",
-      "category": "国际",
+      "id": "16a302c9188b",
+      "title": "Andrew Garfield takes on Sam Altman in creepy first teaser for Artificial",
+      "summary": "Luca Guadagnino-directed film will be released by Neon after being dropped by Amazon amid OpenAI partnership Big tech goes to Hollywood: is Silicon Valley ready for a silver-scre…",
+      "url": "https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai",
+      "source": "The Guardian Technology",
+      "category": "AI",
       "language": "en",
-      "publishedAt": "2026-09-08T16:25:32.000Z"
+      "publishedAt": "2026-09-08T16:31:02.000Z"
     },
     {
       "id": "1da9d306a6bb",
@@ -128,16 +168,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-08T15:45:18.000Z"
-    },
-    {
-      "id": "472bc04cefe2",
-      "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
-      "summary": "In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlements UK politics live – latest updates Israeli “terrorists”…",
-      "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-08T15:42:59.000Z"
     },
     {
       "id": "aabd9de24e3b",
@@ -760,16 +790,6 @@
       "publishedAt": "2026-09-07T06:00:26.000Z"
     },
     {
-      "id": "b64500df89c4",
-      "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
-      "summary": "計劃、組織和記住家務活不成比例地落在母親身上——以下是一些幫助她們的技巧。",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-07T00:03:27.000Z"
-    },
-    {
       "id": "9f5e684a5a9f",
       "title": "歐洲國家為何提走北美黃金儲備",
       "summary": "荷蘭已將86噸閃閃發亮的黃金儲備從美國遷移至其他地方，究竟發生了甚麼事？",
@@ -1080,16 +1100,6 @@
       "publishedAt": "2026-09-03T18:24:42.000Z"
     },
     {
-      "id": "9d8d5adaf2d3",
-      "title": "Hundreds gather to urge Scottish government to pause datacentre boom",
-      "summary": "Opposition mounts as at least 20 projects proposed, including one in Fife billed as second largest in world Kat Jones may be the closest thing Scotland has to Erin Brockovich in…",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai",
-      "source": "The Guardian Technology",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-03T17:48:48.000Z"
-    },
-    {
       "id": "9814589d83ea",
       "title": "Thieves steal more than 70,000 pints’ worth of Guinness from depot in Cheshire",
       "summary": "Police say two lorries were driven into industrial estate in Runcorn and attached to trailers holding about 800 barrels The famous tagline “Guinness is good for you” applies only…",
@@ -1218,16 +1228,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-02T00:01:34.000Z"
-    },
-    {
-      "id": "aa548375ac39",
-      "title": "Who is John Ternus, Apple’s new CEO?",
-      "summary": "Hardware engineering executive succeeding Tim Cook is a longtime Apple insider, indicating company will continue strategy that has led to record profits Tim Cook stepped down as…",
-      "url": "https://www.theguardian.com/technology/2026/apr/20/john-ternus-apple-ceo-tim-cook",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-01T17:33:01.000Z"
     }
   ]
 }
