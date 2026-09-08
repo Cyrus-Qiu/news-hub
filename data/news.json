@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T09:01:14.794Z",
+  "updatedAt": "2026-09-08T13:30:12.872Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,174 +30,404 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "04ceca65790e",
-      "title": "“红飘带之行——沈尧伊长征路写生作品展”启幕",
-      "summary": "中新网北京9月8日电 (记者 高凯)由国家大剧院主办的“红飘带之行——沈尧伊长征路写生作品展”日前在国家大剧院艺术馆(西厅)开幕。",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-08/10692674.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:59:05.000Z"
-    },
-    {
-      "id": "eaf2ecad6eae",
-      "title": "【2026打卡中国】在江西赣州，看见一座城的多彩叙事",
-      "summary": "九月的赣南，暑热未尽，江风裹着湿气扑面而来。一群肤色各异的人站在郁孤台上，望向章江与贡江汇流之处。云层压得很低，不时飘下几丝细雨，落在石栏上洇开一圈深色。俄罗斯姑娘卡佳扶着石栏，沉默良久后说了一句——“中国的诗词，是要站在这里才能读懂的。”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692678.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:59:01.000Z"
-    },
-    {
-      "id": "7f6be30b99d7",
-      "title": "京津冀三地消协通报：10家航空公司、5家线上售票平台完成机票超售整改",
-      "summary": "中新网北京9月8日电 (记者 吕少威)记者8日从京津冀三地消协组织了解到，8月31日，此前被约谈的10家航空公司及5家线上售票平台全部按期完成机票超售整改。三地消协组织在通报中表示，各企业已对照约谈提出的四项整改要求完成自查整改，超售规则告知、现场处置、赔付安置及投诉机制等环节的突出问题已得到针对性解决，消费者购票时即可清晰了解超售规则，遭遇机票超售时也…",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692676.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:58:27.000Z"
-    },
-    {
-      "id": "0ab874099bf0",
-      "title": "“中国柠檬之乡”的汉藏家庭农场",
-      "summary": "中新社四川资阳9月8日电 题：“中国柠檬之乡”的汉藏家庭农场",
-      "url": "https://www.chinanews.com.cn/mz/2026/09-08/10692669.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:57:17.000Z"
-    },
-    {
-      "id": "90eed60a3e3d",
-      "title": "一声“阿嬷”一脉情（金台随笔）",
-      "summary": "“阿公、阿嬷，我回家了。”",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-08/10692671.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:54:29.000Z"
-    },
-    {
-      "id": "6ec04d281975",
-      "title": "中国政府第四批紧急援助物资运抵尼泊尔",
-      "summary": "中新网加德满都9月8日电(记者 崔楠)当地时间8日13时许，中国对尼泊尔第四批紧急援助物资由中国空军运-20大型运输机运抵尼泊尔首都加德满都。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692670.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:54:17.000Z"
-    },
-    {
-      "id": "abc53997605c",
-      "title": "市场监管总局：到2030年培育5000个以上放心消费集聚区",
-      "summary": "中新网9月8日电 市场监管总局9月8日召开“开展放心消费单元和集聚区培育 助力提振消费信心”专题新闻发布会。近日，市场监管总局印发了《关于全面开展放心消费单元和集聚区培育的通知》(以下简称《通知》)，将全面启动放心消费主体培育工作，市场监管总局执法稽查局局长王火旺在会上介绍有关情况。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692658.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:52:35.000Z"
-    },
-    {
-      "id": "15b84192e904",
-      "title": "“新疆2027年中考科目及分值重大调整”不实",
-      "summary": "(2026·09·08)",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692667.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:52:25.000Z"
-    },
-    {
-      "id": "2106bb76dca3",
-      "title": "古巴外长：目前未与美国谈判，也没有任何未来谈判计划",
-      "summary": "中新社北京9月8日电 哈瓦那消息：当地时间9月7日，古巴外交部长罗德里格斯表示，目前古巴与美国之间没有进行任何谈判，也没有任何未来谈判的计划。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692652.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:49:40.000Z"
-    },
-    {
-      "id": "739fee88a4c8",
-      "title": "中国气象科技助力尼泊尔泥石流灾后救援",
-      "summary": "新华社加德满都9月8日电 题：中国气象科技助力尼泊尔泥石流灾后救援",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692665.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:49:32.000Z"
-    },
-    {
-      "id": "1cf0e57d8670",
-      "title": "哈萨克斯坦技能人才紧缺 将调整职教招生计划",
-      "summary": "中新网阿斯塔纳9月8日电(记者 单璐)哈萨克斯坦教育部长苏列伊梅诺娃8日在政府会议上表示，未来几年，哈萨克斯坦在工业、建筑业、农业和信息技术等领域对技能人才的需求较大，将根据各地区、各行业的实际需求，调整职业教育相关专业招生计划。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692639.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:49:08.000Z"
-    },
-    {
-      "id": "0949c0ec6dfe",
-      "title": "空客估2045年中国在役客机机队将增至9860架",
-      "summary": "中新社北京9月8日电 (记者 刘文文)根据空中客车(下称“空客”)8日在北京发布的全球航空市场预测，到2045年，中国的在役客机机队将增至9860架。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692663.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:48:16.000Z"
-    },
-    {
-      "id": "39927134293c",
-      "title": "日遗化武销毁进程严重滞后，国际社会敦促日方切实履约，禁化武组织第7次来华考察",
-      "summary": "【环球时报报道 记者 陈子帅 赵瑜莎】8月31日至9月5日，禁止化学武器组织(简称“禁化武组织”)总干事和执理会代表团赴吉林珲春、哈尔巴岭和敦化实地察看日本遗弃化学武器挖掘回收、销毁等作业现场。据消息人士向《环球时报》记者透露，通过此次访问，各方进一步认识到日遗化武对中国人民生命财产和生态环境造成的严重现实危害，对日方妄谈所谓“巨大付出”和“贡献”有了客…",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692664.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:47:44.000Z"
-    },
-    {
-      "id": "488848484e88",
-      "title": "圭亚那前总统：防范人工智能风险，中国的主张应该被重视",
-      "summary": "圭亚那前总统唐纳德·拉莫塔9月7日在《中国日报》撰文称，人工智能和机器人正在重塑生产与社会生活，只有坚持以人类福祉为中心、加强国际合作并防止科技被滥用，才能让新技术真正成为造福全人类的力量。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692662.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:44:10.000Z"
-    },
-    {
-      "id": "594b46ee7123",
-      "title": "全球媒体聚焦｜人工智能正在重新定义“中国制造”",
-      "summary": "《亚洲时报》近日刊文指出，当西方舆论仍把人工智能竞争更多理解为一场“大模型竞赛”时，中国企业正在沿着另一条更具产业化色彩的路径推进人工智能发展——把人工智能大规模嵌入汽车、机器人、摄像机、智能手机、家用电器和工业设备之中。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692661.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:42:54.000Z"
-    },
-    {
-      "id": "b3a4f96f223b",
-      "title": "从内容到模式 中国微短剧落地美国",
-      "summary": "随着《八仙！》《给阿嬷的情书》等中国电影暑期在多国上映，中国影视文化正在快速出海。不过，还有一种特殊的中国影视剧，收获了庞大的海外观众，那就是微短剧。这些剧集手机竖屏观看、一两分钟一集、剧情反转不断。如今在美国，从美国演员和编剧成群结队进组拍摄，到传统影视公司布局，中国微短剧的出海，正从单纯把故事带出国门，升级为一整套成熟制作模式和商业玩法的本土落地。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692660.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:40:50.000Z"
-    },
-    {
-      "id": "31253d5474d9",
-      "title": "洪秀柱参观张雪机车：真的“送到统一为止”？ 希望推出迷你车型",
+      "id": "4c7346dc0e3d",
+      "title": "9月8日新闻夜读",
       "summary": "",
-      "url": "http://www.chinanews.com.cn/tw/shipin/2026/09-08/news1068186.shtml",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-08/10692907.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-08T08:40:41.000Z"
+      "publishedAt": "2026-09-08T13:26:32.000Z"
+    },
+    {
+      "id": "0557917b7cde",
+      "title": "平陆运河通航后缩短内河航程560公里 节约运输费超50亿",
+      "summary": "记者今天(9月7日)从广西壮族自治区人民政府新闻办公室举行的新闻发布会上获悉，经过四年艰苦奋战，平陆运河主体工程已经顺利通过验收，广西水运江河海一体化智慧调度平台全面上线，应急保障、货源组织与运营筹备等工作落实到位，各项运行手续全部齐备。平陆运河将于9月16日建成通航。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692904.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:25:28.000Z"
+    },
+    {
+      "id": "45d849a3ecb5",
+      "title": "韩正出席第二十六届中国国际投资贸易洽谈会开幕式并致辞",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-08/1203616.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:24:20.000Z"
+    },
+    {
+      "id": "c26cf741820b",
+      "title": "人民日报金社平：从一件民生“小事”感悟久久为功",
+      "summary": "原标题：从一件民生“小事”感悟久久为功",
+      "url": "https://www.chinanews.com.cn/ll/2026/09-08/10692902.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:23:12.000Z"
+    },
+    {
+      "id": "67b182d3e10a",
+      "title": "1公里国道扎堆近20家！黑加油点为何屡禁不绝",
+      "summary": "针对一些地方以所谓“新能源”“替代能源”等名义销售不符合国家规定的车用燃料的行业现象，相关部门去年在全国范围内开展专项整治行动，严厉打击所谓的新能源加注站售卖柴油、汽油等危化品行为，取得不错的效果。但仍有消费者举报，在一些地方，还时不时冒出来以新能源加注站为幌子的黑加油点。从今年3月份开始，《焦点访谈》记者对此展开了持续的追踪调查。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692900.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:20:32.000Z"
+    },
+    {
+      "id": "d6f7e29b5042",
+      "title": "第74届曼谷珠宝展开幕",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-08/1203612.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:17:57.000Z"
+    },
+    {
+      "id": "4627affdce51",
+      "title": "“深圳——香港——广州”创新集群排名维持全球第一",
+      "summary": "中新社香港9月8日电 世界知识产权组织8日公布《2026年全球创新指数》百强创新集群，其中“深圳——香港——广州”集群再次排名全球第一。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-08/10692898.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:17:28.000Z"
+    },
+    {
+      "id": "00b8e99f2951",
+      "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
+      "summary": "Moscow’s foreign minister issues warning to ‘Russophobic lobby in Budapest’ after diplomats expelled for ‘unacceptable’ activities But the tone coming from Moscow is very differe…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-08T13:11:53.000Z"
+    },
+    {
+      "id": "57bc8f4ee74e",
+      "title": "Fourteen men go on trial in Paris over deadliest small-boat Channel crossing",
+      "summary": "Sinking of inflatable dinghy in 2021 resulted in 31 people dead or missing, including a seven-year-old child Fourteen men have gone on trial in Paris over the deaths of at least…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/paris-trial-deadliest-channel-small-boat-crossing",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-08T13:07:45.000Z"
+    },
+    {
+      "id": "5e0cc0aa403b",
+      "title": "《中国企业海外投资报告（东盟卷）》发布",
+      "summary": "中新社厦门9月8日电 (吴冠标)由中国国际投资促进会协同相关机构编制的《中国企业海外投资报告(东盟卷)》8日在厦门发布。",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-08/10692897.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:06:55.000Z"
+    },
+    {
+      "id": "01894289408b",
+      "title": "中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材",
+      "summary": "中新网北京9月8日电(记者 王诗尧)“动画片里也是这样，爷爷种出葫芦以后，一大堆妖精接踵而至。”这句看似调侃的网友评论，却精准概括了“葫芦娃爷爷”事件令人啼笑皆非的走向。",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-08/10692892.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:06:33.000Z"
+    },
+    {
+      "id": "43337fea83b0",
+      "title": "贺兰山下“醉”美西夏亮相杭州赴“紫色之约”",
+      "summary": "中新网杭州9月8日电 (记者 李佩珊)9月8日，宁夏银川市西夏区主办的贺兰山下“醉”美西夏招商推介大会暨葡萄酒品鉴会在杭州举办。长三角地区重点商协会、企业及媒体嘉宾百余人齐聚现场，共赴这场跨越山海的“紫色之约”，探寻东西部协作发展新机遇。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692896.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:06:27.000Z"
+    },
+    {
+      "id": "85598f5bb29e",
+      "title": "福建平和深耕蜜柚特色富民产业 不断拓宽海内外市场版图",
+      "summary": "中新网福建平和9月8日电 (记者 张金川)金秋时节，在福建省漳州市平和县的蜜柚果园里，金黄饱满的果实挂满枝头，空气中弥漫着清甜的柚香。连日来，果农采摘蜜柚、无人机吊运、标准化装车，平和琯溪蜜柚收购、果园订购工作有序开展，各地经营主体抢抓产销机遇。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692895.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:06:07.000Z"
+    },
+    {
+      "id": "d46a32378aba",
+      "title": "案板烟火暖银川：肉铺里长出的地摊火锅",
+      "summary": "中新网银川9月8日电 题：案板烟火暖银川：肉铺里长出的地摊火锅",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692888.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:05:17.000Z"
+    },
+    {
+      "id": "169422d4ff76",
+      "title": "中国·泰来胚芽米产业联盟成立 产学研联手打通“种源到餐桌”",
+      "summary": "中新网天津9月8日电 (记者 周亚强)一粒胚芽米，正在黑土地上撬动一个产业。记者从总部位于天津的荣程集团获悉，中国·泰来胚芽米(留胚米)产业联盟近日正式揭牌，“中国·泰来全谷物健康稻米产业创新园”同步落地。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692886.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:04:59.000Z"
+    },
+    {
+      "id": "296ef8d3b1b4",
+      "title": "京津冀机器人整零对接活动天津举行 160家企业共促产业链协同",
+      "summary": "中新网天津9月8日电 (记者 周亚强)京津冀“一月一链、一季一群”机器人整零对接活动8日在天津河西空天数字产业园举行。来自三地的160家企业及机构代表参会，多家企业围绕整零配套、技术和产融合作现场达成初步合作意向。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692885.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T13:04:49.000Z"
+    },
+    {
+      "id": "ee9315682f38",
+      "title": "广西田林：秋日八角晾晒忙 香料产业迎丰收",
+      "summary": "图为工人们在晾晒八角。黄数情 摄 图为航拍工人们晾晒八角(无人机照片)。黄数情 摄 图为工人们在晾晒八角。黄数情 摄 图为工人们在晾晒八角。黄数情 摄 图为工人们在晾晒八角。黄数情 摄 图为工人们在分拣八角。黄数情 摄 图为工人们在晾晒八角。黄数情 摄",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-08/10692847.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:58:08.000Z"
+    },
+    {
+      "id": "79e9430bb19e",
+      "title": "四川甘孜：农机助力川西高原秋收",
+      "summary": "9月8日，甘孜县昔色乡格虾村村民把青稞粒从收割机上转运到拖拉机。9月，四川省甘孜藏族自治州各地进入秋收的繁忙季节，田间地头一片忙碌的景象。中新社记者 王磊 摄 9月8日，收割机助力甘孜县昔色乡格虾村收割青稞。9月，四川省甘孜藏族自治州各地进入秋收的繁忙季节，田间地头一片忙碌的景象。中新社记者 王磊 摄 9月8日，甘孜县昔色乡格虾村村民把青稞粒从收割机上转…",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-08/10692846.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:57:40.000Z"
+    },
+    {
+      "id": "49acfa000758",
+      "title": "哈萨克斯坦推进职教改革适应产业数字化转型",
+      "summary": "中新社阿斯塔纳9月8日电(记者 单璐)哈萨克斯坦总理别克捷诺夫8日在政府会议上表示，哈萨克斯坦应加快职业教育改革，培养掌握数字技术和人工智能应用技能的人才，更好满足产业升级需求。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692884.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:55:24.000Z"
+    },
+    {
+      "id": "a2b7b8837b6c",
+      "title": "Anti-AfD protests sweep Germany as far right closes in on two more states",
+      "summary": "Alarm that Berlin and Mecklenburg-Western Pomerania may fall next after party’s Saxony-Anhalt election victory ‘It breaks my heart’: victory sparks dismay Europe live – latest up…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/anti-afd-protests-germany-far-right-berlin-mecklenburg-western-pomerania",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-08T12:54:24.000Z"
+    },
+    {
+      "id": "f4cfcaad1d57",
+      "title": "福建开行首趟“迎新专列” 七百余名新生乘高铁赴开学之约",
+      "summary": "中新网福建泰宁9月8日电 (张贵锋陈临燕)9月7日正午，D9191次列车缓缓驶离福建泰宁站，载着三明学院泰宁文旅现代产业学院700余名2026级新生奔赴三明，参加校本部开学典礼。这是福建省开行的首趟“迎新专列”，也是铁路部门主动融入地方教育发展、以精准服务助力区域经济的一项创新举措。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692876.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:54:02.000Z"
+    },
+    {
+      "id": "304b03a1485e",
+      "title": "大爱无疆！23岁小伙捐献器官为7名患者点亮新生",
+      "summary": "中新网长沙9月8日电 (徐志雄 李姗)“儿子，你的心愿妈妈帮你完成了，以后，会有人替你去看世间所有美好。”9月7日，一场令人痛彻心扉又无比温暖的告别仪式，在中南大学湘雅三医院器官移植科举行。23岁湖南小伙柯鑫(化名)的母亲徐女士强忍丧子之痛，遵从孩子生前夙愿，在器官捐献同意书上签下了名字，柯鑫捐献出心脏、肝脏、双肾及一对眼角膜，为7名陌生患者带去生机与光明。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692875.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:53:12.000Z"
+    },
+    {
+      "id": "ce18468d0717",
+      "title": "海南产经新观察：昌江推动产业结构从“黑灰”转向“蓝绿”",
+      "summary": "中新网海口9月8日电 (记者 王晓斌)位于海南岛西部的昌江黎族自治县，是海南典型的资源型市县，经济发展长期依赖铁矿采选、水泥制造等重工业。进入“十五五”，如何在资源存量递减的约束下找到新的增长点，是必须直面的问题。昌江黎族自治县发改委主任陈进荣在海南省新闻办公室8日举行的发布会上表示，将立足资源枯竭城市转型现实，推动昌江产业结构从“黑灰”向“蓝绿”深度转变。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692874.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:52:40.000Z"
+    },
+    {
+      "id": "5a3085150080",
+      "title": "第十五届中国知识产权年会在北京开幕 中外代表8000余人与会",
+      "summary": "中新网北京9月8日电 (记者 孙自法)以“奋力推动‘十五五’知识产权事业高质量发展”为主题的第十五届中国知识产权年会，9月8日在北京开幕，来自政府部门、学界、企业界等中外代表8000余人与会。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692873.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:51:36.000Z"
+    },
+    {
+      "id": "042783c03176",
+      "title": "“中国天眼”构建世界最大中性氢星系样本库 绘就最大宇宙气体图谱",
+      "summary": "中新网北京9月8日电 (记者 孙自法)中国科学院国家天文台9月8日发布消息说，“中国天眼”(500米口径球面射电望远镜，FAST)最近在中性氢巡天领域再次取得重大突破——构建世界最大中性氢星系样本库、绘就最大宇宙气体图谱。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692871.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:50:16.000Z"
+    },
+    {
+      "id": "dbbe12b32ebb",
+      "title": "两岸青年媒体人交流活动在重庆启幕",
+      "summary": "中新网重庆9月8日电 (张旭)9月8日下午，“光影载青春 同心共前行”两岸青年媒体人交流活动在重庆工商大学启幕。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692872.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:47:37.000Z"
+    },
+    {
+      "id": "8b784b791558",
+      "title": "“深圳—香港—广州” 创新集群蝉联百强创新集群榜首",
+      "summary": "中新网广州9月8日电 (记者 王坚)世界知识产权组织8日在日内瓦总部发布的《2026年全球创新指数》百强创新集群报告显示，中国拥有25个全球百强创新集群，上榜集群数量连续第四年位居世界第一。按照集群规模排名，中国三大集群进入前十榜单，其中“深圳-香港-广州”集群连续第二年名列榜首。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692870.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:46:03.000Z"
+    },
+    {
+      "id": "be68409ccc0c",
+      "title": "广东培训专业应急救援队伍直升机索降技能",
+      "summary": "中新网广州9月8日电 (记者 王坚)据广东省应急管理厅8日消息，广东省应急管理厅2026年度首期专业应急救援队伍直升机索降技能培(复)训7日在珠海九洲机场收官，有效提升专业应急救援队伍空中突击专业救援技能水平，从而更有力地应对各类重大突发灾害事故。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692869.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:44:49.000Z"
+    },
+    {
+      "id": "472bc04cefe2",
+      "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
+      "summary": "In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlements UK politics live – latest updates Israeli “terrorists”…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-08T12:43:55.000Z"
+    },
+    {
+      "id": "c3b7bc5297e2",
+      "title": "2026未来投资大会厦门开幕 聚焦全球投资竞逐绿色转型",
+      "summary": "中新社厦门9月8日电 (叶秋云)2026未来投资大会开幕式暨全体会议8日在厦门举行，中外嘉宾围绕“变化世界中的全球投资”这一主题，探讨创新与可持续发展如何塑造未来。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692867.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:43:49.000Z"
+    },
+    {
+      "id": "2a3abdc796f3",
+      "title": "《未成年人短视频媒介素养培育指南》发布",
+      "summary": "中新网北京9月8日电 (记者 尹倩芸)近日，中国教育学会青少年媒介素养分会、清华大学新闻与传播学院和抖音在清华大学发布《未成年人短视频媒介素养培育指南》(下称《指南》)。《指南》首次系统构建“基础层—核心层—保障层”三层能力框架，助力未成年人在数字时代健康成长。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692866.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:43:41.000Z"
+    },
+    {
+      "id": "9fb543b40878",
+      "title": "“深圳—香港—广州”创新集群蝉联全球第一",
+      "summary": "中新社广州9月8日电 (记者 孙秋霞)世界知识产权组织(WIPO)8日发布《2026年全球创新指数》“世界百强创新集群”榜单，“深圳—香港—广州”创新集群蝉联榜首，“澳门—珠海”创新集群连续三年入围世界百强。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-08/10692865.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:43:17.000Z"
+    },
+    {
+      "id": "4be5b016cd86",
+      "title": "马来西亚一直升机坠毁 机上5人情况待证实",
+      "summary": "中新社吉隆坡9月8日电(记者 刘育英)马来西亚一架BO—105直升机8日在沙捞越州龙里浪短距起降机场(Long Lellang STOLport)附近坠毁，机上共5人，含飞行员。该机场位于古晋以北约929公里处。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692864.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:42:59.000Z"
+    },
+    {
+      "id": "268046f2171d",
+      "title": "环广西世巡赛迎来全新赛道布局",
+      "summary": "中新网南宁9月8日电(黄令妍)2026环广西公路自行车世界巡回赛(简称环广西世巡赛)将于10月13日至18日举行。9月8日召开的赛事新闻发布会透露，22支全球顶级职业车队即将踏上全长1068.6公里的壮美赛道。今年比赛路线实现重大调整，新增路线解锁更多喀斯特地貌特色山水。",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-08/10692858.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-08T12:42:49.000Z"
+    },
+    {
+      "id": "2c9421d91e25",
+      "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
+      "summary": "Thieves took four artworks but it is thought they dropped two in museum garden as they fled Two thieves have broken into a museum dedicated to the French impressionist painter Pi…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-08T12:26:35.000Z"
+    },
+    {
+      "id": "c2a40c5625c5",
+      "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+      "summary": "Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70 Yemen’s Iran-backed Houthis have attacked four cities in Sau…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
+      "source": "The Guardian World",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-08T12:05:31.000Z"
+    },
+    {
+      "id": "b75d6a869b00",
+      "title": "Crocodile head found in luggage at Italian airport",
+      "summary": "Man, who had arrived in Turin from Miami via Istanbul, under investigation for smuggling and faces fine or prison An Italian man is facing a hefty fine or possible prison term af…",
+      "url": "https://www.theguardian.com/environment/2026/sep/08/crocodile-head-seized-luggage-italy-airport",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-08T12:05:17.000Z"
+    },
+    {
+      "id": "c57a8d0e20f6",
+      "title": "AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief",
+      "summary": "Rene Haas also claims artificial intelligence could pave way for widespread use of humanoid robots within five years Business live – latest updates The boss of one of the UK’s bi…",
+      "url": "https://www.theguardian.com/business/2026/sep/08/ai-cure-cancer-arm-holdings-rene-haas",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-08T11:49:11.000Z"
+    },
+    {
+      "id": "36299747857e",
+      "title": "US police fear Meta smart glasses could be used to secretly record them",
+      "summary": "Exclusive: Documents show officers from Maine to California worry Meta’s camera-equipped glasses will be used either to secretly record them or aid acts of terrorism In January,…",
+      "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-08T10:00:02.000Z"
+    },
+    {
+      "id": "81071a60e69a",
+      "title": "Mother flagged faulty smoke alarms before house fire that killed father and five children, court hears",
+      "summary": "Pre-inquest conference into Queensland deaths hears witnesses did not hear any smoke alarms during 2023 fire Get our breaking news email , free app or daily news podcast A landlo…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/russell-island-house-fire-inquest-father-five-children-killed-faulty-smoke-alarms",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-08T09:27:45.000Z"
     },
     {
       "id": "c3624ba05f5d",
@@ -210,154 +440,14 @@
       "publishedAt": "2026-09-08T08:38:59.000Z"
     },
     {
-      "id": "66cecaf60ce0",
-      "title": "全球媒体聚焦｜印媒：金砖峰会召开在即 “全球南方”迎来合作新机遇",
-      "summary": "第十八届金砖国家领导人峰会将于9月12日至13日在印度新德里举行。此次会晤恰逢金砖合作机制创立20周年。连日来，印度媒体密集发声，聚焦这一“全球南方”的重要时刻。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692657.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:38:42.000Z"
-    },
-    {
-      "id": "0e4ca2a2734a",
-      "title": "七位“洋创客”，为何选择来中国创业？",
-      "summary": "原标题：我在北京逐梦创业(在中国·看中国)",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692656.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:35:46.000Z"
-    },
-    {
-      "id": "37392a840ce0",
-      "title": "经常反酸反胃不是小病！一文读懂胃食管反流如何防治",
-      "summary": "很多人都经历过反酸、烧心，不少人简单归为“胃不舒服”，草草对待。可一旦症状反复出现，背后或许就是胃食管反流病，放任不管可能带来严重后果。本周(9月7日至13日)是全国胃食管反流病宣传周，旨在提高公众对胃食管反流疾病的认知，倡导规范诊疗。什么是胃食管反流？诱因有哪些？该如何科学治疗？",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-08/10692655.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:30:35.000Z"
-    },
-    {
-      "id": "9cd3f74b5610",
-      "title": "重庆秀山：吊脚楼前晒秋忙 土家村寨好“丰”光",
-      "summary": "图为村民在院坝里晾晒玉米。（无人机照片）胡程 摄 图为村民在院坝里晾晒玉米。胡程 摄 图为村民在院坝里晾晒玉米。（无人机照片）胡程 摄 图为村民在簸箕里晾晒辣椒、杂粮等农作物。（无人机照片）胡程 摄 图为村民在簸箕里晾晒辣椒、杂粮等农作物。胡程 摄 图为村民在院坝里晾晒玉米。（无人机照片）胡程 摄 图为村民在院坝里晾晒玉米。胡程 摄",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-08/10692643.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:26:25.000Z"
-    },
-    {
-      "id": "fb3acd89addc",
-      "title": "政策解读|海关总署关于进口老挝花生植物检疫要求的公告",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-08/10692653.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:26:03.000Z"
-    },
-    {
       "id": "dd048c311224",
-      "title": "Australia news live: another Australian found safe after Nepal-Tibet floods; tributes for father and daughter killed in plane crash",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast One Nation policy will leave people $25k worse off at retirement, Mulino says Superannuati…",
+      "title": "Another Australian found safe after Nepal-Tibet floods – as it happened",
+      "summary": "This blog is now closed ‘Global reckoning for big tech’: Australia to force social media platforms to allow users to opt out of algorithms Get our breaking news email , free app…",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
       "source": "The Guardian World",
-      "category": "国际",
+      "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-08T08:22:25.000Z"
-    },
-    {
-      "id": "00b8e99f2951",
-      "title": "Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live",
-      "summary": "Ruslan Kravchenko leaves post after his offices were searched at the weekend, as Moscow renews attacks after pause for peace talks Iceland summoned the US ambassador for talks la…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-08T08:20:25.000Z"
-    },
-    {
-      "id": "806c0a187609",
-      "title": "三部门发文加快提供优质高效眼健康服务",
-      "summary": "中新网9月8日电 据国家卫健委网站消息，近日，国家卫生健康委、国家中医药局、国家疾控局发布关于印发加快提供优质高效眼健康服务工作方案(2026—2030年)的通知。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692626.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:20:21.000Z"
-    },
-    {
-      "id": "707d6ddb2341",
-      "title": "梧州海关汽车定点维修（KWDD5C2026014）竞争性协商公告",
-      "summary": "一、项目基本情况",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-08/10692651.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:19:11.000Z"
-    },
-    {
-      "id": "a830b9813186",
-      "title": "开局起步“十五五”：海南昌江构建海陆复合型海洋经济示范区",
-      "summary": "中新网海口9月8日电 (记者 王晓斌)昌江是海南西部沿海市县，“十四五”期间海洋渔业产值较“十三五”实现了翻番。在海南省新闻办公室8日举行的“开局起步‘十五五’”系列主题新闻发布会上，昌江黎族自治县农业农村局局长杨玉娟介绍，“十五五”期间昌江将构建海陆复合型海洋经济示范区，以陆促海、以海带陆，形成全域联动的海洋产业发展新格局。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692644.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:16:19.000Z"
-    },
-    {
-      "id": "ee4fac6db405",
-      "title": "开局起步“十五五”：海南昌江打造清洁能源、绿色算力与新材料三大高地",
-      "summary": "中新网海口9月8日电 (记者 王晓斌)昌江黎族自治县是海南最大的清洁能源基地，也是全省唯一的核电基地所在地。记者从海南省新闻办公室8日召开的“开局起步‘十五五’”系列主题新闻发布会获悉，“十五五”期间昌江将推动核电3、4号机组建成投产，加快5、6号机组开工，推进规划总规模620万千瓦海上风电项目建设。到“十五五”末，昌江清洁能源发电量预计将占全省用电量的…",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692645.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:15:43.000Z"
-    },
-    {
-      "id": "805fe1e5b734",
-      "title": "（活力中国调研行）科技赋能，“东方红”拖拉机志在全球",
-      "summary": "中新网洛阳9月8日电(卢岩 赵梦阳)在位于洛阳的中国一拖大拖智能生产线上，一辆辆“东方红”拖拉机正在紧锣密鼓地组装。中国一拖作为中国农机行业的“龙头”企业，不到三分钟就有一台拖拉机驶下生产线，开往世界各地。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692650.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:14:51.000Z"
-    },
-    {
-      "id": "c70e7168f682",
-      "title": "一棚多用四季增收 湖南祁阳探索轮作模式激活冬闲农业",
-      "summary": "中新网祁阳9月8日电(刘志军)眼下，湖南祁阳市抢抓秋季农业生产窗口期，深挖闲置大棚资源潜力，全力推进秋延辣椒幼苗移栽工作。当地创新推行“设施轮作、错季种植”模式，将冬天空置的大棚转化为农户增收致富的载体，为乡村产业振兴注入强劲动能。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692642.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:14:39.000Z"
-    },
-    {
-      "id": "f24326d88991",
-      "title": "（乡村行·看振兴）千年凤堰梯田稻浪翻涌 铺就富民金色画卷",
-      "summary": "中新网陕西汉阴9月8日电 (李一璠 文婷 贺珍珍)近日，地处秦巴腹地的陕西汉阴凤堰梯田万亩稻田迎来丰收季。作为世界灌溉工程遗产，层层叠叠的古老梯田稻浪翻涌、生机盎然，农户们抢抓晴好天气忙着收割稻谷，秋日丰收画卷徐徐铺展。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692636.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:14:17.000Z"
-    },
-    {
-      "id": "afd1cd2e9503",
-      "title": "山西长治鲜鸡蛋首次出口中国香港",
-      "summary": "中新网太原9月8日电 (记者 杨静)记者8日从太原海关获悉，10.36吨鲜鸡蛋近日经太原海关所属长治海关检疫查验合格后首次出口中国香港，为当地特色农食产品出口再添新样本。",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-08/10692647.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-08T08:13:45.000Z"
     },
     {
       "id": "c807006c7920",
@@ -380,16 +470,6 @@
       "publishedAt": "2026-09-08T07:55:05.000Z"
     },
     {
-      "id": "2c9421d91e25",
-      "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
-      "summary": "Thieves took four artworks but dropped one as they fled, says mayor of Cagnes-sur-Mer Two thieves have broken into a museum dedicated to the French impressionist painter Pierre-A…",
-      "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-08T07:49:34.000Z"
-    },
-    {
       "id": "894730a8566d",
       "title": "Ban on neo-Nazi White Australia party is ‘authoritarian’ and breaches constitution, high court hears",
       "summary": "Lawyers also argue commonwealth does not have the power to ban a political party, as the high court ruled in 1951 over attempt to ban the Communist party Follow our Australia new…",
@@ -398,16 +478,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-08T07:49:24.000Z"
-    },
-    {
-      "id": "c5535b119a5b",
-      "title": "Witness told Alan Jones he was ‘the greatest broadcaster ever’ while labelling SMH reporter a ‘bitch’",
-      "summary": "Former 2GB and 2UE radio host has denied 22 indecent assault and sexual touching charges Follow our Australia news live blog for latest updates Get our breaking news email , free…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/alan-jones-trial-sexual-touching-witness-promised-loyalty-to-greatest-broadcaster-ever-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-08T07:47:29.000Z"
     },
     {
       "id": "083014053706",
@@ -420,16 +490,6 @@
       "publishedAt": "2026-09-08T07:43:25.000Z"
     },
     {
-      "id": "b9c8317d4e7a",
-      "title": "UK commits £100m to bolster Ukraine’s air defences over winter",
-      "summary": "Package of military equipment includes Patriot missiles, supplies of which have dwindled amid Russian attacks The UK has committed £100m to boost Ukraine’s air defences over wint…",
-      "url": "https://www.theguardian.com/politics/2026/sep/08/uk-commits-100m-bolster-ukraine-air-defences-russia-war",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-08T07:24:17.000Z"
-    },
-    {
       "id": "dfaefb280db7",
       "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
       "summary": "專家稱，航母給美國盟友的是心理保證。印太區域沒有航母，「會加強一種整體感覺：美國正被中東局勢分心。」",
@@ -440,24 +500,14 @@
       "publishedAt": "2026-09-08T06:35:07.000Z"
     },
     {
-      "id": "4858d6f72537",
-      "title": "‘It breaks my heart’: far-right’s big election victory sparks dismay in German state capital",
-      "summary": "Fears expressed for immigrants and for country’s future after AfD vote hits historic high in Saxony-Anhalt Maryam and her best friend were ambling through Magdeburg toward the ra…",
-      "url": "https://www.theguardian.com/world/2026/sep/08/germany-afd-far-right-election-victory-saxony-anhalt",
-      "source": "The Guardian World",
-      "category": "国际",
+      "id": "4ec437a8e599",
+      "title": "Social media users could opt out of the algorithm if Australian government has its way – but that’s a big if",
+      "summary": "Even if the legislation passes, tech companies may still find ways to frustrate its intent and keep Australians hooked on their feed Social media could become a “choose your own…",
+      "url": "https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia",
+      "source": "The Guardian Technology",
+      "category": "科技",
       "language": "en",
-      "publishedAt": "2026-09-08T06:13:28.000Z"
-    },
-    {
-      "id": "9fa0d3d0a514",
-      "title": "Tuesday briefing: What happens next after Germany’s far-right breakthrough?",
-      "summary": "In today’s newsletter: The AfD’s local election triumph has shocked Europe, and raised questions about how to counter the rising far right Good morning. Across Germany – and Euro…",
-      "url": "https://www.theguardian.com/world/2026/sep/08/tuesday-briefing-what-happens-next-after-germanys-far-right-breakthrough",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-08T05:49:09.000Z"
+      "publishedAt": "2026-09-08T06:23:42.000Z"
     },
     {
       "id": "cf62e83635f6",
@@ -680,26 +730,6 @@
       "publishedAt": "2026-09-07T04:00:25.000Z"
     },
     {
-      "id": "de2089c0039b",
-      "title": "Designers should not fear being replaced by AI, industry leaders say",
-      "summary": "Firms are more likely to use technology as ‘the intern in the office’ than as a replacement for skilled staff Professional designers should not feel “threatened” by the rapid gro…",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-07T04:00:25.000Z"
-    },
-    {
-      "id": "c99debc6e19d",
-      "title": "Why Meta started losing in court - podcast",
-      "summary": "Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigat…",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/07/why-meta-started-losing-in-court-podcast",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-07T02:00:21.000Z"
-    },
-    {
       "id": "b64500df89c4",
       "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
       "summary": "計劃、組織和記住家務活不成比例地落在母親身上——以下是一些幫助她們的技巧。",
@@ -728,16 +758,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-06T20:00:14.000Z"
-    },
-    {
-      "id": "7a2141c2148a",
-      "title": "Energy secretary says US might not reach nuclear agreement with Iran",
-      "summary": "Chris Wright tells ABC there ‘may not’ be an agreement that would prevent Iran from having nuclear weapons US energy secretary Chris Wright said on Sunday morning that the US may…",
-      "url": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-06T17:39:10.000Z"
     },
     {
       "id": "7d8bb82203ac",
@@ -778,16 +798,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-06T14:51:12.000Z"
-    },
-    {
-      "id": "048d544f270a",
-      "title": "Iran war likely to drag on for another six months, ex-US defense secretary warns",
-      "summary": "Leon Panetta tells Guardian US is risking ‘forever war’ and says Pentagon ‘turmoil’ sending message of weakness Donald Trump’s war with Iran is likely to drag on for another six…",
-      "url": "https://www.theguardian.com/world/2026/sep/06/iran-war-trump-leon-panetta-interview",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-06T13:26:51.000Z"
     },
     {
       "id": "1870eae5c5ad",
@@ -1138,16 +1148,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-02T23:47:15.000Z"
-    },
-    {
-      "id": "a1bff74a0a93",
-      "title": "Tim Cook handed $47m package for new role as executive chair of Apple",
-      "summary": "Pay and shares deal nearly matches $58m award to John Ternus, his successor as CEO at the $4.7tn tech company Tim Cook has received a $47m (£35m) pay deal as Apple’s executive ch…",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/tim-cook-47m-package-chair-apple",
-      "source": "The Guardian Business",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-02T14:46:36.000Z"
     },
     {
       "id": "94352fc04169",
