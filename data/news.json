@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T19:25:41.201Z",
+  "updatedAt": "2026-09-09T21:54:37.516Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,36 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "794d151161e5",
+      "title": "Australia politics live: Malinauskas warns Albanese not to follow One Nation down rabbit hole of migration cuts",
+      "summary": "Follow the day’s news live ‘We need to explain Australia doesn’t have a migration crisis’: Malinauskas Peter Malinaukas says he understands the concerns of Australians worried ab…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-09T21:34:29.000Z"
+    },
+    {
+      "id": "eae43255c485",
+      "title": "Victoria’s koalas in chronically poor health and population is half what was previously estimated",
+      "summary": "Exclusive: State government delayed releasing major report into the health of the koala population for more than 12 months Follow our Australia news live blog for latest updates…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/10/victorias-koalas-in-chronically-poor-health-and-population-is-half-what-was-previously-estimated",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-09T20:23:27.000Z"
+    },
+    {
+      "id": "9da2550fdbde",
+      "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
+      "summary": "Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis US politics live – latest updates The US treasury moved to cut the c…",
+      "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-09T19:56:30.000Z"
+    },
     {
       "id": "3d59153b95ad",
       "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
@@ -108,16 +138,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-09T17:26:34.000Z"
-    },
-    {
-      "id": "9da2550fdbde",
-      "title": "US treasury to buy back $6bn in government debt to alleviate bond market",
-      "summary": "Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis US politics live – latest updates The US treasury will buy back $6bn…",
-      "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-09T16:41:06.000Z"
     },
     {
       "id": "c95a60a865f3",
@@ -282,7 +302,7 @@
     {
       "id": "d2dfd09ce342",
       "title": "The RBA hoped this year’s three interest rate rises would tame inflation – but nothing is going their way",
-      "summary": "The breakdown of the US-Iran ceasefire, rising oil prices and the explosion in data centre investment are making the central bank’s task harder Follow our Australia news live blo…",
+      "summary": "The breakdown of the US-Iran ceasefire, rising oil prices and the explosion in datacentre investment are making the central bank’s task harder Get our breaking news email , free…",
       "url": "https://www.theguardian.com/business/2026/sep/10/the-rba-hoped-this-years-three-interest-rate-rises-would-tame-inflation",
       "source": "The Guardian World",
       "category": "财经",
@@ -492,7 +512,7 @@
     {
       "id": "cc966392cec5",
       "title": "Peter’s farm is on ‘flood country’. As Australia’s sea levels rise, safe land is vanishing and costs are huge",
-      "summary": "Climate Council forecasts more than 267,000 coastal properties will be damaged by flooding by 2100, costing hundreds of billions of dollars Get our breaking news email , free app…",
+      "summary": "Climate Council forecasts more than 267,000 coastal properties will be damaged by flooding by 2100, costing hundreds of billions of dollars Follow our Australia news live blog fo…",
       "url": "https://www.theguardian.com/environment/2026/sep/10/peters-farm-is-on-flood-country-as-australias-sea-levels-rise-safe-land-is-vanishing-and-costs-are-huge",
       "source": "The Guardian World",
       "category": "国际",
@@ -501,21 +521,11 @@
     },
     {
       "id": "7aa08c1aec2e",
-      "title": "RentTech companies still asking tenants for personal details ‘completely outside’ new Victorian laws",
+      "title": "RentTech companies asking tenants for personal details ‘completely outside’ new Victorian laws",
       "summary": "Some rental platforms encourage hopeful tenants to share ‘excessive’ amount of information, Consumer Policy Research Centre review finds Get our breaking news email , free app or…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/10/renttech-tenants-personal-information-privacy-victorian-laws",
       "source": "The Guardian World",
       "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T14:01:00.000Z"
-    },
-    {
-      "id": "dd264e77830f",
-      "title": "High-end property hit by steepest price falls as affordable end of Australia’s housing market proves resilient",
-      "summary": "Despite falls in some parts of the market, prices are showing signs of stabilising as investors exit and first-time buyers move in, analysts say Get our breaking news email , fre…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/10/high-end-property-biggest-price-fall-housing-market-australia",
-      "source": "The Guardian World",
-      "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-09T14:01:00.000Z"
     },
@@ -608,16 +618,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-09T09:29:34.000Z"
-    },
-    {
-      "id": "4b82b2e26933",
-      "title": "Man shot dead in Sydney community centre car park",
-      "summary": "NSW police say a vehicle was seen driving away from the scene in Punchbowl in the city’s south-west Get our breaking news email , free app or daily news podcast A man has been sh…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/09/man-shot-dead-in-sydney-community-centre-carpark-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T09:14:03.000Z"
     },
     {
       "id": "f6ac28dd581d",
