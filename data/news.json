@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T16:30:34.442Z",
+  "updatedAt": "2026-09-09T19:25:41.201Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,6 +30,96 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "3d59153b95ad",
+      "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+      "summary": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi cities Business live – latest updates The price of oil has risen above $1…",
+      "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-09T19:09:13.000Z"
+    },
+    {
+      "id": "0c2cd5f91c33",
+      "title": "Apple unveils folding iPhone Duo as new CEO takes center stage",
+      "summary": "The passport-size iPhone Duo serves as the first big test for John Ternus, who took over for Tim Cook last week Apple has unveiled the iPhone Duo, the company’s first foldable ph…",
+      "url": "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-09T18:45:46.000Z"
+    },
+    {
+      "id": "03dfc591c795",
+      "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+      "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games,…",
+      "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-09T18:20:24.000Z"
+    },
+    {
+      "id": "4ee8465f156d",
+      "title": "Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds",
+      "summary": "Analysis of two skeletons reveals tooth wear and traces of psychoactive substance in what may be earliest known evidence for human drug taking What may be the earliest known evid…",
+      "url": "https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-09T18:00:02.000Z"
+    },
+    {
+      "id": "255ec7ea1f1c",
+      "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
+      "summary": "Spiritual leaders stress diversity of views within Jewish community and warn against inaction on settler violence ‘It’s a good start’: prominent Israelis welcome UK sanctions Pro…",
+      "url": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-09T17:57:14.000Z"
+    },
+    {
+      "id": "6d6f3fbdbaa0",
+      "title": "‘It’s a good start’: prominent Israelis welcome UK sanctions on illegal settlements",
+      "summary": "Ed Miliband’s intervention was ‘inevitable’ after Israeli government and security failures, say former ministers and diplomats Prominent Israelis have welcomed new UK sanctions a…",
+      "url": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-09T17:36:42.000Z"
+    },
+    {
+      "id": "7adc33e20040",
+      "title": "韩国连续三年缺席日本佐渡金山劳工受害者悼念仪式",
+      "summary": "中新社首尔9月9日电 (记者 金旭)韩国外交部当地时间9日表示，韩国政府决定不参加日本12日在新潟县佐渡市举行的佐渡金山强征劳工受害者悼念仪式。这将是韩国连续第三年缺席该活动。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693657.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-09T17:27:24.000Z"
+    },
+    {
+      "id": "c5c97a6d4b8f",
+      "title": "商务部：中方反对美方在人工智能领域推行科技霸权、搞算力垄断",
+      "summary": "中新社北京9月9日电 (记者 尹倩芸)就美国发布中国人工智能企业对美蒸馏活动相关网络安全公告，中国商务部新闻发言人9日表示，美方相关公告，是其在人工智能领域推行科技霸权、搞算力垄断，打压竞争的又一明证。中方对此坚决反对。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-09T17:26:34.000Z"
+    },
+    {
+      "id": "9da2550fdbde",
+      "title": "US treasury to buy back $6bn in government debt to alleviate bond market",
+      "summary": "Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis US politics live – latest updates The US treasury will buy back $6bn…",
+      "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-09T16:41:06.000Z"
+    },
+    {
       "id": "c95a60a865f3",
       "title": "Israel sanctions will not hurt intelligence sharing between spy agencies, says Miliband",
       "summary": "UK foreign secretary says international community including US shares ‘frustration’ at Israel’s failure to constrain illegal settlers British intelligence has been given assuranc…",
@@ -52,10 +142,10 @@
     {
       "id": "f1ee0b88666a",
       "title": "Air traffic control boss given a week to report after UK flight chaos causes 2,000 cancellations",
-      "summary": "Government remains confident in under-pressure Martin Rolfe but transport secretary believes glitch was avoidable Business live – latest updates How have you been affected by UK…",
+      "summary": "Government remains confident in under-pressure Martin Rolfe but transport secretary believes glitch was avoidable How have you been affected by UK air traffic disruption? Busines…",
       "url": "https://www.theguardian.com/world/2026/sep/09/uk-flight-cancellations-nats-martin-rolfe-heidi-alexander",
       "source": "The Guardian World",
-      "category": "商业",
+      "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-09T16:09:18.000Z"
     },
@@ -68,6 +158,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-09T15:59:14.000Z"
+    },
+    {
+      "id": "cc82c264682b",
+      "title": "Anthropic researchers say AI could cause human extinction by 2030",
+      "summary": "One researcher who resigned said many in industry believe that without regulation AI could kill off humanity Artificial intelligence could kill off humanity within the decade, ac…",
+      "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-09T15:53:34.000Z"
     },
     {
       "id": "3d8537e69425",
@@ -218,16 +318,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-09T14:31:09.000Z"
-    },
-    {
-      "id": "3d59153b95ad",
-      "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-      "summary": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi cities Business live – latest updates The price of oil has risen above $1…",
-      "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-09T14:30:56.000Z"
     },
     {
       "id": "5336d3c4b9b9",
@@ -398,26 +488,6 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-09T14:03:29.000Z"
-    },
-    {
-      "id": "8d56c939bad7",
-      "title": "封关后的海南：外籍教师共话便利化迎教师节",
-      "summary": "中新网海口9月9日电 题：封关后的海南：外籍教师共话便利化迎教师节",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693630.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-09T14:03:03.000Z"
-    },
-    {
-      "id": "7ba8ac110cde",
-      "title": "报告：中国面向东盟数字贸易呈三大态势",
-      "summary": "【东盟专线】报告：中国面向东盟数字贸易呈三大态势",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693599.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-09T14:02:45.000Z"
     },
     {
       "id": "cc966392cec5",
@@ -600,16 +670,6 @@
       "publishedAt": "2026-09-09T06:51:08.000Z"
     },
     {
-      "id": "0c2cd5f91c33",
-      "title": "Apple expected to unveil folding iPhone as new CEO takes center stage",
-      "summary": "The new model will serve as the first big test for John Ternus, who took the role last week All eyes are on Apple’s annual fall announcement of new products this afternoon, where…",
-      "url": "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-09T06:00:02.000Z"
-    },
-    {
       "id": "76ffff9d33ff",
       "title": "UK datacentres will create just 25% of jobs predicted by tech sector, analysis finds",
       "summary": "Facilities likely to employ 10,400 workers, compared with 40,000 in industry estimates, thinktank says Datacentres in the UK will create just a quarter of the jobs predicted by t…",
@@ -618,16 +678,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-09T06:00:00.000Z"
-    },
-    {
-      "id": "8f711338f49b",
-      "title": "Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements",
-      "summary": "In today’s newsletter: Ed Miliband has announced the strongest statement on Israel’s actions ever issued by the the UK government, but will it make a meaningful difference to Pal…",
-      "url": "https://www.theguardian.com/world/2026/sep/09/wednesday-briefing-inside-sweeping-uk-sanctions-on-trade-with-israeli-settlements",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-09T05:46:18.000Z"
     },
     {
       "id": "52a6afe6e948",
@@ -648,16 +698,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-09T04:00:58.000Z"
-    },
-    {
-      "id": "d7c2fd6e8eee",
-      "title": "Australia considers new Israel sanctions but won’t join UK in banning trade with ‘settler terrorists’",
-      "summary": "Penny Wong has concerns about blanket ban announced by UK, France and Canada, but says new ‘targeted measures’ planned over Israeli settlers Follow our Australia news live blog f…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/09/australia-considers-new-israel-sanctions-but-wont-join-uk-in-banning-trade-with-settler-terrorists-ntwnfb",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-09T01:38:02.000Z"
     },
     {
       "id": "ad5aae675597",
@@ -694,7 +734,7 @@
       "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
       "summary": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad The US is banning dairy products, most alcoholic beverages and mot…",
       "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-      "source": "The Guardian Business",
+      "source": "The Guardian World",
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-08T23:59:37.000Z"
@@ -990,26 +1030,6 @@
       "publishedAt": "2026-09-06T20:00:14.000Z"
     },
     {
-      "id": "7d8bb82203ac",
-      "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
-      "summary": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to K…",
-      "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-06T17:05:11.000Z"
-    },
-    {
-      "id": "5ff640fa6ded",
-      "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
-      "summary": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves China will inject $54bn (£40bn) into its financial sector as Beijing…",
-      "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-06T15:16:43.000Z"
-    },
-    {
       "id": "47fbc580c978",
       "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
       "summary": "印度洋蔥價格急劇飆升，這種家家戶戶必備食材正被運往主要城市。這個國家生產和消費大量洋蔥，而其價格波動歷來具有政治影響。",
@@ -1080,16 +1100,6 @@
       "publishedAt": "2026-09-06T02:02:19.000Z"
     },
     {
-      "id": "9036e9c935a0",
-      "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
-      "summary": "A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition talking points outspend major parties Follow our Australia news live blog for latest updates Get our…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-05T20:00:46.000Z"
-    },
-    {
       "id": "04810dfe0091",
       "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
       "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to de…",
@@ -1118,16 +1128,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-04T17:56:11.000Z"
-    },
-    {
-      "id": "1b0762979d37",
-      "title": "UN votes to adopt new world map that shows Africa’s true scale",
-      "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world…",
-      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-04T16:49:29.000Z"
     },
     {
       "id": "8829563fb3e9",
