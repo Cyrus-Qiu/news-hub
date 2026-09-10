@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T17:07:24.171Z",
+  "updatedAt": "2026-09-10T19:59:37.022Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,14 +30,24 @@
   "failedCount": 0,
   "articles": [
     {
+      "id": "75545558ab86",
+      "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
+      "summary": "Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowing Nervous investors across big economies have been dumping governmen…",
+      "url": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-10T18:05:15.000Z"
+    },
+    {
       "id": "e1e464de42e5",
-      "title": "TV presenter v secret son: the succession dispute engulfing a Ugandan kingdom",
-      "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reveal son’s existence as they reject committee’s choice of cousin as new monarch A traditional Ugandan kingdom has become…",
+      "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
+      "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a…",
       "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
       "source": "The Guardian World",
       "category": "国际",
       "language": "en",
-      "publishedAt": "2026-09-10T15:53:29.000Z"
+      "publishedAt": "2026-09-10T17:29:20.000Z"
     },
     {
       "id": "33a9c801c39a",
@@ -138,6 +148,16 @@
       "category": "国内",
       "language": "zh",
       "publishedAt": "2026-09-10T15:01:45.000Z"
+    },
+    {
+      "id": "793d3a7f0070",
+      "title": "I turned off my algorithm for 24 hours. Is this how social media used to be?",
+      "summary": "Thanks to a little-known feature in Instagram, I attempt to travel back to 2012, before everything on the internet was an ad Get our breaking news email , free app or daily news…",
+      "url": "https://www.theguardian.com/media/2026/sep/11/i-turned-off-my-instagram-algorithm-opt-out-social-media-reforms-australia",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-10T15:00:43.000Z"
     },
     {
       "id": "d96db3fc6154",
@@ -320,6 +340,16 @@
       "publishedAt": "2026-09-10T13:57:39.000Z"
     },
     {
+      "id": "7324c5f26a31",
+      "title": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
+      "summary": "The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and Africa As wel…",
+      "url": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-10T13:57:06.000Z"
+    },
+    {
       "id": "9b79d7da24c9",
       "title": "（活力中国调研行）“许昌文旅推荐官”眼中的胖东来",
       "summary": "中新网许昌9月10日电(卢岩 赵梦阳)“这个店为什么叫天使城店？因为‘东来哥’说，每个人都是善良的，只要心中有爱，每个人都是可以成为天使。”站在胖东来超市天使城店门前，许昌文旅推荐官、许昌市大诚小胖文旅发起人魏小胖面对着记者侃侃而谈。",
@@ -482,7 +512,7 @@
     {
       "id": "bf566c20b87b",
       "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
-      "summary": "Iran and its proxies move closer to full control of two shipping chokepoints as regional conflict widens Explained: why the fighting in Yemen matters globally Yemen’s Houthi rebe…",
+      "summary": "Iran and its proxies move closer to full control of two shipping chokepoints as regional conflict widens Explained: why the fighting in Yemen matters globally Houthi forces in Ye…",
       "url": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
       "source": "The Guardian World",
       "category": "国际",
@@ -498,16 +528,6 @@
       "category": "国际",
       "language": "zh",
       "publishedAt": "2026-09-10T10:46:03.000Z"
-    },
-    {
-      "id": "406b30f79fa5",
-      "title": "Trouble in US bond market could mean higher prices are here to stay",
-      "summary": "Concerns over rising inflation, continuing war with Iran, and the US’s record national debt have shaken the market Americans who have been grappling with the higher cost of livin…",
-      "url": "https://www.theguardian.com/business/2026/sep/10/bond-market-higher-costs",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-10T10:00:21.000Z"
     },
     {
       "id": "0ed223b88af0",
@@ -621,11 +641,11 @@
     },
     {
       "id": "ba96d6fa56db",
-      "title": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
-      "summary": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’ US secretary of state Marco Rubio gave new clarity on the approac…",
+      "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
+      "summary": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’ The US secretary of state, Marco Rubio, gave new clarity on the a…",
       "url": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
       "source": "The Guardian World",
-      "category": "国际",
+      "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-10T01:02:42.000Z"
     },
@@ -1110,16 +1130,6 @@
       "publishedAt": "2026-09-06T13:00:06.000Z"
     },
     {
-      "id": "ab7e9c03f98f",
-      "title": "Ninja Artisan electric pizza oven review: so good it might even convert the purists",
-      "summary": "Affordable, fast-heating and with a clever air fryer function, this versatile model is a winner for outdoor cooks who are willing to give up the traditional flame • The best pizz…",
-      "url": "https://www.theguardian.com/thefilter/2026/sep/06/ninja-artisan-electric-pizza-oven-review",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-06T11:00:04.000Z"
-    },
-    {
       "id": "9e34863df4c3",
       "title": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
       "summary": "Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisis The greenest campaigners against climate change have long suffered from a cripp…",
@@ -1158,16 +1168,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-05T14:00:37.000Z"
-    },
-    {
-      "id": "9cb04ffdbc04",
-      "title": "Maria Bartiromo’s lawyer denies she was fired from Fox News anchor role",
-      "summary": "Fox announced host’s departure Thursday but gave no explanation, only saying it was effective immediately Maria Bartiromo’s lawyer sharply denied that she was fired from her job…",
-      "url": "https://www.theguardian.com/media/2026/sep/04/maria-bartiromo-lawyer-denies-fox-news-firing",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-04T17:56:11.000Z"
     },
     {
       "id": "8829563fb3e9",
