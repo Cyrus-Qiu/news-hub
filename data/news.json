@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T09:06:22.627Z",
+  "updatedAt": "2026-09-10T13:31:47.917Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -30,34 +30,394 @@
   "failedCount": 0,
   "articles": [
     {
-      "id": "23771b4aead3",
-      "title": "中国汽车出口连续3个月超过100万辆",
-      "summary": "中新社北京9月10日电 (记者 刘文文)8月，中国汽车出口101万辆，环比下降3.2%，同比增长65.3%。中国汽车出口量连续3个月超过100万辆。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694079.shtml",
+      "id": "01f4e8e3e9f7",
+      "title": "天津东丽：一枚整流罩“链”出50家航空航天企业",
+      "summary": "中新网天津9月10日电 题：天津东丽：一枚整流罩“链”出50家航空航天企业",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694304.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-10T09:05:25.000Z"
+      "publishedAt": "2026-09-10T13:30:37.000Z"
     },
     {
-      "id": "830d1485ee9f",
-      "title": "中美成功联合侦破一起跨国涉毒案件",
-      "summary": "新华社北京9月10日电(记者李明辉)记者9月10日从公安部获悉，近日，中国公安部和美国联邦调查局(FBI)成功联合侦破一起跨国制贩合成大麻素类物质前体案件。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694078.shtml",
+      "id": "976730bf96af",
+      "title": "李家超与深圳市委书记靳磊会面 就深化港深合作交换意见",
+      "summary": "中新社香港9月10日电 香港特区行政长官李家超10日在香港礼宾府与深圳市委书记靳磊会面，双方就深化港深合作交换意见，并共同见证两地签署多份合作备忘录和协议。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694302.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-10T09:02:47.000Z"
+      "publishedAt": "2026-09-10T13:29:43.000Z"
     },
     {
-      "id": "13c6986dfc90",
-      "title": "习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示",
-      "summary": "原标题：习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示强调",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694077.shtml",
+      "id": "81ad944fbb0b",
+      "title": "深圳在澳门成功发行10亿元离岸人民币地方政府债券",
+      "summary": "中新网澳门9月10日电 (记者 郑嘉伟)记者10日从澳门金融管理局获悉，深圳市人民政府成功在澳门发行10亿元离岸人民币地方政府债券。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694299.shtml",
       "source": "中国新闻网",
       "category": "国内",
       "language": "zh",
-      "publishedAt": "2026-09-10T09:00:53.000Z"
+      "publishedAt": "2026-09-10T13:29:19.000Z"
+    },
+    {
+      "id": "e122745e5374",
+      "title": "中食展在穗开幕 汇聚全球好味",
+      "summary": "中新网广州9月10电(王华 张松乐)以“食尚中国，味来湾区”为主题的2026中食展#174;(广州)暨Food2China Expo10日在广州广交会展馆B区开幕，汇聚30个国家和地区近1,000家展商携全球好品参展。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694297.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T13:28:55.000Z"
+    },
+    {
+      "id": "4255ca05cb45",
+      "title": "天津口岸前8月进口矿产品8281.7万吨 锰矿铬矿领跑全国",
+      "summary": "中新网天津9月10日电 (记者 周亚强)记者10日从天津海关获悉，今年1至8月，天津口岸共进口矿产品8281.7万吨，同比增长7%。其中，进口锰矿砂1556.4万吨，同比增长13.5%；进口铬矿砂1517万吨，同比增长34%，锰矿、铬矿进口量持续领跑全国。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694295.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T13:28:03.000Z"
+    },
+    {
+      "id": "e741a27e9644",
+      "title": "关注青岛北海造船厂货轮火灾事故",
+      "summary": "",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-10/10694305.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T13:27:03.000Z"
+    },
+    {
+      "id": "d209481bb4c5",
+      "title": "中国—国际可再生能源署合作指导委员会第三次会议在北京召开",
+      "summary": "中新社北京9月10日电 据中国国家能源局10日消息，中国—国际可再生能源署(IRENA)合作指导委员会第三次会议近日在北京召开。中国国家能源局局长王宏志、国际可再生能源署总干事弗朗西斯科·拉·卡梅拉出席会议。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694294.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T13:25:31.000Z"
+    },
+    {
+      "id": "d4bc45288f86",
+      "title": "浙江省社会主义学院2026年秋季学期开学典礼举行",
+      "summary": "中新网杭州9月10日电 (王潇婧)浙江省社会主义学院2026年秋季学期开学典礼9月10日在杭州举行。浙江省委常委、统战部部长冯怡讲话，讲授“开学第一课”。浙江省副省长、致公党浙江省委会主委、浙江省社会主义学院院长胡伟致辞。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694293.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T13:25:11.000Z"
+    },
+    {
+      "id": "c710653af1f0",
+      "title": "山东集中销毁侵权假冒伪劣商品 涉案货值878万元",
+      "summary": "中新网济南9月10日电 (孙倩)9月10日，山东省质量强省建设协调推进领导小组办公室、省市场监管局在济南市组织开展2026年侵权假冒伪劣商品集中销毁行动。本次销毁的侵权假冒伪劣商品包括食品药品、日用品、服装鞋帽、建材电器等98个品种，涉案货值878万元(人民币，下同)。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694292.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T13:24:25.000Z"
+    },
+    {
+      "id": "5ef7954e0b4f",
+      "title": "山东青岛北海造船厂一货船发生火情 已造成25人遇难",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203901.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T13:23:35.000Z"
+    },
+    {
+      "id": "3b91b16ba28c",
+      "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – Europe live",
+      "summary": "Mark Rutte said that Europeans ‘increasingly understand’ the need for their countries to take ‘greater responsibility for our own security’ Addressing German ambassadors, Wadephu…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-10T13:22:54.000Z"
+    },
+    {
+      "id": "e3bc15cd605e",
+      "title": "服贸会“香港馆”打破空间，变身“一站式”护航内地企业“借港出海”平台",
+      "summary": "中新网北京9月10日电(记者 李柏涛 徐峻杰 实习生 胡叶羽)“我们商会一直致力于服务港人港企与内地企业；同时依托国家五年规划部署，助力内地企业更好‘出海’发展。”中国香港(地区)商会会长杨莉珊9日在北京表示。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694290.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T13:12:58.000Z"
+    },
+    {
+      "id": "198d875a07fd",
+      "title": "服贸会上的“最炫民族风”",
+      "summary": "",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203896.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T13:11:47.000Z"
+    },
+    {
+      "id": "076b0ee8b398",
+      "title": "第十一届“炫彩世界”文化展示交流活动在北京开幕",
+      "summary": "中新网北京9月10日电 (记者 陈杭)第十一届“炫彩世界”文化展示交流活动9日在北京首钢园7号馆开幕。作为2026年服贸会文旅板块的重要组成部分，本届“炫彩世界”活动依托“炫舞台”“炫空间”“炫互动”三大板块带来丰富内容。",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-10/10694287.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:57:29.000Z"
+    },
+    {
+      "id": "05574fc65491",
+      "title": "广西新联会与毛竹山村建立帮扶关系",
+      "summary": "中新网桂林9月10日电(邓竣缤)9月10日，广西新的社会阶层人士联谊会(以下简称“广西新联会”)、桂林市新的社会阶层人士联谊会(以下简称“桂林市新联会”)与桂林市全州县才湾镇南一村村民委员会签署服务协议，建立为期一年的帮扶关系，服务毛竹山村。三方将围绕毛竹山村乡村振兴需求，在法律、税务、会计等方面提供公益服务，助力村级治理、村集体经济发展和村民生产生活改善。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694275.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:57:19.000Z"
+    },
+    {
+      "id": "c77c667a54ba",
+      "title": "（经济观察）郑徐高铁开通运营10周年：一条路线盘活中东部经济走廊",
+      "summary": "中新网郑州9月10日电 (王佳宁)10日是郑徐高铁开通运营10周年。10年来，这条横贯中原、联通东西的高铁大动脉累计发送旅客1.45亿人次，并持续释放交通、文旅与产业红利。有专家称，郑徐高铁的开通运营，是一条路线盘活中东部经济走廊的生动范例。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694282.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:56:35.000Z"
+    },
+    {
+      "id": "a6e9623289d1",
+      "title": "91支队伍在广西竞逐中国—东盟青少年无人机足球赛",
+      "summary": "中新社广西崇左9月10日电 (记者 黄艳梅)2026年中国(广西)—东盟青少年无人机足球邀请赛10日在广西崇左市宁明县开赛，来自中国及东盟国家的91支队伍展开空中对决，共享跨境科技体育交流盛会。",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-10/10694270.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:56:25.000Z"
+    },
+    {
+      "id": "3876817ca06a",
+      "title": "促成意向金额4.06亿元 上海“营商伙伴计划”激活产业生态",
+      "summary": "中新网上海9月10日电 (记者 许婧)上海市市场监督管理局10日介绍，“共营·共赢营商伙伴计划”(下称“营商伙伴计划”)启动以来，通过该计划促成合作意向71个，涉及意向金额(据不完全统计)4.06亿元，以“政企产”三位一体“共营”的产业营商环境促成“共赢”的产业发展局面正在加速形成。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694283.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:55:53.000Z"
+    },
+    {
+      "id": "d9443ab4b81e",
+      "title": "广东省科普创新展主场展览总面积超1.2万平方米",
+      "summary": "中新网广州9月10日电 (记者 王坚)2026年广东省科普创新展(下称“创新展”)新闻通气会10日在广州举行。会上通报，本届创新展主场展览总面积超1.2万平方米，设有逾110个展位，设置广东科技创新重大成果展、科学家精神与科技梦想展、科创生态集群展、互动体验与产业赋能展四大主题板块。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694274.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:55:45.000Z"
+    },
+    {
+      "id": "3f2740234332",
+      "title": "北京生物医药保险共保体成立 填补创新医药产业保障空白",
+      "summary": "中新网北京9月10日电 (记者 陈杭)记者10日从北京市科委、中关村管委会获悉，北京生物医药保险共保体已正式组建成立。这是继全国首个商业航天保险共保体落地之后，北京在科技保险领域的又一重要实践，为创新药械研发装上风险“减震器”，助力首都医药健康产业高质量发展。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694286.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:55:31.000Z"
+    },
+    {
+      "id": "f06a08265d69",
+      "title": "在英侨胞万里追梦：愿做宁夏通往世界的桥梁",
+      "summary": "中新网银川9月10日电 题：在英侨胞万里追梦：愿做宁夏通往世界的桥梁",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-10/10694279.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:55:27.000Z"
+    },
+    {
+      "id": "648007fa510f",
+      "title": "罗湖口岸今年客流突破5100万人次",
+      "summary": "中新社深圳9月10日电 (索有为 詹振楷)据深圳出入境边防检查总站罗湖边检站10日发布的统计数据，截至9月9日，2026年罗湖边检站累计查验出入境旅客突破5100万人次，较去年提前19天达成。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694284.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:55:15.000Z"
+    },
+    {
+      "id": "ec6d1f88ca36",
+      "title": "学者解析中国对外经济双重逻辑：制度型开放与主权性规制并行推进",
+      "summary": "中新网上海9月10日电 (记者 陈静)上海社会科学院世界经济研究所学者何曜10日接受中新网记者专访时指出，当下，中国对外经济战略不是单一维度的开放或封闭，而是采取制度型开放与主权性规制并行推进的双重逻辑。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694281.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:55:07.000Z"
+    },
+    {
+      "id": "088ccea9d642",
+      "title": "Japan seeks change to new UN world map over Russia 'misconception'",
+      "summary": "The new ‘true-scale’ map shrinks Europe and North America while enlarging Africa – and depicts the disputed Kuril islands as ruled by Moscow Japan has asked for the revision of a…",
+      "url": "https://www.theguardian.com/world/2026/sep/10/japan-seeks-change-to-new-un-world-map-over-russia-misconception",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-10T12:55:03.000Z"
+    },
+    {
+      "id": "21123afd7b9f",
+      "title": "香港与迪拜成立策略工作小组 深化金融市场合作",
+      "summary": "中新社香港9月10日电 香港金融管理局(简称“香港金管局”)、香港交易及结算所有限公司(简称“港交所”)、迪拜金融服务管理局(简称“迪拜金管局”)和纳斯达克迪拜10日在香港联合宣布成立策略工作小组，以加强香港与迪拜金融市场之间的联系。",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694285.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:54:55.000Z"
+    },
+    {
+      "id": "fe12b942823b",
+      "title": "述评：一场大会，给温州留下了什么？",
+      "summary": "中新网温州9月10日电 (钱晨菲)9月8日至10日，2026民营经济创新发展大会暨知名民企助力浙江高质量发展活动在浙江温州举行。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694276.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:54:23.000Z"
+    },
+    {
+      "id": "52ccd1a434c0",
+      "title": "从乡土特产到文化符号 浙江桥墩月饼嘉年华“烘”出致富路",
+      "summary": "中新网温州9月10日电(胡丰盛 李虹蝶)上百个特色摊位沿溪岸一字排开，刚出炉的月饼冒着腾腾热气，金黄酥皮裹挟着浓郁香气，顺着晚风漫过整条街巷……9月9日至13日，在浙江省温州市苍南县桥墩镇举办的第六届温州瓯式月饼文旅嘉年华活动现场，市民游客络绎不绝，有的精心挑选中秋礼盒，有的排队等候现烤月饼出锅，交谈声、吆喝声交织成片，洋溢着热闹氛围。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694277.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:54:21.000Z"
+    },
+    {
+      "id": "673494fefc94",
+      "title": "新疆“十五五”末将基本建成全国优质农牧产品重要供给基地",
+      "summary": "中新网乌鲁木齐9月10日电 (记者 苟继鹏)新疆维吾尔自治区人民政府新闻办公室10日举行新闻发布会，介绍新疆“十五五”时期打造全国优质农牧产品重要供给基地、扎实推进乡村全面振兴有关情况。记者在会上获悉，到“十五五”末，新疆将基本建成全国优质农牧产品重要供给基地。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694278.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:54:07.000Z"
+    },
+    {
+      "id": "9b59d0e866e8",
+      "title": "云南外办向沃森生物等企业集中颁发APEC商务旅行卡",
+      "summary": "中新网昆明9月10日电 (陈静 刘杨岳)2026年APEC商务旅行卡集中宣介暨“外事惠企”交流会10日在昆明举行。云南省人民政府外事办公室(下称“云南省外办”)集中向云南建投集团、云南沃森生物技术股份有限公司、云南正邦科技有限公司代表颁发APEC商务旅行卡。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694280.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:53:57.000Z"
+    },
+    {
+      "id": "6866aa1b68e9",
+      "title": "两岸业者学者：两岸服贸合作正迎来更成熟发展条件",
+      "summary": "中新社北京9月10日电 (记者 刘大炜)“大陆有市场有前景，台湾有经验有体系。这种高度契合的产业互补性，是两岸服务贸易合作稳步推进、持续共赢的坚实基础。”全国台湾同胞投资企业联谊会常务副会长李泓兰10日在北京举行的第四届两岸服务贸易推进会上说。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694273.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:53:35.000Z"
+    },
+    {
+      "id": "7879703b9dee",
+      "title": "中国央行：将常态化发行国债和中央银行票据",
+      "summary": "中新社北京9月10日电 (陶思阅)中国央行副行长陆磊9月10日在国新办举行的新闻发布会上表示，将常态化发行国债和中央银行票据，丰富高等级人民币资产池。",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694272.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:53:09.000Z"
+    },
+    {
+      "id": "4d08ac79eb50",
+      "title": "青島北海造船廠外籍貨輪大火 失聯25人已確定全部死亡",
+      "summary": "中國官方媒體稱，一艘外籍貨輪靠港維修期間起火，造成嚴重傷亡。習近平與李強下達救災指示。",
+      "url": "https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-09-10T12:47:54.000Z"
+    },
+    {
+      "id": "8431f6757276",
+      "title": "Elon Musk attacks film-maker behind documentary about him",
+      "summary": "Tech mogul calls director Alex Gibney a ‘bitter old man’ who has ‘zero integrity’ in series of posts on X Elon Musk has issued an angry tirade at the film-maker behind a four-hou…",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/elon-musk-attacks-film-maker-behind-documentary-about-him",
+      "source": "The Guardian Technology",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-10T12:29:40.000Z"
+    },
+    {
+      "id": "d4a0c09542b5",
+      "title": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member",
+      "summary": "US government adviser Paul Christiano warns of risks to AI industry as he joins OpenAI’s non-profit foundation OpenAI is not on track to reduce risks of “catastrophic” loss of co…",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T12:23:21.000Z"
+    },
+    {
+      "id": "05f65ea5ec16",
+      "title": "Malta warned of corruption crisis after ‘utter disbelief’ over Daphne Caruana Galizia verdict",
+      "summary": "Labour peer tells Council of Europe inquiry failure to implement legal protections still putting journalists at risk Europe live – latest updates Malta is vulnerable to “repeated…",
+      "url": "https://www.theguardian.com/world/2026/sep/10/malta-corruption-crisis-daphne-caruana-galizia-verdict",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-10T12:17:52.000Z"
+    },
+    {
+      "id": "bf566c20b87b",
+      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
+      "summary": "Iran and its proxies move closer to full control of two shipping chokepoints as regional conflict widens Yemen’s Houthi rebels are making a concerted drive to take full control o…",
+      "url": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-10T11:39:56.000Z"
+    },
+    {
+      "id": "e1bcfda0574a",
+      "title": "Secret systems used by Israel in mass killings of Gaza civilians revealed in new film",
+      "summary": "Testimony from Israeli military insiders involved in surveillance and remote killings features in documentary produced by the Guardian Testimony from 24 Israeli military insiders…",
+      "url": "https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-10T11:15:22.000Z"
+    },
+    {
+      "id": "255451026347",
+      "title": "香港記協主席訴《華爾街日報》解僱案 法庭判局部有罪",
+      "summary": "香港記者協會主席鄭嘉如指控《華爾街日報》出版商道瓊斯，因其參與工會活動，而將其革職，法庭部分支持其主張。",
+      "url": "https://www.bbc.com/zhongwen/articles/ckgxyvrel0ko/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-09-10T10:46:03.000Z"
+    },
+    {
+      "id": "406b30f79fa5",
+      "title": "Trouble in US bond market could mean higher prices are here to stay",
+      "summary": "Concerns over rising inflation, continuing war with Iran, and the US’s record national debt have shaken the market Americans who have been grappling with the higher cost of livin…",
+      "url": "https://www.theguardian.com/business/2026/sep/10/bond-market-higher-costs",
+      "source": "The Guardian Business",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-10T10:00:21.000Z"
     },
     {
       "id": "0ed223b88af0",
@@ -70,196 +430,6 @@
       "publishedAt": "2026-09-10T08:58:11.000Z"
     },
     {
-      "id": "60feb2025876",
-      "title": "年轻人脱发比上一代早10多年？守住发际线坚持对症治疗",
-      "summary": "“我秃了！”“除了头上哪里都是头发”……社交网络上，年轻人自嘲的话语，侧面揭示着不少年轻人正饱受脱发困扰。而对于深耕脱发领域十几年的复旦大学附属华山医院皮肤科主任吴文育教授来说，这样的感受更为深刻。“华山医院脱发专病门诊很早就开设了，当时病人很少，现在一号难求。”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694072.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:46:43.000Z"
-    },
-    {
-      "id": "8c3893b1b68a",
-      "title": "山西“十五五”能源转型路线图：从煤炭大省迈向能源强省",
-      "summary": "中新网太原9月10日电(记者 胡健)作为中国重要的能源基地，山西如何统筹能源安全稳定供应与绿色低碳转型？9月10日，中共山西省委宣传部、山西省人民政府新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会。山西省能源局党组书记、局长张翔给出清晰答案：以“集成融合、协同布局”为核心，加快建设新型能源体系，全力推动山西从煤炭大省向能源强省跨越。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694071.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:45:35.000Z"
-    },
-    {
-      "id": "ed43686ef700",
-      "title": "检察机关依法分别对徐宗祥、丁兴忠、张玉明、程云川提起公诉",
-      "summary": "中新网9月10日电 据最高人民检察院微信公众号消息，检察机关依法分别对徐宗祥、丁兴忠、张玉明、程云川提起公诉。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694062.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:45:01.000Z"
-    },
-    {
-      "id": "29c2b1815d08",
-      "title": "广州330克超低出生体重早产儿平安出院",
-      "summary": "中新网广州9月10日电 (记者 蔡敏婕)历经108天的救治，欣欣(化名)体重从刚出生时的330克增长至1.9公斤，情况稳定，9月10日平安出院。该救治案例刷新广州市超低出生体重儿的救治纪录。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694070.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:43:59.000Z"
-    },
-    {
-      "id": "3803c12f1692",
-      "title": "广西梧州六堡茶将借道平陆运河出口越南",
-      "summary": "中新网梧州9月10日电(张广权 陈益铭)近日，3.1吨梧州六堡茶在广西梧州茶厂有限公司完成装车，这批货物将借道平陆运河运往越南胡志明市。这是梧州六堡茶首次以一般贸易模式出口越南，也是平陆运河承接的首批梧州六堡茶出口货物。",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-10/10694069.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:43:05.000Z"
-    },
-    {
-      "id": "72135b359de4",
-      "title": "甘肃社保人给“养老钱”找归路",
-      "summary": "中新网兰州9月10日电 (戴文昌)“把民众在各地参加的养老保险记录，像‘拼图’一样一块块拼接起来。”这是甘肃省社会保险事业中心参保登记处一级科员俞智文的日常工作。2025年，他办理转移业务1.1万笔、归集“养老钱”7.23亿元，每一笔都算得明白、落得安稳。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694068.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:42:27.000Z"
-    },
-    {
-      "id": "4fd44cd5a6b2",
-      "title": "海南产经新观察：投资白沙，机遇何在？",
-      "summary": "中新网海口9月10日电 (记者 王子谦)海南自贸港建设正如火如荼。在10日举行的海南“开局起步‘十五五’”系列主题新闻发布会上，白沙黎族自治县商务局局长周聪邀请中外企业家来走走、看看，“投资白沙、扎根白沙、共赢白沙”。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694074.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:41:27.000Z"
-    },
-    {
-      "id": "bbd5cba22a42",
-      "title": "（长征胜利90周年）翻越夹金山的今与昔：长征雪山天险已成四季通途",
-      "summary": "中新网小金9月10日电 题：翻越夹金山的今与昔：长征雪山天险已成四季通途",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694073.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:41:03.000Z"
-    },
-    {
-      "id": "9204fef4e1cb",
-      "title": "探访宁德好物北京推介活动：解锁山海好物，品读健康风味",
-      "summary": "中新网北京9月10日电 (记者 吕巧琴 叶茂)晶莹剔透的古田银耳、金黄鲜活的宁德大黄鱼、轻巧便携的福安智能按摩仪……10日，走进“山海宁德·健康满格”宁德好物北京推介活动的产品主题展示区，琳琅满目的“宁德好物”令人目不暇接。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694067.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:40:57.000Z"
-    },
-    {
-      "id": "6312d33f22ce",
-      "title": "金融监管总局：大力整治“价格战”等行为",
-      "summary": "中新网9月10日电 金融监管总局副局长丛林9月10日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，将多措并举营造良好行业生态。引导金融机构树牢正确政绩观、经营观、业绩观、风险观，切实摒弃规模情结，推动由追求速度和规模向以质量和效益为中心转变，持续提升核心竞争力。大力整治“价格战”、违规返佣、“高息高返”等行为。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694061.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:31:20.000Z"
-    },
-    {
-      "id": "42f1433dfd23",
-      "title": "三峡水库启动2026年度蓄水",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203879.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:30:17.000Z"
-    },
-    {
-      "id": "0df76fffa0b3",
-      "title": "怎么挑螃蟹？螃蟹身上哪些部位不能吃？来看关于螃蟹的消费提示",
-      "summary": "关于螃蟹的消费提示",
-      "url": "https://www.chinanews.com.cn/life/2026/09-10/10694063.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:29:46.000Z"
-    },
-    {
-      "id": "660e552ce8c3",
-      "title": "证监会：努力将A股市场打造为境内优质企业上市首选地",
-      "summary": "中新网9月10日电 中国证监会副主席李超9月10日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上说，实施更具包容性的发行上市、并购重组等制度，努力将A股市场打造为境内优质企业上市首选地。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694058.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:29:32.000Z"
-    },
-    {
-      "id": "3b91b16ba28c",
-      "title": "Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live",
-      "summary": "The strikes come after it was revealed that Ukraine’s president Volodomyr Zelenskyy’s plane was almost hit by a drone when leaving Moldova this week Meanwhile, Russia said it had…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T08:29:29.000Z"
-    },
-    {
-      "id": "8459ac859945",
-      "title": "第二届知识产权执法国际交流大会在长沙开幕",
-      "summary": "中新网长沙9月10日电(向一鹏)9月10日，由国家市场监管总局与世界知识产权组织共同主办的第二届知识产权执法国际交流大会在湖南长沙开幕。国家市场监管总局副局长白清元、世界知识产权组织助理总干事爱德华·夸夸、湖南省副省长蒋涤非出席会议并致辞。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694055.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:27:52.000Z"
-    },
-    {
-      "id": "af5b5cf2b16f",
-      "title": "“用有限汤泡出优质馍” 宁夏把握节水之“度”",
-      "summary": "“‘四水四定’不是给发展设限，而是为发展导航。”在第六届中国节水论坛上，中国工程院院士、中国水利水电科学研究院水资源研究所名誉所长王浩的这句话，被多次提及。近日，百余位专家学者齐聚黄河之滨银川，聚焦一个看似矛盾却极为紧迫的命题：作为全国水资源最匮乏的地区之一，宁夏如何“取长补短”，用“有限的汤泡出优质的馍”？",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694057.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:27:10.000Z"
-    },
-    {
-      "id": "3b95a4b76725",
-      "title": "止步美网八强，郑钦文：只要比赛还没结束，就必须坚持战斗",
-      "summary": "北京时间9月10日，郑钦文以6:3、1:6、4:6不敌两届大满贯女单冠军、哈萨克斯坦名将莱巴金娜，止步2026年美国网球公开赛女单八强。",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694060.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:24:40.000Z"
-    },
-    {
-      "id": "7ef959cfe400",
-      "title": "航拍内蒙古哈达门国家森林公园",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203874.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:23:26.000Z"
-    },
-    {
-      "id": "cb4702e4529f",
-      "title": "原海南省国土资源厅副厅长廖正伟被开除党籍",
-      "summary": "中新网9月10日电 据海南省纪委监委消息：经海南省委批准，海南省纪委监委对原海南省国土资源厅党组副书记、副厅长廖正伟严重违纪违法问题进行了立案审查调查。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694033.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:22:54.000Z"
-    },
-    {
       "id": "6ce529ad810c",
       "title": "Grace Tame apologises for comments labelling rape of Israeli women during Hamas attacks ‘propaganda’",
       "summary": "The former Australian of the Year said she stood with survivors of sexual violence ‘everywhere’ and ‘no matter who they are’ Get our breaking news email , free app or daily news…",
@@ -268,96 +438,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-10T08:22:30.000Z"
-    },
-    {
-      "id": "e10312c22edc",
-      "title": "“老师你多吃点！”这所幼儿园的老师，被孩子们喂出了“工伤”",
-      "summary": "你见过最“凡尔赛”的工伤是什么？",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694053.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:18:28.000Z"
-    },
-    {
-      "id": "86650e95c643",
-      "title": "境外主体持有境内人民币金融资产超11万亿元",
-      "summary": "新华社北京9月10日电(记者吴雨)中国人民银行副行长陆磊9月10日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，目前，境外主体持有境内人民币金融资产超11万亿元，80多个国家和地区的央行或货币当局将人民币纳入外汇储备；熊猫债发行超1.3万亿元，发行主体覆盖五大洲26个国家和地区。(完)",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694050.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:15:58.000Z"
-    },
-    {
-      "id": "44cd18737a36",
-      "title": "好评中国 | 青春传薪火，声声皆“有我”",
-      "summary": "近日，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694054.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:15:10.000Z"
-    },
-    {
-      "id": "103276b7bc63",
-      "title": "商务部：延长对原产于墨西哥和美国的进口碧根果反倾销调查期限",
-      "summary": "中新网9月10日电 据商务部网站消息，根据《中华人民共和国反倾销条例》的规定，2025年9月25日，商务部发布2025年第52号公告，决定对原产于墨西哥和美国的进口碧根果进行反倾销立案调查。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694048.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:14:50.000Z"
-    },
-    {
-      "id": "c2c8d277f56a",
-      "title": "证监会明确“十五五”资本市场发展目标",
-      "summary": "中新网9月10日电 中国证监会副主席李超9月10日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上说，加快推进实施新一轮资本市场改革开放，力争到2030年资本市场建立四十周年之际，基本形成资本市场高质量发展新格局，综合实力与国际竞争力明显提高。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694044.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:13:03.000Z"
-    },
-    {
-      "id": "19976b8fc5a1",
-      "title": "中原出海新通道河南周口力争“十五五”年货物吞吐量破1亿吨",
-      "summary": "中新网郑州9月10日电 (王佳宁)10日在郑州举行的河南省“开局起步‘十五五’ 奋力谱写新篇章”系列周口专场新闻发布会上，周口市副市长张建党介绍，到“十五五”末，力争全市年货物吞吐量突破1亿吨。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694042.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:12:05.000Z"
-    },
-    {
-      "id": "1feddf55fb05",
-      "title": "东湖评论丨师者如光，微以致远",
-      "summary": "在【好评中国】东湖评论丨师者如光，微以致远",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694046.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:11:57.000Z"
-    },
-    {
-      "id": "36092ea29c1a",
-      "title": "开局起步“十五五”：海南“生态黎乡”如何打好“两张牌”？",
-      "summary": "中新网海口9月10日电 (记者 王晓斌)白沙黎族自治县是海南中部生态保育区，也是海南热带雨林国家公园腹地。9月10日，白沙黎族自治县县长黄聪在海南省“开局起步‘十五五’”系列新闻发布会上表示，白沙将坚持打好“生态”“民族”两张牌，立足热带雨林国家公园腹地、海南中部生态保育区定位，争做自贸港背景下民族地区高质量发展、生态保育区“两山”转化推动高质量发展“两…",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694043.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:11:31.000Z"
-    },
-    {
-      "id": "82db41b4df1e",
-      "title": "从“一胶独大”到“林下生金”：海南白沙林业经济路越走越宽",
-      "summary": "中新网海口9月10日电 (记者 王晓斌)白沙黎族自治县地处海南中部生态核心区，全县森林面积258.85万亩。长期以来，林业经济主要依赖橡胶。如今，这种“一胶独大”的格局正在改变。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694037.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:10:37.000Z"
     },
     {
       "id": "4fc194966385",
@@ -381,11 +461,11 @@
     },
     {
       "id": "8b5e9cf227ac",
-      "title": "Primark to launch home delivery service in Britain",
-      "summary": "Retailer says trading in Europe ‘challenging’ but customers are responding well to its price-cutting campaign Business live – latest updates Primark will offer home delivery in B…",
+      "title": "Primark to launch home delivery service despite ‘challenging’ market",
+      "summary": "Chain has long avoided deliveries in Great Britain but says service now offers ‘opportunity for profitable growth’ Business live – latest updates Primark will offer home delivery…",
       "url": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe",
       "source": "The Guardian World",
-      "category": "商业",
+      "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-10T07:13:04.000Z"
     },
@@ -411,8 +491,8 @@
     },
     {
       "id": "54d550d057a9",
-      "title": "Labor friends of Palestine criticise Australia’s decision not to join sanctions on Israeli settlements in West Bank",
-      "summary": "Australia declined to join move by UK, Canada and France in banning trade with illegal Israeli settlements Labor party members have criticised the federal government for not foll…",
+      "title": "Husic urges ‘concrete action’ on Israeli settlements in West Bank after Australia declines to join trade ban",
+      "summary": "Australia will not join move by UK, Canada and France in banning trade with Israeli settlements in West Bank Get our new political email , free app or daily news podcast Ed Husic…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/10/labor-palestine-criticise-australias-decision-sanctions-israeli-settlements-in-west-bank-ntwnfb",
       "source": "The Guardian World",
       "category": "财经",
@@ -500,16 +580,6 @@
       "publishedAt": "2026-09-10T01:02:42.000Z"
     },
     {
-      "id": "838110ea8d79",
-      "title": "Lawmakers blast AI companies after researcher warns of human extinction by 2030",
-      "summary": "Former Anthropic employee Jacob Coxon said AI will become ‘superhuman systems’ that can cause human extinction by the end of the decade Just a day after three Anthropic researche…",
-      "url": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-10T00:19:36.000Z"
-    },
-    {
       "id": "c8b22575472d",
       "title": "911事件25週年：震驚世界的襲擊如何發生，造成多少人死亡？",
       "summary": "2001年的襲擊造成數千名美國人喪生，並對全球產生了深遠影響。",
@@ -528,6 +598,16 @@
       "category": "AI",
       "language": "zh",
       "publishedAt": "2026-09-10T00:14:34.000Z"
+    },
+    {
+      "id": "cc82c264682b",
+      "title": "Anthropic researchers say AI could cause human extinction by 2030",
+      "summary": "One researcher who resigned said many in industry believe that without regulation AI could kill off humanity Artificial intelligence could kill off humanity within the decade, ac…",
+      "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:14:08.000Z"
     },
     {
       "id": "74d2eb5ec211",
@@ -610,16 +690,6 @@
       "publishedAt": "2026-09-09T17:36:42.000Z"
     },
     {
-      "id": "c95a60a865f3",
-      "title": "Israel sanctions will not hurt intelligence sharing between spy agencies, says Miliband",
-      "summary": "UK foreign secretary says international community including US shares ‘frustration’ at Israel’s failure to constrain illegal settlers British intelligence has been given assuranc…",
-      "url": "https://www.theguardian.com/politics/2026/sep/09/israel-sanctions-will-not-hurt-intelligence-sharing-between-spy-agencies-says-miliband",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T16:14:41.000Z"
-    },
-    {
       "id": "f1ee0b88666a",
       "title": "Air traffic control boss given a week to report after UK flight chaos causes 2,000 cancellations",
       "summary": "Government remains confident in under-pressure Martin Rolfe but transport secretary believes glitch was avoidable How have you been affected by UK air traffic disruption? The hea…",
@@ -628,26 +698,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-09T16:09:18.000Z"
-    },
-    {
-      "id": "df768f00f703",
-      "title": "Germany’s Merz cancels phone call with Trump after social media post celebrating AfD win – as it happened",
-      "summary": "Spokesperson for Merz declines to give a reason for cancellation, but notes that it was not due to scheduling German chancellor accuses far-right AfD party of seeking ‘ethnic cle…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T15:28:18.000Z"
-    },
-    {
-      "id": "b18cebd84c86",
-      "title": "John Malkovich cancels Israel trip over fabricated solidarity quote",
-      "summary": "The Wild Horse Nine actor had been due to appear on stage in The Music Critic in Tel Aviv – but pulled out over PR firm’s ‘unacceptable and untenable’ attribution of statement Jo…",
-      "url": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T15:23:41.000Z"
     },
     {
       "id": "93387db4d340",
@@ -820,16 +870,6 @@
       "publishedAt": "2026-09-09T01:05:37.000Z"
     },
     {
-      "id": "2b265d5f300e",
-      "title": "Singapore boosts PM’s salary by $1m amid major pay rise for ministers",
-      "summary": "The affluent city-state has justified high-end salaries for its political leaders, arguing they attract talent and ensure good governance Singapore’s prime minister has been give…",
-      "url": "https://www.theguardian.com/world/2026/sep/09/singapore-pm-ministers-salary-pay-rise",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T00:00:38.000Z"
-    },
-    {
       "id": "8833bab144da",
       "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
       "summary": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad The US is banning dairy products, most alcoholic beverages and mot…",
@@ -838,16 +878,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-08T23:59:37.000Z"
-    },
-    {
-      "id": "bb52a8a79b3f",
-      "title": "OpenAI claims to have solved maths problem that stumped humans for decades",
-      "summary": "Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes problem in 88 hours OpenAI claims to have solved a major mathematics problem that has stumped human…",
-      "url": "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-08T21:29:10.000Z"
     },
     {
       "id": "daab1693cbd1",
@@ -950,26 +980,6 @@
       "publishedAt": "2026-09-08T04:00:27.000Z"
     },
     {
-      "id": "9cc2b31bcb29",
-      "title": "定罪戰犯「波斯尼亞屠夫」姆拉迪奇去世 塞爾維亞數千人送殯",
-      "summary": "姆拉迪奇因在 20 世紀 90 年代波斯尼亞戰爭期間犯下種族滅絕罪而被監禁，歐盟警告塞爾維亞不要美化這名被定罪的戰爭罪犯。",
-      "url": "https://www.bbc.com/zhongwen/articles/c5ym2zy4r77o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-08T03:26:47.000Z"
-    },
-    {
-      "id": "39547d8ff6f4",
-      "title": "哈利和梅根重返英國 國王發函重申兩人已非「在職王室成員」",
-      "summary": "王室消息人士表示，這封信函已寄送給哈里王子的團隊、政府、軍方及全國各地郡尉。",
-      "url": "https://www.bbc.com/zhongwen/articles/c3v4d0kpg3zo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-08T02:44:29.000Z"
-    },
-    {
       "id": "7c5fd5059c44",
       "title": "‘Mistrust’ of Palantir may affect NHS research, says health minister",
       "summary": "James Frith says patients may be less willing to share data as new figures show a rise in opt-outs Concern is being raised about Palantir’s work with the NHS as new figures showe…",
@@ -978,16 +988,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-07T15:33:44.000Z"
-    },
-    {
-      "id": "a442094cef6a",
-      "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns",
-      "summary": "Matt Clifford forced to stand down amid disquiet from senior MPs over his new full-time job at AI company The chair of the UK government’s “moonshot” science and technology resea…",
-      "url": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-07T14:42:24.000Z"
     },
     {
       "id": "a855a2eb6fc4",
@@ -1210,16 +1210,6 @@
       "publishedAt": "2026-09-04T09:35:03.000Z"
     },
     {
-      "id": "fcbfa6057eb4",
-      "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
-      "summary": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for near…",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-      "source": "The Guardian Business",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-03T16:59:56.000Z"
-    },
-    {
       "id": "c80242299f28",
       "title": "‘Ruin and decay bring a chance of rebirth’: Hidetaka Miyazaki on uniting players in a damaged world",
       "summary": "As FromSoftware’s new multiplayer game The Duskbloods nears release, the legendary game director behind Dark Souls talks connection, pessimism and of course, feet Since 2009’s De…",
@@ -1228,6 +1218,16 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-03T09:00:49.000Z"
+    },
+    {
+      "id": "aac41389ff3f",
+      "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
+      "summary": "例如，同性戀（homosexual）譯成「不同的人」，queer 譯成「變態」，「make love under tree」（直譯應為「在樹下做愛」）譯成「許下終身」。",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "category": "国际",
+      "language": "zh",
+      "publishedAt": "2026-09-03T00:24:43.000Z"
     }
   ]
 }
