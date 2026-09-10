@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T19:59:37.022Z",
+  "updatedAt": "2026-09-10T22:27:12.175Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -29,6 +29,66 @@
   ],
   "failedCount": 0,
   "articles": [
+    {
+      "id": "dc22e35ec56d",
+      "title": "美财政部宣布对伊朗相关个人和实体实施制裁",
+      "summary": "当地时间9月10日，美国财政部发布声明称，作为对伊“经济孤立行动”的一部分，该部门下属的外国资产控制办公室将为伊朗在中东地区的代理人网络提供支持的个人和实体列入制裁清单，制裁对象包括黎真主党成员等。",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694362.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T22:25:05.000Z"
+    },
+    {
+      "id": "827eeb83a020",
+      "title": "国际打击电信网络诈骗联盟成立大会举行 王小洪出席并致辞",
+      "summary": "新华社南京9月10日电(记者董雪、李明辉)国际打击电信网络诈骗联盟成立大会10日在江苏连云港举行，国务委员、公安部部长王小洪出席并致辞。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694361.shtml",
+      "source": "中国新闻网",
+      "category": "国内",
+      "language": "zh",
+      "publishedAt": "2026-09-10T22:22:37.000Z"
+    },
+    {
+      "id": "6156531b2380",
+      "title": "Woolworths increased prices of at least four ‘family staples’ during ‘Price Freeze’ promotion",
+      "summary": "Exclusive: Analysis shows cost of chicken fillets, potatoes and donuts rose during supermarket giant’s three-month promotion Follow our Australia news live blog for latest update…",
+      "url": "https://www.theguardian.com/business/2026/sep/11/woolworths-hike-family-staples-during-price-freeze-promotion",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-10T22:05:29.000Z"
+    },
+    {
+      "id": "47255caa330b",
+      "title": "More Anthropic researchers warn of AI’s perils as Musk terms fears a ‘psyop’",
+      "summary": "Insiders at the firm fear tech’s advancement could cause human extinction while others are calling it a ‘setup’ A day after a former researcher at Anthropic made an apocalyptic d…",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+      "source": "The Guardian Technology",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T21:51:26.000Z"
+    },
+    {
+      "id": "738befe9ec03",
+      "title": "Australia news live: Marles says One Nation ‘traitor’ cartoon about Hastie is ‘tasteless’; Albanese marks 25 years since September 11",
+      "summary": "Follow the day’s news live John Howard says Australia did the ‘right thing’ after September 11 attacks Former prime minister John Howard, who was in Washington DC during the Sept…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-10T21:51:02.000Z"
+    },
+    {
+      "id": "94b32db9b2dd",
+      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and he…",
+      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+      "source": "The Guardian World",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-09-10T20:35:06.000Z"
+    },
     {
       "id": "75545558ab86",
       "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
@@ -152,7 +212,7 @@
     {
       "id": "793d3a7f0070",
       "title": "I turned off my algorithm for 24 hours. Is this how social media used to be?",
-      "summary": "Thanks to a little-known feature in Instagram, I attempt to travel back to 2012, before everything on the internet was an ad Get our breaking news email , free app or daily news…",
+      "summary": "Thanks to a little-known feature in Instagram, I try to travel back to 2012 – before everything on the internet was an ad Follow our Australia news live blog for latest updates G…",
       "url": "https://www.theguardian.com/media/2026/sep/11/i-turned-off-my-instagram-algorithm-opt-out-social-media-reforms-australia",
       "source": "The Guardian Technology",
       "category": "科技",
@@ -162,7 +222,7 @@
     {
       "id": "d96db3fc6154",
       "title": "‘I don’t want to be here’: Andrew Hastie was a reluctant but ‘straightforward’ witness in the Ben Roberts-Smith defamation case",
-      "summary": "The Liberal MP and former SAS soldier is under attack from One Nation after complying with a subpoena to give evidence in the failed 2022 civil case Get our new political email ,…",
+      "summary": "The Liberal MP and former SAS soldier is under attack from One Nation after complying with a subpoena to give evidence in the failed 2022 civil case Follow our Australia news liv…",
       "url": "https://www.theguardian.com/australia-news/2026/sep/11/andrew-hastie-reluctant-witness-ben-roberts-smith-case-one-nation-traitor-attack-ntwnfb",
       "source": "The Guardian World",
       "category": "国际",
@@ -178,16 +238,6 @@
       "category": "科技",
       "language": "en",
       "publishedAt": "2026-09-10T15:00:40.000Z"
-    },
-    {
-      "id": "6156531b2380",
-      "title": "Woolworths increased prices of at least four ‘family staples’ during ‘Price Freeze’ promotion",
-      "summary": "Exclusive: Analysis shows cost of chicken fillets, potatoes and donuts rose during supermarket giant’s three-month promotion Get our breaking news email , free app or daily news…",
-      "url": "https://www.theguardian.com/business/2026/sep/11/woolworths-hike-family-staples-during-price-freeze-promotion",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T15:00:39.000Z"
     },
     {
       "id": "c603cc2c05db",
@@ -410,26 +460,6 @@
       "publishedAt": "2026-09-10T13:46:40.000Z"
     },
     {
-      "id": "8b0cc1c0e7b9",
-      "title": "北京2027年世界田径锦标赛进入倒计时一周年",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203914.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T13:46:04.000Z"
-    },
-    {
-      "id": "1ca09baaba79",
-      "title": "北京田径世锦赛迎倒计时一周年 巩立姣寄语新秀珍惜大赛机会",
-      "summary": "中新网北京9月10日电(记者 国璇) 北京2027年世界田径锦标赛倒计时一周年活动10日在国家体育场举行。奥运冠军、去年退役的铅球名将巩立姣寄语中国田径新秀珍惜大赛机会，争创最佳成绩。",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694317.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T13:45:06.000Z"
-    },
-    {
       "id": "e1bcfda0574a",
       "title": "Secret systems used by Israel in mass killings of Gaza civilians revealed in new film",
       "summary": "Testimony from Israeli military insiders involved in surveillance and remote killings features in documentary produced by the Guardian Testimony from 24 Israeli military insiders…",
@@ -568,16 +598,6 @@
       "category": "国际",
       "language": "en",
       "publishedAt": "2026-09-10T07:42:24.000Z"
-    },
-    {
-      "id": "47e39f4b1351",
-      "title": "Jacqui Lambie calls Pauline Hanson an ‘angry little woman’ after One Nation cartoon calling Andrew Hastie a traitor",
-      "summary": "Lambie, a veteran and Tasmanian senator, says One Nation leader is a ‘coward’ who is showing her ‘true colours’ Follow our Australia news live blog for latest updates Get our bre…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/10/jacqui-lambie-says-pauline-hanson-a-bloody-coward-after-one-nation-cartoon-calling-andrew-hastie-a-traitor-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T06:26:02.000Z"
     },
     {
       "id": "cc93f81a9ae7",
@@ -944,7 +964,7 @@
       "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
       "summary": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad The US is banning dairy products, most alcoholic beverages and mot…",
       "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-      "source": "The Guardian World",
+      "source": "The Guardian Business",
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-08T23:59:37.000Z"
@@ -978,16 +998,6 @@
       "category": "财经",
       "language": "en",
       "publishedAt": "2026-09-08T18:08:11.000Z"
-    },
-    {
-      "id": "16a302c9188b",
-      "title": "Andrew Garfield takes on Sam Altman in creepy first teaser for Artificial",
-      "summary": "Luca Guadagnino-directed film will be released by Neon after being dropped by Amazon amid OpenAI partnership Big tech goes to Hollywood: is Silicon Valley ready for a silver-scre…",
-      "url": "https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-08T16:31:02.000Z"
     },
     {
       "id": "eb6612a9596e",
@@ -1218,16 +1228,6 @@
       "category": "商业",
       "language": "en",
       "publishedAt": "2026-09-04T10:00:04.000Z"
-    },
-    {
-      "id": "c7808dfec7a7",
-      "title": "Thieves target mail order sales as Pokémon card prices soar",
-      "summary": "As one card recently sold for £12m, opportunistic thefts have surged – envelopes are being opened en route, costing small businesses thousands Pokémon’s success over the last 30…",
-      "url": "https://www.theguardian.com/games/2026/sep/04/thieves-target-mail-order-sales-as-pokemon-card-prices-soar",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-04T09:35:03.000Z"
     }
   ]
 }
