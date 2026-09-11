@@ -1,8 +1,9 @@
 [
-  {"name":"人民网","url":"http://www.people.com.cn/rss/ywkx.xml","category":"国内","language":"zh"},
-  {"name":"中国新闻网","url":"https://www.chinanews.com.cn/rss/scroll-news.xml","category":"国内","language":"zh"},
-  {"name":"BBC 中文","url":"https://feeds.bbci.co.uk/zhongwen/simp/rss.xml","category":"国际","language":"zh"},
-  {"name":"The Guardian World","url":"https://www.theguardian.com/world/rss","category":"国际","language":"en"},
-  {"name":"The Guardian Technology","url":"https://www.theguardian.com/technology/rss","category":"科技","language":"en"},
-  {"name":"The Guardian Business","url":"https://www.theguardian.com/business/rss","category":"财经","language":"en"}
+  {"name":"OpenAI News","url":"https://openai.com/news/rss.xml","category":"AI模型","language":"en","dedicatedAI":true},
+  {"name":"GitHub AI & ML","url":"https://github.blog/ai-and-ml/feed/","category":"AI编程","language":"en","dedicatedAI":true},
+  {"name":"Hugging Face Blog","url":"https://huggingface.co/blog/feed.xml","category":"开源","language":"en","dedicatedAI":true},
+  {"name":"Google DeepMind","url":"https://deepmind.google/blog/rss.xml","category":"AI研究","language":"en","dedicatedAI":true},
+  {"name":"Vercel","url":"https://vercel.com/atom","category":"AI编程","language":"en","dedicatedAI":false},
+  {"name":"Cloudflare Blog","url":"https://blog.cloudflare.com/rss/","category":"基础设施","language":"en","dedicatedAI":false},
+  {"name":"TechCrunch AI","url":"https://techcrunch.com/category/artificial-intelligence/feed/","category":"行业动态","language":"en","dedicatedAI":true}
 ]
