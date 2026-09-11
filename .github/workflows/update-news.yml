@@ -27,7 +27,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: node fetch-news.mjs
+      - name: Fetch and translate news
+        run: node fetch-news.mjs
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
       - run: node fetch-markets.mjs
       - name: Commit fresh data
         run: |
