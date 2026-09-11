@@ -38,18 +38,25 @@ const linkOf = block => {
   return block.match(/<link\b[^>]*href=["']([^"']+)["']/i)?.[1] || '';
 };
 
+const aiPattern = /\b(ai|artificial intelligence|machine learning|deep learning|llm|language model|foundation model|generative|chatgpt|openai|anthropic|claude|gemini|grok|deepseek|hugging face|transformer|diffusion|inference|reasoning model)\b|人工智能|大模型|生成式|多模态|智能体/i;
 const rules = [
-  ['AI', /\b(ai|artificial intelligence|machine learning|llm|chatgpt|openai|anthropic|grok|人工智能|大模型|智能体|生成式)\b/i],
-  ['科技', /\b(technology|tech|semiconductor|chip|software|cyber|robot|nvidia|apple|google|microsoft|芯片|半导体|科技|互联网|机器人|网络安全)\b/i],
-  ['财经', /\b(market|stock|bond|rate|inflation|tariff|oil|gold|bank|econom|finance|trade|市场|股市|利率|通胀|关税|原油|黄金|银行|经济|金融|贸易)\b/i],
-  ['商业', /\b(business|company|startup|merger|acquisition|earnings|retail|企业|公司|创业|并购|财报|零售|消费)\b/i],
-  ['国际', /\b(world|global|war|election|government|diplomacy|military|国际|全球|战争|选举|政府|外交|军事)\b/i]
+  ['AI编程', /\b(coding agent|code generation|developer tool|software engineer|programming|coding|developer|api|sdk|cli|ide|github|copilot|codex|cursor|mcp|agent framework|vibe coding|typescript|javascript|python|repository)\b|编程|代码生成|开发者|开发工具|智能编程|代码助手/i],
+  ['基础设施', /\b(gpu|accelerator|inference|serving|runtime|cloud|serverless|edge|database|vector database|data center|deployment|kubernetes|observability|semiconductor|chip)\b|推理服务|云计算|服务器|数据中心|芯片|半导体|部署/i],
+  ['开源', /\b(open source|open-source|github|hugging face|weights|repository|apache|mit license)\b|开源|开放权重/i],
+  ['AI研究', /\b(research|paper|benchmark|evaluation|alignment|safety|interpretability|training|reasoning|robotics)\b|研究|论文|基准测试|对齐|安全|训练|推理/i],
+  ['AI模型', /\b(model|chatgpt|claude|gemini|grok|deepseek|llm|multimodal|foundation model)\b|模型|大模型|多模态/i],
+  ['AI产品', /\b(product|launch|feature|assistant|agent|search|browser|workspace)\b|产品|功能|助手|智能体/i],
+  ['行业动态', /\b(startup|funding|acquisition|partnership|regulation|policy|copyright|enterprise|revenue)\b|融资|收购|合作|监管|政策|版权|企业/i]
 ];
 
 function classify(title, summary, source) {
   const text = `${title} ${summary}`;
   for (const [category, pattern] of rules) if (pattern.test(text)) return category;
   return source.category;
+}
+
+function isRelevant(title, summary, source) {
+  return source.dedicatedAI || aiPattern.test(`${title} ${summary}`);
 }
 
 const normalizedTitle = title => title.toLowerCase()
@@ -59,13 +66,13 @@ const normalizedTitle = title => title.toLowerCase()
 
 function parse(xml, source) {
   const blocks = xml.match(/<item\b[\s\S]*?<\/item>|<entry\b[\s\S]*?<\/entry>/gi) || [];
-  return blocks.slice(0, 30).map(block => {
+  return blocks.slice(0, 50).map(block => {
     const title = field(block, ['title']);
     const url = linkOf(block);
     const rawSummary = field(block, ['description', 'summary', 'content:encoded', 'content']);
     const summary = cleanSummary(rawSummary, title);
     const date = new Date(field(block, ['pubDate', 'published', 'updated', 'dc:date']));
-    if (!title || !url) return null;
+    if (!title || !url || !isRelevant(title, summary, source)) return null;
     return {
       id: crypto.createHash('sha1').update(url).digest('hex').slice(0, 12),
       title,
