@@ -5,6 +5,95 @@ import crypto from 'node:crypto';
 const root = process.cwd();
 const sources = JSON.parse(await fs.readFile(path.join(root, 'sources.json'), 'utf8'));
 const output = path.join(root, 'data', 'news.json');
+const deeplApiKey = process.env.DEEPL_API_KEY?.trim();
+
+async function readPreviousArticles() {
+  try {
+    const data = JSON.parse(await fs.readFile(output, 'utf8'));
+    return Array.isArray(data.articles) ? data.articles : [];
+  } catch {
+    return [];
+  }
+}
+
+async function translateArticles(articles, previousArticles) {
+  const previousById = new Map(previousArticles.map(article => [article.id, article]));
+  const pending = [];
+
+  for (const article of articles) {
+    const previous = previousById.get(article.id);
+    if (
+      previous?.translated === true &&
+      previous.originalTitle === article.title &&
+      previous.originalSummary === article.summary
+    ) {
+      article.originalTitle = article.title;
+      article.originalSummary = article.summary;
+      article.title = previous.title;
+      article.summary = previous.summary;
+      article.translated = true;
+      article.translationProvider = previous.translationProvider || 'deepl';
+      continue;
+    }
+
+    if (article.language === 'en') pending.push(article);
+  }
+
+  if (!pending.length) return {translated: 0, reused: articles.filter(x => x.translated).length, failed: 0};
+  if (!deeplApiKey) {
+    console.warn('DEEPL_API_KEY is missing; keeping new English articles untranslated');
+    return {translated: 0, reused: articles.filter(x => x.translated).length, failed: pending.length};
+  }
+
+  let translated = 0;
+  let failed = 0;
+  for (let start = 0; start < pending.length; start += 20) {
+    const chunk = pending.slice(start, start + 20);
+    const body = new URLSearchParams({target_lang: 'ZH-HANS', source_lang: 'EN'});
+    for (const article of chunk) {
+      body.append('text', article.title);
+      body.append('text', article.summary || '');
+    }
+
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 30000);
+    try {
+      const response = await fetch('https://api-free.deepl.com/v2/translate', {
+        method: 'POST',
+        signal: controller.signal,
+        headers: {
+          authorization: `DeepL-Auth-Key ${deeplApiKey}`,
+          'content-type': 'application/x-www-form-urlencoded'
+        },
+        body
+      });
+      if (!response.ok) throw new Error(`DeepL HTTP ${response.status}: ${(await response.text()).slice(0, 200)}`);
+      const result = await response.json();
+      if (!Array.isArray(result.translations) || result.translations.length !== chunk.length * 2) {
+        throw new Error('DeepL returned an unexpected translation count');
+      }
+
+      chunk.forEach((article, index) => {
+        article.originalTitle = article.title;
+        article.originalSummary = article.summary;
+        article.title = result.translations[index * 2].text || article.title;
+        article.summary = result.translations[index * 2 + 1].text || article.summary;
+        article.translated = true;
+        article.translationProvider = 'deepl';
+        translated += 1;
+      });
+    } catch (error) {
+      failed += chunk.length;
+      console.warn(`Translation batch failed: ${error?.message || error}`);
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+
+  return {translated, reused: articles.filter(x => x.translated).length - translated, failed};
+}
+
+const previousArticles = await readPreviousArticles();
 
 const decode = (s = '') => s
   .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
@@ -114,6 +203,8 @@ articles = articles.filter(article => {
   return true;
 }).slice(0, 120);
 
+const translation = await translateArticles(articles, previousArticles);
+
 if (!articles.length) {
   try {
     const old = JSON.parse(await fs.readFile(output, 'utf8'));
@@ -127,6 +218,7 @@ await fs.writeFile(output, JSON.stringify({
   updateIntervalMinutes: 30,
   sources: successful.map(x => ({name: x.source, count: x.items.length})),
   failedCount: failed.length,
+  translation,
   articles
 }, null, 2) + '\n');
-console.log(`Wrote ${articles.length} articles from ${successful.length}/${sources.length} sources`);
+console.log(`Wrote ${articles.length} articles from ${successful.length}/${sources.length} sources; translated ${translation.translated}, reused ${translation.reused}, translation failures ${translation.failed}`);
