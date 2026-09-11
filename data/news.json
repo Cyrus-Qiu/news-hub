@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T20:53:08.506Z",
+  "updatedAt": "2026-09-11T23:10:48.935Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -33,11 +33,53 @@
   ],
   "failedCount": 0,
   "translation": {
-    "translated": 7,
-    "reused": 113,
+    "translated": 3,
+    "reused": 117,
     "failed": 0
   },
   "articles": [
+    {
+      "id": "fad5f970d050",
+      "title": "在机器人训练数据争夺战愈演愈烈的背景下，Mecka AI在红杉资本领投的融资中估值逼近5亿美元",
+      "summary": "在Mecka宣布完成A轮融资数月后，这家成立仅两年的初创公司的新一轮融资正在筹备中。",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch AI",
+      "category": "AI研究",
+      "language": "en",
+      "publishedAt": "2026-09-11T22:58:17.000Z",
+      "originalTitle": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "originalSummary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "2619d8ade240",
+      "title": "Y Combinator的加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+      "summary": "谭希望规模较小的美国开放权重人工智能实验室能够在美国前沿人工智能实验室中采用同类训练技术，从而为美国提供一套更强大的开放权重方案……",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch AI",
+      "category": "AI研究",
+      "language": "en",
+      "publishedAt": "2026-09-11T20:59:47.000Z",
+      "originalTitle": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "originalSummary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options…",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "b3b4818aa362",
+      "title": "OpenAI与数学家们之间的矛盾正在不断升级",
+      "summary": "二十五位顶尖数学家联名签署了一封公开信，指出人工智能实验室正在威胁他们的学术研究。",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-11T20:57:36.000Z",
+      "originalTitle": "OpenAI’s feud with mathematicians is only escalating",
+      "originalSummary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
     {
       "id": "c9bc20e4988d",
       "title": "距离在TechCrunch Disrupt 2026预订展位仅剩一周时间",
@@ -389,20 +431,6 @@
       "translationProvider": "deepl"
     },
     {
-      "id": "4e410dad70fb",
-      "title": "利用 API 中的 GPT‑Live‑1 打造更自然的语音体验",
-      "summary": "GPT‑Live‑1 为 API 带来了自然、全双工的语音对话功能，具备更强的指令遵循能力、自定义语音以及电话通信支持。",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI News",
-      "category": "AI编程",
-      "language": "en",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "originalTitle": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "originalSummary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
       "id": "2b26a8066576",
       "title": "介绍 Agents API",
       "summary": "使用 Agents API 构建和启动云代理，该 API 是一项由 Codex 框架驱动的托管服务，用于协调、长期会话和工具使用。",
@@ -413,6 +441,20 @@
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "originalTitle": "Introducing the Agents API",
       "originalSummary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "4e410dad70fb",
+      "title": "利用 API 中的 GPT‑Live‑1 打造更自然的语音体验",
+      "summary": "GPT‑Live‑1 为 API 带来了自然、全双工的语音对话功能，具备更强的指令遵循能力、自定义语音以及电话通信支持。",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI News",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "originalTitle": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "originalSummary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -469,48 +511,6 @@
       "publishedAt": "2026-09-09T22:25:22.000Z",
       "originalTitle": "OpenAI adds a prominent AI doomer to its board of directors",
       "originalSummary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "9b8574f42722",
-      "title": "马萨诸塞州针对数据中心出台新的清洁能源规定",
-      "summary": "马萨诸塞州已成为近三个月来第三个对数据中心建设实施新限制的州。",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "source": "TechCrunch AI",
-      "category": "基础设施",
-      "language": "en",
-      "publishedAt": "2026-09-09T21:43:34.000Z",
-      "originalTitle": "Massachusetts hits data centers with new clean power rules",
-      "originalSummary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "679dc40aaefa",
-      "title": "Apple Watch 的新 AI 功能正在让“技术时刻在倾听”这一观念变得司空见惯",
-      "summary": "苹果表示，其新款智能手表不会保存原始音频，但能够转录近期语音并总结周围对话的功能，引发了关于同意、隐私以及……的新问题。",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-09T20:24:48.000Z",
-      "originalTitle": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "originalSummary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, an…",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "28b798c31b50",
-      "title": "苹果在秋季iPhone发布会上公布的所有内容，从可折叠的iPhone Duo到支持全天候聆听功能的Apple Watch",
-      "summary": "本次活动的主角是这家科技巨头备受期待的首款折叠屏手机——iPhone Duo。",
-      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-09T20:03:43.000Z",
-      "originalTitle": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "originalSummary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -893,20 +893,6 @@
       "translationProvider": "deepl"
     },
     {
-      "id": "7a45b185cff5",
-      "title": "Playco借助GPT-6 Astra，将游戏原型制作中的人工修正工作减少了50%",
-      "summary": "借助 GPT-6 Astra，Playco 以一个“灰盒”基础构建了三个主题游戏原型，并与上一代模型相比，手动修复次数减少了 50%。",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI News",
-      "category": "AI模型",
-      "language": "en",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "originalTitle": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "originalSummary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
       "id": "be4a3c542626",
       "title": "Legora 借助 GPT-6 Astra，在几分钟内审阅了 41 份文件",
       "summary": "在此次财务审查工作流程中，Legora利用GPT-6 Astra在几分钟内审查了41份文件，发现了所有4处故意植入的错误，并将工作效率提高了近40%。",
@@ -917,6 +903,20 @@
       "publishedAt": "2026-09-03T12:00:00.000Z",
       "originalTitle": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "originalSummary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "7a45b185cff5",
+      "title": "Playco借助GPT-6 Astra，将游戏原型制作中的人工修正工作减少了50%",
+      "summary": "借助 GPT-6 Astra，Playco 以一个“灰盒”基础构建了三个主题游戏原型，并与上一代模型相比，手动修复次数减少了 50%。",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI News",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "originalTitle": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "originalSummary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "translated": true,
       "translationProvider": "deepl"
     },
