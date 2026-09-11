@@ -1,1233 +1,1237 @@
 {
-  "updatedAt": "2026-09-11T00:28:40.553Z",
+  "updatedAt": "2026-09-11T02:27:26.578Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
-      "name": "人民网",
+      "name": "OpenAI News",
       "count": 30
     },
     {
-      "name": "中国新闻网",
+      "name": "GitHub AI & ML",
+      "count": 10
+    },
+    {
+      "name": "Hugging Face Blog",
       "count": 30
     },
     {
-      "name": "BBC 中文",
+      "name": "Google DeepMind",
       "count": 30
     },
     {
-      "name": "The Guardian World",
+      "name": "Vercel",
       "count": 30
     },
     {
-      "name": "The Guardian Technology",
-      "count": 30
-    },
-    {
-      "name": "The Guardian Business",
+      "name": "Cloudflare Blog",
       "count": 20
+    },
+    {
+      "name": "TechCrunch AI",
+      "count": 19
     }
   ],
   "failedCount": 0,
   "articles": [
     {
-      "id": "293b79295d21",
-      "title": "「無時無刻都在想」：911事件25年後審訊仍未了，遇難者家屬傷痛難癒",
-      "summary": "四分之一個世紀過去了，被指策劃這場襲擊的主謀審訊仍未展開，遇難者家屬擔心，等待正義的時間已經所剩不多。",
-      "url": "https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-11T00:22:53.000Z"
-    },
-    {
-      "id": "738befe9ec03",
-      "title": "Australia news live: Andrew Hastie says he accepts Barnaby Joyce’s explanation over ‘traitor’ video and Pauline Hanson now ‘the only lying coward’",
-      "summary": "Follow the day’s news live ‘Profound’ increase in death rate for welfare recipients, report finds People receiving an income support including disability, unemployment or carers…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
-      "source": "The Guardian World",
-      "category": "财经",
+      "id": "a8941f9b7c25",
+      "title": "Vercel Sandbox now provides 64 GB of storage",
+      "summary": "Every Vercel Sandbox now includes 64 GB of storage, up from 32 GB. This includes sandboxes created from a Vercel Managed Image or custom image, as well as those configured with t…",
+      "url": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
+      "source": "Vercel",
+      "category": "AI编程",
       "language": "en",
-      "publishedAt": "2026-09-11T00:16:23.000Z"
+      "publishedAt": "2026-09-11T06:00:00.000Z"
     },
     {
-      "id": "b91d97b9391f",
-      "title": "250元的AI工具积分只卖8.8元？小心你的代码被截留倒卖",
-      "summary": "工作中，使用AI智能体办公的人越来越多，使用场景也越来越丰富。AI用得越顺手，平台积分也就消耗得越快。近日，有人发现，二手平台上冒出一批“低价积分”，8.8元能买到官方售价250元的5000积分，9.9元甚至能买到1万积分，还号称是“源头充值”“内部渠道”。所谓的“低价积分”究竟从哪来？按照卖家教程“一键安装脚本”后，你的账号还安全吗？",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694393.shtml",
-      "source": "中国新闻网",
+      "id": "31c8ff759101",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "source": "TechCrunch AI",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-10T21:51:59.000Z"
+    },
+    {
+      "id": "6ef5efba8093",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-10T21:35:00.000Z"
+    },
+    {
+      "id": "aa97fe2ce391",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The…",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "source": "GitHub AI & ML",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-10T21:31:19.000Z"
+    },
+    {
+      "id": "c3c4ec3c1286",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "source": "TechCrunch AI",
       "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-09-11T00:15:36.000Z"
+      "language": "en",
+      "publishedAt": "2026-09-10T20:59:51.000Z"
     },
     {
-      "id": "63dfbdbb9401",
-      "title": "中汽协：8月新能源汽车国内销量比例达65.7%",
-      "summary": "中新网北京9月11日电(记者 张尼)中国汽车工业协会10日发布2026年8月汽车工业产销情况。数据显示，8月，新能源汽车国内销量比例达到65.7%。",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694386.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-11T00:03:45.000Z"
+      "id": "8e2bb477609d",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space…",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T20:57:30.000Z"
     },
     {
-      "id": "bc38177c6877",
-      "title": "朱炳仁“京派熔装”时装秀亮相SS2027北京时装周",
+      "id": "11165f51c8c6",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T19:50:04.000Z"
+    },
+    {
+      "id": "4a1ed4173818",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T17:54:44.000Z"
+    },
+    {
+      "id": "bb541ac986c0",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T17:45:00.000Z"
+    },
+    {
+      "id": "6dde567f1f42",
+      "title": "GitHub Copilot is now available in the AI SDK harness layer",
+      "summary": "The AI SDK harness layer now supports GitHub Copilot through the official @ai-sdk/harness-github-copilot adapter. The harness layer lets your application run different coding age…",
+      "url": "https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T17:39:00.000Z"
+    },
+    {
+      "id": "9fcb83950edd",
+      "title": "FastAPI frontends and static files served from the CDN",
+      "summary": "FastAPI frontends and static files, served with app.frontend() or StaticFiles , are now promoted to the Vercel CDN at build time. Requests for those paths are served directly fro…",
+      "url": "https://vercel.com/changelog/fastapi-frontends-and-static-files-served-from-the-cdn",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-10T17:00:00.000Z"
+    },
+    {
+      "id": "014159943e4d",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T16:00:00.000Z"
+    },
+    {
+      "id": "4d4e7920d8a7",
+      "title": "Now everyone can put data to work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T15:00:00.000Z"
+    },
+    {
+      "id": "70dbdcfd0be5",
+      "title": "AI agents are flooding public services with new requests",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T14:53:50.000Z"
+    },
+    {
+      "id": "f9f39a68dceb",
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "source": "TechCrunch AI",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-10T14:17:37.000Z"
+    },
+    {
+      "id": "ed3eedaf835d",
+      "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+      "summary": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
+      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+      "source": "Cloudflare Blog",
+      "category": "基础设施",
+      "language": "en",
+      "publishedAt": "2026-09-10T13:00:00.000Z"
+    },
+    {
+      "id": "016c3ec9b775",
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T07:00:00.000Z"
+    },
+    {
+      "id": "1ef5285e671d",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T07:00:00.000Z"
+    },
+    {
+      "id": "c1f34cbe9cec",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:37.000Z"
+    },
+    {
+      "id": "2b26a8066576",
+      "title": "Introducing the Agents API",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI News",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "4e410dad70fb",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI News",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "cb50b0c3c856",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
       "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203927.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:58:54.000Z"
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
-      "id": "1cfe3a291120",
-      "title": "也门打起来了！全球两大航运“油管”同时动荡",
-      "summary": "也门打起来了！战火逼近曼德海峡！全球两大航运“油管”同时动荡，后果很严重 | 国际早察",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694385.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:53:44.000Z"
+      "id": "bdbb4e88f636",
+      "title": "How we cut CDN metadata lookup latency by 91%",
+      "summary": "Every request to Vercel passes through our CDN , which executes on average over 80 million routing instructions per second. Part of that work is looking up metadata to determine…",
+      "url": "https://vercel.com/blog/how-we-cut-cdn-metadata-lookup-latency-by-91-percent",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
-      "id": "5269658ae13c",
-      "title": "深海科考新突破！我国在西太平洋海底锁定一处大型高温热液区",
-      "summary": "近日，由清华大学、中国地质调查局青岛海洋地质研究所、上海交通大学等单位开展的西太平洋海底热液活动与资源联合科考航次取得重要突破。科考团队依托自主研制的设备在西太平洋新锁定一处大型高温活动热液区，初步证实具备大规模多金属硫化物资源潜力。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694384.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:50:08.000Z"
+      "id": "93aab0bed543",
+      "title": "Build with OpenAI Agents API on Vercel",
+      "summary": "You can now build and deploy long-running, tool-using agents with the OpenAI Agents API on Vercel. OpenAI manages the agent loop and session state, while Vercel hosts the applica…",
+      "url": "https://vercel.com/changelog/build-with-openai-agents-api-on-vercel",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
-      "id": "84dff960c192",
-      "title": "香港第一个五年规划公布在即 航拍北部都会区建设进展",
+      "id": "b3125c4e1e6b",
+      "title": "Tako Search is free on AI Gateway through September 30",
+      "summary": "Tako Search is free exclusively on AI Gateway through September 30. It lets AI models search Tako's curated data and the live web, filter web results by domain or publication dat…",
+      "url": "https://vercel.com/changelog/tako-search-is-free-on-ai-gateway-through-september-30th",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "4913b2df5317",
+      "title": "Vercel Sandbox is now available in all regions",
+      "summary": "Vercel Sandbox can now run in all 20 Vercel compute regions , up from four. Running sandboxes closer to the databases, storage, and other services they access reduces latency. Te…",
+      "url": "https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "2d26331197e7",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-09T22:25:22.000Z"
+    },
+    {
+      "id": "9b8574f42722",
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-09T21:43:34.000Z"
+    },
+    {
+      "id": "679dc40aaefa",
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, an…",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-09T20:24:48.000Z"
+    },
+    {
+      "id": "28b798c31b50",
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch AI",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-09T20:03:43.000Z"
+    },
+    {
+      "id": "7522d1a44966",
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-09T19:21:48.000Z"
+    },
+    {
+      "id": "6e5ebd9079dc",
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "source": "TechCrunch AI",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-09T18:16:29.000Z"
+    },
+    {
+      "id": "83655f368aed",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-09T18:08:35.000Z"
+    },
+    {
+      "id": "357dc0e4f8bc",
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "summary": "The company also argued that its on-device models offer consumers more privacy.",
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-09T17:36:05.000Z"
+    },
+    {
+      "id": "534907e0d31e",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-09T17:00:00.000Z"
+    },
+    {
+      "id": "e4d7a91899aa",
+      "title": "Superintelligence is coming. Should we let it?",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dange…",
+      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-09T16:05:35.000Z"
+    },
+    {
+      "id": "e8608e40b722",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203924.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:48:24.000Z"
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-09-09T15:36:24.000Z"
     },
     {
-      "id": "5b11bacbfc3b",
-      "title": "常因一时冲动引发纠纷，未成年人文身问题该如何治理",
-      "summary": "未成年人文身问题该如何治理 专家建议",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-11/10694382.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:47:14.000Z"
-    },
-    {
-      "id": "c2d3d943118f",
-      "title": "《微短剧发展管理办法》施行 推动行业从“拼数量”转向“拼质量”",
-      "summary": "《微短剧发展管理办法》施行 划出11条内容红线",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694381.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:43:16.000Z"
-    },
-    {
-      "id": "3d7be6d9fa53",
-      "title": "2026中国国际时装周（秋季）在北京落幕",
-      "summary": "",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203918.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:42:05.000Z"
-    },
-    {
-      "id": "80828802bd24",
-      "title": "传统工艺市场“打假清源”联合执法行动共计立案769件",
-      "summary": "织密长效监管“制度网” 擦亮传统工艺“金字招牌”",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-11/10694379.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:39:48.000Z"
-    },
-    {
-      "id": "53cf4ca0d7db",
-      "title": "多家门店更名后，青海拉面产业向品牌化规模化升级",
-      "summary": "多家门店更名后，拉面产业向品牌化规模化升级",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694378.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:35:47.000Z"
-    },
-    {
-      "id": "7ed574532706",
-      "title": "“算法向善”照进现实，骑手跑单更加从容",
-      "summary": "优化派单机制、增设红灯补时、合理设定配送时间……",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694376.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:32:13.000Z"
-    },
-    {
-      "id": "4c5fa05c4277",
-      "title": "全力救治善后 深入排查隐患——各地各部门贯彻落实习近平总书记重要指示精神坚决守牢安全发展底线",
-      "summary": "新华社北京9月10日电 题：全力救治善后 深入排查隐患——各地各部门贯彻落实习近平总书记重要指示精神坚决守牢安全发展底线",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694377.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:29:37.000Z"
-    },
-    {
-      "id": "30c88398d832",
-      "title": "以军：使用1100吨炸药 摧毁黎南部真主党地下设施",
-      "summary": "中新网9月11日电 据《以色列时报》报道，当地时间10日，以色列军方称，以军使用1100吨炸药，摧毁了黎巴嫩南部阿里塔希尔高地之下的黎真主党地下设施。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694375.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:28:27.000Z"
-    },
-    {
-      "id": "162a318a9e42",
-      "title": "打击电诈 为何需要46国联手？",
-      "summary": "新闻1+1丨打击电诈 为何需要46国联手？",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694374.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:28:17.000Z"
-    },
-    {
-      "id": "51ba1126b902",
-      "title": "9月11日新闻早报",
-      "summary": "",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-11/10694373.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T23:02:34.000Z"
-    },
-    {
-      "id": "7d319d22b8e8",
-      "title": "外媒：也门胡塞武装占领红海战略要地哈尼什群岛",
-      "summary": "中新网9月11日电 据路透社及《耶路撒冷邮报》援引也门政府消息人士报道，当地时间10日，在也门政府海军部队撤出红海战略要地哈尼什群岛后，也门胡塞武装已在岛上部署兵力。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694372.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:58:39.000Z"
-    },
-    {
-      "id": "773ca32fb183",
-      "title": "美最高法院裁定密苏里州不得使用新版选区划分图",
-      "summary": "中新社华盛顿9月10日电 (记者 沙晗汀)美国联邦最高法院当地时间10日裁定，密苏里州在11月中期选举中不得使用有利于共和党的新版国会选区划分图。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694371.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:58:21.000Z"
-    },
-    {
-      "id": "a77faea6482e",
-      "title": "欧盟上半年收到逾33万份庇护申请 创近五年同期最低",
-      "summary": "中新社布鲁塞尔9月10日电 (记者 德永健)欧盟庇护局10日发布今年上半年欧盟庇护报告，显示今年上半年欧盟共收到逾33万份庇护申请，创近五年同期最低。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694370.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:57:49.000Z"
-    },
-    {
-      "id": "507e160dc7cc",
-      "title": "霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
-      "summary": "10日，美国和伊朗在霍尔木兹海峡的博弈持续。与此同时，也门西部和北部多地的战事也不断升级，胡塞武装当天相继攻占红海港口城市穆哈和红海战略要地哈尼什群岛。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694369.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:48:04.000Z"
-    },
-    {
-      "id": "d26cfbebff75",
-      "title": "俄媒：普京抵达印度 开启为期三天的访问",
-      "summary": "中新网9月11日电 据俄新社报道，当地时间11日，俄罗斯总统普京抵达印度，开启为期3天的访问，并出席金砖国家领导人第十八次会晤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694368.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:44:56.000Z"
-    },
-    {
-      "id": "c652cd12d6f9",
-      "title": "菲律宾内政部长：全国无证枪支或达200万支",
-      "summary": "中新社马尼拉9月10日电 (记者 周璟)菲律宾内政部长10日表示，菲全国流通的无证枪支数量估计高达200万支。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694363.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:35:56.000Z"
-    },
-    {
-      "id": "b564d9aef3fc",
-      "title": "中方在安理会伊朗核问题公开会程序性表决中投反对票",
-      "summary": "中新社联合国9月10日电 联合国安理会10日举行伊朗核问题公开会。中国常驻联合国副代表孙磊在会上议程程序性表决中投下反对票，并敦促个别成员停止利用安理会推进自身政治议程，避免对伊朗核问题政治解决进程制造新的障碍。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694364.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:35:18.000Z"
-    },
-    {
-      "id": "f45635a132b4",
-      "title": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons",
-      "summary": "Report comes two days after former employee quit claiming company’s models could cause human extinction by 2030 Criminals, state-sponsored groups, spyware vendors, scientists and…",
-      "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse",
-      "source": "The Guardian Technology",
+      "id": "9786c92a289d",
+      "title": "The AI policy window is open. We need to act.",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI News",
       "category": "AI",
       "language": "en",
-      "publishedAt": "2026-09-10T22:35:16.000Z"
+      "publishedAt": "2026-09-09T13:00:00.000Z"
     },
     {
-      "id": "1075e18fce71",
-      "title": "黑海一货船遭无人机袭击致2名阿塞拜疆公民遇难",
-      "summary": "中新社阿斯塔纳9月10日电 巴库消息：阿塞拜疆外交部10日发布通报称，一艘名为“泰迪”号(TEDY)的外国货船9日在黑海水域遭无人机袭击，造成2名阿塞拜疆籍船员遇难、2名阿籍船员受伤。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694365.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:34:56.000Z"
-    },
-    {
-      "id": "262f54e1f989",
-      "title": "AI客服，如何更好服务消费者",
-      "summary": "9月起，国家标准为人工与智能客服协同划定清晰边界",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694366.shtml",
-      "source": "中国新闻网",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:31:09.000Z"
-    },
-    {
-      "id": "dc22e35ec56d",
-      "title": "美财政部宣布对伊朗相关个人和实体实施制裁",
-      "summary": "当地时间9月10日，美国财政部发布声明称，作为对伊“经济孤立行动”的一部分，该部门下属的外国资产控制办公室将为伊朗在中东地区的代理人网络提供支持的个人和实体列入制裁清单，制裁对象包括黎真主党成员等。",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694362.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:25:05.000Z"
-    },
-    {
-      "id": "827eeb83a020",
-      "title": "国际打击电信网络诈骗联盟成立大会举行 王小洪出席并致辞",
-      "summary": "新华社南京9月10日电(记者董雪、李明辉)国际打击电信网络诈骗联盟成立大会10日在江苏连云港举行，国务委员、公安部部长王小洪出席并致辞。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694361.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T22:22:37.000Z"
-    },
-    {
-      "id": "6156531b2380",
-      "title": "Woolworths increased prices of at least four ‘family staples’ during ‘Price Freeze’ promotion",
-      "summary": "Exclusive: Analysis shows cost of chicken fillets, potatoes and donuts rose during supermarket giant’s three-month promotion Follow our Australia news live blog for latest update…",
-      "url": "https://www.theguardian.com/business/2026/sep/11/woolworths-hike-family-staples-during-price-freeze-promotion",
-      "source": "The Guardian World",
-      "category": "国际",
+      "id": "7eed123a34dc",
+      "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
+      "summary": "Workers now enables Node.js compatibility by default, supports applications up to 64 mebibytes, and adds a URL-based module registry with import.meta, lazy compilation, shared co…",
+      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+      "source": "Cloudflare Blog",
+      "category": "基础设施",
       "language": "en",
-      "publishedAt": "2026-09-10T22:05:29.000Z"
+      "publishedAt": "2026-09-09T13:00:00.000Z"
     },
     {
-      "id": "47255caa330b",
-      "title": "More Anthropic researchers warn of AI’s perils as Musk terms fears a ‘psyop’",
-      "summary": "Insiders at the firm fear tech’s advancement could cause human extinction while others are calling it a ‘setup’ A day after a former researcher at Anthropic made an apocalyptic d…",
-      "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
-      "source": "The Guardian Technology",
+      "id": "587a70348a73",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI News",
       "category": "AI",
       "language": "en",
-      "publishedAt": "2026-09-10T21:51:26.000Z"
+      "publishedAt": "2026-09-09T11:00:00.000Z"
     },
     {
-      "id": "94b32db9b2dd",
-      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and he…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T20:35:06.000Z"
-    },
-    {
-      "id": "75545558ab86",
-      "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
-      "summary": "Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowing Nervous investors across big economies have been dumping governmen…",
-      "url": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-10T18:05:15.000Z"
-    },
-    {
-      "id": "e1e464de42e5",
-      "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
-      "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T17:29:20.000Z"
-    },
-    {
-      "id": "33a9c801c39a",
-      "title": "第20届亚运会男篮项目开赛 中国台北队首战告捷",
-      "summary": "中新社名古屋9月10日电 第二十届亚洲运动会将于19日在日本爱知县名古屋市开幕，而男篮比赛10日率先开打。在首个比赛日的四场小组赛中，卡塔尔队、中国台北队、韩国队和东道主日本队获胜。",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694360.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T15:45:00.000Z"
-    },
-    {
-      "id": "deb3f024002e",
-      "title": "女篮世界杯：中国队不敌法国队止步八强",
-      "summary": "中新社柏林9月10日电 当地时间10日在德国柏林举行的2026年国际篮联女篮世界杯1/4决赛中，中国队以61:90不敌法国队，止步八强。",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694359.shtml",
-      "source": "中国新闻网",
-      "category": "国内",
-      "language": "zh",
-      "publishedAt": "2026-09-10T15:39:25.000Z"
-    },
-    {
-      "id": "743183352673",
-      "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
-      "summary": "Part of Dmitry Donskoy’s right hand sent to ‘spiritually strengthen’ soldiers The Russian Orthodox church has sent a fragment of a medieval warrior prince’s remains to troops fig…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T15:12:08.000Z"
-    },
-    {
-      "id": "3b91b16ba28c",
-      "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – as it happened",
-      "summary": "Mark Rutte said that Europeans ‘increasingly understand’ the need for their countries to take ‘greater responsibility for our own security’ Addressing German ambassadors, Wadephu…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T15:07:57.000Z"
-    },
-    {
-      "id": "793d3a7f0070",
-      "title": "I turned off my algorithm for 24 hours. Is this how social media used to be?",
-      "summary": "Thanks to a little-known feature in Instagram, I try to travel back to 2012 – before everything on the internet was an ad Follow our Australia news live blog for latest updates G…",
-      "url": "https://www.theguardian.com/media/2026/sep/11/i-turned-off-my-instagram-algorithm-opt-out-social-media-reforms-australia",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-10T15:00:43.000Z"
-    },
-    {
-      "id": "d96db3fc6154",
-      "title": "‘I don’t want to be here’: Andrew Hastie was a reluctant but ‘straightforward’ witness in the Ben Roberts-Smith defamation case",
-      "summary": "The Liberal MP and former SAS soldier is under attack from One Nation after complying with a subpoena to give evidence in the failed 2022 civil case Follow our Australia news liv…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/11/andrew-hastie-reluctant-witness-ben-roberts-smith-case-one-nation-traitor-attack-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T15:00:41.000Z"
-    },
-    {
-      "id": "2f28a8db180d",
-      "title": "Marvel’s Wolverine review – a gloriously conflicted lead is let down by crude, boring battling",
-      "summary": "PlayStation 5; Insomniac Games Logan is well realised by Liam McIntyre and some exquisite character art, but there are lapses in narrative and emotional arcs and some of the comb…",
-      "url": "https://www.theguardian.com/games/2026/sep/10/marvels-wolverine-review-a-gloriously-conflicted-lead-is-let-down-by-crude-boring-battling",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-10T15:00:40.000Z"
-    },
-    {
-      "id": "ef9535f660d3",
-      "title": "Much of Europe already levies a tourist tax – a nice little earner for Italian hotspots",
-      "summary": "While England makes its first foray into unfamiliar territory, it’s proved a boon for Italy’s cash-strapped municipalities A nightly tourist tax may be unfamiliar territory in th…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/europe-tourist-tax-italian-hotspots-england",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T13:57:56.000Z"
-    },
-    {
-      "id": "7324c5f26a31",
-      "title": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
-      "summary": "The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and Africa As wel…",
-      "url": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-10T13:57:06.000Z"
-    },
-    {
-      "id": "e1bcfda0574a",
-      "title": "Secret systems used by Israel in mass killings of Gaza civilians revealed in new film",
-      "summary": "Testimony from Israeli military insiders involved in surveillance and remote killings features in documentary produced by the Guardian Testimony from 24 Israeli military insiders…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T13:42:20.000Z"
-    },
-    {
-      "id": "8b5e9cf227ac",
-      "title": "Primark to launch home delivery service despite ‘challenging’ market",
-      "summary": "Chain has long avoided deliveries in Great Britain but says a shift now offers ‘opportunity for profitable growth’ Business live – latest updates Primark will offer home delivery…",
-      "url": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-10T13:31:19.000Z"
-    },
-    {
-      "id": "386406aec8a9",
-      "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
-      "summary": "Borrowing costs climb in Europe and oil tops $105 a barrel as bank says growing price pressures in eurozone will be ‘longer lasting than we had anticipated’ Business live – lates…",
-      "url": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-10T13:10:15.000Z"
-    },
-    {
-      "id": "088ccea9d642",
-      "title": "Japan seeks change to new UN world map over Russia 'misconception'",
-      "summary": "The new ‘true-scale’ map shrinks Europe and North America while enlarging Africa – and depicts the disputed Kuril islands as ruled by Moscow Japan has asked for the revision of a…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/japan-seeks-change-to-new-un-world-map-over-russia-misconception",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T12:55:03.000Z"
-    },
-    {
-      "id": "4d08ac79eb50",
-      "title": "青島北海造船廠外籍貨輪大火 失聯25人已確定全部死亡",
-      "summary": "中國官方媒體稱，一艘外籍貨輪靠港維修期間起火，造成嚴重傷亡。習近平與李強下達救災指示。",
-      "url": "https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-10T12:47:54.000Z"
-    },
-    {
-      "id": "8431f6757276",
-      "title": "Elon Musk attacks film-maker behind documentary about him",
-      "summary": "Tech mogul calls director Alex Gibney a ‘bitter old man’ who has ‘zero integrity’ in series of posts on X Elon Musk has issued an angry tirade at the film-maker behind a four-hou…",
-      "url": "https://www.theguardian.com/technology/2026/sep/10/elon-musk-attacks-film-maker-behind-documentary-about-him",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-10T12:29:40.000Z"
-    },
-    {
-      "id": "d4a0c09542b5",
-      "title": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member",
-      "summary": "US government adviser Paul Christiano warns of risks to AI industry as he joins OpenAI’s non-profit foundation OpenAI is not on track to reduce the risk of “catastrophic” loss of…",
-      "url": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-10T12:23:21.000Z"
-    },
-    {
-      "id": "05f65ea5ec16",
-      "title": "Malta warned of corruption crisis after ‘utter disbelief’ over Daphne Caruana Galizia verdict",
-      "summary": "Labour peer tells Council of Europe inquiry failure to implement legal protections still putting journalists at risk Europe live – latest updates Malta is vulnerable to “repeated…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/malta-corruption-crisis-daphne-caruana-galizia-verdict",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T12:17:52.000Z"
-    },
-    {
-      "id": "bf566c20b87b",
-      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
-      "summary": "Iran and its proxies move closer to full control of two shipping chokepoints as regional conflict widens Explained: why the fighting in Yemen matters globally Houthi forces in Ye…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T11:39:56.000Z"
-    },
-    {
-      "id": "255451026347",
-      "title": "香港記協主席訴《華爾街日報》解僱案 法庭判局部有罪",
-      "summary": "香港記者協會主席鄭嘉如指控《華爾街日報》出版商道瓊斯，因其參與工會活動，而將其革職，法庭部分支持其主張。",
-      "url": "https://www.bbc.com/zhongwen/articles/ckgxyvrel0ko/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-10T10:46:03.000Z"
-    },
-    {
-      "id": "0ed223b88af0",
-      "title": "為甚麼Gen Z的測試成績正在下跌？",
-      "summary": "在全球最大的15歲青少年國際測試中，閱讀、數學和科學成績都正在下跌。這一下跌趨勢大約始於2012年，而且似乎正在加速，尤其是閱讀能力。本影片探討導致這一下跌的各種可能原因。",
-      "url": "https://www.bbc.com/zhongwen/articles/czezw30076zo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-10T08:58:11.000Z"
-    },
-    {
-      "id": "6ce529ad810c",
-      "title": "Grace Tame apologises for comments labelling rape of Israeli women during Hamas attacks ‘propaganda’",
-      "summary": "The former Australian of the Year said she stood with survivors of sexual violence ‘everywhere’ and ‘no matter who they are’ Get our breaking news email , free app or daily news…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/10/grace-tame-apologises-for-comments-labelling-of-israeli-women-during-hamas-attacks-propaganda-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T08:22:30.000Z"
-    },
-    {
-      "id": "4fc194966385",
-      "title": "Tens of millions of people fail to get humanitarian aid as global system crumbles",
-      "summary": "Funding cuts in 2025 left women, children, older and displaced people hard hit, with 64m fewer people receiving aid The humanitarian aid system is crumbling as funding shrinks, p…",
-      "url": "https://www.theguardian.com/global-development/2026/sep/10/global-humanitarian-aid-crisis-64m-fewer-people-received-help-report",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T08:00:19.000Z"
-    },
-    {
-      "id": "794d151161e5",
-      "title": "RSL says One Nation’s Hastie ‘slur’ was an ‘attack on every veteran’s service’ – as it happened",
-      "summary": "This blog is now closed Labor introducing new laws to crack down on illegal tobacco Labor will introduce new laws to make it easier to prosecute criminals involved in the illicit…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T07:42:24.000Z"
-    },
-    {
-      "id": "cc93f81a9ae7",
-      "title": "Pixel 11 Pro review: Google’s best pocket camera goes customisable",
-      "summary": "Solid battery life, snappy performance and quality software make for a great smaller phone with a killer camera Google’s latest Pro phone is out to prove it has the best camera o…",
-      "url": "https://www.theguardian.com/technology/2026/sep/10/pixel-11-pro-review-googles-best-pocket-camera-goes-customisable",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-10T06:00:19.000Z"
-    },
-    {
-      "id": "90b187c3a547",
-      "title": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
-      "summary": "Dow Jones convicted of one count of deterring Selina Cheng from role at Hong Kong Journalist Association but cleared of second charge A Hong Kong court has convicted the publishe…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T05:57:31.000Z"
-    },
-    {
-      "id": "de0860184e5e",
-      "title": "Deadly Philippines ferry fire triggers search for scores of missing",
-      "summary": "Multiple search and rescue vessels deployed after blaze off Palawan island leaves at least five dead, says coast guard A large-scale ⁠search and rescue operation ​is under way of…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T05:54:14.000Z"
-    },
-    {
-      "id": "c260aaceded4",
-      "title": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says",
-      "summary": "The International Atomic Energy Agency voices ‘serious concerns’ over expansion of Yongbyon facility to enrich uranium The International Atomic Energy Agency (IAEA) has voiced “s…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-10T05:08:46.000Z"
-    },
-    {
-      "id": "a9cbfd89b7b6",
-      "title": "Instagram boss says users will be ‘overwhelmed’ with brand content in algorithm-free world",
-      "summary": "Adam Mosseri says platform’s algorithm ‘feels like a black box’ but company trying to give users more control after Labor announces opt-out plan Instagram’s chief executive has s…",
-      "url": "https://www.theguardian.com/media/2026/sep/10/instagram-boss-says-users-will-be-overwhelmed-with-brand-content-in-algorithm-free-world",
-      "source": "The Guardian Technology",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-09-10T02:10:08.000Z"
-    },
-    {
-      "id": "ba96d6fa56db",
-      "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
-      "summary": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’ The US secretary of state, Marco Rubio, gave new clarity on the a…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
-      "source": "The Guardian World",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-10T01:02:42.000Z"
-    },
-    {
-      "id": "838110ea8d79",
-      "title": "Lawmakers blast AI companies after researcher warns of human extinction by 2030",
-      "summary": "Former Anthropic employee Jacob Coxon said AI will become ‘superhuman systems’ that can cause human extinction by the end of the decade Just a day after three Anthropic researche…",
-      "url": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-10T00:19:36.000Z"
-    },
-    {
-      "id": "c8b22575472d",
-      "title": "911事件25週年：震驚世界的襲擊如何發生，造成多少人死亡？",
-      "summary": "2001年的襲擊造成數千名美國人喪生，並對全球產生了深遠影響。",
-      "url": "https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-10T00:14:46.000Z"
-    },
-    {
-      "id": "dbad74d0ee98",
-      "title": "AI「性轉」視頻風靡中國網絡：一場「 新文化運動」的覺醒與侷限",
-      "summary": "經典的「好太太」系列廣告以「好丈夫」的形象重出江湖：鏡頭前穿著清涼的不再是女性,而是男性。",
-      "url": "https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "AI",
-      "language": "zh",
-      "publishedAt": "2026-09-10T00:14:34.000Z"
-    },
-    {
-      "id": "cc82c264682b",
-      "title": "Anthropic researchers say AI could cause human extinction by 2030",
-      "summary": "One researcher who resigned said many in industry believe that without regulation AI could kill off humanity Artificial intelligence could kill off humanity within the decade, ac…",
-      "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-10T00:14:08.000Z"
-    },
-    {
-      "id": "74d2eb5ec211",
-      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
-      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which storm…",
-      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T22:19:25.000Z"
-    },
-    {
-      "id": "3d59153b95ad",
-      "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-      "summary": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi cities The price of oil has risen above $100 a barrel for the first time…",
-      "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-09T19:09:13.000Z"
-    },
-    {
-      "id": "0786485fde7d",
-      "title": "Apple’s new CEO introduces himself at annual showcase: ‘I continue to be inspired every single day’",
-      "summary": "John Ternus helms his first major event as head of $4.5tn company, where he announces first foldable iPhone John Ternus, Apple’s new CEO, helmed the company’s annual showcase of…",
-      "url": "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
-      "source": "The Guardian Business",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-09T19:07:53.000Z"
-    },
-    {
-      "id": "0c2cd5f91c33",
-      "title": "Apple unveils folding iPhone Duo as new CEO takes center stage",
-      "summary": "The passport-size iPhone Duo serves as the first big test for John Ternus, who took over from Tim Cook last week Apple has unveiled the iPhone Duo, the company’s first foldable p…",
-      "url": "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-09T18:45:46.000Z"
-    },
-    {
-      "id": "03dfc591c795",
-      "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
-      "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games,…",
-      "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T18:20:24.000Z"
-    },
-    {
-      "id": "4ee8465f156d",
-      "title": "Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds",
-      "summary": "Analysis of two skeletons reveals tooth wear and traces of psychoactive substance in what may be earliest known evidence for human drug taking What may be the earliest known evid…",
-      "url": "https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T18:00:02.000Z"
-    },
-    {
-      "id": "255ec7ea1f1c",
-      "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
-      "summary": "Spiritual leaders stress diversity of views within Jewish community and warn against inaction on settler violence ‘It’s a good start’: prominent Israelis welcome UK sanctions Pro…",
-      "url": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T17:57:14.000Z"
-    },
-    {
-      "id": "6d6f3fbdbaa0",
-      "title": "‘It’s a good start’: prominent Israelis welcome UK sanctions on illegal settlements",
-      "summary": "Ed Miliband’s intervention was ‘inevitable’ after Israeli government and security failures, say former ministers and diplomats Prominent Israelis have welcomed new UK sanctions a…",
-      "url": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T17:36:42.000Z"
-    },
-    {
-      "id": "93387db4d340",
-      "title": "Streaming from the cloud was meant to change games forever – what happened?",
-      "summary": "Once hailed as the future, even the likes of Google, Sony and Microsoft have struggled to make streaming games fun, fast or affordable • Don’t get Pushing Buttons delivered to yo…",
-      "url": "https://www.theguardian.com/games/2026/sep/09/streaming-from-the-cloud-was-meant-to-changes-games-forever-what-happened",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-09T14:00:00.000Z"
-    },
-    {
-      "id": "ec7d1e785d4c",
-      "title": "英國制裁約旦河西岸：對以色列關係跌至數十年谷底",
-      "summary": "以色列針對倫敦禁止與被佔領約旦河西岸以色列定居點進行貿易所作出的反應，凸顯了這一刻的重要性。",
-      "url": "https://www.bbc.com/zhongwen/articles/c804dd0de8no/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-09T12:15:39.000Z"
-    },
-    {
-      "id": "28e3e2a40461",
-      "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
-      "summary": "AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts The universal adoption of electronic shelf labels in grocery stores a…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-09T11:00:07.000Z"
-    },
-    {
-      "id": "944e38c2d55e",
-      "title": "US allies lack resources to keep pace on AI, top Pentagon official says",
-      "summary": "Cameron Stanley talks up ‘revolutionary’ AI capabilities and says Washington working with Nato and Five Eyes partners The Pentagon’s top artificial intelligence official said on…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/09/us-military-pentagon-allies-ai",
-      "source": "The Guardian Technology",
-      "category": "AI",
-      "language": "en",
-      "publishedAt": "2026-09-09T10:00:05.000Z"
-    },
-    {
-      "id": "ec67a1d0f1d7",
-      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
-      "summary": "台灣的地方選舉又稱「九合一」選舉，每四年一次，多數落在總統任期中段的年底，故被視為總統的「期中考」。",
-      "url": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-09T09:32:11.000Z"
-    },
-    {
-      "id": "386d65c60b68",
-      "title": "Grand Theft Auto VI: can playing a video game count as cheating on your partner?",
-      "summary": "Historically a new Grand Theft Auto game inspired controversy around violence – but this time people are getting exercised about its romance There was never any doubt that Grand…",
-      "url": "https://www.theguardian.com/games/2026/sep/09/grand-theft-auto-vi-can-playing-a-video-game-count-as-cheating-on-your-partner",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-09T09:30:55.000Z"
-    },
-    {
-      "id": "9a4d9258f673",
-      "title": "董建華逝世：從船王富二代到香港首任特首，中共的「親密朋友」",
-      "summary": "中國全國政協前副主席，香港首任特首董建華逝世，享年89歲。他的前半生見證主權移交前香港的東方之珠年代，後半生更走入最高行政當局左右香港的前途。",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-09T09:29:34.000Z"
-    },
-    {
-      "id": "f6ac28dd581d",
-      "title": "習近平與貝安德首次通話 基調積極 同時提及黎智英",
-      "summary": "通稿還引述貝安德表示，「願將雙邊關係恢復到歷史最高水平」，更好造福兩國人民。然而，唐寧街10號發佈的通話紀要中，並未出現「恢復到歷史最高水平」的措辭。",
-      "url": "https://www.bbc.com/zhongwen/articles/c1j4n836le2o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-09T09:08:24.000Z"
-    },
-    {
-      "id": "895dd3442ee0",
-      "title": "關稅真正會讓加拿大人和美國人付出什麼代價",
-      "summary": "一年多來，家庭和企業早已習慣關稅對生活成本帶來影響，如今又將有哪些變化？",
-      "url": "https://www.bbc.com/zhongwen/articles/clyrj0l2ydyo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-09T08:30:16.000Z"
-    },
-    {
-      "id": "4511941ef3b0",
-      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
-      "summary": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging auth…",
-      "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T08:00:03.000Z"
-    },
-    {
-      "id": "9b6f62e690be",
-      "title": "「教員萬歲」：中國Z世代為何重新「擁抱」毛澤東？",
-      "summary": "分析認為，面對就業壓力和貧富差距，一些中國年輕人重新從毛澤東的階級論述尋找答案；毛時代強調的「獨立自主、自力更生」，在今日中西方競爭的背景下，也再次產生吸引力。",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2z9pgprrdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-09T07:57:41.000Z"
-    },
-    {
-      "id": "76ffff9d33ff",
-      "title": "UK datacentres will create just 25% of jobs predicted by tech sector, analysis finds",
-      "summary": "Facilities likely to employ 10,400 workers, compared with 40,000 in industry estimates, thinktank says Datacentres in the UK will create just a quarter of the jobs predicted by t…",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/09/uk-datacentres-will-create-just-25-of-jobs-predicted-by-tech-sector-analysis-finds",
-      "source": "The Guardian Technology",
-      "category": "科技",
+      "id": "3f133ea249cc",
+      "title": "Password Protection is now available per project on Pro",
+      "summary": "Pro teams can now enable Password Protection for individual projects at $20 per project per month. When enabled, Password Protection requires visitors to enter a password you set…",
+      "url": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
+      "source": "Vercel",
+      "category": "AI编程",
       "language": "en",
       "publishedAt": "2026-09-09T06:00:00.000Z"
     },
     {
-      "id": "52a6afe6e948",
-      "title": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
-      "summary": "Three men are on trial over the death of brothers Jake and Callum Robinson and their friend, US citizen Jack Carter Rhoad, in Ensenada The father of two Australian surfers killed…",
-      "url": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
-      "source": "The Guardian World",
-      "category": "国际",
+      "id": "034bb348171c",
+      "title": "Protect production deployments for free on every plan",
+      "summary": "Vercel Authentication can now protect all deployments in a project, including production, at no additional cost on every plan. Previously, protecting production domains required…",
+      "url": "https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan",
+      "source": "Vercel",
+      "category": "AI编程",
       "language": "en",
-      "publishedAt": "2026-09-09T04:46:23.000Z"
+      "publishedAt": "2026-09-09T06:00:00.000Z"
     },
     {
-      "id": "c6b0912e61ba",
-      "title": "Babies born to anaemic mothers have smaller brains, study finds",
-      "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, parti…",
-      "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-09T04:00:58.000Z"
-    },
-    {
-      "id": "ad5aae675597",
-      "title": "「我一度認不出我的男朋友」：我是如何發現自己患有臉盲症的",
-      "summary": "在被診斷出患有相貌失認症（prosopagnosia），也就是臉盲症後，BBC記者卡羅琳・斯蒂爾探討了這種狀況背後的科學，包括它的成因，以及專家如何判斷一個人是否患有此症。",
-      "url": "https://www.bbc.com/zhongwen/articles/cr4vwye0z02o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-09T01:05:42.000Z"
-    },
-    {
-      "id": "90c462ba619d",
-      "title": "推崇⽑澤東的「Z世代」：彈幕、「教員」與政治失語",
-      "summary": "從2019年開始，《毛澤東選集》突然躍居清華大學圖書館年度借閱榜榜首，此後一直到2025年都穩居榜首。網絡上，不少年輕人稱毛澤東為「教員」，並追捧他的影視形象。為何這位已故領導人重新受到關注？",
-      "url": "https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-09T01:05:37.000Z"
-    },
-    {
-      "id": "8833bab144da",
-      "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-      "summary": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad The US is banning dairy products, most alcoholic beverages and mot…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-08T23:59:37.000Z"
-    },
-    {
-      "id": "daab1693cbd1",
-      "title": "董建華：從「船王」之子到香港首任行政長官",
-      "summary": "中國香港特區首任行政長官董建華逝世，享年89歲。「香港好，國家好」是他特首生涯中最為人熟知的一句說話。",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-08T18:50:53.000Z"
-    },
-    {
-      "id": "1b3ebfdd6821",
-      "title": "Ikea wins right to launch legal action against Belgian far-right party",
-      "summary": "EU’s highest court allows Swedish furniture firm to begin proceedings after Vlaams Belang used its trademarks in immigration campaign Ikea has won the right to take legal action…",
-      "url": "https://www.theguardian.com/business/2026/sep/08/ikea-wins-right-to-launch-legal-action-vlaams-belang-eu",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-08T18:45:49.000Z"
-    },
-    {
-      "id": "cf594c425189",
-      "title": "More than 600 UK flights cancelled after air traffic control ‘technical issue’ – as it happened",
-      "summary": "National Air Traffic Services apologise for technical issue disrupting departures today, which Flightradar24 say has caused hundreds of cancellations Air traffic control issue ca…",
-      "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-08T18:08:11.000Z"
-    },
-    {
-      "id": "eb6612a9596e",
-      "title": "Why the tobacco tax is lighting up Australian politics - podcast",
-      "summary": "Rates of smoking in Australia are the lowest they’ve ever been, but at the same time, the illicit trade has never been bigger. It’s estimated 80% of the tobacco trade is now illi…",
-      "url": "https://www.theguardian.com/australia-news/audio/2026/sep/09/why-the-tobacco-tax-is-lighting-up-australian-politics-full-story-podcast",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-08T15:00:43.000Z"
-    },
-    {
-      "id": "4e16a398c467",
-      "title": "State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film",
-      "summary": "Alex Gibney’s marathon documentary delivers numerous eye-raising insights into the broligarch’s business deals, early idealism and apocalyptic appetite for fathering children Vet…",
-      "url": "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film",
-      "source": "The Guardian Technology",
-      "category": "商业",
-      "language": "en",
-      "publishedAt": "2026-09-08T13:34:15.000Z"
-    },
-    {
-      "id": "399ca980f9e8",
-      "title": "Musk review – epic study of the world’s richest and most banal man",
-      "summary": "Venice film festival: Alex Gibney interviews former colleagues, wives, the trillionaire’s father and a CG avatar in this absorbing documentary ‘Elon is a nuke.” The speaker is As…",
-      "url": "https://www.theguardian.com/film/2026/sep/08/musk-review-epic-study-worlds-richest-most-banal-man-elon-film",
-      "source": "The Guardian Technology",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-08T12:32:58.000Z"
-    },
-    {
-      "id": "dfaefb280db7",
-      "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
-      "summary": "專家稱，航母給美國盟友的是心理保證。印太區域沒有航母，「會加強一種整體感覺：美國正被中東局勢分心。」",
-      "url": "https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-08T06:35:07.000Z"
-    },
-    {
-      "id": "4ec437a8e599",
-      "title": "Social media users could opt out of the algorithm if Australian government has its way – but that’s a big if",
-      "summary": "Even if the legislation passes, tech companies may still find ways to frustrate its intent and keep Australians hooked on their feed Social media could become a “choose your own…",
-      "url": "https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-08T06:23:42.000Z"
-    },
-    {
-      "id": "b23b07a35936",
-      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
-      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller…",
-      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-08T04:00:27.000Z"
-    },
-    {
-      "id": "a855a2eb6fc4",
-      "title": "The death of ‘hello’: how gen Z – and scammers – put paid to the greeting",
-      "summary": "If you’re called by an unidentified number, the advice is to remain silent until you’re sure there’s a human being on the line. Is this the end of an era? Name: Hello. Age: 200 y…",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/07/death-of-hello-gen-z-and-scammers",
-      "source": "The Guardian Technology",
-      "category": "科技",
-      "language": "en",
-      "publishedAt": "2026-09-07T14:08:36.000Z"
-    },
-    {
-      "id": "c60433e8889b",
-      "title": "‘The most anti-union president’: how Trump turned his back on US workers",
-      "summary": "Labor experts stunned at how anti-worker Trump has been with actions since last Labor Day that have hurt unions Donald Trump has repeatedly vowed to champion US workers. Shortly…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-07T11:00:49.000Z"
-    },
-    {
-      "id": "7f22720fc840",
-      "title": "US labor unions saw membership gains in 2025, mostly in states with bargaining protections",
-      "summary": "Uptick in US union membership coincides with high public approval ratings of unions After years of decline, union membership in the US increased by 411,000 members in 2025, the l…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/labor-unions-membership-increase",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-07T11:00:48.000Z"
-    },
-    {
-      "id": "456b777bcb09",
-      "title": "Grindr pays £26m to settle UK lawsuit over allegedly sharing users’ HIV status",
-      "summary": "US-owned dating app allegedly allowed ad firms access to private information in breach of UK law Grindr will pay £26m to settle a lawsuit brought by thousands of users in the UK…",
-      "url": "https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad",
-      "source": "The Guardian Business",
-      "category": "财经",
-      "language": "en",
-      "publishedAt": "2026-09-07T10:30:56.000Z"
-    },
-    {
-      "id": "d76b92676a15",
-      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
-      "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrenti…",
-      "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-      "source": "The Guardian World",
-      "category": "国际",
-      "language": "en",
-      "publishedAt": "2026-09-07T08:27:08.000Z"
-    },
-    {
-      "id": "35d4bd9df34e",
-      "title": "Pixel 11 review: Google sets the bar for standard flagship phones",
-      "summary": "Longer battery life, faster chip, actually useful AI tools and better cameras keep quality Android ahead of competition Google’s Pixel 11 continues to set the standard for what y…",
-      "url": "https://www.theguardian.com/technology/2026/sep/07/pixel-11-review-google-flagship-phones-battery-cameras-android",
-      "source": "The Guardian Technology",
+      "id": "c22114eab3b7",
+      "title": "DeepSeek V4.1 Flash now available on AI Gateway",
+      "summary": "DeepSeek V4.1 Flash is now available on AI Gateway with native image understanding. V4.1 Flash has vision support and accepts text and images in the same request, so you can ask…",
+      "url": "https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway",
+      "source": "Vercel",
       "category": "AI",
       "language": "en",
-      "publishedAt": "2026-09-07T06:00:26.000Z"
+      "publishedAt": "2026-09-09T00:00:00.000Z"
     },
     {
-      "id": "9f5e684a5a9f",
-      "title": "歐洲國家為何提走北美黃金儲備",
-      "summary": "荷蘭已將86噸閃閃發亮的黃金儲備從美國遷移至其他地方，究竟發生了甚麼事？",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-07T00:03:22.000Z"
+      "id": "1cb85d08ad5b",
+      "title": "You can now read and search changelogs from the CLI",
+      "summary": "You and your agents can now read and search the Vercel changelog feed from your terminal using vercel changelog . Coding agents can use this command to discover new Vercel produc…",
+      "url": "https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-09T00:00:00.000Z"
     },
     {
-      "id": "deb72e006610",
-      "title": "Uncanny and unappetizing: appetites spoil as AI images take over food menus",
-      "summary": "Consumers are increasingly encountering AI-generated images on food menus such as leathery meat and bread resembling reptile skin During a recent lunch break, Jill Sennett saw so…",
-      "url": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
-      "source": "The Guardian Technology",
+      "id": "1d193413cb4c",
+      "title": "Persistent memory for eve agents",
+      "summary": "eve agents can now retain context across sessions and use it in future conversations. Persistent memory is organized into slots. You can define named slots in files under agent/m…",
+      "url": "https://vercel.com/changelog/persistent-memory-for-eve-agents",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "4abb458e8bdd",
+      "title": "v0 adds one-click integrations for email, auth, search, and databases",
+      "summary": "We're working toward bringing parity across Vercel integration and v0 , starting with Resend , Amazon OpenSearch , MongoDB Atlas , Algolia and Clerk . Prompt v0 with what you wan…",
+      "url": "https://vercel.com/changelog/v0-adds-one-click-integrations-for-email-auth-search-and-databases",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "b498608ba852",
+      "title": "Deployment step now 10% faster",
+      "summary": "The deployment step is now about 10% faster, saving one second on average. Large applications can save up to 12 seconds. Previously, Vercel uploaded a separate routing metadata f…",
+      "url": "https://vercel.com/changelog/deployment-step-now-10-faster",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-08T22:00:00.000Z"
+    },
+    {
+      "id": "bf2b206e91e6",
+      "title": "Vercel Sandbox routing is now 18x faster globally",
+      "summary": "Requests to Vercel Sandbox public domains are now routed 18x faster. Domains created with the sandbox.domain() SDK call are now resolved from the nearest regional replica, instea…",
+      "url": "https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-08T20:00:00.000Z"
+    },
+    {
+      "id": "167bce5d47e7",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI News",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-08T17:00:00.000Z"
+    },
+    {
+      "id": "4f420d1c5cd0",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "summary": "",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-09-08T14:23:07.000Z"
+    },
+    {
+      "id": "80d284f58871",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "category": "AI研究",
+      "language": "en",
+      "publishedAt": "2026-09-08T14:00:15.000Z"
+    },
+    {
+      "id": "de2784bec6a7",
+      "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+      "summary": "Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting t…",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "source": "Cloudflare Blog",
+      "category": "基础设施",
+      "language": "en",
+      "publishedAt": "2026-09-08T13:10:00.000Z"
+    },
+    {
+      "id": "aaada63e998e",
+      "title": "The Work Now Within Reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
       "category": "AI",
       "language": "en",
-      "publishedAt": "2026-09-06T13:00:06.000Z"
+      "publishedAt": "2026-09-08T13:00:00.000Z"
     },
     {
-      "id": "9e34863df4c3",
-      "title": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
-      "summary": "Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisis The greenest campaigners against climate change have long suffered from a cripp…",
-      "url": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
-      "source": "The Guardian Business",
-      "category": "国际",
+      "id": "305f03a4aa6a",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI News",
+      "category": "AI",
       "language": "en",
-      "publishedAt": "2026-09-06T11:00:03.000Z"
+      "publishedAt": "2026-09-08T11:30:00.000Z"
     },
     {
-      "id": "2cbdccd6cae6",
-      "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
-      "summary": "一場喜馬拉雅山冰岩崩造成的泥石流，摧毀了尼泊爾超過10%的發電能力。",
-      "url": "https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-06T05:19:17.000Z"
-    },
-    {
-      "id": "c119fd56ac88",
-      "title": "機器人開始索要小費，但錢到底進了誰的口袋？",
-      "summary": "自疫情以來，人們被索要小費的場合比以往任何時候都多，而且往往是由數字支付系統主動提示的。消費者抱怨這是一種「情感勒索」，而建議小費的百分比還在不斷攀升。儘管有些人嘲笑美國人「失控」的小費文化，但它正蔓延全球。",
-      "url": "https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-06T02:02:19.000Z"
-    },
-    {
-      "id": "0bda41ca8cf7",
-      "title": "Cut the cameras: Flock surveillance cameras spur rare bipartisan backlash",
-      "summary": "Politicians on the right and left are pushing back against Flock as more Americans voice opposition to the tech Growing factions from both sides of the political aisle in the US…",
-      "url": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
-      "source": "The Guardian Technology",
-      "category": "科技",
+      "id": "fbb79928f7d9",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI News",
+      "category": "AI",
       "language": "en",
-      "publishedAt": "2026-09-05T14:00:37.000Z"
+      "publishedAt": "2026-09-08T10:00:00.000Z"
     },
     {
-      "id": "8829563fb3e9",
-      "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
-      "summary": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences When Donald Trump was asked recently about the threat of rising…",
-      "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
-      "source": "The Guardian Business",
+      "id": "99c22bc85dd5",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-08T09:00:00.000Z"
+    },
+    {
+      "id": "f09b31af28ad",
+      "title": "Introducing Flat Rate CDN",
+      "summary": "Over the past year, we have improved Vercel’s Pro pricing to better reflect how teams build, with expanded user roles , flexible credits , access to enterprise features , and mor…",
+      "url": "https://vercel.com/blog/introducing-flat-rate-cdn",
+      "source": "Vercel",
       "category": "财经",
       "language": "en",
-      "publishedAt": "2026-09-04T16:49:28.000Z"
+      "publishedAt": "2026-09-08T04:00:00.000Z"
     },
     {
-      "id": "1b0ad00bfab3",
-      "title": "The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
-      "summary": "A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on…",
-      "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade",
-      "source": "The Guardian Technology",
-      "category": "国际",
+      "id": "671a9fed35e2",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI News",
+      "category": "AI",
       "language": "en",
-      "publishedAt": "2026-09-04T16:15:50.000Z"
+      "publishedAt": "2026-09-08T00:00:00.000Z"
     },
     {
-      "id": "6cd68e91db6f",
-      "title": "韓國光州雙年展: 中國退展，「台灣館」風波透露什麼？",
-      "summary": "韓國舉行的光州雙年展因「台灣館」名稱遭改動陷入爭議，中國週四（9月3日）宣布退出展覽。",
-      "url": "https://www.bbc.com/zhongwen/articles/cz6zd7j8nn0o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:56:52.000Z"
-    },
-    {
-      "id": "fb4aa610e2b7",
-      "title": "前線報導：BBC深入尼泊爾隧道和被洪水吞沒的小鎮",
-      "summary": "在貝特拉瓦蒂地區，一些居民返回面目全非的家園，他們還要面臨的一大挑戰是如何處理逝者的遺體。與此同時，救援人員仍未放棄尋找倖存者，他們相信仍有人受困於特里蘇里河沿岸的隧道內。",
-      "url": "https://www.bbc.com/zhongwen/articles/cy4z8w39j3no/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "category": "国际",
-      "language": "zh",
-      "publishedAt": "2026-09-04T10:25:57.000Z"
-    },
-    {
-      "id": "f89108273b4a",
-      "title": "Private equity faces existential crisis in US as unsold companies pile up",
-      "summary": "Private equity firms and the companies they own employ over 13 million, from startups to rural hospitals and large retailers, but experts’ concerns of collapse are growing Retail…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/private-equity-boom-hospital-job-layoff",
-      "source": "The Guardian Business",
-      "category": "商业",
+      "id": "9816f5beea82",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "url": "https://openai.com/index/1password",
+      "source": "OpenAI News",
+      "category": "AI模型",
       "language": "en",
-      "publishedAt": "2026-09-04T10:00:04.000Z"
+      "publishedAt": "2026-09-08T00:00:00.000Z"
     },
     {
-      "id": "c7808dfec7a7",
-      "title": "Thieves target mail order sales as Pokémon card prices soar",
-      "summary": "As one card recently sold for £12m, opportunistic thefts have surged – envelopes are being opened en route, costing small businesses thousands Pokémon’s success over the last 30…",
-      "url": "https://www.theguardian.com/games/2026/sep/04/thieves-target-mail-order-sales-as-pokemon-card-prices-soar",
-      "source": "The Guardian Technology",
+      "id": "2477a6114db4",
+      "title": "GPT Image 2.5 Flare and Sunburst now available on AI Gateway",
+      "summary": "GPT Image 2.5 Flare and GPT Image 2.5 Sunburst from OpenAI are now available on AI Gateway. Both models accept text prompts and reference images for generation and editing. They…",
+      "url": "https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "4f69fa25d98a",
+      "title": "Flat Rate CDN is now GA for Pro teams",
+      "summary": "Flat Rate CDN is now generally available for Pro teams. Flat Rate CDN is an alternative to usage-based CDN billing that provides you with a fixed monthly bill. Monthly Flat Rate…",
+      "url": "https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams",
+      "source": "Vercel",
+      "category": "财经",
+      "language": "en",
+      "publishedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "e02ae19def6b",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "id": "a8e8f9dc895a",
+      "title": "An Alien Mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-06T09:00:00.000Z"
+    },
+    {
+      "id": "19672c4832d4",
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-06T08:00:00.000Z"
+    },
+    {
+      "id": "87ef5c15d39b",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now availabl…",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "source": "GitHub AI & ML",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-04T16:04:14.000Z"
+    },
+    {
+      "id": "d5c9a183b768",
+      "title": "Ling 3.0 Flash Sante is now available on AI Gateway for free",
+      "summary": "Ling 3.0 Flash Sante from inclusionAI is now available on AI Gateway, and free through October 4. Ling 3.0 Flash Sante is the healthcare-focused version of Ling 3.0 Flash . It's…",
+      "url": "https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "7dccfbf0b62e",
+      "title": "GPT 6 Astra now available on Vercel AI Gateway",
+      "summary": "GPT 6 Astra from OpenAI is now available on AI Gateway. GPT 6 Astra is designed for long-running agentic work. It can navigate software, analyze data, run simulations, and build…",
+      "url": "https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "2992a92dac4e",
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+      "summary": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak model…",
+      "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+      "source": "Cloudflare Blog",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-03T21:03:02.000Z"
+    },
+    {
+      "id": "c18b3bb292c9",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginner…",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "source": "GitHub AI & ML",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "56da2c8ef803",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-03T15:02:08.000Z"
+    },
+    {
+      "id": "16708db52473",
+      "title": "Cursor Cloud Agents can now run in Vercel Sandbox",
+      "summary": "instead of Cursor's hosted machines. Cursor manages the agent harness and inference loop. Its Self-Hosted Machines APIs let you supply the execution environment where agents clon…",
+      "url": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-03T15:00:00.000Z"
+    },
+    {
+      "id": "5190d2a1dccd",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-03T13:15:00.000Z"
+    },
+    {
+      "id": "96a3500c5a4b",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "summary": "",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-09-03T13:13:48.000Z"
+    },
+    {
+      "id": "be4a3c542626",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI News",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
+      "id": "7a45b185cff5",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI News",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
+      "id": "0f3b76bc480d",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI News",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-03T11:00:00.000Z"
+    },
+    {
+      "id": "bd657e007ef2",
+      "title": "Basic build machines are now available on Pro and Enterprise",
+      "summary": "Pro and Enterprise teams can now select Basic build machines. Basic build machines have 2 vCPUs and 8 GB of memory, offering a more cost-efficient option for smaller apps or agen…",
+      "url": "https://vercel.com/changelog/basic-build-machines",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-03T01:00:00.000Z"
+    },
+    {
+      "id": "2e155b11d809",
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source": "OpenAI News",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "45020768fad9",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "summary": "",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "86b47b47cb74",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "b844bdeeb825",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "summary": "",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "271f803af092",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI ling…",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "source": "GitHub AI & ML",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-02T21:00:00.000Z"
+    },
+    {
+      "id": "0461be447f8d",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrific…",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "source": "GitHub AI & ML",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-02T18:00:00.000Z"
+    },
+    {
+      "id": "383dbcd782ab",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "source": "Google DeepMind",
       "category": "科技",
       "language": "en",
-      "publishedAt": "2026-09-04T09:35:03.000Z"
+      "publishedAt": "2026-09-02T16:24:24.000Z"
+    },
+    {
+      "id": "18ef68f77655",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "source": "Google DeepMind",
+      "category": "科技",
+      "language": "en",
+      "publishedAt": "2026-09-02T16:18:31.000Z"
+    },
+    {
+      "id": "b07b0b2b4d66",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-02T12:00:00.000Z"
+    },
+    {
+      "id": "17dede79a08e",
+      "title": "Free domain with Pro offer now includes .app and .dev",
+      "summary": "We recently announced that all Pro teams can claim a free domain for one year . That offer now includes .app and .dev , bringing the eligible TLDs to eight: .app .dev .online .si…",
+      "url": "https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-02T07:00:00.000Z"
+    },
+    {
+      "id": "ee594e6bcb76",
+      "title": "Muse Spark 1.3 now available on AI Gateway",
+      "summary": "Muse Spark 1.3 from Meta is now available on AI Gateway, in both the standard and contributor pricing tiers. This model improves on prior Muse Spark models at agent work and codi…",
+      "url": "https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "3cf2c1482fec",
+      "title": "GLM-5.3 is 50% off through DigitalOcean on AI Gateway",
+      "summary": "GLM-5.3 is 50% off on AI Gateway through Tuesday, September 8, in partnership with DigitalOcean. How to use the model during the offer period Using the promo name ( zai/glm-5.3-p…",
+      "url": "https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "b709b73f4498",
+      "title": "Gemini 3.8 Flash now available on AI Gateway",
+      "summary": "Gemini 3.8 Flash from Google is now available on AI Gateway. The model is 50% off through December 31st. It has a 1M token context window, accepts text, image, PDF, and video inp…",
+      "url": "https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "23bdbfdbd061",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-01T21:39:07.000Z"
+    },
+    {
+      "id": "dfd1ea2e5518",
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind",
+      "category": "AI研究",
+      "language": "en",
+      "publishedAt": "2026-09-01T17:08:51.000Z"
+    },
+    {
+      "id": "3b5f2688fec1",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-01T17:00:00.000Z"
+    },
+    {
+      "id": "309be27bdcfe",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-01T13:00:00.000Z"
+    },
+    {
+      "id": "0a4287f3fdf6",
+      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+      "summary": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "source": "Cloudflare Blog",
+      "category": "基础设施",
+      "language": "en",
+      "publishedAt": "2026-09-01T12:59:00.000Z"
+    },
+    {
+      "id": "50e05f9b472e",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "id": "04abefa53c90",
+      "title": "Compute that takes any shape",
+      "summary": "Workloads differ in how long they run, how much memory they take, and how much of the environment they control. That previously meant a different compute primitive for each job,…",
+      "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-01T07:00:00.000Z"
+    },
+    {
+      "id": "631a857c7a24",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-01T01:00:00.000Z"
+    },
+    {
+      "id": "85562dc16345",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "d6b11fd3ea73",
+      "title": "Qwen 3.8 Max 0902 now available on AI Gateway",
+      "summary": "Qwen 3.8 Max 0902 from Alibaba is now available on AI Gateway. This is a new snapshot of Qwen 3.8 Max, with the gains concentrated in coding on larger projects, long-horizon work…",
+      "url": "https://vercel.com/changelog/qwen-3-8-max-0902-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "a1abafa8de2b",
+      "title": "Claude Fable 5.1 now available on AI Gateway",
+      "summary": "Claude Fable 5.1 from Anthropic is now available on AI Gateway. Fable 5.1 improvements compared to previous Claude models are concentrated in long, multi-stage work like agentic…",
+      "url": "https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "c0bf3557f969",
+      "title": "AWS PrivateLink is now available on Pro and Enterprise",
+      "summary": "AWS PrivateLink is now available for Pro and Enterprise teams as part of Advanced Networking. It allows Vercel Functions and builds to connect to AWS-hosted services without send…",
+      "url": "https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "26ace185f75e",
+      "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
+      "summary": "Bot operators have historically had the economic advantage, bypassing static, deterministic detection rules with cheap proxies and retooling. Cloudflare's new Adaptive Intelligen…",
+      "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+      "source": "Cloudflare Blog",
+      "category": "基础设施",
+      "language": "en",
+      "publishedAt": "2026-08-31T12:59:00.000Z"
+    },
+    {
+      "id": "0703988e3a33",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI News",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "id": "729237127098",
+      "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+      "summary": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operator…",
+      "url": "https://blog.cloudflare.com/botbase-for-operators/",
+      "source": "Cloudflare Blog",
+      "category": "基础设施",
+      "language": "en",
+      "publishedAt": "2026-08-28T12:59:44.000Z"
+    },
+    {
+      "id": "b0b2c2da12a5",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "summary": "",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face Blog",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "0dcbe6606195",
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "summary": "Five Rust-level memory optimizations to the DNS cache layout of Big Pineapple cut per-entry memory by 56%, freeing approximately 100 TB of memory across Cloudflare's fleet.",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "source": "Cloudflare Blog",
+      "category": "基础设施",
+      "language": "en",
+      "publishedAt": "2026-08-27T17:02:35.000Z"
+    },
+    {
+      "id": "a13e39d4fa54",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "category": "AI研究",
+      "language": "en",
+      "publishedAt": "2026-08-27T16:11:32.000Z"
+    },
+    {
+      "id": "d9b2bc36ffdf",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "summary": "",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-27T12:59:16.000Z"
+    },
+    {
+      "id": "7cef2b0b38a0",
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate De…",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "source": "GitHub AI & ML",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-08-26T20:12:53.000Z"
+    },
+    {
+      "id": "83abfc082897",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "Google DeepMind",
+      "category": "AI研究",
+      "language": "en",
+      "publishedAt": "2026-08-26T17:01:00.000Z"
+    },
+    {
+      "id": "5309d9655463",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "7414ec688271",
+      "title": "How to evaluate LLMs before production",
+      "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "source": "GitHub AI & ML",
+      "category": "国际",
+      "language": "en",
+      "publishedAt": "2026-08-25T21:35:11.000Z"
+    },
+    {
+      "id": "74043a2c13e4",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-08-25T15:14:14.000Z"
+    },
+    {
+      "id": "f6b26e55a489",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "summary": "",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-08-25T11:39:24.000Z"
+    },
+    {
+      "id": "2983dbf79834",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "summary": "",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "id": "0db6a34f02fa",
+      "title": "The Cloudflare Blog — brought to you by EmDash",
+      "summary": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the fron…",
+      "url": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
+      "source": "Cloudflare Blog",
+      "category": "基础设施",
+      "language": "en",
+      "publishedAt": "2026-08-24T19:00:00.000Z"
+    },
+    {
+      "id": "e7c671b86ed9",
+      "title": "Say it once: Introducing Bot Preference Sync",
+      "summary": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your con…",
+      "url": "https://blog.cloudflare.com/bot-preference-sync/",
+      "source": "Cloudflare Blog",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-21T23:19:57.000Z"
+    },
+    {
+      "id": "06daba08af15",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "language": "en",
+      "publishedAt": "2026-08-21T11:59:48.000Z"
+    },
+    {
+      "id": "bcd3314d2ba2",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "summary": "",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "source": "Hugging Face Blog",
+      "category": "开源",
+      "language": "en",
+      "publishedAt": "2026-08-21T00:00:00.000Z"
     }
   ]
 }
