@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T13:47:45.325Z",
+  "updatedAt": "2026-09-11T17:42:41.957Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -33,11 +33,39 @@
   ],
   "failedCount": 0,
   "translation": {
-    "translated": 0,
-    "reused": 120,
+    "translated": 2,
+    "reused": 118,
     "failed": 0
   },
   "articles": [
+    {
+      "id": "b8f06fc0f836",
+      "title": "Nscale在可能进行首次公开募股（IPO）之前，任命前OpenAI高管Fidji Simo加入董事会",
+      "summary": "OpenAI的二号高管还曾带领Instacart于2023年成功完成首次公开募股（IPO）。",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-11T16:46:25.000Z",
+      "originalTitle": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "originalSummary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "c7d3c8aeae42",
+      "title": "快速扩展在线存储容量，以满足超过10亿名ChatGPT用户的需求",
+      "summary": "了解 OpenAI 如何将 Habitat 从一个 Python 库发展成为一个全球分布式存储平台，为 10 亿 ChatGPT 用户提供服务，并每秒处理 2200 万次请求。",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI News",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "originalTitle": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "originalSummary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
     {
       "id": "31c8ff759101",
       "title": "黄仁勋解释了为何英伟达明年的增长率将高达70%",
@@ -455,20 +483,6 @@
       "publishedAt": "2026-09-09T17:00:00.000Z",
       "originalTitle": "Paul Christiano joins OpenAI Foundation Board",
       "originalSummary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "e4d7a91899aa",
-      "title": "超级智能即将到来。我们应该允许它出现吗？",
-      "summary": "人工智能公司一直将超级智能AI视为必然趋势，但近期发生的安全事件——例如OpenAI的Hugging Face数据泄露事件——正揭示出其潜在的危险……",
-      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "source": "TechCrunch AI",
-      "category": "开源",
-      "language": "en",
-      "publishedAt": "2026-09-09T16:05:35.000Z",
-      "originalTitle": "Superintelligence is coming. Should we let it?",
-      "originalSummary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dange…",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -1701,20 +1715,6 @@
       "publishedAt": "2026-08-21T23:19:57.000Z",
       "originalTitle": "Say it once: Introducing Bot Preference Sync",
       "originalSummary": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your con…",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "06daba08af15",
-      "title": "从雅达利到《EVE Online》：基于15年游戏人工智能研究的积累",
-      "summary": "谷歌DeepMind与游戏工作室合作，共同开发突破性AI游戏玩法的原型。",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "Google DeepMind",
-      "category": "AI研究",
-      "language": "en",
-      "publishedAt": "2026-08-21T11:59:48.000Z",
-      "originalTitle": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "originalSummary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
       "translated": true,
       "translationProvider": "deepl"
     }
