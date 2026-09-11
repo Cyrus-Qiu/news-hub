@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T02:28:03.278Z",
+  "updatedAt": "2026-09-11T02:44:32.434Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -32,6 +32,11 @@
     }
   ],
   "failedCount": 0,
+  "translation": {
+    "translated": 0,
+    "reused": 0,
+    "failed": 120
+  },
   "articles": [
     {
       "id": "31c8ff759101",
