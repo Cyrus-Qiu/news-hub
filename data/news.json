@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T17:42:41.957Z",
+  "updatedAt": "2026-09-11T20:53:08.506Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Vercel",
-      "count": 24
+      "count": 26
     },
     {
       "name": "Cloudflare Blog",
@@ -33,11 +33,81 @@
   ],
   "failedCount": 0,
   "translation": {
-    "translated": 2,
-    "reused": 118,
+    "translated": 7,
+    "reused": 113,
     "failed": 0
   },
   "articles": [
+    {
+      "id": "c9bc20e4988d",
+      "title": "距离在TechCrunch Disrupt 2026预订展位仅剩一周时间",
+      "summary": "距离预订展位仅剩一周时间。展位数量有限，可能在9月18日截止日期前售罄。",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-11T20:33:18.000Z",
+      "originalTitle": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "originalSummary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "54bc95a279e4",
+      "title": "TechCrunch Disrupt 2026 配套活动最后、最后、最后一次征集通知",
+      "summary": "申请承办 2026 年 TechCrunch Disrupt 大会官方配套活动的最后截止时间是今晚（9 月 11 日）太平洋时间晚上 11:59。",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-11T20:30:17.000Z",
+      "originalTitle": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "originalSummary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "83e605502ca5",
+      "title": "Kimi开发公司Moonshot AI的目标是实现20亿美元的年营收",
+      "summary": "尽管K3的使用量在近几个月略有下降，但OpenRouter的数据目前显示，系统上的K3模型每天生成的代币数量高达3000亿枚。",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-11T19:35:54.000Z",
+      "originalTitle": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "originalSummary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "0c8057bddc5c",
+      "title": "一位Anthropic研究人员的“世界末日”警告出现在一个非常耐人寻味的时刻",
+      "summary": "本周，一名Anthropic的研究人员辞职，并在X平台的一篇帖子中警告称，该公司正在“一头扎进自我提升型超级智能的研发，拿我们的生命在赌博”。该公司……",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-11T18:41:49.000Z",
+      "originalTitle": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "originalSummary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The comp…",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "c44b2451dba4",
+      "title": "营销运营即代码：在 GitHub 上实现从活动策划到后续跟进的全流程自动化",
+      "summary": "如果你能把自己的工作流程写下来，就能将其自动化。以下是我为支持 GitHub 亚太区（APAC）市场营销团队所采取的措施。这篇博文《营销运营即代码：从……开始自动化活动》……",
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "source": "GitHub AI & ML",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-11T18:26:10.000Z",
+      "originalTitle": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "originalSummary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from…",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
     {
       "id": "b8f06fc0f836",
       "title": "Nscale在可能进行首次公开募股（IPO）之前，任命前OpenAI高管Fidji Simo加入董事会",
@@ -63,6 +133,34 @@
       "publishedAt": "2026-09-11T10:00:00.000Z",
       "originalTitle": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "originalSummary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "965b61b7ff86",
+      "title": "Featured 的用户如何在 Vercel 上每月发布 10 万份媒体推广提案",
+      "summary": "Vercel 专题报道：3 名工程师在 Vercel 上为 3 个品牌和 10 万多名用户提供支持；将 374 个 Sanity 站点从 AWS Elastic Beanstalk 迁移至 Vercel；AI SDK 和 AI Gateway 赋能各项功能……",
+      "url": "https://vercel.com/blog/how-featureds-users-make-100k-media-pitches-per-month-on-vercel",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-11T04:00:00.000Z",
+      "originalTitle": "How Featured's users make 100K media pitches per month on Vercel",
+      "originalSummary": "Featured on Vercel 3 engineers supporting 3 brands and 100,000+ users on Vercel Migrated 374 Sanity sites from AWS Elastic Beanstalk to Vercel AI SDK and AI Gateway power Feature…",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "3e69699e2c70",
+      "title": "Tailscale 如何在 AI Gateway 上构建面向客户的模型路由器",
+      "summary": "Tailscale 在 Vercel 平台上向客户的产品中交付了数百个 AI 模型，通过 tailnet 网络身份授予和撤销模型访问权限，从模型路由原型发展到付费服务……",
+      "url": "https://vercel.com/blog/how-tailscale-built-a-customer-facing-model-router-on-ai-gateway",
+      "source": "Vercel",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-11T04:00:00.000Z",
+      "originalTitle": "How Tailscale built a customer-facing model router on AI Gateway",
+      "originalSummary": "Tailscale on Vercel Hundreds of AI models shipped to customers in-product Model access granted and revoked by tailnet network identity Went from model routing prototype to paying…",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -413,62 +511,6 @@
       "publishedAt": "2026-09-09T20:03:43.000Z",
       "originalTitle": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
       "originalSummary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "7522d1a44966",
-      "title": "苹果新款折叠屏手机的铰链是借助人工智能技术打造的",
-      "summary": "苹果表示，在备受期待的折叠屏手机的生产过程中，该公司运用了人工智能和3D打印技术。",
-      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-09T19:21:48.000Z",
-      "originalTitle": "The hinge for Apple’s new foldable phone was built with AI",
-      "originalSummary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "6e5ebd9079dc",
-      "title": "苹果全新改版的“健康”应用将计算你的“健康年龄”和健康准备度评分",
-      "summary": "此次更新利用 Apple Intelligence 来更深入地分析您的健康数据。",
-      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-09T18:16:29.000Z",
-      "originalTitle": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "originalSummary": "The update uses Apple Intelligence to make better sense of your health data.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "83655f368aed",
-      "title": "苹果推出了一种新方法，用来证明你的iPhone照片并非AI生成的粗制滥造之作",
-      "summary": "苹果推出了“Apple Reference Image”功能，旨在帮助用户判断照片是否经过编辑，包括由人工智能进行的修改。",
-      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-09T18:08:35.000Z",
-      "originalTitle": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "originalSummary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "357dc0e4f8bc",
-      "title": "苹果首席执行官约翰·特纳斯表示，目前最好的AI设备依然是iPhone",
-      "summary": "该公司还辩称，其设备端模型能为消费者提供更多的隐私保护。",
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-09T17:36:05.000Z",
-      "originalTitle": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "originalSummary": "The company also argued that its on-device models offer consumers more privacy.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -1673,48 +1715,6 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "originalTitle": "Introducing the Admin plugin for ChatGPT Work and Codex",
       "originalSummary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "2983dbf79834",
-      "title": "连接、运行、部署：Gradio 中的 AI 工作流",
-      "summary": "",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "source": "Hugging Face Blog",
-      "category": "开源",
-      "language": "en",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "originalTitle": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "originalSummary": "",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "df015003760c",
-      "title": "借助 Kiro 中的 GPT‑5.6，为开发者提升性价比",
-      "summary": "GPT‑5.6 现已在 Kiro 上推出，可帮助开发者以更优的性价比进行软件的规划、构建、审查和测试。",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI News",
-      "category": "AI模型",
-      "language": "en",
-      "publishedAt": "2026-08-24T12:00:00.000Z",
-      "originalTitle": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "originalSummary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "e7c671b86ed9",
-      "title": "只需说一次：Bot Preference Sync 正式上线",
-      "summary": "Cloudflare 的新功能“机器人偏好同步”可自动将您的 robots.txt 文件与针对搜索、代理和训练的 AI 机器人策略保持一致。轻松管理哪些机器人可以访问您的内容……",
-      "url": "https://blog.cloudflare.com/bot-preference-sync/",
-      "source": "Cloudflare Blog",
-      "category": "AI研究",
-      "language": "en",
-      "publishedAt": "2026-08-21T23:19:57.000Z",
-      "originalTitle": "Say it once: Introducing Bot Preference Sync",
-      "originalSummary": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your con…",
       "translated": true,
       "translationProvider": "deepl"
     }
