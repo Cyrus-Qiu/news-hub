@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T05:06:58.741Z",
+  "updatedAt": "2026-09-11T09:35:57.038Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -33,8 +33,8 @@
   ],
   "failedCount": 0,
   "translation": {
-    "translated": 0,
-    "reused": 120,
+    "translated": 1,
+    "reused": 119,
     "failed": 0
   },
   "articles": [
@@ -62,7 +62,7 @@
       "language": "en",
       "publishedAt": "2026-09-10T21:35:00.000Z",
       "originalTitle": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "originalSummary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "originalSummary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -263,20 +263,6 @@
       "translationProvider": "deepl"
     },
     {
-      "id": "2b26a8066576",
-      "title": "介绍 Agents API",
-      "summary": "使用 Agents API 构建和启动云代理，该 API 是一项由 Codex 框架驱动的托管服务，用于协调、长期会话和工具使用。",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI News",
-      "category": "AI编程",
-      "language": "en",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "originalTitle": "Introducing the Agents API",
-      "originalSummary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
       "id": "4e410dad70fb",
       "title": "利用 API 中的 GPT‑Live‑1 打造更自然的语音体验",
       "summary": "GPT‑Live‑1 为 API 带来了自然、全双工的语音对话功能，具备更强的指令遵循能力、自定义语音以及电话通信支持。",
@@ -287,6 +273,20 @@
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "originalTitle": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "originalSummary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "2b26a8066576",
+      "title": "介绍 Agents API",
+      "summary": "使用 Agents API 构建和启动云代理，该 API 是一项由 Codex 框架驱动的托管服务，用于协调、长期会话和工具使用。",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI News",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "originalTitle": "Introducing the Agents API",
+      "originalSummary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -837,20 +837,6 @@
       "translationProvider": "deepl"
     },
     {
-      "id": "be4a3c542626",
-      "title": "Legora 借助 GPT-6 Astra，在几分钟内审阅了 41 份文件",
-      "summary": "在此次财务审查工作流程中，Legora利用GPT-6 Astra在几分钟内审查了41份文件，发现了所有4处故意植入的错误，并将工作效率提高了近40%。",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI News",
-      "category": "AI模型",
-      "language": "en",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "originalTitle": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "originalSummary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
       "id": "7a45b185cff5",
       "title": "Playco借助GPT-6 Astra，将游戏原型制作中的人工修正工作减少了50%",
       "summary": "借助 GPT-6 Astra，Playco 以一个“灰盒”基础构建了三个主题游戏原型，并与上一代模型相比，手动修复次数减少了 50%。",
@@ -861,6 +847,20 @@
       "publishedAt": "2026-09-03T12:00:00.000Z",
       "originalTitle": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "originalSummary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "be4a3c542626",
+      "title": "Legora 借助 GPT-6 Astra，在几分钟内审阅了 41 份文件",
+      "summary": "在此次财务审查工作流程中，Legora利用GPT-6 Astra在几分钟内审查了41份文件，发现了所有4处故意植入的错误，并将工作效率提高了近40%。",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI News",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "originalTitle": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "originalSummary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "translated": true,
       "translationProvider": "deepl"
     },
