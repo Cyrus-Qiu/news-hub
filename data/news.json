@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T17:24:32.779Z",
+  "updatedAt": "2026-09-12T19:36:44.147Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -54,15 +54,15 @@
     },
     {
       "id": "7658eb64cf66",
-      "title": "Anthropic首席执行官概述了“开拓前沿”的计划",
-      "summary": "“在边疆巡逻”实际上会是怎样的情景呢？",
+      "title": "Anthropic首席执行官概述了放缓人工智能发展的计划",
+      "summary": "Anthropic公司的达里奥·阿莫德伊（Dario Amodei）和OpenAI公司的萨姆·阿尔特曼（Sam Altman）似乎都认为，现在是时候“在前沿领域稳步推进”了。这实际上会是什么样子呢？",
       "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
       "source": "TechCrunch AI",
       "category": "行业动态",
       "language": "en",
-      "publishedAt": "2026-09-12T15:52:11.000Z",
-      "originalTitle": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "originalSummary": "What would it actually look like to \"pace the frontier\"?",
+      "publishedAt": "2026-09-12T19:34:44.000Z",
+      "originalTitle": "Anthropic CEO outlines plan to slow AI development",
+      "originalSummary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
       "translated": true,
       "translationProvider": "deepl"
     },
