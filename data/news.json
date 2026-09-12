@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T14:19:54.045Z",
+  "updatedAt": "2026-09-12T17:24:32.779Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -33,8 +33,8 @@
   ],
   "failedCount": 0,
   "translation": {
-    "translated": 0,
-    "reused": 120,
+    "translated": 1,
+    "reused": 119,
     "failed": 0
   },
   "articles": [
@@ -49,6 +49,20 @@
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "originalSummary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "7658eb64cf66",
+      "title": "Anthropic首席执行官概述了“开拓前沿”的计划",
+      "summary": "“在边疆巡逻”实际上会是怎样的情景呢？",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-12T15:52:11.000Z",
+      "originalTitle": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "originalSummary": "What would it actually look like to \"pace the frontier\"?",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -525,20 +539,6 @@
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "originalTitle": "Tako Search is free on AI Gateway through September 30",
       "originalSummary": "Tako Search is free exclusively on AI Gateway through September 30. It lets AI models search Tako's curated data and the live web, filter web results by domain or publication dat…",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "2d26331197e7",
-      "title": "OpenAI 聘请了一位知名的“AI末日论者”加入其董事会",
-      "summary": "保罗·克里斯蒂亚诺（Paul Christiano）是一位专注于对齐问题且颇具影响力的AI研究员，他将加入OpenAI基金会，担任董事会成员。",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "source": "TechCrunch AI",
-      "category": "AI研究",
-      "language": "en",
-      "publishedAt": "2026-09-09T22:25:22.000Z",
-      "originalTitle": "OpenAI adds a prominent AI doomer to its board of directors",
-      "originalSummary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
       "translated": true,
       "translationProvider": "deepl"
     },
