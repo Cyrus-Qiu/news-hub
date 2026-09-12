@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T19:36:44.147Z",
+  "updatedAt": "2026-09-12T21:36:33.388Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -49,6 +49,20 @@
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "originalSummary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "e82b8a9af4fd",
+      "title": "OpenAI的萨姆·阿尔特曼表示，2026年上市将“不妥”",
+      "summary": "尽管OpenAI已秘密提交了IPO申请，但据首席执行官萨姆·阿尔特曼称，该公司今年不会上市。",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-12T20:19:16.000Z",
+      "originalTitle": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "originalSummary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -455,20 +469,6 @@
       "publishedAt": "2026-09-10T07:00:00.000Z",
       "originalTitle": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
       "originalSummary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "c1f34cbe9cec",
-      "title": "人工智能初创公司Listen Labs因与Salesforce的谈判而取消了一轮15亿美元的融资",
-      "summary": "据消息人士透露，Listen Labs 已放弃了 Menlo Ventures 签署的 C 轮融资条款清单。",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "source": "TechCrunch AI",
-      "category": "AI研究",
-      "language": "en",
-      "publishedAt": "2026-09-10T00:00:37.000Z",
-      "originalTitle": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "originalSummary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
       "translated": true,
       "translationProvider": "deepl"
     },
