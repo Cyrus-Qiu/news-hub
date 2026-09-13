@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T19:19:50.777Z",
+  "updatedAt": "2026-09-13T21:36:46.509Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -49,6 +49,20 @@
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "originalSummary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "89769e5f1d2d",
+      "title": "人工智能行业最近发出的末日警告背后究竟隐藏着什么？",
+      "summary": "在《Equity》节目中，我们探讨了人工智能行业关于其是否对人类构成生存威胁的最新争论。",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-13T19:40:15.000Z",
+      "originalTitle": "What’s behind the AI industry’s latest warnings of doom?",
+      "originalSummary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -427,20 +441,6 @@
       "publishedAt": "2026-09-10T15:00:00.000Z",
       "originalTitle": "Now everyone can put data to work",
       "originalSummary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "70dbdcfd0be5",
-      "title": "人工智能代理正向公共服务系统涌入大量新请求",
-      "summary": "“我们发现的大多数案例都是，有权就某事提出索赔的人，正在就该事项提出索赔，”这位研究人员对TechCrunch表示。",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-10T14:53:50.000Z",
-      "originalTitle": "AI agents are flooding public services with new requests",
-      "originalSummary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
       "translated": true,
       "translationProvider": "deepl"
     },
