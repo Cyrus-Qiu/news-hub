@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T06:56:39.070Z",
+  "updatedAt": "2026-09-14T13:53:00.295Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -33,8 +33,8 @@
   ],
   "failedCount": 0,
   "translation": {
-    "translated": 0,
-    "reused": 120,
+    "translated": 1,
+    "reused": 119,
     "failed": 0
   },
   "articles": [
@@ -473,6 +473,20 @@
       "translationProvider": "deepl"
     },
     {
+      "id": "2b26a8066576",
+      "title": "介绍 Agents API",
+      "summary": "使用 Agents API 构建和启动云代理，该 API 是一项由 Codex 框架驱动的托管服务，用于协调、长期会话和工具使用。",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI News",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "originalTitle": "Introducing the Agents API",
+      "originalSummary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
       "id": "4e410dad70fb",
       "title": "利用 API 中的 GPT‑Live‑1 打造更自然的语音体验",
       "summary": "GPT‑Live‑1 为 API 带来了自然、全双工的语音对话功能，具备更强的指令遵循能力、自定义语音以及电话通信支持。",
@@ -487,16 +501,16 @@
       "translationProvider": "deepl"
     },
     {
-      "id": "2b26a8066576",
-      "title": "介绍 Agents API",
-      "summary": "使用 Agents API 构建和启动云代理，该 API 是一项由 Codex 框架驱动的托管服务，用于协调、长期会话和工具使用。",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI News",
-      "category": "AI编程",
+      "id": "d4e55a9164f4",
+      "title": "跨HF任务的基于LoRA的异步GRPO：一个桶、一个代理，且不使用NCCL",
+      "summary": "",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "source": "Hugging Face Blog",
+      "category": "开源",
       "language": "en",
       "publishedAt": "2026-09-10T00:00:00.000Z",
-      "originalTitle": "Introducing the Agents API",
-      "originalSummary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "originalTitle": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "originalSummary": "",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -1523,20 +1537,6 @@
       "translationProvider": "deepl"
     },
     {
-      "id": "cdfc10030b4b",
-      "title": "学习永无止境：人工智能如何让学习成为一种持续的过程",
-      "summary": "OpenAI 的新报告探讨了学生和教育工作者如何利用 ChatGPT 使学习更加连贯，其支持范围已延伸至课堂之外。",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "category": "AI模型",
-      "language": "en",
-      "publishedAt": "2026-08-26T10:00:00.000Z",
-      "originalTitle": "Learning never stops: How AI makes learning continuous",
-      "originalSummary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
       "id": "d6bb1031e66b",
       "title": "将“ChatGPT for Teachers”推广到更多的美国学区",
       "summary": "“ChatGPT for Teachers”正扩展至美国55个学区，为另外10多万名教育工作者和工作人员提供安全的人工智能工具、培训和支持。",
@@ -1547,6 +1547,20 @@
       "publishedAt": "2026-08-26T10:00:00.000Z",
       "originalTitle": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "originalSummary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "cdfc10030b4b",
+      "title": "学习永无止境：人工智能如何让学习成为一种持续的过程",
+      "summary": "OpenAI 的新报告探讨了学生和教育工作者如何利用 ChatGPT 使学习更加连贯，其支持范围已延伸至课堂之外。",
+      "url": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI News",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-08-26T10:00:00.000Z",
+      "originalTitle": "Learning never stops: How AI makes learning continuous",
+      "originalSummary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -1701,20 +1715,6 @@
       "publishedAt": "2026-08-25T07:05:00.000Z",
       "originalTitle": "The full stack behind abundant intelligence",
       "originalSummary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "9ad99bb5f40a",
-      "title": "Jalapeño的首批测试结果显示，其在AI推理方面具备业界领先的速度和效率",
-      "summary": "Jalapeño 是 OpenAI 推出的一款定制推理芯片，可提供更快、更节能的人工智能推理，为现代模型带来更高的吞吐量和更低的延迟。",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI News",
-      "category": "基础设施",
-      "language": "en",
-      "publishedAt": "2026-08-25T07:00:00.000Z",
-      "originalTitle": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "originalSummary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "translated": true,
       "translationProvider": "deepl"
     }
