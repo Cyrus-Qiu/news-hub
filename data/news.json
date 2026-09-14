@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T19:15:08.977Z",
+  "updatedAt": "2026-09-14T22:42:34.661Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -33,11 +33,39 @@
   ],
   "failedCount": 0,
   "translation": {
-    "translated": 9,
-    "reused": 111,
+    "translated": 3,
+    "reused": 117,
     "failed": 0
   },
   "articles": [
+    {
+      "id": "2b3aa79e4244",
+      "title": "英伟达首席执行官黄仁勋对特朗普表示：“我们绝不会让[人工智能发展放缓]发生”",
+      "summary": "尽管埃隆·马斯克和萨姆·阿尔特曼都支持达里奥·阿莫德伊关于放缓人工智能发展步伐的呼吁，但黄仁勋似乎持不同看法。",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-14T21:51:02.000Z",
+      "originalTitle": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "originalSummary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "8fa040b2b2e2",
+      "title": "据报道，OpenAI以3亿美元收购智能手机摄像头制造商Glass Imaging",
+      "summary": "Glass Imaging 由两位前苹果工程师创立，他们此前曾领导开发苹果“人像模式”的团队。",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-14T20:44:14.000Z",
+      "originalTitle": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "originalSummary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
     {
       "id": "f7b5c9275411",
       "title": "随着 iOS 27 的发布，我实际上又开始使用 Siri 了",
@@ -97,14 +125,14 @@
     {
       "id": "9566a3a75d81",
       "title": "随着生产力平台积极推动“自主工作”模式，Superhuman收购了获得YC投资的笔记应用Fathom",
-      "summary": "Fathom表示，其月活跃用户超过40万。",
+      "summary": "这款笔记应用提供了一项功能丰富的免费套餐，这使其月活跃用户数超过了40万。该公司表示，迄今为止已有超过100万人使用该应用录制了会议。",
       "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
       "source": "TechCrunch AI",
       "category": "行业动态",
       "language": "en",
       "publishedAt": "2026-09-14T14:45:44.000Z",
       "originalTitle": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "originalSummary": "Fathom said that it has over 400,000 monthly active users.",
+      "originalSummary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -319,20 +347,6 @@
       "translationProvider": "deepl"
     },
     {
-      "id": "0c8057bddc5c",
-      "title": "一位Anthropic研究人员的“世界末日”警告出现在一个非常耐人寻味的时刻",
-      "summary": "本周，一名Anthropic的研究人员辞职，并在X平台的一篇帖子中警告称，该公司正在“一头扎进自我提升型超级智能的研发，拿我们的生命在赌博”。该公司……",
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-11T18:41:49.000Z",
-      "originalTitle": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "originalSummary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The comp…",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
       "id": "c44b2451dba4",
       "title": "营销运营即代码：在 GitHub 上实现从活动策划到后续跟进的全流程自动化",
       "summary": "如果你能把自己的工作流程写下来，就能将其自动化。以下是我为支持 GitHub 亚太区（APAC）市场营销团队所采取的措施。这篇博文《营销运营即代码：从……开始自动化活动》……",
@@ -343,20 +357,6 @@
       "publishedAt": "2026-09-11T18:26:10.000Z",
       "originalTitle": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "originalSummary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from…",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "b8f06fc0f836",
-      "title": "Nscale在可能进行首次公开募股（IPO）之前，任命前OpenAI高管Fidji Simo加入董事会",
-      "summary": "OpenAI的二号高管还曾带领Instacart于2023年成功完成首次公开募股（IPO）。",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-11T16:46:25.000Z",
-      "originalTitle": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "originalSummary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -501,20 +501,6 @@
       "translationProvider": "deepl"
     },
     {
-      "id": "2b26a8066576",
-      "title": "介绍 Agents API",
-      "summary": "使用 Agents API 构建和启动云代理，该 API 是一项由 Codex 框架驱动的托管服务，用于协调、长期会话和工具使用。",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI News",
-      "category": "AI编程",
-      "language": "en",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "originalTitle": "Introducing the Agents API",
-      "originalSummary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
       "id": "4e410dad70fb",
       "title": "利用 API 中的 GPT‑Live‑1 打造更自然的语音体验",
       "summary": "GPT‑Live‑1 为 API 带来了自然、全双工的语音对话功能，具备更强的指令遵循能力、自定义语音以及电话通信支持。",
@@ -525,6 +511,20 @@
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "originalTitle": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "originalSummary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "2b26a8066576",
+      "title": "介绍 Agents API",
+      "summary": "使用 Agents API 构建和启动云代理，该 API 是一项由 Codex 框架驱动的托管服务，用于协调、长期会话和工具使用。",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI News",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "originalTitle": "Introducing the Agents API",
+      "originalSummary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "translated": true,
       "translationProvider": "deepl"
     },
