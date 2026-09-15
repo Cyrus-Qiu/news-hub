@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T06:36:59.406Z",
+  "updatedAt": "2026-09-15T12:04:20.260Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -38,6 +38,20 @@
     "failed": 0
   },
   "articles": [
+    {
+      "id": "299b03bdc911",
+      "title": "Salesforce 和英伟达的新推理模型正是各家人工智能实验室应该警惕的",
+      "summary": "Salesforce Koa 基于英伟达的开放权重 Nemotron 模型构建，并经过训练可处理销售、市场营销和客户支持任务。",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "source": "TechCrunch AI",
+      "category": "AI研究",
+      "language": "en",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "originalTitle": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "originalSummary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing and customer-support tasks.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
     {
       "id": "cf4c6f0aac19",
       "title": "黄仁勋接听了特朗普的电话，还展示了一些其他东西",
@@ -343,20 +357,6 @@
       "publishedAt": "2026-09-11T20:33:18.000Z",
       "originalTitle": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
       "originalSummary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "54bc95a279e4",
-      "title": "TechCrunch Disrupt 2026 配套活动最后、最后、最后一次征集通知",
-      "summary": "申请承办 2026 年 TechCrunch Disrupt 大会官方配套活动的最后截止时间是今晚（9 月 11 日）太平洋时间晚上 11:59。",
-      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-11T20:30:17.000Z",
-      "originalTitle": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "originalSummary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
       "translated": true,
       "translationProvider": "deepl"
     },
