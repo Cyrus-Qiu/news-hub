@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T16:51:07.461Z",
+  "updatedAt": "2026-09-15T20:09:19.652Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Vercel",
-      "count": 26
+      "count": 25
     },
     {
       "name": "Cloudflare Blog",
@@ -33,11 +33,81 @@
   ],
   "failedCount": 0,
   "translation": {
-    "translated": 10,
-    "reused": 110,
+    "translated": 6,
+    "reused": 114,
     "failed": 0
   },
   "articles": [
+    {
+      "id": "34fe49b40428",
+      "title": "AI坟场：一份不断更新的失败项目和初创公司清单",
+      "summary": "从苹果一再推迟的Siri人工智能项目，到OpenAI混乱的“超级应用”发布，以下盘点了那些已终止或未达预期的AI项目。",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "category": "AI产品",
+      "language": "en",
+      "publishedAt": "2026-09-15T19:00:00.000Z",
+      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "originalSummary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "b6484e13d52c",
+      "title": "到2035年，美国数据中心的天然气消耗量可能超过德国和日本的总和",
+      "summary": "人工智能热潮可能会推动美国数据中心成为全球最大的天然气消费方之一。",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-15T18:29:20.000Z",
+      "originalTitle": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "originalSummary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "14a829717309",
+      "title": "AI代理现在有了告密的地方",
+      "summary": "“AI 举报热线”旨在为目睹不当行为的客服人员提供一个可匿名向相关部门举报的渠道。",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-15T17:42:59.000Z",
+      "originalTitle": "AI agents now have a place to snitch",
+      "originalSummary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "f4c3141ce9f2",
+      "title": "介绍 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-15T17:05:57.000Z",
+      "originalTitle": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "originalSummary": "",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "f2ad97ad48d7",
+      "title": "Meta推出以人工智能为重点的新套餐，进一步推进订阅业务",
+      "summary": "Meta One 将该公司AI工具的扩展使用权限与Facebook、Instagram和WhatsApp上的高级功能打包在一起。",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "language": "en",
+      "publishedAt": "2026-09-15T17:05:24.000Z",
+      "originalTitle": "Meta expands subscription push with new AI-focused plans",
+      "originalSummary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
     {
       "id": "16a7b27ed0ae",
       "title": "您的代理出色地完成了任务。它还能再做一次吗？",
@@ -179,6 +249,20 @@
       "translationProvider": "deepl"
     },
     {
+      "id": "f5b57b434edc",
+      "title": "Gemini 3.8 Live 模型现已在 AI Gateway 上推出",
+      "summary": "Google 推出的 Gemini 3.8 Live 和 Gemini 3.8 Live Extended Thinking 现已在 AI Gateway 上线。这两款模型均支持语音助手和对话系统的实时语音交互……",
+      "url": "https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "AI模型",
+      "language": "en",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "originalTitle": "Gemini 3.8 Live models now available on AI Gateway",
+      "originalSummary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking from Google are now available on AI Gateway. Both models support real-time spoken interactions for voice assistants, convers…",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
       "id": "2b3aa79e4244",
       "title": "英伟达首席执行官黄仁勋对特朗普表示：“我们绝不会让[人工智能发展放缓]发生”",
       "summary": "尽管埃隆·马斯克和萨姆·阿尔特曼都支持达里奥·阿莫德伊关于放缓人工智能发展步伐的呼吁，但黄仁勋似乎持不同看法。",
@@ -305,34 +389,6 @@
       "translationProvider": "deepl"
     },
     {
-      "id": "ee684186fa61",
-      "title": "距离在 TechCrunch Disrupt 2026 上参展还有 5 天",
-      "summary": "申请参加9月18日TechCrunch Disrupt 2026展会展位的截止日期为9月18日。仅剩5天。立即锁定您在展览厅的展位，让您的企业面向10,0…",
-      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-14T14:00:00.000Z",
-      "originalTitle": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "originalSummary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,0…",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "02944c8eb547",
-      "title": "涩谷的一家名为“Vinyl Bar”的初创公司由一位曾任Spotify高管的人士创立，致力于开发音乐应用",
-      "summary": "一位前Spotify高管创立的公司发布了一系列实验性“单曲”，让用户参与音乐创作。",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-14T13:55:00.000Z",
-      "originalTitle": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-      "originalSummary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
       "id": "296d33defd03",
       "title": "Fyxer 是如何打造出这款值得信赖的 AI 高管助理的",
       "summary": "Fyxer 利用 OpenAI 模型、微调、记忆功能以及真实用户的反馈，以每位用户独特的语气整理收件箱和草稿邮件。",
@@ -357,34 +413,6 @@
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "originalSummary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "89769e5f1d2d",
-      "title": "人工智能行业最近发出的末日警告背后究竟隐藏着什么？",
-      "summary": "在《Equity》节目中，我们探讨了人工智能行业关于其是否对人类构成生存威胁的最新争论。",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-13T19:40:15.000Z",
-      "originalTitle": "What’s behind the AI industry’s latest warnings of doom?",
-      "originalSummary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "7e363c87d8ff",
-      "title": "奥巴马敦促民主党就人工智能保障措施制定“明确计划”",
-      "summary": "奥巴马最近表示，民主党需要将人工智能列为其“核心议程”之一，并“制定非常明确的计划”，以应对围绕该技术生态……",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-13T16:30:00.000Z",
-      "originalTitle": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "originalSummary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s ec…",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -1593,20 +1621,6 @@
       "translationProvider": "deepl"
     },
     {
-      "id": "d6bb1031e66b",
-      "title": "将“ChatGPT for Teachers”推广到更多的美国学区",
-      "summary": "“ChatGPT for Teachers”正扩展至美国55个学区，为另外10多万名教育工作者和工作人员提供安全的人工智能工具、培训和支持。",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI News",
-      "category": "AI研究",
-      "language": "en",
-      "publishedAt": "2026-08-26T10:00:00.000Z",
-      "originalTitle": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "originalSummary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
       "id": "cdfc10030b4b",
       "title": "学习永无止境：人工智能如何让学习成为一种持续的过程",
       "summary": "OpenAI 的新报告探讨了学生和教育工作者如何利用 ChatGPT 使学习更加连贯，其支持范围已延伸至课堂之外。",
@@ -1617,6 +1631,20 @@
       "publishedAt": "2026-08-26T10:00:00.000Z",
       "originalTitle": "Learning never stops: How AI makes learning continuous",
       "originalSummary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "d6bb1031e66b",
+      "title": "将“ChatGPT for Teachers”推广到更多的美国学区",
+      "summary": "“ChatGPT for Teachers”正扩展至美国55个学区，为另外10多万名教育工作者和工作人员提供安全的人工智能工具、培训和支持。",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "OpenAI News",
+      "category": "AI研究",
+      "language": "en",
+      "publishedAt": "2026-08-26T10:00:00.000Z",
+      "originalTitle": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "originalSummary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -1673,34 +1701,6 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "originalTitle": "Muse Image now available on AI Gateway",
       "originalSummary": "Muse Image from Meta Superintelligence Labs is now available on AI Gateway. It is their first image model and a separate family from Muse Spark, returning images rather than text…",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "13c043a8ee74",
-      "title": "Gemini 3.5 Transcribe 现已在 AI Gateway 上线",
-      "summary": "Google 的 Gemini 3.5 转录功能现已在 AI Gateway 上推出，支持录音和实时音频：google/gemini-3.5-transcribe 可在单次请求中完成整个音频文件的转录。googl…",
-      "url": "https://vercel.com/changelog/gemini-3-5-transcribe-now-available-on-ai-gateway",
-      "source": "Vercel",
-      "category": "AI模型",
-      "language": "en",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "originalTitle": "Gemini 3.5 Transcribe now available on AI Gateway",
-      "originalSummary": "Gemini 3.5 Transcribe from Google is now available on AI Gateway for recorded and live audio: google/gemini-3.5-transcribe transcribes a complete audio file in one request. googl…",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "25442f853302",
-      "title": "Qwen 3.8 Flash 现已在 AI Gateway 上发布",
-      "summary": "Alibaba 发布的 Qwen 3.8 Flash 现已在 AI Gateway 上线。该模型支持文本和图像作为输入，处理 100 万个令牌的上下文窗口，并在单次请求中最多可返回 6.5 万个令牌……",
-      "url": "https://vercel.com/changelog/qwen-3-8-flash-now-available-on-ai-gateway",
-      "source": "Vercel",
-      "category": "AI编程",
-      "language": "en",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "originalTitle": "Qwen 3.8 Flash now available on AI Gateway",
-      "originalSummary": "Qwen 3.8 Flash from Alibaba is now available on AI Gateway. It takes text and images as input, serves a context window of 1 million tokens, and can return up to 65k tokens in a r…",
       "translated": true,
       "translationProvider": "deepl"
     },
