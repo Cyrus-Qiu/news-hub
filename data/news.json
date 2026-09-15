@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:42:34.661Z",
+  "updatedAt": "2026-09-15T01:21:57.361Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -33,8 +33,8 @@
   ],
   "failedCount": 0,
   "translation": {
-    "translated": 3,
-    "reused": 117,
+    "translated": 1,
+    "reused": 119,
     "failed": 0
   },
   "articles": [
@@ -49,6 +49,20 @@
       "publishedAt": "2026-09-14T21:51:02.000Z",
       "originalTitle": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
       "originalSummary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "478b2e531001",
+      "title": "AI SDK 的调用来电层现已支持原生订阅身份验证",
+      "summary": "AI SDK 的连接层现支持通过原生订阅对连接层进行身份验证，前提是底层连接层支持该功能。连接层运行不同的 co…",
+      "url": "https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication",
+      "source": "Vercel",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-14T21:28:00.000Z",
+      "originalTitle": "AI SDK harness layer now supports native subscription authentication",
+      "originalSummary": "The AI SDK harness layer now supports authenticating harnesses through their native subscriptions, where the underlying harness supports them. The harness layer runs different co…",
       "translated": true,
       "translationProvider": "deepl"
     },
@@ -1673,20 +1687,6 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "originalTitle": "Qwen 3.8 Flash now available on AI Gateway",
       "originalSummary": "Qwen 3.8 Flash from Alibaba is now available on AI Gateway. It takes text and images as input, serves a context window of 1 million tokens, and can return up to 65k tokens in a r…",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "b3c7a885ec4b",
-      "title": "GLM 5.3 Flash 现已在 AI Gateway 上发布",
-      "summary": "Z.ai 发布的 GLM 5.3 Flash 现已在 AI Gateway 上架，项目名称为 zai/glm-5.3-flash。GLM 5.3 Flash 是一款具有 100 万令牌上下文窗口的多模态编码模型。它既支持文本，也支持……",
-      "url": "https://vercel.com/changelog/glm-5-3-flash-now-available-on-ai-gateway",
-      "source": "Vercel",
-      "category": "AI编程",
-      "language": "en",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "originalTitle": "GLM 5.3 Flash now available on AI Gateway",
-      "originalSummary": "GLM 5.3 Flash from Z.ai is now available on AI Gateway as zai/glm-5.3-flash . GLM 5.3 Flash is a multimodal coding model with a 1M-token context window. It accepts both text and…",
       "translated": true,
       "translationProvider": "deepl"
     },
