@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T20:09:19.652Z",
+  "updatedAt": "2026-09-15T23:08:09.722Z",
   "updateIntervalMinutes": 30,
   "sources": [
     {
@@ -33,11 +33,39 @@
   ],
   "failedCount": 0,
   "translation": {
-    "translated": 6,
-    "reused": 114,
+    "translated": 2,
+    "reused": 118,
     "failed": 0
   },
   "articles": [
+    {
+      "id": "75fb899a420d",
+      "title": "人工智能数据中心的热潮正与那些因重工业而饱受创伤的城市发生碰撞",
+      "summary": "针对数据中心建设的全国性抗议浪潮已蔓延至费城，当地官员提议在某个社区建设数据中心，而该社区此前已受到一家现已停业的……的影响……",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "source": "TechCrunch AI",
+      "category": "基础设施",
+      "language": "en",
+      "publishedAt": "2026-09-15T21:47:38.000Z",
+      "originalTitle": "The AI data center boom is colliding with cities scarred by big industry",
+      "originalSummary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct o…",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
+    {
+      "id": "4a8be412f345",
+      "title": "Meta 现在允许 AI 代理处理 WhatsApp Business 设置中的繁琐环节",
+      "summary": "全新的 WhatsApp Business MCP 服务器让开发者能够使用 Claude、Cursor、Codex 和 ChatGPT 等 AI 编码助手来处理配置、消息模板、测试和故障排除。",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch AI",
+      "category": "AI编程",
+      "language": "en",
+      "publishedAt": "2026-09-15T20:12:53.000Z",
+      "originalTitle": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "originalSummary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "translated": true,
+      "translationProvider": "deepl"
+    },
     {
       "id": "34fe49b40428",
       "title": "AI坟场：一份不断更新的失败项目和初创公司清单",
@@ -357,34 +385,6 @@
       "publishedAt": "2026-09-14T15:00:00.000Z",
       "originalTitle": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
       "originalSummary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't m…",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "9566a3a75d81",
-      "title": "随着生产力平台积极推动“自主工作”模式，Superhuman收购了获得YC投资的笔记应用Fathom",
-      "summary": "这款笔记应用提供了一项功能丰富的免费套餐，这使其月活跃用户数超过了40万。该公司表示，迄今为止已有超过100万人使用该应用录制了会议。",
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-14T14:45:44.000Z",
-      "originalTitle": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "originalSummary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-      "translated": true,
-      "translationProvider": "deepl"
-    },
-    {
-      "id": "1955107f35f9",
-      "title": "在 2026 年 TechCrunch Disrupt 大会上，了解人工智能如何助力大自然重焕生机",
-      "summary": "不久前，让灭绝物种重获新生还只是科幻小说中的情节。如今，这已成为一家市值十亿美元初创企业的使命。加入这场与科技界某位……的对话……",
-      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "category": "行业动态",
-      "language": "en",
-      "publishedAt": "2026-09-14T14:30:00.000Z",
-      "originalTitle": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "originalSummary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's…",
       "translated": true,
       "translationProvider": "deepl"
     },
